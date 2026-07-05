@@ -1,17 +1,17 @@
 {
-  "status": "ELEVATED",
-  "label": "Elevated tension",
-  "tension_index": 12.6,
+  "status": "OPEN",
+  "label": "Normal traffic",
+  "tension_index": 8.0,
   "closure_signals": 0,
-  "articles_scanned": 224,
-  "updated": "2026-07-05T14:26:40.167271+00:00",
+  "articles_scanned": 222,
+  "updated": "2026-07-05T15:46:09.186357+00:00",
   "headlines": [
     {
       "title": "Efforts to clear estimated 80 Iranian sea mines from Strait of Hormuz to take months, officials say - stripes.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS1F4NzFHeHhvUG5SbUxuRXdjWGExWkZqMGlTSmVLQ0pvWlhsX25tXzM1R015ZzRxUmJPeC1kYml2MElibkREc3FBU0hrRW9ldmpvT0FSd24xOTN5V2pzU3ZZU3VCeU5uQzZ5NVJudmRianc4Z3hfWTJ4Y05LWm9RNUd5ZERCUkE3MExUaUdYUHhSbkdRRS1SbzlmN2VDTnBfSXZBZlBheE10aEE?oc=5",
       "source": "stripes.com",
       "published": "2026-07-02T11:58:48+00:00",
-      "score": 4.32,
+      "score": 4.27,
       "tags": [
         "closure"
       ]
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV3NKMElrTmVXQS1LenJwSnhqcmZlNGxLTG01MDR6bG9LWGpGdnd1blBqZVc2aHVEWUdUUTZFU3FhOURjTG1WY29xVzVBVFBPRUMtS0Q2djF6UzJFN3FFcnRHMUFuUThNMjJpVkhlcG8wSG9JWTU5aHQzdGxEckFOXzMxU1R2LWo0OXNmN3c1Nlc?oc=5",
       "source": "gCaptain",
       "published": "2026-07-04T14:38:02+00:00",
-      "score": 3.0,
+      "score": 2.98,
       "tags": [
         "tension"
       ]
@@ -31,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ2RUTWR2T1d2V1NYN053ZlM3NERTZFdLa1I0RWdzZFZNMU5TYXNjbEJwdUJaYWkyQ3ZzSUROMldmV0pNcEZfb1Z0VFR6d3RLWFhWZUVLck1YOXhxNjIyTEVfc25RMnpVY1NVc3lfN2ZrR0RmdFpLdkZfRDh0RFZjUzZFSzRnY3Z2S2s0amMtN18yUExfVzJQS2hLSWJEMThmdW9QMEdmN1l4NHJyRE5n?oc=5",
       "source": "Marine Insight",
       "published": "2026-07-04T06:32:36+00:00",
-      "score": 2.87,
+      "score": 2.85,
       "tags": [
         "tension"
       ]
@@ -41,7 +41,7 @@
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUUhsV0ZaNHotOFJzNEVvVi1QbjlnT21qQjY0NEF3ZWVrZE5xT2RKMG00bGNWSG8zUWwxUnIzMjNQZTdwbVgxWEdPRG1fNVl5Q1VhV0g0QmJ2UHJXZUc5MExQY1ZwaklUcmZFRDlMSnNyNnA4eW5IN1ZweUN3MW5qY2E0NHVER2ZRczY5WGgwc0hLN1JHQ1RIeXR1VE9vZDJWWERqWXd6aHg2RENWMUt0TS1lNFJibEhUcGE4VzBiUzNhWjJ4eURWNGo1aWhSbmVxMVhB?oc=5",
       "source": "JNS.org",
       "published": "2026-07-02T21:04:52+00:00",
-      "score": 2.31,
+      "score": 2.29,
       "tags": [
         "tension"
       ]
@@ -51,7 +51,7 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWHdUWXEwMnhHYkRxZnN5bGRGVXFhMHh3R2RaMTRkcnRaZE9GVXUzU2plNDJmazFsTDFQQTdGMFh5VHFCblk1djNzRGM1bF9NQXlfb2JxSy1mNDBXQnJaQ2p5QXk1TGRNRGFBd2NTal9ncWJZZWVNZ2UtWkxNa3VFS1B0LTRWNWdhdzk3NUd5clFqZHpGbDR3N3BlVVZ6a0NfVVR5NDY4T2hYV2NYd1g2MmlkYmF2VWpwZ0lV?oc=5",
       "source": "Reuters",
       "published": "2026-07-01T17:59:19+00:00",
-      "score": 1.86,
+      "score": 1.84,
       "tags": [
         "tension"
       ]
@@ -61,7 +61,7 @@
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaHdVVnhNeko2V05ENzBGUWVXLS1CNXg0ZVRjaU43M1htZWVkaFpYS2IzNFhPZU81UGlSNGV4ODZRdUE0eC0yajNjZU9Qd3o0dFVCNndsX2hLREVEZGhqQ3p0Nm9OUUloWmJBdUxrSFhIZGdDSDZRUW5oQk1xa2lnVXBTN01jUmRJbkd4bVlTVEliRGZtU0NtU0ZOaDlvS3J0WGJQT1FlVVI2Q09RMTViVjhVQ2VxaHBLUElodjdZQURVSkVERXUyaG12RHhIMVptbWtjUg?oc=5",
       "source": "Marine Insight",
       "published": "2026-07-01T12:44:26+00:00",
-      "score": 1.77,
+      "score": 1.75,
       "tags": [
         "tension"
       ]
@@ -71,7 +71,7 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYVdxdWtselRSaDVCREJLQ2RqQ3VwSDAwcGNJa3lLVi03QjRtSVhrdjR6dzduU3ZhQnRHUUNoWnh4NHJaTXMtbU1rUDZNMHZRNGhXQ095N2Z2VUo5VU5EQVJPS2VMZXU5c0xvY1d0VENMYUMzS3pBNlRiYzE0Z0ptYTF0STUtVjEyUkZyUndLNzhqYmgwNHROR2UxOThVbHVIQ3lmOWplakVCNko5NXp4OVN1RTdpSkNxTmFobjgtWldMTGNFUzh6dkNMSdIB0AFBVV95cUxQbkRxVTJzMndjalN3Y0NLU1VYS1c4bEVFY3UyRExxdngzUDdrN1FYMlBMVkh3MXk5Y284LTNJWXljMnVwb1p5M0JDcEJfYjFWTFE2ZV9ITl9nYk45eUVNaXZnVnU1Qk9LNUh1WDBIcFMyUDM0bDk3Q0IzRjJBZHY2b2tzYUdPYllBUGlQODdadG9QS202WFpoWFBCV0d3MlJVQ3FsNkxxTUUzOXhtX3FPSTVqTnBteDhUeVlVWjVNSUpNZlFlTUI0TmJSS2JRUXJn?oc=5",
       "source": "Al Arabiya English",
       "published": "2026-07-01T06:49:00+00:00",
-      "score": 1.67,
+      "score": 1.65,
       "tags": [
         "tension"
       ]
@@ -81,7 +81,7 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTGZVUzNsR0loWS1NRVVMZW93WUFVLXlkS0hseDZIV2hLdEJLRGFkUW5rYlA5X0ZLU3BnUGdENk1aUUExemt3bUlTSlRSV0p3VHpfWlJ4cC1vUlExbW5aTlNKX0pHek11UGxQWlpkbFh6NzV0WTkwNzdZbXZXWWUyS3VsMDlMdTdEUDFHSDZvY1Rxejl4TkNFV2UtZG9od09CdjAwZ1htSGdIQ25HVXc?oc=5",
       "source": "Al-Monitor",
       "published": "2026-07-01T02:34:12+00:00",
-      "score": 1.6,
+      "score": 1.58,
       "tags": [
         "tension"
       ]
@@ -91,7 +91,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS25lV1lKcWtseDZJam9DQmxCNGVibFZLWEJCWm84ZkRRYUNwaVV2SkVGcHIyOXZGLVVyTkgzVDFTZ21YYmUwa0R2YWc4dTRBeGN6bWhwU0J0WnQtUkN3R0xkZ1RvaDFnZnd6QWctM3B3SWZIeUNqcjdHcXVxS20yOGU3dE1zZERrRUNSSE12azloSUM2WDBFOHcyUUs1YjdvUWlpNkNNc0xWRWvSAbABQVVfeXFMUDByR0RkZlJyTkdWSWFWNzJQbVhsMC02blppelVkVEdOUVJRWXpmZ1BiNW00cmFhQnMtTzBpblljcVk5M3dHLVdCMXFCaFF5eU5XbXk2SVYwZzNCbzZ5MldpaVlNd1ZKYVV0Q05DWDdlekN6VUtZVEJadm82Z1N6b2tvQUtfSFFCWXg1Yk1NV3BmTlNKTFh3Nmp3X3VITDBOYTRMN0I2VkNwUG53dVJ5QkM?oc=5",
       "source": "The Hill",
       "published": "2026-06-30T17:01:00+00:00",
-      "score": 1.44,
+      "score": 1.42,
       "tags": [
         "tension"
       ]
@@ -101,7 +101,7 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4dWhxSW1xT2lHUkx1SkJGQ25YelU0ZV9SV1hTU1M4YWNkYlI4eEd1UVdTYmJPN0MweWhHUHJGSFdFRnBUcHhnZl80dVp4Sl80Tm5mYWdfcjNWaTg3cUozaG5NMXpyQmc3MkE?oc=5",
       "source": "The Jerusalem Post",
       "published": "2026-06-30T15:30:59+00:00",
-      "score": 1.42,
+      "score": 1.4,
       "tags": [
         "tension"
       ]
@@ -111,7 +111,7 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU0U3WGdJZDRBNFNFb3VFcm5GZ09WSl94OEVaemx1T3ltWGtPUV9DTXlsaVZVRElKMi05RHVLSzI3WGR5UjdLcmx4M2JVaGVCNV9fRjFmNGZYdnlWYzNBakU5bW05Um9wUGEtV0Z5QkpOTDREWGduNTJILTZIQl8xa19PVEZvZ1F6dUFvY2hTdm4ya1NES041RXdJdnBGdHF6N0c1YzZRZGo5Q0lUdVZEWjF2VUVwYjVud0MxLWpIYWNhX2hycDlJdXhzSHg?oc=5",
       "source": "Yahoo Finance",
       "published": "2026-06-29T20:19:42+00:00",
-      "score": 1.1,
+      "score": 1.08,
       "tags": [
         "tension"
       ]
@@ -121,7 +121,7 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd09yUVdNcGpMdk5mS0Jhejd0MnplMGJIMndsMGNaTUZ3UjNJeVRvemJvX2t0bXppVTBKVEVtMHBwY3BNWi1LT0EzUGlZelNGUDd0bnJmdmZGWlk1YXdlTmlBX1pDU3JBRDVCV3NoZnlQVW45eTdweUpGOEx1Z0tSTjRzaEdYckVhNV9UY1AyaTZaMmR3VDNyczRTUkRqZjJlLWxVaFpR?oc=5",
       "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
       "published": "2026-06-29T20:13:03+00:00",
-      "score": 1.1,
+      "score": 1.07,
       "tags": [
         "tension"
       ]
