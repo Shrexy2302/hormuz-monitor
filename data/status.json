@@ -1,10 +1,10 @@
 {
   "status": "ELEVATED",
   "label": "Elevated tension",
-  "tension_index": 23.3,
+  "tension_index": 23.2,
   "closure_signals": 0,
   "articles_scanned": 225,
-  "updated": "2026-07-05T01:29:51.267680+00:00",
+  "updated": "2026-07-05T01:33:11.356127+00:00",
   "headlines": [
     {
       "title": "Efforts to clear estimated 80 Iranian sea mines from Strait of Hormuz to take months, officials say - stripes.com",
@@ -127,5 +127,8 @@
       ]
     }
   ],
-  "brent": null
+  "brent": {
+    "price": 72.13,
+    "change_pct": 0.46
+  }
 }
