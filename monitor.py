@@ -187,21 +187,40 @@ def evaluate(articles: list[dict]) -> dict:
 # ---------------------------------------------------------------- brent
 
 def fetch_brent():
-    """Brent crude futures from stooq.com (free, no key, delayed quotes).
-    Returns {'price': float, 'change_pct': float} or None on failure."""
-    url = 'https://stooq.com/q/l/?s=cb.f&f=sd2t2ohlcv&h&e=csv'
+    """Brent crude price. Tries stooq first, falls back to Yahoo Finance.
+    Returns {'price': float, 'change_pct': float} or None."""
+    headers = {'User-Agent': USER_AGENT}
+
+    # source 1: stooq.com CSV
     try:
-        req = urllib.request.Request(url, headers={'User-Agent': USER_AGENT})
+        url = 'https://stooq.com/q/l/?s=cb.f&f=sd2t2ohlcv&h&e=csv'
+        req = urllib.request.Request(url, headers=headers)
         with urllib.request.urlopen(req, timeout=20) as resp:
             lines = resp.read().decode().strip().splitlines()
-        # header: Symbol,Date,Time,Open,High,Low,Close,Volume
         cols = lines[1].split(',')
         open_p, close_p = float(cols[3]), float(cols[6])
         change = (close_p - open_p) / open_p * 100 if open_p else 0.0
         return {'price': round(close_p, 2), 'change_pct': round(change, 2)}
     except Exception as e:
-        print(f'[warn] brent fetch failed: {e}')
-        return None
+        print(f'[warn] stooq failed: {e}')
+
+    # source 2: Yahoo Finance chart API (Brent futures BZ=F)
+    try:
+        url = ('https://query1.finance.yahoo.com/v8/finance/chart/BZ%3DF'
+               '?range=1d&interval=1d')
+        req = urllib.request.Request(url, headers=headers)
+        with urllib.request.urlopen(req, timeout=20) as resp:
+            data = json.loads(resp.read().decode())
+        meta = data['chart']['result'][0]['meta']
+        price = float(meta['regularMarketPrice'])
+        prev = float(meta.get('chartPreviousClose')
+                     or meta.get('previousClose') or price)
+        change = (price - prev) / prev * 100 if prev else 0.0
+        return {'price': round(price, 2), 'change_pct': round(change, 2)}
+    except Exception as e:
+        print(f'[warn] yahoo failed: {e}')
+
+    return None
 
 
 # ---------------------------------------------------------------- history
