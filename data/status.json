@@ -1,19 +1,72 @@
 {
-  "status": "OPEN",
-  "label": "Normal traffic",
-  "tension_index": 6.6,
+  "status": "ELEVATED",
+  "label": "Elevated tension",
+  "tension_index": 19.3,
   "closure_signals": 0,
-  "articles_scanned": 222,
-  "updated": "2026-07-05T20:08:59.061310+00:00",
+  "articles_scanned": 228,
+  "updated": "2026-07-05T21:32:25.839144+00:00",
   "headlines": [
+    {
+      "title": "Iran announces closure of Strait of Hormuz, cites US and Israeli ceasefire violations - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcGd1RnowV282T1haZzYxWkdGYm00YUhrZk1Qak1QU3l1VlFRNXJETTlwY3RRSFRjQVpkYkNpaUU5S2prM1pVMHBGOVZQc0RtWW4xaFp4RkZRZG9kNjlrU3BhdGJhVHA5S1lfRUxVNVNmMHlUcEJMTXNYYlNEY2F5akt5R0JvcWpiUzA2d1NZT2FRVGN4VVViOTJUcDNlcFVlMENBTndLV3djSXprcjJtMDc2bVZlNkhXczdoc013UVdtLVQ5cUdKVGhLTWI0QnYzQ3VSQnBTM0xoNFdSUjlRc1Y4dw?oc=5",
+      "source": "MSN",
+      "published": "2026-07-03T06:15:16+00:00",
+      "score": 4.69,
+      "tags": [
+        "calm",
+        "closure"
+      ]
+    },
+    {
+      "title": "Fragile Peace Shattered: Iran Re-Closes Strait of Hormuz Citing Ceasefire Breaches - stl.news",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcVVhUzhmWmxfUTh1UHF1b3VBYlVuc0FqdjZGZ0JJUHRYWjJ1NXBuR2pIbjRiREZTLXVhU3ZFWEdWRzNtcnFMVXprbDRMejlnaEw0MHYwaXk1cS1GbWd1RkdyTUNMMWJrandoYXVkNzJvblFMQ2oyaTljU1BYVlBIcXFR?oc=5",
+      "source": "stl.news",
+      "published": "2026-07-02T14:53:38+00:00",
+      "score": 4.18,
+      "tags": [
+        "calm",
+        "closure"
+      ]
+    },
     {
       "title": "Efforts to clear estimated 80 Iranian sea mines from Strait of Hormuz to take months, officials say - stripes.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS1F4NzFHeHhvUG5SbUxuRXdjWGExWkZqMGlTSmVLQ0pvWlhsX25tXzM1R015ZzRxUmJPeC1kYml2MElibkREc3FBU0hrRW9ldmpvT0FSd24xOTN5V2pzU3ZZU3VCeU5uQzZ5NVJudmRianc4Z3hfWTJ4Y05LWm9RNUd5ZERCUkE3MExUaUdYUHhSbkdRRS1SbzlmN2VDTnBfSXZBZlBheE10aEE?oc=5",
       "source": "stripes.com",
       "published": "2026-07-02T11:58:48+00:00",
-      "score": 4.13,
+      "score": 4.08,
       "tags": [
         "closure"
+      ]
+    },
+    {
+      "title": "Iran Rejects Foreign Role In Strait Of Hormuz Mine Clearance, Says It Can Secure Shipping Alone - Marine Insight",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWXVNci1JZFAwTXBEd1RSM3ZtNjhmTm05Nno4cEtfWjdqRTVOZlNpVXFBYmhyTDdJUmMzcFMxNzBvQXNnamFscE5ncWtITUt1emNTb0w4NGZSdzBzYVUtQ0p0cHVoNWR0a3B0TFo4RlZNVDdnVHo2aUtsSGZOTG9VeUcxLWhKRkE0Y0MzZGZ3bEduUEJxWElLc21nRmNQY0JTWFlEV3lVaTdkMTVUVUVOSTV3WVJlYUVuUVhJVzEwejNITXc?oc=5",
+      "source": "Marine Insight",
+      "published": "2026-07-01T12:27:15+00:00",
+      "score": 3.3,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "US launches new strikes on Iran as Tehran declares closure of Strait of Hormuz - Georgia Today",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOHktQzAzZDQ3UjlROVE5ZGVBQnhVZWkxdElUbHJ0bjdLS1RUVE1FQ3N1MnNaZl9IRFNoQThJdFZTUS1XUnZ4MWxVM2RYeWZCUDdpeUllNVRTalotYjFfUVludmZJN183MnpQQm9oeFBENlpZeHNvRWxoV012RmpLMHZuRFVBNm9JejRNcFRjTHp0My1Zck9QZi1ZT25UOGtDSUIzVzJR?oc=5",
+      "source": "Georgia Today",
+      "published": "2026-06-29T13:44:18+00:00",
+      "score": 3.19,
+      "tags": [
+        "closure",
+        "tension"
+      ]
+    },
+    {
+      "title": "Cargo Ship Reports Attack Off Yemen - Radio Free Europe/Radio Liberty",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnhyaS1tS3NVV19VeVRlS1RUeUhFblVCTkRCWmg2Z2YwTW1uR051ZFctc3F2eEcyN29hbkJkLUY3THpPVzVaYVRlcTRybGlrTGVsX3ZvTFJyQmRELVNHckg3Nk9uOUw3V2RyN2lZY0dIMW1jLWVQSUVTdXBTZGpuVE55cDBQcG01?oc=5",
+      "source": "Radio Free Europe/Radio Liberty",
+      "published": "2026-07-05T07:30:00+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
       ]
     },
     {
@@ -21,7 +74,7 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV3NKMElrTmVXQS1LenJwSnhqcmZlNGxLTG01MDR6bG9LWGpGdnd1blBqZVc2aHVEWUdUUTZFU3FhOURjTG1WY29xVzVBVFBPRUMtS0Q2djF6UzJFN3FFcnRHMUFuUThNMjJpVkhlcG8wSG9JWTU5aHQzdGxEckFOXzMxU1R2LWo0OXNmN3c1Nlc?oc=5",
       "source": "gCaptain",
       "published": "2026-07-04T14:38:02+00:00",
-      "score": 2.91,
+      "score": 2.88,
       "tags": [
         "tension"
       ]
@@ -31,7 +84,7 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ2RUTWR2T1d2V1NYN053ZlM3NERTZFdLa1I0RWdzZFZNMU5TYXNjbEJwdUJaYWkyQ3ZzSUROMldmV0pNcEZfb1Z0VFR6d3RLWFhWZUVLck1YOXhxNjIyTEVfc25RMnpVY1NVc3lfN2ZrR0RmdFpLdkZfRDh0RFZjUzZFSzRnY3Z2S2s0amMtN18yUExfVzJQS2hLSWJEMThmdW9QMEdmN1l4NHJyRE5n?oc=5",
       "source": "Marine Insight",
       "published": "2026-07-04T06:32:36+00:00",
-      "score": 2.77,
+      "score": 2.75,
       "tags": [
         "tension"
       ]
@@ -41,7 +94,7 @@
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUUhsV0ZaNHotOFJzNEVvVi1QbjlnT21qQjY0NEF3ZWVrZE5xT2RKMG00bGNWSG8zUWwxUnIzMjNQZTdwbVgxWEdPRG1fNVl5Q1VhV0g0QmJ2UHJXZUc5MExQY1ZwaklUcmZFRDlMSnNyNnA4eW5IN1ZweUN3MW5qY2E0NHVER2ZRczY5WGgwc0hLN1JHQ1RIeXR1VE9vZDJWWERqWXd6aHg2RENWMUt0TS1lNFJibEhUcGE4VzBiUzNhWjJ4eURWNGo1aWhSbmVxMVhB?oc=5",
       "source": "JNS.org",
       "published": "2026-07-02T21:04:52+00:00",
-      "score": 2.22,
+      "score": 2.19,
       "tags": [
         "tension"
       ]
@@ -51,37 +104,17 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWHdUWXEwMnhHYkRxZnN5bGRGVXFhMHh3R2RaMTRkcnRaZE9GVXUzU2plNDJmazFsTDFQQTdGMFh5VHFCblk1djNzRGM1bF9NQXlfb2JxSy1mNDBXQnJaQ2p5QXk1TGRNRGFBd2NTal9ncWJZZWVNZ2UtWkxNa3VFS1B0LTRWNWdhdzk3NUd5clFqZHpGbDR3N3BlVVZ6a0NfVVR5NDY4T2hYV2NYd1g2MmlkYmF2VWpwZ0lV?oc=5",
       "source": "Reuters",
       "published": "2026-07-01T17:59:19+00:00",
-      "score": 1.76,
+      "score": 1.74,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "South Korean Cargo Ship HMM Namu Set To Exit Strait Of Hormuz After Completing Repairs Following May Attack - Marine Insight",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaHdVVnhNeko2V05ENzBGUWVXLS1CNXg0ZVRjaU43M1htZWVkaFpYS2IzNFhPZU81UGlSNGV4ODZRdUE0eC0yajNjZU9Qd3o0dFVCNndsX2hLREVEZGhqQ3p0Nm9OUUloWmJBdUxrSFhIZGdDSDZRUW5oQk1xa2lnVXBTN01jUmRJbkd4bVlTVEliRGZtU0NtU0ZOaDlvS3J0WGJQT1FlVVI2Q09RMTViVjhVQ2VxaHBLUElodjdZQURVSkVERXUyaG12RHhIMVptbWtjUg?oc=5",
-      "source": "Marine Insight",
-      "published": "2026-07-01T12:44:26+00:00",
-      "score": 1.68,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "South Korea cargo ship Namu to exit Strait of Hormuz after attack in Gulf - Al Arabiya English",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYVdxdWtselRSaDVCREJLQ2RqQ3VwSDAwcGNJa3lLVi03QjRtSVhrdjR6dzduU3ZhQnRHUUNoWnh4NHJaTXMtbU1rUDZNMHZRNGhXQ095N2Z2VUo5VU5EQVJPS2VMZXU5c0xvY1d0VENMYUMzS3pBNlRiYzE0Z0ptYTF0STUtVjEyUkZyUndLNzhqYmgwNHROR2UxOThVbHVIQ3lmOWplakVCNko5NXp4OVN1RTdpSkNxTmFobjgtWldMTGNFUzh6dkNMSdIB0AFBVV95cUxQbkRxVTJzMndjalN3Y0NLU1VYS1c4bEVFY3UyRExxdngzUDdrN1FYMlBMVkh3MXk5Y284LTNJWXljMnVwb1p5M0JDcEJfYjFWTFE2ZV9ITl9nYk45eUVNaXZnVnU1Qk9LNUh1WDBIcFMyUDM0bDk3Q0IzRjJBZHY2b2tzYUdPYllBUGlQODdadG9QS202WFpoWFBCV0d3MlJVQ3FsNkxxTUUzOXhtX3FPSTVqTnBteDhUeVlVWjVNSUpNZlFlTUI0TmJSS2JRUXJn?oc=5",
-      "source": "Al Arabiya English",
-      "published": "2026-07-01T06:49:00+00:00",
-      "score": 1.58,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "South Korea cargo ship Namu to exit Strait of Hormuz after attack in Gulf - Al-Monitor",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTGZVUzNsR0loWS1NRVVMZW93WUFVLXlkS0hseDZIV2hLdEJLRGFkUW5rYlA5X0ZLU3BnUGdENk1aUUExemt3bUlTSlRSV0p3VHpfWlJ4cC1vUlExbW5aTlNKX0pHek11UGxQWlpkbFh6NzV0WTkwNzdZbXZXWWUyS3VsMDlMdTdEUDFHSDZvY1Rxejl4TkNFV2UtZG9od09CdjAwZ1htSGdIQ25HVXc?oc=5",
-      "source": "Al-Monitor",
-      "published": "2026-07-01T02:34:12+00:00",
-      "score": 1.51,
+      "title": "After weekend strikes, 40 vessels transit Strait of Hormuz as both nations pause fighting - eciks.org",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMUlBZXByd3VPX0VSVTZSRkRLa08ta2xaclQzeUhYSHNRamtLQVhTMVA2dlZUMF9TUzNQWU5WYjNuRDU3SzZxLS1rZVFnWlctMUd5bkIxbnZsRXpQMnF1UVJtdHdqU0xQX0xUd0ZCWmxKMTk0MzdNR1BfeUIxZ0ZremRnLWE?oc=5",
+      "source": "eciks.org",
+      "published": "2026-06-30T18:05:26+00:00",
+      "score": 1.34,
       "tags": [
         "tension"
       ]
@@ -91,37 +124,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS25lV1lKcWtseDZJam9DQmxCNGVibFZLWEJCWm84ZkRRYUNwaVV2SkVGcHIyOXZGLVVyTkgzVDFTZ21YYmUwa0R2YWc4dTRBeGN6bWhwU0J0WnQtUkN3R0xkZ1RvaDFnZnd6QWctM3B3SWZIeUNqcjdHcXVxS20yOGU3dE1zZERrRUNSSE12azloSUM2WDBFOHcyUUs1YjdvUWlpNkNNc0xWRWvSAbABQVVfeXFMUDByR0RkZlJyTkdWSWFWNzJQbVhsMC02blppelVkVEdOUVJRWXpmZ1BiNW00cmFhQnMtTzBpblljcVk5M3dHLVdCMXFCaFF5eU5XbXk2SVYwZzNCbzZ5MldpaVlNd1ZKYVV0Q05DWDdlekN6VUtZVEJadm82Z1N6b2tvQUtfSFFCWXg1Yk1NV3BmTlNKTFh3Nmp3X3VITDBOYTRMN0I2VkNwUG53dVJ5QkM?oc=5",
       "source": "The Hill",
       "published": "2026-06-30T17:01:00+00:00",
-      "score": 1.35,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran, US to continue negotiation in Qatar despite recent strikes, drone attacks - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4dWhxSW1xT2lHUkx1SkJGQ25YelU0ZV9SV1hTU1M4YWNkYlI4eEd1UVdTYmJPN0MweWhHUHJGSFdFRnBUcHhnZl80dVp4Sl80Tm5mYWdfcjNWaTg3cUozaG5NMXpyQmc3MkE?oc=5",
-      "source": "The Jerusalem Post",
-      "published": "2026-06-30T15:30:59+00:00",
       "score": 1.32,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Government lifts restrictions on LNG supply: Shipments from the Strait of Hormuz resume as US-Iran conflict... - Bhaskar English",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa1hGZmJtaWNlSUlLUUpFRE1Lc1ZhdzRwalRBUzhxZ1RDYldWZUxpSU9aazVZQV9sZmpZMDNWRlpFaVhESGtDbXItTzRsbzByb0kyb2NWYThPRi1jdjIwRGVWVnFUMXMxMmFpRHhuNWNDeHRHTEppRUhBdFIyQ2p1ZDZhZ3RhcXp0RDJENVQ3Rmc1bmtrQmxnUFpPM0VZcndidnk5ONIBqgFBVV95cUxPRW5RU3hGTi0xRmFJb1EwMElBVXhCMEZmclZST2hTM3NvNURwa1NxeGhMYkF0TUZzMm5uRVQxZnBYd1laZ3Q5WjlmZkk5dmlyd1VjREJEa3lpT3VnMi1neWE2RUhHeklPQl93SHo2bDktamd4eGVZY3ZfM1l1RkJjVzVKeTY0d0thdkIzR3lwZWFwNndOSHVvYkdBYkxkMk85U0xlQnpTdWZkUQ?oc=5",
-      "source": "Bhaskar English",
-      "published": "2026-07-05T07:14:04+00:00",
-      "score": 1.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Even amid strikes, shipping traffic remains elevated in the Strait of Hormuz - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU0U3WGdJZDRBNFNFb3VFcm5GZ09WSl94OEVaemx1T3ltWGtPUV9DTXlsaVZVRElKMi05RHVLSzI3WGR5UjdLcmx4M2JVaGVCNV9fRjFmNGZYdnlWYzNBakU5bW05Um9wUGEtV0Z5QkpOTDREWGduNTJILTZIQl8xa19PVEZvZ1F6dUFvY2hTdm4ya1NES041RXdJdnBGdHF6N0c1YzZRZGo5Q0lUdVZEWjF2VUVwYjVud0MxLWpIYWNhX2hycDlJdXhzSHg?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-06-29T20:19:42+00:00",
-      "score": 1.0,
       "tags": [
         "tension"
       ]
