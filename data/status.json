@@ -1,0 +1,18 @@
+{
+  "status": "OPEN",
+  "label": "Normal traffic",
+  "tension_index": 3.5,
+  "closure_signals": 0,
+  "articles_scanned": 42,
+  "updated": "2026-07-05T01:04:22.069554+00:00",
+  "headlines": [
+    {
+      "title": "Sample headline \u2014 real data appears after the first GitHub Actions run",
+      "link": "#",
+      "source": "Setup placeholder",
+      "published": "2026-07-05T01:04:22.069573+00:00",
+      "score": 0,
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Strait of Hormuz — Status</title>
+<meta name="description" content="Automated news-based status monitor for the Strait of Hormuz shipping lane.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --sea:#0B1C29;          /* chart deep water */
+    --sea-2:#0F2534;        /* panel water */
+    --line:#1E3B4E;         /* chart hairlines */
+    --foam:#D9E6EC;         /* primary text */
+    --mist:#7E97A6;         /* secondary text */
+    --open:#2FBF71;
+    --elevated:#E8A33D;
+    --disrupted:#E8752F;
+    --closed:#E24C3F;
+    --status:var(--mist);   /* set by JS */
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  html{background:var(--sea)}
+  body{
+    font-family:'IBM Plex Mono',monospace;
+    color:var(--foam);
+    background:
+      repeating-linear-gradient(0deg,transparent 0 47px,rgba(30,59,78,.35) 47px 48px),
+      repeating-linear-gradient(90deg,transparent 0 47px,rgba(30,59,78,.35) 47px 48px),
+      var(--sea);
+    min-height:100vh;
+  }
+  .wrap{max-width:880px;margin:0 auto;padding:32px 20px 64px}
+
+  /* header */
+  header{display:flex;justify-content:space-between;align-items:baseline;
+    border-bottom:1px solid var(--line);padding-bottom:14px;margin-bottom:36px}
+  .brand{font-size:13px;letter-spacing:.18em;color:var(--mist);text-transform:uppercase}
+  .coords{font-size:12px;color:var(--mist)}
+
+  /* status block */
+  .board{display:grid;grid-template-columns:1fr 300px;gap:32px;align-items:center;margin-bottom:44px}
+  h1{
+    font-family:'Saira Condensed',sans-serif;font-weight:700;
+    font-size:clamp(72px,14vw,140px);line-height:.9;letter-spacing:.01em;
+    color:var(--status);
+    text-shadow:0 0 42px color-mix(in srgb, var(--status) 35%, transparent);
+    transition:color .6s;
+  }
+  .sub{font-size:14px;color:var(--mist);margin-top:14px}
+  .sub b{color:var(--foam);font-weight:500}
+  .beacon{display:inline-block;width:11px;height:11px;border-radius:50%;
+    background:var(--status);margin-right:10px;vertical-align:1px;
+    box-shadow:0 0 0 0 color-mix(in srgb, var(--status) 60%, transparent);
+    animation:pulse 2.4s ease-out infinite}
+  @keyframes pulse{
+    0%{box-shadow:0 0 0 0 color-mix(in srgb, var(--status) 55%, transparent)}
+    100%{box-shadow:0 0 0 18px transparent}
+  }
+  @media (prefers-reduced-motion: reduce){.beacon{animation:none}}
+
+  /* chart svg */
+  .chart{border:1px solid var(--line);background:var(--sea-2);padding:10px}
+  .chart figcaption{font-size:11px;color:var(--mist);padding:8px 4px 2px;letter-spacing:.08em;text-transform:uppercase}
+  .lane{stroke:var(--status);transition:stroke .6s;
+    filter:drop-shadow(0 0 6px color-mix(in srgb, var(--status) 60%, transparent))}
+
+  /* stats strip */
+  .stats{display:grid;grid-template-columns:repeat(3,1fr);border:1px solid var(--line);margin-bottom:44px}
+  .stat{padding:16px 18px;border-right:1px solid var(--line)}
+  .stat:last-child{border-right:none}
+  .stat .k{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--mist);margin-bottom:6px}
+  .stat .v{font-family:'Saira Condensed',sans-serif;font-size:34px;font-weight:600;line-height:1}
+
+  /* log */
+  h2{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--mist);
+    margin-bottom:4px}
+  .log-note{font-size:11px;color:var(--mist);opacity:.75;margin-bottom:14px}
+  .log{list-style:none;border-top:1px solid var(--line)}
+  .log li{border-bottom:1px solid var(--line);padding:13px 4px;display:grid;
+    grid-template-columns:88px 1fr;gap:16px;font-size:13.5px;line-height:1.45}
+  .log time{color:var(--mist);font-size:12px;padding-top:2px}
+  .log a{color:var(--foam);text-decoration:none}
+  .log a:hover{text-decoration:underline;text-underline-offset:3px}
+  .log a:focus-visible{outline:2px solid var(--status);outline-offset:2px}
+  .src{color:var(--mist);font-size:11.5px;margin-top:3px}
+  .tag{display:inline-block;font-size:10px;letter-spacing:.1em;text-transform:uppercase;
+    padding:1px 7px;border:1px solid var(--line);color:var(--mist);margin-left:8px;border-radius:2px}
+  .tag.closure{color:var(--closed);border-color:var(--closed)}
+  .tag.tension{color:var(--elevated);border-color:var(--elevated)}
+
+  footer{margin-top:48px;font-size:11.5px;color:var(--mist);line-height:1.7;
+    border-top:1px solid var(--line);padding-top:16px}
+
+  .err{border:1px solid var(--closed);color:var(--closed);padding:16px;font-size:13px}
+
+  @media(max-width:720px){
+    .board{grid-template-columns:1fr}
+    .stats{grid-template-columns:1fr}
+    .stat{border-right:none;border-bottom:1px solid var(--line)}
+    .stat:last-child{border-bottom:none}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="brand">Strait of Hormuz · Status Monitor</div>
+    <div class="coords">26°34′N 56°15′E</div>
+  </header>
+
+  <main>
+    <div class="board">
+      <div>
+        <h1 id="status">——</h1>
+        <p class="sub"><span class="beacon" aria-hidden="true"></span><span id="label">Loading latest scan…</span></p>
+        <p class="sub">Last scan: <b id="updated">—</b></p>
+      </div>
+
+      <figure class="chart" aria-label="Chart of the Strait of Hormuz with shipping lane">
+        <svg viewBox="0 0 280 200" xmlns="http://www.w3.org/2000/svg" role="img">
+          <!-- coastlines: Iran (north), Musandam / Oman (south) -->
+          <path d="M0,38 C40,30 80,22 118,34 C150,44 176,42 208,56 C238,70 262,66 280,60"
+                fill="none" stroke="#33566B" stroke-width="1.5"/>
+          <path d="M0,178 C34,168 60,172 84,158 C104,146 112,124 132,118 C150,113 158,126 150,140 C144,151 152,160 172,152 C196,142 212,150 226,168"
+                fill="none" stroke="#33566B" stroke-width="1.5"/>
+          <!-- depth soundings -->
+          <g fill="#2A4A5E" font-size="7" font-family="monospace">
+            <text x="40" y="70">72</text><text x="96" y="60">64</text>
+            <text x="196" y="92">88</text><text x="60" y="140">51</text>
+            <text x="236" y="130">76</text>
+          </g>
+          <!-- shipping lane -->
+          <path id="lanePath" class="lane" d="M6,120 C60,108 110,92 160,88 C205,85 245,92 276,104"
+                fill="none" stroke-width="3" stroke-dasharray="10 7" stroke-linecap="round"/>
+          <text x="10" y="192" fill="#4A6B7E" font-size="8" font-family="monospace">HORMUZ TSS · INBOUND/OUTBOUND LANE</text>
+        </svg>
+        <figcaption>Traffic separation scheme</figcaption>
+      </figure>
+    </div>
+
+    <div class="stats">
+      <div class="stat"><div class="k">Tension index</div><div class="v" id="tension">—</div></div>
+      <div class="stat"><div class="k">Closure signals (7d)</div><div class="v" id="signals">—</div></div>
+      <div class="stat"><div class="k">Articles scanned</div><div class="v" id="scanned">—</div></div>
+    </div>
+
+    <h2>Signal log</h2>
+    <p class="log-note">Highest-scoring headlines from the last 7 days</p>
+    <ul class="log" id="log"></ul>
+    <div id="error"></div>
+  </main>
+
+  <footer>
+    Automated monitor. Status is inferred from news headlines via keyword scoring and can be
+    wrong or delayed — it is not an official maritime advisory. Rescans every 30 minutes via
+    GitHub Actions. Sources: Google News RSS.
+  </footer>
+</div>
+
+<script>
+const COLORS = {OPEN:'--open', ELEVATED:'--elevated', DISRUPTED:'--disrupted', CLOSED:'--closed'};
+
+function fmtTime(iso){
+  if(!iso) return '—';
+  const d = new Date(iso);
+  return d.toLocaleString(undefined,{month:'short',day:'numeric',hour:'2-digit',minute:'2-digit'});
+}
+function fmtShort(iso){
+  if(!iso) return '';
+  const d = new Date(iso);
+  return d.toLocaleDateString(undefined,{month:'short',day:'numeric'}) + ' ' +
+         d.toLocaleTimeString(undefined,{hour:'2-digit',minute:'2-digit'});
+}
+
+async function load(){
+  try{
+    const res = await fetch('data/status.json?t=' + Date.now());
+    if(!res.ok) throw new Error('HTTP ' + res.status);
+    const d = await res.json();
+
+    const color = getComputedStyle(document.documentElement)
+      .getPropertyValue(COLORS[d.status] || '--mist');
+    document.documentElement.style.setProperty('--status', color.trim());
+
+    document.getElementById('status').textContent = d.status;
+    document.getElementById('label').textContent = d.label;
+    document.getElementById('updated').textContent = fmtTime(d.updated) + ' local';
+    document.getElementById('tension').textContent = d.tension_index;
+    document.getElementById('signals').textContent = d.closure_signals;
+    document.getElementById('scanned').textContent = d.articles_scanned;
+
+    // solid lane when open, broken when not
+    document.getElementById('lanePath')
+      .setAttribute('stroke-dasharray', d.status === 'OPEN' ? 'none' : '10 7');
+
+    const log = document.getElementById('log');
+    log.innerHTML = '';
+    (d.headlines || []).forEach(h => {
+      const li = document.createElement('li');
+      const t = document.createElement('time');
+      t.textContent = fmtShort(h.published);
+      const div = document.createElement('div');
+      const a = document.createElement('a');
+      a.href = h.link; a.target = '_blank'; a.rel = 'noopener';
+      a.textContent = h.title;
+      div.appendChild(a);
+      (h.tags || []).filter(x => x !== 'calm').forEach(tag => {
+        const s = document.createElement('span');
+        s.className = 'tag ' + tag; s.textContent = tag;
+        div.appendChild(s);
+      });
+      if(h.source){
+        const src = document.createElement('div');
+        src.className = 'src'; src.textContent = h.source;
+        div.appendChild(src);
+      }
+      li.appendChild(t); li.appendChild(div);
+      log.appendChild(li);
+    });
+  }catch(e){
+    document.getElementById('error').innerHTML =
+      '<div class="err">Could not load status data. If this is a fresh deploy, the first scan may not have run yet.</div>';
+  }
+}
+load();
+</script>
+</body>
+</html>
