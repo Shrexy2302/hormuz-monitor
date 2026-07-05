@@ -68,11 +68,25 @@
     filter:drop-shadow(0 0 6px color-mix(in srgb, var(--status) 60%, transparent))}
 
   /* stats strip */
-  .stats{display:grid;grid-template-columns:repeat(3,1fr);border:1px solid var(--line);margin-bottom:44px}
+  .stats{display:grid;grid-template-columns:repeat(4,1fr);border:1px solid var(--line);margin-bottom:24px}
   .stat{padding:16px 18px;border-right:1px solid var(--line)}
   .stat:last-child{border-right:none}
   .stat .k{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--mist);margin-bottom:6px}
   .stat .v{font-family:'Saira Condensed',sans-serif;font-size:34px;font-weight:600;line-height:1}
+
+  .delta{font-size:12px;font-family:'IBM Plex Mono',monospace;margin-left:6px}
+  .delta.up{color:var(--closed)}     /* oil up usually = bad news here */
+  .delta.down{color:var(--open)}
+
+  /* history sparkline */
+  .history{border:1px solid var(--line);background:var(--sea-2);
+    padding:14px 18px 10px;margin-bottom:44px}
+  .history .k{font-size:11px;letter-spacing:.14em;text-transform:uppercase;
+    color:var(--mist);margin-bottom:10px;display:flex;justify-content:space-between}
+  .history svg{display:block;width:100%;height:64px}
+  .spark-line{fill:none;stroke:var(--status);stroke-width:1.5;
+    filter:drop-shadow(0 0 4px color-mix(in srgb, var(--status) 50%, transparent))}
+  .spark-fill{fill:color-mix(in srgb, var(--status) 12%, transparent);stroke:none}
 
   /* log */
   h2{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--mist);
@@ -98,6 +112,12 @@
 
   @media(max-width:720px){
     .board{grid-template-columns:1fr}
+    .stats{grid-template-columns:1fr 1fr}
+    .stat:nth-child(2n){border-right:none}
+    .stat{border-bottom:1px solid var(--line)}
+    .stat:nth-last-child(-n+2){border-bottom:none}
+  }
+  @media(max-width:420px){
     .stats{grid-template-columns:1fr}
     .stat{border-right:none;border-bottom:1px solid var(--line)}
     .stat:last-child{border-bottom:none}
@@ -145,6 +165,12 @@
       <div class="stat"><div class="k">Tension index</div><div class="v" id="tension">—</div></div>
       <div class="stat"><div class="k">Closure signals (7d)</div><div class="v" id="signals">—</div></div>
       <div class="stat"><div class="k">Articles scanned</div><div class="v" id="scanned">—</div></div>
+      <div class="stat"><div class="k">Brent crude</div><div class="v" id="brent">—</div></div>
+    </div>
+
+    <div class="history">
+      <div class="k"><span>Tension index · 30 days</span><span id="hist-range"></span></div>
+      <svg id="spark" viewBox="0 0 600 64" preserveAspectRatio="none" aria-label="Tension index over the last 30 days"></svg>
     </div>
 
     <h2>Signal log</h2>
@@ -175,6 +201,58 @@ function fmtShort(iso){
          d.toLocaleTimeString(undefined,{hour:'2-digit',minute:'2-digit'});
 }
 
+function setFavicon(color){
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">` +
+    `<rect width="32" height="32" fill="%230B1C29"/>` +
+    `<circle cx="16" cy="16" r="9" fill="${encodeURIComponent(color)}"/></svg>`;
+  let link = document.querySelector('link[rel="icon"]');
+  if(!link){
+    link = document.createElement('link');
+    link.rel = 'icon';
+    document.head.appendChild(link);
+  }
+  link.type = 'image/svg+xml';
+  link.href = 'data:image/svg+xml,' + svg;
+}
+
+function renderBrent(b){
+  const el = document.getElementById('brent');
+  if(!b || b.price == null){ el.textContent = '—'; return; }
+  el.textContent = '$' + b.price.toFixed(2);
+  const s = document.createElement('span');
+  const up = b.change_pct >= 0;
+  s.className = 'delta ' + (up ? 'up' : 'down');
+  s.textContent = (up ? '▲' : '▼') + Math.abs(b.change_pct).toFixed(2) + '%';
+  el.appendChild(s);
+}
+
+async function loadHistory(){
+  try{
+    const res = await fetch('data/history.json?t=' + Date.now());
+    if(!res.ok) return;
+    let pts = await res.json();
+    if(!pts.length) return;
+    // downsample to <=240 points
+    if(pts.length > 240){
+      const step = pts.length / 240;
+      pts = Array.from({length:240}, (_,i) => pts[Math.floor(i*step)]);
+    }
+    const W = 600, H = 64, PAD = 4;
+    const vals = pts.map(p => p.i);
+    const max = Math.max(...vals, 10), min = Math.min(...vals, 0);
+    const x = i => PAD + i * (W - 2*PAD) / Math.max(pts.length - 1, 1);
+    const y = v => H - PAD - (v - min) * (H - 2*PAD) / (max - min || 1);
+    const line = pts.map((p,i) => `${x(i).toFixed(1)},${y(p.i).toFixed(1)}`).join(' ');
+    const fill = `${PAD},${H-PAD} ` + line + ` ${(W-PAD)},${H-PAD}`;
+    document.getElementById('spark').innerHTML =
+      `<polygon class="spark-fill" points="${fill}"/>` +
+      `<polyline class="spark-line" points="${line}"/>`;
+    const first = new Date(pts[0].t), last = new Date(pts[pts.length-1].t);
+    const fmt = d => d.toLocaleDateString(undefined,{month:'short',day:'numeric'});
+    document.getElementById('hist-range').textContent = fmt(first) + ' → ' + fmt(last);
+  }catch(e){ /* sparkline is optional; fail quietly */ }
+}
+
 async function load(){
   try{
     const res = await fetch('data/status.json?t=' + Date.now());
@@ -184,6 +262,9 @@ async function load(){
     const color = getComputedStyle(document.documentElement)
       .getPropertyValue(COLORS[d.status] || '--mist');
     document.documentElement.style.setProperty('--status', color.trim());
+    setFavicon(color.trim());
+    document.title = d.status + ' · Strait of Hormuz';
+    renderBrent(d.brent);
 
     document.getElementById('status').textContent = d.status;
     document.getElementById('label').textContent = d.label;
@@ -226,6 +307,7 @@ async function load(){
   }
 }
 load();
+loadHistory();
 </script>
 </body>
 </html>

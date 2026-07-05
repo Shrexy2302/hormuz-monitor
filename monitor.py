@@ -184,6 +184,56 @@ def evaluate(articles: list[dict]) -> dict:
     }
 
 
+# ---------------------------------------------------------------- brent
+
+def fetch_brent():
+    """Brent crude futures from stooq.com (free, no key, delayed quotes).
+    Returns {'price': float, 'change_pct': float} or None on failure."""
+    url = 'https://stooq.com/q/l/?s=cb.f&f=sd2t2ohlcv&h&e=csv'
+    try:
+        req = urllib.request.Request(url, headers={'User-Agent': USER_AGENT})
+        with urllib.request.urlopen(req, timeout=20) as resp:
+            lines = resp.read().decode().strip().splitlines()
+        # header: Symbol,Date,Time,Open,High,Low,Close,Volume
+        cols = lines[1].split(',')
+        open_p, close_p = float(cols[3]), float(cols[6])
+        change = (close_p - open_p) / open_p * 100 if open_p else 0.0
+        return {'price': round(close_p, 2), 'change_pct': round(change, 2)}
+    except Exception as e:
+        print(f'[warn] brent fetch failed: {e}')
+        return None
+
+
+# ---------------------------------------------------------------- history
+
+HISTORY_PATH = 'data/history.json'
+HISTORY_DAYS = 31
+
+
+def update_history(result: dict) -> list:
+    try:
+        with open(HISTORY_PATH) as f:
+            history = json.load(f)
+    except Exception:
+        history = []
+    history.append({
+        't': result['updated'],
+        'i': result['tension_index'],
+        's': result['status'],
+    })
+    # keep only the last HISTORY_DAYS days
+    cutoff = datetime.now(timezone.utc).timestamp() - HISTORY_DAYS * 86400
+    def ts(e):
+        try:
+            return datetime.fromisoformat(e['t']).timestamp()
+        except Exception:
+            return 0
+    history = [e for e in history if ts(e) >= cutoff]
+    with open(HISTORY_PATH, 'w') as f:
+        json.dump(history, f)
+    return history
+
+
 # ---------------------------------------------------------------- main
 
 def main():
@@ -191,10 +241,13 @@ def main():
     articles = collect_articles()
     print(f'Collected {len(articles)} unique articles')
     result = evaluate(articles)
+    result['brent'] = fetch_brent()
     print(f"Status: {result['status']} | tension index {result['tension_index']}")
     with open('data/status.json', 'w') as f:
         json.dump(result, f, indent=2)
     print('Wrote data/status.json')
+    history = update_history(result)
+    print(f'History: {len(history)} points')
 
 
 if __name__ == '__main__':
