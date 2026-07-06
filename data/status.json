@@ -1,10 +1,10 @@
 {
   "status": "ELEVATED",
   "label": "Elevated tension",
-  "tension_index": 9.0,
+  "tension_index": 8.9,
   "closure_signals": 1,
-  "articles_scanned": 226,
-  "updated": "2026-07-06T16:15:09.209012+00:00",
+  "articles_scanned": 224,
+  "updated": "2026-07-06T18:24:37.729296+00:00",
   "headlines": [
     {
       "title": "Germany says Iran should pay for mine clearance in Strait of Hormuz - Anadolu Ajans\u0131",
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS1F4NzFHeHhvUG5SbUxuRXdjWGExWkZqMGlTSmVLQ0pvWlhsX25tXzM1R015ZzRxUmJPeC1kYml2MElibkREc3FBU0hrRW9ldmpvT0FSd24xOTN5V2pzU3ZZU3VCeU5uQzZ5NVJudmRianc4Z3hfWTJ4Y05LWm9RNUd5ZERCUkE3MExUaUdYUHhSbkdRRS1SbzlmN2VDTnBfSXZBZlBheE10aEE?oc=5",
       "source": "stripes.com",
       "published": "2026-07-02T11:58:48+00:00",
-      "score": 3.46,
+      "score": 3.39,
       "tags": [
         "closure"
       ]
@@ -31,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOU2pnNmNzUTctOHVzeDVQdDZCZHBfZFlHUEhzcmN5c3BpUWVzaTlxQm5UNkZ1NC1SYkd3MkRaNFdSWkRSTXVFXzhpNXFjcWhqd0FVSEFFUG1MdTdfeUlLOVhDenh3UUt5N0NVTHRyLUFzbGFHVnpxY2xCZlFxZ204b3lJNUJyLUFGcjFleU5mOTlVak16MXl5cmVQTjBCd9IBowFBVV95cUxOWkhoQTlPVm1JU1RDQmkzc2UxdHZpZEY4U0pBSWdVUTdOcV9nVzBvQnB6eWhvSDhfWnA4REZvOFNsOGk3YXBCdHVMWHd6SlZ2MzhKdkpERm1EaW9OWjdVRFFZaS03SXpldGM4TjhHN0ZiN3paYnNuWGxISmFlckFVd24tYlhzUV9oSU1odTJOTUdGdU9ZSlJXT216b3BxVk43WDRV?oc=5",
       "source": "CNBC",
       "published": "2026-07-05T12:57:02+00:00",
-      "score": 2.94,
+      "score": 2.91,
       "tags": [
         "tension"
       ]
@@ -41,7 +41,7 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV3NKMElrTmVXQS1LenJwSnhqcmZlNGxLTG01MDR6bG9LWGpGdnd1blBqZVc2aHVEWUdUUTZFU3FhOURjTG1WY29xVzVBVFBPRUMtS0Q2djF6UzJFN3FFcnRHMUFuUThNMjJpVkhlcG8wSG9JWTU5aHQzdGxEckFOXzMxU1R2LWo0OXNmN3c1Nlc?oc=5",
       "source": "gCaptain",
       "published": "2026-07-04T14:38:02+00:00",
-      "score": 2.57,
+      "score": 2.54,
       "tags": [
         "tension"
       ]
@@ -51,7 +51,7 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ2RUTWR2T1d2V1NYN053ZlM3NERTZFdLa1I0RWdzZFZNMU5TYXNjbEJwdUJaYWkyQ3ZzSUROMldmV0pNcEZfb1Z0VFR6d3RLWFhWZUVLck1YOXhxNjIyTEVfc25RMnpVY1NVc3lfN2ZrR0RmdFpLdkZfRDh0RFZjUzZFSzRnY3Z2S2s0amMtN18yUExfVzJQS2hLSWJEMThmdW9QMEdmN1l4NHJyRE5n?oc=5",
       "source": "Marine Insight",
       "published": "2026-07-04T06:32:36+00:00",
-      "score": 2.44,
+      "score": 2.4,
       "tags": [
         "tension"
       ]
@@ -61,7 +61,7 @@
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUUhsV0ZaNHotOFJzNEVvVi1QbjlnT21qQjY0NEF3ZWVrZE5xT2RKMG00bGNWSG8zUWwxUnIzMjNQZTdwbVgxWEdPRG1fNVl5Q1VhV0g0QmJ2UHJXZUc5MExQY1ZwaklUcmZFRDlMSnNyNnA4eW5IN1ZweUN3MW5qY2E0NHVER2ZRczY5WGgwc0hLN1JHQ1RIeXR1VE9vZDJWWERqWXd6aHg2RENWMUt0TS1lNFJibEhUcGE4VzBiUzNhWjJ4eURWNGo1aWhSbmVxMVhB?oc=5",
       "source": "JNS",
       "published": "2026-07-02T21:04:52+00:00",
-      "score": 1.88,
+      "score": 1.84,
       "tags": [
         "tension"
       ]
@@ -71,7 +71,17 @@
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaHdVVnhNeko2V05ENzBGUWVXLS1CNXg0ZVRjaU43M1htZWVkaFpYS2IzNFhPZU81UGlSNGV4ODZRdUE0eC0yajNjZU9Qd3o0dFVCNndsX2hLREVEZGhqQ3p0Nm9OUUloWmJBdUxrSFhIZGdDSDZRUW5oQk1xa2lnVXBTN01jUmRJbkd4bVlTVEliRGZtU0NtU0ZOaDlvS3J0WGJQT1FlVVI2Q09RMTViVjhVQ2VxaHBLUElodjdZQURVSkVERXUyaG12RHhIMVptbWtjUg?oc=5",
       "source": "Marine Insight",
       "published": "2026-07-01T12:44:26+00:00",
-      "score": 1.34,
+      "score": 1.31,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "South Korea cargo ship Namu to exit Strait of Hormuz after attack in Gulf - 95 KQDS",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOGJjQURZOGZfR3ZBQkhsZmVET0hVZlhNQl9NSzZTdDBXdnJ6a0piQzQ2SUZSRkdORjAwZTZLRE40bGVMR1VPZFlXcUpSQktMRWdfbmkwdFBGQjRlT1NheDJCNEtrSk5sX2hweU5hLVdtQXVtYzd6X1Bpb1BlMGExM0VReW9HdENYaF9iaWZLTVhKRHVWcEZNa1NEa1FMN2pIZElRNFZWYw?oc=5",
+      "source": "95 KQDS",
+      "published": "2026-07-01T10:38:09+00:00",
+      "score": 1.27,
       "tags": [
         "tension"
       ]
@@ -81,7 +91,7 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWHdUWXEwMnhHYkRxZnN5bGRGVXFhMHh3R2RaMTRkcnRaZE9GVXUzU2plNDJmazFsTDFQQTdGMFh5VHFCblk1djNzRGM1bF9NQXlfb2JxSy1mNDBXQnJaQ2p5QXk1TGRNRGFBd2NTal9ncWJZZWVNZ2UtWkxNa3VFS1B0LTRWNWdhdzk3NUd5clFqZHpGbDR3N3BlVVZ6a0NfVVR5NDY4T2hYV2NYd1g2MmlkYmF2VWpwZ0lV?oc=5",
       "source": "Reuters",
       "published": "2026-07-01T08:33:39+00:00",
-      "score": 1.27,
+      "score": 1.24,
       "tags": [
         "tension"
       ]
@@ -91,7 +101,7 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYVdxdWtselRSaDVCREJLQ2RqQ3VwSDAwcGNJa3lLVi03QjRtSVhrdjR6dzduU3ZhQnRHUUNoWnh4NHJaTXMtbU1rUDZNMHZRNGhXQ095N2Z2VUo5VU5EQVJPS2VMZXU5c0xvY1d0VENMYUMzS3pBNlRiYzE0Z0ptYTF0STUtVjEyUkZyUndLNzhqYmgwNHROR2UxOThVbHVIQ3lmOWplakVCNko5NXp4OVN1RTdpSkNxTmFobjgtWldMTGNFUzh6dkNMSdIB0AFBVV95cUxQbkRxVTJzMndjalN3Y0NLU1VYS1c4bEVFY3UyRExxdngzUDdrN1FYMlBMVkh3MXk5Y284LTNJWXljMnVwb1p5M0JDcEJfYjFWTFE2ZV9ITl9nYk45eUVNaXZnVnU1Qk9LNUh1WDBIcFMyUDM0bDk3Q0IzRjJBZHY2b2tzYUdPYllBUGlQODdadG9QS202WFpoWFBCV0d3MlJVQ3FsNkxxTUUzOXhtX3FPSTVqTnBteDhUeVlVWjVNSUpNZlFlTUI0TmJSS2JRUXJn?oc=5",
       "source": "Al Arabiya English",
       "published": "2026-07-01T06:49:00+00:00",
-      "score": 1.24,
+      "score": 1.21,
       "tags": [
         "tension"
       ]
@@ -101,17 +111,7 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTGZVUzNsR0loWS1NRVVMZW93WUFVLXlkS0hseDZIV2hLdEJLRGFkUW5rYlA5X0ZLU3BnUGdENk1aUUExemt3bUlTSlRSV0p3VHpfWlJ4cC1vUlExbW5aTlNKX0pHek11UGxQWlpkbFh6NzV0WTkwNzdZbXZXWWUyS3VsMDlMdTdEUDFHSDZvY1Rxejl4TkNFV2UtZG9od09CdjAwZ1htSGdIQ25HVXc?oc=5",
       "source": "Al-Monitor",
       "published": "2026-07-01T02:34:12+00:00",
-      "score": 1.17,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Strait of Hormuz shipping traffic rebounds after strikes between Iran, US - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS25lV1lKcWtseDZJam9DQmxCNGVibFZLWEJCWm84ZkRRYUNwaVV2SkVGcHIyOXZGLVVyTkgzVDFTZ21YYmUwa0R2YWc4dTRBeGN6bWhwU0J0WnQtUkN3R0xkZ1RvaDFnZnd6QWctM3B3SWZIeUNqcjdHcXVxS20yOGU3dE1zZERrRUNSSE12azloSUM2WDBFOHcyUUs1YjdvUWlpNkNNc0xWRWvSAbABQVVfeXFMUDByR0RkZlJyTkdWSWFWNzJQbVhsMC02blppelVkVEdOUVJRWXpmZ1BiNW00cmFhQnMtTzBpblljcVk5M3dHLVdCMXFCaFF5eU5XbXk2SVYwZzNCbzZ5MldpaVlNd1ZKYVV0Q05DWDdlekN6VUtZVEJadm82Z1N6b2tvQUtfSFFCWXg1Yk1NV3BmTlNKTFh3Nmp3X3VITDBOYTRMN0I2VkNwUG53dVJ5QkM?oc=5",
-      "source": "The Hill",
-      "published": "2026-06-30T17:01:00+00:00",
-      "score": 1.01,
+      "score": 1.14,
       "tags": [
         "tension"
       ]
@@ -128,7 +128,7 @@
     }
   ],
   "brent": {
-    "price": 72.18,
-    "change_pct": 0.53
+    "price": 71.99,
+    "change_pct": 0.26
   }
 }
