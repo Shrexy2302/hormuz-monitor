@@ -1,10 +1,10 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 72.2,
+  "tension_index": 95.5,
   "closure_signals": 2,
-  "articles_scanned": 230,
-  "updated": "2026-07-07T05:29:55.792966+00:00",
+  "articles_scanned": 233,
+  "updated": "2026-07-07T08:50:50.194659+00:00",
   "headlines": [
     {
       "title": "Weaponizing the Strait of Hormuz: Naval Mines and the Spread of Economic Coercion - \u7b39\u5ddd\u5e73\u548c\u8ca1\u56e3",
@@ -37,70 +37,40 @@
       ]
     },
     {
-      "title": "Iranian state television says liquified natural gas tanker attacked in Strait of Hormuz off Oman after ignoring warnings - KING5.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOc0t5YTZoVGVub3lNeWZWX2RMY1ZjQ1JEVlNmZlRzMFR0TzBicF9GeHZxWG1majR5MTVMWVU3QWxyX2NRRzRMalQ0T3N1OEFyQTJib3l2U3N5Qm1DRzVYM1MtMFNBZTdUVUdXcmJwU2ZsdW8wODNTQTJRQmFkbE1pb0wxRHBDM2t3WjhORVZYOExFQnlzNTJJSGtRUjlWUUt3cjNrWTlmTnUzMEE3WnprQUE3TElNaFdOVDEtd2gxSmdidkxXR0RvZWhqRHN4ZXMxVkM1alduZU1KcFBmd3BDVUVweHlfUThaYmVoall3OUY5Z2lPdHJ6a2UxYTZnZHpHRm1HTnlTN2VDSF9CU1pxRUdKc19IMVZEdUJhOVZBeDRRYUlfTm82Mk9ST1pOTEx5QTctODFENmdZOGpGNjU1cQ?oc=5",
-      "source": "KING5.com",
-      "published": "2026-07-07T03:24:00+00:00",
+      "title": "Iranian state television says liquified natural gas tanker attacked in Strait of Hormuz off Oman after ignoring warnings - news8000.com",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPY21jdnlfMTVNSWpYdllWN1l5Y2JOZDhZR1h3NzlPTklDMWlaMXZucGs2WE9sNWRMcWpyWDNEb1dITGM2eUlzUXUyaGRucE8zY1hxUXNxODVGSUw2NllYTGlRV0dQVVA3NmpCV1Y2NW5QNFh6ZnVIX2o4LW1Ba0VyWU5TbU5PbU52c0Y4SHRZSWJ4b1c5Z0V0WWlhT3FWaFdvZDVyUWxhSXNEZmFLQUQxMUNwbGJya0hid3huTFZUaUgybmNDcGxyZG03MWdEWjYyVktDQ0wzVi1YMXlRemdfSDNXOF9OS2FaRktva20wSUt1QzE0bVhIcmFkY3hoY2liU25PTUZYMHA5Y2ZZb1lHTnA5Mmh1Zw?oc=5",
+      "source": "news8000.com",
+      "published": "2026-07-07T03:24:30+00:00",
       "score": 4.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Tanker catches fire after projectile strike near Strait of Hormuz amid US-Iran tensions - Crypto Briefing",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNjU4MFNxUnJPWWp0ZkxVc2tiQzdVSy1aOU9YY21UelI1UzBINXdwUGZaQTBmLVFlaWExR2ZyQm1NYU5TeUVRMU5qUnQ0Q3U5ZnNiWHNRWkZTY1RxVE43VlBqUTFpa2lLN0lJUkxIblZlTU9kaGRaZ0pPems1MDRxenJ2NDRmRGNXMm5DWHBwZ25kTU5ERWRjWGtEOFRIYTNZWGlVdVJlZkhjUQ?oc=5",
-      "source": "Crypto Briefing",
-      "published": "2026-07-06T23:49:00+00:00",
-      "score": 4.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Efforts to clear estimated 80 Iranian sea mines from Strait of Hormuz to take months, officials say - stripes.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS1F4NzFHeHhvUG5SbUxuRXdjWGExWkZqMGlTSmVLQ0pvWlhsX25tXzM1R015ZzRxUmJPeC1kYml2MElibkREc3FBU0hrRW9ldmpvT0FSd24xOTN5V2pzU3ZZU3VCeU5uQzZ5NVJudmRianc4Z3hfWTJ4Y05LWm9RNUd5ZERCUkE3MExUaUdYUHhSbkdRRS1SbzlmN2VDTnBfSXZBZlBheE10aEE?oc=5",
-      "source": "stripes.com",
-      "published": "2026-07-02T11:58:48+00:00",
-      "score": 3.02,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Oil tanker struck near Strait of Hormuz, igniting fire - Yahoo News Canada",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE81V3ZjT0RJa0ticjdMMExscjdZMHp5a2FnQ1FxQnppY2Q1YmJ0R3J2bUtvTTVfX2c1eVRfWDhWeE5Ubjd6SV93V19LcHdmbTRCekkxU2FyZnl1S1RoTXlOY04zdEVrMWxVczJQLWdzUm12STdNcDY1TUJB?oc=5",
-      "source": "Yahoo News Canada",
-      "published": "2026-07-07T04:35:00+00:00",
+      "title": "Tanker set ablaze after being struck by projectile in the Strait of Hormuz as Iran mourns Khamenei - Ottumwa Courier",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOS1d2eC1feTVmVlNiRl85aTNQNlg2RDhiMjVmYUU1NERwbmFqY0Q1VV9mTEhmeU80RzZsODU2eEljS2NkZ3pibmxEcDBSZGJlcGN5dEFKQXdWZ0JjQ1U4bmUyS1N3dWNaN0NEZndpTkM1OG1FM2VQN012blA0V0RtNGNsT3FQWEdPemhnZ0pHb3NZbWFSeGFwLXpMbHdPUG1JYU5UOXVPMlRsT0F6dWU2dmxnalc0am03QWw1c1VMVXJremRjYnJnU3BJMzB1U2dueXpVY2RVWm02RXNlWlR5a2tVaWxJZWI2Qk5iMG8xbjY4Tlo5bllhZnB1Yi1wc2d2b25pSm9sd1VscWJ4VkYw?oc=5",
+      "source": "Ottumwa Courier",
+      "published": "2026-07-07T08:10:43+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Tanker struck near Strait of Hormuz, UK maritime agency says - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYllRNXN3TWlGeEE2cFMzaEFFb2xDbWFtN05XSXhuQmJPSU5FbEhPbzh2TVJXenU2RzJmZHdGSXp5dGhWaFQ0WS1PN1VES2hqWndRQjEzWkpKMGJmLTJjMk5yQnYxUGJMSUVuLWdqMEtUMUF3Q1BoSG5oUXlQWHVoaHB3?oc=5",
-      "source": "CNN",
-      "published": "2026-07-07T04:32:24+00:00",
+      "title": "Oil prices rise after report of Iranian attack on commercial ships in Strait of Hormuz - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aQ1paTFppWWhOQ1g5RXF5WDZLZndBZWMwa2JSdWwxZlluZXd4TXdTdUZFeUs5dXhPWmFySGlsY1BIUmxaZjg2RFNTX2gzeTY3UXExN1d0QVZfclhwVEdBNUZ5UWNDTmRMVlJUQUFMMWFJWW930gF6QVVfeXFMUE9sUVFEckJOSEY2ZDJVSHJUa25VQjk1QzJCd1E1TmdQOVAzSzJDMnhxM0UxaExpM3hURE8zSGdFSmdHam9jZW9tRm44YU1salI4N0VWRW0zTWhDZXlMSDZIOVZESEgtUVkzeTlsdXEzNGtmTVc3UHY5N3c?oc=5",
+      "source": "CNBC",
+      "published": "2026-07-07T08:06:16+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Tanker set ablaze after being struck by projectile in the Strait of Hormuz as Iran mourns Khamenei - WGAL",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZjBuTXBlSWg0V09uZ2RTNlRuTmxES01DMHdhV1ZUeE1JTjVTTGFJYUE3MGpMWHdjakVxMmN1N2NQQVhjcnJrQm5MLWZSbnQ3MzdQYVVmWENmZ2R4S0otMkZJcUdXVVowRXpTSUJrUlE2MUV4U3pOMXNGbmRKcWQzVk9GTWpMQjctLWc?oc=5",
-      "source": "WGAL",
-      "published": "2026-07-07T04:24:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Tanker catches fire after projectile attack in Strait of Hormuz; Iran blamed - The Federal",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQempndGJETUVTeDJqMmo3Rm5wZW1saUhwREt5RFZiSlJmTWIyWnFnSHBXWDdTbDQxbUstUm05dGtQS3dBclQxVGc0WlJDQXp5eVo0SUVQRDZCYktLZF9UbFlWNDBHUXRoOXhWTVE5ZS1Ud2V5bFM0TzE1QU4xM09RVUdFMFNjeE4x?oc=5",
-      "source": "The Federal",
-      "published": "2026-07-07T03:59:44+00:00",
+      "title": "Oil Climbs as Fresh Tanker Strike Highlights Risks Around Hormuz - EnergyNow.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSm10WXBZeWNaQnVTakZZQlFzcGRPUHJ2a0dRc3FwemZfN1N1dVphMTNuUGViLXB0NVhjcDZZUG5vS3c0U19IUUFld2ZMbGx2M2ptSDNqMlg4WGZiOGRlRFlCN2RfNWFwX0tqcHB6dHdjQ09mTmw2ZXlCM0ZYSlpxUlNlUzBWSEh0clZiZE0xSlVoRGVQM2k2YW9FYw?oc=5",
+      "source": "EnergyNow.com",
+      "published": "2026-07-07T07:49:31+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -110,17 +80,47 @@
       "title": "Tanker set ablaze after being struck by projectile in the Strait of Hormuz as Iran mourns Khamenei - AP News",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT2tfRFIyMHM3Y3R0UHRSQ0xwNEdNX2pjVUV5QkFGZk4yLUpVeU9RN0RHLXpUYU5UMzVIZkNwOWV4Q2dKTnJYZVl6UzZadkxHYUVYNmUzYWxoUEo1S2pPRUkxWmFsMHhadUYyams3ME5TOTlVSHhuTmgtRVA4NGo1NlJIOF9ZOUU2dGc?oc=5",
       "source": "AP News",
-      "published": "2026-07-07T03:54:00+00:00",
+      "published": "2026-07-07T06:47:00+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "More on reports Iranian forces strike LNG tanker and commercial ships in Strait of Hormuz - investingLive",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONUVORmtpYXFwdXFUQXItMGltMmFkeFJvd0kzRGZ5Z0NVaUt1UC1Rcnlfb0ZlMGxZUVl2MjdrTlFFQmdzRC1JUVM5cGtMRWhvWDh1LUZnZkl6ejRmVkZOYjNLUDNVeFVCQWFIRm5Ha3Z4d1ZleUpNbGV5c1lfWVduRXQyRks1OGRRVF9mNEZEN0RrSzIxMmJmNkI4eDBydVBzSmVpVW5Kdk9YdGVxdV9xQktXQ3RzQThWa1ZjSTR4NU96a1JVVGZFS3lkb2ZlbXpGYUtz?oc=5",
-      "source": "investingLive",
-      "published": "2026-07-07T03:24:08+00:00",
+      "title": "Oil tanker struck in Strait of Hormuz, UK says - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTmxlN1RsakJjREdJOGdSQ3piWjRJRkI2cXREMjNMbDNZWjY0LXN3UG1pVVJ4VUNYQmViNXdJYmNTQzZsUmxIdFpHd29VMlpaMWI2dkdsVHg3Q19zdW5kSmlRXzl5dU1XQUVxQnY0UXc2eDVmLWVXU1RwNWlyNGFvWFVfc1DSAYQBQVVfeXFMTUNSdEI3VDJkeFJ0MVFaTU9tRDJsRTgyQzA2OTZ1SXVZenNtbm1TNlNTdnVXNlpfR2g1RklDNDhaYjRGT25RNXpwc19GYzY3Nm9fNlp2SU9WRzNrMWdJekhCbXBRSzBRZmR3QVBJU1F0MnJ2alpNVWxzZkFvTVlPaEFHYmlL?oc=5",
+      "source": "DW.com",
+      "published": "2026-07-07T06:41:49+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "New Strikes on Ships in Strait of Hormuz Test U.S.-Iran Cease-Fire - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVWNwbUJWWVFmZXFpRGtwblBLU1lNUG9NRGVkVGpORHRnOVVjeEN1S0Y0aHU5eDE3T3pPT3hxNVJZanYwTk9GWE8wTktFZnYwY0RPWDRuNXBsdThwTlBoQjF2NWduYkxkODV2YXlGT05STGdJYVUzNU1rek5GNnc0REh5OFdkUVFodWhEcQ?oc=5",
+      "source": "The New York Times",
+      "published": "2026-07-07T06:38:12+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Tanker set ablaze after being struck by projectile in the Strait of Hormuz - WQLN",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbFhKaTY3cDlkNXRmeVk3NlBLbF9hek04UFRGQTE0YlJZR29md3dvc29ydW8xbm9qQnNlMGNQRFBnS01STWVWSThDNzJvTUZTQXhkTzM3RVBLQlhoVlhiMVdmaHgzU284SkFTdXBHaHVEd2ZULWRrX0M5TWV6bFhiSDZjOFBfbEFXLU5MTUtUUk03QjRSS08ta1o0cU9Mc2lsUlhNMWh5QUM4WjBuYVFmaXBLQzRSUQ?oc=5",
+      "source": "WQLN",
+      "published": "2026-07-07T05:28:00+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Tanker set ablaze after being struck by projectile in the Strait of Hormuz - KBBI AM 890",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMm51dnc2Yllvd0d2RXhwV09faUM3NUxIdThUUFFtMjhvd05wbllQaUlHd0hwd2YxVUdYS1FXZHk4emVkUFYzTGlRanVubFBfak44Y2N0WUJnc0ZGV2g3UU8wd1NmZ1I4TXFuYlhiRWQ3ME01Mi10UERLTzZfNW5POTRZeFFXNHdJNEhtWVI4Y2dTZ3M1cFlGWjZqcUZCZ2I4TlJqOUY3R3ktNFUycDg2SFEtajFZQQ?oc=5",
+      "source": "KBBI AM 890",
+      "published": "2026-07-07T05:28:00+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -128,7 +128,7 @@
     }
   ],
   "brent": {
-    "price": 72.63,
-    "change_pct": 0.89
+    "price": 72.9,
+    "change_pct": 1.26
   }
 }
