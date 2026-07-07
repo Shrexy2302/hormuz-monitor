@@ -1,10 +1,10 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 136.1,
+  "tension_index": 144.2,
   "closure_signals": 1,
-  "articles_scanned": 227,
-  "updated": "2026-07-07T16:44:05.461932+00:00",
+  "articles_scanned": 228,
+  "updated": "2026-07-07T18:56:56.624143+00:00",
   "headlines": [
     {
       "title": "Weaponizing the Strait of Hormuz: Naval Mines and the Spread of Economic Coercion - \u7b39\u5ddd\u5e73\u548c\u8ca1\u56e3",
@@ -14,16 +14,6 @@
       "score": 6.0,
       "tags": [
         "closure"
-      ]
-    },
-    {
-      "title": "Iranian state TV: Gas tanker struck in Strait of Hormuz after ignoring warnings - The Times of Israel",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS3dmSzgtN0h5bGxYNTlYdFpvOW1JdjJvVmxteTRQeHA0X3duRXMwYzNVUVhxeDJpWjBTMmZycmNMOHFqRmphdUc3Zi1ENVdQUVZGS0xIZGdscGtZTHhGMU04X1RyVXhkZGIyMlJCc0lsMEZQQzRzX1NyX0tLb2FwYnM3aU9WbWE4ZE9sWU1LSDQ3bHQ4ZWpVOFh0ZG5ndFlMdXZKOGFPVlJXaWwzUjFwZkZNdm43akFWZ3hRMXh1d1V6dw?oc=5",
-      "source": "The Times of Israel",
-      "published": "2026-07-07T03:55:59+00:00",
-      "score": 4.0,
-      "tags": [
-        "tension"
       ]
     },
     {
@@ -37,40 +27,40 @@
       ]
     },
     {
-      "title": "Three tankers hit in latest attacks in the Strait of Hormuz, British military says - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT2tfRFIyMHM3Y3R0UHRSQ0xwNEdNX2pjVUV5QkFGZk4yLUpVeU9RN0RHLXpUYU5UMzVIZkNwOWV4Q2dKTnJYZVl6UzZadkxHYUVYNmUzYWxoUEo1S2pPRUkxWmFsMHhadUYyams3ME5TOTlVSHhuTmgtRVA4NGo1NlJIOF9ZOUU2dGc?oc=5",
-      "source": "AP News",
-      "published": "2026-07-07T16:31:00+00:00",
+      "title": "Strait of Hormuz threat level raised to 'severe' after Iran attacks tankers using U.S. Navy route - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE52QkxGTEgtVWtmcW51ZkNXak9XMk11RXZtOGltRVZ4eW5uNnZDYVVOQUVsemlyODEwLURGRXRDSDZmdno3YjhsUno0N3B1TlJ6dVhsTi1zT0pMS0ItdHJURi0zeHppR0ptd3pMNzd1UjlXb0hVSkFtUHl30gF_QVVfeXFMUDVfTU1JaEZZYVp5NmF1LTNtbHhBeG45V1hpR0YyenNGRGxua2toUUNjeGpUVXZVNkI2VkNMdkQxU3NuVGV5cVdhQi1vTUtmT1lnUXZpVjU3WU5nbFB1bU8xek44TXAxdWNIWU9CQzc5ZFo4N1ZQN0hMS1Zralk4SQ?oc=5",
+      "source": "CNBC",
+      "published": "2026-07-07T18:26:26+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Three tankers hit in latest attacks in the Strait of Hormuz, British military says - ABC7 Los Angeles",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRjN4b3RmWFcwZEVqLUw5QmZMSXBmZVZIcjVlMF9GbzZ5b0dOdmJubU1WVkFHVnBBcHBWell2V0FHekhfdjlNdTByVTlvNm1wSW91UXFUaVJKRGtOSldfeHJWc21YZVd3V2NjTHNDRTJvWlY4WGtCNDVjRm9USU5jbThNUUJuLW8yUWlEWktpR0toY0M3ZjFiMFNR0gGfAUFVX3lxTE4yU3M3enB1N2tRcnB2MS1rdmZQYzFNSTQwTG5wZTMtNjZsMjN3R090b3Q4SlBzaXg0THZYVU4wMW5UYlJRVUh5RlRPUzBRcE5nTnJzdWN1NS1IaDl5UWlNZlRuQktINWFXbXZuRkdFTXVOWjdmRHItSWtRRjZ6WFlFdHY2a1hYa2VoNXpCaUJqWWR3SXhTNG9yYldEVnJaUQ?oc=5",
-      "source": "ABC7 Los Angeles",
-      "published": "2026-07-07T16:30:17+00:00",
+      "title": "Iran attacks ships in Strait of Hormuz days after Trump gave Tehran 'a week off' for Khamenei funeral - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWDVrZUVKczZYdURmenJBVGlxVnRXbnRtNFJESVZpclpOcVFYR2lfakk1ZnZzcXFQYnN6dVIyaXRhTWVvYWVnTUFhU0hUVkNhQXVrc1JnOEJtdHdZOEIwQzEtRXByZlBWZ2tJZnJOVWN3bHRsWkhlQUxEMXBFUjF6eVpOMFNwXzhNYWx5QUptdjBVdnQzT2FLeVotUFNiTWN5Y0xURnBkdUdSa0hseXJoWmdPMWtFdTl6UTJfdV8zRQ?oc=5",
+      "source": "Fox News",
+      "published": "2026-07-07T18:24:45+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Qatar condemns Iranian attack on LNG tanker near Strait of Hormuz - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY09EYjkycFVkd2xiR3o4OUFpRUpzeFg0MC1zczF2bTRlTTgxOU9oenQ1Wm96VUtRcnJsbUNKc2FscTZUTzd1aWJZZFNnU21uY196NVhCM2Q0MTJjc0FZUUFlOUlEeVVTMnlHclU5Z3lHUXczYWVVRXJZZ1JzRGl1QVBDRnRMMWFQSjcwSDllb01Xc3NrUXNzVGZBc214eE5HLTFrWNIBqgFBVV95cUxNeUxUdWZqVlg1bTR3Qk9kS3NZYWxpUTNHbFhUTUdJM0M4TEpnQTJFUXVDRlUtWl9CRUl2cnF6Uk1Ba2o0c1FTV3Fab3ZCN1RnQ2diMTAwQzZ4VEl5dWc0ZVVtaXJHdVBjTTlBMjVfRWtZMGEzQUVKUkFhTlh6alVOWHFBYnhxYkxzelFiMUNlanFCWnI1ckpJdUtFeVJLU0hpMkR5dU5NU19rQQ?oc=5",
-      "source": "Al Jazeera",
-      "published": "2026-07-07T16:18:45+00:00",
+      "title": "Qatar blames Iran for strike on tanker in strait as vast crowds mourn Khamenei - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbDVhY1RZUlFOQjM4aHdQa05DS0JCT0tfV3gxOUlqTGVFbWVTQnVhbUdDVElDMmxmVm1mUGZyOEQ5bGt1b1JmSGM3Mm1RNGZWdjFpei1wX1hXOFRXcXoxMDBmVy1SM1lMVEQ5U3E0RWNKbHJjTVlGSEd3RnZ1dmFIcWFjUFVhdDQxWjliNTZMMHkzX25IaXVreFRGN09qZ2k0VGxhVDNsTXlrV2pZTERKTmR0N2szZGZsZHB6V3lCWU1xZ0JQZXE0SFhlOWo?oc=5",
+      "source": "Reuters",
+      "published": "2026-07-07T18:20:11+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Strait of Hormuz: Iran attacks three ships in 24 hours, U.S. says - Axios",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tbGNnLW5qNTl0VDktckZlNFVidXJyTFNIQ3hxZnU0V0ppaHpQTnFxOHdOcHRqdVNGZHMxNkxsRTFYOEF4UGFXNFZTUl9oc3JwRWJCZnZaWllYT1EyMm1kX1BUaWZ3cy11VU9zQndSdWRpN1RrZnVFNnhHOE1ldw?oc=5",
-      "source": "Axios",
-      "published": "2026-07-07T15:56:19+00:00",
+      "title": "Qatar says Iran fully responsible after tankers struck in strait of Hormuz - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVDNPdTIwTDZReUdXUktsdFZWR1Jhd1BDSm9lVXVqZVN1YTNpSV9xOEZSeEkyRXVSMEkzZ1BLSk83NFNJMV95MlU2WWhtem41UU9nbmJheDkwdVpFUmQ0RVBsSXhLV2ZuLTNXTTlxSGNTNENDTm1NeUNXTURqVDdYNi1wOUY2Y0tyc09zak9HMWFaMjZOSDRiQlJyR1FpQklxX2RQTV9KTU1QM1ZFeGNtV2hVQnZaSFV4dGQzZQ?oc=5",
+      "source": "The Guardian",
+      "published": "2026-07-07T18:19:00+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -80,47 +70,57 @@
       "title": "Qatar says Iran attacked tanker in Strait of Hormuz - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1o5OHkwY0twdzRvVmpHd1IyVXQyOWNObEpxcEJEaS0xSHQ2UDhRRnJ1bURnNlZKb05VWlI4SXFrRXYxZE03ZzRQV2JTTWRjN0FhZU5ZSWRPdl9CTjl5QjljS2Z2Z0hsZzBfLXB0NFpoalZPSGU2aU1zWkxUUDVETV9NcmtCb3RlZ19JUWdDbDlLeHlEWmFoZnFkNUdRV1RXSGdQN0hZTnNuRTNEWERXbTdJOVVGZw?oc=5",
       "source": "The Washington Post",
-      "published": "2026-07-07T15:18:53+00:00",
+      "published": "2026-07-07T18:18:53+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "3 tankers struck in Strait of Hormuz as fragile US-Iran truce faces new test - WTVC",
-      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOTGtpTDhDUlhxZXlEcVZhNS1HLU9TckFWZ0hVOEI2Z3J3SmxGLXVxOUw1SHU0SmxDVEtTVmFUMGxDeFZqc2dYNFVLb0JLWHVlNmhyc0wwWkRndVd2WnczOXdHczJTUEd6NUNBUEgtU3FwaHMzeTZZQzhkLXJhZW8tVWM4c3RkRHZHWWF2a1dVU1g0Q053NVozRkx6NGRyTUZDREJfaS1maVZzeXEwTEZEWkNTQTlMWUNSdDZKNnpXM0hNNHdzcFRONFlvbmhmcGFwQ1hFbUVmdGdCaWEwWXBzaUlsOTFFd0RtWkZneFpVS20yYlp0U0c3UnM1NHVNYVZYSGhraFFfNW9UYlh3LW8zN3hTQzUwSGlmQ255dmFtWE5vQVRyVERCMmZXODBiSDVvVHlCaUdYUTNqcklud3JPWjhUXzVJNmhNVzRwQlpzWGVxNEJOWWRn?oc=5",
-      "source": "WTVC",
-      "published": "2026-07-07T15:15:26+00:00",
+      "title": "Three tankers hit in latest attacks in the Strait of Hormuz, British military says - Austin American-Statesman",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaHhnNUtIWU9paWQzR2l1UWM5aXlzQ0c0QzJkclZaVHNmWWYtSThETVU5NXZ3UkJPN3NQcEVVVElLY3VZc2c5Rkk3UlNwbkVTc0I4eklXYk1wTjNadC1QeVpLS2lwNjI0S3ZGdXN4NjNvS0g0NkQtT1pEUTNqV3EwR1ZOUGhkZExCVFk5MDZPRTEtbS1lcEN4RXBYYTdyZw?oc=5",
+      "source": "Austin American-Statesman",
+      "published": "2026-07-07T18:12:03+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Gas Prices Jump After LNG Tanker Attack Near Strait of Hormuz - IranWire",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSzNXblRJcTRBSUxuLUFuNVZsMUtlLUpxTlRPaXJsRUtlR1AwNDlQMXJvell3d1RZX0F0SmtfcUhWQzBiaklacTQtcGNBODZDelRjVHI4UEdnMXRZMnRoelpXQmI4Sl9xMEJibkgzWUppaUt3dFJYNUtEZHhwand3TGVJSXhMbzY4M0dPbnpDWFo0TlJId3RrRF9UN01nN1U?oc=5",
+      "title": "Iran\u2019s Strikes on Ships in Strait of Hormuz Test Cease-Fire and Threaten Oil Flow - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVWNwbUJWWVFmZXFpRGtwblBLU1lNUG9NRGVkVGpORHRnOVVjeEN1S0Y0aHU5eDE3T3pPT3hxNVJZanYwTk9GWE8wTktFZnYwY0RPWDRuNXBsdThwTlBoQjF2NWduYkxkODV2YXlGT05STGdJYVUzNU1rek5GNnc0REh5OFdkUVFodWhEcQ?oc=5",
+      "source": "The New York Times",
+      "published": "2026-07-07T17:50:20+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Oil prices rise as attacks revive safety concerns in the Strait of Hormuz - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY1BCTm1ITHZ6TFFsRUJKZ1RRTXJmVVZBZGdVSjRzVlVyc2kzNGJkanFHUXJKU3BkLTdEVm1zUWVrVVEtQktGcHpDNU9YLXJvUEJTUWxhd21Pbk1SR1BFMW9PLVdCV04yakprYTFPWktOR1c0OVVfSkxHNHhRT3VDcF90cTVENTlNUGhTZ1RlT01zZw?oc=5",
+      "source": "NBC News",
+      "published": "2026-07-07T17:37:16+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Update: Qatari LNG Ship Struck in Strait of Hormuz, Testing US Talks - Insurance Journal",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tU0g2THB6R3BWOWdtWUhlT0k0bDZ1VU4xZ2hnN1FIMjhoVi1KOS1hUmlCbFlNZXFaMlRSc1ltcUNhcEZfMkVkLVJySmJIQjE2RzN2RDVBYlhzcml2U3J6ZmVfX3daVEVQYVpzR2NFTVgyNzJ4MFVFZXZqNkhPQQ?oc=5",
+      "source": "Insurance Journal",
+      "published": "2026-07-07T17:12:56+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Global Energy Prices Surge After Third Tanker Struck Near Strait of Hormuz - IranWire",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVUoxc0FsMTFDbVEwUjVTMXZGUzJPSFdNWEd4VlBHcURTZkE4Wi1KTVZsN3NMV3FKQXI1aHRfMHUtQmZHaDRaM2xpaFVqMFZDZmRVd0FMdmpMbnRWXzB0U3IzV01MMDhFSV9hbmJEcFgwbHphbmhYTDZLTUpWZGtFLUFnZWItTVNEemZQMF9qb0ZvMkJxSi1ReXRjMDI4Y1hablYyZjM0Tk5YeFNjMVRyaQ?oc=5",
       "source": "IranWire",
-      "published": "2026-07-07T15:07:18+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Drone Attack Reported in Third Strike on Tankers Near Strait of Hormuz - gCaptain",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWnZTaE1kR3BQWnE3YUpGMzd4RndUZkQ3N2VFSzhjendTaFdLY3pTd0pDdFdMNDUtdXFNVE1taklCRjhUNmVSVXoyOHE3MXlZME5YRWYxT0NOVlhuN2VyTHhIbEQyTlNWdjR1LWktaTBsaGx4NWd5XzJYNFBsc0o1azIxN1dmWlZDZTk0d25JSTNmVlJWV0JZ?oc=5",
-      "source": "gCaptain",
-      "published": "2026-07-07T15:06:53+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Three tankers hit in latest attacks in the Strait of Hormuz, British military says - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaHBpMWxMdFBhZE9LZ09FRjJLaHltUHpGWmNYRWxkczR1Tm5pUkZUVEVsc0pDdXZMS2JYQnBNNERvT3JoVEsxMFZ0ZFZmRHdITmRETXc2WTNFS3F6MGRSWWMwMWV2dVNTX3FzRXUxOEdQcUtrZE1kM3A2WFhXMGFhNWc1U1oyeXBwUjRVQnFqSW40elFlQ2h5R3FYWm5fdE5YMnJWdXNMN21FdzlrYkJFYXpPSzFKUW5qQnBULUZJUTV6blQ4RUh6LW5wcw?oc=5",
-      "source": "Los Angeles Times",
-      "published": "2026-07-07T14:56:39+00:00",
+      "published": "2026-07-07T17:12:18+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -128,7 +128,7 @@
     }
   ],
   "brent": {
-    "price": 74.13,
-    "change_pct": 2.97
+    "price": 74.16,
+    "change_pct": 3.01
   }
 }
