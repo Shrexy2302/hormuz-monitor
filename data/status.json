@@ -1,11 +1,21 @@
 {
-  "status": "ELEVATED",
-  "label": "Elevated tension",
-  "tension_index": 8.8,
-  "closure_signals": 1,
-  "articles_scanned": 224,
-  "updated": "2026-07-07T01:14:29.297094+00:00",
+  "status": "DISRUPTED",
+  "label": "Major disruption reported",
+  "tension_index": 72.2,
+  "closure_signals": 2,
+  "articles_scanned": 230,
+  "updated": "2026-07-07T05:29:55.792966+00:00",
   "headlines": [
+    {
+      "title": "Weaponizing the Strait of Hormuz: Naval Mines and the Spread of Economic Coercion - \u7b39\u5ddd\u5e73\u548c\u8ca1\u56e3",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoSklBbENoYm9aNjFWNUdNNk1rT05xT2ZJdzZrMG0wRmtEYWkwZUkxSThGeW5fVER2cFJBNVcyS0J5ZmtPam4tVnZnLUg4Sy1mSTRrc2MyUUpKZVZJVG9sdVpyVQ?oc=5",
+      "source": "\u7b39\u5ddd\u5e73\u548c\u8ca1\u56e3",
+      "published": "2026-07-07T02:03:22+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
     {
       "title": "Germany says Iran should pay for mine clearance in Strait of Hormuz - Anadolu Ajans\u0131",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTjBDRWVwekh1aWJubVlGNGZUaE5aVzRmQ3gzRzVkdmY2aWY1VzhfOW1FZ3RqaFh4eHlrbkZKTWR4N1NKb3lqd0k5cmllLXFMYWxzcS0yeTdONFdEbERqY1FqcWpQTGxDUFNmdzVrZUlzc2JKTHpYejdieWFkNlctbFZDcUt5bi1aM3l1aGRDQ3NEekdHeEE4Yl92dER4VUh0eFNDNFdSZ0RTQmM?oc=5",
@@ -14,6 +24,26 @@
       "score": 6.0,
       "tags": [
         "closure"
+      ]
+    },
+    {
+      "title": "Iranian state TV: Gas tanker struck in Strait of Hormuz after ignoring warnings - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS3dmSzgtN0h5bGxYNTlYdFpvOW1JdjJvVmxteTRQeHA0X3duRXMwYzNVUVhxeDJpWjBTMmZycmNMOHFqRmphdUc3Zi1ENVdQUVZGS0xIZGdscGtZTHhGMU04X1RyVXhkZGIyMlJCc0lsMEZQQzRzX1NyX0tLb2FwYnM3aU9WbWE4ZE9sWU1LSDQ3bHQ4ZWpVOFh0ZG5ndFlMdXZKOGFPVlJXaWwzUjFwZkZNdm43akFWZ3hRMXh1d1V6dw?oc=5",
+      "source": "The Times of Israel",
+      "published": "2026-07-07T03:55:59+00:00",
+      "score": 4.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iranian state television says liquified natural gas tanker attacked in Strait of Hormuz off Oman after ignoring warnings - KING5.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOc0t5YTZoVGVub3lNeWZWX2RMY1ZjQ1JEVlNmZlRzMFR0TzBicF9GeHZxWG1majR5MTVMWVU3QWxyX2NRRzRMalQ0T3N1OEFyQTJib3l2U3N5Qm1DRzVYM1MtMFNBZTdUVUdXcmJwU2ZsdW8wODNTQTJRQmFkbE1pb0wxRHBDM2t3WjhORVZYOExFQnlzNTJJSGtRUjlWUUt3cjNrWTlmTnUzMEE3WnprQUE3TElNaFdOVDEtd2gxSmdidkxXR0RvZWhqRHN4ZXMxVkM1alduZU1KcFBmd3BDVUVweHlfUThaYmVoall3OUY5Z2lPdHJ6a2UxYTZnZHpHRm1HTnlTN2VDSF9CU1pxRUdKc19IMVZEdUJhOVZBeDRRYUlfTm82Mk9ST1pOTEx5QTctODFENmdZOGpGNjU1cQ?oc=5",
+      "source": "KING5.com",
+      "published": "2026-07-07T03:24:00+00:00",
+      "score": 4.0,
+      "tags": [
+        "tension"
       ]
     },
     {
@@ -31,104 +61,74 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS1F4NzFHeHhvUG5SbUxuRXdjWGExWkZqMGlTSmVLQ0pvWlhsX25tXzM1R015ZzRxUmJPeC1kYml2MElibkREc3FBU0hrRW9ldmpvT0FSd24xOTN5V2pzU3ZZU3VCeU5uQzZ5NVJudmRianc4Z3hfWTJ4Y05LWm9RNUd5ZERCUkE3MExUaUdYUHhSbkdRRS1SbzlmN2VDTnBfSXZBZlBheE10aEE?oc=5",
       "source": "stripes.com",
       "published": "2026-07-02T11:58:48+00:00",
-      "score": 3.16,
+      "score": 3.02,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Oil tanker struck in Strait of Hormuz, UK says - DW.com",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTmxlN1RsakJjREdJOGdSQ3piWjRJRkI2cXREMjNMbDNZWjY0LXN3UG1pVVJ4VUNYQmViNXdJYmNTQzZsUmxIdFpHd29VMlpaMWI2dkdsVHg3Q19zdW5kSmlRXzl5dU1XQUVxQnY0UXc2eDVmLWVXU1RwNWlyNGFvWFVfc1DSAYQBQVVfeXFMTUNSdEI3VDJkeFJ0MVFaTU9tRDJsRTgyQzA2OTZ1SXVZenNtbm1TNlNTdnVXNlpfR2g1RklDNDhaYjRGT25RNXpwc19GYzY3Nm9fNlp2SU9WRzNrMWdJekhCbXBRSzBRZmR3QVBJU1F0MnJ2alpNVWxzZkFvTVlPaEFHYmlL?oc=5",
-      "source": "DW.com",
-      "published": "2026-07-07T00:13:34+00:00",
+      "title": "Oil tanker struck near Strait of Hormuz, igniting fire - Yahoo News Canada",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE81V3ZjT0RJa0ticjdMMExscjdZMHp5a2FnQ1FxQnppY2Q1YmJ0R3J2bUtvTTVfX2c1eVRfWDhWeE5Ubjd6SV93V19LcHdmbTRCekkxU2FyZnl1S1RoTXlOY04zdEVrMWxVczJQLWdzUm12STdNcDY1TUJB?oc=5",
+      "source": "Yahoo News Canada",
+      "published": "2026-07-07T04:35:00+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Oil tanker struck by 'unknown projectile' in Strait of Hormuz, says maritime agency - Firstpost",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONlU2M1JPQ1NrOFM0OEtkZnVhRThxcUhZczlEX2pYRlczTzQzNUtSLW1yYUpkRVB6LUhRek1JRkkwWERsdmZHQXp0ZW9qTVppT0E1R0ZDM01pY1ZrbUdXYzQ0ZENKUjRTemlNX00tT052MDNXU3dXU2IzRzJpeGFCbXZFTGI4VVlPbUxVWVk0a0o2ekFzSjY1MzU5VXhpZmw4SDZBN0RMbUZOVnRpYUY5bjNXNGdOUTUtamtEb21wS3h0SkNm0gHKAUFVX3lxTE85d2gxWjJzb3JjTUZiYVZhOEVxaXlTeU9aN1ZxdVBxeTdVTGxaS1FRaVBkd2NWU2dET1REdFVITFBCRzRaVXpHcEdOeFcyVnA3SmpTUUVESVNWQjh3aWlHTF8yNURTb1owVTY3Q2w2eGVKMXlIUTdTbEF3d0l3STUwNnVRTXhFWUttbEpvU2M1SzFTamFiMjkzVk1ISG1LbnZMV0xmZUY0ZGQydFc4RXJhc0pzbW1wVTM2bG05dkpTX3U4N2o4aTA5cUE?oc=5",
-      "source": "Firstpost",
-      "published": "2026-07-07T00:09:31+00:00",
+      "title": "Tanker struck near Strait of Hormuz, UK maritime agency says - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYllRNXN3TWlGeEE2cFMzaEFFb2xDbWFtN05XSXhuQmJPSU5FbEhPbzh2TVJXenU2RzJmZHdGSXp5dGhWaFQ0WS1PN1VES2hqWndRQjEzWkpKMGJmLTJjMk5yQnYxUGJMSUVuLWdqMEtUMUF3Q1BoSG5oUXlQWHVoaHB3?oc=5",
+      "source": "CNN",
+      "published": "2026-07-07T04:32:24+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "CMA CGM Ship Hit By Missile In Hormuz Strait May Go For Scrapping - gCaptain",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV3NKMElrTmVXQS1LenJwSnhqcmZlNGxLTG01MDR6bG9LWGpGdnd1blBqZVc2aHVEWUdUUTZFU3FhOURjTG1WY29xVzVBVFBPRUMtS0Q2djF6UzJFN3FFcnRHMUFuUThNMjJpVkhlcG8wSG9JWTU5aHQzdGxEckFOXzMxU1R2LWo0OXNmN3c1Nlc?oc=5",
-      "source": "gCaptain",
-      "published": "2026-07-04T14:38:02+00:00",
-      "score": 2.42,
+      "title": "Tanker set ablaze after being struck by projectile in the Strait of Hormuz as Iran mourns Khamenei - WGAL",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZjBuTXBlSWg0V09uZ2RTNlRuTmxES01DMHdhV1ZUeE1JTjVTTGFJYUE3MGpMWHdjakVxMmN1N2NQQVhjcnJrQm5MLWZSbnQ3MzdQYVVmWENmZ2R4S0otMkZJcUdXVVowRXpTSUJrUlE2MUV4U3pOMXNGbmRKcWQzVk9GTWpMQjctLWc?oc=5",
+      "source": "WGAL",
+      "published": "2026-07-07T04:24:00+00:00",
+      "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "CMA CGM Ship Hit By Missile In Strait Of Hormuz To Be Scrapped, Says Company CEO - Marine Insight",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ2RUTWR2T1d2V1NYN053ZlM3NERTZFdLa1I0RWdzZFZNMU5TYXNjbEJwdUJaYWkyQ3ZzSUROMldmV0pNcEZfb1Z0VFR6d3RLWFhWZUVLck1YOXhxNjIyTEVfc25RMnpVY1NVc3lfN2ZrR0RmdFpLdkZfRDh0RFZjUzZFSzRnY3Z2S2s0amMtN18yUExfVzJQS2hLSWJEMThmdW9QMEdmN1l4NHJyRE5n?oc=5",
-      "source": "Marine Insight",
-      "published": "2026-07-04T06:32:36+00:00",
-      "score": 2.29,
+      "title": "Tanker catches fire after projectile attack in Strait of Hormuz; Iran blamed - The Federal",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQempndGJETUVTeDJqMmo3Rm5wZW1saUhwREt5RFZiSlJmTWIyWnFnSHBXWDdTbDQxbUstUm05dGtQS3dBclQxVGc0WlJDQXp5eVo0SUVQRDZCYktLZF9UbFlWNDBHUXRoOXhWTVE5ZS1Ud2V5bFM0TzE1QU4xM09RVUdFMFNjeE4x?oc=5",
+      "source": "The Federal",
+      "published": "2026-07-07T03:59:44+00:00",
+      "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Ships creeping back through Strait of Hormuz after Iran drone attack - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMm1XQm5TZ1YzTDlnMWIwQnRLT0pDdVhxVFJ1Q09LSnAxVnpCalVkamlpeTRrRnphODZ0NkpUVjFvX1gwUy1Dd0lucE9qM1lWTGtmcXM5cl93NTdiaHlpSEk2YmZiTHhXZVZwaVlrZGJVbjQtQURaQ3N1a1MyamxwTC1NZw?oc=5",
-      "source": "AOL.com",
-      "published": "2026-07-03T21:27:57+00:00",
-      "score": 2.14,
+      "title": "Tanker set ablaze after being struck by projectile in the Strait of Hormuz as Iran mourns Khamenei - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT2tfRFIyMHM3Y3R0UHRSQ0xwNEdNX2pjVUV5QkFGZk4yLUpVeU9RN0RHLXpUYU5UMzVIZkNwOWV4Q2dKTnJYZVl6UzZadkxHYUVYNmUzYWxoUEo1S2pPRUkxWmFsMHhadUYyams3ME5TOTlVSHhuTmgtRVA4NGo1NlJIOF9ZOUU2dGc?oc=5",
+      "source": "AP News",
+      "published": "2026-07-07T03:54:00+00:00",
+      "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Waltz warns UN that Trump\u2019s patience with Iran \u2018not unlimited\u2019 amid Strait of Hormuz closure, regional attacks - JNS",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUUhsV0ZaNHotOFJzNEVvVi1QbjlnT21qQjY0NEF3ZWVrZE5xT2RKMG00bGNWSG8zUWwxUnIzMjNQZTdwbVgxWEdPRG1fNVl5Q1VhV0g0QmJ2UHJXZUc5MExQY1ZwaklUcmZFRDlMSnNyNnA4eW5IN1ZweUN3MW5qY2E0NHVER2ZRczY5WGgwc0hLN1JHQ1RIeXR1VE9vZDJWWERqWXd6aHg2RENWMUt0TS1lNFJibEhUcGE4VzBiUzNhWjJ4eURWNGo1aWhSbmVxMVhB?oc=5",
-      "source": "JNS",
-      "published": "2026-07-02T21:04:52+00:00",
-      "score": 1.73,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "South Korea cargo ship Namu to exit Strait of Hormuz after attack in Gulf - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWHdUWXEwMnhHYkRxZnN5bGRGVXFhMHh3R2RaMTRkcnRaZE9GVXUzU2plNDJmazFsTDFQQTdGMFh5VHFCblk1djNzRGM1bF9NQXlfb2JxSy1mNDBXQnJaQ2p5QXk1TGRNRGFBd2NTal9ncWJZZWVNZ2UtWkxNa3VFS1B0LTRWNWdhdzk3NUd5clFqZHpGbDR3N3BlVVZ6a0NfVVR5NDY4T2hYV2NYd1g2MmlkYmF2VWpwZ0lV?oc=5",
-      "source": "Reuters",
-      "published": "2026-07-01T08:33:39+00:00",
-      "score": 1.12,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "South Korea cargo ship Namu to exit Strait of Hormuz after attack in Gulf - Al Arabiya English",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYVdxdWtselRSaDVCREJLQ2RqQ3VwSDAwcGNJa3lLVi03QjRtSVhrdjR6dzduU3ZhQnRHUUNoWnh4NHJaTXMtbU1rUDZNMHZRNGhXQ095N2Z2VUo5VU5EQVJPS2VMZXU5c0xvY1d0VENMYUMzS3pBNlRiYzE0Z0ptYTF0STUtVjEyUkZyUndLNzhqYmgwNHROR2UxOThVbHVIQ3lmOWplakVCNko5NXp4OVN1RTdpSkNxTmFobjgtWldMTGNFUzh6dkNMSdIB0AFBVV95cUxQbkRxVTJzMndjalN3Y0NLU1VYS1c4bEVFY3UyRExxdngzUDdrN1FYMlBMVkh3MXk5Y284LTNJWXljMnVwb1p5M0JDcEJfYjFWTFE2ZV9ITl9nYk45eUVNaXZnVnU1Qk9LNUh1WDBIcFMyUDM0bDk3Q0IzRjJBZHY2b2tzYUdPYllBUGlQODdadG9QS202WFpoWFBCV0d3MlJVQ3FsNkxxTUUzOXhtX3FPSTVqTnBteDhUeVlVWjVNSUpNZlFlTUI0TmJSS2JRUXJn?oc=5",
-      "source": "Al Arabiya English",
-      "published": "2026-07-01T06:49:00+00:00",
-      "score": 1.09,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "South Korea cargo ship Namu to exit Strait of Hormuz after attack in Gulf - Al-Monitor",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTGZVUzNsR0loWS1NRVVMZW93WUFVLXlkS0hseDZIV2hLdEJLRGFkUW5rYlA5X0ZLU3BnUGdENk1aUUExemt3bUlTSlRSV0p3VHpfWlJ4cC1vUlExbW5aTlNKX0pHek11UGxQWlpkbFh6NzV0WTkwNzdZbXZXWWUyS3VsMDlMdTdEUDFHSDZvY1Rxejl4TkNFV2UtZG9od09CdjAwZ1htSGdIQ25HVXc?oc=5",
-      "source": "Al-Monitor",
-      "published": "2026-07-01T02:34:12+00:00",
-      "score": 1.02,
+      "title": "More on reports Iranian forces strike LNG tanker and commercial ships in Strait of Hormuz - investingLive",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONUVORmtpYXFwdXFUQXItMGltMmFkeFJvd0kzRGZ5Z0NVaUt1UC1Rcnlfb0ZlMGxZUVl2MjdrTlFFQmdzRC1JUVM5cGtMRWhvWDh1LUZnZkl6ejRmVkZOYjNLUDNVeFVCQWFIRm5Ha3Z4d1ZleUpNbGV5c1lfWVduRXQyRks1OGRRVF9mNEZEN0RrSzIxMmJmNkI4eDBydVBzSmVpVW5Kdk9YdGVxdV9xQktXQ3RzQThWa1ZjSTR4NU96a1JVVGZFS3lkb2ZlbXpGYUtz?oc=5",
+      "source": "investingLive",
+      "published": "2026-07-07T03:24:08+00:00",
+      "score": 3.0,
       "tags": [
         "tension"
       ]
     }
   ],
   "brent": {
-    "price": 72.26,
-    "change_pct": 0.38
+    "price": 72.63,
+    "change_pct": 0.89
   }
 }
