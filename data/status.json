@@ -1,10 +1,10 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 171.2,
-  "closure_signals": 1,
-  "articles_scanned": 230,
-  "updated": "2026-07-07T20:48:36.515002+00:00",
+  "tension_index": 201.5,
+  "closure_signals": 2,
+  "articles_scanned": 242,
+  "updated": "2026-07-07T22:07:01.169519+00:00",
   "headlines": [
     {
       "title": "Weaponizing the Strait of Hormuz: Naval Mines and the Spread of Economic Coercion - \u7b39\u5ddd\u5e73\u548c\u8ca1\u56e3",
@@ -14,6 +14,26 @@
       "score": 6.0,
       "tags": [
         "closure"
+      ]
+    },
+    {
+      "title": "Trump orders immediate US Naval blockade of Strait of Hormuz after Iran talks collapse - The Eastleigh Voice",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOa2Nmd2RESk9ocVkxVkpRdW03eFVtb3BuMnFBV19Kbm9tR3lWMTdqR0J3RGkwaDlkeXdHZFNMX0I5Zi1PcmN5YmFlRUFCTkpDal9hWnFLdkVoeTlwZXNEVGswVjRfWWJCaEZCbUZJWGpQY3VYR2tISWFxaW5qYlo1ekljLTlZcklEQlNOdnFLZUdzNEkteWpQTU85RWhJT1NMOEJwb2FSWE42QndEVE84SFB6bFRCYjVnelJtMmhUMzJMUVVlSFhBT0t2T01rbENDWjBtUQ?oc=5",
+      "source": "The Eastleigh Voice",
+      "published": "2026-07-04T10:28:18+00:00",
+      "score": 5.35,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Strait of Hormuz tanker attack raises tensions as Iran mourns Khamenei - africanews.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcGY2dG5yXzdLaDJJTjFsbzF6c2dBLW5pZGN6VTl1RE1ZZ25zdmpWZXllR1haSDdnbU81QXVPUEFaUVJoN0RqRl9wVjk5S1JjRkZ4bTAtR0M4M05FbE1kWHRPUXZqSExyYzJNN082RzJBSGlWek5vYkVwU3pPRzR2ejBrRWk2eXpZeG1UcWJmTzN2Qm9TYjc1bXdHeGJqcUtMS1Z4UE01b1kxTU5KOW1UUTF1QdIBswFBVV95cUxPcGY2dG5yXzdLaDJJTjFsbzF6c2dBLW5pZGN6VTl1RE1ZZ25zdmpWZXllR1haSDdnbU81QXVPUEFaUVJoN0RqRl9wVjk5S1JjRkZ4bTAtR0M4M05FbE1kWHRPUXZqSExyYzJNN082RzJBSGlWek5vYkVwU3pPRzR2ejBrRWk2eXpZeG1UcWJmTzN2Qm9TYjc1bXdHeGJqcUtMS1Z4UE01b1kxTU5KOW1UUTF1QQ?oc=5",
+      "source": "africanews.com",
+      "published": "2026-07-07T20:07:10+00:00",
+      "score": 4.0,
+      "tags": [
+        "tension"
       ]
     },
     {
@@ -27,100 +47,80 @@
       ]
     },
     {
-      "title": "US revokes Iran oil waiver after Hormuz tanker attacks - France 24",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX1JtN2xQV29OUHRZbkc5Q1dkX1BVY3JDOW1sQmxFY2pZQUUxQWNyV1UyWVgwTERINUQ4OTI3ZGVfa1hxNGVOREVRN1lER29DMWRuSExOTnFNaVlnWXZiZkVoU19GckdGUTdMR0NkazRsWWRicE1IaGVNZFRkQmFBdUQ4UW1qTG1rOUc0cG9JclZheFdDTFAwa0xwMjBYcUFaYkRN?oc=5",
-      "source": "France 24",
-      "published": "2026-07-07T20:25:16+00:00",
+      "title": "Iran\u2019s Strikes on Ships in Strait of Hormuz Threaten Oil Flow - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVWNwbUJWWVFmZXFpRGtwblBLU1lNUG9NRGVkVGpORHRnOVVjeEN1S0Y0aHU5eDE3T3pPT3hxNVJZanYwTk9GWE8wTktFZnYwY0RPWDRuNXBsdThwTlBoQjF2NWduYkxkODV2YXlGT05STGdJYVUzNU1rek5GNnc0REh5OFdkUVFodWhEcQ?oc=5",
+      "source": "The New York Times",
+      "published": "2026-07-07T22:01:00+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Qatar says Iran attacked tanker in Strait of Hormuz - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1o5OHkwY0twdzRvVmpHd1IyVXQyOWNObEpxcEJEaS0xSHQ2UDhRRnJ1bURnNlZKb05VWlI4SXFrRXYxZE03ZzRQV2JTTWRjN0FhZU5ZSWRPdl9CTjl5QjljS2Z2Z0hsZzBfLXB0NFpoalZPSGU2aU1zWkxUUDVETV9NcmtCb3RlZ19JUWdDbDlLeHlEWmFoZnFkNUdRV1RXSGdQN0hZTnNuRTNEWERXbTdJOVVGZw?oc=5",
-      "source": "The Washington Post",
-      "published": "2026-07-07T20:18:54+00:00",
+      "title": "U.S. says it launched strikes on Iran for 'attacking commercial shipping' in Strait of Hormuz - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wWUxSMGlkR0lPSnJUbTRna1BQSWV1YWVhLU1qN0xvOGoyV3kxdDBXN0xwbjlSeDFncEl3ZmdETV94Z3RaQzM3VnBKVkdYck55V0RhUWlqRXBUWnViMkhYQWtpbER2WnJlX1l4WnpNdFhCeHFpcjVpX29B?oc=5",
+      "source": "CBC",
+      "published": "2026-07-07T21:54:35+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Oil prices jump 5% after U.S. revokes Iran oil sanctions waiver following ship attacks - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY1BCTm1ITHZ6TFFsRUJKZ1RRTXJmVVZBZGdVSjRzVlVyc2kzNGJkanFHUXJKU3BkLTdEVm1zUWVrVVEtQktGcHpDNU9YLXJvUEJTUWxhd21Pbk1SR1BFMW9PLVdCV04yakprYTFPWktOR1c0OVVfSkxHNHhRT3VDcF90cTVENTlNUGhTZ1RlT01zZw?oc=5",
-      "source": "NBC News",
-      "published": "2026-07-07T20:07:53+00:00",
+      "title": "US launches new strikes against Iran after three ships were hit in Strait of Hormuz - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT2tfRFIyMHM3Y3R0UHRSQ0xwNEdNX2pjVUV5QkFGZk4yLUpVeU9RN0RHLXpUYU5UMzVIZkNwOWV4Q2dKTnJYZVl6UzZadkxHYUVYNmUzYWxoUEo1S2pPRUkxWmFsMHhadUYyams3ME5TOTlVSHhuTmgtRVA4NGo1NlJIOF9ZOUU2dGc?oc=5",
+      "source": "AP News",
+      "published": "2026-07-07T21:52:00+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "US revokes Iran oil sanctions waiver after Strait of Hormuz strikes - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbHItUHRtZWdIclhmSWY0ZlJqQklxcmlkaEszMW9NOFBqeTVvZ0NremNDd1hCV0V6T3VFS0pPQ3ZFU1dTYV9fYTVlS3RCYWMzSEdEWDVVak9mSnQyZVl2VUx1V0J3TDlHempMb09FLVhzbDVGb0k5VHdDZHEzZ1JyMkd6OS1Vd2RsbzR5Wlg1bi1nRW1FbEpIWGtrbFFjd9IBowFBVV95cUxNeHphVWlpaU5JX1ZJbVNRM2lycjZvY01lcTE4dUVQeklKQVBBUS10VHk4MXJMcmoyXzE5Q0N0Z1d5ZE1OazJVOGlZUGtRYzBNLWZZampJcWpORlBWemFtWnE5NTl4bUxvMnEyX3ZqMFR0WHFrR1h2cG5RNUFaenpoVHptTmxnTDRWbjF0TGE4MkV0V1FjV1RBNVpvdmN2Z0prUGIw?oc=5",
+      "title": "U.S. launches strikes against Iran after ships hit in Strait of Hormuz - PBS",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNTZzZDZIRGxhTEJNMnlBUGFub2IyU1dlaUJtZVJPZkFxQmoyT1dOVjQ0ektpSnpUM1dkWjZYYmR0cnNFSV9MRUVPN3g0aVR1ZHpXLTZvc0UweVdud0FPSTVrOUZMS2NtUXM4WUtGa0RValAyYzBvVjlLQW1IT0xoa2RZekp6SnJWUVJTQzhvbkxBcjJZSWk2LXRHdGZaalAwUURqNGM4VdIBrAFBVV95cUxOTVJmQ0tjOVhMdlVrWks4U3M2LWxheDc1RDUybWlEYW1lemNTcU1wSjRiTzJQVHR0djZzMGlYdjgwTV9vRGZCZm85eldlYlBvVXBJSm5BY2hkSENVQWxLZlFsdkg2TUwtdU1wNU1hVnhNanMxU2NUMXZsOHdOR1U2VEFwQ3lDR01jUnpQWlV6Q3RqbXlzaGhJMWxjQUxEMThnM1JhV2tUazY0c2lo?oc=5",
+      "source": "PBS",
+      "published": "2026-07-07T21:51:45+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "US military strikes Iran after Tehran hits 3 tankers in Strait of Hormuz - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOemVDSkdvakJFeUhtMGhMVVhneFk1MHBvb0JBcUptZk1WTzZ5ZWZDaGZvU0VVVWtJMkRQMHZqUndhY3d5c2dVbXlsZjVmdzk2Mi03U05QRjA3emlPMjJlTmtuMmd2dXR3M2U4MEk1clJqWTltRGhpdV9LYXhEZERpTHBwUFBfV2lGTVHSAY8BQVVfeXFMUDZoNVVKSzBfaVVFbGE4cnZLRWlZYy1jdUVIOTlvM3QzdWdxUmxQMk5DU28yN0lER0t0SDF0dmw5Rm5PQ2ZvUzRhbUVRMklzbWphTG1yTjktWThiem5NcDdIRXBCUVVNRm54N0lYZlRZMkNwMVY0eXVvb2VweUF4X0Vnb2c1YlZQN2JOaVVCVGs?oc=5",
       "source": "The Hill",
-      "published": "2026-07-07T20:05:00+00:00",
+      "published": "2026-07-07T21:41:00+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Two tankers struck in Strait of Hormuz after Iran reportedly attacks Qatari ship - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TM0s4OTBBX0lVWjkwRE5KV0pHazRjOW1EMjNPR2F3M0dRanZfMVdfQ01oOVJjNzU4Z3p2N1p6dWVyODRudWFEZTU5SVJWNy16cWsteXRZSDdlalAx?oc=5",
-      "source": "The Jerusalem Post",
-      "published": "2026-07-07T19:30:27+00:00",
+      "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MbzNFYURjUGo4T1hRZnJ0WjZFNVAzSzk1b28yVS1NR3g4NVpZMjNsUzhVREdqZFdLNm5TOWtzOS1QSDVzV0szbGFfZmFaV1lLWjlOTzBaVHg4QQ?oc=5",
+      "source": "BBC",
+      "published": "2026-07-07T21:38:07+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "US revoking license that authorized Iranian oil sales after Hormuz tanker attacks, official says - Ynetnews",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wSTRzaGRoNlBmMi1nS2t2cnBUSFVoamNSbUFxRmE1QVdwZXBkRVpYUi0tYzJZb3BnUEh2SE9BY0hfUVFIalBKdFNYb2ljd1lnQTdfdnBR?oc=5",
-      "source": "Ynetnews",
-      "published": "2026-07-07T19:24:32+00:00",
+      "title": "US revokes Iran oil sale license in a threat to fragile truce after ships attacked - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbDVhY1RZUlFOQjM4aHdQa05DS0JCT0tfV3gxOUlqTGVFbWVTQnVhbUdDVElDMmxmVm1mUGZyOEQ5bGt1b1JmSGM3Mm1RNGZWdjFpei1wX1hXOFRXcXoxMDBmVy1SM1lMVEQ5U3E0RWNKbHJjTVlGSEd3RnZ1dmFIcWFjUFVhdDQxWjliNTZMMHkzX25IaXVreFRGN09qZ2k0VGxhVDNsTXlrV2pZTERKTmR0N2szZGZsZHB6V3lCWU1xZ0JQZXE0SFhlOWo?oc=5",
+      "source": "Reuters",
+      "published": "2026-07-07T21:30:47+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Iran attacks Qatari LNG tanker, Saudi oil ship in Strait of Hormuz - qz.com",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44Uk5CLVAyYzkxaFNlM0hMdnFQblozSWlqR1I4UEVHYlg0VVdkd0NaRTlSaklINnY3UGFIOW5ySlgwTUNFSzhvQVZmYi1fcUN1c2RyVmlrby10a0MwdDhKbm9tczNNc29iNmZtV0dOQmtteHVRRWdQWg?oc=5",
-      "source": "qz.com",
-      "published": "2026-07-07T19:22:14+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "U.S. revokes Iran oil waivers after Iranian attacks in Strait of Hormuz - Axios",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYVpLX0M5NlVHbmhHOFZKclBtRkh4Njh6ZGdQZlp4TnNHRVRuc00tQUFldFpGNFcyOWJ0eThhZUtIVU5jb2hhRHpVckJXRVdmRzFWWTlVa0Nndy1rdjVFZmJpZDFGWnZkVWZjamVEQ1FwNVZnU2pHZ1dVV0pzZ3Fod1piTHQ0NkN6TlE?oc=5",
-      "source": "Axios",
-      "published": "2026-07-07T19:12:57+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Fresh Attacks in the Strait of Hormuz Raise Stakes for Peace Deal - Time Magazine",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSnFZSEhVYW5DVEJXTU5iZEtTMU9aeHlJbWlwTV9UdWowMnBoOTlhcmJDc2d6NnlWT2FDemtoaHRONFBnTE5kdkJEblFVZUl4MGctTm51b3BtU1pKcFJhV2w5MkZhdjJDQW9aeUlLM0laMWtZYjV4ZFZoM1pYLUZQeUdqb1c2bDdkU0gxQjdaYWxKU1J5Y2NV?oc=5",
-      "source": "Time Magazine",
-      "published": "2026-07-07T19:12:32+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "US revokes authorization for Iranian oil sales after Hormuz strikes - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0NnVWYXZwMXBQQXVuZEJNY1BUS014N3JEUWNUbmFHOVhsdVMzM0VwQmpLR2NxOTktSVlpeExFMmRJQ01XanVZTmpaanhmejJIQ3RpN01KaDdpRkJiY2haQzM1VUcyQUo0bWc?oc=5",
-      "source": "The Jerusalem Post",
-      "published": "2026-07-07T19:09:32+00:00",
+      "title": "CENTCOM launches 'powerful\" airstrikes in response to Iranian attacks in Strait of Hormuz - ABC7 Chicago",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR1BIR01uMUFranM3eFAwaHg4X2pLcG56MDgtSGpacl9UeWppTEtkUUNGdWp6aXJkYVFVcVFOaVVPZlFNRXFDdnp2RGhoSTVPRTVzVGFaMUJZeW82TUNPWmNkMEpVa18tUXhSWkFPM0NxREVNYVRCYVlUSGcxazBaazlZa3ozalI3a3Z3V1lrQmhMY2h3NmlCUHgyZ29OZUltX2g40gGoAUFVX3lxTFBSQ29qbnM2VnZkVktGQlBkMnNNSDI5TGs1MFgtaHZZU1lHdFJkY2VRU25ZbHRuQzlGUzczQzl3SG5PV1d6OWtXYzBEOFcydW9DNVAxVl9KUDR1QlJ0bmZwaC16NThLWWFsVUhKREZFYm15RUJuQzlRa3ZmcDRwZi1UeGZ5c0gyUWlaQjhRVUl5N1JxNC1uNi1lenRlcEc1cTZqN3JsZjJXbA?oc=5",
+      "source": "ABC7 Chicago",
+      "published": "2026-07-07T21:29:10+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -128,7 +128,7 @@
     }
   ],
   "brent": {
-    "price": 75.98,
-    "change_pct": 5.54
+    "price": 75.86,
+    "change_pct": 2.29
   }
 }
