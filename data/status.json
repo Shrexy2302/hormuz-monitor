@@ -1,11 +1,21 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 201.5,
+  "tension_index": 255.7,
   "closure_signals": 2,
-  "articles_scanned": 242,
-  "updated": "2026-07-07T22:07:01.169519+00:00",
+  "articles_scanned": 228,
+  "updated": "2026-07-07T23:28:07.921115+00:00",
   "headlines": [
+    {
+      "title": "Strait of Hormuz is closed once again: Iran - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84NVNuS3BtZVBRYXZNdGFxRTl2UURCamRKUWxSTHROY2RfMDMwOVdzczhsSEVScUcwaUpIU3U0NTRIQUtLR05IM2t2MkRlODZJNnZJUnZGMlRyeThERmR6aHo5SE1JZGJGdEhDeE1UdjJMWWZXVjVz?oc=5",
+      "source": "News On AIR",
+      "published": "2026-07-07T20:14:43+00:00",
+      "score": 10.0,
+      "tags": [
+        "closure"
+      ]
+    },
     {
       "title": "Weaponizing the Strait of Hormuz: Naval Mines and the Spread of Economic Coercion - \u7b39\u5ddd\u5e73\u548c\u8ca1\u56e3",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoSklBbENoYm9aNjFWNUdNNk1rT05xT2ZJdzZrMG0wRmtEYWkwZUkxSThGeW5fVER2cFJBNVcyS0J5ZmtPam4tVnZnLUg4Sy1mSTRrc2MyUUpKZVZJVG9sdVpyVQ?oc=5",
@@ -17,13 +27,13 @@
       ]
     },
     {
-      "title": "Trump orders immediate US Naval blockade of Strait of Hormuz after Iran talks collapse - The Eastleigh Voice",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOa2Nmd2RESk9ocVkxVkpRdW03eFVtb3BuMnFBV19Kbm9tR3lWMTdqR0J3RGkwaDlkeXdHZFNMX0I5Zi1PcmN5YmFlRUFCTkpDal9hWnFLdkVoeTlwZXNEVGswVjRfWWJCaEZCbUZJWGpQY3VYR2tISWFxaW5qYlo1ekljLTlZcklEQlNOdnFLZUdzNEkteWpQTU85RWhJT1NMOEJwb2FSWE42QndEVE84SFB6bFRCYjVnelJtMmhUMzJMUVVlSFhBT0t2T01rbENDWjBtUQ?oc=5",
-      "source": "The Eastleigh Voice",
-      "published": "2026-07-04T10:28:18+00:00",
-      "score": 5.35,
+      "title": "Strait of Hormuz closed as Iran vows to attack any ship - The Canberra Times",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYWpDd1hkOEp6NjZXcTlmQ1k1Q0FnSENURldvb2QtUnlhZkY4dDRPdU1DNDRmMmlnV2lMSGFnbnA4UWhkNEJ6Q3ZLVzJHUWVLRy13TU9rcnRxUEVvZzRqczZmVTFwTmlJbUdMd0s5UkFSSmtjRVplV0Vqa21xRUFkWkRKUHFxRHlPZXhENlRseXFCYTRIMk5QUWFSOExkbTN5TjRFQUlR?oc=5",
+      "source": "The Canberra Times",
+      "published": "2026-07-06T15:31:57+00:00",
+      "score": 4.78,
       "tags": [
-        "closure"
+        "tension"
       ]
     },
     {
@@ -47,30 +57,61 @@
       ]
     },
     {
-      "title": "Iran\u2019s Strikes on Ships in Strait of Hormuz Threaten Oil Flow - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVWNwbUJWWVFmZXFpRGtwblBLU1lNUG9NRGVkVGpORHRnOVVjeEN1S0Y0aHU5eDE3T3pPT3hxNVJZanYwTk9GWE8wTktFZnYwY0RPWDRuNXBsdThwTlBoQjF2NWduYkxkODV2YXlGT05STGdJYVUzNU1rek5GNnc0REh5OFdkUVFodWhEcQ?oc=5",
-      "source": "The New York Times",
-      "published": "2026-07-07T22:01:00+00:00",
+      "title": "Iran announces closure of Strait of Hormuz, cites US and Israeli ceasefire violations - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcGd1RnowV282T1haZzYxWkdGYm00YUhrZk1Qak1QU3l1VlFRNXJETTlwY3RRSFRjQVpkYkNpaUU5S2prM1pVMHBGOVZQc0RtWW4xaFp4RkZRZG9kNjlrU3BhdGJhVHA5S1lfRUxVNVNmMHlUcEJMTXNYYlNEY2F5akt5R0JvcWpiUzA2d1NZT2FRVGN4VVViOTJUcDNlcFVlMENBTndLV3djSXprcjJtMDc2bVZlNkhXczdoc013UVdtLVQ5cUdKVGhLTWI0QnYzQ3VSQnBTM0xoNFdSUjlRc1Y4dw?oc=5",
+      "source": "MSN",
+      "published": "2026-07-03T06:15:16+00:00",
+      "score": 3.03,
+      "tags": [
+        "calm",
+        "closure"
+      ]
+    },
+    {
+      "title": "U.S. launches \u2018powerful strikes\u2019 against Iran, citing attacks on commercial ships - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1o5OHkwY0twdzRvVmpHd1IyVXQyOWNObEpxcEJEaS0xSHQ2UDhRRnJ1bURnNlZKb05VWlI4SXFrRXYxZE03ZzRQV2JTTWRjN0FhZU5ZSWRPdl9CTjl5QjljS2Z2Z0hsZzBfLXB0NFpoalZPSGU2aU1zWkxUUDVETV9NcmtCb3RlZ19JUWdDbDlLeHlEWmFoZnFkNUdRV1RXSGdQN0hZTnNuRTNEWERXbTdJOVVGZw?oc=5",
+      "source": "The Washington Post",
+      "published": "2026-07-07T23:18:06+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "U.S. says it launched strikes on Iran for 'attacking commercial shipping' in Strait of Hormuz - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wWUxSMGlkR0lPSnJUbTRna1BQSWV1YWVhLU1qN0xvOGoyV3kxdDBXN0xwbjlSeDFncEl3ZmdETV94Z3RaQzM3VnBKVkdYck55V0RhUWlqRXBUWnViMkhYQWtpbER2WnJlX1l4WnpNdFhCeHFpcjVpX29B?oc=5",
-      "source": "CBC",
-      "published": "2026-07-07T21:54:35+00:00",
+      "title": "U.S. launches new attacks on Iran in retaliation for attacks on commercial ships, U.S. military says - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORjNtd1V3TWhyd0hDQzlLOGJQUlhobGw3VTlJYnp0a3Ayak9tdEIzSXFJekhiNXFiRnZjSEZxN1dFczZtUVRWM0REcnRCSDZnVW9aUkFpeDhRUWhlSnM2YTFzRXMzdTlielRWOU96c1BBaDIxSlFFbnVpazF4M01TUGxFY2RzSnVnQ21UV29YOFk4c3VIeDhTZ3JpX1VHcXhEb0ZlQ0x5SF9pYVdobzZ0dmdxQlRNZnc?oc=5",
+      "source": "NBC News",
+      "published": "2026-07-07T22:28:23+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "US launches new strikes against Iran after three ships were hit in Strait of Hormuz - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT2tfRFIyMHM3Y3R0UHRSQ0xwNEdNX2pjVUV5QkFGZk4yLUpVeU9RN0RHLXpUYU5UMzVIZkNwOWV4Q2dKTnJYZVl6UzZadkxHYUVYNmUzYWxoUEo1S2pPRUkxWmFsMHhadUYyams3ME5TOTlVSHhuTmgtRVA4NGo1NlJIOF9ZOUU2dGc?oc=5",
-      "source": "AP News",
-      "published": "2026-07-07T21:52:00+00:00",
+      "title": "U.S. launches new strikes against Iran after 3 ships hit in Strait of Hormuz - NBC 5 Dallas-Fort Worth",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRE1BRmo3QUVRb1kxSnM0cEl1Vkp0Y3N5TThtSUpsU2VTWjlFMEhCSS1Uakk1QzdpQVhRejRFUXZvX19jLVVHX0k3SWh6dkJLc2s5U3JUNVVPN0R4ZHBXSy10UDZMRkxqTXZxV3FfVHpKOU1QaGV0MS1FSVdpQWVBNXBtN3k2dnBUV3haZFU0MDFCbnZiV1dyRFY3RUxGY0JyNzdCTVVYMXJrZXJTMHfSAbYBQVVfeXFMUGNnV1poTG1lTXVZUTNJaXY3SmhoNkN3M3FSOG5UeDFlanROVTJpWUthOWdnWEUyVW1KbF91djZnNm92QmVLVVNyN2tHUHFGUFdsMjRmYk5rbEducHBIbEl1dDhjd0VGdGk0SklpMnVvQ1p0RUlicFNhanNIOGg4TEVsQS1NSGxzRk9wZlZVdm5TWkJCRXdGbGJQaXp6V25PN3RpRjliZWdncVUwSFpyZktyWE1PLUE?oc=5",
+      "source": "NBC 5 Dallas-Fort Worth",
+      "published": "2026-07-07T22:23:11+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "US launches new strikes on Iran after reinstating oil sanctions over shipping attacks - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSnlDcmRsQXJla2hiY2dMMG5tbTJtemVqT3Z5ZXN1UmFRcDNSQVJLbUJNRjYwX3FZbTAzUC1XVXdSaENDeDhHMXJYT3o5SW9MaElkQWJnTlY5cXBwOS12azN6WExHNGRYaTRDZG8xRElrTGxnTnpKa3k5aHdJU0w1RUlYaVRyQUNkT2NHeWl0TlQ?oc=5",
+      "source": "Yahoo",
+      "published": "2026-07-07T22:04:50+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "US launches new strikes against Iranian targets after vessels struck in Hormuz - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaHQ2em5aVkRTT3djX2pqRWN1T19NQ0U0dFNJTTEycV9KcnBHYjBxc0hKVHBMaXE1V0NFZnRsQnhUTHRxRHBCN2RQZG9mT21NTWgwQzVTcl9VLV9NY3Iwb1lESjZxZjFyRF9PVXpWUDRmTVVmSVM2Z1VOdjFTVFRwaDZFb3BRVF9KeFFQQ1FRVmc2YjEwSEoxT2s1b3FOdWZ4cmo4WG5PRE5SYmVweUhqWVdSNThMSUhDSEVHOEJLV1lPU25iMGF2Zm5NZVhka2lxUldSbGhR0gHWAUFVX3lxTE5uRzVzb2V0TnF1RWFrSXlURFE1R1d4UVhMakx6NHdMUk9Hbk94Y0NxcHdsUXU4UmJmYV9lTzkzc0VzeG44eEYyTnhpSWVfSE9yS2Z4UGoxNXVzZGVXYi1UUElsb3BrdUc4SEtKT2RsQmJpZERpeGM5RFhZUU5JYU9WTTd4dlRmOTNFaEFsQjFlWW1IYmRKU04yQmd0dEZuaUFCMllBZlExSlNiV0VQODQ5aktrWlIzSU85dElpc09YeGlUbmJ0c1NPdy1FVURTazNQa2lXZnc?oc=5",
+      "source": "South China Morning Post",
+      "published": "2026-07-07T21:52:02+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -85,50 +126,10 @@
       "tags": [
         "tension"
       ]
-    },
-    {
-      "title": "US military strikes Iran after Tehran hits 3 tankers in Strait of Hormuz - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOemVDSkdvakJFeUhtMGhMVVhneFk1MHBvb0JBcUptZk1WTzZ5ZWZDaGZvU0VVVWtJMkRQMHZqUndhY3d5c2dVbXlsZjVmdzk2Mi03U05QRjA3emlPMjJlTmtuMmd2dXR3M2U4MEk1clJqWTltRGhpdV9LYXhEZERpTHBwUFBfV2lGTVHSAY8BQVVfeXFMUDZoNVVKSzBfaVVFbGE4cnZLRWlZYy1jdUVIOTlvM3QzdWdxUmxQMk5DU28yN0lER0t0SDF0dmw5Rm5PQ2ZvUzRhbUVRMklzbWphTG1yTjktWThiem5NcDdIRXBCUVVNRm54N0lYZlRZMkNwMVY0eXVvb2VweUF4X0Vnb2c1YlZQN2JOaVVCVGs?oc=5",
-      "source": "The Hill",
-      "published": "2026-07-07T21:41:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MbzNFYURjUGo4T1hRZnJ0WjZFNVAzSzk1b28yVS1NR3g4NVpZMjNsUzhVREdqZFdLNm5TOWtzOS1QSDVzV0szbGFfZmFaV1lLWjlOTzBaVHg4QQ?oc=5",
-      "source": "BBC",
-      "published": "2026-07-07T21:38:07+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "US revokes Iran oil sale license in a threat to fragile truce after ships attacked - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbDVhY1RZUlFOQjM4aHdQa05DS0JCT0tfV3gxOUlqTGVFbWVTQnVhbUdDVElDMmxmVm1mUGZyOEQ5bGt1b1JmSGM3Mm1RNGZWdjFpei1wX1hXOFRXcXoxMDBmVy1SM1lMVEQ5U3E0RWNKbHJjTVlGSEd3RnZ1dmFIcWFjUFVhdDQxWjliNTZMMHkzX25IaXVreFRGN09qZ2k0VGxhVDNsTXlrV2pZTERKTmR0N2szZGZsZHB6V3lCWU1xZ0JQZXE0SFhlOWo?oc=5",
-      "source": "Reuters",
-      "published": "2026-07-07T21:30:47+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "CENTCOM launches 'powerful\" airstrikes in response to Iranian attacks in Strait of Hormuz - ABC7 Chicago",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR1BIR01uMUFranM3eFAwaHg4X2pLcG56MDgtSGpacl9UeWppTEtkUUNGdWp6aXJkYVFVcVFOaVVPZlFNRXFDdnp2RGhoSTVPRTVzVGFaMUJZeW82TUNPWmNkMEpVa18tUXhSWkFPM0NxREVNYVRCYVlUSGcxazBaazlZa3ozalI3a3Z3V1lrQmhMY2h3NmlCUHgyZ29OZUltX2g40gGoAUFVX3lxTFBSQ29qbnM2VnZkVktGQlBkMnNNSDI5TGs1MFgtaHZZU1lHdFJkY2VRU25ZbHRuQzlGUzczQzl3SG5PV1d6OWtXYzBEOFcydW9DNVAxVl9KUDR1QlJ0bmZwaC16NThLWWFsVUhKREZFYm15RUJuQzlRa3ZmcDRwZi1UeGZ5c0gyUWlaQjhRVUl5N1JxNC1uNi1lenRlcEc1cTZqN3JsZjJXbA?oc=5",
-      "source": "ABC7 Chicago",
-      "published": "2026-07-07T21:29:10+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
     }
   ],
   "brent": {
-    "price": 75.86,
-    "change_pct": 2.29
+    "price": 76.23,
+    "change_pct": 2.79
   }
 }
