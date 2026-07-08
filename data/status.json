@@ -1,10 +1,10 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 235.1,
+  "tension_index": 229.1,
   "closure_signals": 2,
-  "articles_scanned": 238,
-  "updated": "2026-07-08T01:00:26.918879+00:00",
+  "articles_scanned": 226,
+  "updated": "2026-07-08T04:41:52.482880+00:00",
   "headlines": [
     {
       "title": "Strait of Hormuz is closed once again: Iran - News On AIR",
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoSklBbENoYm9aNjFWNUdNNk1rT05xT2ZJdzZrMG0wRmtEYWkwZUkxSThGeW5fVER2cFJBNVcyS0J5ZmtPam4tVnZnLUg4Sy1mSTRrc2MyUUpKZVZJVG9sdVpyVQ?oc=5",
       "source": "\u7b39\u5ddd\u5e73\u548c\u8ca1\u56e3",
       "published": "2026-07-07T02:03:22+00:00",
-      "score": 6.0,
+      "score": 5.91,
       "tags": [
         "closure"
       ]
@@ -37,20 +37,70 @@
       ]
     },
     {
-      "title": "Oil jumps as U.S. 'powerful strikes' against Iran risk unraveling fragile Mideast truce - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jeDRpOERtcVZVVzR6d2gyVzdlRzZwV0dnV25fcTBFTXNkUkJpV0ZJbG4xMUNPUTUteTFMakRJdC1ZX1I1LTBMOEw0MHBqUzdJbUt3dFJMRUw2MnBEUFdmTDJmLU1sdU1uczJxNjluZXhLaWJSXzhKZ1RYSG7SAYIBQVVfeXFMTThTc201Q3RfZWVMYUtkX21SaEJRWFhsNHBOWTE2WDZ5UEVFMHdrSURjYWtjckRhSDBZTEZPY1ctUUtwUy1QRUxrM1RHQlQyWXhsY0NBbEZjcXRZeDhKS0VRN0llU3MyOFhMNlBIazk5RHVtbVBjSmpCVEVjUmhfZG54dw?oc=5",
-      "source": "CNBC",
-      "published": "2026-07-08T00:26:00+00:00",
+      "title": "US launches new strikes against Iran in retaliation for attacks on tankers in the Strait of Hormuz - EL PA\u00cdS English",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQY05DUG9vR2lac3M1NS1kcmF2WDEyU2xFQkRVMFpIUXVSNlhHV0YzZnh1TG9JVk12UFhmV1IwV29pZV9nZGpOcGt4dzQyUEJucm82QWNvZlIzUmhqRXUzQ05jc2Q0cVZjMGd3MXpXb2ZvTTA0VHVldU9EeUVHV1Z6QThPVnk2Yk9EV0ZVYVI0TE9ONUttY0xMbkxYeEp6U1BWYURXNWlvTlB1QU5NeVNjUFk5MEVDMnIzOWtDNXRuX1hucDhXa0VKMW9qc01uWm1uZFd1QzJKYngzYTJKWTF0eDFRalQtLWxzSHU00gH_AUFVX3lxTE5ZdmlOZzVrMGo2bFQ3Y2JaUlhlS1BwbnJRR3FXM20wMFZCamxDMmtJNTFBMlZrV1dtOUR1RWI1NVZXdlJvMldHU3VVT1hzUDAzNEllaEFNNVRXWWtZa0J0SGpRaVBBeUdSS09LTmpkVk02ZGhyVmtUUGdLS2xVWUczWldUbmN2bm9Lbkh5VWpHOFRRUGxqbzNvVW03MHVWQzNkSjN1TFlObFdNRzRmRENmczd2MFZjbGVUWUtGaF9GeDhPSk5fSUllRlRSTFhiMTRXalFzdVpWTXNyTjk1Q2dUTzhPQjlobm9zbkJpbXZYM1hPUkYzb3luSWxMZ3A4VQ?oc=5",
+      "source": "EL PA\u00cdS English",
+      "published": "2026-07-08T03:52:33+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "U.S. launches \u2018powerful strikes\u2019 against Iran, citing attacks on commercial ships - The Washington Post",
+      "title": "U.S. strikes Iran after attacks on vessels in Strait of Hormuz - Axios",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PZ3hMR0poZ1E1WVpvYkRCVzNXYXJ3cm1fcEo3ZW5wVlViY2xsYnR4dzkxaERPcDAwcndERmR5Ry1VMGdZZEpTS3BBekp4eFc3SHhGNWE3bXNIdkJzc2dMc3lMUmFzRG0zdnYybUZlYnpNbFZuOU5z?oc=5",
+      "source": "Axios",
+      "published": "2026-07-08T03:29:31+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "U.S. launches dozens of strikes against Iran, citing attacks on commercial ships - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1o5OHkwY0twdzRvVmpHd1IyVXQyOWNObEpxcEJEaS0xSHQ2UDhRRnJ1bURnNlZKb05VWlI4SXFrRXYxZE03ZzRQV2JTTWRjN0FhZU5ZSWRPdl9CTjl5QjljS2Z2Z0hsZzBfLXB0NFpoalZPSGU2aU1zWkxUUDVETV9NcmtCb3RlZ19JUWdDbDlLeHlEWmFoZnFkNUdRV1RXSGdQN0hZTnNuRTNEWERXbTdJOVVGZw?oc=5",
       "source": "The Washington Post",
-      "published": "2026-07-08T00:18:53+00:00",
+      "published": "2026-07-08T03:18:53+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "US launches new strikes on Iran, revokes oil sales permit after 3 ships attacked in Strait of Hormuz - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT2tfRFIyMHM3Y3R0UHRSQ0xwNEdNX2pjVUV5QkFGZk4yLUpVeU9RN0RHLXpUYU5UMzVIZkNwOWV4Q2dKTnJYZVl6UzZadkxHYUVYNmUzYWxoUEo1S2pPRUkxWmFsMHhadUYyams3ME5TOTlVSHhuTmgtRVA4NGo1NlJIOF9ZOUU2dGc?oc=5",
+      "source": "AP News",
+      "published": "2026-07-08T02:46:00+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "U.S. revokes Iran oil waivers after attacks in Strait of Hormuz - Axios",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYVpLX0M5NlVHbmhHOFZKclBtRkh4Njh6ZGdQZlp4TnNHRVRuc00tQUFldFpGNFcyOWJ0eThhZUtIVU5jb2hhRHpVckJXRVdmRzFWWTlVa0Nndy1rdjVFZmJpZDFGWnZkVWZjamVEQ1FwNVZnU2pHZ1dVV0pzZ3Fod1piTHQ0NkN6TlE?oc=5",
+      "source": "Axios",
+      "published": "2026-07-08T01:53:22+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "CNBC Daily Open: Strait of Hormuz, Ukraine's attacks in Russia, Greenland - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTFpCNHFVUG9YVnJhbE1fOC1uLWJBUlJVamdoTXZrdlBHQTV6VDNMMDdzcUdLNDMzeHQwMGtUbHU1bllNeWR4M2piN19KX3FfSHV2dDRxd3FvR0M0ZlVNdk5fT3UtSm9JakszQTFKdVl4a0duV3gzTXl6el8wdWxlSGM2ZFN2Z2pOOWZ4UV9ZWERtQmI4dzJYUXZXRGQ5LUY2OTNGU2xB0gGrAUFVX3lxTE9TeUdxVkh5N0dsdlZNS0Y1VERXSW1PYlRpTjdBSjBfbnZ2NHVsejhUbFNZaU1Cc1pWeTRBMGRTb1dPakFsSEs1ZlpMaTJrRUg1cG04ajRiZmpBZEVJZW9NUUs5REFiT1BaSlB6RjVHd0NwLXZEa2NQWTF4bmoteHdJY0lrOW5jWWMtRnh6VFRPM2JOYmVCbUowRUQ0NnFIRFY5N2p0NU10LWhSMA?oc=5",
+      "source": "CNBC",
+      "published": "2026-07-08T01:20:00+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran accuses US of violating peace agreement after strikes target sites around strait of Hormuz - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONlRxOVFtRHI1U3pmLWdYVHJoR2lMS2xZbFlFMzVjdzZUMXMwdl8ycXhGaTNsSEphNUxjbnZTWS0wNHN5ZjJfMEU0dmZrdEZvYU9TY1NPN0hBeTNWQ2h6Q3BaX18xd1ZRSDR0Q3hXS1NNWkdQc3RwZnYwb1h5bjdiVDBCWVpZSS1peU9zNk9jUnNnVFZNei10Z2hpTEJJb1BDSzNNcTg4S2xtbWNK?oc=5",
+      "source": "The Guardian",
+      "published": "2026-07-08T01:17:00+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -60,67 +110,17 @@
       "title": "US revokes Iran oil waiver after tanker attacks in Strait of Hormuz - USA Today",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRG5wSUc4UlZDTlpaT3pQaTlVVVpRVnE5M1FEVnJzV0NCSWk2RjhJQ21UeFFJWnRiWklwa01iU0FHQzVkUjlrSXRaYU5ZZzh4aTFkbzJzb3NXWmczX054WGMzcmxMZTVFRlZGR0VoUnR0WGxDU3dKNzZWZUtxM1lGTm95MjFUY2VnVkhxN3c4eVpQNFVHU2JXMWMwZm04OXR6bjZ1Z0FpR3VZRFBMb3dkZWt2UUtERWtBcldPRFh3?oc=5",
       "source": "USA Today",
-      "published": "2026-07-07T23:37:00+00:00",
+      "published": "2026-07-08T01:06:00+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "U.S. strikes Iran after attacks on oil tankers in Strait of Hormuz - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU21GRjRwQ3NuWjhNSi1rcnQ0TzNwM1pDcllHc1dOZ2R6Z2djWVZMano4ajR5UEczd2NaMW93WkpyVDRQcEh5RXotb29kX1hIM256eU5ZVzNySWVYOE5TQ0pGaGFvSHZnTEpqWDQyNzk1VXNuOHRNZngzLXFzeXdGQ09qUHFJRUk3djF3aTBGOEc2TlRGaTgxdHgzVDVHWTA5MWZVRFVOS1YwQ20xR01ycWU1TkV2bXNEMHlFZzNWVi1LY3hr?oc=5",
-      "source": "USA Today",
-      "published": "2026-07-07T23:21:26+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "US military strikes Iran after tanker attacks in Strait of Hormuz - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVEgwRXhFczRFVkZFRUFaTS1ORjNpX0NZZm9LbXFESEFYNlRWZlZwV0NwSzVhcWYwUHBKQ1dLMlpMWU1MdE9tMVVlWjk0bl9BWDlpanlQTjZsVE1QaXVGZXVGMUY2UzgtTnU2OTZmRmVjTjZLUnk2V3NJazY2ZjJvMDhEaU9CZ09naWZJR3lXTXZDckFWbXc?oc=5",
-      "source": "Yahoo",
-      "published": "2026-07-07T23:04:26+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran warns of strong action after new US strikes - Shafaq News | Latest breaking news in Iraq and the world - \u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZUdDdzlsZDZLMEVFUFVsbURnbmNlVUpqX0FxRzdhMjEtR0hUeVRqckU0dno4NkhxWUc0Si0za1JheFZMbHJLNkNjdW1XOE1aZlUxRzdRSjYxSC1WNm1Wa2d4Vkw5bkkxSVJKUy0tU0IyZldsYnBKVXI2VVpUX21RUFVTZnhLT2hHaHc?oc=5",
-      "source": "\u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
-      "published": "2026-07-07T23:03:45+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "U.S. launches new strikes on Iran after attacks on tankers in Strait of Hormuz - PBS",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVGRRMkgyZXh6WmZONDQ3UF9hejJiLXBmY214Q1VlcWpkQWl2UmpmdGsyTHB2bFpJUnhiRklVMWE4dV9wazhTZGMzM3dvRzZMWjJrSF94MzgyejlmYXctMkpNSm4wbHZkUEdYa1NaaDltX2tfb2dHVksxR0hRRk52dFdFcnUzQzRyalhtemFwU0d2V1RJVHNqdC0tWmVqOUZ0eHB3MlJQUTNjNzdFc1pHdw?oc=5",
-      "source": "PBS",
-      "published": "2026-07-07T22:57:21+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "U.S. launches new strikes against Iran after three ships were hit in Strait of Hormuz - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaHBpMWxMdFBhZE9LZ09FRjJLaHltUHpGWmNYRWxkczR1Tm5pUkZUVEVsc0pDdXZMS2JYQnBNNERvT3JoVEsxMFZ0ZFZmRHdITmRETXc2WTNFS3F6MGRSWWMwMWV2dVNTX3FzRXUxOEdQcUtrZE1kM3A2WFhXMGFhNWc1U1oyeXBwUjRVQnFqSW40elFlQ2h5R3FYWm5fdE5YMnJWdXNMN21FdzlrYkJFYXpPSzFKUW5qQnBULUZJUTV6blQ4RUh6LW5wcw?oc=5",
-      "source": "Los Angeles Times",
-      "published": "2026-07-07T22:50:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "US revokes Iran oil sanctions waiver after alleged attack on vessels near Strait of Hormuz - Scripps News",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTWczSkpUNXloWEprcmpzbU80LVVLX3plQzROc3RacTdDVzZGUkFROXQ2UmRVYmsxbTMwSVVnTEYxaHloWTE2d3NWcXM3MFA0Qk9FX2lhZVhFZk9qNk1YVjNHTzhOck5VRi14ZjExcTVtMXNSRjdRZkw5Vk1LelBMS0Y3ZkRhUzRBSksxZ1FiYUJDLVVvMzZORUEwbXA5MExQcmRCTDVkN0hmckhwOWpyWXoyaVVBNG1uMXBoRHpfWF9UYlk?oc=5",
-      "source": "Scripps News",
-      "published": "2026-07-07T22:38:11+00:00",
+      "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MbzNFYURjUGo4T1hRZnJ0WjZFNVAzSzk1b28yVS1NR3g4NVpZMjNsUzhVREdqZFdLNm5TOWtzOS1QSDVzV0szbGFfZmFaV1lLWjlOTzBaVHg4QQ?oc=5",
+      "source": "BBC",
+      "published": "2026-07-07T23:53:45+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -128,7 +128,7 @@
     }
   ],
   "brent": {
-    "price": 75.85,
-    "change_pct": 2.28
+    "price": 76.08,
+    "change_pct": 2.59
   }
 }
