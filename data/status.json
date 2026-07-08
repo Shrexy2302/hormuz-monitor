@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 254.2,
-  "closure_signals": 4,
+  "tension_index": 274.3,
+  "closure_signals": 5,
   "articles_scanned": 231,
-  "updated": "2026-07-08T11:43:36.603775+00:00",
+  "updated": "2026-07-08T13:47:47.202600+00:00",
   "headlines": [
     {
       "title": "Iran closes Strait of Hormuz, strikes US bases amid rising tensions - Crypto Briefing",
@@ -12,6 +12,17 @@
       "source": "Crypto Briefing",
       "published": "2026-07-08T04:00:16+00:00",
       "score": 12.0,
+      "tags": [
+        "closure",
+        "tension"
+      ]
+    },
+    {
+      "title": "Southern Route of the Strait of Hormuz Blocked After IRGC Naval Warnings - WANA News Agency",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdjBxb01BdUwxMThSTV9uT2lFUi10V3c0WUJ5V2xTZXRMeVhMYVVDbWhaaWhoUmtuMm4xcHRONUxHNUhSM1RMRWx2ejNIWGpYUE0tVkdtVVhONWUzV3BtU3d4cTN1ODM2QVhKNW1RdFJWazNNVkZnWElRY2tZY01qZHFISGFSVjVGUXBzQklCaGhlT3JzZ0tv?oc=5",
+      "source": "WANA News Agency",
+      "published": "2026-07-08T11:47:44+00:00",
+      "score": 11.0,
       "tags": [
         "closure",
         "tension"
@@ -43,9 +54,19 @@
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoSklBbENoYm9aNjFWNUdNNk1rT05xT2ZJdzZrMG0wRmtEYWkwZUkxSThGeW5fVER2cFJBNVcyS0J5ZmtPam4tVnZnLUg4Sy1mSTRrc2MyUUpKZVZJVG9sdVpyVQ?oc=5",
       "source": "\u7b39\u5ddd\u5e73\u548c\u8ca1\u56e3",
       "published": "2026-07-07T02:03:22+00:00",
-      "score": 5.68,
+      "score": 5.61,
       "tags": [
         "closure"
+      ]
+    },
+    {
+      "title": "Damaged Qatari LNG tanker awaits salvage after strike as Hormuz risks escalate - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX0wtak4yR1c5V1VydHktZHRDdncxdk5FSFZFYl9PZ2RxRDR0eFZfVTdhU05ha0c2NWlHa1FQcWlnVjlGb0E3MFdCU2RZVWxCRFNocnl5UVZWakFTOTdfQjJreTRVTlBGMjdJUDA2ODZKSzZ4UFFQSUozdkdJVkp3WFRadV9WQ09UaHQzdW1uc3FoallwOEZyVVF6Q0g3aU9hWWtkcm1IZDJiT0JlaDBucVM5TU9yYllM?oc=5",
+      "source": "Reuters",
+      "published": "2026-07-08T12:55:30+00:00",
+      "score": 4.0,
+      "tags": [
+        "tension"
       ]
     },
     {
@@ -53,7 +74,17 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa1NDSzBSRHB2UTBVcU43bEtyMVN6T21YUF9pV2lfRG5icVFvUVphUWd6d2VDaks3dnFqSm9FcEI2a0ZiaXFsU1pmdWhsbE90R0dnNmN6ejZxSmlzc3ZWOUJKRFRRRjNNNXdfenhqVWE2SThxZTQzMDVmX25iME15UmFvczcwNUZfeXlmRWQzZ2hMa1lMSjB4UV83bkk1VjFfeXdqTllZNFRBZlROaHfSAbMBQVVfeXFMT3BmNnRucl83S2gySU4xbG8xenNnQS1uaWRjelU5dURNWWduc3ZqVmV5ZUdYWkg3Z21PNUF1T1BBWlFSaDdEakZfcFY5OUtSY0ZGeG0wLUdDODNORWxNZFh0T1F2akhMcmMyTTdPNkcyQUhpVnpOb2JFcFN6T0c0dnowa0VpNnl6WXhtVHFiZk8zdkJvU2I3NW13R3hianFLTEtWeFBNNW9ZMU1OSjltVFExdUE?oc=5",
       "source": "africanews.com",
       "published": "2026-07-07T12:36:28+00:00",
-      "score": 4.0,
+      "score": 3.97,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran signals defiance as Trump fumes over Strait of Hormuz strikes - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVjM3Zk9ZUXBoRFhuSEpoeUdtUXJUc2daM3BLaWp0VlppN293Z3dXR0RDTUh4NThrMU92NmNDR1V1N244ejBPSkN0bk9lUjRwN1JWaG0xcVJSUVN1OEZ5cmREbGlYbWswX2NNQlRzNHNmQXVLNDBUNFNJbFgxRTRuYlVBRzRHTXNFTHVlTmJXWmY0ek9LZUU1RmVaUEtTd0FnU0ZuMmYyU0d5d9IBrwFBVV95cUxPWmNLYWZCYmFKM0dJeFBtNUFlR0paR3hDTmdDWmlsZ0JWQ0J6c3ZaSWdrY1pGaGhFdmRoTW41RVhYTGhYczc0UC1Fekw5RktaZi1MNTV2RlpGTzF0RzdONTNNdVo3N210OU93TlFGaXRrWlpKOW8yWTgya3FPVllrbTgyZHRiNjRWZG41SmZJdkpHVERqTUNPdnRYekJtdWp2cURScjRGckJGUmhteU84?oc=5",
+      "source": "Al Jazeera",
+      "published": "2026-07-08T13:14:00+00:00",
+      "score": 3.0,
       "tags": [
         "tension"
       ]
@@ -62,7 +93,7 @@
       "title": "U.S. and Iran launch fresh strikes following attacks on commercial ships - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1o5OHkwY0twdzRvVmpHd1IyVXQyOWNObEpxcEJEaS0xSHQ2UDhRRnJ1bURnNlZKb05VWlI4SXFrRXYxZE03ZzRQV2JTTWRjN0FhZU5ZSWRPdl9CTjl5QjljS2Z2Z0hsZzBfLXB0NFpoalZPSGU2aU1zWkxUUDVETV9NcmtCb3RlZ19JUWdDbDlLeHlEWmFoZnFkNUdRV1RXSGdQN0hZTnNuRTNEWERXbTdJOVVGZw?oc=5",
       "source": "The Washington Post",
-      "published": "2026-07-08T11:19:00+00:00",
+      "published": "2026-07-08T12:18:53+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -73,26 +104,6 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQVNKZnhsNWUtZXlaQUM2aEYzZ2xnNG5rQnp2OW9vdVc0X2FEREZONFQtWFZJYU1FSXlWb3RObHV5b1hpbHBubm9hNmVXRmkwRV9ZUW5hdHJ0UDI5S1gzV2VtVmljVTRQZTYtLXVXd0xaUFZ6c2lvSm5tZVFWcTNuZ1YzVTlzUkFOakFpMVBJcVZ0Qm4xdlJBSksybWVXNHg4eDkzOHlIQUdpWEpxU3Bj?oc=5",
       "source": "IranWire",
       "published": "2026-07-08T11:07:19+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran accuses US of violating peace agreement after strikes target sites around strait of Hormuz - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONlRxOVFtRHI1U3pmLWdYVHJoR2lMS2xZbFlFMzVjdzZUMXMwdl8ycXhGaTNsSEphNUxjbnZTWS0wNHN5ZjJfMEU0dmZrdEZvYU9TY1NPN0hBeTNWQ2h6Q3BaX18xd1ZRSDR0Q3hXS1NNWkdQc3RwZnYwb1h5bjdiVDBCWVpZSS1peU9zNk9jUnNnVFZNei10Z2hpTEJJb1BDSzNNcTg4S2xtbWNK?oc=5",
-      "source": "The Guardian",
-      "published": "2026-07-08T09:54:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Damaged Qatari LNG tanker awaits salvage after strike near Hormuz - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX0wtak4yR1c5V1VydHktZHRDdncxdk5FSFZFYl9PZ2RxRDR0eFZfVTdhU05ha0c2NWlHa1FQcWlnVjlGb0E3MFdCU2RZVWxCRFNocnl5UVZWakFTOTdfQjJreTRVTlBGMjdJUDA2ODZKSzZ4UFFQSUozdkdJVkp3WFRadV9WQ09UaHQzdW1uc3FoallwOEZyVVF6Q0g3aU9hWWtkcm1IZDJiT0JlaDBucVM5TU9yYllM?oc=5",
-      "source": "Reuters",
-      "published": "2026-07-08T09:46:11+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -117,20 +128,10 @@
       "tags": [
         "tension"
       ]
-    },
-    {
-      "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MbzNFYURjUGo4T1hRZnJ0WjZFNVAzSzk1b28yVS1NR3g4NVpZMjNsUzhVREdqZFdLNm5TOWtzOS1QSDVzV0szbGFfZmFaV1lLWjlOTzBaVHg4QQ?oc=5",
-      "source": "BBC",
-      "published": "2026-07-08T08:11:50+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
     }
   ],
   "brent": {
-    "price": 78.45,
-    "change_pct": 5.78
+    "price": 78.15,
+    "change_pct": 5.38
   }
 }
