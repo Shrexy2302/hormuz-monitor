@@ -1,11 +1,22 @@
 {
-  "status": "DISRUPTED",
-  "label": "Major disruption reported",
-  "tension_index": 229.9,
-  "closure_signals": 2,
-  "articles_scanned": 227,
-  "updated": "2026-07-08T09:44:05.819881+00:00",
+  "status": "CLOSED",
+  "label": "Closure reported",
+  "tension_index": 254.2,
+  "closure_signals": 4,
+  "articles_scanned": 231,
+  "updated": "2026-07-08T11:43:36.603775+00:00",
   "headlines": [
+    {
+      "title": "Iran closes Strait of Hormuz, strikes US bases amid rising tensions - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTmdjNmZraW11UDdGNnVTZ0V2Y1N2S3JjSF96MU5ib1Ayd1NYLTRmcFdEOEQwQjYybzg2d1NtUlVRampIVE1RNHQwZjFPQ05nQ080UGdxNnpGUE9BRUthWlk1azlFWnJnUGtlUzlTVjM4YjdBZWtLUkJVbzJEeGUyM0l6WVFmSW52V2hZczJteFh5ZXRXVlNuOXBB?oc=5",
+      "source": "Crypto Briefing",
+      "published": "2026-07-08T04:00:16+00:00",
+      "score": 12.0,
+      "tags": [
+        "closure",
+        "tension"
+      ]
+    },
     {
       "title": "Strait of Hormuz is closed once again: Iran - News On AIR",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84NVNuS3BtZVBRYXZNdGFxRTl2UURCamRKUWxSTHROY2RfMDMwOVdzczhsSEVScUcwaUpIU3U0NTRIQUtLR05IM2t2MkRlODZJNnZJUnZGMlRyeThERmR6aHo5SE1JZGJGdEhDeE1UdjJMWWZXVjVz?oc=5",
@@ -17,11 +28,22 @@
       ]
     },
     {
+      "title": "Strait of Hormuz closed again? Check latest status as Donald Trump declares US-Iran war ceasefire collapse - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPZzQ0aGNDbVpTSGpxdU1mLXdWY0hEUWtyVWNTZTg0dWp4ZXpfSjY0STc5bVMtaDk0eEhkaDBYLUpLQXc0eXRuVkQtM1NEVVZzUU9IVlpLRE5RcUdkcUV3T0hwZzh6VjRta2wyX21KSlJJb3hTQjFlem9oQUpoQWZxX213UjNtS3JnUUYxZXliSEh6M2JFZ25xNDFXcXdDUVdFWXJERG9XQlRqaXhxUDFNRWVXM09tVG9DNndSUDk4dlR5YnN1U1lUOVU0QkRQbngxN2JOSHRfbm1DbVk0S2JuTXdxeVl1aWpOeGRGWURrMndXZ3hyTXBlU2RaZ0h5VUJfVm5TSHNsWWNYRko4T1JV0gGUAkFVX3lxTFBUWGQzWDFNd2xkVHNfdDV6YU1YeGZtMWwyMnJ1UmdHSHRUZDRxckVuX1ptNWlNbFlEVEphSFNjT0ZLLVdSTDRVc1M3S1BBNUZYTC1rakxkYXpqWGRfbjZrVi1VUTE1MnZpQzluSXpkQUNGZjNRS3dmbnlCXzFUalc2Ynl5Z0JqODBEenZPdFVXaGV6SGZBVUZwUVUyT2V3Ym9aRnBqQ1k2eTMyandnaWNhZ3RpYUd5NG9rVHhlb2RiMzRaakNBTHNVU0o1dnNSWFduVjRYYktxdlU1N2hEalhCTDg0bnN5clAteUFqeVJhUkNoUHNYd1poYklLRmJNMThXN2Z3RGk2Nl9KVjAwTGFZWnhnSA?oc=5",
+      "source": "The Economic Times",
+      "published": "2026-07-08T10:33:46+00:00",
+      "score": 8.0,
+      "tags": [
+        "calm",
+        "closure"
+      ]
+    },
+    {
       "title": "Weaponizing the Strait of Hormuz: Naval Mines and the Spread of Economic Coercion - \u7b39\u5ddd\u5e73\u548c\u8ca1\u56e3",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoSklBbENoYm9aNjFWNUdNNk1rT05xT2ZJdzZrMG0wRmtEYWkwZUkxSThGeW5fVER2cFJBNVcyS0J5ZmtPam4tVnZnLUg4Sy1mSTRrc2MyUUpKZVZJVG9sdVpyVQ?oc=5",
       "source": "\u7b39\u5ddd\u5e73\u548c\u8ca1\u56e3",
       "published": "2026-07-07T02:03:22+00:00",
-      "score": 5.74,
+      "score": 5.68,
       "tags": [
         "closure"
       ]
@@ -40,16 +62,46 @@
       "title": "U.S. and Iran launch fresh strikes following attacks on commercial ships - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1o5OHkwY0twdzRvVmpHd1IyVXQyOWNObEpxcEJEaS0xSHQ2UDhRRnJ1bURnNlZKb05VWlI4SXFrRXYxZE03ZzRQV2JTTWRjN0FhZU5ZSWRPdl9CTjl5QjljS2Z2Z0hsZzBfLXB0NFpoalZPSGU2aU1zWkxUUDVETV9NcmtCb3RlZ19JUWdDbDlLeHlEWmFoZnFkNUdRV1RXSGdQN0hZTnNuRTNEWERXbTdJOVVGZw?oc=5",
       "source": "The Washington Post",
-      "published": "2026-07-08T09:18:53+00:00",
+      "published": "2026-07-08T11:19:00+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Iran targets Bahrain and Kuwait after US launches strikes and limits the sale of Iranian oil - WLWT",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UZ0NTZlc5NnRKb096UmZ3YUhRQVAxejg4UlZlRzgyZkoyb3NqUmZnOF85Vm9ycmp5Mm44XzhLRHllUmtET3ViQXRGdjNEU0ZyOWFscFBITFFqem80cGNURzVlZGd0dlZDMlJISjh3WHRzTnFocEhJWQ?oc=5",
-      "source": "WLWT",
+      "title": "U.S. Revokes Iran\u2019s Oil Export License After Strait of Hormuz Tanker Attacks - IranWire",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQVNKZnhsNWUtZXlaQUM2aEYzZ2xnNG5rQnp2OW9vdVc0X2FEREZONFQtWFZJYU1FSXlWb3RObHV5b1hpbHBubm9hNmVXRmkwRV9ZUW5hdHJ0UDI5S1gzV2VtVmljVTRQZTYtLXVXd0xaUFZ6c2lvSm5tZVFWcTNuZ1YzVTlzUkFOakFpMVBJcVZ0Qm4xdlJBSksybWVXNHg4eDkzOHlIQUdpWEpxU3Bj?oc=5",
+      "source": "IranWire",
+      "published": "2026-07-08T11:07:19+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran accuses US of violating peace agreement after strikes target sites around strait of Hormuz - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONlRxOVFtRHI1U3pmLWdYVHJoR2lMS2xZbFlFMzVjdzZUMXMwdl8ycXhGaTNsSEphNUxjbnZTWS0wNHN5ZjJfMEU0dmZrdEZvYU9TY1NPN0hBeTNWQ2h6Q3BaX18xd1ZRSDR0Q3hXS1NNWkdQc3RwZnYwb1h5bjdiVDBCWVpZSS1peU9zNk9jUnNnVFZNei10Z2hpTEJJb1BDSzNNcTg4S2xtbWNK?oc=5",
+      "source": "The Guardian",
+      "published": "2026-07-08T09:54:00+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Damaged Qatari LNG tanker awaits salvage after strike near Hormuz - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX0wtak4yR1c5V1VydHktZHRDdncxdk5FSFZFYl9PZ2RxRDR0eFZfVTdhU05ha0c2NWlHa1FQcWlnVjlGb0E3MFdCU2RZVWxCRFNocnl5UVZWakFTOTdfQjJreTRVTlBGMjdJUDA2ODZKSzZ4UFFQSUozdkdJVkp3WFRadV9WQ09UaHQzdW1uc3FoallwOEZyVVF6Q0g3aU9hWWtkcm1IZDJiT0JlaDBucVM5TU9yYllM?oc=5",
+      "source": "Reuters",
+      "published": "2026-07-08T09:46:11+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran targets Bahrain and Kuwait after US launches strikes and limits the sale of Iranian oil - KCRA",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GUXZ3Vm9qWVF2bnZkUDVsaFN3OXk5QXFiVlpsTjc4OVFBdEpzUHRSaDkxMFpkbjdUbHRJTW5MckJLWEhvWjRneTFuUF8xem1LdWY2U0JjWF94a1gzbmxQUDRWYUN5eGN5b1k0b3BOdW5WVzVDVmdtVA?oc=5",
+      "source": "KCRA",
       "published": "2026-07-08T09:03:00+00:00",
       "score": 3.0,
       "tags": [
@@ -67,26 +119,6 @@
       ]
     },
     {
-      "title": "Four oil and gas tankers turn back from Hormuz strait after vessel attacks - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUGg0M1U4ckhfRFJKQTRnZjUwSFFHZWlrX0U0dHJXT2hDMkE3NzItM19WT2d1QmZPdUg4c3hsQmJ1NFgzeTl1RnpUTlpYeUdKdTVLRnh1WUIzbFplcW1ESl9WOUMyOFpoNndlcmZ2czBzVXJJWTlVbjZ5U294SWMxdnhLaHpGNnE3UU1WR3dROC1oTkxXOEEwT0xYVnFzLXNpNnYxclc3UUoxd3REUkx2YWQzNWtqWm5JaFJF?oc=5",
-      "source": "Reuters",
-      "published": "2026-07-08T08:39:09+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran accuses US of violating peace agreement after strikes target sites around strait of Hormuz - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONlRxOVFtRHI1U3pmLWdYVHJoR2lMS2xZbFlFMzVjdzZUMXMwdl8ycXhGaTNsSEphNUxjbnZTWS0wNHN5ZjJfMEU0dmZrdEZvYU9TY1NPN0hBeTNWQ2h6Q3BaX18xd1ZRSDR0Q3hXS1NNWkdQc3RwZnYwb1h5bjdiVDBCWVpZSS1peU9zNk9jUnNnVFZNei10Z2hpTEJJb1BDSzNNcTg4S2xtbWNK?oc=5",
-      "source": "The Guardian",
-      "published": "2026-07-08T08:21:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
       "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MbzNFYURjUGo4T1hRZnJ0WjZFNVAzSzk1b28yVS1NR3g4NVpZMjNsUzhVREdqZFdLNm5TOWtzOS1QSDVzV0szbGFfZmFaV1lLWjlOTzBaVHg4QQ?oc=5",
       "source": "BBC",
@@ -95,40 +127,10 @@
       "tags": [
         "tension"
       ]
-    },
-    {
-      "title": "Vessel Attacks Force Hormuz Tanker U-Turns - Marine News Magazine",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ0JSUFdoU2NORUZVQS1WenNQSy11MEVXZ2QyX2lBSV9lYnk4QnhaMWdlVkJZZFZGNFM2cEVScFRMTkRtQmhCVG1IZTZUSlk2MXVYclVWVFJYYkdSbjZPU0ZOOG5lV3lHMUJ0cncwQl90RjkxeXZiTmJkWVoyQ1JILVVrRnhTcDA?oc=5",
-      "source": "Marine News Magazine",
-      "published": "2026-07-08T08:04:25+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "US revokes Iran oil waiver after tanker attacks in Strait of Hormuz - Crypto Briefing",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdjlSMTMzM1ZVeXZ0cmVKaWxDaXZZQkpITTM1OFZ6MXFRSUFpUkw5MWJaWkpiUDVwa3d3ZmtBdGZ4OGRERmxhTGotMkdjWHpmWHMzQ3YycGx0V1k1ZE9GcmtZWkFkd1kyZTdibnpMb1pxWGNkX1VXc2U3UC1SRExTVGpzd3l1WmdVSktsSGc2S0QwT190Ry1CeHg3WQ?oc=5",
-      "source": "Crypto Briefing",
-      "published": "2026-07-08T06:51:27+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Oil and Gas Tankers Turn Back From Strait of Hormuz After Fresh Vessel Attacks - Modern Diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV1RGYVRzYjlwV3NxNmtsZ1RPUWtzUXduMGh4Y0d3a09rMk85V2ZONlBKVThuTDdvZnNOSlFWQmhpUXBPTV92WEVreDlhREJvQVE1c3VlRFNtbFQ5OEJ6bjE3ZGFhMlpPVVBDcS1QYVJrUk9hdjZubXhidUw3eHF5OEliVlRZQ1V3Ynh1ZDB0dHgwLWNnOEhaQks4d0liSjlrb2tacHpLa0l5S1NyT05vV3RHQUc0dVk5?oc=5",
-      "source": "Modern Diplomacy",
-      "published": "2026-07-08T05:37:46+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
     }
   ],
   "brent": {
-    "price": 78.7,
-    "change_pct": 6.12
+    "price": 78.45,
+    "change_pct": 5.78
   }
 }
