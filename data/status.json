@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 289.5,
-  "closure_signals": 5,
-  "articles_scanned": 236,
-  "updated": "2026-07-08T17:40:36.109780+00:00",
+  "tension_index": 261.9,
+  "closure_signals": 4,
+  "articles_scanned": 233,
+  "updated": "2026-07-08T19:13:54.147425+00:00",
   "headlines": [
     {
       "title": "Iran closes Strait of Hormuz, strikes US bases amid rising tensions - Crypto Briefing",
@@ -29,16 +29,6 @@
       ]
     },
     {
-      "title": "Strait of Hormuz is closed once again: Iran - News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84NVNuS3BtZVBRYXZNdGFxRTl2UURCamRKUWxSTHROY2RfMDMwOVdzczhsSEVScUcwaUpIU3U0NTRIQUtLR05IM2t2MkRlODZJNnZJUnZGMlRyeThERmR6aHo5SE1JZGJGdEhDeE1UdjJMWWZXVjVz?oc=5",
-      "source": "News On AIR",
-      "published": "2026-07-07T20:14:43+00:00",
-      "score": 10.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
       "title": "Strait of Hormuz closed again? Check latest status as Donald Trump declares US-Iran war ceasefire collapse - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPZzQ0aGNDbVpTSGpxdU1mLXdWY0hEUWtyVWNTZTg0dWp4ZXpfSjY0STc5bVMtaDk0eEhkaDBYLUpLQXc0eXRuVkQtM1NEVVZzUU9IVlpLRE5RcUdkcUV3T0hwZzh6VjRta2wyX21KSlJJb3hTQjFlem9oQUpoQWZxX213UjNtS3JnUUYxZXliSEh6M2JFZ25xNDFXcXdDUVdFWXJERG9XQlRqaXhxUDFNRWVXM09tVG9DNndSUDk4dlR5YnN1U1lUOVU0QkRQbngxN2JOSHRfbm1DbVk0S2JuTXdxeVl1aWpOeGRGWURrMndXZ3hyTXBlU2RaZ0h5VUJfVm5TSHNsWWNYRko4T1JV0gGUAkFVX3lxTFBUWGQzWDFNd2xkVHNfdDV6YU1YeGZtMWwyMnJ1UmdHSHRUZDRxckVuX1ptNWlNbFlEVEphSFNjT0ZLLVdSTDRVc1M3S1BBNUZYTC1rakxkYXpqWGRfbjZrVi1VUTE1MnZpQzluSXpkQUNGZjNRS3dmbnlCXzFUalc2Ynl5Z0JqODBEenZPdFVXaGV6SGZBVUZwUVUyT2V3Ym9aRnBqQ1k2eTMyandnaWNhZ3RpYUd5NG9rVHhlb2RiMzRaakNBTHNVU0o1dnNSWFduVjRYYktxdlU1N2hEalhCTDg0bnN5clAteUFqeVJhUkNoUHNYd1poYklLRmJNMThXN2Z3RGk2Nl9KVjAwTGFZWnhnSA?oc=5",
       "source": "The Economic Times",
@@ -50,11 +40,21 @@
       ]
     },
     {
+      "title": "Iran threatens to close Strait of Hormuz, hit 'twice the number of targets' as US - report - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaSXZLbTdlTEZHZ2JjZ0pmUkNQV1lhM1hHSElfNnh4MlhQclBiU21wNzZiMzdpenB3elhjMFhOOWZPaElyYVdZTjN5T0pfdkJ0VENaTXlvYlFuUll1aHY0Zmlqa0dtQWN1UUE?oc=5",
+      "source": "The Jerusalem Post",
+      "published": "2026-07-08T17:15:58+00:00",
+      "score": 6.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
       "title": "Weaponizing the Strait of Hormuz: Naval Mines and the Spread of Economic Coercion - \u7b39\u5ddd\u5e73\u548c\u8ca1\u56e3",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoSklBbENoYm9aNjFWNUdNNk1rT05xT2ZJdzZrMG0wRmtEYWkwZUkxSThGeW5fVER2cFJBNVcyS0J5ZmtPam4tVnZnLUg4Sy1mSTRrc2MyUUpKZVZJVG9sdVpyVQ?oc=5",
       "source": "\u7b39\u5ddd\u5e73\u548c\u8ca1\u56e3",
       "published": "2026-07-07T02:03:22+00:00",
-      "score": 5.48,
+      "score": 5.43,
       "tags": [
         "closure"
       ]
@@ -64,7 +64,7 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa1NDSzBSRHB2UTBVcU43bEtyMVN6T21YUF9pV2lfRG5icVFvUVphUWd6d2VDaks3dnFqSm9FcEI2a0ZiaXFsU1pmdWhsbE90R0dnNmN6ejZxSmlzc3ZWOUJKRFRRRjNNNXdfenhqVWE2SThxZTQzMDVmX25iME15UmFvczcwNUZfeXlmRWQzZ2hMa1lMSjB4UV83bkk1VjFfeXdqTllZNFRBZlROaHfSAbMBQVVfeXFMT3BmNnRucl83S2gySU4xbG8xenNnQS1uaWRjelU5dURNWWduc3ZqVmV5ZUdYWkg3Z21PNUF1T1BBWlFSaDdEakZfcFY5OUtSY0ZGeG0wLUdDODNORWxNZFh0T1F2akhMcmMyTTdPNkcyQUhpVnpOb2JFcFN6T0c0dnowa0VpNnl6WXhtVHFiZk8zdkJvU2I3NW13R3hianFLTEtWeFBNNW9ZMU1OSjltVFExdUE?oc=5",
       "source": "africanews.com",
       "published": "2026-07-07T12:36:28+00:00",
-      "score": 3.89,
+      "score": 3.85,
       "tags": [
         "tension"
       ]
@@ -131,7 +131,7 @@
     }
   ],
   "brent": {
-    "price": 78.33,
-    "change_pct": 5.62
+    "price": 78.15,
+    "change_pct": 5.38
   }
 }
