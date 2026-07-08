@@ -1,10 +1,10 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 243.6,
+  "tension_index": 229.9,
   "closure_signals": 2,
-  "articles_scanned": 226,
-  "updated": "2026-07-08T07:24:46.174866+00:00",
+  "articles_scanned": 227,
+  "updated": "2026-07-08T09:44:05.819881+00:00",
   "headlines": [
     {
       "title": "Strait of Hormuz is closed once again: Iran - News On AIR",
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoSklBbENoYm9aNjFWNUdNNk1rT05xT2ZJdzZrMG0wRmtEYWkwZUkxSThGeW5fVER2cFJBNVcyS0J5ZmtPam4tVnZnLUg4Sy1mSTRrc2MyUUpKZVZJVG9sdVpyVQ?oc=5",
       "source": "\u7b39\u5ddd\u5e73\u548c\u8ca1\u56e3",
       "published": "2026-07-07T02:03:22+00:00",
-      "score": 5.82,
+      "score": 5.74,
       "tags": [
         "closure"
       ]
@@ -37,20 +37,80 @@
       ]
     },
     {
-      "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MbzNFYURjUGo4T1hRZnJ0WjZFNVAzSzk1b28yVS1NR3g4NVpZMjNsUzhVREdqZFdLNm5TOWtzOS1QSDVzV0szbGFfZmFaV1lLWjlOTzBaVHg4QQ?oc=5",
-      "source": "BBC",
-      "published": "2026-07-08T06:27:25+00:00",
+      "title": "U.S. and Iran launch fresh strikes following attacks on commercial ships - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1o5OHkwY0twdzRvVmpHd1IyVXQyOWNObEpxcEJEaS0xSHQ2UDhRRnJ1bURnNlZKb05VWlI4SXFrRXYxZE03ZzRQV2JTTWRjN0FhZU5ZSWRPdl9CTjl5QjljS2Z2Z0hsZzBfLXB0NFpoalZPSGU2aU1zWkxUUDVETV9NcmtCb3RlZ19JUWdDbDlLeHlEWmFoZnFkNUdRV1RXSGdQN0hZTnNuRTNEWERXbTdJOVVGZw?oc=5",
+      "source": "The Washington Post",
+      "published": "2026-07-08T09:18:53+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "U.S. launches dozens of strikes against Iran, citing attacks on commercial ships - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1o5OHkwY0twdzRvVmpHd1IyVXQyOWNObEpxcEJEaS0xSHQ2UDhRRnJ1bURnNlZKb05VWlI4SXFrRXYxZE03ZzRQV2JTTWRjN0FhZU5ZSWRPdl9CTjl5QjljS2Z2Z0hsZzBfLXB0NFpoalZPSGU2aU1zWkxUUDVETV9NcmtCb3RlZ19JUWdDbDlLeHlEWmFoZnFkNUdRV1RXSGdQN0hZTnNuRTNEWERXbTdJOVVGZw?oc=5",
-      "source": "The Washington Post",
-      "published": "2026-07-08T05:53:00+00:00",
+      "title": "Iran targets Bahrain and Kuwait after US launches strikes and limits the sale of Iranian oil - WLWT",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UZ0NTZlc5NnRKb096UmZ3YUhRQVAxejg4UlZlRzgyZkoyb3NqUmZnOF85Vm9ycmp5Mm44XzhLRHllUmtET3ViQXRGdjNEU0ZyOWFscFBITFFqem80cGNURzVlZGd0dlZDMlJISjh3WHRzTnFocEhJWQ?oc=5",
+      "source": "WLWT",
+      "published": "2026-07-08T09:03:00+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "US Launches Large-Scale Strikes on Iran After Strait of Hormuz Tanker Attacks - IranWire",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRW94bC1FQWVhU3pKb1MzTnBlWldwQWlXcWFDZjh6UXVGaFpIRXJDeGFsMnFBN0pmV0U5NG5vZ2RtS2lWTkV4bFF0eEJtMTJDQ21iaFRtSVlYRU55UFY1NzR2LVFObEZXckhhZlVXNHRNZUlRZTk1anB4THVGUmtrTjQwOUExanNaZXo3YW8tUWZHSUIzeGpFNE9xX1dKVzU5RGZYMG1XSlN3NFNiWEpsbUNEMmM?oc=5",
+      "source": "IranWire",
+      "published": "2026-07-08T08:42:19+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Four oil and gas tankers turn back from Hormuz strait after vessel attacks - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUGg0M1U4ckhfRFJKQTRnZjUwSFFHZWlrX0U0dHJXT2hDMkE3NzItM19WT2d1QmZPdUg4c3hsQmJ1NFgzeTl1RnpUTlpYeUdKdTVLRnh1WUIzbFplcW1ESl9WOUMyOFpoNndlcmZ2czBzVXJJWTlVbjZ5U294SWMxdnhLaHpGNnE3UU1WR3dROC1oTkxXOEEwT0xYVnFzLXNpNnYxclc3UUoxd3REUkx2YWQzNWtqWm5JaFJF?oc=5",
+      "source": "Reuters",
+      "published": "2026-07-08T08:39:09+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran accuses US of violating peace agreement after strikes target sites around strait of Hormuz - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONlRxOVFtRHI1U3pmLWdYVHJoR2lMS2xZbFlFMzVjdzZUMXMwdl8ycXhGaTNsSEphNUxjbnZTWS0wNHN5ZjJfMEU0dmZrdEZvYU9TY1NPN0hBeTNWQ2h6Q3BaX18xd1ZRSDR0Q3hXS1NNWkdQc3RwZnYwb1h5bjdiVDBCWVpZSS1peU9zNk9jUnNnVFZNei10Z2hpTEJJb1BDSzNNcTg4S2xtbWNK?oc=5",
+      "source": "The Guardian",
+      "published": "2026-07-08T08:21:00+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MbzNFYURjUGo4T1hRZnJ0WjZFNVAzSzk1b28yVS1NR3g4NVpZMjNsUzhVREdqZFdLNm5TOWtzOS1QSDVzV0szbGFfZmFaV1lLWjlOTzBaVHg4QQ?oc=5",
+      "source": "BBC",
+      "published": "2026-07-08T08:11:50+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Vessel Attacks Force Hormuz Tanker U-Turns - Marine News Magazine",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ0JSUFdoU2NORUZVQS1WenNQSy11MEVXZ2QyX2lBSV9lYnk4QnhaMWdlVkJZZFZGNFM2cEVScFRMTkRtQmhCVG1IZTZUSlk2MXVYclVWVFJYYkdSbjZPU0ZOOG5lV3lHMUJ0cncwQl90RjkxeXZiTmJkWVoyQ1JILVVrRnhTcDA?oc=5",
+      "source": "Marine News Magazine",
+      "published": "2026-07-08T08:04:25+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "US revokes Iran oil waiver after tanker attacks in Strait of Hormuz - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdjlSMTMzM1ZVeXZ0cmVKaWxDaXZZQkpITTM1OFZ6MXFRSUFpUkw5MWJaWkpiUDVwa3d3ZmtBdGZ4OGRERmxhTGotMkdjWHpmWHMzQ3YycGx0V1k1ZE9GcmtZWkFkd1kyZTdibnpMb1pxWGNkX1VXc2U3UC1SRExTVGpzd3l1WmdVSktsSGc2S0QwT190Ry1CeHg3WQ?oc=5",
+      "source": "Crypto Briefing",
+      "published": "2026-07-08T06:51:27+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -65,70 +125,10 @@
       "tags": [
         "tension"
       ]
-    },
-    {
-      "title": "Iran accuses US of violating peace agreement after strikes target sites around strait of Hormuz - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONlRxOVFtRHI1U3pmLWdYVHJoR2lMS2xZbFlFMzVjdzZUMXMwdl8ycXhGaTNsSEphNUxjbnZTWS0wNHN5ZjJfMEU0dmZrdEZvYU9TY1NPN0hBeTNWQ2h6Q3BaX18xd1ZRSDR0Q3hXS1NNWkdQc3RwZnYwb1h5bjdiVDBCWVpZSS1peU9zNk9jUnNnVFZNei10Z2hpTEJJb1BDSzNNcTg4S2xtbWNK?oc=5",
-      "source": "The Guardian",
-      "published": "2026-07-08T05:32:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Four oil and gas tankers turn back from Hormuz strait after vessel attacks - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUGg0M1U4ckhfRFJKQTRnZjUwSFFHZWlrX0U0dHJXT2hDMkE3NzItM19WT2d1QmZPdUg4c3hsQmJ1NFgzeTl1RnpUTlpYeUdKdTVLRnh1WUIzbFplcW1ESl9WOUMyOFpoNndlcmZ2czBzVXJJWTlVbjZ5U294SWMxdnhLaHpGNnE3UU1WR3dROC1oTkxXOEEwT0xYVnFzLXNpNnYxclc3UUoxd3REUkx2YWQzNWtqWm5JaFJF?oc=5",
-      "source": "Reuters",
-      "published": "2026-07-08T05:20:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "US launches new strikes against Iran in retaliation for attacks on tankers in the Strait of Hormuz - EL PA\u00cdS English",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQY05DUG9vR2lac3M1NS1kcmF2WDEyU2xFQkRVMFpIUXVSNlhHV0YzZnh1TG9JVk12UFhmV1IwV29pZV9nZGpOcGt4dzQyUEJucm82QWNvZlIzUmhqRXUzQ05jc2Q0cVZjMGd3MXpXb2ZvTTA0VHVldU9EeUVHV1Z6QThPVnk2Yk9EV0ZVYVI0TE9ONUttY0xMbkxYeEp6U1BWYURXNWlvTlB1QU5NeVNjUFk5MEVDMnIzOWtDNXRuX1hucDhXa0VKMW9qc01uWm1uZFd1QzJKYngzYTJKWTF0eDFRalQtLWxzSHU00gH_AUFVX3lxTE5ZdmlOZzVrMGo2bFQ3Y2JaUlhlS1BwbnJRR3FXM20wMFZCamxDMmtJNTFBMlZrV1dtOUR1RWI1NVZXdlJvMldHU3VVT1hzUDAzNEllaEFNNVRXWWtZa0J0SGpRaVBBeUdSS09LTmpkVk02ZGhyVmtUUGdLS2xVWUczWldUbmN2bm9Lbkh5VWpHOFRRUGxqbzNvVW03MHVWQzNkSjN1TFlObFdNRzRmRENmczd2MFZjbGVUWUtGaF9GeDhPSk5fSUllRlRSTFhiMTRXalFzdVpWTXNyTjk1Q2dUTzhPQjlobm9zbkJpbXZYM1hPUkYzb3luSWxMZ3A4VQ?oc=5",
-      "source": "EL PA\u00cdS English",
-      "published": "2026-07-08T03:52:33+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "US launches strikes on Iran after 3 ships attacked in Strait of Hormuz; Bahrain and Kuwait targeted - KCRA",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GUXZ3Vm9qWVF2bnZkUDVsaFN3OXk5QXFiVlpsTjc4OVFBdEpzUHRSaDkxMFpkbjdUbHRJTW5MckJLWEhvWjRneTFuUF8xem1LdWY2U0JjWF94a1gzbmxQUDRWYUN5eGN5b1k0b3BOdW5WVzVDVmdtVA?oc=5",
-      "source": "KCRA",
-      "published": "2026-07-08T03:41:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "U.S. strikes Iran after attacks on vessels in Strait of Hormuz - Axios",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PZ3hMR0poZ1E1WVpvYkRCVzNXYXJ3cm1fcEo3ZW5wVlViY2xsYnR4dzkxaERPcDAwcndERmR5Ry1VMGdZZEpTS3BBekp4eFc3SHhGNWE3bXNIdkJzc2dMc3lMUmFzRG0zdnYybUZlYnpNbFZuOU5z?oc=5",
-      "source": "Axios",
-      "published": "2026-07-08T03:29:31+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Ships attacked in the Strait of Hormuz: What that means for ongoing talks - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSWxQQVZHR2dmVHRRem9Mb25HeDdFQnJwVGUzTHY0QUx2YndfMlRXcDlJNDFSRjk1UF9TbFBTOVlIdUotbUV4M3FIVGZoWHdIdDBTdy0zMWRXWENacXR1QnhvQ1U1RkFBQUtNTjU5X3Qyc25TMXgxaTJ0R1E3aHBpdV9iZmxCSFpMYWI4SENTeWg0bmVJQ1pLVlFTQ3JPTTM2c0VWOHlLTFNXUWpVRjA4ZHpn0gG3AUFVX3lxTE1jS3JLS21OVy03MHh2NzNTNGx6YjBaMjlaeS1GTXM2dkk4RkZMR3VJc2hmTmRoUEZrVjJsYUY3VjBkYlBFcXlNRDVWMjhKQWZTai1SdTFBNXY2TEozbWl0aGlVRmFUdDUweDFoeFE3a2xVdTlzVWVMUkJMbF81ZlNFNDhKUTNVeE1vNjNjYnBWaEd4di1GLVZMbTlwbDFCYmpRVDhtYTVYbWdDRlFpNTItc1VpWUlfQQ?oc=5",
-      "source": "Al Jazeera",
-      "published": "2026-07-08T03:24:30+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
     }
   ],
   "brent": {
-    "price": 76.39,
-    "change_pct": 3.01
+    "price": 78.7,
+    "change_pct": 6.12
   }
 }
