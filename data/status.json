@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 285.8,
+  "tension_index": 295.2,
   "closure_signals": 5,
-  "articles_scanned": 228,
-  "updated": "2026-07-08T23:34:44.462621+00:00",
+  "articles_scanned": 230,
+  "updated": "2026-07-09T02:15:09.811674+00:00",
   "headlines": [
     {
       "title": "Iran closes Strait of Hormuz, strikes US bases amid rising tensions - Crypto Briefing",
@@ -51,10 +51,20 @@
       ]
     },
     {
+      "title": "Iran threatens to close Strait of Hormuz amid US-Israel-Iran conflict - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcmtrbm5iUW9KS0h3MHlQcTZrcXRWLXF4M055U3V0cE1QSGFPMmtXMWhUQWJXcHBxa2NVd011WTNrbXVSa29HaEtpaU0yWFJwV1gyM05kck9rNzEzSnVEQS1iOGEteHAzX3A1RUZXcm83NENPczhVQTV0WTVUc3MtSXBkWUNfQ2puVUlETlZnMlJ0OUNIOWtZSDZkbHRxZw?oc=5",
+      "source": "Crypto Briefing",
+      "published": "2026-07-08T14:55:40+00:00",
+      "score": 7.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
       "title": "Iran Threatens to Close Strait of Hormuz as US Signals Return to Blockade - Defensemirror.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbEVtTkpXeDF6b0ZnaGgxR1RJZFJnTFFpRmp1eVMyLWdoM3RxX2E5V2F3ODY0QnlLc19zUmxOQ0dsN1JLa1VHc2Y1WHhZWl9uUC1sTDMyRGdzTEdLcHhSYzE3UWlINFpwWVhGQjVVakE1M2VXSHRyazdWR1AyUmZWbVRmMFJzSy1Dby13U29ZdjlheEJOeUltS2wtVkpKV3N3MkMzNHZJaEVVYXRVNENV?oc=5",
       "source": "Defensemirror.com",
-      "published": "2026-07-08T18:07:59+00:00",
+      "published": "2026-07-08T18:48:36+00:00",
       "score": 6.0,
       "tags": [
         "tension"
@@ -75,7 +85,7 @@
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoSklBbENoYm9aNjFWNUdNNk1rT05xT2ZJdzZrMG0wRmtEYWkwZUkxSThGeW5fVER2cFJBNVcyS0J5ZmtPam4tVnZnLUg4Sy1mSTRrc2MyUUpKZVZJVG9sdVpyVQ?oc=5",
       "source": "\u7b39\u5ddd\u5e73\u548c\u8ca1\u56e3",
       "published": "2026-07-07T02:03:22+00:00",
-      "score": 5.28,
+      "score": 5.19,
       "tags": [
         "closure"
       ]
@@ -95,7 +105,7 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa1NDSzBSRHB2UTBVcU43bEtyMVN6T21YUF9pV2lfRG5icVFvUVphUWd6d2VDaks3dnFqSm9FcEI2a0ZiaXFsU1pmdWhsbE90R0dnNmN6ejZxSmlzc3ZWOUJKRFRRRjNNNXdfenhqVWE2SThxZTQzMDVmX25iME15UmFvczcwNUZfeXlmRWQzZ2hMa1lMSjB4UV83bkk1VjFfeXdqTllZNFRBZlROaHfSAbMBQVVfeXFMT3BmNnRucl83S2gySU4xbG8xenNnQS1uaWRjelU5dURNWWduc3ZqVmV5ZUdYWkg3Z21PNUF1T1BBWlFSaDdEakZfcFY5OUtSY0ZGeG0wLUdDODNORWxNZFh0T1F2akhMcmMyTTdPNkcyQUhpVnpOb2JFcFN6T0c0dnowa0VpNnl6WXhtVHFiZk8zdkJvU2I3NW13R3hianFLTEtWeFBNNW9ZMU1OSjltVFExdUE?oc=5",
       "source": "africanews.com",
       "published": "2026-07-07T12:36:28+00:00",
-      "score": 3.76,
+      "score": 3.7,
       "tags": [
         "tension"
       ]
@@ -111,20 +121,10 @@
       ]
     },
     {
-      "title": "Iran threatens to completely close Hormuz strait in response to renewed attacks - Middle East Monitor",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVnI4ZS1lTHVtTXdhM1d4emNHclZ2MzgxbVpLS0Q3NnJjNkhhSmJrVHlEcndjRkhBR2tMRU5HZXRYbEVxMWJETkhlLW5jTDJLLXNVZG00S1Z1bVJFVmMwaDRUOUVfMjFVVmJ2QlNIeVlPeTlCVEg5WnhmZ2VGUENxVGRmODJnUHZ0YUpjNEROeDNiMHhadmtOZ3RuTUVRX01HZE1zUG1NWUdUVzVJLVlHVUJwN2luRXVRdGE0QTdSei3SAcYBQVVfeXFMUG9ZZFJYZjBQa2pOZTk2ekV3MXBCdFVOUmNMRmdRQTNBaVRfLXFJSW8xRXFta0Z1ZDZIb0prWVdxcU0tNVZ3aFZJUlIyUjJSTkI3WUtRQVRxZ3pJSzdkbWFYV1BKM1UtcWdxR3pNdnRuOG1TWmx1VFVDdHA0NVpmN09ITjlDNFVNRV95SnF4MVBNbDJTVlQ2TjBid0VWQVJJY0ZKRlVTZTViVkNLVFlIRzJaYmVjdWx1elFVRmJuNDV0M0JONm1n?oc=5",
-      "source": "Middle East Monitor",
-      "published": "2026-07-08T19:37:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Vice president says US will respond if Iran attacks shipping in Strait of Hormuz - Anadolu Ajans\u0131",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLVpTb2VLNVZDTVVaRXVzVDUxSnVhelR0akJQdFlvU3BHcldNcmJNRVNkdUFpaDdxNTZZZW1nam1ORHdMMTBraFI2cXIzeFdaaGZNaUVIamFHamRaMFc2WGg2eDN1WVV0NVlNOVBrSmJod0NDVnJ3RmZ3U0xnRllSNVlFUFZ2aThibVhWZ1pFSEE3bDlGVEQ2M2lFRTFKVFBvdGtXdG1KeDExcVhYdi1BYjJTWU9zOEJWX1B4TTJpeW9nZURadnRVbXRZSU8?oc=5",
-      "source": "Anadolu Ajans\u0131",
-      "published": "2026-07-08T19:27:27+00:00",
+      "title": "US Launches New Strikes on Iran Over Strait of Hormuz Shipping Attacks - The Media Line",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM1F3cWhTSXlId2phN1U5cHhfbjJ3MUp4czFPYUstbUsxSTZaMkJuZlhlX3NYQWpUTUNsYmMzSVNvbTNOcW1xRl9aSmJCb0tPeWplYXdHUlNGalVfWXZKV21vRFVaY2NmNmp4aGNac2VaaDJJUVlCWlA1dF9OdzdhejJ1VDZaUTdSUjFOMnRJQWZIRjZaNHV4QXpHN2JHZ00wVkdHYThxbTY4dw?oc=5",
+      "source": "The Media Line",
+      "published": "2026-07-08T20:43:43+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -132,7 +132,7 @@
     }
   ],
   "brent": {
-    "price": 78.9,
-    "change_pct": 1.13
+    "price": 78.62,
+    "change_pct": 0.77
   }
 }
