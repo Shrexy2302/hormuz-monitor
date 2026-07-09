@@ -1,17 +1,17 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 311.0,
-  "closure_signals": 6,
-  "articles_scanned": 230,
-  "updated": "2026-07-09T20:15:56.089779+00:00",
+  "tension_index": 305.4,
+  "closure_signals": 4,
+  "articles_scanned": 227,
+  "updated": "2026-07-09T21:54:29.578195+00:00",
   "headlines": [
     {
       "title": "Iran closes Strait of Hormuz, strikes US bases amid rising tensions - Crypto Briefing",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTmdjNmZraW11UDdGNnVTZ0V2Y1N2S3JjSF96MU5ib1Ayd1NYLTRmcFdEOEQwQjYybzg2d1NtUlVRampIVE1RNHQwZjFPQ05nQ080UGdxNnpGUE9BRUthWlk1azlFWnJnUGtlUzlTVjM4YjdBZWtLUkJVbzJEeGUyM0l6WVFmSW52V2hZczJteFh5ZXRXVlNuOXBB?oc=5",
       "source": "Crypto Briefing",
       "published": "2026-07-08T04:00:16+00:00",
-      "score": 10.92,
+      "score": 10.81,
       "tags": [
         "closure",
         "tension"
@@ -22,7 +22,7 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZTA4d2NiMVFpbll0N1VDaUg2U29QaWNVX0lhakJSdEM2c01obkFwUFpGVUdFdnlPZk5ib1NoTFVCTnpyMElUWXJVVnJjMXZKd2VsSHdfc0FRUkN5Q2VkbWF0MHBfN29IR25PNHVfZ3ZER0NJeEFhS1lycEtKWGVmdEpqSkRnUm5XcWFveFlZQWpmZzJM?oc=5",
       "source": "Crypto Briefing",
       "published": "2026-07-08T12:17:24+00:00",
-      "score": 10.51,
+      "score": 10.41,
       "tags": [
         "closure",
         "tension"
@@ -33,20 +33,10 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdjBxb01BdUwxMThSTV9uT2lFUi10V3c0WUJ5V2xTZXRMeVhMYVVDbWhaaWhoUmtuMm4xcHRONUxHNUhSM1RMRWx2ejNIWGpYUE0tVkdtVVhONWUzV3BtU3d4cTN1ODM2QVhKNW1RdFJWazNNVkZnWElRY2tZY01qZHFISGFSVjVGUXBzQklCaGhlT3JzZ0tv?oc=5",
       "source": "WANA News Agency",
       "published": "2026-07-08T11:47:44+00:00",
-      "score": 10.48,
+      "score": 10.38,
       "tags": [
         "closure",
         "tension"
-      ]
-    },
-    {
-      "title": "Strait of Hormuz is closed once again: Iran - News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84NVNuS3BtZVBRYXZNdGFxRTl2UURCamRKUWxSTHROY2RfMDMwOVdzczhsSEVScUcwaUpIU3U0NTRIQUtLR05IM2t2MkRlODZJNnZJUnZGMlRyeThERmR6aHo5SE1JZGJGdEhDeE1UdjJMWWZXVjVz?oc=5",
-      "source": "News On AIR",
-      "published": "2026-07-09T09:54:50+00:00",
-      "score": 10.0,
-      "tags": [
-        "closure"
       ]
     },
     {
@@ -54,10 +44,20 @@
       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPZzQ0aGNDbVpTSGpxdU1mLXdWY0hEUWtyVWNTZTg0dWp4ZXpfSjY0STc5bVMtaDk0eEhkaDBYLUpLQXc0eXRuVkQtM1NEVVZzUU9IVlpLRE5RcUdkcUV3T0hwZzh6VjRta2wyX21KSlJJb3hTQjFlem9oQUpoQWZxX213UjNtS3JnUUYxZXliSEh6M2JFZ25xNDFXcXdDUVdFWXJERG9XQlRqaXhxUDFNRWVXM09tVG9DNndSUDk4dlR5YnN1U1lUOVU0QkRQbngxN2JOSHRfbm1DbVk0S2JuTXdxeVl1aWpOeGRGWURrMndXZ3hyTXBlU2RaZ0h5VUJfVm5TSHNsWWNYRko4T1JV0gGUAkFVX3lxTFBUWGQzWDFNd2xkVHNfdDV6YU1YeGZtMWwyMnJ1UmdHSHRUZDRxckVuX1ptNWlNbFlEVEphSFNjT0ZLLVdSTDRVc1M3S1BBNUZYTC1rakxkYXpqWGRfbjZrVi1VUTE1MnZpQzluSXpkQUNGZjNRS3dmbnlCXzFUalc2Ynl5Z0JqODBEenZPdFVXaGV6SGZBVUZwUVUyT2V3Ym9aRnBqQ1k2eTMyandnaWNhZ3RpYUd5NG9rVHhlb2RiMzRaakNBTHNVU0o1dnNSWFduVjRYYktxdlU1N2hEalhCTDg0bnN5clAteUFqeVJhUkNoUHNYd1poYklLRmJNMThXN2Z3RGk2Nl9KVjAwTGFZWnhnSA?oc=5",
       "source": "The Economic Times",
       "published": "2026-07-08T10:33:46+00:00",
-      "score": 7.57,
+      "score": 7.5,
       "tags": [
         "calm",
         "closure"
+      ]
+    },
+    {
+      "title": "Iran threatens to close Strait of Hormuz amid US-Israel-Iran conflict - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcmtrbm5iUW9KS0h3MHlQcTZrcXRWLXF4M055U3V0cE1QSGFPMmtXMWhUQWJXcHBxa2NVd011WTNrbXVSa29HaEtpaU0yWFJwV1gyM05kck9rNzEzSnVEQS1iOGEteHAzX3A1RUZXcm83NENPczhVQTV0WTVUc3MtSXBkWUNfQ2puVUlETlZnMlJ0OUNIOWtZSDZkbHRxZw?oc=5",
+      "source": "Crypto Briefing",
+      "published": "2026-07-08T14:55:40+00:00",
+      "score": 6.73,
+      "tags": [
+        "tension"
       ]
     },
     {
@@ -65,7 +65,17 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPempUX2Y3QzV6NGVjNW85WGEtTFJuN2M2ZXd6TXZmaW9vTGJobzFlSVVmWGwyMHRTaGdNMzh5cFk4TzZGbGFiZEFuWlFPcEpLMjMwWWpVUjZWeDI3dTFiMjVjXzk3QWJrWVN2eEZoUVVJNHo2U3J0TW5Lc1JxZ0o2SnRxLS1FQXpOMFE1emN5bVhpTnhLQzhVUQ?oc=5",
       "source": "Crypto Briefing",
       "published": "2026-07-08T14:53:58+00:00",
-      "score": 6.79,
+      "score": 6.73,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran Threatens to Close Strait of Hormuz as US Signals Return to Blockade - Defensemirror.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbEVtTkpXeDF6b0ZnaGgxR1RJZFJnTFFpRmp1eVMyLWdoM3RxX2E5V2F3ODY0QnlLc19zUmxOQ0dsN1JLa1VHc2Y1WHhZWl9uUC1sTDMyRGdzTEdLcHhSYzE3UWlINFpwWVhGQjVVakE1M2VXSHRyazdWR1AyUmZWbVRmMFJzSy1Dby13U29ZdjlheEJOeUltS2wtVkpKV3N3MkMzNHZJaEVVYXRVNENV?oc=5",
+      "source": "Defensemirror.com",
+      "published": "2026-07-08T18:48:36+00:00",
+      "score": 5.9,
       "tags": [
         "tension"
       ]
@@ -75,27 +85,7 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaSXZLbTdlTEZHZ2JjZ0pmUkNQV1lhM1hHSElfNnh4MlhQclBiU21wNzZiMzdpenB3elhjMFhOOWZPaElyYVdZTjN5T0pfdkJ0VENaTXlvYlFuUll1aHY0Zmlqa0dtQWN1UUE?oc=5",
       "source": "The Jerusalem Post",
       "published": "2026-07-08T17:15:58+00:00",
-      "score": 5.9,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Strait Of Hormuz Closed Again By Iran While \u2018Piracy\u2019 Row With US Intensifies - Stocktwits",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeUNJaGhtNVJPcDAtckM2cVVZMWtXZU43TFA1bmllNlF0a2tjS242cEt2WXR6SDNLLWxEdmNyUUZjblNIekdmVDA1X2ROa0YycHE2TDNTdHRfVkhJVElweG8ySWNETXNYSGlJMEJ3ZndnMk94VjhEaFNEXzdLVFp1ekxJcndSME1LeHVneGF0cFJGeUhiVEVFN1JtV29TcGVONGhB?oc=5",
-      "source": "Stocktwits",
-      "published": "2026-07-05T10:16:27+00:00",
-      "score": 5.44,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Strait of Hormuz closed as Iran vows to attack any ship - The Canberra Times",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYWpDd1hkOEp6NjZXcTlmQ1k1Q0FnSENURldvb2QtUnlhZkY4dDRPdU1DNDRmMmlnV2lMSGFnbnA4UWhkNEJ6Q3ZLVzJHUWVLRy13TU9rcnRxUEVvZzRqczZmVTFwTmlJbUdMd0s5UkFSSmtjRVplV0Vqa21xRUFkWkRKUHFxRHlPZXhENlRseXFCYTRIMk5QUWFSOExkbTN5TjRFQUlR?oc=5",
-      "source": "The Canberra Times",
-      "published": "2026-07-09T03:39:11+00:00",
-      "score": 5.0,
+      "score": 5.85,
       "tags": [
         "tension"
       ]
@@ -111,28 +101,38 @@
       ]
     },
     {
+      "title": "Iran threatens to close Hormuz Strait amid US tensions - Yeni Safak English",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd1J3M3JaRVdSRU54NXRVaDFQRFdpZVFFbnpDclBScG1GX0hlTlhlNXV1bFhPUWZrT2FkV1FHUDBxcmREYWd0RGxNUjRLeDZ1MV9kY29OejJMeUp2TUJyQlNSWjI3VEJQNUlFNUY5MHp0d2NFZ2hCdFN2ZG43NUl0eGtNRDc4aEJVMGxlMVRzUl9mQ01KdHZ2cw?oc=5",
+      "source": "Yeni Safak English",
+      "published": "2026-07-08T21:38:42+00:00",
+      "score": 4.99,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
       "title": "Weaponizing the Strait of Hormuz: Naval Mines and the Spread of Economic Coercion - \u7b39\u5ddd\u5e73\u548c\u8ca1\u56e3",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoSklBbENoYm9aNjFWNUdNNk1rT05xT2ZJdzZrMG0wRmtEYWkwZUkxSThGeW5fVER2cFJBNVcyS0J5ZmtPam4tVnZnLUg4Sy1mSTRrc2MyUUpKZVZJVG9sdVpyVQ?oc=5",
       "source": "\u7b39\u5ddd\u5e73\u548c\u8ca1\u56e3",
       "published": "2026-07-07T02:03:22+00:00",
-      "score": 4.59,
+      "score": 4.54,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "U.S. intensifies strikes on Iran\u2019s coast along Strait of Hormuz - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVjlzcndQRzNodDFwUkIwNVNWUDdLS2h4U3RhMmpRdEluQ2xMMXBIdVdyUmRZeDVEX2FCTUxMemM3WEhVWkZPNDFiYjBaZmZyQlhNQmpaZlZHVVNLQUk2enRwWjhHUThHLUszU2hwTnBFUkpFRXUxWkJOVnlKMnFYdHhodC0tSVBfbmRMTFduYXE4MUduVlN4RGQ5UDU0VTcwX0dMZkxR?oc=5",
-      "source": "The Washington Post",
-      "published": "2026-07-09T19:20:32+00:00",
-      "score": 3.0,
+      "title": "U.S. strikes Iran for second straight day amid Strait of Hormuz tensions - World Oil",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbUY1dWlnalJIMDU4cFZvVW9YRmw4TElGejNTNGU0R3ZJRHNqc3BFRnI3aUw3N0FGZTdQWFpwYlpaQVBuNHp3UGtqUi1Ed1daZjdtcjJfbW5aM2J3YlFUWW9fVURvTjkzanRjT0hTYWFCa1Y5TWZmWlI1QVYyYUhOWVdBeVcydFc4YmZEU2V1UWJ1WFNtTlEydWFrMjBJM0M5NUFzX1F5c21zTnA4d2VMbA?oc=5",
+      "source": "World Oil",
+      "published": "2026-07-08T21:37:24+00:00",
+      "score": 3.99,
       "tags": [
         "tension"
       ]
     }
   ],
   "brent": {
-    "price": 76.06,
-    "change_pct": -2.51
+    "price": 76.04,
+    "change_pct": -0.34
   }
 }
