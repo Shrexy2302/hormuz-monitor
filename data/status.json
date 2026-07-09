@@ -1,17 +1,17 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 318.9,
-  "closure_signals": 5,
-  "articles_scanned": 227,
-  "updated": "2026-07-09T06:25:29.623316+00:00",
+  "tension_index": 304.8,
+  "closure_signals": 4,
+  "articles_scanned": 226,
+  "updated": "2026-07-09T10:08:04.157207+00:00",
   "headlines": [
     {
       "title": "Iran closes Strait of Hormuz, strikes US bases amid rising tensions - Crypto Briefing",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTmdjNmZraW11UDdGNnVTZ0V2Y1N2S3JjSF96MU5ib1Ayd1NYLTRmcFdEOEQwQjYybzg2d1NtUlVRampIVE1RNHQwZjFPQ05nQ080UGdxNnpGUE9BRUthWlk1azlFWnJnUGtlUzlTVjM4YjdBZWtLUkJVbzJEeGUyM0l6WVFmSW52V2hZczJteFh5ZXRXVlNuOXBB?oc=5",
       "source": "Crypto Briefing",
       "published": "2026-07-08T04:00:16+00:00",
-      "score": 11.84,
+      "score": 11.59,
       "tags": [
         "closure",
         "tension"
@@ -91,16 +91,6 @@
       ]
     },
     {
-      "title": "Weaponizing the Strait of Hormuz: Naval Mines and the Spread of Economic Coercion - \u7b39\u5ddd\u5e73\u548c\u8ca1\u56e3",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoSklBbENoYm9aNjFWNUdNNk1rT05xT2ZJdzZrMG0wRmtEYWkwZUkxSThGeW5fVER2cFJBNVcyS0J5ZmtPam4tVnZnLUg4Sy1mSTRrc2MyUUpKZVZJVG9sdVpyVQ?oc=5",
-      "source": "\u7b39\u5ddd\u5e73\u548c\u8ca1\u56e3",
-      "published": "2026-07-07T02:03:22+00:00",
-      "score": 5.05,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
       "title": "Iran to close Strait of Hormuz as it vows mass retaliation against US attacks: report - New York Post",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMDMxRDE3c0NIa2gtaTZiVmJkUE1xVGc0YTFjY3dGRmhtdFlrMEJtR3hvT3Z5SW5RTVJOVzNLRUJZaGNvN2FZRmMzRnBkU2g5SExpaWNCV3NaeWxmZjRmX1ZoalFsN2xuTnphYm5fWVRYdVJJYlZhSnFlcTFrUnp1ZGozSHpfdy1GMGVsbzBSOV9DWDZ6XzVuOE02aVdvVEMxekxEOTVLTEQ2N28yaFJnQnN4YXlfUTRKU3c?oc=5",
       "source": "New York Post",
@@ -121,18 +111,28 @@
       ]
     },
     {
-      "title": "U.S. strikes Iran for second straight day amid Strait of Hormuz tensions - World Oil",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbUY1dWlnalJIMDU4cFZvVW9YRmw4TElGejNTNGU0R3ZJRHNqc3BFRnI3aUw3N0FGZTdQWFpwYlpaQVBuNHp3UGtqUi1Ed1daZjdtcjJfbW5aM2J3YlFUWW9fVURvTjkzanRjT0hTYWFCa1Y5TWZmWlI1QVYyYUhOWVdBeVcydFc4YmZEU2V1UWJ1WFNtTlEydWFrMjBJM0M5NUFzX1F5c21zTnA4d2VMbA?oc=5",
-      "source": "World Oil",
-      "published": "2026-07-08T21:37:24+00:00",
-      "score": 4.0,
+      "title": "Weaponizing the Strait of Hormuz: Naval Mines and the Spread of Economic Coercion - \u7b39\u5ddd\u5e73\u548c\u8ca1\u56e3",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoSklBbENoYm9aNjFWNUdNNk1rT05xT2ZJdzZrMG0wRmtEYWkwZUkxSThGeW5fVER2cFJBNVcyS0J5ZmtPam4tVnZnLUg4Sy1mSTRrc2MyUUpKZVZJVG9sdVpyVQ?oc=5",
+      "source": "\u7b39\u5ddd\u5e73\u548c\u8ca1\u56e3",
+      "published": "2026-07-07T02:03:22+00:00",
+      "score": 4.93,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Strait of Hormuz tanker attack raises tensions as Iran mourns Khamenei - africanews.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa1NDSzBSRHB2UTBVcU43bEtyMVN6T21YUF9pV2lfRG5icVFvUVphUWd6d2VDaks3dnFqSm9FcEI2a0ZiaXFsU1pmdWhsbE90R0dnNmN6ejZxSmlzc3ZWOUJKRFRRRjNNNXdfenhqVWE2SThxZTQzMDVmX25iME15UmFvczcwNUZfeXlmRWQzZ2hMa1lMSjB4UV83bkk1VjFfeXdqTllZNFRBZlROaHfSAbMBQVVfeXFMT3BmNnRucl83S2gySU4xbG8xenNnQS1uaWRjelU5dURNWWduc3ZqVmV5ZUdYWkg3Z21PNUF1T1BBWlFSaDdEakZfcFY5OUtSY0ZGeG0wLUdDODNORWxNZFh0T1F2akhMcmMyTTdPNkcyQUhpVnpOb2JFcFN6T0c0dnowa0VpNnl6WXhtVHFiZk8zdkJvU2I3NW13R3hianFLTEtWeFBNNW9ZMU1OSjltVFExdUE?oc=5",
+      "source": "africanews.com",
+      "published": "2026-07-07T12:36:28+00:00",
+      "score": 3.52,
       "tags": [
         "tension"
       ]
     }
   ],
   "brent": {
-    "price": 77.96,
-    "change_pct": -0.08
+    "price": 78.08,
+    "change_pct": 0.08
   }
 }
