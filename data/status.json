@@ -1,17 +1,117 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 199.3,
-  "closure_signals": 5,
-  "articles_scanned": 224,
-  "updated": "2026-07-11T22:12:14.898130+00:00",
+  "tension_index": 272.6,
+  "closure_signals": 15,
+  "articles_scanned": 222,
+  "updated": "2026-07-11T23:23:47.619029+00:00",
   "headlines": [
+    {
+      "title": "Iran declares Strait of Hormuz closed as 'unauthorised' vessel hit - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWE1ubnJhamUwQW5mQXlHNjRMaW1IX3pEc2dWZzlvREFRbXpYc3hmOFJfRl94TWNQaUh1d21WcV9aVGV0dGF2TGVMSnhXY3RtOWlBQXRVakV3RHE5UFBDXzRzUDNzWFlTS3VjTTZNR0xqTTBxb1ItVl9jc0VtclE2ZXI2c2NJZlpkejNSTGk2MU9pMGxRZnE2cXZQOFNibHF3Wng0RUlpd01oTlBSNU1ibzN0dU12OEgtNEFoLWdScmNhZkZG?oc=5",
+      "source": "Reuters",
+      "published": "2026-07-11T23:22:13+00:00",
+      "score": 10.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iran's IRGC Navy Says Strait Of Hormuz Closed Until Further Notice - Deccan Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaVdEaHE0d2lUODUxMWZiNXZDZmRwbFhJWFRRV21ENDJkT2N4Y2E5OHJ3aVUwMHYzY0FDVklydVpEbG00LV9feXpRR2ZpWE9hcFVyZ0tFMTg2c2djYWZPcDc4aHhqTVRNbDBTeHlUM2NlZlVCWEhHRFV0OTFBM0gtdlM0SnJ4T3EtQ29Kbkp5V3RpOUpZcW8xWVBRU0VESVppWURSdEo2d3JQbmN4U1F4MtIBtgFBVV95cUxPMmhEcnlXbkFEajBIQ3JqOGxOSWpJNWdSNzFoOFZpTnVEOVN3SHFPQjhvdDB2Ykl4WV9QSmx6WmZTdVhjVlc2V3BRMUwzX2pjLUNKYjVWZlRxalJXaGY2azBhbHJPanQ2SlNzUjdQRERTdXNUbFpPZUYyU0lDdlNvR3JreC1NN25UY3l3TDhkdU9EdkJjZlgtSng1VHBRWW9vcGZRUHRNOUdmbVl4SDgxWjR5TVM0QQ?oc=5",
+      "source": "Deccan Chronicle",
+      "published": "2026-07-11T23:03:49+00:00",
+      "score": 10.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Strait of Hormuz closed until further notice, Iran's IRGC navy says \u2014report - GMA Network",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOc1RUNHlKUmpBTHFIWVB4M2JDYWVRWUhYeFhDa2Y0Ynl6TWh6SEYwcWJSS2REa1ZYWGZES3ZnZ3h5TkdudmRzaFlCdTBQelhUWlVKZjBsTjlSZ0ZleGZIMjFqRUNNV2VydzhmMVB6aWEyTmZXMXFCczdGSmVRZUhEZlM2VmlwQkw1OXYxX29YcE9QeXN5ZXI5SWtGREVFTndxMWNIY3NVRG9DaEcyMVJpeWROUEZDc3U4cU1PTUl6NGhzcTNxUXZnb3VvTkoyaTN6NkHSAdcBQVVfeXFMT1FXWmY3dTMyRkdqUnJLcXlNMDFtMmRzdmdlbzlOMDZnbjRSQWlXdVRPaWs0aVhITzRqRUo1dTVCTFB1TUZkdG9xOFk0ZlNuZlRZR0J2WnlLVW1ISk5IWFR6QmhCNWJveURabHR4WVBYXzl5ZmE5WmljSnR2R3FXdlR3Zk9NbUVNSjlWZ2RaWjlOcWQ5U3RjemhrWF9GUTNlTzdDNU9tMlFPM21Gd0Z1LTd0VFZHc1E2ZjNzOURZSEktOTlzN3p6Uk5IV09GNE8wM2k3aFVlRDA?oc=5",
+      "source": "GMA Network",
+      "published": "2026-07-11T22:59:14+00:00",
+      "score": 10.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "IRGC declares Strait of Hormuz closed, fires on ships as US deadline passes - T\u00fcrkiye Today",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWndLYUhjOV9ZcnExeHFtbnN5SVotb0FPQjZMYXVsLUVqeGxRaExqVWt6VDlEbTdVSXI5dEQ0Wm9GQ2lnUjdPRGhpbG9RZ3BOUko2YkpKd2ZSWS1Ra2tYOUZjS2VMOUFpd0cxTk85N0kxYUJsYm1FVFJBSDV4cjM1TURzcFJUdHZRNkxadFk4MmFEMEdYSGtzbHFTQkNfdk5qT0dpMEZQMUd3bVFkYklDUUVkR2JYV0ZPc2c?oc=5",
+      "source": "T\u00fcrkiye Today",
+      "published": "2026-07-11T22:50:27+00:00",
+      "score": 10.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iran's IRGC navy says Strait of Hormuz closed until further notice, state media reports - The Korea Times",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc1dVUkJaa25LQXBhZkROM3ZVb0xKT29YMVFoMHo4UW1xaE1sdG5sbEFWM2d6OXFVUEhHRURyRjhYMHJyVUtHOXlsMWdodWJoS1g3dll2aGRVekxnZVV2YTVOSjZhallyaGloNXNsbzFMY2VvSmt1aWRKcGZwR2pITHhVNkRUbWtsN1UxZGZpUEFJMHNaY2JHcWVENjRiaEVRUU9RQVo2dUhKYUx6dFdCN3YzUk9iYWpmR2dwNXZXZ191X0pkOEhLMdIBzgFBVV95cUxQbXRRalhWS09nNlRVOXR4V2pYX0pwUkVNTjZueUkzbWVwYW1Gak1SRnBhU0d4YlRPTUVkUmMzdENpU1ViUkR0RzdxdXpZc0g4b1MwMTM1bVBGRDdxbzZVY2lDMFdvLXNmN0o5R0tKNnJlakdYekc0MHdrRkJXM0hiMlJqWUJlbnJrVjNYYnhWLVdIaUdvcnJxQWxodjc4eGJsdDJjd1hNb2hreF9xUEVSMDdSUjN0NjliWmktMUxZa3VfcU1CcUgxNWVISTc1UQ?oc=5",
+      "source": "The Korea Times",
+      "published": "2026-07-11T22:48:00+00:00",
+      "score": 10.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Flash: Iran's IRGC navy says Strait of Hormuz closed until further notice: media - Xinhua",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyUzJVdmpORzdWR2ZWT2J0N1JST2d3RXRVeGc0Q0dRMFFUQ2t4aVI1dkVfSm1QMGFFdUhqV0RQMms4enNlVnJ3bFRGb1lWN1N4dHZIbk5NNnNQZkdaVmc2M2hMUDZmTDhrRy1BZEpYT3V0VE5BZWRPRWp2ZmI?oc=5",
+      "source": "Xinhua",
+      "published": "2026-07-11T22:45:15+00:00",
+      "score": 10.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iran\u2019s IRGC navy says Strait of Hormuz closed until further notice - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMDFqbFZ3Sktfd25DaVQ1Q3FvaEFmUEdCMHBPODFoUWtHcktpQkFjNHF3UTlaWDFseTdEUzNrVUFzbFRBT2RpT05CZmhqZlUzdUNBOUhuZWEyTlE3UnI2MFJITkxRQnQ5OGM0cFN0d29Zc3ROdFBnZWJCcGtEbjd6c2YtSmM2bXFDcDdJaHY0WGF5NVVtNy1taXFuMDdlZjBCdS1pOHdBRWN1RE5qMFhxYmFBT3BCTFR4X2ZROFBLVTRyNUhad1JfalcyMA?oc=5",
+      "source": "The Times of Israel",
+      "published": "2026-07-11T22:39:00+00:00",
+      "score": 10.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iran's IRGC navy says Strait of Hormuz closed until further notice, state media reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSmZVRzVlODludmRUd2hpVXBuRFY1Z0wwMTNNdGJBUEc1b01YcUtzVVRMVUxvMVg1dTROcEVOdWVfRUlOYWNvTkY4b2REM0QzRDVfVnp5MUJIcVhoeXVPb3l4RVI3MnVtWUpZUk9QRHkzUjFvcDR1UFpXeVZWOG5sSWJGSGtvTlRYeEhHYVhScE1RUWQyRUR2aUROMG9BckEtbG04QmxMSmcyMzRLMkFCZUFlWkM1cHN3UFQ5Z3IxbFpMNVVIdUw4?oc=5",
+      "source": "Reuters",
+      "published": "2026-07-11T22:32:09+00:00",
+      "score": 10.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iran\u2019s Revolutionary Guard Navy announces closure of Strait of Hormuz until further notice - Anadolu Ajans\u0131",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYzB4ZVVrVm1zMlZQak94N1pjVmZrREZyM3h2YnhOcjNEbHNBUHlXR1lPcXFOWEtJdmxXVGFjb0N3b29kWVd6aWw4V3NvUGtTWlVHVWVsNlh6TXZIQS1VSVRkOTFhSDFJU25NdTIyS1hqYzFIeGNiTXJmZTVnSmZCWkF5SWlFeW1ZV0I4aDNyOXkya19rbmRPaUJrR0llcVNuZjhEQjlQcl9lOWZnbHhmTTlLTklIenh4SXFLZENfcjdiMjZnMzJhWVRLTEEyZU5T?oc=5",
+      "source": "Anadolu Ajans\u0131",
+      "published": "2026-07-11T23:20:01+00:00",
+      "score": 8.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "IRGC closes Strait of Hormuz until end of US interference in region - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zZmNwWm1xMjdVTjR3TGVYMC1Dbm1zZ19HNHN2WDczbmlEZGxKMUZ4ZUJfdHphVURyNzlBeVhBelN2MFVjWUJVU3J1RWZsNFhKNDlhdko2bV9BQS03NXF5OGE5RTRlZkt3aXc?oc=5",
+      "source": "The Jerusalem Post",
+      "published": "2026-07-11T22:31:20+00:00",
+      "score": 8.0,
+      "tags": [
+        "closure"
+      ]
+    },
     {
       "title": "Iran closes Strait of Hormuz, strikes US bases amid rising tensions - Crypto Briefing",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTmdjNmZraW11UDdGNnVTZ0V2Y1N2S3JjSF96MU5ib1Ayd1NYLTRmcFdEOEQwQjYybzg2d1NtUlVRampIVE1RNHQwZjFPQ05nQ080UGdxNnpGUE9BRUthWlk1azlFWnJnUGtlUzlTVjM4YjdBZWtLUkJVbzJEeGUyM0l6WVFmSW52V2hZczJteFh5ZXRXVlNuOXBB?oc=5",
       "source": "Crypto Briefing",
       "published": "2026-07-08T04:00:16+00:00",
-      "score": 7.59,
+      "score": 7.51,
       "tags": [
         "closure",
         "tension"
@@ -22,111 +122,9 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdjBxb01BdUwxMThSTV9uT2lFUi10V3c0WUJ5V2xTZXRMeVhMYVVDbWhaaWhoUmtuMm4xcHRONUxHNUhSM1RMRWx2ejNIWGpYUE0tVkdtVVhONWUzV3BtU3d4cTN1ODM2QVhKNW1RdFJWazNNVkZnWElRY2tZY01qZHFISGFSVjVGUXBzQklCaGhlT3JzZ0tv?oc=5",
       "source": "WANA News Agency",
       "published": "2026-07-08T11:47:44+00:00",
-      "score": 7.43,
+      "score": 7.36,
       "tags": [
         "closure",
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran shuts Strait of Hormuz as US deploys Carrier Strike Group - Crypto Briefing",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZTA4d2NiMVFpbll0N1VDaUg2U29QaWNVX0lhakJSdEM2c01obkFwUFpGVUdFdnlPZk5ib1NoTFVCTnpyMElUWXJVVnJjMXZKd2VsSHdfc0FRUkN5Q2VkbWF0MHBfN29IR25PNHVfZ3ZER0NJeEFhS1lycEtKWGVmdEpqSkRnUm5XcWFveFlZQWpmZzJM?oc=5",
-      "source": "Crypto Briefing",
-      "published": "2026-07-08T11:46:30+00:00",
-      "score": 7.43,
-      "tags": [
-        "closure",
-        "tension"
-      ]
-    },
-    {
-      "title": "The Blockade of the Strait of Hormuz (1) - european-security.com",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFByMFJLNlpadmVSS0RDMEl3Zk4wa3pCa2dCMjZfT3hQZHJvSmcwcHA0SUZlTW1YdWxjOV9HUEV2WWJNWGRqLVBSN2dKSF92RnpnM0tadVZLYnpNcmdxYnZ3Y2xnSTdfNE1ocGppZ3NMMzk2UmowY0UtQjF0dWE?oc=5",
-      "source": "european-security.com",
-      "published": "2026-07-08T15:36:06+00:00",
-      "score": 5.57,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Strait of Hormuz closed again? Check latest status as Donald Trump declares US-Iran war ceasefire collapse - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPZzQ0aGNDbVpTSGpxdU1mLXdWY0hEUWtyVWNTZTg0dWp4ZXpfSjY0STc5bVMtaDk0eEhkaDBYLUpLQXc0eXRuVkQtM1NEVVZzUU9IVlpLRE5RcUdkcUV3T0hwZzh6VjRta2wyX21KSlJJb3hTQjFlem9oQUpoQWZxX213UjNtS3JnUUYxZXliSEh6M2JFZ25xNDFXcXdDUVdFWXJERG9XQlRqaXhxUDFNRWVXM09tVG9DNndSUDk4dlR5YnN1U1lUOVU0QkRQbngxN2JOSHRfbm1DbVk0S2JuTXdxeVl1aWpOeGRGWURrMndXZ3hyTXBlU2RaZ0h5VUJfVm5TSHNsWWNYRko4T1JV0gGUAkFVX3lxTFBUWGQzWDFNd2xkVHNfdDV6YU1YeGZtMWwyMnJ1UmdHSHRUZDRxckVuX1ptNWlNbFlEVEphSFNjT0ZLLVdSTDRVc1M3S1BBNUZYTC1rakxkYXpqWGRfbjZrVi1VUTE1MnZpQzluSXpkQUNGZjNRS3dmbnlCXzFUalc2Ynl5Z0JqODBEenZPdFVXaGV6SGZBVUZwUVUyT2V3Ym9aRnBqQ1k2eTMyandnaWNhZ3RpYUd5NG9rVHhlb2RiMzRaakNBTHNVU0o1dnNSWFduVjRYYktxdlU1N2hEalhCTDg0bnN5clAteUFqeVJhUkNoUHNYd1poYklLRmJNMThXN2Z3RGk2Nl9KVjAwTGFZWnhnSA?oc=5",
-      "source": "The Economic Times",
-      "published": "2026-07-08T10:33:46+00:00",
-      "score": 5.35,
-      "tags": [
-        "calm",
-        "closure"
-      ]
-    },
-    {
-      "title": "Iran threatens to close Strait of Hormuz amid US-Israel-Iran conflict - Crypto Briefing",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcmtrbm5iUW9KS0h3MHlQcTZrcXRWLXF4M055U3V0cE1QSGFPMmtXMWhUQWJXcHBxa2NVd011WTNrbXVSa29HaEtpaU0yWFJwV1gyM05kck9rNzEzSnVEQS1iOGEteHAzX3A1RUZXcm83NENPczhVQTV0WTVUc3MtSXBkWUNfQ2puVUlETlZnMlJ0OUNIOWtZSDZkbHRxZw?oc=5",
-      "source": "Crypto Briefing",
-      "published": "2026-07-08T14:55:40+00:00",
-      "score": 4.85,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran threatens to close Strait of Hormuz amid escalating tensions - Crypto Briefing",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPempUX2Y3QzV6NGVjNW85WGEtTFJuN2M2ZXd6TXZmaW9vTGJobzFlSVVmWGwyMHRTaGdNMzh5cFk4TzZGbGFiZEFuWlFPcEpLMjMwWWpVUjZWeDI3dTFiMjVjXzk3QWJrWVN2eEZoUVVJNHo2U3J0TW5Lc1JxZ0o2SnRxLS1FQXpOMFE1emN5bVhpTnhLQzhVUQ?oc=5",
-      "source": "Crypto Briefing",
-      "published": "2026-07-08T14:53:58+00:00",
-      "score": 4.85,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran Threatens to Close Strait of Hormuz as US Signals Return to Blockade - Defensemirror.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbEVtTkpXeDF6b0ZnaGgxR1RJZFJnTFFpRmp1eVMyLWdoM3RxX2E5V2F3ODY0QnlLc19zUmxOQ0dsN1JLa1VHc2Y1WHhZWl9uUC1sTDMyRGdzTEdLcHhSYzE3UWlINFpwWVhGQjVVakE1M2VXSHRyazdWR1AyUmZWbVRmMFJzSy1Dby13U29ZdjlheEJOeUltS2wtVkpKV3N3MkMzNHZJaEVVYXRVNENV?oc=5",
-      "source": "Defensemirror.com",
-      "published": "2026-07-08T18:48:36+00:00",
-      "score": 4.29,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran threatens to close Strait of Hormuz, hit 'twice the number of targets' as US - report - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaSXZLbTdlTEZHZ2JjZ0pmUkNQV1lhM1hHSElfNnh4MlhQclBiU21wNzZiMzdpenB3elhjMFhOOWZPaElyYVdZTjN5T0pfdkJ0VENaTXlvYlFuUll1aHY0Zmlqa0dtQWN1UUE?oc=5",
-      "source": "The Jerusalem Post",
-      "published": "2026-07-08T17:15:58+00:00",
-      "score": 4.24,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran to close Strait of Hormuz as it vows mass retaliation against US attacks: report - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMDMxRDE3c0NIa2gtaTZiVmJkUE1xVGc0YTFjY3dGRmhtdFlrMEJtR3hvT3Z5SW5RTVJOVzNLRUJZaGNvN2FZRmMzRnBkU2g5SExpaWNCV3NaeWxmZjRmX1ZoalFsN2xuTnphYm5fWVRYdVJJYlZhSnFlcTFrUnp1ZGozSHpfdy1GMGVsbzBSOV9DWDZ6XzVuOE02aVdvVEMxekxEOTVLTEQ2N28yaFJnQnN4YXlfUTRKU3c?oc=5",
-      "source": "New York Post",
-      "published": "2026-07-08T23:57:00+00:00",
-      "score": 3.72,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran threatens to close Hormuz Strait amid US tensions - Yeni Safak English",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd1J3M3JaRVdSRU54NXRVaDFQRFdpZVFFbnpDclBScG1GX0hlTlhlNXV1bFhPUWZrT2FkV1FHUDBxcmREYWd0RGxNUjRLeDZ1MV9kY29OejJMeUp2TUJyQlNSWjI3VEJQNUlFNUY5MHp0d2NFZ2hCdFN2ZG43NUl0eGtNRDc4aEJVMGxlMVRzUl9mQ01KdHZ2cw?oc=5",
-      "source": "Yeni Safak English",
-      "published": "2026-07-08T21:38:42+00:00",
-      "score": 3.65,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "US Gives Iran Saturday Ultimatum to Halt Hormuz Shipping Attacks - Kyiv Post",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9nQjRtUVE5UXNZV3JWa2I4Q1hvdjZJeTV0V1BuWllDYlIwdEVlbWkydnRzeGxBYWV5R01LTXEwb1pBaGxldk9aUElFOA?oc=5",
-      "source": "Kyiv Post",
-      "published": "2026-07-11T09:36:52+00:00",
-      "score": 3.0,
-      "tags": [
         "tension"
       ]
     }
