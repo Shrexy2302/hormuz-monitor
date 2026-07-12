@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 798.5,
-  "closure_signals": 60,
+  "tension_index": 814.2,
+  "closure_signals": 61,
   "articles_scanned": 220,
-  "updated": "2026-07-12T22:13:10.907821+00:00",
+  "updated": "2026-07-12T23:23:41.412070+00:00",
   "headlines": [
     {
       "title": "Iran expands attacks on Gulf states after US strikes, says Strait of Hormuz closed - news8000.com",
@@ -117,17 +117,6 @@
       ]
     },
     {
-      "title": "U.S. strikes Iran, Tehran hits Gulf states, says Strait of Hormuz closed - Honolulu Star-Advertiser",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa25LR1NWUlIxZTYwU093ZW83TUJkeU8yWGluaC13RDV2MnlfeU1OUkpXY2V5VnRKR2NtaGN4TEtNSHh4TkFpaW54aVZXNTlwZm96dnF3WTRFTGtsOUJvSFVxOGxwT0w1YjhfaVU4RF9VZWZSdGNIejRUYURqWkRpS0tSVUcyMTVjTnRTWlV0Tk9QLXpaUFVWS0hVVEwxVjFBbWYtaFQ1eVZiRGRWc2piaXZaT1U5UGs4cHc?oc=5",
-      "source": "Honolulu Star-Advertiser",
-      "published": "2026-07-10T19:21:05+00:00",
-      "score": 11.06,
-      "tags": [
-        "closure",
-        "tension"
-      ]
-    },
-    {
       "title": "US forces launch new strikes on Iran; Tehran closes Strait of Hormuz - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWkFyZDBTeDMzM3B3Sm85MkJ4MDJveWVKX3NuZnlBNUJRcklGWmphQ2hDa3JuNUpOcjZ3R1EzX0FlZ0FKNThoXy1oU0FQZDhreEtlRlA2T0RaQm9kYU94Vkh5eVRiTVR3OHRNb1lnc2hMY3JGUDlPTV9sckxUOF9RaXVNcnAxQUk5MmthTjVPWTJiM2MtbjcyZ0JFLXlQMWlPNTM0RXh5TGowdUVOalVTejAweVZzR1dsQXc?oc=5",
       "source": "Al Jazeera",
@@ -137,10 +126,21 @@
         "closure",
         "tension"
       ]
+    },
+    {
+      "title": "U.S. strikes Iran, Tehran hits Gulf states, says Strait of Hormuz closed - Honolulu Star-Advertiser",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa25LR1NWUlIxZTYwU093ZW83TUJkeU8yWGluaC13RDV2MnlfeU1OUkpXY2V5VnRKR2NtaGN4TEtNSHh4TkFpaW54aVZXNTlwZm96dnF3WTRFTGtsOUJvSFVxOGxwT0w1YjhfaVU4RF9VZWZSdGNIejRUYURqWkRpS0tSVUcyMTVjTnRTWlV0Tk9QLXpaUFVWS0hVVEwxVjFBbWYtaFQ1eVZiRGRWc2piaXZaT1U5UGs4cHc?oc=5",
+      "source": "Honolulu Star-Advertiser",
+      "published": "2026-07-10T19:21:05+00:00",
+      "score": 10.97,
+      "tags": [
+        "closure",
+        "tension"
+      ]
     }
   ],
   "brent": {
-    "price": 76.01,
-    "change_pct": 0.0
+    "price": 78.39,
+    "change_pct": 3.13
   }
 }
