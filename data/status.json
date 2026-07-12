@@ -1,15 +1,26 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 826.9,
-  "closure_signals": 63,
+  "tension_index": 823.1,
+  "closure_signals": 62,
   "articles_scanned": 221,
-  "updated": "2026-07-12T20:04:33.509872+00:00",
+  "updated": "2026-07-12T21:13:42.110238+00:00",
   "headlines": [
     {
-      "title": "US launches new strikes as Iran claims that Strait of Hormuz is closed - WISN",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMVpFX21Nem1vX1BYdGJNbXdFN29jOVJlRXpHRFZMUjlzUkQzZzhleERYaDBEdGtLdVg2UExFUFMzM2xHVlZxMTRlMURVX2tfMTNtZ1FWTDFoUUNjYkROSmM2YWtTSGQ2ZUxUZnEtNmZPRVZGS0dFSEY2MEdydmtPUHVvN1JKSVZwTlE?oc=5",
-      "source": "WISN",
+      "title": "Iran expands attacks on Gulf states after US strikes, says Strait of Hormuz closed - news8000.com",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOdmNfRVFmcHQ5MXRhUGRMVGR3cWRGSVNiMHZSVW1oRXVHaDhGNFlYc0xiX2RKYWdPOEFFeUgzQjFJREpXekhyeWdwNXM2cTdFOWtHQkRSQ3ZERmUya29fMVZ2T1IzcWZvY2lwUzNFS2I0Vng4NHd6U0hmclFyZUloWUNCT0lYTWtXSVpvQnVBTGVhYkd3ZDdVR0RrXzcyQ0I2Vko5TmtyZDNoWVlGZXpIdUJXVVQydHR2VTluXzB4V3M5WUI0LTlPSk1OeV9mRnhmTk9ZMXp6eklIakxiYmY1Z1REclNvNlpfLVBLU1ZmWmJwZTNUVWlNUFdNVlpzdVNQUkg1UnMwUUpzcFpfVkFETUQxRmp4LVE?oc=5",
+      "source": "news8000.com",
+      "published": "2026-07-12T19:15:00+00:00",
+      "score": 13.0,
+      "tags": [
+        "closure",
+        "tension"
+      ]
+    },
+    {
+      "title": "US launches new strikes as Iran claims that Strait of Hormuz is closed - WAPT",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVHljSnNzdk04V2xuUGdPbFdXeVZySDVOTEJxc3ExdUxveGlrSWlBRGFnN0JkaVJ0VXlpWUF6ZlJHejFyanRNbHVzV0p5RWtyRURLSExrOWh2YS1SUXBkeHlKS3JkbXpra3gzTGVad2N0NWltbXQtWk1yTFdKdGxMV1VpcVRlUUE0ZEE?oc=5",
+      "source": "WAPT",
       "published": "2026-07-12T16:59:00+00:00",
       "score": 13.0,
       "tags": [
@@ -18,10 +29,10 @@
       ]
     },
     {
-      "title": "Iran expands attacks on Gulf states after US strikes, says Strait of Hormuz closed - Al-Monitor",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVWc1bTgwQ1lUV2NOZGF4SGVmQkFKckJDdDJUQmhzRC1ET20tX1VQTmlEYnZzNjFuTDR4ZTZzSFJDTG5XSHBRQ3VaeHg2dF8zVjM1TXhZQlJBMUtlUXhaa2VhUXFtaFY3YTFUeU5mX09xbUpZRUxseXpnYkN6OEQ2c0FyOHFiaUVSRWtrWThKaUpjdGlSendGeVg3TGliNmNITTJPdWVJQk5SMk9CeXhpUGZENnZoeEZTMWxVNA?oc=5",
-      "source": "Al-Monitor",
-      "published": "2026-07-12T13:48:49+00:00",
+      "title": "US launches new strikes as Iran claims that Strait of Hormuz is closed - WISN",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMVpFX21Nem1vX1BYdGJNbXdFN29jOVJlRXpHRFZMUjlzUkQzZzhleERYaDBEdGtLdVg2UExFUFMzM2xHVlZxMTRlMURVX2tfMTNtZ1FWTDFoUUNjYkROSmM2YWtTSGQ2ZUxUZnEtNmZPRVZGS0dFSEY2MEdydmtPUHVvN1JKSVZwTlE?oc=5",
+      "source": "WISN",
+      "published": "2026-07-12T16:59:00+00:00",
       "score": 13.0,
       "tags": [
         "closure",
@@ -44,6 +55,17 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRTU1QXdLTHgxUXQxU2RXS3VadTFhTzl5RTRWOXN5ZERDTnNRZDVkM0NCWlpqcURPQlJ3T2tmNXlreEZZbjRBX2pSNVBzZXNDWS1xT1VjdUpkVjBMNEtOcjkza3NuanU3SV9mMmRQX0xid00yRDlQbks4XzJacTBvUDk5eW94R1dnNG1J?oc=5",
       "source": "wvtm",
       "published": "2026-07-12T13:20:00+00:00",
+      "score": 13.0,
+      "tags": [
+        "closure",
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran expands attacks on Gulf states after US strikes, says Strait of Hormuz closed - Al-Monitor",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMXlYS1RjT0F0WlN3M1M3X2k2Z0xMbG1XZHhQbnZFN0lGQ010LWU4SjVyVU40MzZTbmZMRlUxWWdaS2ljNUt4dUJhRUFlLS1wTnpJZHNBZExiendIcUFGaENwVll4SEpGcGMtMEo1Ymd3MUJRdHJoSXQ5Q01DUzd3UkNNVEhIczR0UWxNZHIyNzk1dXc3QWlvcXpUSW5zLXZ1TmRWOUQ4bE15T3FOQWtr?oc=5",
+      "source": "Al-Monitor",
+      "published": "2026-07-12T12:46:06+00:00",
       "score": 13.0,
       "tags": [
         "closure",
@@ -110,29 +132,7 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa25LR1NWUlIxZTYwU093ZW83TUJkeU8yWGluaC13RDV2MnlfeU1OUkpXY2V5VnRKR2NtaGN4TEtNSHh4TkFpaW54aVZXNTlwZm96dnF3WTRFTGtsOUJvSFVxOGxwT0w1YjhfaVU4RF9VZWZSdGNIejRUYURqWkRpS0tSVUcyMTVjTnRTWlV0Tk9QLXpaUFVWS0hVVEwxVjFBbWYtaFQ1eVZiRGRWc2piaXZaT1U5UGs4cHc?oc=5",
       "source": "Honolulu Star-Advertiser",
       "published": "2026-07-10T19:21:05+00:00",
-      "score": 11.21,
-      "tags": [
-        "closure",
-        "tension"
-      ]
-    },
-    {
-      "title": "US forces launch new strikes on Iran; Tehran closes Strait of Hormuz - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWkFyZDBTeDMzM3B3Sm85MkJ4MDJveWVKX3NuZnlBNUJRcklGWmphQ2hDa3JuNUpOcjZ3R1EzX0FlZ0FKNThoXy1oU0FQZDhreEtlRlA2T0RaQm9kYU94Vkh5eVRiTVR3OHRNb1lnc2hMY3JGUDlPTV9sckxUOF9RaXVNcnAxQUk5MmthTjVPWTJiM2MtbjcyZ0JFLXlQMWlPNTM0RXh5TGowdUVOalVTejAweVZzR1dsQXfSAb8BQVVfeXFMT1hVM2xFbGkxN0h0RjlhSHpOdlhwdlhXWEdYNVRWQVVPT3dZVjhPOU5NTmtkdEhCakh6eEw0ZkV0QkdpMnJMUFR1bUtkeWo4UnZZY0t3YVRiaEhyNmtmdjBTeFR3Z1ppX01ZUU9TRmNYWEtCaTlrdXcwZFFPYzRTQU4tYXNnVzVUdkFsUXFtNTRwN2Vnbmo2VU1odk5IMDY0YU1sRVJhenhvUElSQXhWZTBFMzM1SzlWcExESGFIZkU?oc=5",
-      "source": "Al Jazeera",
-      "published": "2026-07-12T05:09:45+00:00",
-      "score": 11.0,
-      "tags": [
-        "closure",
-        "tension"
-      ]
-    },
-    {
-      "title": "US Launches Fresh Strikes On Iran After Tehran Closes Strait Of Hormuz - Radio Free Europe/Radio Liberty",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTFRpOEJYdG9uQ0wwTldfZF84MnVmb2l2Q0dvRDhqbHNLVjVYcVdtM0x1VWM0U1BDMHBVa0JMQTBGZE04VDI0eWdpcWVMWkg5SjYwYXl4Nlo4SlhhWURBS040aDd5Z2ROdVJQS2JDMVF2eXVSV2twd1U3VmNxam9CbUljVWd1d9IBiAFBVV95cUxOdVpPWS1JRUJNRWRZM2EtUHJ3Y1gwUUZ2akZuUWY1RWZVSnozTDFzdU52YTI2VlVuTG5Eb2wyR1FsSVJ3aFBSY3IxYlREbkUxTldtbXdxTnpqNmJON2hNX0UtdHU2SWZHbWVlNlp5RXJQYkdxamJ6TFhIdlpMUTgydVFleVZqazly?oc=5",
-      "source": "Radio Free Europe/Radio Liberty",
-      "published": "2026-07-12T01:08:23+00:00",
-      "score": 11.0,
+      "score": 11.13,
       "tags": [
         "closure",
         "tension"
