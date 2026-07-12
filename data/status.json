@@ -1,11 +1,33 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 838.1,
-  "closure_signals": 66,
-  "articles_scanned": 221,
-  "updated": "2026-07-12T10:54:53.588314+00:00",
+  "tension_index": 980.1,
+  "closure_signals": 78,
+  "articles_scanned": 244,
+  "updated": "2026-07-12T11:53:29.342565+00:00",
   "headlines": [
+    {
+      "title": "US Launches Strikes on Iran as Strait of Hormuz Closed Amid Escalating Tensions - Forth.News",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LcWVDTXpaYUtwTGN6ZXlxNnNNVFVSeXNzOG5NanBlamdzM2lXNXZONGhEVkMtSGpsUXZBXzJFSlR5elZJTUFwclhvQnB5bGRDNjkwMksyejhjdXdmc2ZoUk53?oc=5",
+      "source": "Forth.News",
+      "published": "2026-07-12T00:56:50+00:00",
+      "score": 14.0,
+      "tags": [
+        "closure",
+        "tension"
+      ]
+    },
+    {
+      "title": "U.S launches heaviest strikes in month after Iran declares Strait of Hormuz closed - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORUNEd2J3SmxCOVdjblNITm5abTREZkJaOXZIRzFNTWFLaTV4aTBsZnB0MXllclhjQzRZb0ppYWZObmIzeXJ5SkNNNU1QalZPRTZEdFo4Qm1tMVFzSi10YXN4aVMxU2gyOXhhTFE5RE9DUVJLT3JPLXV6OVJ0S3FrTm9jX25HUVJFSmNDZXE4eDZGZ3RVemc4enlVUlFncDh4MXZLUUdWVVpVazc2?oc=5",
+      "source": "The Washington Post",
+      "published": "2026-07-12T11:00:37+00:00",
+      "score": 13.0,
+      "tags": [
+        "closure",
+        "tension"
+      ]
+    },
     {
       "title": "US launches fresh strikes after Tehran declares Strait of Hormuz closed - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONjNqelFxRDJJNUJhZ3Z5SXdZTXppTy1pNkMxdzNyd21yV3FScVFzTDhqZlFwQVRMNUhfS3VDNTdNSHFYNlJrRExtSldWc0JHSXFiYWlsV1U2TDdFdUVMdERGSnUzOU9rVWRjczVuY0thUS1PT3g0UGFYWkxubHdfQXZ3YmU?oc=5",
@@ -73,6 +95,17 @@
       ]
     },
     {
+      "title": "Iran closes Strait of Hormuz, US launches fresh strikes - dw.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNVNPY0lhcGZoRXpWWmVWclhKWGcxQWM3OG1ncGdmVkJZbEd6djExLU5nVjlMdk9abUZ5WHJZVThDaWktMi1FSW9DUU0zQ0syN2ctOUlGcU9NUjFwd2w1OWFDUDNZSHRPd1RMYVhvN2lSLVpYUDFEeXEyTnM4bVpGRXVwX1M?oc=5",
+      "source": "dw.com",
+      "published": "2026-07-12T10:11:41+00:00",
+      "score": 11.0,
+      "tags": [
+        "closure",
+        "tension"
+      ]
+    },
+    {
       "title": "US launches fresh strikes as Iran closes Strait of Hormuz - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mUS1jZDJRamh4djBqc2lHbkdsWXNMT3pISTJVNzhHaXNoR21neG5RS2NYb3NhaGRNOVNhbVVCMzJqdVItbU12TV80Vmx1dU03TjN0SGtuMGY4UQ?oc=5",
       "source": "BBC",
@@ -103,38 +136,6 @@
       "tags": [
         "closure",
         "tension"
-      ]
-    },
-    {
-      "title": "Iran closes Strait of Hormuz, US launches fresh strikes - dw.com",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNVNPY0lhcGZoRXpWWmVWclhKWGcxQWM3OG1ncGdmVkJZbEd6djExLU5nVjlMdk9abUZ5WHJZVThDaWktMi1FSW9DUU0zQ0syN2ctOUlGcU9NUjFwd2w1OWFDUDNZSHRPd1RMYVhvN2lSLVpYUDFEeXEyTnM4bVpGRXVwX1M?oc=5",
-      "source": "dw.com",
-      "published": "2026-07-11T23:50:47+00:00",
-      "score": 11.0,
-      "tags": [
-        "closure",
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran indefinitely closes Strait of Hormuz and attacks ship, prompting more U.S. strikes - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVFNVdUNtSmZ0clVlNHRVNkVXRV9PRnZ5ZHJfZ28td3lMNUVpTkxYNDg4eHc3STdncENVVVNBNVRpa2ttQWhjQWZzUWJGYXhYcUkyMWpQNVlUV3FJemF0a1dkT0FuSEpPeDE1SjNSMUxnb19WckdoWU80M0pfMzItb1NicFRkU0tpcDNQSnFsWmxkOTVXVHBkaU91WW9semlfczNiZ2M4LU1KaGM0Q0lDZUtWa3o?oc=5",
-      "source": "NBC News",
-      "published": "2026-07-11T08:04:00+00:00",
-      "score": 10.83,
-      "tags": [
-        "closure",
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran Declares Strait of Hormuz Closed Until Further Notice - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTU5taWZqa0hpeXU0ZmE1V1czbHdjSHNBUVNNNDJTMkx6LUthNEljYUFveUY2Y0tQT09VNVIxdWhCT2JoTUtpeHJjOFc1Y28zRi1jX3BreURwZHNIM3N2YTJNSEhjNndFdGd3MGVwSFU3THItWTRHM3N5TWQ0Z0taSk54eUR6UWk5LTR6eTlXTWt3UFdHSG1vckI3UU1lbEt0V1pLa192MlFkb3NVeGc?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-07-12T05:07:00+00:00",
-      "score": 10.0,
-      "tags": [
-        "closure"
       ]
     }
   ],
