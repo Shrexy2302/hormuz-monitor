@@ -1,44 +1,11 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 980.1,
-  "closure_signals": 78,
-  "articles_scanned": 244,
-  "updated": "2026-07-12T11:53:29.342565+00:00",
+  "tension_index": 842.0,
+  "closure_signals": 67,
+  "articles_scanned": 217,
+  "updated": "2026-07-12T13:04:04.312294+00:00",
   "headlines": [
-    {
-      "title": "US Launches Strikes on Iran as Strait of Hormuz Closed Amid Escalating Tensions - Forth.News",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LcWVDTXpaYUtwTGN6ZXlxNnNNVFVSeXNzOG5NanBlamdzM2lXNXZONGhEVkMtSGpsUXZBXzJFSlR5elZJTUFwclhvQnB5bGRDNjkwMksyejhjdXdmc2ZoUk53?oc=5",
-      "source": "Forth.News",
-      "published": "2026-07-12T00:56:50+00:00",
-      "score": 14.0,
-      "tags": [
-        "closure",
-        "tension"
-      ]
-    },
-    {
-      "title": "U.S launches heaviest strikes in month after Iran declares Strait of Hormuz closed - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORUNEd2J3SmxCOVdjblNITm5abTREZkJaOXZIRzFNTWFLaTV4aTBsZnB0MXllclhjQzRZb0ppYWZObmIzeXJ5SkNNNU1QalZPRTZEdFo4Qm1tMVFzSi10YXN4aVMxU2gyOXhhTFE5RE9DUVJLT3JPLXV6OVJ0S3FrTm9jX25HUVJFSmNDZXE4eDZGZ3RVemc4enlVUlFncDh4MXZLUUdWVVpVazc2?oc=5",
-      "source": "The Washington Post",
-      "published": "2026-07-12T11:00:37+00:00",
-      "score": 13.0,
-      "tags": [
-        "closure",
-        "tension"
-      ]
-    },
-    {
-      "title": "US launches fresh strikes after Tehran declares Strait of Hormuz closed - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONjNqelFxRDJJNUJhZ3Z5SXdZTXppTy1pNkMxdzNyd21yV3FScVFzTDhqZlFwQVRMNUhfS3VDNTdNSHFYNlJrRExtSldWc0JHSXFiYWlsV1U2TDdFdUVMdERGSnUzOU9rVWRjczVuY0thUS1PT3g0UGFYWkxubHdfQXZ3YmU?oc=5",
-      "source": "Financial Times",
-      "published": "2026-07-12T03:50:01+00:00",
-      "score": 13.0,
-      "tags": [
-        "closure",
-        "tension"
-      ]
-    },
     {
       "title": "US strikes Iran, Tehran says Strait of Hormuz closed, Gulf states hit - Al-Monitor",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZUVsWTlqVUY2Zm1ueUxfckFUMF9JSnRXZ1lPUXo2bTJTOWhaTUpYV0J1eEE5UUs5SG5wM3NPTGJ3Tl9WN3k3TkRjQThsZ3JSMW80LU9tU3hIYzdNNDFQd0tyNGw3T3FNQnExX0ZMSGV1U3Vjc3c3azlJX2NoZC1oQ3pMSC1SV3JvUkttd2V2VXk5SEpWdnpxVnRrZmtJLUlpb3FGaWlnRkFoVkZMMkE?oc=5",
@@ -73,6 +40,17 @@
       ]
     },
     {
+      "title": "US launches fresh strikes after Tehran declares Strait of Hormuz closed - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONjNqelFxRDJJNUJhZ3Z5SXdZTXppTy1pNkMxdzNyd21yV3FScVFzTDhqZlFwQVRMNUhfS3VDNTdNSHFYNlJrRExtSldWc0JHSXFiYWlsV1U2TDdFdUVMdERGSnUzOU9rVWRjczVuY0thUS1PT3g0UGFYWkxubHdfQXZ3YmU?oc=5",
+      "source": "Financial Times",
+      "published": "2026-07-12T00:00:34+00:00",
+      "score": 13.0,
+      "tags": [
+        "closure",
+        "tension"
+      ]
+    },
+    {
       "title": "IRGC says Strait of Hormuz closed, ship struck by missile - KVIA",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZU9QWTE3b19Qdk1Mb3dWRmZfbFFyeFFxc19IaEpwbW9nTWFEVkZLUUh4X2NCMkRIMUNTc2tGVmlzX21hVmV4eTZLUmVzeGdWTlphcTRZeWlnUldLMDV1cXlSRlZUb2xqWU9QRHhPWWZwamh2VTVnZ3AtMXg3dXZXWWwwN011YVlvS1dkSVMzdHBnX2Zi?oc=5",
       "source": "KVIA",
@@ -95,9 +73,9 @@
       ]
     },
     {
-      "title": "Iran closes Strait of Hormuz, US launches fresh strikes - dw.com",
+      "title": "Iran closes Strait of Hormuz, US launches fresh strikes - DW.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNVNPY0lhcGZoRXpWWmVWclhKWGcxQWM3OG1ncGdmVkJZbEd6djExLU5nVjlMdk9abUZ5WHJZVThDaWktMi1FSW9DUU0zQ0syN2ctOUlGcU9NUjFwd2w1OWFDUDNZSHRPd1RMYVhvN2lSLVpYUDFEeXEyTnM4bVpGRXVwX1M?oc=5",
-      "source": "dw.com",
+      "source": "DW.com",
       "published": "2026-07-12T10:11:41+00:00",
       "score": 11.0,
       "tags": [
@@ -136,6 +114,27 @@
       "tags": [
         "closure",
         "tension"
+      ]
+    },
+    {
+      "title": "Iran indefinitely closes Strait of Hormuz and attacks ship, prompting more U.S. strikes - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVFNVdUNtSmZ0clVlNHRVNkVXRV9PRnZ5ZHJfZ28td3lMNUVpTkxYNDg4eHc3STdncENVVVNBNVRpa2ttQWhjQWZzUWJGYXhYcUkyMWpQNVlUV3FJemF0a1dkT0FuSEpPeDE1SjNSMUxnb19WckdoWU80M0pfMzItb1NicFRkU0tpcDNQSnFsWmxkOTVXVHBkaU91WW9semlfczNiZ2M4LU1KaGM0Q0lDZUtWa3o?oc=5",
+      "source": "NBC News",
+      "published": "2026-07-11T08:04:00+00:00",
+      "score": 10.69,
+      "tags": [
+        "closure",
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran Declares Strait of Hormuz Closed Until Further Notice - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTU5taWZqa0hpeXU0ZmE1V1czbHdjSHNBUVNNNDJTMkx6LUthNEljYUFveUY2Y0tQT09VNVIxdWhCT2JoTUtpeHJjOFc1Y28zRi1jX3BreURwZHNIM3N2YTJNSEhjNndFdGd3MGVwSFU3THItWTRHM3N5TWQ0Z0taSk54eUR6UWk5LTR6eTlXTWt3UFdHSG1vckI3UU1lbEt0V1pLa192MlFkb3NVeGc?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-07-12T05:07:00+00:00",
+      "score": 10.0,
+      "tags": [
+        "closure"
       ]
     }
   ],
