@@ -1,28 +1,17 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 418.5,
-  "closure_signals": 22,
+  "tension_index": 415.4,
+  "closure_signals": 24,
   "articles_scanned": 220,
-  "updated": "2026-07-14T08:33:21.936232+00:00",
+  "updated": "2026-07-14T10:39:52.708358+00:00",
   "headlines": [
     {
       "title": "Iran war: Strait of Hormuz closed by Iran following US military air strikes - FOX 10 Phoenix",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DZW5OdzdtLUtUb21KVmd1VWx1amtqYldyaGN6akJMcDAwWVJsV2h1NUYyLWhRUmVoM3NjdmZHcU51VDdkNTFSaGtRbFd1eE9VOTN4V0FELWJhSDRVT1REVHVGbHMzQzhQM0lv0gFrQVVfeXFMTkNlbk53N20tS1RvbUpWZ3VVbHVqa2piV3JoY3pqQkxwMDBZUmxXaHU1RjItaFFSZWgzc2N2ZkdxTnVUN2Q1MVJoa1FsV3V4T1U5M3hXQUQtYmFINFVPVERUdUZsczNDOFAzSW8?oc=5",
       "source": "FOX 10 Phoenix",
       "published": "2026-07-13T04:22:39+00:00",
-      "score": 12.7,
-      "tags": [
-        "closure",
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran expands attacks on Gulf states after US strikes, says Strait of Hormuz closed - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWNfWDBGeUlZdnVYdk9zTTBTa05FcHZQZ2NTaE14ZU9SUFRKcDgyamdEaUFjVi1ycHRuaEdaV2cwU3FSWjZqb3BzNXBvMmdobFNvejdtRGo0QUk3emV4alhETFNOcWgyQUg0MnFDVF9mSHRuM3R0Zng3ZnNWUDlqajlyWndRaHk2dkdycXVNdFA0S21RYk5YRElCTVBQZjloVEF2bU5ZTEl6bDFabTdCWWVSdw?oc=5",
-      "source": "Reuters",
-      "published": "2026-07-12T20:42:32+00:00",
-      "score": 12.14,
+      "score": 12.55,
       "tags": [
         "closure",
         "tension"
@@ -33,7 +22,7 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ0Rwc2lnVFRMdUZIcl9OSDhsRkY2YzUtYmY1aTd4di11VlhpVWk5dHRNZVZVNm9pWWtjRnE2emthQUpSZVZjTlQySnBvckt3ZlJrSkwzU3dsVnQzOVJFN2IyMjlFcnRFR3FhVHpteGRyQzF1S24zRHdmcDBhdC1fM0x0QmtLSHlfd1lQSQ?oc=5",
       "source": "WBAL-TV",
       "published": "2026-07-12T16:59:00+00:00",
-      "score": 11.88,
+      "score": 11.72,
       "tags": [
         "closure",
         "tension"
@@ -44,7 +33,7 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNXA4bUVMWEs1dDZZUDFFc3N2eW1DWUlWOGVhSkVQVDRQcWk1SzJHbGNlNlZyei1tZVdMYnRMLVEzN05iOEZYUEJBQm04aG5DUWRDX0xsYjR5TEZ3Tmw5bURVdmNQelZxVnZLZTN6Wl8xV2VFZEkzWHhmMTlKeU1pejUwS2pZN3FmTDBSYg?oc=5",
       "source": "WXII",
       "published": "2026-07-12T16:59:00+00:00",
-      "score": 11.88,
+      "score": 11.72,
       "tags": [
         "closure",
         "tension"
@@ -55,7 +44,7 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVU5MelMtYkVJNW9KZWxOWUd5ZUQ1S05hM2lqVGdaQlNGWFB2aE1HamlpajlocVE3NkM1bU15Q2JoZjNKNHg2MS1RcVl2WFNSYXpHMzZkNHN0bW5KSU1RMmxzVWF5NDMzRkYtczQ0YWRhT1BfanUzV0xEMHd1QWl5cVF1UEMzYThGOXNKSmdJYzRleHVJbmRaS19YX09XQUFzMHlvX1hIZHNrODVqQ1hOXw?oc=5",
       "source": "France 24",
       "published": "2026-07-12T08:36:16+00:00",
-      "score": 11.27,
+      "score": 11.12,
       "tags": [
         "closure",
         "tension"
@@ -73,11 +62,22 @@
       ]
     },
     {
+      "title": "Strait of Hormuz closed, U.S announced third round of strikes - WHIO TV",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZW1xOWxOSGhMYXg1bzE5ZVBqQU5OU0hnZW9uczJ4WkkzejV1VVdyUXctT2RCTVAyUmJvc1ZGQXhaQ0tqZXVFalpMb01zYU9OMHhQajZ2allRRDB1OU1IWGZtWTlaNmJqYUxvTEJCNk1TM2RhN0kxVUhJa3VmZlhpbmFzYWF6Vmk1LU1TQXp0bFFMQmp3S0dRQUZOY0syMGRwdlFHOVNyaVV6MUpSSm55YncwU2J5S0lf?oc=5",
+      "source": "WHIO TV",
+      "published": "2026-07-12T05:58:08+00:00",
+      "score": 10.93,
+      "tags": [
+        "closure",
+        "tension"
+      ]
+    },
+    {
       "title": "Iran and US Trade Strikes After Tehran Announces Closure of the Strait of Hormuz - globalpost.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeXhkSFlyRk92OERBUmF0WFh4V3piekJpbVhGYnVkdy12ZGF3S3FkWXRuYUlnNm1jYXNsRjI1NVl6Rm9HWXMwaGo5cjNkYUJuSHMtbU5fVkdaYk5IVEJYMmpZbm16aEZOQW1XTHV2RVNaUGN2OWtkTG9GUkpHQm0xUU1HaG5DZFZSNzd3VjBjWVRDWU9LSF9JclVUcTZ2SlBqMU9KNTUtUnpueS1tZXJ4ejNR?oc=5",
       "source": "globalpost.com",
       "published": "2026-07-13T08:14:23+00:00",
-      "score": 10.98,
+      "score": 10.85,
       "tags": [
         "closure",
         "tension"
@@ -88,7 +88,18 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORG5YRXl4S3kzWkZtNzE3Wm12c3RVaGpmaEcxVkJJcGZHUUhwbUJWMVlvdkU0ZFdUSVJmSGVMQkNvQ0U1Wm5WN0YxS0NQRkstakNyeGdNTkpHOWlBd1FGQkp3QW4yN1Jwc05NczN1ajVPcHg2QkgxX01wVU02MVpwVFN1dmE3cGVYLUl0Znl3cjhHUjJTSFNBVFljbkpGNVo3aWx3cjVEVm9Lb0lLVXB1Ng?oc=5",
       "source": "The Straits Times",
       "published": "2026-07-11T23:27:16+00:00",
-      "score": 10.61,
+      "score": 10.46,
+      "tags": [
+        "closure",
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran expands attacks on Gulf states after US strikes, says Strait of Hormuz closed - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWNfWDBGeUlZdnVYdk9zTTBTa05FcHZQZ2NTaE14ZU9SUFRKcDgyamdEaUFjVi1ycHRuaEdaV2cwU3FSWjZqb3BzNXBvMmdobFNvejdtRGo0QUk3emV4alhETFNOcWgyQUg0MnFDVF9mSHRuM3R0Zng3ZnNWUDlqajlyWndRaHk2dkdycXVNdFA0S21RYk5YRElCTVBQZjloVEF2bU5ZTEl6bDFabTdCWWVSdw?oc=5",
+      "source": "Reuters",
+      "published": "2026-07-11T23:21:00+00:00",
+      "score": 10.45,
       "tags": [
         "closure",
         "tension"
@@ -105,21 +116,11 @@
       ]
     },
     {
-      "title": "Iran Declares Strait Of Hormuz Closed After Firing On Ship As Oman Talks End Without Deal - International Business Times",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONThoZHV1bzcxeTdhMU9zOGt3QUVMNzNTSnNpNGh2SVQxbExxNnlWSmFodGFOTGRXNkRHX1ZMUElXTGRDOVNiMnplUGZuZl94WXYzWk9fZ3I4RVNUZWRUbDl6SXFFWVVMa2FNRndmOGVIMDBvaVRZaGwycU9uT01oRGVwOFhUMXFZUjZIaFNVRnM1NmhhYVVkcUxYa0NhVlZ5OXlYdjUxVG11a1R5ZDY0?oc=5",
-      "source": "International Business Times",
-      "published": "2026-07-13T07:32:49+00:00",
-      "score": 9.94,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
       "title": "Iran returns to no-limits Gulf State target list after declaring Strait of Hormuz closed - Washington Examiner",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR2dlMUVVUjRTM0F2cnZhNmlKQ1h1WGNlcGNobU52RkNwV2o3WWZnN1Q1ZnpTNFVHYWhLaDctWlBGa3RPZUc4SjJodElwcFBmdmJ6RE4tWDRZSmxaY1kxRVRGZFMxNExPUl8yaGFCdWJocGZnLXItbkgyUzRpdzMySGpnQlVGc2lfZTRpRjhuMFdzQUlHTEtQQzUycW4?oc=5",
       "source": "Washington Examiner",
       "published": "2026-07-12T21:02:00+00:00",
-      "score": 9.36,
+      "score": 9.24,
       "tags": [
         "closure"
       ]
@@ -129,7 +130,7 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWkFyZDBTeDMzM3B3Sm85MkJ4MDJveWVKX3NuZnlBNUJRcklGWmphQ2hDa3JuNUpOcjZ3R1EzX0FlZ0FKNThoXy1oU0FQZDhreEtlRlA2T0RaQm9kYU94Vkh5eVRiTVR3OHRNb1lnc2hMY3JGUDlPTV9sckxUOF9RaXVNcnAxQUk5MmthTjVPWTJiM2MtbjcyZ0JFLXlQMWlPNTM0RXh5TGowdUVOalVTejAweVZzR1dsQXfSAb8BQVVfeXFMT1hVM2xFbGkxN0h0RjlhSHpOdlhwdlhXWEdYNVRWQVVPT3dZVjhPOU5NTmtkdEhCakh6eEw0ZkV0QkdpMnJMUFR1bUtkeWo4UnZZY0t3YVRiaEhyNmtmdjBTeFR3Z1ppX01ZUU9TRmNYWEtCaTlrdXcwZFFPYzRTQU4tYXNnVzVUdkFsUXFtNTRwN2Vnbmo2VU1odk5IMDY0YU1sRVJhenhvUElSQXhWZTBFMzM1SzlWcExESGFIZkU?oc=5",
       "source": "Al Jazeera",
       "published": "2026-07-12T05:09:45+00:00",
-      "score": 9.33,
+      "score": 9.2,
       "tags": [
         "closure",
         "tension"
@@ -137,7 +138,7 @@
     }
   ],
   "brent": {
-    "price": 85.99,
-    "change_pct": 3.23
+    "price": 87.17,
+    "change_pct": 4.65
   }
 }
