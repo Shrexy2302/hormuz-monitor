@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 262.1,
-  "closure_signals": 16,
+  "tension_index": 255.1,
+  "closure_signals": 15,
   "articles_scanned": 208,
-  "updated": "2026-07-16T16:49:09.473842+00:00",
+  "updated": "2026-07-16T18:00:09.426878+00:00",
   "headlines": [
     {
       "title": "US launches new wave of strikes on Iran as Strait of Hormuz is blocked - WMAZ",
@@ -22,7 +22,7 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX1pDZk9TWkVsT0Uya3doekhBaG9waXBOUVdmcmRBYk9JZFdma1dvNERzUTBmTkZ0M3dkN2lLWTAtOVpTWXhiMVltS0xrZzZGZlBUaWk3cVZQOFVDQ092d2JuQjkyLUdPUFU4M0pwazkwS3JvaEZNWlY5VmczcXpKS0VwWdIBhAFBVV95cUxNeXVIOEFkdFdMenVPa2JJVl84bmNjazlkaEl0NzlqZUV1cXQxOHZxdm5PUjNJZGRFeDU3cmVFZzBiMWVzVkhXNXEzWDdqdV9iVy1HcFNxMVVzUThqZFFUM2dqSTdidVBHWi1tRk1OYzdzUHpmXzdqSUZSQTBEWWNnd1pnanY?oc=5",
       "source": "GZERO Media",
       "published": "2026-07-14T17:22:43+00:00",
-      "score": 8.7,
+      "score": 8.63,
       "tags": [
         "closure"
       ]
@@ -32,7 +32,7 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMF9CaFRKSl90aXdqYXRYbHNfeGM1Q2NVMmVGVGc4eURDMjRvSDExRmVlUVpGTWlLMGc3cXJXUzRyYkVWZWdnSmY1dWhDMXNsNVVYT2lkNnlEMm1qcFpDUkkyUzMwa3dWZlpCSnVNQnd2bXRMaGVFZHEyY0FnSldMVzI2MW02QQ?oc=5",
       "source": "Yahoo Finance UK",
       "published": "2026-07-14T13:28:32+00:00",
-      "score": 8.48,
+      "score": 8.42,
       "tags": [
         "closure"
       ]
@@ -42,7 +42,7 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWNfWDBGeUlZdnVYdk9zTTBTa05FcHZQZ2NTaE14ZU9SUFRKcDgyamdEaUFjVi1ycHRuaEdaV2cwU3FSWjZqb3BzNXBvMmdobFNvejdtRGo0QUk3emV4alhETFNOcWgyQUg0MnFDVF9mSHRuM3R0Zng3ZnNWUDlqajlyWndRaHk2dkdycXVNdFA0S21RYk5YRElCTVBQZjloVEF2bU5ZTEl6bDFabTdCWWVSdw?oc=5",
       "source": "Reuters",
       "published": "2026-07-12T20:42:32+00:00",
-      "score": 8.08,
+      "score": 8.0,
       "tags": [
         "closure",
         "tension"
@@ -53,7 +53,7 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSW5FM0tPOHNwMWRlcFBEak9OSUNJNmhUM1ZCSV9aYjhNTkQyUWxHNGRDa2ZmeWZxbmpRTVFHbHVfLWFFWjJGMU9TQmNRaFVPS0JaRFBGOFJOc2MzLTRGUFdyV2R1QW9ldHZ5V1NxQUFObzhrLXhJV1AycXRZQTByYUFnOWRCNkdZUVRGLWVwMkFLMGZsUGZiRTVySW8xTno3QURCWg?oc=5",
       "source": "Vatican News",
       "published": "2026-07-13T13:04:27+00:00",
-      "score": 7.84,
+      "score": 7.77,
       "tags": [
         "closure",
         "tension"
@@ -64,7 +64,7 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNXA4bUVMWEs1dDZZUDFFc3N2eW1DWUlWOGVhSkVQVDRQcWk1SzJHbGNlNlZyei1tZVdMYnRMLVEzN05iOEZYUEJBQm04aG5DUWRDX0xsYjR5TEZ3Tmw5bURVdmNQelZxVnZLZTN6Wl8xV2VFZEkzWHhmMTlKeU1pejUwS2pZN3FmTDBSYg?oc=5",
       "source": "WXII",
       "published": "2026-07-12T16:59:00+00:00",
-      "score": 7.81,
+      "score": 7.73,
       "tags": [
         "closure",
         "tension"
@@ -75,7 +75,7 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVU5MelMtYkVJNW9KZWxOWUd5ZUQ1S05hM2lqVGdaQlNGWFB2aE1HamlpajlocVE3NkM1bU15Q2JoZjNKNHg2MS1RcVl2WFNSYXpHMzZkNHN0bW5KSU1RMmxzVWF5NDMzRkYtczQ0YWRhT1BfanUzV0xEMHd1QWl5cVF1UEMzYThGOXNKSmdJYzRleHVJbmRaS19YX09XQUFzMHlvX1hIZHNrODVqQ1hOXw?oc=5",
       "source": "France 24",
       "published": "2026-07-12T08:36:16+00:00",
-      "score": 7.21,
+      "score": 7.12,
       "tags": [
         "closure",
         "tension"
@@ -86,7 +86,7 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1R4SUpjZmNzcE1wZVIxVzJ2NmM5NUJsQzRHQ1NYQTBmVWktdnl5cXV6U1ZTR0hMM0tHMzhfamtlSGxGcExVdVhtcEt1cV9RSjdNQklhTkphLWpmaXdDUmI4eWhCSm54TDAxRmJpVmRwTURlWmxkaG0xZUFha3UzTmNGaVVCUUZodHNmTzUxRTJobEdGS2NpTEtpWnZGRXVJ?oc=5",
       "source": "The Conversation",
       "published": "2026-07-14T14:51:50+00:00",
-      "score": 6.85,
+      "score": 6.79,
       "tags": [
         "closure"
       ]
@@ -96,7 +96,7 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORG5YRXl4S3kzWkZtNzE3Wm12c3RVaGpmaEcxVkJJcGZHUUhwbUJWMVlvdkU0ZFdUSVJmSGVMQkNvQ0U1Wm5WN0YxS0NQRkstakNyeGdNTkpHOWlBd1FGQkp3QW4yN1Jwc05NczN1ajVPcHg2QkgxX01wVU02MVpwVFN1dmE3cGVYLUl0Znl3cjhHUjJTSFNBVFljbkpGNVo3aWx3cjVEVm9Lb0lLVXB1Ng?oc=5",
       "source": "The Straits Times",
       "published": "2026-07-11T23:27:16+00:00",
-      "score": 6.55,
+      "score": 6.46,
       "tags": [
         "closure",
         "tension"
@@ -107,7 +107,7 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR2dlMUVVUjRTM0F2cnZhNmlKQ1h1WGNlcGNobU52RkNwV2o3WWZnN1Q1ZnpTNFVHYWhLaDctWlBGa3RPZUc4SjJodElwcFBmdmJ6RE4tWDRZSmxaY1kxRVRGZFMxNExPUl8yaGFCdWJocGZnLXItbkgyUzRpdzMySGpnQlVGc2lfZTRpRjhuMFdzQUlHTEtQQzUycW4?oc=5",
       "source": "Washington Examiner",
       "published": "2026-07-12T21:02:00+00:00",
-      "score": 6.23,
+      "score": 6.17,
       "tags": [
         "closure"
       ]
@@ -117,7 +117,7 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN1FmV1JVMjVnRGRPVzVSSTJKWWlnNUVITDJZRXdCZ3B2QzV1LUlQMGFNM2JEZ1J4LUZjRVBoQmFyc296M3RqbnNnMGtFRUdfOFFtSlNuNUp6RWtubGY5eHpqSUF0dGd6NkhnOWUxYmpUTXQ0S05FZ3dFMXIzb2dBZW8wN2xlbGZYZVlleTR6cEx2ODh0NjZLYw?oc=5",
       "source": "DW.com",
       "published": "2026-07-13T21:19:38+00:00",
-      "score": 6.07,
+      "score": 6.01,
       "tags": [
         "closure"
       ]
@@ -127,7 +127,7 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWkFyZDBTeDMzM3B3Sm85MkJ4MDJveWVKX3NuZnlBNUJRcklGWmphQ2hDa3JuNUpOcjZ3R1EzX0FlZ0FKNThoXy1oU0FQZDhreEtlRlA2T0RaQm9kYU94Vkh5eVRiTVR3OHRNb1lnc2hMY3JGUDlPTV9sckxUOF9RaXVNcnAxQUk5MmthTjVPWTJiM2MtbjcyZ0JFLXlQMWlPNTM0RXh5TGowdUVOalVTejAweVZzR1dsQXfSAb8BQVVfeXFMT1hVM2xFbGkxN0h0RjlhSHpOdlhwdlhXWEdYNVRWQVVPT3dZVjhPOU5NTmtkdEhCakh6eEw0ZkV0QkdpMnJMUFR1bUtkeWo4UnZZY0t3YVRiaEhyNmtmdjBTeFR3Z1ppX01ZUU9TRmNYWEtCaTlrdXcwZFFPYzRTQU4tYXNnVzVUdkFsUXFtNTRwN2Vnbmo2VU1odk5IMDY0YU1sRVJhenhvUElSQXhWZTBFMzM1SzlWcExESGFIZkU?oc=5",
       "source": "Al Jazeera",
       "published": "2026-07-12T05:09:45+00:00",
-      "score": 5.89,
+      "score": 5.82,
       "tags": [
         "closure",
         "tension"
@@ -135,7 +135,7 @@
     }
   ],
   "brent": {
-    "price": 84.82,
-    "change_pct": -0.15
+    "price": 84.31,
+    "change_pct": -0.75
   }
 }
