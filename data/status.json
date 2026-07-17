@@ -1,17 +1,17 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 208.6,
-  "closure_signals": 11,
-  "articles_scanned": 210,
-  "updated": "2026-07-17T14:27:18.974225+00:00",
+  "tension_index": 214.3,
+  "closure_signals": 10,
+  "articles_scanned": 214,
+  "updated": "2026-07-17T15:55:07.195071+00:00",
   "headlines": [
     {
       "title": "US launches new wave of strikes on Iran as Strait of Hormuz is blocked - WMAZ",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNckR0OF9WUjlkSy1vanhhWFcwbGd0OEhIYVFNZVBfMTZhUW1wNGZWY2xENW5uYVpXVndIUERoQ2plOFlyRUhxOGR1TWEzazd4UGo1VWpFczNJNXJmOHNRVEVkNVFYTUVLVXVqMTZKTGdIa2Q4N01PQUs5QmZ1YWZxT1FKZldOR1VuTEI0VlZ3Tm0zQmo4ZDU1eU5TbFMzNWk3OEN3eWM5V3pYc2lmN0E5Mld6NG9pbFdsRWxFRlZpbHM4R3B5WjdOeHJrOEYydUlyMGdfMUxocS1aQTFZ?oc=5",
       "source": "WMAZ",
       "published": "2026-07-15T18:11:00+00:00",
-      "score": 11.54,
+      "score": 11.43,
       "tags": [
         "closure",
         "tension"
@@ -22,7 +22,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNzJFMUxyYUlRd0dnNVNBX0ZDckx3aTN4UkpQSHhCeWJoWjVGNGgxekZIbWVUYkhxRnIzUHJXUUpaNlNWb2JGTlFSbUpVLVZWRC1tME1FVjg1NDJmeU5yNVpNMjhMZVpJc3Y2NFFqdTc2bXFKSGZYajRCZmJPd09iNnA1UUJWSlc3SzZyWlc1d2YyRDdZeGF6eDM3OC1WR0t6c2c?oc=5",
       "source": "Crypto Briefing",
       "published": "2026-07-15T01:56:49+00:00",
-      "score": 8.77,
+      "score": 8.68,
       "tags": [
         "closure",
         "tension"
@@ -33,7 +33,7 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX1pDZk9TWkVsT0Uya3doekhBaG9waXBOUVdmcmRBYk9JZFdma1dvNERzUTBmTkZ0M3dkN2lLWTAtOVpTWXhiMVltS0xrZzZGZlBUaWk3cVZQOFVDQ092d2JuQjkyLUdPUFU4M0pwazkwS3JvaEZNWlY5VmczcXpKS0VwWdIBhAFBVV95cUxNeXVIOEFkdFdMenVPa2JJVl84bmNjazlkaEl0NzlqZUV1cXQxOHZxdm5PUjNJZGRFeDU3cmVFZzBiMWVzVkhXNXEzWDdqdV9iVy1HcFNxMVVzUThqZFFUM2dqSTdidVBHWi1tRk1OYzdzUHpmXzdqSUZSQTBEWWNnd1pnanY?oc=5",
       "source": "GZERO Media",
       "published": "2026-07-14T17:22:43+00:00",
-      "score": 7.5,
+      "score": 7.41,
       "tags": [
         "closure"
       ]
@@ -43,7 +43,7 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMF9CaFRKSl90aXdqYXRYbHNfeGM1Q2NVMmVGVGc4eURDMjRvSDExRmVlUVpGTWlLMGc3cXJXUzRyYkVWZWdnSmY1dWhDMXNsNVVYT2lkNnlEMm1qcFpDUkkyUzMwa3dWZlpCSnVNQnd2bXRMaGVFZHEyY0FnSldMVzI2MW02QQ?oc=5",
       "source": "Yahoo Finance UK",
       "published": "2026-07-14T13:28:32+00:00",
-      "score": 7.28,
+      "score": 7.2,
       "tags": [
         "closure"
       ]
@@ -53,7 +53,7 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSW5FM0tPOHNwMWRlcFBEak9OSUNJNmhUM1ZCSV9aYjhNTkQyUWxHNGRDa2ZmeWZxbmpRTVFHbHVfLWFFWjJGMU9TQmNRaFVPS0JaRFBGOFJOc2MzLTRGUFdyV2R1QW9ldHZ5V1NxQUFObzhrLXhJV1AycXRZQTByYUFnOWRCNkdZUVRGLWVwMkFLMGZsUGZiRTVySW8xTno3QURCWg?oc=5",
       "source": "Vatican News",
       "published": "2026-07-13T13:04:27+00:00",
-      "score": 6.52,
+      "score": 6.43,
       "tags": [
         "closure",
         "tension"
@@ -64,7 +64,7 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWNfWDBGeUlZdnVYdk9zTTBTa05FcHZQZ2NTaE14ZU9SUFRKcDgyamdEaUFjVi1ycHRuaEdaV2cwU3FSWjZqb3BzNXBvMmdobFNvejdtRGo0QUk3emV4alhETFNOcWgyQUg0MnFDVF9mSHRuM3R0Zng3ZnNWUDlqajlyWndRaHk2dkdycXVNdFA0S21RYk5YRElCTVBQZjloVEF2bU5ZTEl6bDFabTdCWWVSdw?oc=5",
       "source": "Reuters",
       "published": "2026-07-12T20:42:32+00:00",
-      "score": 6.52,
+      "score": 6.41,
       "tags": [
         "closure",
         "tension"
@@ -75,7 +75,7 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYndhdC1wODNycE5KR3VqQ0ZWNF84WUJIOFpRbWlmYkotbXJramppS3VGTHRldU9lVndURkh6eXlsUlJVUWR2Q1RZbHJuUW54V1JPUWlmM21hbmdlQmZlZHRIeXBaWWFxNXlJMUJfaUpZVmtiYURVVFVQZElFNW5EUEQwcEVSVFRTNVE?oc=5",
       "source": "WLKY",
       "published": "2026-07-12T16:59:00+00:00",
-      "score": 6.25,
+      "score": 6.14,
       "tags": [
         "closure",
         "tension"
@@ -86,7 +86,7 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1R4SUpjZmNzcE1wZVIxVzJ2NmM5NUJsQzRHQ1NYQTBmVWktdnl5cXV6U1ZTR0hMM0tHMzhfamtlSGxGcExVdVhtcEt1cV9RSjdNQklhTkphLWpmaXdDUmI4eWhCSm54TDAxRmJpVmRwTURlWmxkaG0xZUFha3UzTmNGaVVCUUZodHNmTzUxRTJobEdGS2NpTEtpWnZGRXVJ?oc=5",
       "source": "The Conversation",
       "published": "2026-07-14T14:51:50+00:00",
-      "score": 5.88,
+      "score": 5.82,
       "tags": [
         "closure"
       ]
@@ -96,7 +96,7 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVU5MelMtYkVJNW9KZWxOWUd5ZUQ1S05hM2lqVGdaQlNGWFB2aE1HamlpajlocVE3NkM1bU15Q2JoZjNKNHg2MS1RcVl2WFNSYXpHMzZkNHN0bW5KSU1RMmxzVWF5NDMzRkYtczQ0YWRhT1BfanUzV0xEMHd1QWl5cVF1UEMzYThGOXNKSmdJYzRleHVJbmRaS19YX09XQUFzMHlvX1hIZHNrODVqQ1hOXw?oc=5",
       "source": "France 24",
       "published": "2026-07-12T08:36:16+00:00",
-      "score": 5.64,
+      "score": 5.54,
       "tags": [
         "closure",
         "tension"
@@ -107,7 +107,7 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN1FmV1JVMjVnRGRPVzVSSTJKWWlnNUVITDJZRXdCZ3B2QzV1LUlQMGFNM2JEZ1J4LUZjRVBoQmFyc296M3RqbnNnMGtFRUdfOFFtSlNuNUp6RWtubGY5eHpqSUF0dGd6NkhnOWUxYmpUTXQ0S05FZ3dFMXIzb2dBZW8wN2xlbGZYZVlleTR6cEx2ODh0NjZLYw?oc=5",
       "source": "DW.com",
       "published": "2026-07-13T21:19:38+00:00",
-      "score": 5.11,
+      "score": 5.04,
       "tags": [
         "closure"
       ]
@@ -117,7 +117,7 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR2dlMUVVUjRTM0F2cnZhNmlKQ1h1WGNlcGNobU52RkNwV2o3WWZnN1Q1ZnpTNFVHYWhLaDctWlBGa3RPZUc4SjJodElwcFBmdmJ6RE4tWDRZSmxaY1kxRVRGZFMxNExPUl8yaGFCdWJocGZnLXItbkgyUzRpdzMySGpnQlVGc2lfZTRpRjhuMFdzQUlHTEtQQzUycW4?oc=5",
       "source": "Washington Examiner",
       "published": "2026-07-12T21:02:00+00:00",
-      "score": 5.03,
+      "score": 4.95,
       "tags": [
         "closure"
       ]
@@ -127,7 +127,7 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORG5YRXl4S3kzWkZtNzE3Wm12c3RVaGpmaEcxVkJJcGZHUUhwbUJWMVlvdkU0ZFdUSVJmSGVMQkNvQ0U1Wm5WN0YxS0NQRkstakNyeGdNTkpHOWlBd1FGQkp3QW4yN1Jwc05NczN1ajVPcHg2QkgxX01wVU02MVpwVFN1dmE3cGVYLUl0Znl3cjhHUjJTSFNBVFljbkpGNVo3aWx3cjVEVm9Lb0lLVXB1Ng?oc=5",
       "source": "The Straits Times",
       "published": "2026-07-11T23:27:16+00:00",
-      "score": 4.98,
+      "score": 4.88,
       "tags": [
         "closure",
         "tension"
@@ -135,7 +135,7 @@
     }
   ],
   "brent": {
-    "price": 86.89,
-    "change_pct": 3.16
+    "price": 86.73,
+    "change_pct": 2.97
   }
 }
