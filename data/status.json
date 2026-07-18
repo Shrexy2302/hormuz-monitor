@@ -1,17 +1,17 @@
 {
-  "status": "DISRUPTED",
-  "label": "Major disruption reported",
-  "tension_index": 153.5,
-  "closure_signals": 2,
-  "articles_scanned": 212,
-  "updated": "2026-07-18T22:41:40.520394+00:00",
+  "status": "CLOSED",
+  "label": "Closure reported",
+  "tension_index": 146.9,
+  "closure_signals": 3,
+  "articles_scanned": 210,
+  "updated": "2026-07-18T23:45:36.820680+00:00",
   "headlines": [
     {
-      "title": "US launches new wave of strikes on Iran as Strait of Hormuz is blocked - WMAZ",
+      "title": "US launches new wave of strikes on Iran as Strait of Hormuz is blocked - 13WMAZ",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNckR0OF9WUjlkSy1vanhhWFcwbGd0OEhIYVFNZVBfMTZhUW1wNGZWY2xENW5uYVpXVndIUERoQ2plOFlyRUhxOGR1TWEzazd4UGo1VWpFczNJNXJmOHNRVEVkNVFYTUVLVXVqMTZKTGdIa2Q4N01PQUs5QmZ1YWZxT1FKZldOR1VuTEI0VlZ3Tm0zQmo4ZDU1eU5TbFMzNWk3OEN3eWM5V3pYc2lmN0E5Mld6NG9pbFdsRWxFRlZpbHM4R3B5WjdOeHJrOEYydUlyMGdfMUxocS1aQTFZ?oc=5",
-      "source": "WMAZ",
+      "source": "13WMAZ",
       "published": "2026-07-15T18:11:00+00:00",
-      "score": 9.21,
+      "score": 9.13,
       "tags": [
         "closure",
         "tension"
@@ -22,7 +22,18 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX2FyWUhvcElUczFiSXViRXd3WTdHeXBibDFxWFhLSkNUVnEyRFNlMUZnQXZ5eWZ5Y1REQ0k5WUxWY0VQeUxqMjdNRUJVVVZMNFV1cWtmZnlmTmxWVFhIN1VyQkdrb3g5a0k5QUMyVUl3ZHpqbU9LM2tRMU5KUExFWmJZam81ZTdRQUhGTnY2MzZPdGxCWFNqMmI2eTEwRDFGdXV3cVptUFUxZEJnclpN?oc=5",
       "source": "Anadolu Ajans\u0131",
       "published": "2026-07-17T23:06:05+00:00",
-      "score": 9.0,
+      "score": 8.97,
+      "tags": [
+        "closure",
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran keeps Strait of Hormuz closed, impacting oil prices amid US tensions - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNzJFMUxyYUlRd0dnNVNBX0ZDckx3aTN4UkpQSHhCeWJoWjVGNGgxekZIbWVUYkhxRnIzUHJXUUpaNlNWb2JGTlFSbUpVLVZWRC1tME1FVjg1NDJmeU5yNVpNMjhMZVpJc3Y2NFFqdTc2bXFKSGZYajRCZmJPd09iNnA1UUJWSlc3SzZyWlc1d2YyRDdZeGF6eDM3OC1WR0t6c2c?oc=5",
+      "source": "Crypto Briefing",
+      "published": "2026-07-15T01:56:49+00:00",
+      "score": 6.73,
       "tags": [
         "closure",
         "tension"
@@ -33,7 +44,7 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSW5FM0tPOHNwMWRlcFBEak9OSUNJNmhUM1ZCSV9aYjhNTkQyUWxHNGRDa2ZmeWZxbmpRTVFHbHVfLWFFWjJGMU9TQmNRaFVPS0JaRFBGOFJOc2MzLTRGUFdyV2R1QW9ldHZ5V1NxQUFObzhrLXhJV1AycXRZQTByYUFnOWRCNkdZUVRGLWVwMkFLMGZsUGZiRTVySW8xTno3QURCWg?oc=5",
       "source": "Vatican News",
       "published": "2026-07-13T13:04:27+00:00",
-      "score": 4.55,
+      "score": 4.48,
       "tags": [
         "closure",
         "tension"
@@ -44,7 +55,7 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1R4SUpjZmNzcE1wZVIxVzJ2NmM5NUJsQzRHQ1NYQTBmVWktdnl5cXV6U1ZTR0hMM0tHMzhfamtlSGxGcExVdVhtcEt1cV9RSjdNQklhTkphLWpmaXdDUmI4eWhCSm54TDAxRmJpVmRwTURlWmxkaG0xZUFha3UzTmNGaVVCUUZodHNmTzUxRTJobEdGS2NpTEtpWnZGRXVJ?oc=5",
       "source": "The Conversation",
       "published": "2026-07-14T14:51:50+00:00",
-      "score": 4.45,
+      "score": 4.4,
       "tags": [
         "closure"
       ]
@@ -54,7 +65,7 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWNfWDBGeUlZdnVYdk9zTTBTa05FcHZQZ2NTaE14ZU9SUFRKcDgyamdEaUFjVi1ycHRuaEdaV2cwU3FSWjZqb3BzNXBvMmdobFNvejdtRGo0QUk3emV4alhETFNOcWgyQUg0MnFDVF9mSHRuM3R0Zng3ZnNWUDlqajlyWndRaHk2dkdycXVNdFA0S21RYk5YRElCTVBQZjloVEF2bU5ZTEl6bDFabTdCWWVSdw?oc=5",
       "source": "Reuters",
       "published": "2026-07-12T20:42:32+00:00",
-      "score": 4.19,
+      "score": 4.11,
       "tags": [
         "closure",
         "tension"
@@ -65,7 +76,7 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNWQxX2RLclhfbVlobERZQVZodHM1ZU92Z2dpZ2pwUDVRRDJPdFhEcURCbTk0SkNSazRuS1FIdFlkUjJyYUJBWnpHWnRXYXc3ZHdMbGhCaWRnTnpFOUFZanl0LXZXbFREYTRfcDh3ZGVCOFZJNWdxc3owbW9obFNZMW5ueFN6c3B2VlE?oc=5",
       "source": "WCVB",
       "published": "2026-07-12T16:59:00+00:00",
-      "score": 3.92,
+      "score": 3.84,
       "tags": [
         "closure",
         "tension"
@@ -76,7 +87,7 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN1FmV1JVMjVnRGRPVzVSSTJKWWlnNUVITDJZRXdCZ3B2QzV1LUlQMGFNM2JEZ1J4LUZjRVBoQmFyc296M3RqbnNnMGtFRUdfOFFtSlNuNUp6RWtubGY5eHpqSUF0dGd6NkhnOWUxYmpUTXQ0S05FZ3dFMXIzb2dBZW8wN2xlbGZYZVlleTR6cEx2ODh0NjZLYw?oc=5",
       "source": "DW.com",
       "published": "2026-07-13T21:19:38+00:00",
-      "score": 3.67,
+      "score": 3.63,
       "tags": [
         "closure"
       ]
@@ -86,7 +97,7 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTVQyMmFIM0hOUXlUZjI0ZE1HNGRxWVVXS08yYmpuQkM5MXZ3YkMtLUhNWnZaejFRa3E2N0ltUzJuN1dtaWlRZDJpdFRBclIwRHlrNjRLbE9EYzlCQnNWZENmRk5XWmVFN3o0ZDBXaGh5R09rN2lWTHBBcFBFUzlWTzRaY3UySkZqR0g5VzNVUGY3MUZwc3k3R09ielFjZ21hVHV2bHRuUHl6V3YzcHdBZnFLdjhkY0M2Mmc?oc=5",
       "source": "Reuters",
       "published": "2026-07-17T06:31:00+00:00",
-      "score": 3.64,
+      "score": 3.62,
       "tags": [
         "tension"
       ]
@@ -96,7 +107,7 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EcnZOREtkUk16MktON3hQS0RQYkNlM2pqejZRbG4yd1pseU5WSVlSYkZ0Mkg3QXRHakpqTDQ5UWlXQ0NWWktSRkwwN194bUIzdXFKY0N0dEw2U19JY3RldGVhc0dqdWp4M1ZoWW96aFFPX0VTTlE?oc=5",
       "source": "qz.com",
       "published": "2026-07-13T15:49:52+00:00",
-      "score": 3.43,
+      "score": 3.38,
       "tags": [
         "closure"
       ]
@@ -106,7 +117,7 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVU5MelMtYkVJNW9KZWxOWUd5ZUQ1S05hM2lqVGdaQlNGWFB2aE1HamlpajlocVE3NkM1bU15Q2JoZjNKNHg2MS1RcVl2WFNSYXpHMzZkNHN0bW5KSU1RMmxzVWF5NDMzRkYtczQ0YWRhT1BfanUzV0xEMHd1QWl5cVF1UEMzYThGOXNKSmdJYzRleHVJbmRaS19YX09XQUFzMHlvX1hIZHNrODVqQ1hOXw?oc=5",
       "source": "France 24",
       "published": "2026-07-12T08:36:16+00:00",
-      "score": 3.32,
+      "score": 3.24,
       "tags": [
         "closure",
         "tension"
@@ -117,19 +128,9 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR2dlMUVVUjRTM0F2cnZhNmlKQ1h1WGNlcGNobU52RkNwV2o3WWZnN1Q1ZnpTNFVHYWhLaDctWlBGa3RPZUc4SjJodElwcFBmdmJ6RE4tWDRZSmxaY1kxRVRGZFMxNExPUl8yaGFCdWJocGZnLXItbkgyUzRpdzMySGpnQlVGc2lfZTRpRjhuMFdzQUlHTEtQQzUycW4?oc=5",
       "source": "Washington Examiner",
       "published": "2026-07-12T21:02:00+00:00",
-      "score": 3.24,
+      "score": 3.18,
       "tags": [
         "closure"
-      ]
-    },
-    {
-      "title": "2 troops are dead, 1 is missing after Iranian attacks on base in Jordan, US military says - WFIE | 14 News",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTWFUVFZaRUdEZHZYMV90Y2hnd2FnbjNkd1A1dkl3YUtWMkpMb2huZ2FGUFU3NUdTdlFfRXhDU0hZdU1HM1c1T3NhV1laNG5Td2U4Vldfbl9qOHE5SWFuWm45WlUtUVlBSmlZaENDT1o5amFCaDI1R0s5UzFDUHdYQnNhY2NBYWQ1dDN3UTdCOVBHYUg0eGg1d25GQTRldmZrYk4zQ0UxQk10VzJrWDNaN19NZTdzM0HSAcsBQVVfeXFMTUd0M28yaFllRTNmQnljc2hldHlTdjc0QkxDYWVoNENtOF9jdU5sTFhqSm1WMDhUTjZIN3FlZ3NsWDM3SjZQWlN5TzNXc1U5NzdSMWJSX0FwTGtRZ2lSMHFnUFRXUDZ3b3AxOUlHeVlYSU9LaWNfVG8xT0xXNEROZDVzX1gteVdvdy1qbEJYbXFyNVlZelAydjljTlBCaUVVbDhVa2EyUXE2SS1ZTy1Zd29uWDlSU0tLMm1GOF9EUjA5bS14dW5FZnV2aHc?oc=5",
-      "source": "WFIE | 14 News",
-      "published": "2026-07-18T17:36:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
       ]
     }
   ],
