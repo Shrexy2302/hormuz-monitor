@@ -1,17 +1,17 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 146.9,
+  "tension_index": 143.5,
   "closure_signals": 3,
-  "articles_scanned": 210,
-  "updated": "2026-07-18T23:45:36.820680+00:00",
+  "articles_scanned": 207,
+  "updated": "2026-07-19T02:02:13.211677+00:00",
   "headlines": [
     {
       "title": "US launches new wave of strikes on Iran as Strait of Hormuz is blocked - 13WMAZ",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNckR0OF9WUjlkSy1vanhhWFcwbGd0OEhIYVFNZVBfMTZhUW1wNGZWY2xENW5uYVpXVndIUERoQ2plOFlyRUhxOGR1TWEzazd4UGo1VWpFczNJNXJmOHNRVEVkNVFYTUVLVXVqMTZKTGdIa2Q4N01PQUs5QmZ1YWZxT1FKZldOR1VuTEI0VlZ3Tm0zQmo4ZDU1eU5TbFMzNWk3OEN3eWM5V3pYc2lmN0E5Mld6NG9pbFdsRWxFRlZpbHM4R3B5WjdOeHJrOEYydUlyMGdfMUxocS1aQTFZ?oc=5",
       "source": "13WMAZ",
       "published": "2026-07-15T18:11:00+00:00",
-      "score": 9.13,
+      "score": 8.97,
       "tags": [
         "closure",
         "tension"
@@ -22,18 +22,18 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX2FyWUhvcElUczFiSXViRXd3WTdHeXBibDFxWFhLSkNUVnEyRFNlMUZnQXZ5eWZ5Y1REQ0k5WUxWY0VQeUxqMjdNRUJVVVZMNFV1cWtmZnlmTmxWVFhIN1VyQkdrb3g5a0k5QUMyVUl3ZHpqbU9LM2tRMU5KUExFWmJZam81ZTdRQUhGTnY2MzZPdGxCWFNqMmI2eTEwRDFGdXV3cVptUFUxZEJnclpN?oc=5",
       "source": "Anadolu Ajans\u0131",
       "published": "2026-07-17T23:06:05+00:00",
-      "score": 8.97,
+      "score": 8.85,
       "tags": [
         "closure",
         "tension"
       ]
     },
     {
-      "title": "Iran keeps Strait of Hormuz closed, impacting oil prices amid US tensions - Crypto Briefing",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNzJFMUxyYUlRd0dnNVNBX0ZDckx3aTN4UkpQSHhCeWJoWjVGNGgxekZIbWVUYkhxRnIzUHJXUUpaNlNWb2JGTlFSbUpVLVZWRC1tME1FVjg1NDJmeU5yNVpNMjhMZVpJc3Y2NFFqdTc2bXFKSGZYajRCZmJPd09iNnA1UUJWSlc3SzZyWlc1d2YyRDdZeGF6eDM3OC1WR0t6c2c?oc=5",
-      "source": "Crypto Briefing",
-      "published": "2026-07-15T01:56:49+00:00",
-      "score": 6.73,
+      "title": "US and Iran tensions escalate as Strait of Hormuz is blocked again | What to know - 13WMAZ",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPX1A3Y3ItZG9qV210ZGc1REs1WWNXU3ZzSVc1NWFieU55TXk2UGVYOVdpVDJWdXlHZm1xMlNWRGt6TzQ1UFRzSVBRWkZKUWphUVJ0TENick5IeGMteHltQUp4Q3hQUkhON19ZRk15LVdIMW5JLXBjV0xLVjAtd3RPc1pUVktfQUNQYjJYOU1xYmtOMUo2WkZuQ1JZM1BJWTRjbGJhRlBHOHh6SUplR1hINlpnM1U5dWFGUlp1MFpYYU5ILVlVYTBTZS1kWFBLM3JmcnctM2hWbmtySFVRT2hRcEt6V3BnS3Rq?oc=5",
+      "source": "13WMAZ",
+      "published": "2026-07-15T12:00:00+00:00",
+      "score": 7.21,
       "tags": [
         "closure",
         "tension"
@@ -44,7 +44,7 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSW5FM0tPOHNwMWRlcFBEak9OSUNJNmhUM1ZCSV9aYjhNTkQyUWxHNGRDa2ZmeWZxbmpRTVFHbHVfLWFFWjJGMU9TQmNRaFVPS0JaRFBGOFJOc2MzLTRGUFdyV2R1QW9ldHZ5V1NxQUFObzhrLXhJV1AycXRZQTByYUFnOWRCNkdZUVRGLWVwMkFLMGZsUGZiRTVySW8xTno3QURCWg?oc=5",
       "source": "Vatican News",
       "published": "2026-07-13T13:04:27+00:00",
-      "score": 4.48,
+      "score": 4.34,
       "tags": [
         "closure",
         "tension"
@@ -55,7 +55,7 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1R4SUpjZmNzcE1wZVIxVzJ2NmM5NUJsQzRHQ1NYQTBmVWktdnl5cXV6U1ZTR0hMM0tHMzhfamtlSGxGcExVdVhtcEt1cV9RSjdNQklhTkphLWpmaXdDUmI4eWhCSm54TDAxRmJpVmRwTURlWmxkaG0xZUFha3UzTmNGaVVCUUZodHNmTzUxRTJobEdGS2NpTEtpWnZGRXVJ?oc=5",
       "source": "The Conversation",
       "published": "2026-07-14T14:51:50+00:00",
-      "score": 4.4,
+      "score": 4.3,
       "tags": [
         "closure"
       ]
@@ -65,7 +65,7 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWNfWDBGeUlZdnVYdk9zTTBTa05FcHZQZ2NTaE14ZU9SUFRKcDgyamdEaUFjVi1ycHRuaEdaV2cwU3FSWjZqb3BzNXBvMmdobFNvejdtRGo0QUk3emV4alhETFNOcWgyQUg0MnFDVF9mSHRuM3R0Zng3ZnNWUDlqajlyWndRaHk2dkdycXVNdFA0S21RYk5YRElCTVBQZjloVEF2bU5ZTEl6bDFabTdCWWVSdw?oc=5",
       "source": "Reuters",
       "published": "2026-07-12T20:42:32+00:00",
-      "score": 4.11,
+      "score": 3.95,
       "tags": [
         "closure",
         "tension"
@@ -76,9 +76,19 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNWQxX2RLclhfbVlobERZQVZodHM1ZU92Z2dpZ2pwUDVRRDJPdFhEcURCbTk0SkNSazRuS1FIdFlkUjJyYUJBWnpHWnRXYXc3ZHdMbGhCaWRnTnpFOUFZanl0LXZXbFREYTRfcDh3ZGVCOFZJNWdxc3owbW9obFNZMW5ueFN6c3B2VlE?oc=5",
       "source": "WCVB",
       "published": "2026-07-12T16:59:00+00:00",
-      "score": 3.84,
+      "score": 3.68,
       "tags": [
         "closure",
+        "tension"
+      ]
+    },
+    {
+      "title": "Strait of Hormuz transits drop as US and Iran escalate attacks across Gulf - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTVQyMmFIM0hOUXlUZjI0ZE1HNGRxWVVXS08yYmpuQkM5MXZ3YkMtLUhNWnZaejFRa3E2N0ltUzJuN1dtaWlRZDJpdFRBclIwRHlrNjRLbE9EYzlCQnNWZENmRk5XWmVFN3o0ZDBXaGh5R09rN2lWTHBBcFBFUzlWTzRaY3UySkZqR0g5VzNVUGY3MUZwc3k3R09ielFjZ21hVHV2bHRuUHl6V3YzcHdBZnFLdjhkY0M2Mmc?oc=5",
+      "source": "Reuters",
+      "published": "2026-07-17T06:31:00+00:00",
+      "score": 3.57,
+      "tags": [
         "tension"
       ]
     },
@@ -87,19 +97,9 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN1FmV1JVMjVnRGRPVzVSSTJKWWlnNUVITDJZRXdCZ3B2QzV1LUlQMGFNM2JEZ1J4LUZjRVBoQmFyc296M3RqbnNnMGtFRUdfOFFtSlNuNUp6RWtubGY5eHpqSUF0dGd6NkhnOWUxYmpUTXQ0S05FZ3dFMXIzb2dBZW8wN2xlbGZYZVlleTR6cEx2ODh0NjZLYw?oc=5",
       "source": "DW.com",
       "published": "2026-07-13T21:19:38+00:00",
-      "score": 3.63,
+      "score": 3.52,
       "tags": [
         "closure"
-      ]
-    },
-    {
-      "title": "Strait of Hormuz transits drop as US and Iran escalate attacks across Gulf - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTVQyMmFIM0hOUXlUZjI0ZE1HNGRxWVVXS08yYmpuQkM5MXZ3YkMtLUhNWnZaejFRa3E2N0ltUzJuN1dtaWlRZDJpdFRBclIwRHlrNjRLbE9EYzlCQnNWZENmRk5XWmVFN3o0ZDBXaGh5R09rN2lWTHBBcFBFUzlWTzRaY3UySkZqR0g5VzNVUGY3MUZwc3k3R09ielFjZ21hVHV2bHRuUHl6V3YzcHdBZnFLdjhkY0M2Mmc?oc=5",
-      "source": "Reuters",
-      "published": "2026-07-17T06:31:00+00:00",
-      "score": 3.62,
-      "tags": [
-        "tension"
       ]
     },
     {
@@ -107,7 +107,7 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EcnZOREtkUk16MktON3hQS0RQYkNlM2pqejZRbG4yd1pseU5WSVlSYkZ0Mkg3QXRHakpqTDQ5UWlXQ0NWWktSRkwwN194bUIzdXFKY0N0dEw2U19JY3RldGVhc0dqdWp4M1ZoWW96aFFPX0VTTlE?oc=5",
       "source": "qz.com",
       "published": "2026-07-13T15:49:52+00:00",
-      "score": 3.38,
+      "score": 3.28,
       "tags": [
         "closure"
       ]
@@ -117,7 +117,7 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVU5MelMtYkVJNW9KZWxOWUd5ZUQ1S05hM2lqVGdaQlNGWFB2aE1HamlpajlocVE3NkM1bU15Q2JoZjNKNHg2MS1RcVl2WFNSYXpHMzZkNHN0bW5KSU1RMmxzVWF5NDMzRkYtczQ0YWRhT1BfanUzV0xEMHd1QWl5cVF1UEMzYThGOXNKSmdJYzRleHVJbmRaS19YX09XQUFzMHlvX1hIZHNrODVqQ1hOXw?oc=5",
       "source": "France 24",
       "published": "2026-07-12T08:36:16+00:00",
-      "score": 3.24,
+      "score": 3.07,
       "tags": [
         "closure",
         "tension"
@@ -128,7 +128,7 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR2dlMUVVUjRTM0F2cnZhNmlKQ1h1WGNlcGNobU52RkNwV2o3WWZnN1Q1ZnpTNFVHYWhLaDctWlBGa3RPZUc4SjJodElwcFBmdmJ6RE4tWDRZSmxaY1kxRVRGZFMxNExPUl8yaGFCdWJocGZnLXItbkgyUzRpdzMySGpnQlVGc2lfZTRpRjhuMFdzQUlHTEtQQzUycW4?oc=5",
       "source": "Washington Examiner",
       "published": "2026-07-12T21:02:00+00:00",
-      "score": 3.18,
+      "score": 3.06,
       "tags": [
         "closure"
       ]
