@@ -1,17 +1,28 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 146.5,
-  "closure_signals": 1,
+  "tension_index": 159.6,
+  "closure_signals": 2,
   "articles_scanned": 218,
-  "updated": "2026-07-21T10:36:33.521557+00:00",
+  "updated": "2026-07-21T12:20:32.861190+00:00",
   "headlines": [
+    {
+      "title": "Strait of Hormuz closed again, Iran says, as ships attacked - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS3FqODVBWlYwWFBySFNFb0xHYlVYVUhoU1VwVmZXQ1NEN3BWNGYwclZEOTZpMktwN0NzMVJGV210Yi10YjRPU3RiTVpOOG9VeHVCVHNQcHM3M21jTTBablpVYWhnUElxeHkwdDJEUjFsVm10bVEwMDl0QWJNX3VpMQ?oc=5",
+      "source": "AOL.com",
+      "published": "2026-07-21T08:04:12+00:00",
+      "score": 13.0,
+      "tags": [
+        "closure",
+        "tension"
+      ]
+    },
     {
       "title": "What are the implications of a renewed closure of the Strait of Hormuz? - Investing.com",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUENUNzlRRzA0WEU1a0JwVmhWeExFMkxFSEZqcU4tSGhkR0hoWTdsZVdxVTlyUVQzeEtPM1pYMVFDNU11TDZhV1J3T1R3VDExZkV3ekhRRURubGR4Wm1NdFBtUm1aeG15ZU5tUFRydENOS0ljajQ1bzB5MWJNckRwbExCN0lxOUV5YlNZTmlZYW9IRkxiODd6WW13ak0xU1ZCSDhvSEp1SHVlQzdVUDA2QXBxb0RwUXhHT0F1UkFNNA?oc=5",
       "source": "Investing.com",
       "published": "2026-07-19T06:43:19+00:00",
-      "score": 6.76,
+      "score": 6.68,
       "tags": [
         "closure"
       ]
@@ -21,7 +32,7 @@
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNckR0OF9WUjlkSy1vanhhWFcwbGd0OEhIYVFNZVBfMTZhUW1wNGZWY2xENW5uYVpXVndIUERoQ2plOFlyRUhxOGR1TWEzazd4UGo1VWpFczNJNXJmOHNRVEVkNVFYTUVLVXVqMTZKTGdIa2Q4N01PQUs5QmZ1YWZxT1FKZldOR1VuTEI0VlZ3Tm0zQmo4ZDU1eU5TbFMzNWk3OEN3eWM5V3pYc2lmN0E5Mld6NG9pbFdsRWxFRlZpbHM4R3B5WjdOeHJrOEYydUlyMGdfMUxocS1aQTFZ?oc=5",
       "source": "13WMAZ",
       "published": "2026-07-15T18:11:00+00:00",
-      "score": 4.88,
+      "score": 4.76,
       "tags": [
         "closure",
         "tension"
@@ -32,19 +43,18 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONFljbjUxYjBod0pyVXVDbUp4NzZuYTRhVURkMlBLaWV2ZWhmZXo3WUZBeWFvOWx5eUVSYzJyOVIwcUlZbUFaV3lRaEp3eXpHQ3VaZG9jbG1UV1BXMnMzQ1VoMXlORko3TFJIQnE5TnFsUDBrUTV4SUhkWVh3Y2QtcG41RFlhYl9HZW5iTkw5WVhHVUlGMEJiR1g0ZG1WcTBQNmhLTUdESjlnb1J5X0dXSG8waFRwd2hic0ViSGxR0gHDAUFVX3lxTFBjR0hnYk5ZWFhTUDhIQUNGZ3VvWmVoNlUtRUNITFBQSFlOYThnWVJQLV9LSWZMQkU1VGpjSW9nWG9zT1hOWHJzOUZZQW8ydWt4Nmh2VTdZdE5ZU0pac096N1RmaE93OS1UWkVMblJpLVVsMEdkSk5tSnZ5UU05cERKSmtZY3RiQXhaT1BDenNTTFRXWk12MHIyc0ZRSWVHOHgxdUNLYnViMTlzbjJpRDE5a21vOGl1cHl3MkJmcHhreXNDdw?oc=5",
       "source": "\u062a\u0633\u0646\u06cc\u0645",
       "published": "2026-07-18T08:37:42+00:00",
-      "score": 4.33,
+      "score": 4.28,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "US and Iran tensions escalate as Strait of Hormuz is blocked again | What to know - 13WMAZ",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPX1A3Y3ItZG9qV210ZGc1REs1WWNXU3ZzSVc1NWFieU55TXk2UGVYOVdpVDJWdXlHZm1xMlNWRGt6TzQ1UFRzSVBRWkZKUWphUVJ0TENick5IeGMteHltQUp4Q3hQUkhON19ZRk15LVdIMW5JLXBjV0xLVjAtd3RPc1pUVktfQUNQYjJYOU1xYmtOMUo2WkZuQ1JZM1BJWTRjbGJhRlBHOHh6SUplR1hINlpnM1U5dWFGUlp1MFpYYU5ILVlVYTBTZS1kWFBLM3JmcnctM2hWbmtySFVRT2hRcEt6V3BnS3Rq?oc=5",
-      "source": "13WMAZ",
-      "published": "2026-07-15T12:00:00+00:00",
-      "score": 3.75,
+      "title": "US strikes Iran for tenth night amid Strait of Hormuz tensions - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1JNZDZ2TWF5SU1wQWtQMGFLY1lXbFA5anR4Z19EUkdlZ0lIbHRTT2tyZ2Z0RUxxUFdma1IwUDc4d1BSMVJVTFViclVuUXROQlhQQlhXLXVON2RLR3ltZ184VHYzYmRwcUxVaU9PR3h1XzZzUV9pU0s5N3BvRHBQQmZycnVmSkJUSjVuTmEtSFgtRGJn?oc=5",
+      "source": "Crypto Briefing",
+      "published": "2026-07-21T09:47:54+00:00",
+      "score": 4.0,
       "tags": [
-        "closure",
         "tension"
       ]
     },
@@ -53,6 +63,36 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVnlkODduWUlBZXFkQzRrZjk0VjZUTXBSM1RYWTc0RC1KU3AxZUYySGt0T3lVVG5KY183OC1YclBhQmhNT2dtaTRsdlNWNWdra1NTeFgtVVlVOXZLTVRmVndaZkQ5a0pEUmpfRzV3VVBLVHZIUG1GeURCMExNQ0RhQmdJRE4zbmFWZ1k2WDg2SWdOdmpaSzgwQ1NGOE9xdkZzeUQtc3hicUd6aUZpdVpsRWNFU3MtbjdGRDdfaS1hbw?oc=5",
       "source": "KOB.com",
       "published": "2026-07-21T09:54:51+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "US strikes Iran for 10th consecutive night as Tehran strikes tanker in the Strait of Hormuz - WRAL",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWkthc1dhcm1IaHhnelBwVW5sTFdyazRPaS1CdmROcE5yMmJ4V2phT0V4dlpVOEdTMGU4WERraEVFU09BYkZFWHZneEF5NEtRazdaOE1nNmhfb3E2QllqMjJNdWRmME1tci1WTHNBRm1WVlJsZGtsVjlUd1RPMkdpcGo5dnRPNjdjdnpuZVN1aHJRM0dXektQWVVvSUktX2tsVnRKckJfUDQ2QmM5QXdQQUV2aHk2cUI2YnZGdjdHOA?oc=5",
+      "source": "WRAL",
+      "published": "2026-07-21T09:05:42+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran attacks tanker in Strait of Hormuz - Atlanta News First",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWVkzcUJGT1V5QmpDUGI5SEQxWWk5ZXEzZU9vY0Vad2lqNWZMUW9oMTZkU29jVkRaendFVGN5LUg5azJDcW44am5HWFU4c2l2Ym5Ya1phZmR0RUhmUGxRczRXdXhRVk1jUU1aMVI4ck96ekNfQmFuNy1iTkdSUG94dUVhMzNhWk1zQ0trcw?oc=5",
+      "source": "Atlanta News First",
+      "published": "2026-07-21T08:33:28+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Another tanker attacked in Strait of Hormuz - The Lewiston Tribune",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcW1BTUhJZl9lS1labEVmbGNnM1h5dkJMSlBJYmljZVh4QXhhUVBIbmwySjBmbGxxbDg5QVdhOGN5aW96Z2lIUzZ6RlBfcDRwSU03N25vZTdvWV9KZmlxQXBvY01BWXlzRXpLaXRlZVhPcm95UDBrRWhHZVIzUlVLZU1HR2Z0S1JBbUtxcA?oc=5",
+      "source": "The Lewiston Tribune",
+      "published": "2026-07-21T08:26:22+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -87,50 +127,10 @@
       "tags": [
         "tension"
       ]
-    },
-    {
-      "title": "Tanker crew abandons vessel after reported projectile strike in Strait of Hormuz, UKMTO says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZFNJNnRSVFd3TWVJMmtSMU9tcjNzLTZybXpmMkFxTm5Wb0VkMHVabm5qWVlyWWNabW85OXZsRVJ5YXhpa2xFOC1ZUlBrSTNwTE9tM2JTU2thdkJGOE9FY1gxb3A2dmhzQ241dE1VVjU3LWtpWnNweFJmNHB5d0pORlFtSWZrd1JsUFpDWXBPZl9YSzdVdUhzSzUyNFpSRXNOYkhvV0NaZko2NC1rUVM0X2xJOGN3MHB5bDdvQTFJcG0wR3dIWjZJSG5JN2xfMDQ?oc=5",
-      "source": "Reuters",
-      "published": "2026-07-21T02:28:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Hormuz vessel crossings extend slide on fresh US-Iran attacks - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVEtLXy1sb3RPLTgzWnBsRWhIU2JKV0tEQ3cyMmoxakRWRlpZNk9xUnVsWWxfMklsYzZrelRyd29WTVd5M041dUsyTElCWDd2cmtQWkdVbHhLRk5BcjZEWWRXcWx5bG85LVlBaE90bEVBZldzSERpX0QwdEs3eGlJNFVrTkxWVXZiSWRKNVdxTi1weVJnMUdRUG1tSkk1Y0NYVjVLVnVpd2QtVmRweGlBdmRR?oc=5",
-      "source": "Reuters",
-      "published": "2026-07-21T02:13:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Another tanker attacked in Strait of Hormuz as US attacks Iran for 10th consecutive night - WWAYTV3",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRUxsSTJXandYMDg0TG5qcU1aVWFTcjV5ZVJvdVFRWExIaWFkMUtNQVJKNTRaTUtKQlE4UjJHSHY5VWpCUUNrM2VOTGhJZGZETnFTbkN3a25RQjV2Y1pOSDlRZ1VSemNacEtkQ0hXWUQxR3lDakZvTTVLbTB0YUZuVDdyRE1oVGptRFJTT1ZSTUNwZG9tSWhoN2dwTjVHZVgtRGZlVV9RQW4xNnpHTEdCV2J6NEI?oc=5",
-      "source": "WWAYTV3",
-      "published": "2026-07-21T02:05:31+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "New Tanker Attack Reported Near Strait of Hormuz as U.S. Continues Strikes on Iran - gCaptain",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVDNPZzA0S1NCOXpiRTRnTUtfQ0tCUkZxWjRvWE92clNfVHZFbURnSzlndXF1NVJISzNZbGhTMDJKVmdNQ0VjUmgtOHFYeXBhV0otS3NEdHhmcnBjQjdwSEs2NDVXOHZMXzlGYTNwY2lfdU5Ia0RKV1g0ZE9HU01xZWdLN2xVeThlb2FSQi1qVW5jZmJTbWR4R2hoVUxGRm10YXcxcWxR?oc=5",
-      "source": "gCaptain",
-      "published": "2026-07-21T02:03:06+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
     }
   ],
   "brent": {
-    "price": 89.73,
-    "change_pct": 0.57
+    "price": 90.32,
+    "change_pct": 1.23
   }
 }
