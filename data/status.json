@@ -1,30 +1,19 @@
 {
-  "status": "CLOSED",
-  "label": "Closure reported",
-  "tension_index": 154.5,
-  "closure_signals": 3,
+  "status": "DISRUPTED",
+  "label": "Major disruption reported",
+  "tension_index": 151.1,
+  "closure_signals": 2,
   "articles_scanned": 219,
-  "updated": "2026-07-21T02:01:09.721853+00:00",
+  "updated": "2026-07-21T05:33:43.941058+00:00",
   "headlines": [
     {
       "title": "What are the implications of a renewed closure of the Strait of Hormuz? - Investing.com",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUENUNzlRRzA0WEU1a0JwVmhWeExFMkxFSEZqcU4tSGhkR0hoWTdsZVdxVTlyUVQzeEtPM1pYMVFDNU11TDZhV1J3T1R3VDExZkV3ekhRRURubGR4Wm1NdFBtUm1aeG15ZU5tUFRydENOS0ljajQ1bzB5MWJNckRwbExCN0lxOUV5YlNZTmlZYW9IRkxiODd6WW13ak0xU1ZCSDhvSEp1SHVlQzdVUDA2QXBxb0RwUXhHT0F1UkFNNA?oc=5",
       "source": "Investing.com",
       "published": "2026-07-19T06:43:19+00:00",
-      "score": 7.14,
+      "score": 6.98,
       "tags": [
         "closure"
-      ]
-    },
-    {
-      "title": "IRGC claims 2 oil tankers struck mines in Strait of Hormuz - Anadolu Ajans\u0131",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX2FyWUhvcElUczFiSXViRXd3WTdHeXBibDFxWFhLSkNUVnEyRFNlMUZnQXZ5eWZ5Y1REQ0k5WUxWY0VQeUxqMjdNRUJVVVZMNFV1cWtmZnlmTmxWVFhIN1VyQkdrb3g5a0k5QUMyVUl3ZHpqbU9LM2tRMU5KUExFWmJZam81ZTdRQUhGTnY2MzZPdGxCWFNqMmI2eTEwRDFGdXV3cVptUFUxZEJnclpN?oc=5",
-      "source": "Anadolu Ajans\u0131",
-      "published": "2026-07-17T23:06:05+00:00",
-      "score": 6.45,
-      "tags": [
-        "closure",
-        "tension"
       ]
     },
     {
@@ -32,10 +21,20 @@
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNckR0OF9WUjlkSy1vanhhWFcwbGd0OEhIYVFNZVBfMTZhUW1wNGZWY2xENW5uYVpXVndIUERoQ2plOFlyRUhxOGR1TWEzazd4UGo1VWpFczNJNXJmOHNRVEVkNVFYTUVLVXVqMTZKTGdIa2Q4N01PQUs5QmZ1YWZxT1FKZldOR1VuTEI0VlZ3Tm0zQmo4ZDU1eU5TbFMzNWk3OEN3eWM5V3pYc2lmN0E5Mld6NG9pbFdsRWxFRlZpbHM4R3B5WjdOeHJrOEYydUlyMGdfMUxocS1aQTFZ?oc=5",
       "source": "13WMAZ",
       "published": "2026-07-15T18:11:00+00:00",
-      "score": 5.5,
+      "score": 5.24,
       "tags": [
         "closure",
         "tension"
+      ]
+    },
+    {
+      "title": "Iran reported the ignition of two oil tankers in the mined Strait of Hormuz - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT2JtTzA1cHViaDZUZmtJX29UelZKaGxNYzNfSEdFcWFGR190WW4zWUtIR3lLYVhVMUJjZlZLU2tXZzAycnQ0X3R4VWJSZ0hmT0hTTHAxMFBKTWlTd0FhOXBuYjhZZUVnUkRLc0czUTFlMlhLSGhnelBSdmxlemFoU1ZmWHRwUHVneU1tSUJIdkFCVW14SnR5dGp6My1JUjjSAZ4BQVVfeXFMTlNOVnhDWElQS2FzTEhQUWhMZzl4UEJSM1d1WGhaSktUMWNfaEx2blI3TldJZzh0MmtiMEVoRmY0XzNfR2wyYWI2WTB2S1QxejZKem9Nc0xFZzUwdHBHdEVlNUh4QXoxMVowT0ZVdVVQSThqb080R18tUGFyR1hkNks3Nzc4MzFYUk1jNlRVdW1qVjJSTFlub05mSDR1RlE?oc=5",
+      "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+      "published": "2026-07-18T02:36:02+00:00",
+      "score": 4.3,
+      "tags": [
+        "closure"
       ]
     },
     {
@@ -43,19 +42,8 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNanlFampSalVody02NmYzRlZUSjJtVnhIV2d0b1ZfcVdnakJTZjFHOUdaVVR5QjNJY0FBUlRzdnhGemZtQWJHWWZNZ2JPaTd1TktDR0xWWlhEMDFza0EySTRNd2tLVno3UVVDZE5BbEczOG1XUWdWbTBiZFNDMHhqeEtaVm83bDMtelFTVkRvODM0dW5xUHRKdGpMaTJqaDV4d1NQNTh6UFR4RWU5LURrNVJBdFRQeDdNdFVZRFo0djA3Uk82c2c?oc=5",
       "source": "Korea JoongAng Daily",
       "published": "2026-07-18T01:22:13+00:00",
-      "score": 4.38,
+      "score": 4.26,
       "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "US and Iran tensions escalate as Strait of Hormuz is blocked again | What to know - 13WMAZ",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPX1A3Y3ItZG9qV210ZGc1REs1WWNXU3ZzSVc1NWFieU55TXk2UGVYOVdpVDJWdXlHZm1xMlNWRGt6TzQ1UFRzSVBRWkZKUWphUVJ0TENick5IeGMteHltQUp4Q3hQUkhON19ZRk15LVdIMW5JLXBjV0xLVjAtd3RPc1pUVktfQUNQYjJYOU1xYmtOMUo2WkZuQ1JZM1BJWTRjbGJhRlBHOHh6SUplR1hINlpnM1U5dWFGUlp1MFpYYU5ILVlVYTBTZS1kWFBLM3JmcnctM2hWbmtySFVRT2hRcEt6V3BnS3Rq?oc=5",
-      "source": "13WMAZ",
-      "published": "2026-07-15T12:00:00+00:00",
-      "score": 4.28,
-      "tags": [
-        "closure",
         "tension"
       ]
     },
@@ -63,7 +51,57 @@
       "title": "Another tanker attacked in Strait of Hormuz as US strikes Iran for 10th consecutive night - AP News",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQajNHTE9aUmxpa2RIMy1jNjZ4RmgzZlk2OXE3ZXBtRzdxaUpnQldzeUtxaHh6Z3VTQzZMUGNtZ1oxNE5lQzZwLVhnX3BTZWk1OVBVT1ZiNFFtMnoyRDhHbFBnV0pFdTdNcnBKdWVuT0RidVJoWXFCYkdlNDE2V1hmZ1VhUlZhLXExZTZjOHo1YmRYMm5ra1U4RE9DU29CMVU?oc=5",
       "source": "AP News",
-      "published": "2026-07-21T01:44:00+00:00",
+      "published": "2026-07-21T04:30:00+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Tanker attacked in Strait of Hormuz as US strikes Iran for 10th night - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdzhBWjFwZ1NtNzdQM2ZJcjZvQUs1MnliUGtJY3Vzbnh4QmZ5cTFLMWEwdEY1TkFpOWtQczRjQUxYenFDT3hiSjFTb09QcG5jRnZmS2x5SU9HbnJKYmVNTW03djV2cm4wWFFLMndFMy1Dd28tSFlCT2Q2ZDNoVGJvX2xtTDU4MmR3UE5EMUlYMkg4WGV3RmJBRWZKV2d5UUwyYVV2UGhRdHdwbjdDNVNnRW13M09hUGVtNnc?oc=5",
+      "source": "Euronews.com",
+      "published": "2026-07-21T03:17:35+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Hormuz vessel crossings extend slide on fresh US-Iran attacks - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVEtLXy1sb3RPLTgzWnBsRWhIU2JKV0tEQ3cyMmoxakRWRlpZNk9xUnVsWWxfMklsYzZrelRyd29WTVd5M041dUsyTElCWDd2cmtQWkdVbHhLRk5BcjZEWWRXcWx5bG85LVlBaE90bEVBZldzSERpX0QwdEs3eGlJNFVrTkxWVXZiSWRKNVdxTi1weVJnMUdRUG1tSkk1Y0NYVjVLVnVpd2QtVmRweGlBdmRR?oc=5",
+      "source": "Reuters",
+      "published": "2026-07-21T02:13:00+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Ships struck in Strait of Hormuz and off UAE - Seatrade Maritime News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTExxak1HdzhWMUpzTUZsRzhocnl4MnZBXzAzczZNTVVLSE9RVERCYmNXb3h6V2ZVc1pEM1ptbXM0Q0hoaWtWcFd6akQ1ZkJsNEFaX09SODVLWGdBLVhUczFEUmdHNVptRGVUeDF2ZGRCWk9ZN2FOeVlnSGJkT3ZkOGQ3eEFESmZ4MmNIZlhob1Y?oc=5",
+      "source": "Seatrade Maritime News",
+      "published": "2026-07-21T02:04:40+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Another tanker attacked in Strait of Hormuz as US attacks Iran for 10th consecutive night - WWAYTV3",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRUxsSTJXandYMDg0TG5qcU1aVWFTcjV5ZVJvdVFRWExIaWFkMUtNQVJKNTRaTUtKQlE4UjJHSHY5VWpCUUNrM2VOTGhJZGZETnFTbkN3a25RQjV2Y1pOSDlRZ1VSemNacEtkQ0hXWUQxR3lDakZvTTVLbTB0YUZuVDdyRE1oVGptRFJTT1ZSTUNwZG9tSWhoN2dwTjVHZVgtRGZlVV9RQW4xNnpHTEdCV2J6NEI?oc=5",
+      "source": "WWAYTV3",
+      "published": "2026-07-21T02:04:31+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "New Tanker Attack Reported Near Strait of Hormuz as U.S. Continues Strikes on Iran - gCaptain",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVDNPZzA0S1NCOXpiRTRnTUtfQ0tCUkZxWjRvWE92clNfVHZFbURnSzlndXF1NVJISzNZbGhTMDJKVmdNQ0VjUmgtOHFYeXBhV0otS3NEdHhmcnBjQjdwSEs2NDVXOHZMXzlGYTNwY2lfdU5Ia0RKV1g0ZE9HU01xZWdLN2xVeThlb2FSQi1qVW5jZmJTbWR4R2hoVUxGRm10YXcxcWxR?oc=5",
+      "source": "gCaptain",
+      "published": "2026-07-21T02:03:06+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -80,50 +118,10 @@
       ]
     },
     {
-      "title": "Another tanker attacked in Strait of Hormuz as US strikes Iran for 10th consecutive night - MilitaryNews.com",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQSHUzS1hJLThRQWdGMnRibG8xS05LZExRWXYzc1ZDSFpiaDdKT3dibHZpcnYxanpyN18zbUpLTWlJODl2UXJrMXdlaG05SkNMWkNROGwxU2UxcndWNzJ5U1Bfd2JaMFc3VXotNnFKRmhpYXJZbXdmYWhxVjZHaW4yUTE1Z0gtdk91M21EQXM5enhMakxIeWFKWDJKMzA3b0lvZk15NU1PN2kycXNrUVlkMVV4RlpILTNERVFsT1BNQS1QUlVtZ0NMeFlCbFRnME5DOWpqVTUzeWlISnhLUG0yZDB5WFZjanRtVGVfVjNUVWhjZUJBYm1kZnVBNXBJbk9tMWN2SkcwRTgzZlc5V3Nz?oc=5",
-      "source": "MilitaryNews.com",
-      "published": "2026-07-21T01:29:22+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Another tanker attacked in Strait of Hormuz as US attacks Iran for 10th consecutive night - news8000.com",
-      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOMGc2VFZHYWpuUURuTVU4M1RFcDdBSnZ6QmFCZ2ZIMUJ0cUUtcTJZQ2RabmFsR1ZYYVpwRHhYMzJWQ2JmWndzbl85dlJ1SmF2ZzFYdXViWGdsdWo3NGFlOHBid044bGcxbXVYNEJrR04xTzR3U3hMdVN1SzRzWXprR1VneWc5b1A0dWsxSS1DZ2VYT1RER3dYOU1COG1ObHpfSlRHV2wwMV9QdDcxS1UyaV83NnRSeTJYQkN1RTI2aGxlY0pTSzBvUlI3ajhFWlBMclpLTGtfVzZaN0ZfYnZ2VlEyMUFaSGJGN3JJMnprdnNaVmVJQnFaMGFSYlpTVHdBQzVUZVh1SU5BdmxHVE42dXc4OGRSSUx6SjRVbWM4eU4yQQ?oc=5",
-      "source": "news8000.com",
-      "published": "2026-07-21T01:26:57+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "British military says a tanker was attacked in the Strait of Hormuz off Oman in the latest assault on shipping - KVUE",
-      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPbEh3VlpLb2lmZE15MHJaNjBlc2dJQm1paEtjRVRhaGJfTWhmV3RsZzB6RDVDMnlPcU9Lc3FDQTUxOHA4eXU0c2sxaDJaanlKdnJLTE1VbmJyREY1VHhhXzRaSDEta3ZpZnBfbl9UOFRfb3JVUGZZaVR3MXJsR2phNGw2emxFZlFvV0pTZzU5Rl9oeFI2WTUxLVk5NFNCdXEtckEzRWtVckx2RDA0TlF2cTBnXzBjWGlZVU9jN2hBUndLVEphU05IRmdOc1NGbjN3MGxfVFR3UEp0YnF3NGZDYmxYLXFvMFNyVHpmTmxHeVpfdnBpaUJyUXdtQjF6b0RrVFJSY0cyT0JqV3M3MGRMYUQwSVc0eWQ1el9fZHpscWt6SFI5LUZSaVFZYlA1aC1NMkE?oc=5",
-      "source": "KVUE",
-      "published": "2026-07-21T01:15:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Back to the drawing board on the Strait of Hormuz - investingLive",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTVJDODhwYWZZYXRhZVdCWWNicUg4MTRXQjJQYU5TbEVzbjlLWHRCV0k5NDhqSW1QS3c4dHhBMlpLRE9OcHpQYWhFQk1VekJUcWh2eEFveUtOU1Rhd1RWZHFoWENuQWdkQ1Bqb09yc1FqS3RFNXdTeWxOQk5rX0wxMjlCRXZLd2c?oc=5",
-      "source": "investingLive",
-      "published": "2026-07-20T21:58:39+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Tanker Attacks in Strait of Hormuz Coincide With New Houthi Maritime Threat - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVDVIQUVUYTRPYm9BN044alQwcDl5Y3pqalVqS3E3N0h2Y291NTBLOWZmNGd1dk5TQ1RRM3ZRNXdOUS00dDFrMkdfbV9CZzhOQkMxaVVxejZ0N3hvMHpWbUFfSmFoa2xkSGx4N3JMODNtTmtsZHQ3eERNY0p2TEJGMTJZZW9tX3RMTEI3UHhJOVFRV19rUGZmc3Vn?oc=5",
-      "source": "Yahoo",
-      "published": "2026-07-20T18:20:01+00:00",
+      "title": "Another tanker attacked in Strait of Hormuz as US strikes Iran for 10th consecutive night - Yakima Herald-Republic",
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOa1hINFVMVUVwQWEyZlV3NVBiU2l4Qzc0ZTlCSzRnaGlySFZ3TXVVdE0wM2hObFVWZmJKSW9neWdYc2pIRnJkdmUycEVoYzBqVEdtZGlFNk1lZGhRY09DRjBBVXVuZTA1QnNpWkRWQzZpa0t6cGRlRUJZd2Fhd0tsNVRvNWx1VEhRUnZVUnNjSl9MQkhsVUZpY2VpTjdPSGNQMTZ4TTJ2ZHZGbFlCU1ZmTW1Sc1F1Zy1QR2U0d0k1bWFWZlpvR2VsQjExRmhGcmFHMmRTUlBVRlpwdFFkQnZqWGp1OTl3eVg3MUZySmR1Szh3TzlMXzdIaGVxYkRsOXBkcFFuYWU1Qkt1UTczelc4QXJrTV9PQy1PQTZ6R2hhUGFGa0dsMGfSAasCQVVfeXFMTXNYYXBsUWNyMDNDeXAycjJDZkllblV6YU9CeFEyMGRfTXBHd040OUNHRFNoeW1fV3NqNHg0aGozR3lHMVNyZl9xTDRtd2FMY05QVC1Odl9kRTN3SG56cGJ3Z1c0WW1uRERzdHh5eDlVb09jNlR0OU5KT2pQOU1iVHlXeWhxX0ZYSGxTNm5UUmxCTVpCOTdaVlZkdUFoNUhJNEhNblpOa1ZrRUtMVkRLa0JWdVRIdGN6LXlMNmJObi1MaDZWVTk2TTUzWlhUVlBObktKTjQxb1JoSU5WSXRqSk02OU5wWThXM0lZZXRtSEtBUjIyc1BHVWdMQklVQjR0Z0xhZ2ZsdEVJb1NWNmdTMzZCTy1TSDRRNDZ3MXcwZzlteFVGbDJBVk5aVDA?oc=5",
+      "source": "Yakima Herald-Republic",
+      "published": "2026-07-21T01:21:03+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -131,7 +129,7 @@
     }
   ],
   "brent": {
-    "price": 88.66,
-    "change_pct": -0.63
+    "price": 88.68,
+    "change_pct": -0.61
   }
 }
