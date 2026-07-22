@@ -1,17 +1,17 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 184.6,
+  "tension_index": 188.2,
   "closure_signals": 2,
   "articles_scanned": 222,
-  "updated": "2026-07-22T16:22:47.008474+00:00",
+  "updated": "2026-07-22T17:47:47.617810+00:00",
   "headlines": [
     {
       "title": "Strait of Hormuz closed again, Iran says, as ships attacked - AOL.com",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS3FqODVBWlYwWFBySFNFb0xHYlVYVUhoU1VwVmZXQ1NEN3BWNGYwclZEOTZpMktwN0NzMVJGV210Yi10YjRPU3RiTVpOOG9VeHVCVHNQcHM3M21jTTBablpVYWhnUElxeHkwdDJEUjFsVm10bVEwMDl0QWJNX3VpMQ?oc=5",
       "source": "AOL.com",
       "published": "2026-07-21T08:04:12+00:00",
-      "score": 12.4,
+      "score": 12.3,
       "tags": [
         "closure",
         "tension"
@@ -22,7 +22,7 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUENUNzlRRzA0WEU1a0JwVmhWeExFMkxFSEZqcU4tSGhkR0hoWTdsZVdxVTlyUVQzeEtPM1pYMVFDNU11TDZhV1J3T1R3VDExZkV3ekhRRURubGR4Wm1NdFBtUm1aeG15ZU5tUFRydENOS0ljajQ1bzB5MWJNckRwbExCN0lxOUV5YlNZTmlZYW9IRkxiODd6WW13ak0xU1ZCSDhvSEp1SHVlQzdVUDA2QXBxb0RwUXhHT0F1UkFNNA?oc=5",
       "source": "Investing.com",
       "published": "2026-07-19T06:43:19+00:00",
-      "score": 5.44,
+      "score": 5.37,
       "tags": [
         "closure"
       ]
@@ -32,7 +32,7 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnRDJXWlBrN1BhSEtYRGV1ZlJocWtYVzFNMlNuU2w0N2VhZHdOQ2dONy1EUGQ2b2IyNVhrUi0xY0I4Y0VuUU1OanhHODVwNWZlY1ZvblVjTVZCdG8?oc=5",
       "source": "Fox Business",
       "published": "2026-07-21T14:03:05+00:00",
-      "score": 3.95,
+      "score": 3.92,
       "tags": [
         "tension"
       ]
@@ -42,7 +42,7 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1JNZDZ2TWF5SU1wQWtQMGFLY1lXbFA5anR4Z19EUkdlZ0lIbHRTT2tyZ2Z0RUxxUFdma1IwUDc4d1BSMVJVTFViclVuUXROQlhQQlhXLXVON2RLR3ltZ184VHYzYmRwcUxVaU9PR3h1XzZzUV9pU0s5N3BvRHBQQmZycnVmSkJUSjVuTmEtSFgtRGJn?oc=5",
       "source": "Crypto Briefing",
       "published": "2026-07-21T09:47:54+00:00",
-      "score": 3.85,
+      "score": 3.82,
       "tags": [
         "tension"
       ]
@@ -52,7 +52,7 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTmVGNEJoa0hjMlhsM3UwbG1HaHdhdE9OODMwZnU2cVc1RnF0MU1fRDJ0UkVDVW1QbXhwWGdGSUl1bXc0NUhBUzh6enFQV2RJa1F0SGVyM2hLM2V1cEZYZzZqczNLZDAxaF9Rcnl0d1VHVU9lRnJnYTFuMkI4dVR3TXBSaDBQQVNsb2lfVHp6am8wNDZFRGU2Q0E5LUE?oc=5",
       "source": "Crypto Briefing",
       "published": "2026-07-21T03:26:35+00:00",
-      "score": 3.71,
+      "score": 3.68,
       "tags": [
         "tension"
       ]
@@ -62,16 +62,16 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONFljbjUxYjBod0pyVXVDbUp4NzZuYTRhVURkMlBLaWV2ZWhmZXo3WUZBeWFvOWx5eUVSYzJyOVIwcUlZbUFaV3lRaEp3eXpHQ3VaZG9jbG1UV1BXMnMzQ1VoMXlORko3TFJIQnE5TnFsUDBrUTV4SUhkWVh3Y2QtcG41RFlhYl9HZW5iTkw5WVhHVUlGMEJiR1g0ZG1WcTBQNmhLTUdESjlnb1J5X0dXSG8waFRwd2hic0ViSGxR0gHDAUFVX3lxTFBjR0hnYk5ZWFhTUDhIQUNGZ3VvWmVoNlUtRUNITFBQSFlOYThnWVJQLV9LSWZMQkU1VGpjSW9nWG9zT1hOWHJzOUZZQW8ydWt4Nmh2VTdZdE5ZU0pac096N1RmaE93OS1UWkVMblJpLVVsMEdkSk5tSnZ5UU05cERKSmtZY3RiQXhaT1BDenNTTFRXWk12MHIyc0ZRSWVHOHgxdUNLYnViMTlzbjJpRDE5a21vOGl1cHl3MkJmcHhreXNDdw?oc=5",
       "source": "\u062a\u0633\u0646\u06cc\u0645",
       "published": "2026-07-18T08:37:42+00:00",
-      "score": 3.34,
+      "score": 3.29,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Trump says US will destroy a bridge or power plant for each Iranian attack in the Strait of Hormuz - American Press",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaC1IeDZJQnJFc0VVVkwzUHJQOFNjeS10V3NGSDQ5T0hWMUh3T1JQQ2xMdmxueWpVRXNIcHcxbTgtQV9JRUVvOEowS3lkVUhTaE0yX2VHUEFZak1wY1RaY0NIa2dXRnB1Ujl3Y0RZQ2JyUlVHVmQ0dzY5V3NLR1FJWEJKbkQ5dkdTc1hydi13ZG1nZnhQc3BUU1JSS0h4bHJ3M2d2NVJoZ20wVEVJLTBzWTZ0bnFvbmdxSmxQV2l6dmhBdVdkMFJMbzE4Q25GR3pyd1E?oc=5",
-      "source": "American Press",
-      "published": "2026-07-22T13:51:25+00:00",
+      "title": "Iran war: Trump threatens bridges over Hormuz Strait attacks - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX3AyU2ZoQ1Y5QzdRX0J3NllBUXJOblNlLUdkMTVkdTV6cEFLQ1YzbUNVbDJaR2h6UUZYSVV5Y0I4NWRrNC1zVmJSaFVkSjFvSHlsaEh3VmJqLWZZWVhlWXotb2tYOWZ4dTNxWlE5ZFhWekl2NWlVSC15LVdtNjcxNGtodmp0RGlHQVBmeVB0VDcxdTRsS2pOZENPYw?oc=5",
+      "source": "DW.com",
+      "published": "2026-07-22T17:04:54+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -81,17 +81,27 @@
       "title": "Trump says US will destroy a bridge or power plant for each Iranian attack in the Strait of Hormuz - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQVpqUm1CYlQ0VERmSXNKUmV4ZjVNQm5SVlh3cVhCUUtFeEd6OUZncTdzdVR0Nk95VDhPeDlDNjNnTE5ZWTl6YkRYVnZlbnVXZHRfRzdMWXpoclhNUHVKdlhDOFJFWWxoRXdYNnJCdzBwZHJRakJUMHJ6b2E5QkNreXBQMDdIWlh0eVBBbS1DZjRncW9zZzM3M1pPLXl2UlFmMnB1Um0zWGhRb1dTZll1U2dYU0ppSkhQN19FQXg1dUdrdlo4RGtpNlBmZjJiMGhKdmNR?oc=5",
       "source": "The Washington Post",
-      "published": "2026-07-22T13:27:03+00:00",
+      "published": "2026-07-22T16:27:03+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Trump warns of strikes to infrastructure if Iran targets ships in Hormuz Strait - The Hill",
+      "title": "Trump warns of strikes to infrastructure if Iran targets ships in Strait of Hormuz - The Hill",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc2NrclhEd2dlOS05alNUWkJQOS1wdWRuOTVtZDBVVHZhTUFDanNGNnA5MzdnZzU1MUdBbG96Y1VFMVl1Y1FYM1lBb1dVLWN4TVZxS3R2Y002dV9kc1l5eFZnMF9JSjhZSGJ2WExJLXJqdG12UFMxVFJpcmJvX2F1S09VWTRTcTVZQ1ZSVDRENlpPaWVkenpfcXE0Ykk3SmRUU2w40gGoAUFVX3lxTFB3SVBaZFo1aUp5NVBPUTUzZ29FV1I5cVRfeGppTkx4RlZOTkpEMC1lSGt5YzlwQUZsemQtMjA2Y1c4UUV6Z3N0Ri1DVXlrbEtXWGY3MHl1ZXV0RW9GOHFYTWR4VFF6c2ZjN0Rxd1BpbnpsOFpwODJPMzAxZElNVHloYTNCLUt0ZFgwMkx0UW1SYmhPd1NwN3ZIbG05S25oVGlNNjNHTHgwMw?oc=5",
       "source": "The Hill",
       "published": "2026-07-22T13:27:00+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Trump says US will destroy a bridge or power plant for each Iranian attack in the Strait of Hormuz - WWBT",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRzAxZy0xMEY2c3IwY3BvRkJQWVNmcklvUEVHNFJUSmxPc2JBWHZIOEhpbDloeHYzOTYwY0JNQ0c1R1lkQWQxV01FMkN6TjUzck5lYTU4Y2VVc1JraGFVUlJBeUJxZ2dxVWxGTXRZUThxRW8wZlRmUW9xSHM2amVLZDV6cDNqRTBOVk9GNTdYMlZySHA1R1FleG9ialhHcjQ4ME43U1VybW5EaTFVbkVHSzVPNzFfWE1pWDFrc0JST2HSAdQBQVVfeXFMTjRoOUVaRFZ1cEpwUS1UWnhsRkxnRTFBVWhsSU4xeURXWThMdGFDVU1oZXBodzZ4RXFCUjBnRGtlUk1obkdQYktTSkRSMEVVUVpaUnZ4VFAzXzBJeUlra1BGRmxnQ0ZxRFktdnNXZ2gwaGVpcVZ4QTVmU1hMbElvOTdZaHRvVUNNSERwck93aHA5Y3EtYmZpa0tubi1NYW1TSEU2V2hmazE5UHFFQk5iaGQyZWUyT1B6RDkxMlpyRjY2Ry12OTZ6aXJ5V0RZd05WSGN6cG0?oc=5",
+      "source": "WWBT",
+      "published": "2026-07-22T13:18:00+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -116,20 +126,10 @@
       "tags": [
         "tension"
       ]
-    },
-    {
-      "title": "US attacks Iran for 11th consecutive night - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVG9iYmRIcFFxcEZhd1dOd1VXdFlmRFozbWFuMWR1YVptOG03UUk2VkdhcEdLN29PUENuSUZMeDNNNVdHb1FEcGF6RVFPU1NabWx2QWRWcEFqQm5FQ2t4YUhlODAtOFo4dVhUUGZnZW1RNWRtUGVTNE5PTkZjTGNlbWJqejJCajV6VWl3NXV2SdIBlAFBVV95cUxOX1J5QUlCV1Y1aXAycjhJT3gtMFVQZDAtdE1JT0FpSlEtNlJzN2JfaTFCMDR6UGZMcEk0bVdFZ2VsejlhRlhiWnpsdVQ3WTVmOHZOSllmY192Z1VvSzgwWUlDOWY2MGhZbkF6Q2lhemFnRXU4dUNBdUFfdWNVc2dPVmhmckJDM1BIbVR2eVFrejQ2NWZF?oc=5",
-      "source": "Al Jazeera",
-      "published": "2026-07-22T09:16:51+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
     }
   ],
   "brent": {
-    "price": 93.47,
-    "change_pct": 2.7
+    "price": 94.04,
+    "change_pct": 3.33
   }
 }
