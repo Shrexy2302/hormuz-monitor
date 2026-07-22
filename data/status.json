@@ -1,10 +1,10 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 172.1,
+  "tension_index": 171.4,
   "closure_signals": 2,
-  "articles_scanned": 216,
-  "updated": "2026-07-22T00:14:06.823245+00:00",
+  "articles_scanned": 219,
+  "updated": "2026-07-22T03:55:56.298895+00:00",
   "headlines": [
     {
       "title": "Strait of Hormuz closed again, Iran says, as ships attacked - AOL.com",
@@ -22,7 +22,7 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUENUNzlRRzA0WEU1a0JwVmhWeExFMkxFSEZqcU4tSGhkR0hoWTdsZVdxVTlyUVQzeEtPM1pYMVFDNU11TDZhV1J3T1R3VDExZkV3ekhRRURubGR4Wm1NdFBtUm1aeG15ZU5tUFRydENOS0ljajQ1bzB5MWJNckRwbExCN0lxOUV5YlNZTmlZYW9IRkxiODd6WW13ak0xU1ZCSDhvSEp1SHVlQzdVUDA2QXBxb0RwUXhHT0F1UkFNNA?oc=5",
       "source": "Investing.com",
       "published": "2026-07-19T06:43:19+00:00",
-      "score": 6.15,
+      "score": 5.99,
       "tags": [
         "closure"
       ]
@@ -48,11 +48,21 @@
       ]
     },
     {
+      "title": "Oil Tankers Catch Fire in Mined Route South of Strait of Hormuz: IRGC - \u062a\u0633\u0646\u06cc\u0645",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONFljbjUxYjBod0pyVXVDbUp4NzZuYTRhVURkMlBLaWV2ZWhmZXo3WUZBeWFvOWx5eUVSYzJyOVIwcUlZbUFaV3lRaEp3eXpHQ3VaZG9jbG1UV1BXMnMzQ1VoMXlORko3TFJIQnE5TnFsUDBrUTV4SUhkWVh3Y2QtcG41RFlhYl9HZW5iTkw5WVhHVUlGMEJiR1g0ZG1WcTBQNmhLTUdESjlnb1J5X0dXSG8waFRwd2hic0ViSGxR0gHDAUFVX3lxTFBjR0hnYk5ZWFhTUDhIQUNGZ3VvWmVoNlUtRUNITFBQSFlOYThnWVJQLV9LSWZMQkU1VGpjSW9nWG9zT1hOWHJzOUZZQW8ydWt4Nmh2VTdZdE5ZU0pac096N1RmaE93OS1UWkVMblJpLVVsMEdkSk5tSnZ5UU05cERKSmtZY3RiQXhaT1BDenNTTFRXWk12MHIyc0ZRSWVHOHgxdUNLYnViMTlzbjJpRDE5a21vOGl1cHl3MkJmcHhreXNDdw?oc=5",
+      "source": "\u062a\u0633\u0646\u06cc\u0645",
+      "published": "2026-07-18T08:37:42+00:00",
+      "score": 3.76,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
       "title": "US launches new wave of strikes on Iran as Strait of Hormuz is blocked - Yahoo",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQlliYWE5aUpkUXoxUWswU2ZNX3VPcktyWlhQVkhmRnpKLXl2SUFkOGVSUElEeEd1YWhCRm1NZnBoVkJoNTNyZjEwYnVSUWhXbU1oRHF3Q1lmS21DM2JlMzV4R0t6aVdUTXRfdmgzZmFWWFZrYTlzS1FyNDhyMzV4M3kyVU0?oc=5",
       "source": "Yahoo",
       "published": "2026-07-15T18:11:19+00:00",
-      "score": 3.9,
+      "score": 3.63,
       "tags": [
         "closure",
         "tension"
@@ -63,27 +73,17 @@
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNckR0OF9WUjlkSy1vanhhWFcwbGd0OEhIYVFNZVBfMTZhUW1wNGZWY2xENW5uYVpXVndIUERoQ2plOFlyRUhxOGR1TWEzazd4UGo1VWpFczNJNXJmOHNRVEVkNVFYTUVLVXVqMTZKTGdIa2Q4N01PQUs5QmZ1YWZxT1FKZldOR1VuTEI0VlZ3Tm0zQmo4ZDU1eU5TbFMzNWk3OEN3eWM5V3pYc2lmN0E5Mld6NG9pbFdsRWxFRlZpbHM4R3B5WjdOeHJrOEYydUlyMGdfMUxocS1aQTFZ?oc=5",
       "source": "13WMAZ",
       "published": "2026-07-15T18:11:00+00:00",
-      "score": 3.9,
+      "score": 3.63,
       "tags": [
         "closure",
         "tension"
       ]
     },
     {
-      "title": "Oil Tankers Catch Fire in Mined Route South of Strait of Hormuz: IRGC - \u062a\u0633\u0646\u06cc\u0645",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONFljbjUxYjBod0pyVXVDbUp4NzZuYTRhVURkMlBLaWV2ZWhmZXo3WUZBeWFvOWx5eUVSYzJyOVIwcUlZbUFaV3lRaEp3eXpHQ3VaZG9jbG1UV1BXMnMzQ1VoMXlORko3TFJIQnE5TnFsUDBrUTV4SUhkWVh3Y2QtcG41RFlhYl9HZW5iTkw5WVhHVUlGMEJiR1g0ZG1WcTBQNmhLTUdESjlnb1J5X0dXSG8waFRwd2hic0ViSGxR0gHDAUFVX3lxTFBjR0hnYk5ZWFhTUDhIQUNGZ3VvWmVoNlUtRUNITFBQSFlOYThnWVJQLV9LSWZMQkU1VGpjSW9nWG9zT1hOWHJzOUZZQW8ydWt4Nmh2VTdZdE5ZU0pac096N1RmaE93OS1UWkVMblJpLVVsMEdkSk5tSnZ5UU05cERKSmtZY3RiQXhaT1BDenNTTFRXWk12MHIyc0ZRSWVHOHgxdUNLYnViMTlzbjJpRDE5a21vOGl1cHl3MkJmcHhreXNDdw?oc=5",
-      "source": "\u062a\u0633\u0646\u06cc\u0645",
-      "published": "2026-07-18T08:37:42+00:00",
-      "score": 3.88,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Another tanker attacked in Strait of Hormuz as U.S. strikes Iran for 10th consecutive night - The Tri-City Record",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdERnY3JJcFc2eENPS3VMWlcwZzJ4RVlaYnZVekxlbnluOER6LXV4c0ZrQmJaX1RtZkhmaTVYWWdaX05ka1N5eHBMbDFVMzRnMFd6OHpRekljUzgwbFdTNW95azQ0b2kxeXowTVNTRllZeDcxcnZUVVFhWFpKWEp6Mjl0LXRfdzRSYTRsSmhIRjRuUDUwaHJteExabVdOMzh3Z0MtLWx5T0k0d1ZIbFhkd0dibS16c25ndEF0bXVqT3JlZ0VGaXQ2Q1ZfaGg?oc=5",
-      "source": "The Tri-City Record",
-      "published": "2026-07-21T15:15:37+00:00",
+      "title": "Attacks between US and Iran across Mideast overshadow efforts to keep diplomacy alive - Union-Bulletin",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNbEJjTmNXRDcwa244YVFLQ2dWSlB3UE9qX0VSUUFtcUh2WmlKU2hxTER0NkFleGt2eF9VNW52V3g3RHo1OFU1c3hrZkRTdXNFMnFhbmxfdnJZUWFNcm9meEUyamZlSHB5cWNrMUY5eUhwRDJNcUt6WkdBVTNyVGIzQjEzRUZoTEU4SFROQ0ZPal9FVld6VVhkNXY5ZkxnRklpRUwxU3lEOHJwSHJXT2R2U0pJQmdOQ1hCakhERDRQQWR6U3dNYWlNZldYYnFGbmRzMlZSNmhoMXBrTzhyN3FvbkxpYVhXdWZxMUthdWczRlZlYjc1TC0zZjFWaUFxdERGVGtLeDZlMA?oc=5",
+      "source": "Union-Bulletin",
+      "published": "2026-07-21T16:00:51+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -110,16 +110,6 @@
       ]
     },
     {
-      "title": "Fresh Strait of Hormuz attacks deepen global oil security fears, says IEA chief - Upstream Online",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTXFON3FGLW1qeUdnZExqVVE0N1NxRzBNeGJHOVFfSXpDc3B3Y29KSXBxWF9zYzZpU2F1ZVdhNnMzR2FjdXlSbHhwVUllNFlnTGYwMk54WEZqYjZYczh3MVdIWTA0RnU5MHBORWNvV0Z4T3RfT01YeVRKMEw0dFlMajBFZmgwWndNb2U0bTRBQUFjYWlrb1dKSGhIeWY1U0xQaFBsVDhiYTRzcHVhN1dJdzFTZEtPSWxNQ0huYVlXS0hlZG1rdVFzSXdETVg1c05wOTJn?oc=5",
-      "source": "Upstream Online",
-      "published": "2026-07-21T12:22:09+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
       "title": "Iran and US persist in their attacks, as Pakistan tries to keep diplomacy alive - Audacy",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdUt2MXM3Zm5wNEhlY3I5MjQzZjhCX3ZjNzhCZWZhX1pHRTc0MzdRQXJRbTNld3BzWDYyclVBb2JGZlVxaDFtT1VTLUpXQkJQbjVsZ0txekZ4WG9kd1B3OU9lM1RFbzFvNFo1RWlSaVRjTHd3amtqaE1HZHJRb1VjZjBpSWFkVGZaXzY2c0VmYktSVmxJY1E5OUNldVJ2NGtRY1NCZERaMUZfRlltLTNpS0ZOT0k?oc=5",
       "source": "Audacy",
@@ -128,10 +118,20 @@
       "tags": [
         "tension"
       ]
+    },
+    {
+      "title": "Hormuz tankers on fire, as US, Iran continue attacks: What\u2019s the latest? - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcE1qSkpPVGFzd0I0UUlwaTM3TnVUT3gtZF9XMDBUTlFsWU1wNGJRMEMwNFYteVdqd1c5dFVTdi1UOGQ0NjlpLTBEbFRVQTJlc2FUbHBsNmxzX3ljN25WYnZrS0M5OHU2Z1dGWTZFdDgtVnYwcC1jWWxKcTVWNDVKaDdxaE5wLV8yWW9tY2JRdndfeGw0T1FjS1hMa2d3ajV0LUtiQVBtR1d5Y2ZQ0gGyAUFVX3lxTE5TRW5aRGItcGZRZ0E0MDF3VEpBWE93Y0dvaEc2cDlCTGRzTGlJeExrY0k2MVNPRmtZSVlud1JFcDlYMWp2R1JrakV2Y05xZ0ZZZnJpZGVYQUszM0tZSEtjZklESjNXOEVHN1ZSYjlfX21LQXFuSV9MODJEUHpucGd6aXdnbmQxenlmZ2FoUTU4RGxnUzYwMzFFUjVyQlhiMTA4S3FOQnVVMGYzeVpZWXh3eWc?oc=5",
+      "source": "Al Jazeera",
+      "published": "2026-07-21T09:08:24+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
     }
   ],
   "brent": {
-    "price": 91.54,
-    "change_pct": 0.58
+    "price": 92.05,
+    "change_pct": 1.14
   }
 }
