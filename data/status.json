@@ -1,17 +1,17 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 180.5,
+  "tension_index": 189.5,
   "closure_signals": 2,
-  "articles_scanned": 224,
-  "updated": "2026-07-22T21:59:55.658386+00:00",
+  "articles_scanned": 225,
+  "updated": "2026-07-22T23:09:42.158507+00:00",
   "headlines": [
     {
       "title": "Strait of Hormuz closed again, Iran says, as ships attacked - AOL.com",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS3FqODVBWlYwWFBySFNFb0xHYlVYVUhoU1VwVmZXQ1NEN3BWNGYwclZEOTZpMktwN0NzMVJGV210Yi10YjRPU3RiTVpOOG9VeHVCVHNQcHM3M21jTTBablpVYWhnUElxeHkwdDJEUjFsVm10bVEwMDl0QWJNX3VpMQ?oc=5",
       "source": "AOL.com",
       "published": "2026-07-21T08:04:12+00:00",
-      "score": 11.99,
+      "score": 11.91,
       "tags": [
         "closure",
         "tension"
@@ -22,7 +22,7 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUENUNzlRRzA0WEU1a0JwVmhWeExFMkxFSEZqcU4tSGhkR0hoWTdsZVdxVTlyUVQzeEtPM1pYMVFDNU11TDZhV1J3T1R3VDExZkV3ekhRRURubGR4Wm1NdFBtUm1aeG15ZU5tUFRydENOS0ljajQ1bzB5MWJNckRwbExCN0lxOUV5YlNZTmlZYW9IRkxiODd6WW13ak0xU1ZCSDhvSEp1SHVlQzdVUDA2QXBxb0RwUXhHT0F1UkFNNA?oc=5",
       "source": "Investing.com",
       "published": "2026-07-19T06:43:19+00:00",
-      "score": 5.19,
+      "score": 5.14,
       "tags": [
         "closure"
       ]
@@ -32,7 +32,7 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnRDJXWlBrN1BhSEtYRGV1ZlJocWtYVzFNMlNuU2w0N2VhZHdOQ2dONy1EUGQ2b2IyNVhrUi0xY0I4Y0VuUU1OanhHODVwNWZlY1ZvblVjTVZCdG8?oc=5",
       "source": "Fox Business",
       "published": "2026-07-21T14:03:05+00:00",
-      "score": 3.82,
+      "score": 3.8,
       "tags": [
         "tension"
       ]
@@ -42,7 +42,7 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1JNZDZ2TWF5SU1wQWtQMGFLY1lXbFA5anR4Z19EUkdlZ0lIbHRTT2tyZ2Z0RUxxUFdma1IwUDc4d1BSMVJVTFViclVuUXROQlhQQlhXLXVON2RLR3ltZ184VHYzYmRwcUxVaU9PR3h1XzZzUV9pU0s5N3BvRHBQQmZycnVmSkJUSjVuTmEtSFgtRGJn?oc=5",
       "source": "Crypto Briefing",
       "published": "2026-07-21T09:47:54+00:00",
-      "score": 3.73,
+      "score": 3.7,
       "tags": [
         "tension"
       ]
@@ -52,7 +52,7 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTmVGNEJoa0hjMlhsM3UwbG1HaHdhdE9OODMwZnU2cVc1RnF0MU1fRDJ0UkVDVW1QbXhwWGdGSUl1bXc0NUhBUzh6enFQV2RJa1F0SGVyM2hLM2V1cEZYZzZqczNLZDAxaF9Rcnl0d1VHVU9lRnJnYTFuMkI4dVR3TXBSaDBQQVNsb2lfVHp6am8wNDZFRGU2Q0E5LUE?oc=5",
       "source": "Crypto Briefing",
       "published": "2026-07-21T03:26:35+00:00",
-      "score": 3.59,
+      "score": 3.56,
       "tags": [
         "tension"
       ]
@@ -62,9 +62,29 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONFljbjUxYjBod0pyVXVDbUp4NzZuYTRhVURkMlBLaWV2ZWhmZXo3WUZBeWFvOWx5eUVSYzJyOVIwcUlZbUFaV3lRaEp3eXpHQ3VaZG9jbG1UV1BXMnMzQ1VoMXlORko3TFJIQnE5TnFsUDBrUTV4SUhkWVh3Y2QtcG41RFlhYl9HZW5iTkw5WVhHVUlGMEJiR1g0ZG1WcTBQNmhLTUdESjlnb1J5X0dXSG8waFRwd2hic0ViSGxR0gHDAUFVX3lxTFBjR0hnYk5ZWFhTUDhIQUNGZ3VvWmVoNlUtRUNITFBQSFlOYThnWVJQLV9LSWZMQkU1VGpjSW9nWG9zT1hOWHJzOUZZQW8ydWt4Nmh2VTdZdE5ZU0pac096N1RmaE93OS1UWkVMblJpLVVsMEdkSk5tSnZ5UU05cERKSmtZY3RiQXhaT1BDenNTTFRXWk12MHIyc0ZRSWVHOHgxdUNLYnViMTlzbjJpRDE5a21vOGl1cHl3MkJmcHhreXNDdw?oc=5",
       "source": "\u062a\u0633\u0646\u06cc\u0645",
       "published": "2026-07-18T08:37:42+00:00",
-      "score": 3.15,
+      "score": 3.12,
       "tags": [
         "closure"
+      ]
+    },
+    {
+      "title": "US military says it\u2019s carrying out strikes on Iran as both sides threaten civilian infrastructure - AP News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVkxVRHNEai1jeXMzeVdPZVZqZmJvUjBqdTY5ZVZyWEp5bC0yWFJTWldhSlhlbFhoRmEwcFBnNkk0UWdDdHZMWFRXMk5acElxZEFSQ0otZzFQRElSMXdER1NlT0ptZUxVbTRPT3dFM25rOGtsb08yLUdXRll4SkhUZk9QejZ2RWZrb1hLcmhBYktXeEhrTTZIR3FTSTN6RUk?oc=5",
+      "source": "AP News",
+      "published": "2026-07-22T23:05:00+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Trump threatens Iranian infrastructure over Strait of Hormuz attacks - France 24",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRVdNZEhHYlhkelJVRFpMdWNrRlpFemZFTEJaVVVTaTVoV0FUamRxRjNqX3prZkJQYVI0Um93bk5FSGp6S0llQ2s1MlJmWDdVWENUUVdQWER6Q0RBaG0zYmJtQWdWTHV1NHdGYUNYV1pkVzRBZ2RaSk1SUWxvZDdXUFlEZVY5R3gzYkFlc3ZzYVQwRHIxanlzR2V3b3ctTk9fT212Q3Z6SGx5eUtQSjgzdU9IaGlucE5t?oc=5",
+      "source": "France 24",
+      "published": "2026-07-22T21:23:37+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
       ]
     },
     {
@@ -72,6 +92,16 @@
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQVpqUm1CYlQ0VERmSXNKUmV4ZjVNQm5SVlh3cVhCUUtFeEd6OUZncTdzdVR0Nk95VDhPeDlDNjNnTE5ZWTl6YkRYVnZlbnVXZHRfRzdMWXpoclhNUHVKdlhDOFJFWWxoRXdYNnJCdzBwZHJRakJUMHJ6b2E5QkNreXBQMDdIWlh0eVBBbS1DZjRncW9zZzM3M1pPLXl2UlFmMnB1Um0zWGhRb1dTZll1U2dYU0ppSkhQN19FQXg1dUdrdlo4RGtpNlBmZjJiMGhKdmNR?oc=5",
       "source": "The Washington Post",
       "published": "2026-07-22T20:57:03+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Trump says US will destroy a bridge or power plant for each Iranian attack in the Strait of Hormuz - The Press Democrat",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWHE2MDBYanoxdGxzejVfX3JFanlvaVV4QnA4ZVBldmlvOXJGZkNYYm5kUDBzN1FqWVY3S3ZTMFlnT2FQMzBQanlZaXp2V0g3UU13UFNMMHBhRmZkYWw0SmVRMjZSMEhqbTM5a3gyVlVTMlQzdFNRM1RMQ2N4dm0yZzJJS2R1Tkp2WUJ6TmJQajZQY3Y0UC1WRFNn?oc=5",
+      "source": "The Press Democrat",
+      "published": "2026-07-22T20:17:51+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -88,16 +118,6 @@
       ]
     },
     {
-      "title": "Trump says US will destroy a bridge or power plant for each Iranian attack in the Strait of Hormuz - AP News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVkxVRHNEai1jeXMzeVdPZVZqZmJvUjBqdTY5ZVZyWEp5bC0yWFJTWldhSlhlbFhoRmEwcFBnNkk0UWdDdHZMWFRXMk5acElxZEFSQ0otZzFQRElSMXdER1NlT0ptZUxVbTRPT3dFM25rOGtsb08yLUdXRll4SkhUZk9QejZ2RWZrb1hLcmhBYktXeEhrTTZIR3FTSTN6RUk?oc=5",
-      "source": "AP News",
-      "published": "2026-07-22T20:06:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
       "title": "Trump says U.S. will destroy a bridge or power plant for each Iranian attack in the Strait of Hormuz - PBS",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVGpBZ1VUa001aFE1aXZXeTcwTVlldHMyeFFiWXZ6a0hxRUR1VXZqUXhtMTRob3RrZzFKYnV2UzlqMHRmcmxsdzdjNnFZQ1hsV21yTVZSZ001NW04Ujh1RHBIa09NM0tvdlNaSnJLVHJjNUh4SEloa2o4aWQ3SWNlVTZBZGhWZVh2eXdLUkVBRkU4VDRtdHR5ZzI3MFNhT21VSDN0WVZ3T1A4WUhQMGo4ck9Fc0ZwOVBZWUJrRktHMVJ5OFVpVFR6RFZiQ2pEX0XSAdQBQVVfeXFMUG91b2tqa3pPQndEOHY2RGVObU1qT3dxQjc1QU1OX2lnbEctYktUUE90Szc0SFpVdHdGNzA3My1hOTlvdWJ2dUhSalE5NFlST1FwSkR6NXNvQUtsV3pFd1NkNnNTRWxDYXFHQ0kwWHhXZ1pXMnBnU1hnT2FpazN1NkFkdEJLcUtTdkJNTVh5S2d6VXRsXzdyajRSWjIwVzZEakQzRWxpUWlVbW9tQ0FCekhPUmZiT0trTUZLS0c2ekE3LVBsSnY4bU10WVVxUkZXNXlWWTg?oc=5",
       "source": "PBS",
@@ -106,30 +126,10 @@
       "tags": [
         "tension"
       ]
-    },
-    {
-      "title": "Iran Apparently Seizes Greek Billionaire\u2019s Shipping Tanker In Strait Of Hormuz, Report Says - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNU1NEaUpVRlR0WDkzVDB2Qy1vUXloeHpDa2N4REltbHpqcXB3dk9fUFZTbUdBc2MzTTd2X3hZT3NVT05Jckk4QXJJS1NRMVI3NDZ2LXNKb1p4bGtpOEQ5R2xXXzllOXhmM0tzc0FXZ29pc2ZaZS04N2NrUzd4TktzNWxPWUhaR1o4Vy10Ym5HVkFVeU0yRU5CLVdBOVJmWElmN3cwYnIwQngtUEwxa1pNNVZ3SzJJY1FhcXlyR251d1F1T3NvM0RmeVk4N0xWeEVqOFNxVGZ2TkdMTXc?oc=5",
-      "source": "Forbes",
-      "published": "2026-07-22T19:37:12+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "U.S. will destroy Iranian bridges for each attack in Strait of Hormuz, Trump says - MS NOW",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HaHJ4SEtXQ05vUTdFRVRzMlRBdnR0QmRRT1l6OWloRFc4cENyZF8yc25jT29Yb1lIYTZlSUNMUVJJOThQTk5sZkFiaUZJY1hYUUhpa1VyU0RKdGpXSUN5MGQ0YW14RjFKbDFRbHJLTkQ?oc=5",
-      "source": "MS NOW",
-      "published": "2026-07-22T19:12:48+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
     }
   ],
   "brent": {
-    "price": 93.88,
-    "change_pct": -0.2
+    "price": 95.49,
+    "change_pct": 1.51
   }
 }
