@@ -1,10 +1,10 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 179.6,
+  "tension_index": 176.0,
   "closure_signals": 2,
-  "articles_scanned": 215,
-  "updated": "2026-07-23T20:08:44.011692+00:00",
+  "articles_scanned": 214,
+  "updated": "2026-07-23T21:33:37.770134+00:00",
   "headlines": [
     {
       "title": "Houthis attack tankers in Red Sea, Iran blocks Strait of Hormuz, oil prices soar - The Jerusalem Post",
@@ -22,7 +22,7 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS3FqODVBWlYwWFBySFNFb0xHYlVYVUhoU1VwVmZXQ1NEN3BWNGYwclZEOTZpMktwN0NzMVJGV210Yi10YjRPU3RiTVpOOG9VeHVCVHNQcHM3M21jTTBablpVYWhnUElxeHkwdDJEUjFsVm10bVEwMDl0QWJNX3VpMQ?oc=5",
       "source": "AOL.com",
       "published": "2026-07-20T15:48:04+00:00",
-      "score": 9.22,
+      "score": 9.12,
       "tags": [
         "closure",
         "tension"
@@ -33,19 +33,9 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUENUNzlRRzA0WEU1a0JwVmhWeExFMkxFSEZqcU4tSGhkR0hoWTdsZVdxVTlyUVQzeEtPM1pYMVFDNU11TDZhV1J3T1R3VDExZkV3ekhRRURubGR4Wm1NdFBtUm1aeG15ZU5tUFRydENOS0ljajQ1bzB5MWJNckRwbExCN0lxOUV5YlNZTmlZYW9IRkxiODd6WW13ak0xU1ZCSDhvSEp1SHVlQzdVUDA2QXBxb0RwUXhHT0F1UkFNNA?oc=5",
       "source": "Investing.com",
       "published": "2026-07-19T06:43:19+00:00",
-      "score": 4.2,
+      "score": 4.14,
       "tags": [
         "closure"
-      ]
-    },
-    {
-      "title": "Houthi attacks raise fears of wider Middle East conflict and more global economic damage - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oVlRJbjJ3d1BLRjJGR2hrclg2ckp6YVZ3Z25oa3dScWVfcTAxN0YtRi1EZE9yck1yeGp4X2VxRldBeE9wSGQ2SThfSWs0MzdvUmZ5ZEFQX1hUUQ?oc=5",
-      "source": "BBC",
-      "published": "2026-07-23T17:06:08+00:00",
-      "score": 4.0,
-      "tags": [
-        "tension"
       ]
     },
     {
@@ -63,7 +53,7 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnRDJXWlBrN1BhSEtYRGV1ZlJocWtYVzFNMlNuU2w0N2VhZHdOQ2dONy1EUGQ2b2IyNVhrUi0xY0I4Y0VuUU1OanhHODVwNWZlY1ZvblVjTVZCdG8?oc=5",
       "source": "Fox Business",
       "published": "2026-07-21T14:03:05+00:00",
-      "score": 3.33,
+      "score": 3.3,
       "tags": [
         "tension"
       ]
@@ -73,7 +63,7 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1JNZDZ2TWF5SU1wQWtQMGFLY1lXbFA5anR4Z19EUkdlZ0lIbHRTT2tyZ2Z0RUxxUFdma1IwUDc4d1BSMVJVTFViclVuUXROQlhQQlhXLXVON2RLR3ltZ184VHYzYmRwcUxVaU9PR3h1XzZzUV9pU0s5N3BvRHBQQmZycnVmSkJUSjVuTmEtSFgtRGJn?oc=5",
       "source": "Crypto Briefing",
       "published": "2026-07-21T09:47:54+00:00",
-      "score": 3.24,
+      "score": 3.21,
       "tags": [
         "tension"
       ]
@@ -127,10 +117,20 @@
       "tags": [
         "tension"
       ]
+    },
+    {
+      "title": "Iran warns US threats could trigger regional attacks, says Strait of Hormuz remains closed - Latest news from Azerbaijan",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ2JMUERhbDhDVVF2dWVlMl8zWjFteDdhdnpDTHZ3NmtKa0stVG42RUVMVXpKTmZkMTBkZVA4dVYxWkYtbmtFNnJPak1CV2NsTHhUUUNxZjhKN3diM2JFa2d4VzVoQTNaVER6U2x5cHlfdjI4RnZycVNYZW12a2VlWmRVVTlrd253YkdnaUtESGYtbGJNRGgxSVhhNjVyOElDZUxER3d3eGJXNV8xSE0w?oc=5",
+      "source": "Latest news from Azerbaijan",
+      "published": "2026-07-23T06:28:44+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
     }
   ],
   "brent": {
-    "price": 99.81,
-    "change_pct": 6.1
+    "price": 100.55,
+    "change_pct": 6.89
   }
 }
