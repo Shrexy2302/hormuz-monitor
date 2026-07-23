@@ -1,10 +1,10 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 190.3,
+  "tension_index": 183.7,
   "closure_signals": 2,
   "articles_scanned": 218,
-  "updated": "2026-07-23T17:12:12.413913+00:00",
+  "updated": "2026-07-23T18:43:17.877670+00:00",
   "headlines": [
     {
       "title": "Houthis attack tankers in Red Sea, Iran blocks Strait of Hormuz, oil prices soar - The Jerusalem Post",
@@ -22,7 +22,7 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS3FqODVBWlYwWFBySFNFb0xHYlVYVUhoU1VwVmZXQ1NEN3BWNGYwclZEOTZpMktwN0NzMVJGV210Yi10YjRPU3RiTVpOOG9VeHVCVHNQcHM3M21jTTBablpVYWhnUElxeHkwdDJEUjFsVm10bVEwMDl0QWJNX3VpMQ?oc=5",
       "source": "AOL.com",
       "published": "2026-07-20T15:48:04+00:00",
-      "score": 9.43,
+      "score": 9.32,
       "tags": [
         "closure",
         "tension"
@@ -33,7 +33,7 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUENUNzlRRzA0WEU1a0JwVmhWeExFMkxFSEZqcU4tSGhkR0hoWTdsZVdxVTlyUVQzeEtPM1pYMVFDNU11TDZhV1J3T1R3VDExZkV3ekhRRURubGR4Wm1NdFBtUm1aeG15ZU5tUFRydENOS0ljajQ1bzB5MWJNckRwbExCN0lxOUV5YlNZTmlZYW9IRkxiODd6WW13ak0xU1ZCSDhvSEp1SHVlQzdVUDA2QXBxb0RwUXhHT0F1UkFNNA?oc=5",
       "source": "Investing.com",
       "published": "2026-07-19T06:43:19+00:00",
-      "score": 4.33,
+      "score": 4.27,
       "tags": [
         "closure"
       ]
@@ -53,7 +53,7 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnRDJXWlBrN1BhSEtYRGV1ZlJocWtYVzFNMlNuU2w0N2VhZHdOQ2dONy1EUGQ2b2IyNVhrUi0xY0I4Y0VuUU1OanhHODVwNWZlY1ZvblVjTVZCdG8?oc=5",
       "source": "Fox Business",
       "published": "2026-07-21T14:03:05+00:00",
-      "score": 3.4,
+      "score": 3.36,
       "tags": [
         "tension"
       ]
@@ -63,26 +63,16 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1JNZDZ2TWF5SU1wQWtQMGFLY1lXbFA5anR4Z19EUkdlZ0lIbHRTT2tyZ2Z0RUxxUFdma1IwUDc4d1BSMVJVTFViclVuUXROQlhQQlhXLXVON2RLR3ltZ184VHYzYmRwcUxVaU9PR3h1XzZzUV9pU0s5N3BvRHBQQmZycnVmSkJUSjVuTmEtSFgtRGJn?oc=5",
       "source": "Crypto Briefing",
       "published": "2026-07-21T09:47:54+00:00",
-      "score": 3.3,
+      "score": 3.27,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Tanker attacked in Strait of Hormuz amid US-Iran military escalation - Crypto Briefing",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTmVGNEJoa0hjMlhsM3UwbG1HaHdhdE9OODMwZnU2cVc1RnF0MU1fRDJ0UkVDVW1QbXhwWGdGSUl1bXc0NUhBUzh6enFQV2RJa1F0SGVyM2hLM2V1cEZYZzZqczNLZDAxaF9Rcnl0d1VHVU9lRnJnYTFuMkI4dVR3TXBSaDBQQVNsb2lfVHp6am8wNDZFRGU2Q0E5LUE?oc=5",
-      "source": "Crypto Briefing",
-      "published": "2026-07-21T03:26:35+00:00",
-      "score": 3.16,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Oil tankers attacked as Iran threatens to turn second trade route into a \u2018Gate of Tears\u2019 - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRkJKVWFoWEl3NG02VG5ZNFBDNl9BdDZ4YnNKVVpzMkhUdTItWUJpMFJkQ2FiOV9Rd0Z3SVozNVYxbnItZnRtT1JIRS0zVmN6X0UtSjVvanEtMEFNTFNaNVJkS0NOcXNJb2o1bW51ZG5LOE5wNVB1bk41S1lqZXYtcV9uLWZhLXkwVW5icEFwdXJmbUp2TGpJNXRvZ1ZQODdlQUY5bUtidnBiQVFuVjdRUQ?oc=5",
-      "source": "NBC News",
-      "published": "2026-07-23T16:33:46+00:00",
+      "title": "US President Donald Trump warned of striking Iranian infrastructure in response to attacks on shipping in the Strait of Hormuz, as Tehran reimposed its blockade and fired on vessels. I via ANC 24/7 Full story link in the comments section. - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMlJFQUVHS2gxMzJLSnRwVGFId0tNWGRrbHRfcEpGU21LU1lQOFBXTURhaUtwOEo1NFg0aUc4QmM5ZWN1NXF0RjdUVzBMWDZlRmdWQTR1VUNhZGEzbi11cmtzaXhBcHVqWUktcEpKZnIwQXh6bXAyRUR1al9WN1p1VUE2NkN3VFFBb0p6YWVJRTI5Y3dWNHljSXEtcVMzLUVYakotSlhaOFBEdE1DSDdrRHdsSGtTYkpEakNKT01jX0hfYml2VUlIXy1WZ1U3ZWZHME9fdndYVQ?oc=5",
+      "source": "facebook.com",
+      "published": "2026-07-23T17:15:00+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -92,7 +82,17 @@
       "title": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NYkF5b3JJS0stVWZxYS05X2tzQm8yNDFIUnktWjlmYUg2MFVfT3dlZEVhX2t1YkpGQTNEVUQ0OU9vUXRsc2k0eENXUUJuOFU0Z1pQUEhWenlwZw?oc=5",
       "source": "BBC",
-      "published": "2026-07-23T14:18:13+00:00",
+      "published": "2026-07-23T16:50:59+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Oil tankers attacked as Iran threatens to turn second trade route into a \u2018Gate of Tears\u2019 - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRkJKVWFoWEl3NG02VG5ZNFBDNl9BdDZ4YnNKVVpzMkhUdTItWUJpMFJkQ2FiOV9Rd0Z3SVozNVYxbnItZnRtT1JIRS0zVmN6X0UtSjVvanEtMEFNTFNaNVJkS0NOcXNJb2o1bW51ZG5LOE5wNVB1bk41S1lqZXYtcV9uLWZhLXkwVW5icEFwdXJmbUp2TGpJNXRvZ1ZQODdlQUY5bUtidnBiQVFuVjdRUQ?oc=5",
+      "source": "NBC News",
+      "published": "2026-07-23T16:33:46+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -109,6 +109,16 @@
       ]
     },
     {
+      "title": "Iran \u2018seizes\u2019 damaged Dynacom tanker hit by fire in Strait of Hormuz - TradeWinds News",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcno4cGxHcU9BNldVRXM3aThfOERZVHkxeXRzSUNJRUtvVVJsdHJfczVjRWh1LVRvWGhpWkRYU19BUTN3T2NhT2drRTZTazhIN1pYYURZcXQ0a3BtcDVfXzBURGdXMDRTTUlwVHVDVC15akhIVUxJTTRWWlZTcVJlclVlTVVFemdyRmRXY3BTY3FwdEwwNFlybFREcDBCdk9kRHdUTDV1VWUteWpnZnRUM3JzWHNjYkRL?oc=5",
+      "source": "TradeWinds News",
+      "published": "2026-07-23T07:36:20+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
       "title": "Iran warns US threats could trigger regional attacks, says Strait of Hormuz remains closed - Latest news from Azerbaijan",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ2JMUERhbDhDVVF2dWVlMl8zWjFteDdhdnpDTHZ3NmtKa0stVG42RUVMVXpKTmZkMTBkZVA4dVYxWkYtbmtFNnJPak1CV2NsTHhUUUNxZjhKN3diM2JFa2d4VzVoQTNaVER6U2x5cHlfdjI4RnZycVNYZW12a2VlWmRVVTlrd253YkdnaUtESGYtbGJNRGgxSVhhNjVyOElDZUxER3d3eGJXNV8xSE0w?oc=5",
       "source": "Latest news from Azerbaijan",
@@ -117,20 +127,10 @@
       "tags": [
         "tension"
       ]
-    },
-    {
-      "title": "Iran claims to have struck US Patriot missile system in Kuwait - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01Y0NmUjVIbFdULW5sU2ZKanAzaDU1eFJSQ1ByYnVRV0lIRlpXdC1GQlpKakExWUhLNU9TWG1HLU5FZUhXSVg3R2xwZWlEQXZKWFozdi1GNk5PdktlVVQ4NUZIeVlCWkoyQ0E?oc=5",
-      "source": "The Jerusalem Post",
-      "published": "2026-07-23T05:54:37+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
     }
   ],
   "brent": {
-    "price": 100.88,
-    "change_pct": 7.24
+    "price": 100.81,
+    "change_pct": 7.16
   }
 }
