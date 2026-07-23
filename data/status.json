@@ -1,17 +1,17 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 189.5,
+  "tension_index": 183.1,
   "closure_signals": 2,
-  "articles_scanned": 225,
-  "updated": "2026-07-22T23:09:42.158507+00:00",
+  "articles_scanned": 223,
+  "updated": "2026-07-23T00:58:41.431224+00:00",
   "headlines": [
     {
       "title": "Strait of Hormuz closed again, Iran says, as ships attacked - AOL.com",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS3FqODVBWlYwWFBySFNFb0xHYlVYVUhoU1VwVmZXQ1NEN3BWNGYwclZEOTZpMktwN0NzMVJGV210Yi10YjRPU3RiTVpOOG9VeHVCVHNQcHM3M21jTTBablpVYWhnUElxeHkwdDJEUjFsVm10bVEwMDl0QWJNX3VpMQ?oc=5",
       "source": "AOL.com",
-      "published": "2026-07-21T08:04:12+00:00",
-      "score": 11.91,
+      "published": "2026-07-20T15:48:04+00:00",
+      "score": 10.6,
       "tags": [
         "closure",
         "tension"
@@ -22,9 +22,19 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUENUNzlRRzA0WEU1a0JwVmhWeExFMkxFSEZqcU4tSGhkR0hoWTdsZVdxVTlyUVQzeEtPM1pYMVFDNU11TDZhV1J3T1R3VDExZkV3ekhRRURubGR4Wm1NdFBtUm1aeG15ZU5tUFRydENOS0ljajQ1bzB5MWJNckRwbExCN0lxOUV5YlNZTmlZYW9IRkxiODd6WW13ak0xU1ZCSDhvSEp1SHVlQzdVUDA2QXBxb0RwUXhHT0F1UkFNNA?oc=5",
       "source": "Investing.com",
       "published": "2026-07-19T06:43:19+00:00",
-      "score": 5.14,
+      "score": 5.06,
       "tags": [
         "closure"
+      ]
+    },
+    {
+      "title": "Iran seizes Greek tanker near Strait of Hormuz amid regional tensions - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVDdQcng3T0ZQTU1Ia3haYlNaNXI1NUZFY1NNZU9ycFozeTl1ZUQ1ZmxaTV9pUEFsdUx2aFFoTXA2Sk8tUFVUbG9iOG5xNEFneG9mcEtKVTgwMV9pbUsyd3FPekY4N3JERHFYS2NCQnN6SGhNQWxmbDZVQi0xbml4OGRYcDBDeTJtaW9nTG05bHo2djk3QUhRTFNKM1Mtdw?oc=5",
+      "source": "Crypto Briefing",
+      "published": "2026-07-22T22:15:21+00:00",
+      "score": 4.0,
+      "tags": [
+        "tension"
       ]
     },
     {
@@ -32,7 +42,7 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnRDJXWlBrN1BhSEtYRGV1ZlJocWtYVzFNMlNuU2w0N2VhZHdOQ2dONy1EUGQ2b2IyNVhrUi0xY0I4Y0VuUU1OanhHODVwNWZlY1ZvblVjTVZCdG8?oc=5",
       "source": "Fox Business",
       "published": "2026-07-21T14:03:05+00:00",
-      "score": 3.8,
+      "score": 3.76,
       "tags": [
         "tension"
       ]
@@ -42,7 +52,7 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1JNZDZ2TWF5SU1wQWtQMGFLY1lXbFA5anR4Z19EUkdlZ0lIbHRTT2tyZ2Z0RUxxUFdma1IwUDc4d1BSMVJVTFViclVuUXROQlhQQlhXLXVON2RLR3ltZ184VHYzYmRwcUxVaU9PR3h1XzZzUV9pU0s5N3BvRHBQQmZycnVmSkJUSjVuTmEtSFgtRGJn?oc=5",
       "source": "Crypto Briefing",
       "published": "2026-07-21T09:47:54+00:00",
-      "score": 3.7,
+      "score": 3.66,
       "tags": [
         "tension"
       ]
@@ -52,7 +62,7 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTmVGNEJoa0hjMlhsM3UwbG1HaHdhdE9OODMwZnU2cVc1RnF0MU1fRDJ0UkVDVW1QbXhwWGdGSUl1bXc0NUhBUzh6enFQV2RJa1F0SGVyM2hLM2V1cEZYZzZqczNLZDAxaF9Rcnl0d1VHVU9lRnJnYTFuMkI4dVR3TXBSaDBQQVNsb2lfVHp6am8wNDZFRGU2Q0E5LUE?oc=5",
       "source": "Crypto Briefing",
       "published": "2026-07-21T03:26:35+00:00",
-      "score": 3.56,
+      "score": 3.52,
       "tags": [
         "tension"
       ]
@@ -62,16 +72,26 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONFljbjUxYjBod0pyVXVDbUp4NzZuYTRhVURkMlBLaWV2ZWhmZXo3WUZBeWFvOWx5eUVSYzJyOVIwcUlZbUFaV3lRaEp3eXpHQ3VaZG9jbG1UV1BXMnMzQ1VoMXlORko3TFJIQnE5TnFsUDBrUTV4SUhkWVh3Y2QtcG41RFlhYl9HZW5iTkw5WVhHVUlGMEJiR1g0ZG1WcTBQNmhLTUdESjlnb1J5X0dXSG8waFRwd2hic0ViSGxR0gHDAUFVX3lxTFBjR0hnYk5ZWFhTUDhIQUNGZ3VvWmVoNlUtRUNITFBQSFlOYThnWVJQLV9LSWZMQkU1VGpjSW9nWG9zT1hOWHJzOUZZQW8ydWt4Nmh2VTdZdE5ZU0pac096N1RmaE93OS1UWkVMblJpLVVsMEdkSk5tSnZ5UU05cERKSmtZY3RiQXhaT1BDenNTTFRXWk12MHIyc0ZRSWVHOHgxdUNLYnViMTlzbjJpRDE5a21vOGl1cHl3MkJmcHhreXNDdw?oc=5",
       "source": "\u062a\u0633\u0646\u06cc\u0645",
       "published": "2026-07-18T08:37:42+00:00",
-      "score": 3.12,
+      "score": 3.06,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "US military says it\u2019s carrying out strikes on Iran as both sides threaten civilian infrastructure - AP News",
+      "title": "US military carries out strikes on Iran as both sides threaten civilian infrastructure - AP News",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVkxVRHNEai1jeXMzeVdPZVZqZmJvUjBqdTY5ZVZyWEp5bC0yWFJTWldhSlhlbFhoRmEwcFBnNkk0UWdDdHZMWFRXMk5acElxZEFSQ0otZzFQRElSMXdER1NlT0ptZUxVbTRPT3dFM25rOGtsb08yLUdXRll4SkhUZk9QejZ2RWZrb1hLcmhBYktXeEhrTTZIR3FTSTN6RUk?oc=5",
       "source": "AP News",
-      "published": "2026-07-22T23:05:00+00:00",
+      "published": "2026-07-23T00:39:00+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran war: Trump threatens bridges over Hormuz Strait attacks - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX3AyU2ZoQ1Y5QzdRX0J3NllBUXJOblNlLUdkMTVkdTV6cEFLQ1YzbUNVbDJaR2h6UUZYSVV5Y0I4NWRrNC1zVmJSaFVkSjFvSHlsaEh3VmJqLWZZWVhlWXotb2tYOWZ4dTNxWlE5ZFhWekl2NWlVSC15LVdtNjcxNGtodmp0RGlHQVBmeVB0VDcxdTRsS2pOZENPYw?oc=5",
+      "source": "DW.com",
+      "published": "2026-07-22T23:08:59+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -106,30 +126,10 @@
       "tags": [
         "tension"
       ]
-    },
-    {
-      "title": "Iran war: Trump threatens bridges over Hormuz Strait attacks - DW.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX3AyU2ZoQ1Y5QzdRX0J3NllBUXJOblNlLUdkMTVkdTV6cEFLQ1YzbUNVbDJaR2h6UUZYSVV5Y0I4NWRrNC1zVmJSaFVkSjFvSHlsaEh3VmJqLWZZWVhlWXotb2tYOWZ4dTNxWlE5ZFhWekl2NWlVSC15LVdtNjcxNGtodmp0RGlHQVBmeVB0VDcxdTRsS2pOZENPYw?oc=5",
-      "source": "DW.com",
-      "published": "2026-07-22T20:06:06+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Trump says U.S. will destroy a bridge or power plant for each Iranian attack in the Strait of Hormuz - PBS",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVGpBZ1VUa001aFE1aXZXeTcwTVlldHMyeFFiWXZ6a0hxRUR1VXZqUXhtMTRob3RrZzFKYnV2UzlqMHRmcmxsdzdjNnFZQ1hsV21yTVZSZ001NW04Ujh1RHBIa09NM0tvdlNaSnJLVHJjNUh4SEloa2o4aWQ3SWNlVTZBZGhWZVh2eXdLUkVBRkU4VDRtdHR5ZzI3MFNhT21VSDN0WVZ3T1A4WUhQMGo4ck9Fc0ZwOVBZWUJrRktHMVJ5OFVpVFR6RFZiQ2pEX0XSAdQBQVVfeXFMUG91b2tqa3pPQndEOHY2RGVObU1qT3dxQjc1QU1OX2lnbEctYktUUE90Szc0SFpVdHdGNzA3My1hOTlvdWJ2dUhSalE5NFlST1FwSkR6NXNvQUtsV3pFd1NkNnNTRWxDYXFHQ0kwWHhXZ1pXMnBnU1hnT2FpazN1NkFkdEJLcUtTdkJNTVh5S2d6VXRsXzdyajRSWjIwVzZEakQzRWxpUWlVbW9tQ0FCekhPUmZiT0trTUZLS0c2ekE3LVBsSnY4bU10WVVxUkZXNXlWWTg?oc=5",
-      "source": "PBS",
-      "published": "2026-07-22T19:42:53+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
     }
   ],
   "brent": {
-    "price": 95.49,
-    "change_pct": 1.51
+    "price": 95.67,
+    "change_pct": 1.7
   }
 }
