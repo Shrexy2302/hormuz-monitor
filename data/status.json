@@ -1,10 +1,10 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 195.4,
+  "tension_index": 189.6,
   "closure_signals": 2,
-  "articles_scanned": 222,
-  "updated": "2026-07-23T09:54:15.677960+00:00",
+  "articles_scanned": 223,
+  "updated": "2026-07-23T11:46:46.446509+00:00",
   "headlines": [
     {
       "title": "Houthis attack tankers in Red Sea, Iran blocks Strait of Hormuz, oil prices soar - The Jerusalem Post",
@@ -22,7 +22,7 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS3FqODVBWlYwWFBySFNFb0xHYlVYVUhoU1VwVmZXQ1NEN3BWNGYwclZEOTZpMktwN0NzMVJGV210Yi10YjRPU3RiTVpOOG9VeHVCVHNQcHM3M21jTTBablpVYWhnUElxeHkwdDJEUjFsVm10bVEwMDl0QWJNX3VpMQ?oc=5",
       "source": "AOL.com",
       "published": "2026-07-20T15:48:04+00:00",
-      "score": 9.96,
+      "score": 9.82,
       "tags": [
         "closure",
         "tension"
@@ -33,7 +33,7 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUENUNzlRRzA0WEU1a0JwVmhWeExFMkxFSEZqcU4tSGhkR0hoWTdsZVdxVTlyUVQzeEtPM1pYMVFDNU11TDZhV1J3T1R3VDExZkV3ekhRRURubGR4Wm1NdFBtUm1aeG15ZU5tUFRydENOS0ljajQ1bzB5MWJNckRwbExCN0lxOUV5YlNZTmlZYW9IRkxiODd6WW13ak0xU1ZCSDhvSEp1SHVlQzdVUDA2QXBxb0RwUXhHT0F1UkFNNA?oc=5",
       "source": "Investing.com",
       "published": "2026-07-19T06:43:19+00:00",
-      "score": 4.66,
+      "score": 4.58,
       "tags": [
         "closure"
       ]
@@ -49,22 +49,11 @@
       ]
     },
     {
-      "title": "Live - US completes 12th consecutive night of strikes as IRGC reports tanker hit mine in Strait of Hormuz - \u0627\u06cc\u0631\u0627\u0646 \u0627\u06cc\u0646\u062a\u0631\u0646\u0634\u0646\u0627\u0644",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sTnp0LW9PQlFrQ2FwUk9jcmQtbTFjc2dqTkc2MlVYaGhNbjc0ZlBsY2d4dlI2bzRLcjVHNUVTNlBCTERaS05icF95dWZkUkV0RFJPU1BnN3FadHlKTnc?oc=5",
-      "source": "\u0627\u06cc\u0631\u0627\u0646 \u0627\u06cc\u0646\u062a\u0631\u0646\u0634\u0646\u0627\u0644",
-      "published": "2026-07-18T04:55:24+00:00",
-      "score": 3.95,
-      "tags": [
-        "closure",
-        "tension"
-      ]
-    },
-    {
       "title": "Iran attacks another tanker in Strait of Hormuz, drawing US warning - Fox Business",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnRDJXWlBrN1BhSEtYRGV1ZlJocWtYVzFNMlNuU2w0N2VhZHdOQ2dONy1EUGQ2b2IyNVhrUi0xY0I4Y0VuUU1OanhHODVwNWZlY1ZvblVjTVZCdG8?oc=5",
       "source": "Fox Business",
       "published": "2026-07-21T14:03:05+00:00",
-      "score": 3.56,
+      "score": 3.52,
       "tags": [
         "tension"
       ]
@@ -74,7 +63,7 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1JNZDZ2TWF5SU1wQWtQMGFLY1lXbFA5anR4Z19EUkdlZ0lIbHRTT2tyZ2Z0RUxxUFdma1IwUDc4d1BSMVJVTFViclVuUXROQlhQQlhXLXVON2RLR3ltZ184VHYzYmRwcUxVaU9PR3h1XzZzUV9pU0s5N3BvRHBQQmZycnVmSkJUSjVuTmEtSFgtRGJn?oc=5",
       "source": "Crypto Briefing",
       "published": "2026-07-21T09:47:54+00:00",
-      "score": 3.46,
+      "score": 3.42,
       "tags": [
         "tension"
       ]
@@ -84,7 +73,17 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTmVGNEJoa0hjMlhsM3UwbG1HaHdhdE9OODMwZnU2cVc1RnF0MU1fRDJ0UkVDVW1QbXhwWGdGSUl1bXc0NUhBUzh6enFQV2RJa1F0SGVyM2hLM2V1cEZYZzZqczNLZDAxaF9Rcnl0d1VHVU9lRnJnYTFuMkI4dVR3TXBSaDBQQVNsb2lfVHp6am8wNDZFRGU2Q0E5LUE?oc=5",
       "source": "Crypto Briefing",
       "published": "2026-07-21T03:26:35+00:00",
-      "score": 3.32,
+      "score": 3.28,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran, Houthis strike tankers as US bombing continues: What\u2019s the latest? - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQkpwbzIyaVpMeV8tM0tGcjJfVXlUTU1QNzRiMFNWUUlZZ0VMdDItbHFobVFtRDVld0t6UlJKQzJEQ2RwQ2pKZ0lVY1UxaXM1Z2d6S0tkUG9CZ0hLZ0oxb0VVbkNWNFNDYkdEcV9mN0FQc1JtYUhEVEd5MFJDSElacjVpWlJUM0pySFFqRWRMMndPaXVoOE5YYlkwUlZZdUFTS01hSHNEbjMyb01XMlHSAbMBQVVfeXFMUFgyM2tfcDZLYXh6SFpfeU41Q0lmR05VdXRzNXFmbmJ0SlVoNVJZLVN2VS13YWJoME04enBXZE4zNTlXcnVUSF84Vm9rbzJXRnBtN2NxZUpWR2liVUJwM0Y4dUd5ei1iaDVuYnhsRG9LUzNoZjFaNm5EVkQ5T21Sa1h6YkF2SVNfNGZoaUc3QkdkZHo0LUFtNE1taHFEbFhGYk5ibEhVcW9FQTYzMzlreUtqNWM?oc=5",
+      "source": "Al Jazeera",
+      "published": "2026-07-23T09:22:30+00:00",
+      "score": 3.0,
       "tags": [
         "tension"
       ]
@@ -120,10 +119,10 @@
       ]
     },
     {
-      "title": "Houthis say they attacked Saudi tankers in the Red Sea, threatening new chokepoint in Iran war - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOck9rMklSSHp1Z0E2UmlqZUJHSWNxRXNSZGtZd1JTOFdSbUE2amI3RHFmaUNuSS1nU1NzaThJdVIwVzZFcXVIaXNjU3lrSVYtaDF5THNwWkpqUHVwTEFsWklsbnp4ZllTMndIYWhRM0RZa09qaTNiVXVCNmh5a2p6MnBidG1kWkJSUVJnb1RuOXdUcU5MRDVxbzJmcDE2UWZsaVZYRDdCdHlYcG1kUTdKT093ZXI4b3VkWjZNRzdDUDIwWEFWMHRia2FIY3dIdw?oc=5",
-      "source": "Reuters",
-      "published": "2026-07-23T04:15:00+00:00",
+      "title": "Houthis Say They Attacked Saudi Tankers in the Red Sea, Threatening New Chokepoint in Iran War - U.S. News & World Report",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTXNKUjM2R2JyZnRGbVFxMGMxeUhxYVdqRzlWV0lJU3dieUo3c0lsRFNscWZURGlOT29uaXlxTDUtc2ZrbXZrMDVjLVA3TmpMczRWY2tmQTdFOW5jWG5qcjBDX1E5OEx1cnVqZ3FpbFl5Ri1PeUpXZ2RxdGFid1hVdEt4VFAyMG54cEU4b0RIQVF1TmcwekhEN1V0NzF1MTdReXFWWjltNmlsZDFFN3k1a0pSSzZtamw2czRTLXBjYVowZ3hNTkFDMjZjVlRORThqZTRrSEFselpCZ2lqc3ZlZg?oc=5",
+      "source": "U.S. News & World Report",
+      "published": "2026-07-23T05:53:17+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -131,7 +130,7 @@
     }
   ],
   "brent": {
-    "price": 92.56,
-    "change_pct": 2.64
+    "price": 93.32,
+    "change_pct": 3.48
   }
 }
