@@ -1,10 +1,10 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 176.0,
+  "tension_index": 178.1,
   "closure_signals": 2,
-  "articles_scanned": 214,
-  "updated": "2026-07-23T21:33:37.770134+00:00",
+  "articles_scanned": 215,
+  "updated": "2026-07-23T22:50:23.767117+00:00",
   "headlines": [
     {
       "title": "Houthis attack tankers in Red Sea, Iran blocks Strait of Hormuz, oil prices soar - The Jerusalem Post",
@@ -22,7 +22,7 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS3FqODVBWlYwWFBySFNFb0xHYlVYVUhoU1VwVmZXQ1NEN3BWNGYwclZEOTZpMktwN0NzMVJGV210Yi10YjRPU3RiTVpOOG9VeHVCVHNQcHM3M21jTTBablpVYWhnUElxeHkwdDJEUjFsVm10bVEwMDl0QWJNX3VpMQ?oc=5",
       "source": "AOL.com",
       "published": "2026-07-20T15:48:04+00:00",
-      "score": 9.12,
+      "score": 9.02,
       "tags": [
         "closure",
         "tension"
@@ -33,7 +33,7 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUENUNzlRRzA0WEU1a0JwVmhWeExFMkxFSEZqcU4tSGhkR0hoWTdsZVdxVTlyUVQzeEtPM1pYMVFDNU11TDZhV1J3T1R3VDExZkV3ekhRRURubGR4Wm1NdFBtUm1aeG15ZU5tUFRydENOS0ljajQ1bzB5MWJNckRwbExCN0lxOUV5YlNZTmlZYW9IRkxiODd6WW13ak0xU1ZCSDhvSEp1SHVlQzdVUDA2QXBxb0RwUXhHT0F1UkFNNA?oc=5",
       "source": "Investing.com",
       "published": "2026-07-19T06:43:19+00:00",
-      "score": 4.14,
+      "score": 4.08,
       "tags": [
         "closure"
       ]
@@ -43,7 +43,17 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVDdQcng3T0ZQTU1Ia3haYlNaNXI1NUZFY1NNZU9ycFozeTl1ZUQ1ZmxaTV9pUEFsdUx2aFFoTXA2Sk8tUFVUbG9iOG5xNEFneG9mcEtKVTgwMV9pbUsyd3FPekY4N3JERHFYS2NCQnN6SGhNQWxmbDZVQi0xbml4OGRYcDBDeTJtaW9nTG05bHo2djk3QUhRTFNKM1Mtdw?oc=5",
       "source": "Crypto Briefing",
       "published": "2026-07-22T22:15:21+00:00",
-      "score": 4.0,
+      "score": 3.99,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Trump threatens to escalate retaliatory strikes on Iran, bomb bridges - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUnhfYmpoSDFLTUlyOXVGZEpYM0Z5b2Vwb3JBdDdWdTBmT1hsOHd1ZGR4TUM3TDZ3QVN2azAtaDJpQVhNdE16UmgwTlA3YzhCQVk0dWlMbzF0M1NYVW9oZnVFTWpGRkE2UDVOOFhBTEJxcFhQNEU1bmtfM1dOYWNhcnJKTnZmU2pWeUstVGJhYjk1RmFOal90SEhacXRqV3M?oc=5",
+      "source": "USA Today",
+      "published": "2026-07-22T16:09:00+00:00",
+      "score": 3.85,
       "tags": [
         "tension"
       ]
@@ -53,7 +63,7 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnRDJXWlBrN1BhSEtYRGV1ZlJocWtYVzFNMlNuU2w0N2VhZHdOQ2dONy1EUGQ2b2IyNVhrUi0xY0I4Y0VuUU1OanhHODVwNWZlY1ZvblVjTVZCdG8?oc=5",
       "source": "Fox Business",
       "published": "2026-07-21T14:03:05+00:00",
-      "score": 3.3,
+      "score": 3.27,
       "tags": [
         "tension"
       ]
@@ -63,7 +73,7 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1JNZDZ2TWF5SU1wQWtQMGFLY1lXbFA5anR4Z19EUkdlZ0lIbHRTT2tyZ2Z0RUxxUFdma1IwUDc4d1BSMVJVTFViclVuUXROQlhQQlhXLXVON2RLR3ltZ184VHYzYmRwcUxVaU9PR3h1XzZzUV9pU0s5N3BvRHBQQmZycnVmSkJUSjVuTmEtSFgtRGJn?oc=5",
       "source": "Crypto Briefing",
       "published": "2026-07-21T09:47:54+00:00",
-      "score": 3.21,
+      "score": 3.18,
       "tags": [
         "tension"
       ]
@@ -73,16 +83,6 @@
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMlJFQUVHS2gxMzJLSnRwVGFId0tNWGRrbHRfcEpGU21LU1lQOFBXTURhaUtwOEo1NFg0aUc4QmM5ZWN1NXF0RjdUVzBMWDZlRmdWQTR1VUNhZGEzbi11cmtzaXhBcHVqWUktcEpKZnIwQXh6bXAyRUR1al9WN1p1VUE2NkN3VFFBb0p6YWVJRTI5Y3dWNHljSXEtcVMzLUVYakotSlhaOFBEdE1DSDdrRHdsSGtTYkpEakNKT01jX0hfYml2VUlIXy1WZ1U3ZWZHME9fdndYVQ?oc=5",
       "source": "facebook.com",
       "published": "2026-07-23T17:15:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NYkF5b3JJS0stVWZxYS05X2tzQm8yNDFIUnktWjlmYUg2MFVfT3dlZEVhX2t1YkpGQTNEVUQ0OU9vUXRsc2k0eENXUUJuOFU0Z1pQUEhWenlwZw?oc=5",
-      "source": "BBC",
-      "published": "2026-07-23T16:50:59+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -130,7 +130,7 @@
     }
   ],
   "brent": {
-    "price": 100.55,
-    "change_pct": 6.89
+    "price": 100.4,
+    "change_pct": -0.29
   }
 }
