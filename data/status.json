@@ -1,17 +1,17 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 170.4,
+  "tension_index": 173.2,
   "closure_signals": 3,
-  "articles_scanned": 222,
-  "updated": "2026-07-24T14:19:20.143752+00:00",
+  "articles_scanned": 219,
+  "updated": "2026-07-24T15:52:08.860199+00:00",
   "headlines": [
     {
       "title": "Houthis attack tankers in Red Sea, Iran blocks Strait of Hormuz, oil prices soar - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QMkFoYmNhRkwxaFNUZk5Gc3J4RzZMQXdFd1R6N1dBaUd1eGIzV3hMSDJVY0h0STRMRF9PVGNEWmVrM01NQkxVV2dlSDd4WmZmM2hvRHNRN2M5X0hL?oc=5",
       "source": "The Jerusalem Post",
       "published": "2026-07-23T05:50:57+00:00",
-      "score": 10.48,
+      "score": 10.39,
       "tags": [
         "closure",
         "tension"
@@ -22,7 +22,7 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS3FqODVBWlYwWFBySFNFb0xHYlVYVUhoU1VwVmZXQ1NEN3BWNGYwclZEOTZpMktwN0NzMVJGV210Yi10YjRPU3RiTVpOOG9VeHVCVHNQcHM3M21jTTBablpVYWhnUElxeHkwdDJEUjFsVm10bVEwMDl0QWJNX3VpMQ?oc=5",
       "source": "AOL.com",
       "published": "2026-07-20T15:48:04+00:00",
-      "score": 7.91,
+      "score": 7.8,
       "tags": [
         "closure",
         "tension"
@@ -33,7 +33,7 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04UHNGVGN4bUhNMHZQSS1mUG80ZmlLTV9LSWwyVy1OX3BXbEx2aG1vbG5oYVExaE4tR1dQZVpkQjR6QWV3SDJhb1RQM2pWZDMtZHc?oc=5",
       "source": "\u0627\u06cc\u0631\u0627\u0646 \u0627\u06cc\u0646\u062a\u0631\u0646\u0634\u0646\u0627\u0644",
       "published": "2026-07-22T23:53:00+00:00",
-      "score": 5.52,
+      "score": 5.47,
       "tags": [
         "closure"
       ]
@@ -73,7 +73,7 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVDdQcng3T0ZQTU1Ia3haYlNaNXI1NUZFY1NNZU9ycFozeTl1ZUQ1ZmxaTV9pUEFsdUx2aFFoTXA2Sk8tUFVUbG9iOG5xNEFneG9mcEtKVTgwMV9pbUsyd3FPekY4N3JERHFYS2NCQnN6SGhNQWxmbDZVQi0xbml4OGRYcDBDeTJtaW9nTG05bHo2djk3QUhRTFNKM1Mtdw?oc=5",
       "source": "Crypto Briefing",
       "published": "2026-07-22T22:15:21+00:00",
-      "score": 3.64,
+      "score": 3.61,
       "tags": [
         "tension"
       ]
@@ -83,7 +83,7 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUnhfYmpoSDFLTUlyOXVGZEpYM0Z5b2Vwb3JBdDdWdTBmT1hsOHd1ZGR4TUM3TDZ3QVN2azAtaDJpQVhNdE16UmgwTlA3YzhCQVk0dWlMbzF0M1NYVW9oZnVFTWpGRkE2UDVOOFhBTEJxcFhQNEU1bmtfM1dOYWNhcnJKTnZmU2pWeUstVGJhYjk1RmFOal90SEhacXRqV3M?oc=5",
       "source": "USA Today",
       "published": "2026-07-22T16:09:00+00:00",
-      "score": 3.51,
+      "score": 3.47,
       "tags": [
         "tension"
       ]
@@ -93,7 +93,7 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUENUNzlRRzA0WEU1a0JwVmhWeExFMkxFSEZqcU4tSGhkR0hoWTdsZVdxVTlyUVQzeEtPM1pYMVFDNU11TDZhV1J3T1R3VDExZkV3ekhRRURubGR4Wm1NdFBtUm1aeG15ZU5tUFRydENOS0ljajQ1bzB5MWJNckRwbExCN0lxOUV5YlNZTmlZYW9IRkxiODd6WW13ak0xU1ZCSDhvSEp1SHVlQzdVUDA2QXBxb0RwUXhHT0F1UkFNNA?oc=5",
       "source": "Investing.com",
       "published": "2026-07-19T06:43:19+00:00",
-      "score": 3.4,
+      "score": 3.33,
       "tags": [
         "closure"
       ]
@@ -130,7 +130,7 @@
     }
   ],
   "brent": {
-    "price": 97.71,
-    "change_pct": -2.96
+    "price": 95.5,
+    "change_pct": -5.15
   }
 }
