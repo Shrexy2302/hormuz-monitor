@@ -1,10 +1,10 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 177.3,
+  "tension_index": 175.9,
   "closure_signals": 2,
-  "articles_scanned": 219,
-  "updated": "2026-07-24T02:02:29.881627+00:00",
+  "articles_scanned": 217,
+  "updated": "2026-07-24T05:33:52.825666+00:00",
   "headlines": [
     {
       "title": "Houthis attack tankers in Red Sea, Iran blocks Strait of Hormuz, oil prices soar - The Jerusalem Post",
@@ -22,7 +22,7 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS3FqODVBWlYwWFBySFNFb0xHYlVYVUhoU1VwVmZXQ1NEN3BWNGYwclZEOTZpMktwN0NzMVJGV210Yi10YjRPU3RiTVpOOG9VeHVCVHNQcHM3M21jTTBablpVYWhnUElxeHkwdDJEUjFsVm10bVEwMDl0QWJNX3VpMQ?oc=5",
       "source": "AOL.com",
       "published": "2026-07-20T15:48:04+00:00",
-      "score": 8.79,
+      "score": 8.54,
       "tags": [
         "closure",
         "tension"
@@ -39,13 +39,13 @@
       ]
     },
     {
-      "title": "What are the implications of a renewed closure of the Strait of Hormuz? - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUENUNzlRRzA0WEU1a0JwVmhWeExFMkxFSEZqcU4tSGhkR0hoWTdsZVdxVTlyUVQzeEtPM1pYMVFDNU11TDZhV1J3T1R3VDExZkV3ekhRRURubGR4Wm1NdFBtUm1aeG15ZU5tUFRydENOS0ljajQ1bzB5MWJNckRwbExCN0lxOUV5YlNZTmlZYW9IRkxiODd6WW13ak0xU1ZCSDhvSEp1SHVlQzdVUDA2QXBxb0RwUXhHT0F1UkFNNA?oc=5",
-      "source": "Investing.com",
-      "published": "2026-07-19T06:43:19+00:00",
-      "score": 3.94,
+      "title": "U.S. military launches 13th night strikes on Iran as clashes escalate over shipping routes - PBS",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRVpyREpBdHFEMGNNTG5MclduQkZvbEozOUc3c0RwVk11ZHZodFBwU1FLTy1BdzZHVExPMWpEOGUwQkx3VXROcmdSd3FGVVBBdndnRDhuTEYwaU9NdE84aGEzWHJFVUVRWjJLUnZFLTFCZ2hScEtCSmV4OFhMNWd3YXA5RlV3ZWpvQWZPaFFqWUJQVFJmblE4T2w4b0NmRHYzd2V5MlVFNzl1RHB5UDkzNE03VDRLb25wN0xqRUtRQVRHUdIBxwFBVV95cUxQM1pKRVhmTEtVVExOWVN1YWNLNkdfelp6OVZiZWRFMFhQd2h4WDBzSzdJQTlRSlVlVWhGMnBfczRfejRYcW9tb0xUMGhBcFB6ZjNfbEdQMUpOalZCNmpLZkNnMXNfSVlYV1hQTUFPb0toLWlnSDNMaHVXVTIxbjQ0N2tKYTQ5Z3pkaDZTSXpQQ0xqWTBYR1VEcDJ3MFdfLU92dUlNemZ3eVg2cU5Ra0dVc3NWelpkc1lLdkYzR25kLXNORzdPRi1Z?oc=5",
+      "source": "PBS",
+      "published": "2026-07-23T23:45:19+00:00",
+      "score": 4.0,
       "tags": [
-        "closure"
+        "tension"
       ]
     },
     {
@@ -53,9 +53,19 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVDdQcng3T0ZQTU1Ia3haYlNaNXI1NUZFY1NNZU9ycFozeTl1ZUQ1ZmxaTV9pUEFsdUx2aFFoTXA2Sk8tUFVUbG9iOG5xNEFneG9mcEtKVTgwMV9pbUsyd3FPekY4N3JERHFYS2NCQnN6SGhNQWxmbDZVQi0xbml4OGRYcDBDeTJtaW9nTG05bHo2djk3QUhRTFNKM1Mtdw?oc=5",
       "source": "Crypto Briefing",
       "published": "2026-07-22T22:15:21+00:00",
-      "score": 3.92,
+      "score": 3.84,
       "tags": [
         "tension"
+      ]
+    },
+    {
+      "title": "What are the implications of a renewed closure of the Strait of Hormuz? - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUENUNzlRRzA0WEU1a0JwVmhWeExFMkxFSEZqcU4tSGhkR0hoWTdsZVdxVTlyUVQzeEtPM1pYMVFDNU11TDZhV1J3T1R3VDExZkV3ekhRRURubGR4Wm1NdFBtUm1aeG15ZU5tUFRydENOS0ljajQ1bzB5MWJNckRwbExCN0lxOUV5YlNZTmlZYW9IRkxiODd6WW13ak0xU1ZCSDhvSEp1SHVlQzdVUDA2QXBxb0RwUXhHT0F1UkFNNA?oc=5",
+      "source": "Investing.com",
+      "published": "2026-07-19T06:43:19+00:00",
+      "score": 3.78,
+      "tags": [
+        "closure"
       ]
     },
     {
@@ -63,7 +73,7 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUnhfYmpoSDFLTUlyOXVGZEpYM0Z5b2Vwb3JBdDdWdTBmT1hsOHd1ZGR4TUM3TDZ3QVN2azAtaDJpQVhNdE16UmgwTlA3YzhCQVk0dWlMbzF0M1NYVW9oZnVFTWpGRkE2UDVOOFhBTEJxcFhQNEU1bmtfM1dOYWNhcnJKTnZmU2pWeUstVGJhYjk1RmFOal90SEhacXRqV3M?oc=5",
       "source": "USA Today",
       "published": "2026-07-22T16:09:00+00:00",
-      "score": 3.78,
+      "score": 3.7,
       "tags": [
         "tension"
       ]
@@ -73,7 +83,7 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnRDJXWlBrN1BhSEtYRGV1ZlJocWtYVzFNMlNuU2w0N2VhZHdOQ2dONy1EUGQ2b2IyNVhrUi0xY0I4Y0VuUU1OanhHODVwNWZlY1ZvblVjTVZCdG8?oc=5",
       "source": "Fox Business",
       "published": "2026-07-21T14:03:05+00:00",
-      "score": 3.2,
+      "score": 3.12,
       "tags": [
         "tension"
       ]
@@ -83,7 +93,17 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1JNZDZ2TWF5SU1wQWtQMGFLY1lXbFA5anR4Z19EUkdlZ0lIbHRTT2tyZ2Z0RUxxUFdma1IwUDc4d1BSMVJVTFViclVuUXROQlhQQlhXLXVON2RLR3ltZ184VHYzYmRwcUxVaU9PR3h1XzZzUV9pU0s5N3BvRHBQQmZycnVmSkJUSjVuTmEtSFgtRGJn?oc=5",
       "source": "Crypto Briefing",
       "published": "2026-07-21T09:47:54+00:00",
-      "score": 3.11,
+      "score": 3.03,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "US launches new strikes on Iran over shipping routes threat - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMHdaLTB5MVh4VVlJalAxaXRJV1FkdFp2RXRlMnlvUk5ndk9US0dSdnhPYUVvVzFabXBiWEFvQnB3QUtOdXZFWUdyS2Vkck1LOU9OSEttUno3b3F0NWVPYkIwYXlQd2R1NURGY1lpWXRUdEVVcUY5S1FqUGg0OFo5cUdGNGN3djJDLTh0YTlackxjdVEwbGF5dWNhcw?oc=5",
+      "source": "DW.com",
+      "published": "2026-07-24T03:59:37+00:00",
+      "score": 3.0,
       "tags": [
         "tension"
       ]
@@ -99,16 +119,6 @@
       ]
     },
     {
-      "title": "US President Donald Trump warned of striking Iranian infrastructure in response to attacks on shipping in the Strait of Hormuz, as Tehran reimposed its blockade and fired on vessels. I via ANC 24/7 Full story link in the comments section. - facebook.com",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMlJFQUVHS2gxMzJLSnRwVGFId0tNWGRrbHRfcEpGU21LU1lQOFBXTURhaUtwOEo1NFg0aUc4QmM5ZWN1NXF0RjdUVzBMWDZlRmdWQTR1VUNhZGEzbi11cmtzaXhBcHVqWUktcEpKZnIwQXh6bXAyRUR1al9WN1p1VUE2NkN3VFFBb0p6YWVJRTI5Y3dWNHljSXEtcVMzLUVYakotSlhaOFBEdE1DSDdrRHdsSGtTYkpEakNKT01jX0hfYml2VUlIXy1WZ1U3ZWZHME9fdndYVQ?oc=5",
-      "source": "facebook.com",
-      "published": "2026-07-23T17:15:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
       "title": "Oil tankers attacked as Iran threatens to turn second trade route into a \u2018Gate of Tears\u2019 - NBC News",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRkJKVWFoWEl3NG02VG5ZNFBDNl9BdDZ4YnNKVVpzMkhUdTItWUJpMFJkQ2FiOV9Rd0Z3SVozNVYxbnItZnRtT1JIRS0zVmN6X0UtSjVvanEtMEFNTFNaNVJkS0NOcXNJb2o1bW51ZG5LOE5wNVB1bk41S1lqZXYtcV9uLWZhLXkwVW5icEFwdXJmbUp2TGpJNXRvZ1ZQODdlQUY5bUtidnBiQVFuVjdRUQ?oc=5",
       "source": "NBC News",
@@ -117,20 +127,10 @@
       "tags": [
         "tension"
       ]
-    },
-    {
-      "title": "Iran, Houthis strike tankers as US bombing continues: What\u2019s the latest? - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQkpwbzIyaVpMeV8tM0tGcjJfVXlUTU1QNzRiMFNWUUlZZ0VMdDItbHFobVFtRDVld0t6UlJKQzJEQ2RwQ2pKZ0lVY1UxaXM1Z2d6S0tkUG9CZ0hLZ0oxb0VVbkNWNFNDYkdEcV9mN0FQc1JtYUhEVEd5MFJDSElacjVpWlJUM0pySFFqRWRMMndPaXVoOE5YYlkwUlZZdUFTS01hSHNEbjMyb01XMlHSAbMBQVVfeXFMUFgyM2tfcDZLYXh6SFpfeU41Q0lmR05VdXRzNXFmbmJ0SlVoNVJZLVN2VS13YWJoME04enBXZE4zNTlXcnVUSF84Vm9rbzJXRnBtN2NxZUpWR2liVUJwM0Y4dUd5ei1iaDVuYnhsRG9LUzNoZjFaNm5EVkQ5T21Sa1h6YkF2SVNfNGZoaUc3QkdkZHo0LUFtNE1taHFEbFhGYk5ibEhVcW9FQTYzMzlreUtqNWM?oc=5",
-      "source": "Al Jazeera",
-      "published": "2026-07-23T09:26:35+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
     }
   ],
   "brent": {
-    "price": 100.05,
-    "change_pct": -0.64
+    "price": 100.38,
+    "change_pct": -0.31
   }
 }
