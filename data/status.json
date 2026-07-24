@@ -1,17 +1,17 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 152.3,
+  "tension_index": 154.0,
   "closure_signals": 2,
-  "articles_scanned": 218,
-  "updated": "2026-07-24T21:35:02.405777+00:00",
+  "articles_scanned": 220,
+  "updated": "2026-07-24T22:55:59.134582+00:00",
   "headlines": [
     {
       "title": "Houthis attack tankers in Red Sea, Iran blocks Strait of Hormuz, oil prices soar - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QMkFoYmNhRkwxaFNUZk5Gc3J4RzZMQXdFd1R6N1dBaUd1eGIzV3hMSDJVY0h0STRMRF9PVGNEWmVrM01NQkxVV2dlSDd4WmZmM2hvRHNRN2M5X0hL?oc=5",
       "source": "The Jerusalem Post",
       "published": "2026-07-23T05:50:57+00:00",
-      "score": 10.04,
+      "score": 9.96,
       "tags": [
         "closure",
         "tension"
@@ -22,7 +22,7 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04UHNGVGN4bUhNMHZQSS1mUG80ZmlLTV9LSWwyVy1OX3BXbEx2aG1vbG5oYVExaE4tR1dQZVpkQjR6QWV3SDJhb1RQM2pWZDMtZHc?oc=5",
       "source": "\u0627\u06cc\u0631\u0627\u0646 \u0627\u06cc\u0646\u062a\u0631\u0646\u0634\u0646\u0627\u0644",
       "published": "2026-07-22T23:53:00+00:00",
-      "score": 5.28,
+      "score": 5.23,
       "tags": [
         "closure"
       ]
@@ -62,7 +62,7 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUnhfYmpoSDFLTUlyOXVGZEpYM0Z5b2Vwb3JBdDdWdTBmT1hsOHd1ZGR4TUM3TDZ3QVN2azAtaDJpQVhNdE16UmgwTlA3YzhCQVk0dWlMbzF0M1NYVW9oZnVFTWpGRkE2UDVOOFhBTEJxcFhQNEU1bmtfM1dOYWNhcnJKTnZmU2pWeUstVGJhYjk1RmFOal90SEhacXRqV3M?oc=5",
       "source": "USA Today",
       "published": "2026-07-22T16:09:00+00:00",
-      "score": 3.35,
+      "score": 3.32,
       "tags": [
         "tension"
       ]
@@ -72,9 +72,29 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUENUNzlRRzA0WEU1a0JwVmhWeExFMkxFSEZqcU4tSGhkR0hoWTdsZVdxVTlyUVQzeEtPM1pYMVFDNU11TDZhV1J3T1R3VDExZkV3ekhRRURubGR4Wm1NdFBtUm1aeG15ZU5tUFRydENOS0ljajQ1bzB5MWJNckRwbExCN0lxOUV5YlNZTmlZYW9IRkxiODd6WW13ak0xU1ZCSDhvSEp1SHVlQzdVUDA2QXBxb0RwUXhHT0F1UkFNNA?oc=5",
       "source": "Investing.com",
       "published": "2026-07-19T06:43:19+00:00",
-      "score": 3.07,
+      "score": 3.01,
       "tags": [
         "closure"
+      ]
+    },
+    {
+      "title": "Hormuz Transits Remain Low, Houthis Resume Attacks in Red Sea - USNI News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNVk5UlpFZFhXbjF1TzZmMUVTZy1KV3NaMU85TWQ0T2hmQVNSVlg3Zkl1dzU0NzFDaG5tanNzV3lVX3VFTkpsLW1tYzV4NXpYNjYwN0ZucGdLS25IdVFIbzlZS0tzU0FZSWowVkh4RzNmaXMwOVZBUUYzdXNFaHE1c3VmUHN2aXc4bTIyYmgwLUZwSHd3bEdwcA?oc=5",
+      "source": "USNI News",
+      "published": "2026-07-24T21:34:00+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iranian media says US strike killed 2 crew members aboard LPG tanker near Strait of Hormuz - Anadolu Ajans\u0131",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPT1ktUjBWdW5jdVJ1TVliVnUyLTVfa3cwM1YzOXBSdm9wclpUM1NkcGVIbDZaMU4zTnJXYnp3MUl1WW5xcTZ4cXBzWEphamtlZWNUeHBzc2xBbGYwT2dFcF8yNmozeHppZWVfZDJtTnFkNnFhR1k1QWdRTmdxZzRCUGN3NktTUDBWbWVsNDZfMzd3ZE83ZTZLa2dNaVdhYTZhUkFTU1htb1ItYWdPc1BRM3NCSDFwakxnSlhqWFp2YWFlek95U0xtZFUtTDUydXNk?oc=5",
+      "source": "Anadolu Ajans\u0131",
+      "published": "2026-07-24T20:55:07+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
       ]
     },
     {
@@ -102,26 +122,6 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbnFoblVaeW56TWFYUWE1SGl5N0RtX2t1S25oOFprWVlLZjFPa0Nmdm5hWjdzcmNpTGJCejk5OUxnMF9Pbnh0SklXc3BRYlktaVR2cS1Mbk1FNVVhak5QakV0UEh2VXF5UEFJQ2ppWXZ1Um9FX2lYSEpiaUEtT3dFaEQ2N3lRdTRLSjZRTnZGWk1PUk1tWHUwOVdVZjc?oc=5",
       "source": "CBS News",
       "published": "2026-07-24T10:12:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "US launches new strikes on Iran over shipping routes threat - DW.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMHdaLTB5MVh4VVlJalAxaXRJV1FkdFp2RXRlMnlvUk5ndk9US0dSdnhPYUVvVzFabXBiWEFvQnB3QUtOdXZFWUdyS2Vkck1LOU9OSEttUno3b3F0NWVPYkIwYXlQd2R1NURGY1lpWXRUdEVVcUY5S1FqUGg0OFo5cUdGNGN3djJDLTh0YTlackxjdVEwbGF5dWNhcw?oc=5",
-      "source": "DW.com",
-      "published": "2026-07-24T09:59:17+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "US attacks Iran as Houthis allow Chinese ships to pass: What\u2019s the latest? - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaXJSbVVjUnRLMnBxSXltZTJEVzFKelZkdHl5eHNRUEk0S2Z6bVJmNWxMbG1BenZVdGVIdFlJMDh2RVpKRG5PQkNNWDduZFpaRnJ5NzlKUmVLVzA0SzNhanRoNVR3RDlla01QTXZHWnJNMlUyQmM2bDJWdDNsemRnNTBENE9SMVZJOFkyWkhTWXdHeHkyZGZFMG1ZTUhhY2xvdWt4b3ZKNlA2Z1B0dWFTajl30gG3AUFVX3lxTE83SkVwOUxXSnlxeEVUWDZGcWVOREhvRGtZMkd5UG1SNTR1UWF0WFJCZVh5ZFZha0xORmxRQThVTVlBY2FtVHkxSzhmUWZ5bkRhcTBlSVI1bFNYX3NDNXJqTzRyVDZ0NGtUTzQzZ2NSZGF6X1p4bnF3WnhGdDcwSUJkY1JOMGllcVJRTmh6TXV3cG9IcmJwdTBoaU9TWTFqN29Ubi1TTjM2dXRDT3RMWnNvb0puWjgwVQ?oc=5",
-      "source": "Al Jazeera",
-      "published": "2026-07-24T08:04:24+00:00",
       "score": 3.0,
       "tags": [
         "tension"
