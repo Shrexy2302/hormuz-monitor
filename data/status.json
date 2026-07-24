@@ -1,17 +1,17 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 175.9,
+  "tension_index": 174.9,
   "closure_signals": 3,
-  "articles_scanned": 216,
-  "updated": "2026-07-24T10:31:55.200820+00:00",
+  "articles_scanned": 220,
+  "updated": "2026-07-24T12:15:20.967257+00:00",
   "headlines": [
     {
       "title": "Houthis attack tankers in Red Sea, Iran blocks Strait of Hormuz, oil prices soar - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QMkFoYmNhRkwxaFNUZk5Gc3J4RzZMQXdFd1R6N1dBaUd1eGIzV3hMSDJVY0h0STRMRF9PVGNEWmVrM01NQkxVV2dlSDd4WmZmM2hvRHNRN2M5X0hL?oc=5",
       "source": "The Jerusalem Post",
       "published": "2026-07-23T05:50:57+00:00",
-      "score": 10.71,
+      "score": 10.61,
       "tags": [
         "closure",
         "tension"
@@ -22,7 +22,7 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS3FqODVBWlYwWFBySFNFb0xHYlVYVUhoU1VwVmZXQ1NEN3BWNGYwclZEOTZpMktwN0NzMVJGV210Yi10YjRPU3RiTVpOOG9VeHVCVHNQcHM3M21jTTBablpVYWhnUElxeHkwdDJEUjFsVm10bVEwMDl0QWJNX3VpMQ?oc=5",
       "source": "AOL.com",
       "published": "2026-07-20T15:48:04+00:00",
-      "score": 8.18,
+      "score": 8.06,
       "tags": [
         "closure",
         "tension"
@@ -33,7 +33,7 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04UHNGVGN4bUhNMHZQSS1mUG80ZmlLTV9LSWwyVy1OX3BXbEx2aG1vbG5oYVExaE4tR1dQZVpkQjR6QWV3SDJhb1RQM2pWZDMtZHc?oc=5",
       "source": "\u0627\u06cc\u0631\u0627\u0646 \u0627\u06cc\u0646\u062a\u0631\u0646\u0634\u0646\u0627\u0644",
       "published": "2026-07-22T23:53:00+00:00",
-      "score": 5.65,
+      "score": 5.59,
       "tags": [
         "closure"
       ]
@@ -43,16 +43,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcnlLbThERmk1bktscWE2bzVoZDlSbUdiYkpReTd0bVY1LVl2aFloaGNyUnVERkI3STFQVE1Na1VraFV3R0QwOWJuTXdBYW4wUjBsSzdNX1dBSVI0emRPM3dncFVhRzVMbnRYX0lkbllfTVJCMDlrOVZOaTd1bFlVaGZ0aHdtR1BQSTNCbEl1b09GZHNKNkdnOWNSSkFycDlBNVhkNlIwakI3YVVaai1PUVZpVENMVE9fQ3lpenZCdHc1Zw?oc=5",
       "source": "The Washington Post",
       "published": "2026-07-24T05:50:18+00:00",
-      "score": 4.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "US strikes Iran and Bahrain warns of incoming fire as clashes over shipping routes escalate - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ2tYci1aeWlac0pJdlF3UklWUnFuaDZDS1owZ3FXWUk0ZWlSRXU5c0dReFZBd0ZRcGk0WnlrUHVnYW85UGpVUEhSNXlFMVIwbE9IVVlONXdacmtTSUJrZmZScUp3M0lERjZUR0pMS0VHc0FtZ2VoX1RJZUw0anhyUG5tbjNabDFrM19sNVNvcE1jeUZBbkxHWndDSWtQOGpfdEJXY2p3czIydnFvNy1VOHRuMHpINTR2VS1zMTcteW1rLWQzWDRoYmZxZ1IyckdrVkFR?oc=5",
-      "source": "The Washington Post",
-      "published": "2026-07-24T05:47:39+00:00",
       "score": 4.0,
       "tags": [
         "tension"
@@ -69,10 +59,10 @@
       ]
     },
     {
-      "title": "US military says it\u2019s launching strikes on Iran as clashes escalate over shipping routes - ABC7 New York",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZFlIOUdhNTJFQmRjcTdxajRiWUUxZTNFdGgyZWtmN0IxODRWR0NVTS1sdVU5ZWJRUkZtU3M5ank3TU91UW5hS3l4NkFFYnE1S0hGVWxhWk9STHV6YUc1ZkRNS28tRC1DNmtzTm1VWkgyV19nOGFsRTJaR0N5TVNNajNvd0pSTnNBNjNzNWkxZFF5OXNBZWI2ak9jbXotd0RzTm5heXFMX0p1alk?oc=5",
-      "source": "ABC7 New York",
-      "published": "2026-07-23T23:52:17+00:00",
+      "title": "U.S. military launches 13th night strikes on Iran as clashes escalate over shipping routes - PBS",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRVpyREpBdHFEMGNNTG5MclduQkZvbEozOUc3c0RwVk11ZHZodFBwU1FLTy1BdzZHVExPMWpEOGUwQkx3VXROcmdSd3FGVVBBdndnRDhuTEYwaU9NdE84aGEzWHJFVUVRWjJLUnZFLTFCZ2hScEtCSmV4OFhMNWd3YXA5RlV3ZWpvQWZPaFFqWUJQVFJmblE4T2w4b0NmRHYzd2V5MlVFNzl1RHB5UDkzNE03VDRLb25wN0xqRUtRQVRHUdIBxwFBVV95cUxQM1pKRVhmTEtVVExOWVN1YWNLNkdfelp6OVZiZWRFMFhQd2h4WDBzSzdJQTlRSlVlVWhGMnBfczRfejRYcW9tb0xUMGhBcFB6ZjNfbEdQMUpOalZCNmpLZkNnMXNfSVlYV1hQTUFPb0toLWlnSDNMaHVXVTIxbjQ0N2tKYTQ5Z3pkaDZTSXpQQ0xqWTBYR1VEcDJ3MFdfLU92dUlNemZ3eVg2cU5Ra0dVc3NWelpkc1lLdkYzR25kLXNORzdPRi1Z?oc=5",
+      "source": "PBS",
+      "published": "2026-07-23T23:45:19+00:00",
       "score": 4.0,
       "tags": [
         "tension"
@@ -83,7 +73,7 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVDdQcng3T0ZQTU1Ia3haYlNaNXI1NUZFY1NNZU9ycFozeTl1ZUQ1ZmxaTV9pUEFsdUx2aFFoTXA2Sk8tUFVUbG9iOG5xNEFneG9mcEtKVTgwMV9pbUsyd3FPekY4N3JERHFYS2NCQnN6SGhNQWxmbDZVQi0xbml4OGRYcDBDeTJtaW9nTG05bHo2djk3QUhRTFNKM1Mtdw?oc=5",
       "source": "Crypto Briefing",
       "published": "2026-07-22T22:15:21+00:00",
-      "score": 3.73,
+      "score": 3.69,
       "tags": [
         "tension"
       ]
@@ -93,7 +83,7 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUnhfYmpoSDFLTUlyOXVGZEpYM0Z5b2Vwb3JBdDdWdTBmT1hsOHd1ZGR4TUM3TDZ3QVN2azAtaDJpQVhNdE16UmgwTlA3YzhCQVk0dWlMbzF0M1NYVW9oZnVFTWpGRkE2UDVOOFhBTEJxcFhQNEU1bmtfM1dOYWNhcnJKTnZmU2pWeUstVGJhYjk1RmFOal90SEhacXRqV3M?oc=5",
       "source": "USA Today",
       "published": "2026-07-22T16:09:00+00:00",
-      "score": 3.59,
+      "score": 3.55,
       "tags": [
         "tension"
       ]
@@ -103,34 +93,44 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUENUNzlRRzA0WEU1a0JwVmhWeExFMkxFSEZqcU4tSGhkR0hoWTdsZVdxVTlyUVQzeEtPM1pYMVFDNU11TDZhV1J3T1R3VDExZkV3ekhRRURubGR4Wm1NdFBtUm1aeG15ZU5tUFRydENOS0ljajQ1bzB5MWJNckRwbExCN0lxOUV5YlNZTmlZYW9IRkxiODd6WW13ak0xU1ZCSDhvSEp1SHVlQzdVUDA2QXBxb0RwUXhHT0F1UkFNNA?oc=5",
       "source": "Investing.com",
       "published": "2026-07-19T06:43:19+00:00",
-      "score": 3.56,
+      "score": 3.49,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iran attacks another tanker in Strait of Hormuz, drawing US warning - Fox Business",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnRDJXWlBrN1BhSEtYRGV1ZlJocWtYVzFNMlNuU2w0N2VhZHdOQ2dONy1EUGQ2b2IyNVhrUi0xY0I4Y0VuUU1OanhHODVwNWZlY1ZvblVjTVZCdG8?oc=5",
-      "source": "Fox Business",
-      "published": "2026-07-21T14:03:05+00:00",
-      "score": 3.01,
+      "title": "U.S. carries out more strikes as Trump threatens Iran, Houthis with \"major military punishment\" - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbnFoblVaeW56TWFYUWE1SGl5N0RtX2t1S25oOFprWVlLZjFPa0Nmdm5hWjdzcmNpTGJCejk5OUxnMF9Pbnh0SklXc3BRYlktaVR2cS1Mbk1FNVVhak5QakV0UEh2VXF5UEFJQ2ppWXZ1Um9FX2lYSEpiaUEtT3dFaEQ2N3lRdTRLSjZRTnZGWk1PUk1tWHUwOVdVZjc?oc=5",
+      "source": "CBS News",
+      "published": "2026-07-24T10:12:00+00:00",
+      "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Yemen's Houthis attack Saudi tankers in the Red Sea, threatening to widen Iran war - PBS",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc3lpSXEyQTdWMEgxRzJUZGZsLVd2M2FQNkYwd1hPazR2MVFsYjlVRFVBMHlXUjUtem1EVWdHaXp1RjdwYXVoajlWUzFsUzJ0aUN6N1M3OENWcWZNUzByV3Q0VHBTWjVHMGdFdjkwY1o2d1N4R09YWkJUYUFrLTFsTzF6NjZnUUF5LXZ3X2NmNWJiTGMxbkQtX2dQaVFLOXpkY0dUaVN0bDNhV1ZEbFhEWjNVVlJDUdIBuwFBVV95cUxNZXRKaWZKMEhyWnZ4UG50OWh1blFORFlvVHQxUlJMaFp5U0hJc2FXeHRwT212V1haZE5HeDhVUTRVOHJ2RXZuYXFaWGRET3RVamtPTUtfbmdmeUVQMDduYWp0UmpoM05nNUZjX09VeHg3UUxmWGxYRTZkd0NORzdoV29yU3d6ZVlLMmlBNHpPSjdCRHRIa3NCRnpfOFRqaDQxY0ZVZ2tmcVRBTGc3RDFtUkVTVlFDcFV5ek04?oc=5",
-      "source": "PBS",
-      "published": "2026-07-23T17:26:28+00:00",
+      "title": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NYkF5b3JJS0stVWZxYS05X2tzQm8yNDFIUnktWjlmYUg2MFVfT3dlZEVhX2t1YkpGQTNEVUQ0OU9vUXRsc2k0eENXUUJuOFU0Z1pQUEhWenlwZw?oc=5",
+      "source": "BBC",
+      "published": "2026-07-23T16:50:59+00:00",
       "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Oil tankers attacked as Iran threatens to turn second trade route into a \u2018Gate of Tears\u2019 - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRkJKVWFoWEl3NG02VG5ZNFBDNl9BdDZ4YnNKVVpzMkhUdTItWUJpMFJkQ2FiOV9Rd0Z3SVozNVYxbnItZnRtT1JIRS0zVmN6X0UtSjVvanEtMEFNTFNaNVJkS0NOcXNJb2o1bW51ZG5LOE5wNVB1bk41S1lqZXYtcV9uLWZhLXkwVW5icEFwdXJmbUp2TGpJNXRvZ1ZQODdlQUY5bUtidnBiQVFuVjdRUQ?oc=5",
+      "source": "NBC News",
+      "published": "2026-07-23T11:07:00+00:00",
+      "score": 2.98,
       "tags": [
         "tension"
       ]
     }
   ],
   "brent": {
-    "price": 92.0,
-    "change_pct": -2.4
+    "price": 91.93,
+    "change_pct": -2.47
   }
 }
