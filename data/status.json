@@ -1,28 +1,17 @@
 {
-  "status": "CLOSED",
-  "label": "Closure reported",
-  "tension_index": 159.4,
-  "closure_signals": 3,
-  "articles_scanned": 220,
-  "updated": "2026-07-24T17:23:19.951006+00:00",
+  "status": "DISRUPTED",
+  "label": "Major disruption reported",
+  "tension_index": 159.1,
+  "closure_signals": 2,
+  "articles_scanned": 219,
+  "updated": "2026-07-24T18:54:40.644339+00:00",
   "headlines": [
     {
       "title": "Houthis attack tankers in Red Sea, Iran blocks Strait of Hormuz, oil prices soar - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QMkFoYmNhRkwxaFNUZk5Gc3J4RzZMQXdFd1R6N1dBaUd1eGIzV3hMSDJVY0h0STRMRF9PVGNEWmVrM01NQkxVV2dlSDd4WmZmM2hvRHNRN2M5X0hL?oc=5",
       "source": "The Jerusalem Post",
       "published": "2026-07-23T05:50:57+00:00",
-      "score": 10.29,
-      "tags": [
-        "closure",
-        "tension"
-      ]
-    },
-    {
-      "title": "Strait of Hormuz closed again, Iran says, as ships attacked - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS3FqODVBWlYwWFBySFNFb0xHYlVYVUhoU1VwVmZXQ1NEN3BWNGYwclZEOTZpMktwN0NzMVJGV210Yi10YjRPU3RiTVpOOG9VeHVCVHNQcHM3M21jTTBablpVYWhnUElxeHkwdDJEUjFsVm10bVEwMDl0QWJNX3VpMQ?oc=5",
-      "source": "AOL.com",
-      "published": "2026-07-20T15:48:04+00:00",
-      "score": 7.69,
+      "score": 10.2,
       "tags": [
         "closure",
         "tension"
@@ -33,9 +22,19 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04UHNGVGN4bUhNMHZQSS1mUG80ZmlLTV9LSWwyVy1OX3BXbEx2aG1vbG5oYVExaE4tR1dQZVpkQjR6QWV3SDJhb1RQM2pWZDMtZHc?oc=5",
       "source": "\u0627\u06cc\u0631\u0627\u0646 \u0627\u06cc\u0646\u062a\u0631\u0646\u0634\u0646\u0627\u0644",
       "published": "2026-07-22T23:53:00+00:00",
-      "score": 5.42,
+      "score": 5.37,
       "tags": [
         "closure"
+      ]
+    },
+    {
+      "title": "Oil shipments are under attack on multiple fronts as fighting escalates in Red Sea, Hormuz and Black Sea - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYnZkSnE3cjdkVWpBWnVkQi1qUndVbHZkb2Q3amhCWEdibTlJNVRzcEt5OUNnQTd3QnBfUjlwV2Q5SVJ4cTlVelpQLXpva0l6allVSDVEOTRJc2I5R2ZJclk5Ukc1VzhkQ2hNQkdNeVllaEZMWlJ6d25KelM0RURFdFhjcGQ1ZkpkeDVia0Jn?oc=5",
+      "source": "CNBC",
+      "published": "2026-07-24T18:47:41+00:00",
+      "score": 4.0,
+      "tags": [
+        "tension"
       ]
     },
     {
@@ -73,7 +72,7 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUnhfYmpoSDFLTUlyOXVGZEpYM0Z5b2Vwb3JBdDdWdTBmT1hsOHd1ZGR4TUM3TDZ3QVN2azAtaDJpQVhNdE16UmgwTlA3YzhCQVk0dWlMbzF0M1NYVW9oZnVFTWpGRkE2UDVOOFhBTEJxcFhQNEU1bmtfM1dOYWNhcnJKTnZmU2pWeUstVGJhYjk1RmFOal90SEhacXRqV3M?oc=5",
       "source": "USA Today",
       "published": "2026-07-22T16:09:00+00:00",
-      "score": 3.44,
+      "score": 3.41,
       "tags": [
         "tension"
       ]
@@ -83,9 +82,29 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUENUNzlRRzA0WEU1a0JwVmhWeExFMkxFSEZqcU4tSGhkR0hoWTdsZVdxVTlyUVQzeEtPM1pYMVFDNU11TDZhV1J3T1R3VDExZkV3ekhRRURubGR4Wm1NdFBtUm1aeG15ZU5tUFRydENOS0ljajQ1bzB5MWJNckRwbExCN0lxOUV5YlNZTmlZYW9IRkxiODd6WW13ak0xU1ZCSDhvSEp1SHVlQzdVUDA2QXBxb0RwUXhHT0F1UkFNNA?oc=5",
       "source": "Investing.com",
       "published": "2026-07-19T06:43:19+00:00",
-      "score": 3.26,
+      "score": 3.19,
       "tags": [
         "closure"
+      ]
+    },
+    {
+      "title": "Oman talking with Tehran on Hormuz as US and Iran continue strikes - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd2ZJX0ZWTDkxMHpET0xGNDRuRWZlZERxb2p4SWpyVGVzdmtjR0pYRkYxLW8yNEhaTC04QmpLVGkzZE9QQ2tMZnVoZFlMbmVxTExSOGxnc2JzLXpGdXdjRVFfUVh1aEdNWmxZLTVBUjhKNTl1Y3c5UUhCZlVsdFpHODRHWk1HRUtHR1F2Zk1zTUhOcElQamJubVEyWnZQa2p6blVVcWgtVjBwU1HSAbABQVVfeXFMTTBRc1hKbmxKSmlIUXVVS09ZT3Zpc0JVbVNZXzI1RFVXXzNJbHVjZndLbm9aTnRJTGlkZmV5aUxtRTJBLUgzQS1HWE1TNEhGLVg4R3JETGRBTkJ6alFGbEJnUGx2c1pJekFpUUMyc1pSRXNlN1VfdUhWb2xuV2ZPb08xMXRPWmJCbDVFMWZRYndFSHdsamxsa0R5Y1pveWVMVzZHZDUxbXdkWFdxNF9xbUM?oc=5",
+      "source": "Al Jazeera",
+      "published": "2026-07-24T18:30:19+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "LPG tanker with 28 Indian crew members attacked in Strait of Hormuz, embassy says - Anadolu Ajans\u0131",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVXNVeU9IellFbk5MdV92MzNHRG5YcEQ5M2dHZjl0b2VWNFpCR0FqQ3Z0RzdpbG1Iek16RGZaWkZGbEVKcVJENFQ3WC1rVGllRE00TUxsQ2JNQ3R6OWFJYnhYb0syMXE2SmZxd2hzZF9ORXdNbHVPSzNzdG5RQkdBejhSRjlsZzd5UEp2Q21WWk4wNXVfSHpqZGRTUG5MZlpZRFVCUEpVUkpGdkpyVjJJUnYxZzQ0LVJDR1JYWldkVlFxaXM?oc=5",
+      "source": "Anadolu Ajans\u0131",
+      "published": "2026-07-24T17:58:49+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
       ]
     },
     {
@@ -107,30 +126,10 @@
       "tags": [
         "tension"
       ]
-    },
-    {
-      "title": "US attacks Iran as Houthis allow Chinese ships to pass: What\u2019s the latest? - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaXJSbVVjUnRLMnBxSXltZTJEVzFKelZkdHl5eHNRUEk0S2Z6bVJmNWxMbG1BenZVdGVIdFlJMDh2RVpKRG5PQkNNWDduZFpaRnJ5NzlKUmVLVzA0SzNhanRoNVR3RDlla01QTXZHWnJNMlUyQmM2bDJWdDNsemRnNTBENE9SMVZJOFkyWkhTWXdHeHkyZGZFMG1ZTUhhY2xvdWt4b3ZKNlA2Z1B0dWFTajl30gG3AUFVX3lxTE83SkVwOUxXSnlxeEVUWDZGcWVOREhvRGtZMkd5UG1SNTR1UWF0WFJCZVh5ZFZha0xORmxRQThVTVlBY2FtVHkxSzhmUWZ5bkRhcTBlSVI1bFNYX3NDNXJqTzRyVDZ0NGtUTzQzZ2NSZGF6X1p4bnF3WnhGdDcwSUJkY1JOMGllcVJRTmh6TXV3cG9IcmJwdTBoaU9TWTFqN29Ubi1TTjM2dXRDT3RMWnNvb0puWjgwVQ?oc=5",
-      "source": "Al Jazeera",
-      "published": "2026-07-24T08:04:24+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NYkF5b3JJS0stVWZxYS05X2tzQm8yNDFIUnktWjlmYUg2MFVfT3dlZEVhX2t1YkpGQTNEVUQ0OU9vUXRsc2k0eENXUUJuOFU0Z1pQUEhWenlwZw?oc=5",
-      "source": "BBC",
-      "published": "2026-07-23T16:50:59+00:00",
-      "score": 2.99,
-      "tags": [
-        "tension"
-      ]
     }
   ],
   "brent": {
-    "price": 96.04,
-    "change_pct": -4.62
+    "price": 96.59,
+    "change_pct": -4.07
   }
 }
