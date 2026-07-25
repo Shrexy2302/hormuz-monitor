@@ -1,17 +1,17 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 141.0,
+  "tension_index": 156.2,
   "closure_signals": 2,
-  "articles_scanned": 216,
-  "updated": "2026-07-25T02:56:34.465096+00:00",
+  "articles_scanned": 215,
+  "updated": "2026-07-25T05:41:10.343040+00:00",
   "headlines": [
     {
       "title": "Houthis attack tankers in Red Sea, Iran blocks Strait of Hormuz, oil prices soar - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QMkFoYmNhRkwxaFNUZk5Gc3J4RzZMQXdFd1R6N1dBaUd1eGIzV3hMSDJVY0h0STRMRF9PVGNEWmVrM01NQkxVV2dlSDd4WmZmM2hvRHNRN2M5X0hL?oc=5",
       "source": "The Jerusalem Post",
       "published": "2026-07-23T05:50:57+00:00",
-      "score": 9.71,
+      "score": 9.54,
       "tags": [
         "closure",
         "tension"
@@ -22,7 +22,7 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04UHNGVGN4bUhNMHZQSS1mUG80ZmlLTV9LSWwyVy1OX3BXbEx2aG1vbG5oYVExaE4tR1dQZVpkQjR6QWV3SDJhb1RQM2pWZDMtZHc?oc=5",
       "source": "\u0627\u06cc\u0631\u0627\u0646 \u0627\u06cc\u0646\u062a\u0631\u0646\u0634\u0646\u0627\u0644",
       "published": "2026-07-22T23:53:00+00:00",
-      "score": 5.1,
+      "score": 5.01,
       "tags": [
         "closure"
       ]
@@ -42,7 +42,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZFlIOUdhNTJFQmRjcTdxajRiWUUxZTNFdGgyZWtmN0IxODRWR0NVTS1sdVU5ZWJRUkZtU3M5ank3TU91UW5hS3l4NkFFYnE1S0hGVWxhWk9STHV6YUc1ZkRNS28tRC1DNmtzTm1VWkgyV19nOGFsRTJaR0N5TVNNajNvd0pSTnNBNjNzNWkxZFF5OXNBZWI2ak9jbXotd0RzTm5heXFMX0p1alk?oc=5",
       "source": "ABC7 New York",
       "published": "2026-07-23T23:52:17+00:00",
-      "score": 3.93,
+      "score": 3.87,
       "tags": [
         "tension"
       ]
@@ -52,7 +52,7 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRVpyREpBdHFEMGNNTG5MclduQkZvbEozOUc3c0RwVk11ZHZodFBwU1FLTy1BdzZHVExPMWpEOGUwQkx3VXROcmdSd3FGVVBBdndnRDhuTEYwaU9NdE84aGEzWHJFVUVRWjJLUnZFLTFCZ2hScEtCSmV4OFhMNWd3YXA5RlV3ZWpvQWZPaFFqWUJQVFJmblE4T2w4b0NmRHYzd2V5MlVFNzl1RHB5UDkzNE03VDRLb25wN0xqRUtRQVRHUdIBxwFBVV95cUxQM1pKRVhmTEtVVExOWVN1YWNLNkdfelp6OVZiZWRFMFhQd2h4WDBzSzdJQTlRSlVlVWhGMnBfczRfejRYcW9tb0xUMGhBcFB6ZjNfbEdQMUpOalZCNmpLZkNnMXNfSVlYV1hQTUFPb0toLWlnSDNMaHVXVTIxbjQ0N2tKYTQ5Z3pkaDZTSXpQQ0xqWTBYR1VEcDJ3MFdfLU92dUlNemZ3eVg2cU5Ra0dVc3NWelpkc1lLdkYzR25kLXNORzdPRi1Z?oc=5",
       "source": "PBS",
       "published": "2026-07-23T23:45:19+00:00",
-      "score": 3.93,
+      "score": 3.87,
       "tags": [
         "tension"
       ]
@@ -62,7 +62,17 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUnhfYmpoSDFLTUlyOXVGZEpYM0Z5b2Vwb3JBdDdWdTBmT1hsOHd1ZGR4TUM3TDZ3QVN2azAtaDJpQVhNdE16UmgwTlA3YzhCQVk0dWlMbzF0M1NYVW9oZnVFTWpGRkE2UDVOOFhBTEJxcFhQNEU1bmtfM1dOYWNhcnJKTnZmU2pWeUstVGJhYjk1RmFOal90SEhacXRqV3M?oc=5",
       "source": "USA Today",
       "published": "2026-07-22T16:09:00+00:00",
-      "score": 3.23,
+      "score": 3.17,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "U.S. Forces Strike Another Iran-Linked Tanker in Strait of Hormuz - The Maritime Executive",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVWF6Z2RRdXZJcnRnYksxM1VhTmRERU9sSTZtRUhDQ3dQTWJZNTA4Nm9Ic1dzVllqYTk0VEVpc1kyV3N6WlJBRFY1c0JOZkYwMWdOQkVCY01WVzNZbkNFaHZDUk9XcFA5MTZ2OTBIX01hT1FibDkycjNqS2VKc1FISEhYYWw0NlJWdVJWQ3V3WGlHUVlXZnhyMTNRNVZxN3EzdEdTTTZn?oc=5",
+      "source": "The Maritime Executive",
+      "published": "2026-07-25T03:55:58+00:00",
+      "score": 3.0,
       "tags": [
         "tension"
       ]
@@ -88,6 +98,16 @@
       ]
     },
     {
+      "title": "Are US strikes setting the stage for a broader Iran war? - \u0627\u06cc\u0631\u0627\u0646 \u0627\u06cc\u0646\u062a\u0631\u0646\u0634\u0646\u0627\u0644",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PSGRSaVF3UEs3VW14Q2loWFJtUkhNcWNLWG1LRTBqeTB6b01VY3diRFRqWDUzRldyZml2VnY2V0o5cXVWX3VhSTVSM1NPa2dZWFE?oc=5",
+      "source": "\u0627\u06cc\u0631\u0627\u0646 \u0627\u06cc\u0646\u062a\u0631\u0646\u0634\u0646\u0627\u0644",
+      "published": "2026-07-24T20:42:19+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
       "title": "Oman talking with Tehran on Hormuz as US and Iran continue strikes - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd2ZJX0ZWTDkxMHpET0xGNDRuRWZlZERxb2p4SWpyVGVzdmtjR0pYRkYxLW8yNEhaTC04QmpLVGkzZE9QQ2tMZnVoZFlMbmVxTExSOGxnc2JzLXpGdXdjRVFfUVh1aEdNWmxZLTVBUjhKNTl1Y3c5UUhCZlVsdFpHODRHWk1HRUtHR1F2Zk1zTUhOcElQamJubVEyWnZQa2p6blVVcWgtVjBwU1HSAbABQVVfeXFMTTBRc1hKbmxKSmlIUXVVS09ZT3Zpc0JVbVNZXzI1RFVXXzNJbHVjZndLbm9aTnRJTGlkZmV5aUxtRTJBLUgzQS1HWE1TNEhGLVg4R3JETGRBTkJ6alFGbEJnUGx2c1pJekFpUUMyc1pSRXNlN1VfdUhWb2xuV2ZPb08xMXRPWmJCbDVFMWZRYndFSHdsamxsa0R5Y1pveWVMVzZHZDUxbXdkWFdxNF9xbUM?oc=5",
       "source": "Al Jazeera",
@@ -106,30 +126,10 @@
       "tags": [
         "tension"
       ]
-    },
-    {
-      "title": "U.S. carries out more strikes as Trump threatens Iran, Houthis with \"major military punishment\" - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbnFoblVaeW56TWFYUWE1SGl5N0RtX2t1S25oOFprWVlLZjFPa0Nmdm5hWjdzcmNpTGJCejk5OUxnMF9Pbnh0SklXc3BRYlktaVR2cS1Mbk1FNVVhak5QakV0UEh2VXF5UEFJQ2ppWXZ1Um9FX2lYSEpiaUEtT3dFaEQ2N3lRdTRLSjZRTnZGWk1PUk1tWHUwOVdVZjc?oc=5",
-      "source": "CBS News",
-      "published": "2026-07-24T10:12:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "US launches new strikes on Iran over shipping routes threat - DW.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMHdaLTB5MVh4VVlJalAxaXRJV1FkdFp2RXRlMnlvUk5ndk9US0dSdnhPYUVvVzFabXBiWEFvQnB3QUtOdXZFWUdyS2Vkck1LOU9OSEttUno3b3F0NWVPYkIwYXlQd2R1NURGY1lpWXRUdEVVcUY5S1FqUGg0OFo5cUdGNGN3djJDLTh0YTlackxjdVEwbGF5dWNhcw?oc=5",
-      "source": "DW.com",
-      "published": "2026-07-24T09:59:17+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
     }
   ],
   "brent": {
-    "price": 98.38,
-    "change_pct": -2.29
+    "price": 96.78,
+    "change_pct": -3.88
   }
 }
