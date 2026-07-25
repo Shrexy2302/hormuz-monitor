@@ -1,17 +1,17 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 142.2,
+  "tension_index": 147.7,
   "closure_signals": 1,
-  "articles_scanned": 220,
-  "updated": "2026-07-25T21:23:12.497438+00:00",
+  "articles_scanned": 221,
+  "updated": "2026-07-25T22:24:53.834225+00:00",
   "headlines": [
     {
       "title": "Houthis attack tankers in Red Sea, Iran blocks Strait of Hormuz, oil prices soar - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QMkFoYmNhRkwxaFNUZk5Gc3J4RzZMQXdFd1R6N1dBaUd1eGIzV3hMSDJVY0h0STRMRF9PVGNEWmVrM01NQkxVV2dlSDd4WmZmM2hvRHNRN2M5X0hL?oc=5",
       "source": "The Jerusalem Post",
       "published": "2026-07-23T05:50:57+00:00",
-      "score": 8.58,
+      "score": 8.52,
       "tags": [
         "closure",
         "tension"
@@ -22,7 +22,7 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04UHNGVGN4bUhNMHZQSS1mUG80ZmlLTV9LSWwyVy1OX3BXbEx2aG1vbG5oYVExaE4tR1dQZVpkQjR6QWV3SDJhb1RQM2pWZDMtZHc?oc=5",
       "source": "\u0627\u06cc\u0631\u0627\u0646 \u0627\u06cc\u0646\u062a\u0631\u0646\u0634\u0646\u0627\u0644",
       "published": "2026-07-22T23:53:00+00:00",
-      "score": 4.48,
+      "score": 4.45,
       "tags": [
         "closure"
       ]
@@ -32,7 +32,7 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYnZkSnE3cjdkVWpBWnVkQi1qUndVbHZkb2Q3amhCWEdibTlJNVRzcEt5OUNnQTd3QnBfUjlwV2Q5SVJ4cTlVelpQLXpva0l6allVSDVEOTRJc2I5R2ZJclk5Ukc1VzhkQ2hNQkdNeVllaEZMWlJ6d25KelM0RURFdFhjcGQ1ZkpkeDVia0Jn0gGTAUFVX3lxTE16dkxjTHEtc0Yzc1lhYkw5aEVVMG9aYlczbnFrSS1lY3EyNWpPSWw4bVpGMlQ0cGdOVnFNYjJUTHg3cW1VMkFZaHJHUl9uMEJVZlhOY1Bqc0FHQ3JHTUxjLW1jWEZqX0F3YWZ3clJyU2l2RDNQOXBHVXhwa3dscDFyaDVHUXdWN2xYV3dUNE5JTVg4Yw?oc=5",
       "source": "CNBC",
       "published": "2026-07-24T18:47:41+00:00",
-      "score": 3.94,
+      "score": 3.92,
       "tags": [
         "tension"
       ]
@@ -42,7 +42,7 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcnlLbThERmk1bktscWE2bzVoZDlSbUdiYkpReTd0bVY1LVl2aFloaGNyUnVERkI3STFQVE1Na1VraFV3R0QwOWJuTXdBYW4wUjBsSzdNX1dBSVI0emRPM3dncFVhRzVMbnRYX0lkbllfTVJCMDlrOVZOaTd1bFlVaGZ0aHdtR1BQSTNCbEl1b09GZHNKNkdnOWNSSkFycDlBNVhkNlIwakI3YVVaai1PUVZpVENMVE9fQ3lpenZCdHc1Zw?oc=5",
       "source": "The Washington Post",
       "published": "2026-07-24T05:50:18+00:00",
-      "score": 3.65,
+      "score": 3.63,
       "tags": [
         "tension"
       ]
@@ -52,7 +52,17 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZHFrc1BFd1MyNGJEdWFibkJiY1dGVjRNY2tOWUNTbEZTaEw5Z3liZFUxOWExS3ZhdExIZGpjRUFsSW9WWVcyZC1aRmdaRWtVSUFyVHBxeU5wOWZfYTBYbFpZZ25uYUVxUE8tRzQ0d2VOYVk2bTZlUW8yY0RZdnFmQnVqQjRkc2RoQ2Nya19n?oc=5",
       "source": "AP News",
       "published": "2026-07-24T03:26:00+00:00",
-      "score": 3.6,
+      "score": 3.58,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Houthi attacks raise fears of wider Middle East conflict and more global economic damage - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oVlRJbjJ3d1BLRjJGR2hrclg2ckp6YVZ3Z25oa3dScWVfcTAxN0YtRi1EZE9yck1yeGp4X2VxRldBeE9wSGQ2SThfSWs0MzdvUmZ5ZEFQX1hUUQ?oc=5",
+      "source": "BBC",
+      "published": "2026-07-24T01:59:49+00:00",
+      "score": 3.55,
       "tags": [
         "tension"
       ]
@@ -62,7 +72,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZFlIOUdhNTJFQmRjcTdxajRiWUUxZTNFdGgyZWtmN0IxODRWR0NVTS1sdVU5ZWJRUkZtU3M5ank3TU91UW5hS3l4NkFFYnE1S0hGVWxhWk9STHV6YUc1ZkRNS28tRC1DNmtzTm1VWkgyV19nOGFsRTJaR0N5TVNNajNvd0pSTnNBNjNzNWkxZFF5OXNBZWI2ak9jbXotd0RzTm5heXFMX0p1alk?oc=5",
       "source": "ABC7 New York",
       "published": "2026-07-23T23:52:17+00:00",
-      "score": 3.52,
+      "score": 3.5,
       "tags": [
         "tension"
       ]
@@ -72,7 +82,17 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRVpyREpBdHFEMGNNTG5MclduQkZvbEozOUc3c0RwVk11ZHZodFBwU1FLTy1BdzZHVExPMWpEOGUwQkx3VXROcmdSd3FGVVBBdndnRDhuTEYwaU9NdE84aGEzWHJFVUVRWjJLUnZFLTFCZ2hScEtCSmV4OFhMNWd3YXA5RlV3ZWpvQWZPaFFqWUJQVFJmblE4T2w4b0NmRHYzd2V5MlVFNzl1RHB5UDkzNE03VDRLb25wN0xqRUtRQVRHUdIBxwFBVV95cUxQM1pKRVhmTEtVVExOWVN1YWNLNkdfelp6OVZiZWRFMFhQd2h4WDBzSzdJQTlRSlVlVWhGMnBfczRfejRYcW9tb0xUMGhBcFB6ZjNfbEdQMUpOalZCNmpLZkNnMXNfSVlYV1hQTUFPb0toLWlnSDNMaHVXVTIxbjQ0N2tKYTQ5Z3pkaDZTSXpQQ0xqWTBYR1VEcDJ3MFdfLU92dUlNemZ3eVg2cU5Ra0dVc3NWelpkc1lLdkYzR25kLXNORzdPRi1Z?oc=5",
       "source": "PBS",
       "published": "2026-07-23T23:45:19+00:00",
-      "score": 3.52,
+      "score": 3.5,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Houthis claim attack on Saudi oil refinery as Iran war widens to Red Sea - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOVpNZ2psN29sT085Yy0tT0xweWpLcTBRbUxaVlRGS1hJVFRHc3R0QjdlSWEybjlnNmtKYXM4WjQxaG9neGFqZkNrUEthVHJsQ2VEM0VEX2hJc2tIcHNZT0tEV3JQRUtrbk9YT0dGOGo0T0VVbUVkOVZaS29hWHRBcUw0QkJ4VjlSc2h6czhXWGRkT2xiMkJJUlBkcENSX0VjQndrSjJlT25vS2FFSVA4WE5B?oc=5",
+      "source": "The Washington Post",
+      "published": "2026-07-25T21:53:46+00:00",
+      "score": 3.0,
       "tags": [
         "tension"
       ]
@@ -88,9 +108,9 @@
       ]
     },
     {
-      "title": "Iran war: Saudi-led coalition attacks Yemen's Hodeida - dw.com",
+      "title": "Iran war: Saudi-led coalition attacks Yemen's Hodeida - DW.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZDQyeUt4R3dWa001S2xEMk1SYjZONzdkcjNSeE5uNUdMcnVqNVZFMWIwaGxTbmFWRXF4NzBaYXZxRDVOekR4OGRYT1pHVHRXZG5JUFVxWFFLUEsySjBEVWdHdjNsemNaaUdLQ1FocElUSHprRzh4ZGVlX3ZHUFZDbGJJRWdjTGxqbUd3eGw3ZURnTDFaNU9MZWpreWtBQQ?oc=5",
-      "source": "dw.com",
+      "source": "DW.com",
       "published": "2026-07-24T22:40:18+00:00",
       "score": 3.0,
       "tags": [
@@ -102,26 +122,6 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNVk5UlpFZFhXbjF1TzZmMUVTZy1KV3NaMU85TWQ0T2hmQVNSVlg3Zkl1dzU0NzFDaG5tanNzV3lVX3VFTkpsLW1tYzV4NXpYNjYwN0ZucGdLS25IdVFIbzlZS0tzU0FZSWowVkh4RzNmaXMwOVZBUUYzdXNFaHE1c3VmUHN2aXc4bTIyYmgwLUZwSHd3bEdwcA?oc=5",
       "source": "USNI News",
       "published": "2026-07-24T21:34:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iranian media says US strike killed 2 crew members aboard LPG tanker near Strait of Hormuz - Anadolu Ajans\u0131",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPT1ktUjBWdW5jdVJ1TVliVnUyLTVfa3cwM1YzOXBSdm9wclpUM1NkcGVIbDZaMU4zTnJXYnp3MUl1WW5xcTZ4cXBzWEphamtlZWNUeHBzc2xBbGYwT2dFcF8yNmozeHppZWVfZDJtTnFkNnFhR1k1QWdRTmdxZzRCUGN3NktTUDBWbWVsNDZfMzd3ZE83ZTZLa2dNaVdhYTZhUkFTU1htb1ItYWdPc1BRM3NCSDFwakxnSlhqWFp2YWFlek95U0xtZFUtTDUydXNk?oc=5",
-      "source": "Anadolu Ajans\u0131",
-      "published": "2026-07-24T20:55:07+00:00",
-      "score": 2.99,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Are US strikes setting the stage for a broader Iran war? - \u0627\u06cc\u0631\u0627\u0646 \u0627\u06cc\u0646\u062a\u0631\u0646\u0634\u0646\u0627\u0644",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PSGRSaVF3UEs3VW14Q2loWFJtUkhNcWNLWG1LRTBqeTB6b01VY3diRFRqWDUzRldyZml2VnY2V0o5cXVWX3VhSTVSM1NPa2dZWFE?oc=5",
-      "source": "\u0627\u06cc\u0631\u0627\u0646 \u0627\u06cc\u0646\u062a\u0631\u0646\u0634\u0646\u0627\u0644",
-      "published": "2026-07-24T20:42:19+00:00",
       "score": 2.99,
       "tags": [
         "tension"
