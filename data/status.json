@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 174.9,
+  "tension_index": 172.7,
   "closure_signals": 11,
-  "articles_scanned": 217,
-  "updated": "2026-07-26T21:27:13.837003+00:00",
+  "articles_scanned": 215,
+  "updated": "2026-07-26T22:29:36.198254+00:00",
   "headlines": [
     {
       "title": "As Diplomacy Picks Up, Iran Claims Mine Strike on Ship in Strait of Hormuz - The Maritime Executive",
@@ -22,7 +22,7 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QMkFoYmNhRkwxaFNUZk5Gc3J4RzZMQXdFd1R6N1dBaUd1eGIzV3hMSDJVY0h0STRMRF9PVGNEWmVrM01NQkxVV2dlSDd4WmZmM2hvRHNRN2M5X0hL?oc=5",
       "source": "The Jerusalem Post",
       "published": "2026-07-23T05:50:57+00:00",
-      "score": 7.11,
+      "score": 7.05,
       "tags": [
         "closure",
         "tension"
@@ -42,7 +42,7 @@
       "title": "Naval Mine Explodes Against Oil Tanker in Strait of Hormuz... - jordannews.jo",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVFZzRmVCQ2ZuRFprbGJVd3NUbkxzNHRnQWRvcHRiVy1Md0xQTlh6Mml6QmtJMTl2R0xuelFxOFp5VHJfcHJCYUdtZGhEQkJiN1plYV9TZ01hMFpCN0xWUTdHa3hYQ3FrNTVJUFRTRHF0b2dSQ05rUmtnYXVnaWxmMEtXdk5LY294Sjl4ZnQwZzR2TEJhbTZPTWpNRjZjejROckRDTmU3Ym1fRWRiZU1neXBmNA?oc=5",
       "source": "jordannews.jo",
-      "published": "2026-07-26T15:00:15+00:00",
+      "published": "2026-07-26T15:58:27+00:00",
       "score": 6.0,
       "tags": [
         "closure"
@@ -123,14 +123,14 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04UHNGVGN4bUhNMHZQSS1mUG80ZmlLTV9LSWwyVy1OX3BXbEx2aG1vbG5oYVExaE4tR1dQZVpkQjR6QWV3SDJhb1RQM2pWZDMtZHc?oc=5",
       "source": "\u0627\u06cc\u0631\u0627\u0646 \u0627\u06cc\u0646\u062a\u0631\u0646\u0634\u0646\u0627\u0644",
       "published": "2026-07-22T23:53:00+00:00",
-      "score": 3.68,
+      "score": 3.65,
       "tags": [
         "closure"
       ]
     }
   ],
   "brent": {
-    "price": 96.78,
-    "change_pct": 0.0
+    "price": 90.9,
+    "change_pct": -6.08
   }
 }
