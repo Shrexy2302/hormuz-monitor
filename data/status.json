@@ -1,20 +1,80 @@
 {
-  "status": "DISRUPTED",
-  "label": "Major disruption reported",
-  "tension_index": 126.0,
-  "closure_signals": 1,
-  "articles_scanned": 216,
-  "updated": "2026-07-26T12:36:25.298975+00:00",
+  "status": "CLOSED",
+  "label": "Closure reported",
+  "tension_index": 151.1,
+  "closure_signals": 7,
+  "articles_scanned": 213,
+  "updated": "2026-07-26T14:25:49.260806+00:00",
   "headlines": [
     {
       "title": "Houthis attack tankers in Red Sea, Iran blocks Strait of Hormuz, oil prices soar - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QMkFoYmNhRkwxaFNUZk5Gc3J4RzZMQXdFd1R6N1dBaUd1eGIzV3hMSDJVY0h0STRMRF9PVGNEWmVrM01NQkxVV2dlSDd4WmZmM2hvRHNRN2M5X0hL?oc=5",
       "source": "The Jerusalem Post",
       "published": "2026-07-23T05:50:57+00:00",
-      "score": 7.65,
+      "score": 7.54,
       "tags": [
         "closure",
         "tension"
+      ]
+    },
+    {
+      "title": "Oil tanker explodes after hitting naval mine in Strait of Hormuz, IRGC-linked media claims - report - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5bGtET0Y0WWNWM0VDTl9xRVhRUnNFMi1Ccjc5NjVmZU5vamhWLWozelUzcF95Q1RjQ25CNW5DUl80c3hZV3dieHlhT3YzY2N1VFJKS09tanp6M3daNHllTXVPSGhUamJiS1E?oc=5",
+      "source": "The Jerusalem Post",
+      "published": "2026-07-26T13:50:35+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Oil tanker explodes in Strait of Hormuz after hitting naval mine: Iranian media - Anadolu Ajans\u0131",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRkIwVWo1SzBsNVdoNGotejR2elAwaHpqOER5endma1kwa1Y5Tk1Mb3J4QWxZbjVKR1NTMWhqZGpiR3ctUFo4alVyMmZ5dllqczBqNW9iR01ya2R2QTNPWGVuUGFZa19RREFUU3o2ZXk3YXpfZ3NDRFRQbDNweE90b19fTUZYVXJ6NVRmXzRBR3FSNzZmNW9IQmVEVkRjcmtweHFsVjJneExMREtaa3gtXzVFeVd2ZUpDNWg2RUV6Y00?oc=5",
+      "source": "Anadolu Ajans\u0131",
+      "published": "2026-07-26T12:47:31+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "After two quiet days, oil tanker hits mine in Strait of Hormuz - Ynetnews",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92c2RGM1R3NnBWNmR0aG81TFVEamhSOWk3ZGFkSGthNnlEbGJTZHBtMGZobi1nYk9vc3I1amk1alZUTzM2eVhOc2JLa3hCYzlaczNXRzBn?oc=5",
+      "source": "Ynetnews",
+      "published": "2026-07-26T12:46:08+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Oil tanker explodes after hitting naval mine in Strait of Hormuz: Report - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUk5UYnVRWVM0WGdQZC1ZU2pZLVNVNzBmdXlUMnlrOFpvdHF1UmZwYkVVMHFRdWxxQ0R2VGI1aDNORFJrV0NVNEV1ZHBxQWg2Yk9NLTg5X2t0elltbk84MkN2Tk00WFhtakVxUXFVY1NQMVptNElKT1JHRkZoRmc1T0hGbVhVOWRxd2dXT25oZ3hFVFp6aV9uNW5vV3dna2RHVnM3c3RiRWFMQlJoTF9sSm5DOUxtWlZtZmNjdi1BYjZXblFiQi1RR3pqbnRnNDZsc2V3LWpxTjI4MTjSAeABQVVfeXFMUGNnZUFJTzFRVFVFU1Y1NU1BcVJGTjk0TFhwcFFLY0xHTS15RDZfRWJDWXFpbFB4a1g5eEVRUHM2cTlnb0dvUS1FajR5Sm1GbHVNcjQ3QkpQMjBINWpsR0hLdUFEU3BhQ0FiT0sxeGczOGtUSzhyc3RJYlZpZWF1QmFBQzExMEkzZ1MwYkdqX2R0T2U2QTI5ZUdCTkhtM1BKQ2g1RE51QlphZVMzWHlraVVZNlk4M1k4ZUFfNTBtWkxaN2x1SEFSRXphSmZrTTR2ZlpQV0Y3TE90V25tX3VKWDk?oc=5",
+      "source": "India Today",
+      "published": "2026-07-26T12:33:17+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iran\u2019s Tasnim says oil tanker exploded after hitting naval mine in Strait of Hormuz - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaFBFenprR3h3dXdxbXJQTHlfemc3Yk41eDZldVMtclU2R0NRc3QydHRmbFNCM04xcnhPMVcwZ1VRcUlRUUIyODB3b1hveVFMT2ZHTU9EUjBMdlpiYl9Na1lfY0dZQ0UzdTN3bUZuS240R0dSRzdpNTExZEhHNmJNaW8tTGY1YkpxZ21DUFJyblNaLWRwUUZmTkhCZlNSN3FXUFF4cU5JcHNrSEpTWWFmTDZrR3o3QzVqSm1vOXV2bVlVQV9SalJv?oc=5",
+      "source": "The Times of Israel",
+      "published": "2026-07-26T12:29:22+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Breaking | Oil tanker explodes in the Strait of Hormuz after hitting a sea mine - \u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWGhBNHg4cUdTS3lMTzBjS0VPTzNNYlVOLWZMRTlHbW1QVk5YYkgzNGhQQmxGa1NhUzN1N2J3ejJrV3hpMi01Ynp1dmpQMmxKOEQtYTNKQ2VSZlo4OGEyZDBscFVPVW1zR1RldGN0ZXdTcmpuWFNYY29BZzdISGJ4TVAxT1RvUWxyM0plOGxZZ1JiZzhJRzBwQlIxZS12Q2x3eXFjeVk5OThRbGNzV2EyMmFqVmNrY0RQMXR3MDZuZXJTek5JUjZ2dQ?oc=5",
+      "source": "\u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
+      "published": "2026-07-26T12:25:39+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
       ]
     },
     {
@@ -22,7 +82,7 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04UHNGVGN4bUhNMHZQSS1mUG80ZmlLTV9LSWwyVy1OX3BXbEx2aG1vbG5oYVExaE4tR1dQZVpkQjR6QWV3SDJhb1RQM2pWZDMtZHc?oc=5",
       "source": "\u0627\u06cc\u0631\u0627\u0646 \u0627\u06cc\u0646\u062a\u0631\u0646\u0634\u0646\u0627\u0644",
       "published": "2026-07-22T23:53:00+00:00",
-      "score": 3.98,
+      "score": 3.92,
       "tags": [
         "closure"
       ]
@@ -32,17 +92,7 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYnZkSnE3cjdkVWpBWnVkQi1qUndVbHZkb2Q3amhCWEdibTlJNVRzcEt5OUNnQTd3QnBfUjlwV2Q5SVJ4cTlVelpQLXpva0l6allVSDVEOTRJc2I5R2ZJclk5Ukc1VzhkQ2hNQkdNeVllaEZMWlJ6d25KelM0RURFdFhjcGQ1ZkpkeDVia0Jn0gGTAUFVX3lxTE16dkxjTHEtc0Yzc1lhYkw5aEVVMG9aYlczbnFrSS1lY3EyNWpPSWw4bVpGMlQ0cGdOVnFNYjJUTHg3cW1VMkFZaHJHUl9uMEJVZlhOY1Bqc0FHQ3JHTUxjLW1jWEZqX0F3YWZ3clJyU2l2RDNQOXBHVXhwa3dscDFyaDVHUXdWN2xYV3dUNE5JTVg4Yw?oc=5",
       "source": "CNBC",
       "published": "2026-07-24T18:47:41+00:00",
-      "score": 3.6,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "US military launches new strikes on Iran as clashes escalate over shipping routes - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcnlLbThERmk1bktscWE2bzVoZDlSbUdiYkpReTd0bVY1LVl2aFloaGNyUnVERkI3STFQVE1Na1VraFV3R0QwOWJuTXdBYW4wUjBsSzdNX1dBSVI0emRPM3dncFVhRzVMbnRYX0lkbllfTVJCMDlrOVZOaTd1bFlVaGZ0aHdtR1BQSTNCbEl1b09GZHNKNkdnOWNSSkFycDlBNVhkNlIwakI3YVVaai1PUVZpVENMVE9fQ3lpenZCdHc1Zw?oc=5",
-      "source": "The Washington Post",
-      "published": "2026-07-24T06:28:00+00:00",
-      "score": 3.33,
+      "score": 3.56,
       "tags": [
         "tension"
       ]
@@ -52,7 +102,7 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZHFrc1BFd1MyNGJEdWFibkJiY1dGVjRNY2tOWUNTbEZTaEw5Z3liZFUxOWExS3ZhdExIZGpjRUFsSW9WWVcyZC1aRmdaRWtVSUFyVHBxeU5wOWZfYTBYbFpZZ25uYUVxUE8tRzQ0d2VOYVk2bTZlUW8yY0RZdnFmQnVqQjRkc2RoQ2Nya19n?oc=5",
       "source": "AP News",
       "published": "2026-07-24T03:26:00+00:00",
-      "score": 3.26,
+      "score": 3.22,
       "tags": [
         "tension"
       ]
@@ -62,7 +112,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZFlIOUdhNTJFQmRjcTdxajRiWUUxZTNFdGgyZWtmN0IxODRWR0NVTS1sdVU5ZWJRUkZtU3M5ank3TU91UW5hS3l4NkFFYnE1S0hGVWxhWk9STHV6YUc1ZkRNS28tRC1DNmtzTm1VWkgyV19nOGFsRTJaR0N5TVNNajNvd0pSTnNBNjNzNWkxZFF5OXNBZWI2ak9jbXotd0RzTm5heXFMX0p1alk?oc=5",
       "source": "ABC7 New York",
       "published": "2026-07-23T23:52:17+00:00",
-      "score": 3.18,
+      "score": 3.14,
       "tags": [
         "tension"
       ]
@@ -72,57 +122,7 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRVpyREpBdHFEMGNNTG5MclduQkZvbEozOUc3c0RwVk11ZHZodFBwU1FLTy1BdzZHVExPMWpEOGUwQkx3VXROcmdSd3FGVVBBdndnRDhuTEYwaU9NdE84aGEzWHJFVUVRWjJLUnZFLTFCZ2hScEtCSmV4OFhMNWd3YXA5RlV3ZWpvQWZPaFFqWUJQVFJmblE4T2w4b0NmRHYzd2V5MlVFNzl1RHB5UDkzNE03VDRLb25wN0xqRUtRQVRHUdIBxwFBVV95cUxQM1pKRVhmTEtVVExOWVN1YWNLNkdfelp6OVZiZWRFMFhQd2h4WDBzSzdJQTlRSlVlVWhGMnBfczRfejRYcW9tb0xUMGhBcFB6ZjNfbEdQMUpOalZCNmpLZkNnMXNfSVlYV1hQTUFPb0toLWlnSDNMaHVXVTIxbjQ0N2tKYTQ5Z3pkaDZTSXpQQ0xqWTBYR1VEcDJ3MFdfLU92dUlNemZ3eVg2cU5Ra0dVc3NWelpkc1lLdkYzR25kLXNORzdPRi1Z?oc=5",
       "source": "PBS",
       "published": "2026-07-23T23:45:19+00:00",
-      "score": 3.18,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran claims progress in Oman talks after US halts air strikes - South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV1RjVnd4MFJEc0lIb1ctRmM3eEFpMTltUjlUR0VRLU9CWFllaXpuZGFkMnJIbnc4VjZXNzJlLW9oazEyLTEwaGVRWkxndlNOdEFsUVBkRXB2QldZWmFIWVU0bjBIU190YldXYktjZlczZjU5RXk1OFkzWGpCaHotOVNpaWk0eE1WVFJFNUFBYkxFZ25JejIyUlUzSzZnVFZSTl92Nkxoc2hTcDN6Q0xWQUFtdjdEM0U0UVHSAboBQVVfeXFMUFlnMFE0YlE4V2JEa183VjhiQm1BVXEwSGctanA4REc2UEdVVnBBYXctUVREUUNjM2lneE10bzBIYVNXZ1dNRlhrOFdZdWM1Q0tXUUhtdkc1bTZXYkhnSE4xTmI4bGFYRVI5ME4wSEdaWDJVQ200d1lPcHRFekl1cFB2Yk9Cb0lXWUEwak15MFRLV2F1VzRYTUlwajBVZmNacWIzeVkxc0RzTEdaZlFjWmFWZllaeHlHUU9R?oc=5",
-      "source": "South China Morning Post",
-      "published": "2026-07-26T07:52:11+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Bridges and infrastructure hit as US struck deeper inside Iran - AP News",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ0ZCeFZOaU1KWFIyaUQyMk1WdFdEbDRNaUJBSlpvcUFqSVRUVmRUV19ndXdqZElDeGtTSlNRUXZXYV84WXI0RjB5YlhXMXNJampLTGJKQzJLYnlienItemZMdHBDckZ3c1lCbVpMLTU3cGNXSnBlZ0RmNUpyUHozNlVwaF9OcjZqbGw5ZXByXzZNdw?oc=5",
-      "source": "AP News",
-      "published": "2026-07-25T10:30:00+00:00",
-      "score": 2.96,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "U.S. Forces Strike Another Iran-Linked Tanker in Strait of Hormuz - The Maritime Executive",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVWF6Z2RRdXZJcnRnYksxM1VhTmRERU9sSTZtRUhDQ3dQTWJZNTA4Nm9Ic1dzVllqYTk0VEVpc1kyV3N6WlJBRFY1c0JOZkYwMWdOQkVCY01WVzNZbkNFaHZDUk9XcFA5MTZ2OTBIX01hT1FibDkycjNqS2VKc1FISEhYYWw0NlJWdVJWQ3V3WGlHUVlXZnhyMTNRNVZxN3EzdEdTTTZn?oc=5",
-      "source": "The Maritime Executive",
-      "published": "2026-07-25T03:55:58+00:00",
-      "score": 2.86,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran war: Saudi-led coalition attacks Yemen's Hodeida - DW.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZDQyeUt4R3dWa001S2xEMk1SYjZONzdkcjNSeE5uNUdMcnVqNVZFMWIwaGxTbmFWRXF4NzBaYXZxRDVOekR4OGRYT1pHVHRXZG5JUFVxWFFLUEsySjBEVWdHdjNsemNaaUdLQ1FocElUSHprRzh4ZGVlX3ZHUFZDbGJJRWdjTGxqbUd3eGw3ZURnTDFaNU9MZWpreWtBQQ?oc=5",
-      "source": "DW.com",
-      "published": "2026-07-25T00:50:32+00:00",
-      "score": 2.8,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Hormuz Transits Remain Low, Houthis Resume Attacks in Red Sea - USNI News",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNVk5UlpFZFhXbjF1TzZmMUVTZy1KV3NaMU85TWQ0T2hmQVNSVlg3Zkl1dzU0NzFDaG5tanNzV3lVX3VFTkpsLW1tYzV4NXpYNjYwN0ZucGdLS25IdVFIbzlZS0tzU0FZSWowVkh4RzNmaXMwOVZBUUYzdXNFaHE1c3VmUHN2aXc4bTIyYmgwLUZwSHd3bEdwcA?oc=5",
-      "source": "USNI News",
-      "published": "2026-07-24T21:34:00+00:00",
-      "score": 2.75,
+      "score": 3.14,
       "tags": [
         "tension"
       ]
