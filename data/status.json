@@ -1,20 +1,30 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 155.7,
-  "closure_signals": 8,
-  "articles_scanned": 218,
-  "updated": "2026-07-26T16:52:17.059003+00:00",
+  "tension_index": 161.6,
+  "closure_signals": 9,
+  "articles_scanned": 214,
+  "updated": "2026-07-26T17:56:43.519867+00:00",
   "headlines": [
     {
       "title": "Houthis attack tankers in Red Sea, Iran blocks Strait of Hormuz, oil prices soar - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QMkFoYmNhRkwxaFNUZk5Gc3J4RzZMQXdFd1R6N1dBaUd1eGIzV3hMSDJVY0h0STRMRF9PVGNEWmVrM01NQkxVV2dlSDd4WmZmM2hvRHNRN2M5X0hL?oc=5",
       "source": "The Jerusalem Post",
       "published": "2026-07-23T05:50:57+00:00",
-      "score": 7.39,
+      "score": 7.33,
       "tags": [
         "closure",
         "tension"
+      ]
+    },
+    {
+      "title": "Tanker hits mine in the Strait of Hormuz as Iran intercepts six vessels - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcDY4MVdNa1ZJUDFsVkNzRDR6Y0oyZjQ0VW1wQVdaVXUxREJRejlSbC1NVTd3SGtxZkM3d1RpQ1VTbWFTRmJsQ1dZclhJQjU3R09NTjRsOWFDUkVjd1lRTVZaRHBfSlBtUEMybjVsVFhORVdzNnBNSFYxbnlDb2RwUzEtOHF5VDB6Qk9Nb1gwWV95eE4zOGcwbk90eFB2ZUc2WmJ4NEhPNExZUVVXWDJBNTlNTQ?oc=5",
+      "source": "New York Post",
+      "published": "2026-07-26T16:54:00+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
       ]
     },
     {
@@ -92,7 +102,7 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04UHNGVGN4bUhNMHZQSS1mUG80ZmlLTV9LSWwyVy1OX3BXbEx2aG1vbG5oYVExaE4tR1dQZVpkQjR6QWV3SDJhb1RQM2pWZDMtZHc?oc=5",
       "source": "\u0627\u06cc\u0631\u0627\u0646 \u0627\u06cc\u0646\u062a\u0631\u0646\u0634\u0646\u0627\u0644",
       "published": "2026-07-22T23:53:00+00:00",
-      "score": 3.83,
+      "score": 3.8,
       "tags": [
         "closure"
       ]
@@ -102,7 +112,7 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYnZkSnE3cjdkVWpBWnVkQi1qUndVbHZkb2Q3amhCWEdibTlJNVRzcEt5OUNnQTd3QnBfUjlwV2Q5SVJ4cTlVelpQLXpva0l6allVSDVEOTRJc2I5R2ZJclk5Ukc1VzhkQ2hNQkdNeVllaEZMWlJ6d25KelM0RURFdFhjcGQ1ZkpkeDVia0Jn0gGTAUFVX3lxTE16dkxjTHEtc0Yzc1lhYkw5aEVVMG9aYlczbnFrSS1lY3EyNWpPSWw4bVpGMlQ0cGdOVnFNYjJUTHg3cW1VMkFZaHJHUl9uMEJVZlhOY1Bqc0FHQ3JHTUxjLW1jWEZqX0F3YWZ3clJyU2l2RDNQOXBHVXhwa3dscDFyaDVHUXdWN2xYV3dUNE5JTVg4Yw?oc=5",
       "source": "CNBC",
       "published": "2026-07-24T18:47:41+00:00",
-      "score": 3.51,
+      "score": 3.49,
       "tags": [
         "tension"
       ]
@@ -112,16 +122,6 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZHFrc1BFd1MyNGJEdWFibkJiY1dGVjRNY2tOWUNTbEZTaEw5Z3liZFUxOWExS3ZhdExIZGpjRUFsSW9WWVcyZC1aRmdaRWtVSUFyVHBxeU5wOWZfYTBYbFpZZ25uYUVxUE8tRzQ0d2VOYVk2bTZlUW8yY0RZdnFmQnVqQjRkc2RoQ2Nya19n?oc=5",
       "source": "AP News",
       "published": "2026-07-24T03:26:00+00:00",
-      "score": 3.17,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Houthi attacks raise fears of wider Middle East conflict and more global economic damage - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oVlRJbjJ3d1BLRjJGR2hrclg2ckp6YVZ3Z25oa3dScWVfcTAxN0YtRi1EZE9yck1yeGp4X2VxRldBeE9wSGQ2SThfSWs0MzdvUmZ5ZEFQX1hUUQ?oc=5",
-      "source": "BBC",
-      "published": "2026-07-24T01:59:49+00:00",
       "score": 3.14,
       "tags": [
         "tension"
