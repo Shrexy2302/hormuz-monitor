@@ -1,17 +1,28 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 159.6,
-  "closure_signals": 9,
-  "articles_scanned": 216,
-  "updated": "2026-07-26T20:28:20.245104+00:00",
+  "tension_index": 174.9,
+  "closure_signals": 11,
+  "articles_scanned": 217,
+  "updated": "2026-07-26T21:27:13.837003+00:00",
   "headlines": [
+    {
+      "title": "As Diplomacy Picks Up, Iran Claims Mine Strike on Ship in Strait of Hormuz - The Maritime Executive",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSUZEZ3NjVWRlSUUzQ09iMW8xSWtYR3ltc2VQRzJIYXZrU1dNN1hCM1BNZW9qYWRDQkltZGVlUGU3V3JyT3BnQ01MWEhaRWJHOWxQNjJIVWJTaE4wUHRQNHhiV1NBRk1MTVdSRFNLWFE3dXZJVUxMNG1XWGhPWEZEMDVlQTZlRWNjNmFyc3B1Y29LUWdTQUQ1RE5UX1MyRFZPS1RKVnllaXB4SHFBTHVGb0VB?oc=5",
+      "source": "The Maritime Executive",
+      "published": "2026-07-26T18:04:00+00:00",
+      "score": 9.0,
+      "tags": [
+        "closure",
+        "tension"
+      ]
+    },
     {
       "title": "Houthis attack tankers in Red Sea, Iran blocks Strait of Hormuz, oil prices soar - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QMkFoYmNhRkwxaFNUZk5Gc3J4RzZMQXdFd1R6N1dBaUd1eGIzV3hMSDJVY0h0STRMRF9PVGNEWmVrM01NQkxVV2dlSDd4WmZmM2hvRHNRN2M5X0hL?oc=5",
       "source": "The Jerusalem Post",
       "published": "2026-07-23T05:50:57+00:00",
-      "score": 7.17,
+      "score": 7.11,
       "tags": [
         "closure",
         "tension"
@@ -22,6 +33,16 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcDY4MVdNa1ZJUDFsVkNzRDR6Y0oyZjQ0VW1wQVdaVXUxREJRejlSbC1NVTd3SGtxZkM3d1RpQ1VTbWFTRmJsQ1dZclhJQjU3R09NTjRsOWFDUkVjd1lRTVZaRHBfSlBtUEMybjVsVFhORVdzNnBNSFYxbnlDb2RwUzEtOHF5VDB6Qk9Nb1gwWV95eE4zOGcwbk90eFB2ZUc2WmJ4NEhPNExZUVVXWDJBNTlNTQ?oc=5",
       "source": "New York Post",
       "published": "2026-07-26T16:54:00+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Naval Mine Explodes Against Oil Tanker in Strait of Hormuz... - jordannews.jo",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVFZzRmVCQ2ZuRFprbGJVd3NUbkxzNHRnQWRvcHRiVy1Md0xQTlh6Mml6QmtJMTl2R0xuelFxOFp5VHJfcHJCYUdtZGhEQkJiN1plYV9TZ01hMFpCN0xWUTdHa3hYQ3FrNTVJUFRTRHF0b2dSQ05rUmtnYXVnaWxmMEtXdk5LY294Sjl4ZnQwZzR2TEJhbTZPTWpNRjZjejROckRDTmU3Ym1fRWRiZU1neXBmNA?oc=5",
+      "source": "jordannews.jo",
+      "published": "2026-07-26T15:00:15+00:00",
       "score": 6.0,
       "tags": [
         "closure"
@@ -102,29 +123,9 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04UHNGVGN4bUhNMHZQSS1mUG80ZmlLTV9LSWwyVy1OX3BXbEx2aG1vbG5oYVExaE4tR1dQZVpkQjR6QWV3SDJhb1RQM2pWZDMtZHc?oc=5",
       "source": "\u0627\u06cc\u0631\u0627\u0646 \u0627\u06cc\u0646\u062a\u0631\u0646\u0634\u0646\u0627\u0644",
       "published": "2026-07-22T23:53:00+00:00",
-      "score": 3.71,
+      "score": 3.68,
       "tags": [
         "closure"
-      ]
-    },
-    {
-      "title": "Oil shipments are under attack on multiple fronts as fighting escalates in Red Sea, Hormuz and Black Sea - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYnZkSnE3cjdkVWpBWnVkQi1qUndVbHZkb2Q3amhCWEdibTlJNVRzcEt5OUNnQTd3QnBfUjlwV2Q5SVJ4cTlVelpQLXpva0l6allVSDVEOTRJc2I5R2ZJclk5Ukc1VzhkQ2hNQkdNeVllaEZMWlJ6d25KelM0RURFdFhjcGQ1ZkpkeDVia0Jn0gGTAUFVX3lxTE16dkxjTHEtc0Yzc1lhYkw5aEVVMG9aYlczbnFrSS1lY3EyNWpPSWw4bVpGMlQ0cGdOVnFNYjJUTHg3cW1VMkFZaHJHUl9uMEJVZlhOY1Bqc0FHQ3JHTUxjLW1jWEZqX0F3YWZ3clJyU2l2RDNQOXBHVXhwa3dscDFyaDVHUXdWN2xYV3dUNE5JTVg4Yw?oc=5",
-      "source": "CNBC",
-      "published": "2026-07-24T18:47:41+00:00",
-      "score": 3.43,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "US military launches new strikes on Iran as clashes escalate over shipping routes - AP News",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZHFrc1BFd1MyNGJEdWFibkJiY1dGVjRNY2tOWUNTbEZTaEw5Z3liZFUxOWExS3ZhdExIZGpjRUFsSW9WWVcyZC1aRmdaRWtVSUFyVHBxeU5wOWZfYTBYbFpZZ25uYUVxUE8tRzQ0d2VOYVk2bTZlUW8yY0RZdnFmQnVqQjRkc2RoQ2Nya19n?oc=5",
-      "source": "AP News",
-      "published": "2026-07-24T03:26:00+00:00",
-      "score": 3.09,
-      "tags": [
-        "tension"
       ]
     }
   ],
