@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 211.4,
+  "tension_index": 208.0,
   "closure_signals": 16,
-  "articles_scanned": 218,
-  "updated": "2026-07-27T13:23:49.020478+00:00",
+  "articles_scanned": 220,
+  "updated": "2026-07-27T15:57:15.317006+00:00",
   "headlines": [
     {
       "title": "As Diplomacy Picks Up, Iran Claims Mine Strike on Ship in Strait of Hormuz - The Maritime Executive",
@@ -28,14 +28,13 @@
       ]
     },
     {
-      "title": "Houthis attack tankers in Red Sea, Iran blocks Strait of Hormuz, oil prices soar - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QMkFoYmNhRkwxaFNUZk5Gc3J4RzZMQXdFd1R6N1dBaUd1eGIzV3hMSDJVY0h0STRMRF9PVGNEWmVrM01NQkxVV2dlSDd4WmZmM2hvRHNRN2M5X0hL?oc=5",
-      "source": "The Jerusalem Post",
-      "published": "2026-07-23T05:50:57+00:00",
-      "score": 6.14,
+      "title": "Oil tanker explodes in Strait of Hormuz after hitting mine: Iran - Muslim Network TV",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS0duWkF6ZHhIeEVGX19YRWp3NXktNFRWVkJfU3J1b2pSN0Q0VTBBSEZPSXlkTTVqSXcyaUN3UFZzMml2dG1mTGlMbWVja1VGeXpLaE04cE92UHh5eU91RjZwNnMwX0tWdDRhU3NGWjcyTV9fLVhwMVduRmRBNkc4RVEwMGdzTjRKbXdOSlhrYTB4RGhQbzQxZA?oc=5",
+      "source": "Muslim Network TV",
+      "published": "2026-07-27T15:42:53+00:00",
+      "score": 6.0,
       "tags": [
-        "closure",
-        "tension"
+        "closure"
       ]
     },
     {
@@ -43,16 +42,6 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa0JYQUVXRXAybUpfbDVQMzZmbmd6LU44MTBQaElSMks2YkVlZEhDWmVlYlVoZURXUUk2Rng4eDFpQXJzbTg4RmhwYUxuS1ByN1prUTJ6eFBSS3BXeVVjNWVGcGl4bDR0T3VqSHRwbFhKQW1FTzA3b3pHRXZZSHR4LU1kSVQ5QXNwNXB1M0pKMnBwalhrWFRSeEZTSQ?oc=5",
       "source": "Marine Insight",
       "published": "2026-07-27T12:05:04+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Oil tanker explodes in Strait of Hormuz after hitting mine: Iran - Muslim Network TV",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS0duWkF6ZHhIeEVGX19YRWp3NXktNFRWVkJfU3J1b2pSN0Q0VTBBSEZPSXlkTTVqSXcyaUN3UFZzMml2dG1mTGlMbWVja1VGeXpLaE04cE92UHh5eU91RjZwNnMwX0tWdDRhU3NGWjcyTV9fLVhwMVduRmRBNkc4RVEwMGdzTjRKbXdOSlhrYTB4RGhQbzQxZA?oc=5",
-      "source": "Muslim Network TV",
-      "published": "2026-07-27T08:21:51+00:00",
       "score": 6.0,
       "tags": [
         "closure"
@@ -99,11 +88,22 @@
       ]
     },
     {
+      "title": "Houthis attack tankers in Red Sea, Iran blocks Strait of Hormuz, oil prices soar - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QMkFoYmNhRkwxaFNUZk5Gc3J4RzZMQXdFd1R6N1dBaUd1eGIzV3hMSDJVY0h0STRMRF9PVGNEWmVrM01NQkxVV2dlSDd4WmZmM2hvRHNRN2M5X0hL?oc=5",
+      "source": "The Jerusalem Post",
+      "published": "2026-07-23T05:50:57+00:00",
+      "score": 5.98,
+      "tags": [
+        "closure",
+        "tension"
+      ]
+    },
+    {
       "title": "Oil tanker explodes in Strait of Hormuz after hitting naval mine, says Iran - The Indian Express",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRzZwZWFaaFZnenZFMHZLZ19kcVQ4WHg3a2tvUU80QXVMM1lZS0o3ZEowVFRmNFRQa3BTb09sTGhnYWlWeFFFQ2RTWDJBcVlHMTRaUDA4MzUxanc5WjdKX1FzQ2JTOW9zbmVuR1hCbHA5Y0QtWlFNNU9VSlJYcm5RVlpva3RxaEwzbl9oaXlodzZGRWduUlBFNGFKeGRKNTdtNEl4cWg4dG1XcUZtZkhOQ0lB0gG4AUFVX3lxTE90TVhBaW02X3BkcmpQVXpMR1NhMXJUYklIWG85bHM1OElCVXFlZ29qbHRINWtDVWN4SXVUNld5YkVuaER5eGhSV0RTTlVKaS1oUVZ3WmdQYUhwVEotVk1NV0NmRnBzYURZbDAweXk0YWw5RXhFaXlGQjdpUVM3clRSUm9udU1LankxekxBa3lmVVpuaGV1S2V0YXZtSkJSazBJMUZSd1cxVHpVeWxXTV9PNm93dlFvZ0g?oc=5",
       "source": "The Indian Express",
       "published": "2026-07-26T14:06:13+00:00",
-      "score": 6.0,
+      "score": 5.94,
       "tags": [
         "closure"
       ]
@@ -113,7 +113,7 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5bGtET0Y0WWNWM0VDTl9xRVhRUnNFMi1Ccjc5NjVmZU5vamhWLWozelUzcF95Q1RjQ25CNW5DUl80c3hZV3dieHlhT3YzY2N1VFJKS09tanp6M3daNHllTXVPSGhUamJiS1E?oc=5",
       "source": "The Jerusalem Post",
       "published": "2026-07-26T13:50:35+00:00",
-      "score": 6.0,
+      "score": 5.93,
       "tags": [
         "closure"
       ]
@@ -123,14 +123,14 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRkIwVWo1SzBsNVdoNGotejR2elAwaHpqOER5endma1kwa1Y5Tk1Mb3J4QWxZbjVKR1NTMWhqZGpiR3ctUFo4alVyMmZ5dllqczBqNW9iR01ya2R2QTNPWGVuUGFZa19RREFUU3o2ZXk3YXpfZ3NDRFRQbDNweE90b19fTUZYVXJ6NVRmXzRBR3FSNzZmNW9IQmVEVkRjcmtweHFsVjJneExMREtaa3gtXzVFeVd2ZUpDNWg2RUV6Y00?oc=5",
       "source": "Anadolu Ajans\u0131",
       "published": "2026-07-26T12:47:31+00:00",
-      "score": 5.98,
+      "score": 5.89,
       "tags": [
         "closure"
       ]
     }
   ],
   "brent": {
-    "price": 90.9,
-    "change_pct": -6.08
+    "price": 89.58,
+    "change_pct": -7.44
   }
 }
