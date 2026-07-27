@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 185.9,
-  "closure_signals": 13,
-  "articles_scanned": 220,
-  "updated": "2026-07-27T06:03:14.089960+00:00",
+  "tension_index": 206.4,
+  "closure_signals": 16,
+  "articles_scanned": 223,
+  "updated": "2026-07-27T10:14:27.251905+00:00",
   "headlines": [
     {
       "title": "As Diplomacy Picks Up, Iran Claims Mine Strike on Ship in Strait of Hormuz - The Maritime Executive",
@@ -18,14 +18,34 @@
       ]
     },
     {
+      "title": "Iran confirms the continuation of the closure of the Strait of Hormuz and rejects US pressures - \u0627\u0644\u0645\u062a\u062f\u0627\u0648\u0644 \u0627\u0644\u0639\u0631\u0628\u064a",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZGNJSHczQ3lScFlhRUJkNi1qZjVpY1l1NVhlSDY1NkRhTmo2QUNQb3QtLWNPZFUyVTZVcFRpaTA0UTRqRXlNalZQZlE2cmY3cGJFVEZlZHdnaEk1dzM2MGNQaGhCcXRuYWE0QVU5MG5lNWV6VkxWOW1ObFNGSHFvZVZEby03bHFWVTdBNzBzN21ra0FWWldQMU9WTVhwR2o0T1l6VE9LODVhTUJkemNnSldNWHRscVpXOUVRbmtWTjhVbUtQVGxlSk1oS3c3UDV4dlRMNFdZcXQ5LU8taGdV?oc=5",
+      "source": "\u0627\u0644\u0645\u062a\u062f\u0627\u0648\u0644 \u0627\u0644\u0639\u0631\u0628\u064a",
+      "published": "2026-07-27T09:23:54+00:00",
+      "score": 8.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
       "title": "Houthis attack tankers in Red Sea, Iran blocks Strait of Hormuz, oil prices soar - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QMkFoYmNhRkwxaFNUZk5Gc3J4RzZMQXdFd1R6N1dBaUd1eGIzV3hMSDJVY0h0STRMRF9PVGNEWmVrM01NQkxVV2dlSDd4WmZmM2hvRHNRN2M5X0hL?oc=5",
       "source": "The Jerusalem Post",
       "published": "2026-07-23T05:50:57+00:00",
-      "score": 6.59,
+      "score": 6.33,
       "tags": [
         "closure",
         "tension"
+      ]
+    },
+    {
+      "title": "Oil tanker explodes in Strait of Hormuz after hitting mine: Iran - Muslim Network TV",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS0duWkF6ZHhIeEVGX19YRWp3NXktNFRWVkJfU3J1b2pSN0Q0VTBBSEZPSXlkTTVqSXcyaUN3UFZzMml2dG1mTGlMbWVja1VGeXpLaE04cE92UHh5eU91RjZwNnMwX0tWdDRhU3NGWjcyTV9fLVhwMVduRmRBNkc4RVEwMGdzTjRKbXdOSlhrYTB4RGhQbzQxZA?oc=5",
+      "source": "Muslim Network TV",
+      "published": "2026-07-27T08:21:51+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
       ]
     },
     {
@@ -89,6 +109,16 @@
       ]
     },
     {
+      "title": "Oil tanker hits sea mine in Strait of Hormuz - Shafaq News | Latest breaking news in Iraq and the world - \u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyZ1o4R1RBLTVnZk96eHdmblFva0JnN1VvWEtfR2Y2UWViaGx1Tnoxc3cybnhYbjc3TTg1dlFLNTRYWUpja3ZjUHF6d0ZFZXVsNlFRZUR0WEJYZWZlY0c2eDdpbDRzelVoOWdPZHNQbi0wWXExOFhuOURGWFI?oc=5",
+      "source": "\u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
+      "published": "2026-07-26T13:49:51+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
       "title": "Oil tanker explodes in Strait of Hormuz after hitting naval mine: Iranian media - Anadolu Ajans\u0131",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRkIwVWo1SzBsNVdoNGotejR2elAwaHpqOER5endma1kwa1Y5Tk1Mb3J4QWxZbjVKR1NTMWhqZGpiR3ctUFo4alVyMmZ5dllqczBqNW9iR01ya2R2QTNPWGVuUGFZa19RREFUU3o2ZXk3YXpfZ3NDRFRQbDNweE90b19fTUZYVXJ6NVRmXzRBR3FSNzZmNW9IQmVEVkRjcmtweHFsVjJneExMREtaa3gtXzVFeVd2ZUpDNWg2RUV6Y00?oc=5",
       "source": "Anadolu Ajans\u0131",
@@ -97,40 +127,10 @@
       "tags": [
         "closure"
       ]
-    },
-    {
-      "title": "After two quiet days, oil tanker hits mine in Strait of Hormuz - Ynetnews",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92c2RGM1R3NnBWNmR0aG81TFVEamhSOWk3ZGFkSGthNnlEbGJTZHBtMGZobi1nYk9vc3I1amk1alZUTzM2eVhOc2JLa3hCYzlaczNXRzBn?oc=5",
-      "source": "Ynetnews",
-      "published": "2026-07-26T12:46:08+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Oil tanker explodes after hitting naval mine in Strait of Hormuz: Report - India Today",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUk5UYnVRWVM0WGdQZC1ZU2pZLVNVNzBmdXlUMnlrOFpvdHF1UmZwYkVVMHFRdWxxQ0R2VGI1aDNORFJrV0NVNEV1ZHBxQWg2Yk9NLTg5X2t0elltbk84MkN2Tk00WFhtakVxUXFVY1NQMVptNElKT1JHRkZoRmc1T0hGbVhVOWRxd2dXT25oZ3hFVFp6aV9uNW5vV3dna2RHVnM3c3RiRWFMQlJoTF9sSm5DOUxtWlZtZmNjdi1BYjZXblFiQi1RR3pqbnRnNDZsc2V3LWpxTjI4MTjSAeABQVVfeXFMUGNnZUFJTzFRVFVFU1Y1NU1BcVJGTjk0TFhwcFFLY0xHTS15RDZfRWJDWXFpbFB4a1g5eEVRUHM2cTlnb0dvUS1FajR5Sm1GbHVNcjQ3QkpQMjBINWpsR0hLdUFEU3BhQ0FiT0sxeGczOGtUSzhyc3RJYlZpZWF1QmFBQzExMEkzZ1MwYkdqX2R0T2U2QTI5ZUdCTkhtM1BKQ2g1RE51QlphZVMzWHlraVVZNlk4M1k4ZUFfNTBtWkxaN2x1SEFSRXphSmZrTTR2ZlpQV0Y3TE90V25tX3VKWDk?oc=5",
-      "source": "India Today",
-      "published": "2026-07-26T12:33:17+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Iran\u2019s Tasnim says oil tanker exploded after hitting naval mine in Strait of Hormuz - The Times of Israel",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaFBFenprR3h3dXdxbXJQTHlfemc3Yk41eDZldVMtclU2R0NRc3QydHRmbFNCM04xcnhPMVcwZ1VRcUlRUUIyODB3b1hveVFMT2ZHTU9EUjBMdlpiYl9Na1lfY0dZQ0UzdTN3bUZuS240R0dSRzdpNTExZEhHNmJNaW8tTGY1YkpxZ21DUFJyblNaLWRwUUZmTkhCZlNSN3FXUFF4cU5JcHNrSEpTWWFmTDZrR3o3QzVqSm1vOXV2bVlVQV9SalJv?oc=5",
-      "source": "The Times of Israel",
-      "published": "2026-07-26T12:29:22+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
     }
   ],
   "brent": {
-    "price": 91.71,
-    "change_pct": -5.24
+    "price": 87.92,
+    "change_pct": -9.15
   }
 }
