@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 208.0,
+  "tension_index": 217.7,
   "closure_signals": 16,
-  "articles_scanned": 220,
-  "updated": "2026-07-27T15:57:15.317006+00:00",
+  "articles_scanned": 221,
+  "updated": "2026-07-27T17:41:27.507959+00:00",
   "headlines": [
     {
       "title": "As Diplomacy Picks Up, Iran Claims Mine Strike on Ship in Strait of Hormuz - The Maritime Executive",
@@ -72,7 +72,7 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcDY4MVdNa1ZJUDFsVkNzRDR6Y0oyZjQ0VW1wQVdaVXUxREJRejlSbC1NVTd3SGtxZkM3d1RpQ1VTbWFTRmJsQ1dZclhJQjU3R09NTjRsOWFDUkVjd1lRTVZaRHBfSlBtUEMybjVsVFhORVdzNnBNSFYxbnlDb2RwUzEtOHF5VDB6Qk9Nb1gwWV95eE4zOGcwbk90eFB2ZUc2WmJ4NEhPNExZUVVXWDJBNTlNTQ?oc=5",
       "source": "New York Post",
       "published": "2026-07-26T16:54:00+00:00",
-      "score": 6.0,
+      "score": 5.97,
       "tags": [
         "closure"
       ]
@@ -82,7 +82,17 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVFZzRmVCQ2ZuRFprbGJVd3NUbkxzNHRnQWRvcHRiVy1Md0xQTlh6Mml6QmtJMTl2R0xuelFxOFp5VHJfcHJCYUdtZGhEQkJiN1plYV9TZ01hMFpCN0xWUTdHa3hYQ3FrNTVJUFRTRHF0b2dSQ05rUmtnYXVnaWxmMEtXdk5LY294Sjl4ZnQwZzR2TEJhbTZPTWpNRjZjejROckRDTmU3Ym1fRWRiZU1neXBmNA?oc=5",
       "source": "jordannews.jo",
       "published": "2026-07-26T16:00:31+00:00",
-      "score": 6.0,
+      "score": 5.94,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Oil tanker explodes in Strait of Hormuz after hitting naval mine, says Iran - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRzZwZWFaaFZnenZFMHZLZ19kcVQ4WHg3a2tvUU80QXVMM1lZS0o3ZEowVFRmNFRQa3BTb09sTGhnYWlWeFFFQ2RTWDJBcVlHMTRaUDA4MzUxanc5WjdKX1FzQ2JTOW9zbmVuR1hCbHA5Y0QtWlFNNU9VSlJYcm5RVlpva3RxaEwzbl9oaXlodzZGRWduUlBFNGFKeGRKNTdtNEl4cWg4dG1XcUZtZkhOQ0lB0gG4AUFVX3lxTE90TVhBaW02X3BkcmpQVXpMR1NhMXJUYklIWG85bHM1OElCVXFlZ29qbHRINWtDVWN4SXVUNld5YkVuaER5eGhSV0RTTlVKaS1oUVZ3WmdQYUhwVEotVk1NV0NmRnBzYURZbDAweXk0YWw5RXhFaXlGQjdpUVM3clRSUm9udU1LankxekxBa3lmVVpuaGV1S2V0YXZtSkJSazBJMUZSd1cxVHpVeWxXTV9PNm93dlFvZ0g?oc=5",
+      "source": "The Indian Express",
+      "published": "2026-07-26T14:06:13+00:00",
+      "score": 5.88,
       "tags": [
         "closure"
       ]
@@ -92,20 +102,10 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QMkFoYmNhRkwxaFNUZk5Gc3J4RzZMQXdFd1R6N1dBaUd1eGIzV3hMSDJVY0h0STRMRF9PVGNEWmVrM01NQkxVV2dlSDd4WmZmM2hvRHNRN2M5X0hL?oc=5",
       "source": "The Jerusalem Post",
       "published": "2026-07-23T05:50:57+00:00",
-      "score": 5.98,
+      "score": 5.88,
       "tags": [
         "closure",
         "tension"
-      ]
-    },
-    {
-      "title": "Oil tanker explodes in Strait of Hormuz after hitting naval mine, says Iran - The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRzZwZWFaaFZnenZFMHZLZ19kcVQ4WHg3a2tvUU80QXVMM1lZS0o3ZEowVFRmNFRQa3BTb09sTGhnYWlWeFFFQ2RTWDJBcVlHMTRaUDA4MzUxanc5WjdKX1FzQ2JTOW9zbmVuR1hCbHA5Y0QtWlFNNU9VSlJYcm5RVlpva3RxaEwzbl9oaXlodzZGRWduUlBFNGFKeGRKNTdtNEl4cWg4dG1XcUZtZkhOQ0lB0gG4AUFVX3lxTE90TVhBaW02X3BkcmpQVXpMR1NhMXJUYklIWG85bHM1OElCVXFlZ29qbHRINWtDVWN4SXVUNld5YkVuaER5eGhSV0RTTlVKaS1oUVZ3WmdQYUhwVEotVk1NV0NmRnBzYURZbDAweXk0YWw5RXhFaXlGQjdpUVM3clRSUm9udU1LankxekxBa3lmVVpuaGV1S2V0YXZtSkJSazBJMUZSd1cxVHpVeWxXTV9PNm93dlFvZ0g?oc=5",
-      "source": "The Indian Express",
-      "published": "2026-07-26T14:06:13+00:00",
-      "score": 5.94,
-      "tags": [
-        "closure"
       ]
     },
     {
@@ -113,7 +113,7 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5bGtET0Y0WWNWM0VDTl9xRVhRUnNFMi1Ccjc5NjVmZU5vamhWLWozelUzcF95Q1RjQ25CNW5DUl80c3hZV3dieHlhT3YzY2N1VFJKS09tanp6M3daNHllTXVPSGhUamJiS1E?oc=5",
       "source": "The Jerusalem Post",
       "published": "2026-07-26T13:50:35+00:00",
-      "score": 5.93,
+      "score": 5.87,
       "tags": [
         "closure"
       ]
@@ -123,14 +123,14 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRkIwVWo1SzBsNVdoNGotejR2elAwaHpqOER5endma1kwa1Y5Tk1Mb3J4QWxZbjVKR1NTMWhqZGpiR3ctUFo4alVyMmZ5dllqczBqNW9iR01ya2R2QTNPWGVuUGFZa19RREFUU3o2ZXk3YXpfZ3NDRFRQbDNweE90b19fTUZYVXJ6NVRmXzRBR3FSNzZmNW9IQmVEVkRjcmtweHFsVjJneExMREtaa3gtXzVFeVd2ZUpDNWg2RUV6Y00?oc=5",
       "source": "Anadolu Ajans\u0131",
       "published": "2026-07-26T12:47:31+00:00",
-      "score": 5.89,
+      "score": 5.84,
       "tags": [
         "closure"
       ]
     }
   ],
   "brent": {
-    "price": 89.58,
-    "change_pct": -7.44
+    "price": 88.85,
+    "change_pct": -8.19
   }
 }
