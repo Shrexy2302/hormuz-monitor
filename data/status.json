@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 165.6,
+  "tension_index": 171.6,
   "closure_signals": 5,
-  "articles_scanned": 211,
-  "updated": "2026-07-31T21:35:54.363012+00:00",
+  "articles_scanned": 214,
+  "updated": "2026-07-31T22:54:06.151109+00:00",
   "headlines": [
     {
       "title": "IRGC: 'CENTCOM is lying that transit through the Strait of Hormuz is ongoing and that shipping companies can pass through the Strait of Hormuz without any problems and with US escort. Fact: The Strait of Hormuz is closed and any transit will only be possible - news.cgtn.com",
@@ -32,7 +32,7 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMy1BQVh5RWl5S0dUX2g1YUFRU2M0ZnlkTG5kZnE5OERoV2xvTTJrMFBoanp4Wk1aa1ZaYmJROGVwZkJsc0xKTFU5cmZnZWctODJqYzdOMlhfZGtxdVZhaXlWNkJzZi05VFFhVjAxejhlSGZLRHVKRy11M1JaMmNVSjl0Y0lGdw?oc=5",
       "source": "IranWire",
       "published": "2026-07-30T12:59:29+00:00",
-      "score": 9.52,
+      "score": 9.45,
       "tags": [
         "closure"
       ]
@@ -42,15 +42,15 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdktPQmxqbjBLN3R4ZWx6VE5zR242dVZTS05KSFFsQ3VraEk3WElpRm1MdjFTOU11cXFucGhNN2RrS2FWdVpOeWJ5YmF5QThuMzJVOG15eGhEV0lBcXp2T0l1T0VadnRsUkRndEZaYXlndVRSMHo5U1RWeExTVndtT0hPZldJQmtJN2h4X0xnSGNXZ240cTA2SnA2WktHMEdqQ2dWQ3czOA?oc=5",
       "source": "Middle East Eye",
       "published": "2026-07-30T08:54:48+00:00",
-      "score": 9.3,
+      "score": 9.22,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iran announces complete closure of Strait of Hormuz - 1Lurer",
+      "title": "Iran announces complete closure of Strait of Hormuz - 1lurer.am",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeEtGQURXQXVfS2dtcVFvc3VsYlJ1V3JaMnMwS1RNWmhrTVFNcVFZaU9Sak5odXNSZnBid2tUbW9Gd3ZXU2dYUmx4a0s3TXlWU2d1VUxyM1k3QVl5SF8yVjZ4LUtyRXFZc3hwck1IcFk5cGFGT2hxSU9pRU1ubUk0ZmNWOWFPMzFzY1dZWmdTWEVTVEtBa3pkdHROR1NQSEs4?oc=5",
-      "source": "1Lurer",
+      "source": "1lurer.am",
       "published": "2026-07-31T16:00:38+00:00",
       "score": 8.0,
       "tags": [
@@ -68,9 +68,9 @@
       ]
     },
     {
-      "title": "Iran strikes tankers under US escort in Hormuz strait as Trump gathers cabinet to discuss war - theguardian.com",
+      "title": "Iran strikes tankers under US escort in Hormuz strait as Trump gathers cabinet to discuss war - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa0Nlc3FFeTZIM0dHUG8wYm9yaXhpOFBRSzJNQ09nZW9aUHlCWU5hU1ZZOE1XVXdhcXVmZnJiZzgtaGdSbkU2Y2FsZXlWOXp1LXdGT2t3MHhGZGlwS095dURvODFaSUlSRER3aHl1Z3ZMbVlPWThNUExqTnZuZ2ZwZmxOUmJ2bXo4d1RwX3VILXpiLW1fTEgxMm5NQ0RrZjQ3cUlGZG5DY2FGRmQwdHkwcjJn?oc=5",
-      "source": "theguardian.com",
+      "source": "The Guardian",
       "published": "2026-07-31T14:11:00+00:00",
       "score": 5.0,
       "tags": [
@@ -78,11 +78,21 @@
       ]
     },
     {
-      "title": "IRGC Says It Struck Two Tankers Attempting to Transit Strait of Hormuz Under US Escort - kurdistan24.net",
+      "title": "IRGC Says It Struck Two Tankers Attempting to Transit Strait of Hormuz Under US Escort - Kurdistan24",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xYXZHNGRNV1NBUEc1d2xNUTlTRU5Xb0MyYXVyMGJ0bHJHSGQ5aEpfQXhrVGRhblJ5VW5Hc3FKTkNuaDRWa3hDSnc5Y2FiWllFdkl0aHFn?oc=5",
-      "source": "kurdistan24.net",
+      "source": "Kurdistan24",
       "published": "2026-07-31T11:25:00+00:00",
       "score": 5.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "US and Iran trade missile barrages as hopes dim for a quick resolution to the five-month conflict - AP News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnhRWEFZaDdpMkNfSDhNVmJ6NmxmQUxmZVlfZHJldjhpdVBLdnlaYzVOX3pYNE0wTkhyYmRjempCeDBMNURTejFDNlB5RThIYlhOOWlfb2xvbElYbEl4X3NhUlpYaWwwTkhxSDZSazdXMVc0ei1CYW4xakkzUENEb0tPRXJ4VktVVExvZGpTWnJ6azU5cjVEUmdPS3V0LUE?oc=5",
+      "source": "AP News",
+      "published": "2026-07-30T21:02:00+00:00",
+      "score": 3.96,
       "tags": [
         "tension"
       ]
@@ -92,37 +102,27 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSUZEZ3NjVWRlSUUzQ09iMW8xSWtYR3ltc2VQRzJIYXZrU1dNN1hCM1BNZW9qYWRDQkltZGVlUGU3V3JyT3BnQ01MWEhaRWJHOWxQNjJIVWJTaE4wUHRQNHhiV1NBRk1MTVdSRFNLWFE3dXZJVUxMNG1XWGhPWEZEMDVlQTZlRWNjNmFyc3B1Y29LUWdTQUQ1RE5UX1MyRFZPS1RKVnllaXB4SHFBTHVGb0VB?oc=5",
       "source": "The Maritime Executive",
       "published": "2026-07-26T18:04:00+00:00",
-      "score": 4.02,
+      "score": 3.96,
       "tags": [
         "closure",
         "tension"
       ]
     },
     {
-      "title": "Oil Tanker Explodes In Strait Of Hormuz After Hitting Naval Mine - marineinsight.com",
+      "title": "Oil Tanker Explodes In Strait Of Hormuz After Hitting Naval Mine - Marine Insight",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa0JYQUVXRXAybUpfbDVQMzZmbmd6LU44MTBQaElSMks2YkVlZEhDWmVlYlVoZURXUUk2Rng4eDFpQXJzbTg4RmhwYUxuS1ByN1prUTJ6eFBSS3BXeVVjNWVGcGl4bDR0T3VqSHRwbFhKQW1FTzA3b3pHRXZZSHR4LU1kSVQ5QXNwNXB1M0pKMnBwalhrWFRSeEZTSQ?oc=5",
-      "source": "marineinsight.com",
+      "source": "Marine Insight",
       "published": "2026-07-27T12:05:04+00:00",
-      "score": 3.28,
+      "score": 3.24,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iran War Day 154: Iran Strikes Kuwait, Claims Hormuz Strait is Closed - The American Conservative",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV3JvS3E1MTY5OFNmRWFFNHhHVWdCankzeVhycTFmeENpLTVlUkZZMWFaMDR1WTlFV0pfekNabHZ1Q0xsVl90WHpScFFHS2hBWU1tSkhPMzZkUGU0VEkySm1pUTJ5c1daS05MSHJnZ01Bd0NpZFNIMGZVRzRiVEljRnJSWHpXOFRMdF85TnVhbDBhdC1qRk5sX011QmowTklCVm02dmNOUTltOTVy?oc=5",
-      "source": "The American Conservative",
-      "published": "2026-07-31T17:59:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "IRGC Claims Strikes on Tankers in Strait of Hormuz - IranWire",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT0hMdnFSZjNUSFpzTlR2TUVCaHViM2UzdUxONlVXWkZKRlRieVpkS3IyOHduTEZPdm01QWVCTnZVdXVteWloY1RFbUx5azN6WWtZX19TTXJzQlZCdXV4dFFYdVZiRjQxcG54bHB1bG01a2ZfMWxnYzRpTy1TTndUaUZab3RQMXJHYWptSlh1YjY?oc=5",
-      "source": "IranWire",
-      "published": "2026-07-31T13:29:30+00:00",
+      "title": "Iran claims attack on two tankers as Tehran\u2019s toll authority declares Hormuz closure - TradeWinds News",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWEFPNVlpQWlTTUx0R3dOT3dIN2VGNzdONDI1Z3MtSmRfVEFuV0lMcGxyVDNnOGFEOXVXLWtfdTQ0aVd6dC1OVm42RjZ0UDdmVkVONHA1cVllWXl6WjhFdHJWZFdTN2Q2TDJYTHUyTmxJMGdINkVLckx6RjY2NmxSbGQ0RjJWX3BlbVlwdE1nYzFEQVN6TzlGak93WlAtTXlJYnlwRG5qQXNPRFBaR01TaENUaDdLeDhMYnF1TkEzUXJ5ellXSUxEZGU4bllCaTZN?oc=5",
+      "source": "TradeWinds News",
+      "published": "2026-07-31T22:46:35+00:00",
       "score": 3.0,
       "tags": [
         "tension"
