@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 147.1,
+  "tension_index": 146.8,
   "closure_signals": 3,
-  "articles_scanned": 218,
-  "updated": "2026-07-31T11:24:27.841395+00:00",
+  "articles_scanned": 215,
+  "updated": "2026-07-31T13:12:28.632016+00:00",
   "headlines": [
     {
       "title": "IRGC: 'CENTCOM is lying that transit through the Strait of Hormuz is ongoing and that shipping companies can pass through the Strait of Hormuz without any problems and with US escort. Fact: The Strait of Hormuz is closed and any transit will only be possible - news.cgtn.com",
@@ -22,7 +22,7 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMy1BQVh5RWl5S0dUX2g1YUFRU2M0ZnlkTG5kZnE5OERoV2xvTTJrMFBoanp4Wk1aa1ZaYmJROGVwZkJsc0xKTFU5cmZnZWctODJqYzdOMlhfZGtxdVZhaXlWNkJzZi05VFFhVjAxejhlSGZLRHVKRy11M1JaMmNVSjl0Y0lGdw?oc=5",
       "source": "IranWire",
       "published": "2026-07-30T12:59:29+00:00",
-      "score": 10.0,
+      "score": 9.99,
       "tags": [
         "closure"
       ]
@@ -32,7 +32,7 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdktPQmxqbjBLN3R4ZWx6VE5zR242dVZTS05KSFFsQ3VraEk3WElpRm1MdjFTOU11cXFucGhNN2RrS2FWdVpOeWJ5YmF5QThuMzJVOG15eGhEV0lBcXp2T0l1T0VadnRsUkRndEZaYXlndVRSMHo5U1RWeExTVndtT0hPZldJQmtJN2h4X0xnSGNXZ240cTA2SnA2WktHMEdqQ2dWQ3czOA?oc=5",
       "source": "Middle East Eye",
       "published": "2026-07-30T08:54:48+00:00",
-      "score": 9.86,
+      "score": 9.76,
       "tags": [
         "closure"
       ]
@@ -41,7 +41,7 @@
       "title": "IRGC Says It Struck Two Tankers Attempting to Transit Strait of Hormuz Under US Escort - Kurdistan24",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUjNjSTB5d3hwN3F6RTRxRUpleW5lemROTjAxVDZfUXlxQ2lqc0NpYVhva0gyZTQzd0JaS2tZa0dPWk01QlRoQzZIUkFhMUZfSTFTakFTYkZ0RzhocnV4ZFh2OFp0V09URGZfUFM4aXl1UEdBek9FSFFDRFZjOVdldWNQajFabFEtWC13RDFVTGE0NTB1MkR6ZllXUHJuOXBLRXdmZU9mQnhLcTlkajlmTVZUME5PYUFYb29MZW1uQkhBU3dwQ3BzM0lR?oc=5",
       "source": "Kurdistan24",
-      "published": "2026-07-31T10:41:00+00:00",
+      "published": "2026-07-31T11:25:00+00:00",
       "score": 5.0,
       "tags": [
         "tension"
@@ -52,7 +52,7 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSUZEZ3NjVWRlSUUzQ09iMW8xSWtYR3ltc2VQRzJIYXZrU1dNN1hCM1BNZW9qYWRDQkltZGVlUGU3V3JyT3BnQ01MWEhaRWJHOWxQNjJIVWJTaE4wUHRQNHhiV1NBRk1MTVdSRFNLWFE3dXZJVUxMNG1XWGhPWEZEMDVlQTZlRWNjNmFyc3B1Y29LUWdTQUQ1RE5UX1MyRFZPS1RKVnllaXB4SHFBTHVGb0VB?oc=5",
       "source": "The Maritime Executive",
       "published": "2026-07-26T18:04:00+00:00",
-      "score": 4.53,
+      "score": 4.44,
       "tags": [
         "closure",
         "tension"
@@ -63,9 +63,19 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa0JYQUVXRXAybUpfbDVQMzZmbmd6LU44MTBQaElSMks2YkVlZEhDWmVlYlVoZURXUUk2Rng4eDFpQXJzbTg4RmhwYUxuS1ByN1prUTJ6eFBSS3BXeVVjNWVGcGl4bDR0T3VqSHRwbFhKQW1FTzA3b3pHRXZZSHR4LU1kSVQ5QXNwNXB1M0pKMnBwalhrWFRSeEZTSQ?oc=5",
       "source": "Marine Insight",
       "published": "2026-07-27T12:05:04+00:00",
-      "score": 3.62,
+      "score": 3.56,
       "tags": [
         "closure"
+      ]
+    },
+    {
+      "title": "IRGC says it struck two tankers in the Strait of Hormuz that were escorted by U.S. military - Washington Times",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTmpuMXFZSlBVX2pHSVc4a2toMzR2TVNKZW1xQlRWMXBrRHhGaUdYOTdDTm1UVzlrb1ExejJqbEJyc2hFUU1PTUUwQkxpZE5keXE4Y3NzcTJ4MVdNZlBZckNjcWZKWUxNZ1B0QU1jcjlaRllJUFkzT2pvTUo0Y0ZDOVZaUlh1TWh4ZF84N2tiaUtIVkRka2dtaDh3RF8xX1l1eWkwMWhrUnB5ZzV6TXBCalpfMA?oc=5",
+      "source": "Washington Times",
+      "published": "2026-07-31T12:14:47+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
       ]
     },
     {
@@ -73,7 +83,7 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ1BGMlFqdTZlMUJIN3ZTU3pQUTJWQzVIbEdnWWJROEYtakRSX0E0aERLZ2tHWHN6YlBnZmhVV2JUSlMyM0tWMG50V0ZocVZkYkhsZ0wyVDdibF9wSTF1MFhTd0w0bUh4MXpnVnI5VldIQmxuckRFemZ5OVljeU4wQU8xQ3JyRVpaUFlZUU9XRWRUNVFXbi1ZY0ROQjIyc0gwR2FKY2g0MzV1Y2w1UjU2YUE4aXA3SEswN3pCRWlOc2Y4cFNrYUY3SE1EY9IBywFBVV95cUxOZ1BGMlFqdTZlMUJIN3ZTU3pQUTJWQzVIbEdnWWJROEYtakRSX0E0aERLZ2tHWHN6YlBnZmhVV2JUSlMyM0tWMG50V0ZocVZkYkhsZ0wyVDdibF9wSTF1MFhTd0w0bUh4MXpnVnI5VldIQmxuckRFemZ5OVljeU4wQU8xQ3JyRVpaUFlZUU9XRWRUNVFXbi1ZY0ROQjIyc0gwR2FKY2g0MzV1Y2w1UjU2YUE4aXA3SEswN3pCRWlOc2Y4cFNrYUY3SE1EYw?oc=5",
       "source": "Baird Maritime",
       "published": "2026-07-30T10:44:13+00:00",
-      "score": 2.99,
+      "score": 2.96,
       "tags": [
         "tension"
       ]
@@ -83,7 +93,7 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcDY4MVdNa1ZJUDFsVkNzRDR6Y0oyZjQ0VW1wQVdaVXUxREJRejlSbC1NVTd3SGtxZkM3d1RpQ1VTbWFTRmJsQ1dZclhJQjU3R09NTjRsOWFDUkVjd1lRTVZaRHBfSlBtUEMybjVsVFhORVdzNnBNSFYxbnlDb2RwUzEtOHF5VDB6Qk9Nb1gwWV95eE4zOGcwbk90eFB2ZUc2WmJ4NEhPNExZUVVXWDJBNTlNTQ?oc=5",
       "source": "New York Post",
       "published": "2026-07-26T16:54:00+00:00",
-      "score": 2.98,
+      "score": 2.92,
       "tags": [
         "closure"
       ]
@@ -93,7 +103,7 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb0FsYURSUGpfTVl4UDNHWWVad0ZmZGhZeEE5QTlzbnpLSjBtQktYdDF6UVZDcjFUbG9jdWJpUU5aMmEwbzhGLWVNeUZsb29KdkZzMVI3b05fV3p0U2hsZEVETi1vd0N4Z0puaWFkd2Vka2JMNUR6LUpZUGdCOGRndy1jZERKTFE1ZWhDTGVZWEUwQjd1QmJHNG9jUmdUM3FTUlFGMEQ2RnJ2U0JfVU1GZEZJQXhhTDJsQlHSAb8BQVVfeXFMTnVRVi1lLUNnSXQ1R2Z1TFB0Z0VRNGRTVExQVkFKeFFXdjlXeXpwemozZEJ3dUV3bXZxRXFZVGZTYzI3eVdQRVRwNjBjT2lfc09OQi1Hdlo1Q1BXZG9MVl9QZkNVRjc5cFUtQmpoSVhYcG9sMGhGN0VtY1RHQ3Z0Q3hWX1hvU1NjZG1iY212NnhHcDNsT2FveDYxd0pXaF9LcWl5ZlN2V3cwYW1OS3ZMbVF3NkdUcUhzNlU2aW1rN3M?oc=5",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "published": "2026-07-30T07:30:00+00:00",
-      "score": 2.93,
+      "score": 2.9,
       "tags": [
         "tension"
       ]
@@ -103,7 +113,7 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRzZwZWFaaFZnenZFMHZLZ19kcVQ4WHg3a2tvUU80QXVMM1lZS0o3ZEowVFRmNFRQa3BTb09sTGhnYWlWeFFFQ2RTWDJBcVlHMTRaUDA4MzUxanc5WjdKX1FzQ2JTOW9zbmVuR1hCbHA5Y0QtWlFNNU9VSlJYcm5RVlpva3RxaEwzbl9oaXlodzZGRWduUlBFNGFKeGRKNTdtNEl4cWg4dG1XcUZtZkhOQ0lB0gG4AUFVX3lxTE90TVhBaW02X3BkcmpQVXpMR1NhMXJUYklIWG85bHM1OElCVXFlZ29qbHRINWtDVWN4SXVUNld5YkVuaER5eGhSV0RTTlVKaS1oUVZ3WmdQYUhwVEotVk1NV0NmRnBzYURZbDAweXk0YWw5RXhFaXlGQjdpUVM3clRSUm9udU1LankxekxBa3lmVVpuaGV1S2V0YXZtSkJSazBJMUZSd1cxVHpVeWxXTV9PNm93dlFvZ0g?oc=5",
       "source": "The Indian Express",
       "published": "2026-07-26T14:06:13+00:00",
-      "score": 2.89,
+      "score": 2.83,
       "tags": [
         "closure"
       ]
@@ -113,24 +123,14 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5bGtET0Y0WWNWM0VDTl9xRVhRUnNFMi1Ccjc5NjVmZU5vamhWLWozelUzcF95Q1RjQ25CNW5DUl80c3hZV3dieHlhT3YzY2N1VFJKS09tanp6M3daNHllTXVPSGhUamJiS1E?oc=5",
       "source": "The Jerusalem Post",
       "published": "2026-07-26T13:50:35+00:00",
-      "score": 2.88,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Oil tanker explodes in Strait of Hormuz after hitting naval mine: Iranian media - Anadolu Ajans\u0131",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRkIwVWo1SzBsNVdoNGotejR2elAwaHpqOER5endma1kwa1Y5Tk1Mb3J4QWxZbjVKR1NTMWhqZGpiR3ctUFo4alVyMmZ5dllqczBqNW9iR01ya2R2QTNPWGVuUGFZa19RREFUU3o2ZXk3YXpfZ3NDRFRQbDNweE90b19fTUZYVXJ6NVRmXzRBR3FSNzZmNW9IQmVEVkRjcmtweHFsVjJneExMREtaa3gtXzVFeVd2ZUpDNWg2RUV6Y00?oc=5",
-      "source": "Anadolu Ajans\u0131",
-      "published": "2026-07-26T12:47:31+00:00",
-      "score": 2.85,
+      "score": 2.82,
       "tags": [
         "closure"
       ]
     }
   ],
   "brent": {
-    "price": 89.65,
-    "change_pct": 0.7
+    "price": 90.58,
+    "change_pct": 1.74
   }
 }
