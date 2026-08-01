@@ -1,17 +1,17 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 182.2,
+  "tension_index": 179.5,
   "closure_signals": 7,
-  "articles_scanned": 204,
-  "updated": "2026-08-01T10:14:37.177785+00:00",
+  "articles_scanned": 201,
+  "updated": "2026-08-01T11:39:57.178080+00:00",
   "headlines": [
     {
       "title": "IRGC: 'CENTCOM is lying that transit through the Strait of Hormuz is ongoing and that shipping companies can pass through the Strait of Hormuz without any problems and with US escort. Fact: The Strait of Hormuz is closed and any transit will only be possible - news.cgtn.com",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QNXktWkZWakgyamJ6aUlka0ZqaVFzRTdqek5UU3pmU2lPOGRFbXJzcHhQaHVXbEpJSWozYm5FUmRlUHgxQ0psbllxLWpTZDRLbDRaczFfUDk3b0Qtam1qY3lfdkxJMDlWU2JOVEl3?oc=5",
       "source": "news.cgtn.com",
       "published": "2026-07-31T09:17:27+00:00",
-      "score": 11.94,
+      "score": 11.84,
       "tags": [
         "closure",
         "tension"
@@ -42,7 +42,7 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMy1BQVh5RWl5S0dUX2g1YUFRU2M0ZnlkTG5kZnE5OERoV2xvTTJrMFBoanp4Wk1aa1ZaYmJROGVwZkJsc0xKTFU5cmZnZWctODJqYzdOMlhfZGtxdVZhaXlWNkJzZi05VFFhVjAxejhlSGZLRHVKRy11M1JaMmNVSjl0Y0lGdw?oc=5",
       "source": "IranWire",
       "published": "2026-07-30T12:59:29+00:00",
-      "score": 8.82,
+      "score": 8.74,
       "tags": [
         "closure"
       ]
@@ -52,7 +52,7 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdktPQmxqbjBLN3R4ZWx6VE5zR242dVZTS05KSFFsQ3VraEk3WElpRm1MdjFTOU11cXFucGhNN2RrS2FWdVpOeWJ5YmF5QThuMzJVOG15eGhEV0lBcXp2T0l1T0VadnRsUkRndEZaYXlndVRSMHo5U1RWeExTVndtT0hPZldJQmtJN2h4X0xnSGNXZ240cTA2SnA2WktHMEdqQ2dWQ3czOA?oc=5",
       "source": "Middle East Eye",
       "published": "2026-07-30T08:54:48+00:00",
-      "score": 8.59,
+      "score": 8.51,
       "tags": [
         "closure"
       ]
@@ -108,11 +108,11 @@
       ]
     },
     {
-      "title": "IRGC Says It Struck Two Tankers Attempting to Transit Strait of Hormuz Under US Escort - Kurdistan24",
+      "title": "IRGC Says It Struck Two Tankers Attempting to Transit Strait of Hormuz Under US Escort - kurdistan24.net",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xYXZHNGRNV1NBUEc1d2xNUTlTRU5Xb0MyYXVyMGJ0bHJHSGQ5aEpfQXhrVGRhblJ5VW5Hc3FKTkNuaDRWa3hDSnc5Y2FiWllFdkl0aHFn?oc=5",
-      "source": "Kurdistan24",
+      "source": "kurdistan24.net",
       "published": "2026-07-31T11:25:00+00:00",
-      "score": 5.0,
+      "score": 4.99,
       "tags": [
         "tension"
       ]
@@ -122,7 +122,7 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSUZEZ3NjVWRlSUUzQ09iMW8xSWtYR3ltc2VQRzJIYXZrU1dNN1hCM1BNZW9qYWRDQkltZGVlUGU3V3JyT3BnQ01MWEhaRWJHOWxQNjJIVWJTaE4wUHRQNHhiV1NBRk1MTVdSRFNLWFE3dXZJVUxMNG1XWGhPWEZEMDVlQTZlRWNjNmFyc3B1Y29LUWdTQUQ1RE5UX1MyRFZPS1RKVnllaXB4SHFBTHVGb0VB?oc=5",
       "source": "The Maritime Executive",
       "published": "2026-07-26T18:04:00+00:00",
-      "score": 3.39,
+      "score": 3.32,
       "tags": [
         "closure",
         "tension"
