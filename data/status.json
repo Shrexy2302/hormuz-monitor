@@ -1,32 +1,11 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 179.5,
-  "closure_signals": 7,
-  "articles_scanned": 201,
-  "updated": "2026-08-01T11:39:57.178080+00:00",
+  "tension_index": 163.8,
+  "closure_signals": 5,
+  "articles_scanned": 203,
+  "updated": "2026-08-01T13:03:40.918419+00:00",
   "headlines": [
-    {
-      "title": "IRGC: 'CENTCOM is lying that transit through the Strait of Hormuz is ongoing and that shipping companies can pass through the Strait of Hormuz without any problems and with US escort. Fact: The Strait of Hormuz is closed and any transit will only be possible - news.cgtn.com",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QNXktWkZWakgyamJ6aUlka0ZqaVFzRTdqek5UU3pmU2lPOGRFbXJzcHhQaHVXbEpJSWozYm5FUmRlUHgxQ0psbllxLWpTZDRLbDRaczFfUDk3b0Qtam1qY3lfdkxJMDlWU2JOVEl3?oc=5",
-      "source": "news.cgtn.com",
-      "published": "2026-07-31T09:17:27+00:00",
-      "score": 11.84,
-      "tags": [
-        "closure",
-        "tension"
-      ]
-    },
-    {
-      "title": "Persian Gulf authority: Strait of Hormuz closed due to US aggression - ISNA News Agency",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM1d3X0FINkZpLXdIcFFmOW1OM2xfM0hrWnlLWG1FMUZaQXVTbG1XbFRVSURJQWs0RDZNSlZwS3Z4UzV4VnhoRGRPYjVKaWFOZTZkZ2toVnBXcnRSaXVMTVNnRlE3TllfTnNzQmxQdkVuSUp6TUs3S01Fa2hWa0lva3AySk9QWGF6VXI0d1BBc0NEVUd4ZXN5c2daMXduVVY5bk80cEgzRUjSAU5BVV95cUxNNkRuaFdON0lNNDBFREpDM1YzVUM1cExnaXN5VlZ5VW1waXNtQmQwSmpnZldic3l2bWFnVmphVUI5VDZkXzNfS3hoUmxib1E?oc=5",
-      "source": "ISNA News Agency",
-      "published": "2026-07-31T20:31:37+00:00",
-      "score": 10.0,
-      "tags": [
-        "closure"
-      ]
-    },
     {
       "title": "US military rejects Iranian claim that Strait of Hormuz is closed - Middle East Monitor",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQmstTVI4VTVZcGZFd0N4blJNWFVMTG8zVEpFOTlacV9nZEJMQTg5M1dJRzRUeW1zczhaekhuNGt0dE8zTVlWcTdDR0NxTG5adUNjbEJjaVJOb19aMVBzWGZrMHAwUjRQZ0U2RlJweVBLeE9rZ2Y5dTVsM2NWU056UVNyZ2VJeVdCbVJxbTBjQ3FGTUVCZGY5bG5oaFNTZjdDamxPLV9VVkFuMFJLeWfSAbMBQVVfeXFMTnp3RlBYMUlQVTgyQUdXbTJWY3prSDVhb2NYTFVtdjc4T0FvY0ZGem5LTFpLQmp2TlpJMldwNlRtVHJiaGc4RnZLalVnV1V1WExheGQzSTMybkZwS0swVndPdk5UMXZxdjZmVlNlUG9YNWRwbEZCT2xzTFRXbGNycXJLdHZPVlZBR2UxOFQtM2hSdkNXQkRmT2d6bTUzM1JzbDBET0dJc21IVFBvejIyWUZwXzQ?oc=5",
@@ -42,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMy1BQVh5RWl5S0dUX2g1YUFRU2M0ZnlkTG5kZnE5OERoV2xvTTJrMFBoanp4Wk1aa1ZaYmJROGVwZkJsc0xKTFU5cmZnZWctODJqYzdOMlhfZGtxdVZhaXlWNkJzZi05VFFhVjAxejhlSGZLRHVKRy11M1JaMmNVSjl0Y0lGdw?oc=5",
       "source": "IranWire",
       "published": "2026-07-30T12:59:29+00:00",
-      "score": 8.74,
+      "score": 8.66,
       "tags": [
         "closure"
       ]
@@ -52,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdktPQmxqbjBLN3R4ZWx6VE5zR242dVZTS05KSFFsQ3VraEk3WElpRm1MdjFTOU11cXFucGhNN2RrS2FWdVpOeWJ5YmF5QThuMzJVOG15eGhEV0lBcXp2T0l1T0VadnRsUkRndEZaYXlndVRSMHo5U1RWeExTVndtT0hPZldJQmtJN2h4X0xnSGNXZ240cTA2SnA2WktHMEdqQ2dWQ3czOA?oc=5",
       "source": "Middle East Eye",
       "published": "2026-07-30T08:54:48+00:00",
-      "score": 8.51,
+      "score": 8.44,
       "tags": [
         "closure"
       ]
@@ -98,9 +77,9 @@
       ]
     },
     {
-      "title": "Iran strikes tankers under US escort in Hormuz strait as Trump gathers cabinet to discuss war - The Guardian",
+      "title": "Iran strikes tankers under US escort in Hormuz strait as Trump gathers cabinet to discuss war - theguardian.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa0Nlc3FFeTZIM0dHUG8wYm9yaXhpOFBRSzJNQ09nZW9aUHlCWU5hU1ZZOE1XVXdhcXVmZnJiZzgtaGdSbkU2Y2FsZXlWOXp1LXdGT2t3MHhGZGlwS095dURvODFaSUlSRER3aHl1Z3ZMbVlPWThNUExqTnZuZ2ZwZmxOUmJ2bXo4d1RwX3VILXpiLW1fTEgxMm5NQ0RrZjQ3cUlGZG5DY2FGRmQwdHkwcjJn?oc=5",
-      "source": "The Guardian",
+      "source": "theguardian.com",
       "published": "2026-07-31T14:11:00+00:00",
       "score": 5.0,
       "tags": [
@@ -108,11 +87,11 @@
       ]
     },
     {
-      "title": "IRGC Says It Struck Two Tankers Attempting to Transit Strait of Hormuz Under US Escort - kurdistan24.net",
+      "title": "IRGC Says It Struck Two Tankers Attempting to Transit Strait of Hormuz Under US Escort - Kurdistan24",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xYXZHNGRNV1NBUEc1d2xNUTlTRU5Xb0MyYXVyMGJ0bHJHSGQ5aEpfQXhrVGRhblJ5VW5Hc3FKTkNuaDRWa3hDSnc5Y2FiWllFdkl0aHFn?oc=5",
-      "source": "kurdistan24.net",
+      "source": "Kurdistan24",
       "published": "2026-07-31T11:25:00+00:00",
-      "score": 4.99,
+      "score": 4.95,
       "tags": [
         "tension"
       ]
@@ -122,9 +101,29 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSUZEZ3NjVWRlSUUzQ09iMW8xSWtYR3ltc2VQRzJIYXZrU1dNN1hCM1BNZW9qYWRDQkltZGVlUGU3V3JyT3BnQ01MWEhaRWJHOWxQNjJIVWJTaE4wUHRQNHhiV1NBRk1MTVdSRFNLWFE3dXZJVUxMNG1XWGhPWEZEMDVlQTZlRWNjNmFyc3B1Y29LUWdTQUQ1RE5UX1MyRFZPS1RKVnllaXB4SHFBTHVGb0VB?oc=5",
       "source": "The Maritime Executive",
       "published": "2026-07-26T18:04:00+00:00",
-      "score": 3.32,
+      "score": 3.25,
       "tags": [
         "closure",
+        "tension"
+      ]
+    },
+    {
+      "title": "Tanker carrying natural gas through Strait of Hormuz attacked \u2014 as Americans urged to leave Middle East - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNREM2V1ZqR2xQZEVIUjNVenRPQ2gxenNiY3RMTThYTXNYVlB1S2N6bVMtTzRXQm5tLWRBSGFZamJPN2ZFQnVBNGhCRmRQN1VwRGp0LWgxSFhGdmw4TzJ0TEc4WWxsbGprQWRrMG5LM2ZOeUE2TWtXWVBXUjI4QmxRSndiUVJ0Wk41Y29WSnJ0c0VHMlJBdlBaQmtoTGZ4OFBKcnZSaFFheUQzclZkN2Zma2J5RDJPd0NjbE5zUkx0bjJBb3NqS2ZJSQ?oc=5",
+      "source": "New York Post",
+      "published": "2026-08-01T12:20:00+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Tanker Carrying Qatari LNG Struck While Transiting Hormuz - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZC01LTFlUHo2T0haVkFkVVB1RVRjQWR5WTFMWjgzSjdiWnQ2X3NFX29wSVRMSU84S2NPNHZtY01PMVhzby1RZEVnZlFlZlpBSkQ1NWZBSW4yelpLa0txN2hreVJnMVdtT1NQMTFUb0hnX2xVUnFscjJJSzNBR1EtSUx5bm44a0ZkQlFfWkRQU21WZHZ1U1Rld1BsT0wtS0NjM2xINHdFTU15VXpB?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-08-01T10:25:23+00:00",
+      "score": 3.0,
+      "tags": [
         "tension"
       ]
     }
