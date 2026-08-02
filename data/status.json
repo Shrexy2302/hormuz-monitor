@@ -1,17 +1,17 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 146.6,
+  "tension_index": 142.4,
   "closure_signals": 4,
-  "articles_scanned": 210,
-  "updated": "2026-08-02T12:33:38.190118+00:00",
+  "articles_scanned": 213,
+  "updated": "2026-08-02T14:25:10.425767+00:00",
   "headlines": [
     {
       "title": "US military rejects Iranian claim that Strait of Hormuz is closed - Middle East Monitor",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQmstTVI4VTVZcGZFd0N4blJNWFVMTG8zVEpFOTlacV9nZEJMQTg5M1dJRzRUeW1zczhaekhuNGt0dE8zTVlWcTdDR0NxTG5adUNjbEJjaVJOb19aMVBzWGZrMHAwUjRQZ0U2RlJweVBLeE9rZ2Y5dTVsM2NWU056UVNyZ2VJeVdCbVJxbTBjQ3FGTUVCZGY5bG5oaFNTZjdDamxPLV9VVkFuMFJLeWfSAbMBQVVfeXFMTnp3RlBYMUlQVTgyQUdXbTJWY3prSDVhb2NYTFVtdjc4T0FvY0ZGem5LTFpLQmp2TlpJMldwNlRtVHJiaGc4RnZLalVnV1V1WExheGQzSTMybkZwS0swVndPdk5UMXZxdjZmVlNlUG9YNWRwbEZCT2xzTFRXbGNycXJLdHZPVlZBR2UxOFQtM2hSdkNXQkRmT2d6bTUzM1JzbDBET0dJc21IVFBvejIyWUZwXzQ?oc=5",
       "source": "Middle East Monitor",
       "published": "2026-07-31T17:50:00+00:00",
-      "score": 8.96,
+      "score": 8.86,
       "tags": [
         "closure"
       ]
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWE9CV180cGFfamhIRklienVsRVA3VHpzeEFiWVp3Sl94YkEyUkRQaEU2Q1dyVS16SFdqU1BXWVNpcVJVSjVaSkllN3U0Z0VBMDM3UmJpMXR2M2E3WVFsN2RWbDl5VEwtdjQ3SE9LVXlaZ09Fcnl6UEFyR3daZmstX0s0dmpkS0xURFl4TmU5SjFoZw?oc=5",
       "source": "VOV World",
       "published": "2026-08-01T09:12:00+00:00",
-      "score": 7.85,
+      "score": 7.77,
       "tags": [
         "closure"
       ]
@@ -31,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMy1BQVh5RWl5S0dUX2g1YUFRU2M0ZnlkTG5kZnE5OERoV2xvTTJrMFBoanp4Wk1aa1ZaYmJROGVwZkJsc0xKTFU5cmZnZWctODJqYzdOMlhfZGtxdVZhaXlWNkJzZi05VFFhVjAxejhlSGZLRHVKRy11M1JaMmNVSjl0Y0lGdw?oc=5",
       "source": "IranWire",
       "published": "2026-07-30T12:59:29+00:00",
-      "score": 7.36,
+      "score": 7.25,
       "tags": [
         "closure"
       ]
@@ -41,7 +41,7 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdktPQmxqbjBLN3R4ZWx6VE5zR242dVZTS05KSFFsQ3VraEk3WElpRm1MdjFTOU11cXFucGhNN2RrS2FWdVpOeWJ5YmF5QThuMzJVOG15eGhEV0lBcXp2T0l1T0VadnRsUkRndEZaYXlndVRSMHo5U1RWeExTVndtT0hPZldJQmtJN2h4X0xnSGNXZ240cTA2SnA2WktHMEdqQ2dWQ3czOA?oc=5",
       "source": "Middle East Eye",
       "published": "2026-07-30T08:54:48+00:00",
-      "score": 7.13,
+      "score": 7.03,
       "tags": [
         "closure"
       ]
@@ -51,7 +51,7 @@
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtNVBqX0haSVlPcXRHX3pFV0xBcXEwcWhJWDctb1JYdlpXMjhfTzRCTVlJaWJUYS1XQmZObzIyNENDOE9KWXBMa3BIQWp2TEpWaG8wVjhmaW5QMDhxcUk1dXNKb0xPc2Rf?oc=5",
       "source": "eciks.org",
       "published": "2026-07-31T16:11:31+00:00",
-      "score": 5.32,
+      "score": 5.26,
       "tags": [
         "tension"
       ]
@@ -61,17 +61,17 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcVpJYkJJdzJCQkp2a2R5X1VTcXp6N2RVWWEtX3VBakl5ZjFTWTBBcFBTdWExZ190TFhham4zUGpDNEw0NjNqbWQyOUpWSkphMVRKb20yLTFKNEo2d0Q1cUpneHJXTEoxMHdXZ3lzeDhYWTBNa3h1c0JKak5pRlhQdW8zOXlFYVJJeTVFeWpsc1hHUjI3V25LUzRaUHlFQU40RXpnSGlqRUE5dzBqdmF5cUFPQUs3dEFRV2h2aXpIUHB2T2FDZ1NR0gHPAUFVX3lxTE5MbVh3ZC1fc0dDNk82WXhnbEtKeER4SVNYaWRMWEpvemt1WmhWVXhjcXFUaHROcmpUc1FxaGNadHV6Xy1WMVdDRG1PMVM1R1NwMlVMcmdPM3k2OVFKU1pieXBmWWRVN2NITUwzRzZZcklBVzl3WWo2WG1sczFTc2dtMkw2Skg5T19wSUdvRm5LYkdlbl90dzhZOFlzYW51WVQxUjRsTnZjSUltSnV0VTc0Rkt6VS10aGxDa2V3V1JEeUZkdlBXTURXUU5hcnMtZw?oc=5",
       "source": "NDTV",
       "published": "2026-07-31T15:19:26+00:00",
-      "score": 4.41,
+      "score": 4.36,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Iran strikes tankers under US escort in Hormuz strait as Trump gathers cabinet to discuss war - theguardian.com",
+      "title": "Iran strikes tankers under US escort in Hormuz strait as Trump gathers cabinet to discuss war - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa0Nlc3FFeTZIM0dHUG8wYm9yaXhpOFBRSzJNQ09nZW9aUHlCWU5hU1ZZOE1XVXdhcXVmZnJiZzgtaGdSbkU2Y2FsZXlWOXp1LXdGT2t3MHhGZGlwS095dURvODFaSUlSRER3aHl1Z3ZMbVlPWThNUExqTnZuZ2ZwZmxOUmJ2bXo4d1RwX3VILXpiLW1fTEgxMm5NQ0RrZjQ3cUlGZG5DY2FGRmQwdHkwcjJn?oc=5",
-      "source": "theguardian.com",
+      "source": "The Guardian",
       "published": "2026-07-31T14:11:00+00:00",
-      "score": 4.38,
+      "score": 4.33,
       "tags": [
         "tension"
       ]
@@ -81,7 +81,7 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xYXZHNGRNV1NBUEc1d2xNUTlTRU5Xb0MyYXVyMGJ0bHJHSGQ5aEpfQXhrVGRhblJ5VW5Hc3FKTkNuaDRWa3hDSnc5Y2FiWllFdkl0aHFn?oc=5",
       "source": "Kurdistan24",
       "published": "2026-07-31T11:25:00+00:00",
-      "score": 4.3,
+      "score": 4.25,
       "tags": [
         "tension"
       ]
@@ -107,20 +107,20 @@
       ]
     },
     {
-      "title": "Trump backs off from new strikes on Iran, claiming Mideast allies have outlines of Hormuz deal - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdVZwUUt5XzlPRGQ2VDBnNklBdnFjR1VzR21ZS0R6N0o2Y0IteHVhMGRaVzZKbTZ1RXllajNaOHFwZGZoM0l3VGZTVmNRZnZkM19tSFNZdkgwOHN0TTcwTXBNUGlDR0txcGtGWm9ISEU0NG1uNkZLTHFpNHlZcVgxSWxudlBmNmctejM1QWdRRHMxUldSMHc?oc=5",
-      "source": "Fortune",
-      "published": "2026-08-02T02:47:00+00:00",
-      "score": 3.0,
+      "title": "Strait of Hormuz shipping attacks persist, traffic at record lows amid US-Iran tensions - News and Statistics - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUi13UmFOSFRPaVpEZGpLWHlqTUtic1NMZUdsUHBuM09tem14YVZzOGt0ZDZvbm5CU3ZpeV9Sb3ItaTctRzVDMzk5RGxHTVAxa0Y4Q1FrdU42ajZVNWZLeGNpRy1rVVVSSHZBeDNwYlY4dWY4clhuRzV4bHBfekg3TDkyT3BQOWkyaXRoUFJUWUlvS1hYLUZhQ3ZSbTFvQU9yTnpUZHlyQi1vMzFCLXc?oc=5",
+      "source": "IndexBox",
+      "published": "2026-08-01T08:31:00+00:00",
+      "score": 3.87,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Iraq and Turkey strike a 1-year oil pipeline deal to boost exports amid ongoing Hormuz closures - WFAA",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYUF3dld5YnNrZW82SGdUWlFsMUgwMkRNcEM4YjQzV1ZicjM0bFNTVExnR2VfY01WYjNxSFFfZ2xtVE5hVV9Kb05jUG9QWUFpREZpbms2dkRjQk5yT3AxRm05Z3RtWnY2VzlNRzh3N0xpVmRzc3FxajFDams5VVMzcklILWRxclNvTnJrQWVFejRiUEEwNmE5cmNGUlhaSUtKRGl5bzVRQ2Y1Ty1mY2labldQVDVyNVpMNUZJZzhZa2JueGc4Q3NScWdoRGpEcnJXdnY0S0g2ZzVxX3hNU2oteUdvb094QU85YWdvUTNOSTA?oc=5",
-      "source": "WFAA",
-      "published": "2026-08-01T18:19:00+00:00",
+      "title": "Iran war updates: US President Trump says Mideast allies have reached outlines of deal to end Iran war, US to stop new strikes - ABC7 Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdEdILTFHZGdpNXBCWU9VLWtmN0MwTWZKSmduSnRBRWRoV29qY0thakRfNS1TOWRCTUVCU3JWcWhzQUpCNzBFbHF2SktxUm5tblJaMktDbGJVeHAtcU9wakI1VkpaTzlhZnpaOTJDbTlzaURET2Z0eW9WTURrUnA4NV9yaFR4QWs4U1hxTXV2b3N1UnNCeHVXU1JfbkYzMkFBMmdNTVhRU2VqeDhUQUNTTF9FeXhwSEg1NkR2eU8tTDdkckFvby1YS2Y3cEzSAdIBQVVfeXFMT0dIMEkxNTFYZ3dWWDMzenM2X1o0UFhZcGpnSVk5eHNFRXlaRTk1TlRWZ096MUtKd09wZEwtRVRpVUtiZWlLTEJPeUhvbzBKSzRYdm1yOXJ2SVhvbUFDWUZxWEVrSTRUMXFfSEFQXzM0N28zdEhGNHJSSUM1aDlFZk85dVhERUd6YlE4UktqbDdwSWFPTWZZenlOZ1JTMXNNZ21QQjJwT1A2N0tDY0JiU2x4ZVQ4MFNNVERjSUk5YS1uZmpmVzRZNE4tNWJEOXhNTkZR?oc=5",
+      "source": "ABC7 Los Angeles",
+      "published": "2026-08-02T10:43:45+00:00",
       "score": 3.0,
       "tags": [
         "tension"
