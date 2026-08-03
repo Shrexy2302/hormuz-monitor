@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 127.1,
+  "tension_index": 123.0,
   "closure_signals": 8,
-  "articles_scanned": 216,
-  "updated": "2026-08-03T17:23:16.007006+00:00",
+  "articles_scanned": 214,
+  "updated": "2026-08-03T19:03:28.672256+00:00",
   "headlines": [
     {
       "title": "Iran conflict escalates as strikes continue and Strait of Hormuz traffic halted - cbs19.tv",
@@ -18,11 +18,11 @@
       ]
     },
     {
-      "title": "Persian Gulf authority: Strait of Hormuz closed due to US aggression - en.isna.ir",
+      "title": "Persian Gulf authority: Strait of Hormuz closed due to US aggression - ISNA News Agency",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM1d3X0FINkZpLXdIcFFmOW1OM2xfM0hrWnlLWG1FMUZaQXVTbG1XbFRVSURJQWs0RDZNSlZwS3Z4UzV4VnhoRGRPYjVKaWFOZTZkZ2toVnBXcnRSaXVMTVNnRlE3TllfTnNzQmxQdkVuSUp6TUs3S01Fa2hWa0lva3AySk9QWGF6VXI0d1BBc0NEVUd4ZXN5c2daMXduVVY5bk80cEgzRUjSAU5BVV95cUxNNkRuaFdON0lNNDBFREpDM1YzVUM1cExnaXN5VlZ5VW1waXNtQmQwSmpnZldic3l2bWFnVmphVUI5VDZkXzNfS3hoUmxib1E?oc=5",
-      "source": "en.isna.ir",
+      "source": "ISNA News Agency",
       "published": "2026-07-31T20:31:37+00:00",
-      "score": 7.51,
+      "score": 7.41,
       "tags": [
         "closure"
       ]
@@ -32,7 +32,7 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQmstTVI4VTVZcGZFd0N4blJNWFVMTG8zVEpFOTlacV9nZEJMQTg5M1dJRzRUeW1zczhaekhuNGt0dE8zTVlWcTdDR0NxTG5adUNjbEJjaVJOb19aMVBzWGZrMHAwUjRQZ0U2RlJweVBLeE9rZ2Y5dTVsM2NWU056UVNyZ2VJeVdCbVJxbTBjQ3FGTUVCZGY5bG5oaFNTZjdDamxPLV9VVkFuMFJLeWfSAbMBQVVfeXFMTnp3RlBYMUlQVTgyQUdXbTJWY3prSDVhb2NYTFVtdjc4T0FvY0ZGem5LTFpLQmp2TlpJMldwNlRtVHJiaGc4RnZLalVnV1V1WExheGQzSTMybkZwS0swVndPdk5UMXZxdjZmVlNlUG9YNWRwbEZCT2xzTFRXbGNycXJLdHZPVlZBR2UxOFQtM2hSdkNXQkRmT2d6bTUzM1JzbDBET0dJc21IVFBvejIyWUZwXzQ?oc=5",
       "source": "Middle East Monitor",
       "published": "2026-07-31T17:50:00+00:00",
-      "score": 7.36,
+      "score": 7.27,
       "tags": [
         "closure"
       ]
@@ -42,7 +42,7 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX3pSWng1MzBvRmFQNkt4SzZOZGNjQXpRYVN0MkhKbVlxWmJnNWVNWUhTTDUzSHF1MXdGNkhQVzB2RGFyU1AyVkpoVWlIb2FfVnRzdEU4cW52SlY4OHZ1YThxNWlnTGtJNjdfUUxac1JmTjFCQ0s3LTNxTUlLZjNUNFB3cG9LeC1zME1YMGNNclM5UVhXZkVBQ3hEUkxaTkJoZFRPV1Y3Z2tsV1FSaXdfWTZOR1JJVHBJ?oc=5",
       "source": "Anadolu Ajans\u0131",
       "published": "2026-07-31T16:18:07+00:00",
-      "score": 7.27,
+      "score": 7.18,
       "tags": [
         "closure"
       ]
@@ -52,7 +52,7 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWE9CV180cGFfamhIRklienVsRVA3VHpzeEFiWVp3Sl94YkEyUkRQaEU2Q1dyVS16SFdqU1BXWVNpcVJVSjVaSkllN3U0Z0VBMDM3UmJpMXR2M2E3WVFsN2RWbDl5VEwtdjQ3SE9LVXlaZ09Fcnl6UEFyR3daZmstX0s0dmpkS0xURFl4TmU5SjFoZw?oc=5",
       "source": "VOV World",
       "published": "2026-08-01T09:12:00+00:00",
-      "score": 6.57,
+      "score": 6.5,
       "tags": [
         "closure"
       ]
@@ -72,7 +72,7 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMy1BQVh5RWl5S0dUX2g1YUFRU2M0ZnlkTG5kZnE5OERoV2xvTTJrMFBoanp4Wk1aa1ZaYmJROGVwZkJsc0xKTFU5cmZnZWctODJqYzdOMlhfZGtxdVZhaXlWNkJzZi05VFFhVjAxejhlSGZLRHVKRy11M1JaMmNVSjl0Y0lGdw?oc=5",
       "source": "IranWire",
       "published": "2026-07-30T12:59:29+00:00",
-      "score": 5.76,
+      "score": 5.66,
       "tags": [
         "closure"
       ]
@@ -82,7 +82,7 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdktPQmxqbjBLN3R4ZWx6VE5zR242dVZTS05KSFFsQ3VraEk3WElpRm1MdjFTOU11cXFucGhNN2RrS2FWdVpOeWJ5YmF5QThuMzJVOG15eGhEV0lBcXp2T0l1T0VadnRsUkRndEZaYXlndVRSMHo5U1RWeExTVndtT0hPZldJQmtJN2h4X0xnSGNXZ240cTA2SnA2WktHMEdqQ2dWQ3czOA?oc=5",
       "source": "Middle East Eye",
       "published": "2026-07-30T08:54:48+00:00",
-      "score": 5.53,
+      "score": 5.44,
       "tags": [
         "closure"
       ]
@@ -92,7 +92,7 @@
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtNVBqX0haSVlPcXRHX3pFV0xBcXEwcWhJWDctb1JYdlpXMjhfTzRCTVlJaWJUYS1XQmZObzIyNENDOE9KWXBMa3BIQWp2TEpWaG8wVjhmaW5QMDhxcUk1dXNKb0xPc2Rf?oc=5",
       "source": "eciks.org",
       "published": "2026-07-31T16:11:31+00:00",
-      "score": 4.36,
+      "score": 4.3,
       "tags": [
         "tension"
       ]
@@ -102,7 +102,7 @@
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWTIzY3I5R2pEV3h2YjZJVU56R0MwNE56RjU3LW8xMklzNFpnSURyMG1iSFBkVWVHSVgzVGpxNHU3ZU1xRmIxN2VwbFZ4R0xsS01ReTBNVUt3QXRQMEd3b3MxMm5HZXRaTzVHajJaNzcyTkxuS1Z1TF9Ld3FKX0JvSGFESEhmdmVWZ0hXaklXMmZMZ2tkQUYtSjhNMnJGY05kbVFvQnBZVlZnZU5lTEVZeWpRbHJpMXY2c2hXczA3SUdEVE8wNkNIaUpwVnRhQk5JYnl5S9IB1AFBVV95cUxPWTIzY3I5R2pEV3h2YjZJVU56R0MwNE56RjU3LW8xMklzNFpnSURyMG1iSFBkVWVHSVgzVGpxNHU3ZU1xRmIxN2VwbFZ4R0xsS01ReTBNVUt3QXRQMEd3b3MxMm5HZXRaTzVHajJaNzcyTkxuS1Z1TF9Ld3FKX0JvSGFESEhmdmVWZ0hXaklXMmZMZ2tkQUYtSjhNMnJGY05kbVFvQnBZVlZnZU5lTEVZeWpRbHJpMXY2c2hXczA3SUdEVE8wNkNIaUpwVnRhQk5JYnl5Sw?oc=5",
       "source": "ABC7 New York",
       "published": "2026-08-02T00:06:21+00:00",
-      "score": 3.62,
+      "score": 3.58,
       "tags": [
         "tension"
       ]
@@ -112,7 +112,7 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcVpJYkJJdzJCQkp2a2R5X1VTcXp6N2RVWWEtX3VBakl5ZjFTWTBBcFBTdWExZ190TFhham4zUGpDNEw0NjNqbWQyOUpWSkphMVRKb20yLTFKNEo2d0Q1cUpneHJXTEoxMHdXZ3lzeDhYWTBNa3h1c0JKak5pRlhQdW8zOXlFYVJJeTVFeWpsc1hHUjI3V25LUzRaUHlFQU40RXpnSGlqRUE5dzBqdmF5cUFPQUs3dEFRV2h2aXpIUHB2T2FDZ1NR0gHPAUFVX3lxTE5MbVh3ZC1fc0dDNk82WXhnbEtKeER4SVNYaWRMWEpvemt1WmhWVXhjcXFUaHROcmpUc1FxaGNadHV6Xy1WMVdDRG1PMVM1R1NwMlVMcmdPM3k2OVFKU1pieXBmWWRVN2NITUwzRzZZcklBVzl3WWo2WG1sczFTc2dtMkw2Skg5T19wSUdvRm5LYkdlbl90dzhZOFlzYW51WVQxUjRsTnZjSUltSnV0VTc0Rkt6VS10aGxDa2V3V1JEeUZkdlBXTURXUU5hcnMtZw?oc=5",
       "source": "NDTV",
       "published": "2026-07-31T15:19:26+00:00",
-      "score": 3.61,
+      "score": 3.56,
       "tags": [
         "tension"
       ]
@@ -122,14 +122,14 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa0Nlc3FFeTZIM0dHUG8wYm9yaXhpOFBRSzJNQ09nZW9aUHlCWU5hU1ZZOE1XVXdhcXVmZnJiZzgtaGdSbkU2Y2FsZXlWOXp1LXdGT2t3MHhGZGlwS095dURvODFaSUlSRER3aHl1Z3ZMbVlPWThNUExqTnZuZ2ZwZmxOUmJ2bXo4d1RwX3VILXpiLW1fTEgxMm5NQ0RrZjQ3cUlGZG5DY2FGRmQwdHkwcjJn?oc=5",
       "source": "The Guardian",
       "published": "2026-07-31T14:11:00+00:00",
-      "score": 3.58,
+      "score": 3.53,
       "tags": [
         "tension"
       ]
     }
   ],
   "brent": {
-    "price": 83.88,
-    "change_pct": -4.61
+    "price": 83.94,
+    "change_pct": -4.54
   }
 }
