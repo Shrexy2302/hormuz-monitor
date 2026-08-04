@@ -1,10 +1,10 @@
 {
   "status": "OPEN",
   "label": "Normal traffic",
-  "tension_index": -0.8,
+  "tension_index": -11.0,
   "closure_signals": 1,
-  "articles_scanned": 220,
-  "updated": "2026-08-04T20:07:51.039698+00:00",
+  "articles_scanned": 224,
+  "updated": "2026-08-04T21:46:19.374343+00:00",
   "headlines": [
     {
       "title": "Iran Weighs Allowing Europe to Clear Mines in Strait of Hormuz - Bloomberg.com",
@@ -22,6 +22,16 @@
       "source": "Crude Oil Prices Today | OilPrice.com",
       "published": "2026-08-04T13:30:00+00:00",
       "score": 4.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "More commercial ships attacked in Middle East, threatening Strait of Hormuz deal with Iran - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTVVlUlR2N2ZKNTl1dFJTRG9GdGZNWGlFUzAyenRXZkpKU1U2cDl0VjlxbHl2cmZvd1BRLVU2c0xZLXgzcVZDRXRVVlYyQXVqMWpZTkFlaDdiZnZ2VEFWS0RqNS1WenduZDNkSkh5Z1luZzlKWVpueFZtMnBlQkk1d3ptdUFTeVNwNTZBVjl5eEFtM01KOUxaZjNnY3FjaTBPVG5PSk5oZ2pLckNwWmdyQkhDVG1HbkZ5QlJIT3dKak0yTmRMWjZocDVkUQ?oc=5",
+      "source": "New York Post",
+      "published": "2026-08-04T20:40:00+00:00",
+      "score": 3.0,
       "tags": [
         "tension"
       ]
@@ -67,9 +77,9 @@
       ]
     },
     {
-      "title": "Trade vessel struck by projectile in Strait of Hormuz amid US-Iran talks - Fox News",
+      "title": "Trade vessel struck by projectile in Strait of Hormuz amid US-Iran talks - foxnews.com",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb0YxM3BvSE1fd2dicTVISDU4bVg0VnhyOW5feHYwaFhyVms4SEN1eXdXUGQ1dFpqc25RajBxa3FWdURtUERJQktrY0NjR0YyVlRvOFFzcE9pUmVfcEpPVWhZYVhITFhzZWw3NmFNQzJ3T1N1RE9pTXlveS04eHlWYl93RW5mMTF2ZzVIRlk0a1REY21yOGNMaVctYznSAaIBQVVfeXFMTWVFd3N6RlRuR0xGTTFvSkZCMTlUb1NCQ0VJTVJYSEh2bVo0clhlZUdKZXNLVnp0NDRRQU84M3hnSjFYaVpvcWFpcVlweExaeXBDOUl2SlhxN1RSWHBYYVBfRU9KTHhoeDVwSkdRUUM2T01TVDAzN0VEMlBhWUFLUm8xaU9UenAxWXVCWG01d0F1YU5ueGQ2dE0xVE84N2dWaDJR?oc=5",
-      "source": "Fox News",
+      "source": "foxnews.com",
       "published": "2026-08-04T13:47:30+00:00",
       "score": 3.0,
       "tags": [
@@ -88,7 +98,7 @@
     },
     {
       "title": "Cargo ship struck in Strait of Hormuz as Qatar mediates U.S.-Iran talks - Spectrum News",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM1dKRnE3dEUtUmI2eFpGUUZyT20tZF96MEk3N0tGN2ZGUDEwdzhodGNYWVg5eXB5MmpRQUFndUZsYWQ3NzNnd01UTlkyYm45Y0pxd1BYaUNsMi01akF0bDluMGE2MGN6SnI0MWNobDlfeTVSMHFxTk1id1ZOVEMtZnpndlVfNmxtSmhXZnJPU0dTT18waWtYQ3FlWDRxVE8wQi1faTlWbExXVnplbVNTbEVHd2xYd29JbnF5QUJaeF9ETlE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNThNTXFHTy1XbkxYbGZjNkc1QldTa0h4ZFUzT0Y3eVBwa3ZhZzZPTG5jU1k0SHQ4V25qYlBPd1RQMWRGaEtZM1EySjRiUjFINTN5bENSZW1aY1lXQVNFbkdZaDhJMmNSeW5vemdaQnJBV0RuX0xSY01DNlIzQTZRRVFHRmRrSFZPRkM4NVc1NFNCMXNZN2JqNFE4R2E1Y2dLY0lwNDd3OFMtS0RmbEhrQ1RNQzVXZlRaU2pqY1M5ckpXNWVYbGc?oc=5",
       "source": "Spectrum News",
       "published": "2026-08-04T12:52:00+00:00",
       "score": 3.0,
@@ -115,20 +125,10 @@
       "tags": [
         "tension"
       ]
-    },
-    {
-      "title": "Status of US-Iran talks uncertain as ship struck in Hormuz - WTVB",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSjVxMXRSNDhNNXphT2dmREF0aVZ0US01SzJpMXJ6czVqRGZtSXhiVGppXzg3VHFpR0plakg0aERfSF9xdzJ3alFCaWR2ME5DaE1OWnczNlYyd0FwaGpSRkNZdEtrMTZNdzBObVJhNHpZblFZTlE2R0t5VGwyZXBKNDJMTlZsOFlWUHA2UThfS1YwbGs?oc=5",
-      "source": "WTVB",
-      "published": "2026-08-04T08:34:12+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
     }
   ],
   "brent": {
-    "price": 79.41,
-    "change_pct": -5.2
+    "price": 78.69,
+    "change_pct": -6.06
   }
 }
