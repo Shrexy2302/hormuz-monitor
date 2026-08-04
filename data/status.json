@@ -1,27 +1,27 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 62.4,
+  "tension_index": 52.2,
   "closure_signals": 2,
-  "articles_scanned": 219,
-  "updated": "2026-08-04T14:59:40.226035+00:00",
+  "articles_scanned": 217,
+  "updated": "2026-08-04T16:56:52.984149+00:00",
   "headlines": [
     {
-      "title": "US targets mine-laying vessels in the Strait of Hormuz amid blockade disrupting global oil markets - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzRPSjlIQTd4QndKdm9CUHk1ZWxIaktfOERjc1A3VHpYMHV0Z1Zkd3dGNURqMFJFR3l4LXo3OU5scG96QXhMd0F5TGthdlVzbmg0QVVHbnktU096TkFWUnc5QU9UV0xvTk1jbDY3eGFJaWZXN19UOEJvbTF6eFdFcW13cWxwdWRDVzU1OEl6c2ctT3ltYVJZN0d1a3hvQdIBowFBVV95cUxPUktnalZhVFFxNkhBTHFVS0tOSVBzVE5rZWFhcHhQUVk5dnlocFVZQWdNeHlNQ2pwY0ctTHp6dkQ1WFh1djJsUkQxZ3RZR3NkbVVJOWNCNTFqdFl5eUpMc044SVlwQVMyeldla2VYZ2FxVG5ud1RvTVlKNVc1d0FMNjZSemNubmdydW5BRE1peGVjdmJNSFF5QVZ2OGtNMTVHY09B?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "published": "2026-08-03T21:06:11+00:00",
+      "title": "Iran Weighs Allowing Europe to Clear Mines in Strait of Hormuz - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcTFZUkpXdmRrNDczQXdOdERpaWFoRnpyMHA4TGVZNm1BZEcxOXF6eVJJR2xaZjdac3lLWGszZEZrLVo1YW5yOGhULXREd1llTGVIZHh5YmJzRDBLS1Jkb2JjdVhoSUxJU3pPVlZ5RDhYNnRONFNZUUJUZTNFSU9GeEtqWE5TSHhqN3cyUklTc0RXbG9LTzFOelJJTGNKRVE1R2tLTXlKNk11b01lV0p1UDhxdw?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-08-04T15:38:51+00:00",
       "score": 6.0,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iran announces renewed closure of Strait of Hormuz - VOV World",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWE9CV180cGFfamhIRklienVsRVA3VHpzeEFiWVp3Sl94YkEyUkRQaEU2Q1dyVS16SFdqU1BXWVNpcVJVSjVaSkllN3U0Z0VBMDM3UmJpMXR2M2E3WVFsN2RWbDl5VEwtdjQ3SE9LVXlaZ09Fcnl6UEFyR3daZmstX0s0dmpkS0xURFl4TmU5SjFoZw?oc=5",
-      "source": "VOV World",
-      "published": "2026-08-01T09:12:00+00:00",
-      "score": 5.61,
+      "title": "US targets mine-laying vessels in the Strait of Hormuz amid blockade disrupting global oil markets - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzRPSjlIQTd4QndKdm9CUHk1ZWxIaktfOERjc1A3VHpYMHV0Z1Zkd3dGNURqMFJFR3l4LXo3OU5scG96QXhMd0F5TGthdlVzbmg0QVVHbnktU096TkFWUnc5QU9UV0xvTk1jbDY3eGFJaWZXN19UOEJvbTF6eFdFcW13cWxwdWRDVzU1OEl6c2ctT3ltYVJZN0d1a3hvQdIBowFBVV95cUxPUktnalZhVFFxNkhBTHFVS0tOSVBzVE5rZWFhcHhQUVk5dnlocFVZQWdNeHlNQ2pwY0ctTHp6dkQ1WFh1djJsUkQxZ3RZR3NkbVVJOWNCNTFqdFl5eUpMc044SVlwQVMyeldla2VYZ2FxVG5ud1RvTVlKNVc1d0FMNjZSemNubmdydW5BRE1peGVjdmJNSFF5QVZ2OGtNMTVHY09B?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published": "2026-08-03T21:06:11+00:00",
+      "score": 6.0,
       "tags": [
         "closure"
       ]
@@ -37,30 +37,70 @@
       ]
     },
     {
-      "title": "Iran Strikes 2 Tankers Trying To Cross Strait Of Hormuz Under US \"Air Escort\" - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcVpJYkJJdzJCQkp2a2R5X1VTcXp6N2RVWWEtX3VBakl5ZjFTWTBBcFBTdWExZ190TFhham4zUGpDNEw0NjNqbWQyOUpWSkphMVRKb20yLTFKNEo2d0Q1cUpneHJXTEoxMHdXZ3lzeDhYWTBNa3h1c0JKak5pRlhQdW8zOXlFYVJJeTVFeWpsc1hHUjI3V25LUzRaUHlFQU40RXpnSGlqRUE5dzBqdmF5cUFPQUs3dEFRV2h2aXpIUHB2T2FDZ1NR0gHPAUFVX3lxTE5MbVh3ZC1fc0dDNk82WXhnbEtKeER4SVNYaWRMWEpvemt1WmhWVXhjcXFUaHROcmpUc1FxaGNadHV6Xy1WMVdDRG1PMVM1R1NwMlVMcmdPM3k2OVFKU1pieXBmWWRVN2NITUwzRzZZcklBVzl3WWo2WG1sczFTc2dtMkw2Skg5T19wSUdvRm5LYkdlbl90dzhZOFlzYW51WVQxUjRsTnZjSUltSnV0VTc0Rkt6VS10aGxDa2V3V1JEeUZkdlBXTURXUU5hcnMtZw?oc=5",
-      "source": "NDTV",
-      "published": "2026-07-31T15:19:26+00:00",
-      "score": 3.01,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Cargo ship struck in Strait of Hormuz as Qatar mediates U.S.-Iran talks - Spectrum News",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNThNTXFHTy1XbkxYbGZjNkc1QldTa0h4ZFUzT0Y3eVBwa3ZhZzZPTG5jU1k0SHQ4V25qYlBPd1RQMWRGaEtZM1EySjRiUjFINTN5bENSZW1aY1lXQVNFbkdZaDhJMmNSeW5vemdaQnJBV0RuX0xSY01DNlIzQTZRRVFHRmRrSFZPRkM4NVc1NFNCMXNZN2JqNFE4R2E1Y2dLY0lwNDd3OFMtS0RmbEhrQ1RNQzVXZlRaU2pqY1M5ckpXNWVYbGc?oc=5",
-      "source": "Spectrum News",
-      "published": "2026-08-04T12:52:00+00:00",
+      "title": "Hormuz Opening Uncertain After New Strike, as Trump Administration Says Deal May Be Close - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV1R4TUdhN3VrMV9BWmpDY1Z1MkpVVmNfekh3ODl5ZExXMHQxNkNBcFhOLUM4MVdSLTRadGQta1J5M1lsVDdXV0xGVkk0TldLZG1xSmdIVkxrVzM5RVkweWFvWGhOeXg2ZjV4M2NUWERBSEE5b2s2X3VFa2k2ckVKRnBRcFgtQWZWa1c5SklXbzFuNUJjVlM4ODMxWFBTT1dOc0c2TWNXMmc?oc=5",
+      "source": "WSJ",
+      "published": "2026-08-04T15:26:00+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Ship attacked near Strait of Hormuz as status of U.S.-Iran talks remain unclear - CBC",
+      "title": "Cargo ship struck in the Strait of Hormuz as Trump, Tehran clash over talks - NewsNation",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOakJEbkRuOS1SbGJ5TTFqWmFPcmFDV1hZb0RYZlBpQ0w5a1NhY2cyX2RGWTRuUUdfd1lCY2NkY0tYaW45dHNmdy1aR3JNLTU4bGVpX0VCdm96NllqVlAyWTFRdGxEQXc1Vm1tOXhlV292dHdlcC13QkVqR1pkOWNEcEdn0gGHAUFVX3lxTE9jMUktUlVHS0Y1WDNpN0d3WW1tM2hRd3htT3I2NkVPd1FvcHltTUFLUWJqYWFPV2xJclNoWjhHNEpscnhTV3lCcE9mM3c2S1Q0MFZUUlpHNS05bldOd1NWUDJXaVhmTUxfYUxiZnlrbk5tR05pR1lsR0RUTDlmU1lfXzl4cTkzbw?oc=5",
+      "source": "NewsNation",
+      "published": "2026-08-04T15:00:17+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Trump hails talks with Iran as cargo ship struck in Strait of Hormuz - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZjBXR2x4WUxHaktOaThwMkNGZTVackgyRGt2NEFyNkhCR1puYmVwdzNTOWlOQV82dW5LY2dENkp3b3M0dHNlX3RNTTRTZDhzYW0wQjlIdGVyQ2dzQ3Nvc3dZaHJRdlhfRnZ3TGVBX25sSENKdGVwWE5CbDBLckZOR3RiOTZVNzhSclRweVYzb3hzLWlOWmY1b0NoVQ?oc=5",
+      "source": "NBC News",
+      "published": "2026-08-04T14:52:52+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Ship attacked near Strait of Hormuz as status of U.S.-Iran talks remains unclear - CBC",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUnhfT09fUVBDMmRxZjNYLV9HUnhLR05vb1RzOXJTR0VrV2RZOG91cWtKc3FncFRXeXJxZGV6dU1TeEVrUGxvYUVMTWI1U29ISEJQUXZfZzJXWlpDVTRQODM5eVVMZ1JwTEFWcWJwSERIU0VVOEJrRENNT2tuOWtmbzR0dVM2dw?oc=5",
       "source": "CBC",
-      "published": "2026-08-04T12:05:25+00:00",
+      "published": "2026-08-04T14:00:12+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Qatar confirms diplomacy between U.S., Iran as vessel attacked in Strait of Hormuz - Washington Times",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY0NyZUZveW5qakM1eE9EN1dwVFRQU05aN1Q4Z2ZPeEZueFFybGM0aVRzd1pGUXRfSjZpcDNkMlFJQlJxblJQMkpNd1p2eGZmRDc1SUNNczktMjBJQUVYNXZ3MjcySHNESzNBUTA4Z1NFc0JEbVVnQXRYZjk4bHFXd0dOOFoxQi1UMkNGQVNRYjRFV2Rjb29Nem91REJHaFRyZTlnYW9JU1FKSnZia3ZlWg?oc=5",
+      "source": "Washington Times",
+      "published": "2026-08-04T13:56:34+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Trade vessel struck by projectile in Strait of Hormuz amid US-Iran talks - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb0YxM3BvSE1fd2dicTVISDU4bVg0VnhyOW5feHYwaFhyVms4SEN1eXdXUGQ1dFpqc25RajBxa3FWdURtUERJQktrY0NjR0YyVlRvOFFzcE9pUmVfcEpPVWhZYVhITFhzZWw3NmFNQzJ3T1N1RE9pTXlveS04eHlWYl93RW5mMTF2ZzVIRlk0a1REY21yOGNMaVctYznSAaIBQVVfeXFMTWVFd3N6RlRuR0xGTTFvSkZCMTlUb1NCQ0VJTVJYSEh2bVo0clhlZUdKZXNLVnp0NDRRQU84M3hnSjFYaVpvcWFpcVlweExaeXBDOUl2SlhxN1RSWHBYYVBfRU9KTHhoeDVwSkdRUUM2T01TVDAzN0VEMlBhWUFLUm8xaU9UenAxWXVCWG01d0F1YU5ueGQ2dE0xVE84N2dWaDJR?oc=5",
+      "source": "Fox News",
+      "published": "2026-08-04T13:47:30+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Cargo ship struck in Strait of Hormuz as Qatar mediates U.S.-Iran talks - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM1dKRnE3dEUtUmI2eFpGUUZyT20tZF96MEk3N0tGN2ZGUDEwdzhodGNYWVg5eXB5MmpRQUFndUZsYWQ3NzNnd01UTlkyYm45Y0pxd1BYaUNsMi01akF0bDluMGE2MGN6SnI0MWNobDlfeTVSMHFxTk1id1ZOVEMtZnpndlVfNmxtSmhXZnJPU0dTT18waWtYQ3FlWDRxVE8wQi1faTlWbExXVnplbVNTbEVHd2xYd29JbnF5QUJaeF9ETlE?oc=5",
+      "source": "Spectrum News",
+      "published": "2026-08-04T12:52:00+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -77,50 +117,10 @@
       ]
     },
     {
-      "title": "Cargo ship reportedly struck in Strait of Hormuz as Trump states US, Iran talks ongoing - foxbaltimore.com",
+      "title": "Cargo ship reportedly struck in Strait of Hormuz as Trump states US, Iran talks ongoing - WBFF",
       "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNRDI2ZzliLXJmeEdMS3c1Vkhjd1dQUjM3UUZBMzkyS2RqWjJxZUMydjVuQ0pZMGg5WFA0WXRkWDJlYlpUaEp5YWdXdkN6WlVqX0ZKN0E5SEZQVXVHV1d3alpOb2hqb043MHJEeEZ5SC1wRFlxZjdHU1B1Q09haHpWSFlXT0c2QU92MVp0THNyT3cyb1JWT0JJcU1hMlI3T2ZDdGJZQXJFRkxoX0IzUWxfVElBTHgzdzlUelpUdkZ5NHhveTYwWXBBN3otaFlTeXdBdFNHbkFfenh1b0QzY0tzODVaeVlxLUZuUjlheDNEaFNCNXRPeTBqSEVrN1dDbTJLS0JtZ0Y1MTBGczBlNmQ2QkdoQkhBLW1Ma3JFYnRuMU1hYUFQaG5oLW02V3dhTDA?oc=5",
-      "source": "foxbaltimore.com",
+      "source": "WBFF",
       "published": "2026-08-04T11:32:33+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Cargo ship reports being struck in Strait of Hormuz as US, Iran claims about talks diverge - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObXBWcm1tUGMzTS10VXhUNlBaMENHZzBNMnRxVzhQZnEyN3kwSF9Cd0pQUHZLQS11Y0Jpd2tiTGIxRE1WVXNxa3lqWXBiSmdONXFjTkRXb195eThEeEpVYzlZOU1uaTE0d3M1N3Y5NU9IVGpTM0MzUkRjVzA4SnFXTk9RWDhZRzhPc1JZNVhKZUM1ZFBkSk9qeHJsanhpUzdaVUs4UFlMXzVxRE0?oc=5",
-      "source": "AP News",
-      "published": "2026-08-04T11:23:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Cargo ship reports being struck in Strait of Hormuz as US, Iran claims about talks diverge - Pottsville Republican Herald",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdXQ0SUVzaURHUzRJMGZzNlNhYU9ONHpvbExJZTN1UGhhMUNvYklIWUVtZl9NeG56X1Y3RS11T3p4R1hUM2dMTnZScjhXaXgwR1RBR1JGemhaWjZ1WkpFMXg4Zllab3FsV1k2UklsSWJPZ1Rlcml4Zm1sb1lMYjAwSQ?oc=5",
-      "source": "Pottsville Republican Herald",
-      "published": "2026-08-04T11:21:41+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Trump hails talks with Iran as cargo ship struck in Strait of Hormuz - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZjBXR2x4WUxHaktOaThwMkNGZTVackgyRGt2NEFyNkhCR1puYmVwdzNTOWlOQV82dW5LY2dENkp3b3M0dHNlX3RNTTRTZDhzYW0wQjlIdGVyQ2dzQ3Nvc3dZaHJRdlhfRnZ3TGVBX25sSENKdGVwWE5CbDBLckZOR3RiOTZVNzhSclRweVYzb3hzLWlOWmY1b0NoVQ?oc=5",
-      "source": "NBC News",
-      "published": "2026-08-04T11:11:15+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Hormuz Traffic at a Trickle as Ship Attacks Heighten Concerns - Insurance Journal",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1paV9xUno5QlQ1cDlmbTgtUXpydEs5ODc2N1Nfa09RNlZzRXc2QkVDdlNQS2ZrREh0cnkzOVluWGdnUFljVmxCY3p4MUVJTEV0ODAzVEs5eGl1a0ZwMHFNdkkxUlM3S0N5eVpXNktLcDBXNFppbWlTbVJFcm1yQQ?oc=5",
-      "source": "Insurance Journal",
-      "published": "2026-08-04T10:34:28+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -128,7 +128,7 @@
     }
   ],
   "brent": {
-    "price": 80.46,
-    "change_pct": -3.95
+    "price": 79.66,
+    "change_pct": -4.91
   }
 }
