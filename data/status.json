@@ -1,10 +1,10 @@
 {
   "status": "OPEN",
   "label": "Normal traffic",
-  "tension_index": -6.3,
+  "tension_index": -26.6,
   "closure_signals": 1,
-  "articles_scanned": 227,
-  "updated": "2026-08-04T22:55:57.254951+00:00",
+  "articles_scanned": 225,
+  "updated": "2026-08-04T23:58:35.364779+00:00",
   "headlines": [
     {
       "title": "Iran Weighs Allowing Europe to Clear Mines in Strait of Hormuz - Bloomberg.com",
@@ -88,7 +88,7 @@
     },
     {
       "title": "Cargo ship struck in Strait of Hormuz as Qatar mediates U.S.-Iran talks - Spectrum News",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNThNTXFHTy1XbkxYbGZjNkc1QldTa0h4ZFUzT0Y3eVBwa3ZhZzZPTG5jU1k0SHQ4V25qYlBPd1RQMWRGaEtZM1EySjRiUjFINTN5bENSZW1aY1lXQVNFbkdZaDhJMmNSeW5vemdaQnJBV0RuX0xSY01DNlIzQTZRRVFHRmRrSFZPRkM4NVc1NFNCMXNZN2JqNFE4R2E1Y2dLY0lwNDd3OFMtS0RmbEhrQ1RNQzVXZlRaU2pqY1M5ckpXNWVYbGc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM1dKRnE3dEUtUmI2eFpGUUZyT20tZF96MEk3N0tGN2ZGUDEwdzhodGNYWVg5eXB5MmpRQUFndUZsYWQ3NzNnd01UTlkyYm45Y0pxd1BYaUNsMi01akF0bDluMGE2MGN6SnI0MWNobDlfeTVSMHFxTk1id1ZOVEMtZnpndlVfNmxtSmhXZnJPU0dTT18waWtYQ3FlWDRxVE8wQi1faTlWbExXVnplbVNTbEVHd2xYd29JbnF5QUJaeF9ETlE?oc=5",
       "source": "Spectrum News",
       "published": "2026-08-04T12:52:00+00:00",
       "score": 3.0,
@@ -97,20 +97,10 @@
       ]
     },
     {
-      "title": "Cargo ship reports being struck in Strait of Hormuz - The Hill",
+      "title": "Cargo ship reports being struck in Strait of Hormuz - thehill.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNmR4SnJUamhfbEp3eUZYLWxzV0p6Qkpqa2oyckJXOTFFSmd0clBHZllWZ05CSWtOclJkN0JYU0VmQUNIeWQ1cjBWYkk5SnNjTXZYR0o3Z1Vzb0ZzVWdwTWZHUUZQS1U4cEczRnV4OW1TdEw5d0dGa2VMQkRkNnJHSnRGNFNwOGtnRkFZVFVUcTgxQlB3TUV3UFhJR19NM1NiRjNn0gGoAUFVX3lxTFBxSXowVHUxaDhaekVxYWNlUm1wSTg1RFZ4azRqdXVSRkNITmczeGViNVJ0UnViTlJBVGIzNndFQUwzYk1xX3JoTU5LWHB5ZGs4djFNVmM2X1EzZlNkQnNkY21BdklPRGF2b2FxUUZjV0pOblhZdXlHakRvMktFc1N4a2VEOTZubXRDSmJfZEI5TndmOHhGZHZ6c3Rwbm8yMC1BSzR6TXNzdA?oc=5",
-      "source": "The Hill",
+      "source": "thehill.com",
       "published": "2026-08-04T11:51:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Cargo ship reportedly struck in Strait of Hormuz as Trump states US, Iran talks ongoing - KATU",
-      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOdG5JOGN1cmx1eDdLTjBnLUpaaDNsd1FJOW1WT2tkQUZlXzdwcFh1U0FjenNUVnVwazh0bFRUWks4bDd4QWk3RzQ1ZDI0U3pLV2xGekltdWc5WnlUX3Y2M2hPUmVRcF9teEo5b25HeGg5X3NhYWxwd1lwOURGVzFfR2R6OEdPNENIWDNSbF8xRFFNaERuSnhfcHcwOHRteUYwTjVVb1d4a1NrSnczeDc3VXltUlJwWkdRNEVhT2t4OENwRER4SHNWT296MlpkMGRPSGlFTGhJbUk1eGs5bnpJT3lKNWdmaGtyWVp4M3JmMTY5SU9qb3hCWHhwb0FMbXlTTVFGdlVvRy1ESUNRZS1EMkduZTdWcjJTeG5jYk1yNmlZaTRt?oc=5",
-      "source": "KATU",
-      "published": "2026-08-04T11:36:52+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -125,10 +115,20 @@
       "tags": [
         "tension"
       ]
+    },
+    {
+      "title": "One missing as crew abandons ship in Strait of Hormuz after strike - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zMGFfZ2ZKaVI2OXRyMUdWRnJYQnU5ZU5xRlZpU0oxX3M3ZXVrMDBwc1F2d0poSzA2TWZVQ0l2ajNiMW1UQjQ1ZUtvMzlYSldya0hGSmlsSFFrODNmcTdB?oc=5",
+      "source": "The Jerusalem Post",
+      "published": "2026-08-04T09:20:53+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
     }
   ],
   "brent": {
-    "price": 78.87,
-    "change_pct": -0.62
+    "price": 78.78,
+    "change_pct": -0.73
   }
 }
