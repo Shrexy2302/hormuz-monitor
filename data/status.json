@@ -1,17 +1,17 @@
 {
   "status": "OPEN",
   "label": "Normal traffic",
-  "tension_index": -115.5,
+  "tension_index": -103.3,
   "closure_signals": 1,
-  "articles_scanned": 223,
-  "updated": "2026-08-05T18:23:20.480150+00:00",
+  "articles_scanned": 229,
+  "updated": "2026-08-05T20:05:13.264440+00:00",
   "headlines": [
     {
-      "title": "Iran Weighs Allowing Europe to Clear Mines in Strait of Hormuz - Bloomberg.com",
+      "title": "Iran Weighs Allowing Europe to Clear Mines in Strait of Hormuz - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcTFZUkpXdmRrNDczQXdOdERpaWFoRnpyMHA4TGVZNm1BZEcxOXF6eVJJR2xaZjdac3lLWGszZEZrLVo1YW5yOGhULXREd1llTGVIZHh5YmJzRDBLS1Jkb2JjdVhoSUxJU3pPVlZ5RDhYNnRONFNZUUJUZTNFSU9GeEtqWE5TSHhqN3cyUklTc0RXbG9LTzFOelJJTGNKRVE1R2tLTXlKNk11b01lV0p1UDhxdw?oc=5",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "published": "2026-08-04T15:38:51+00:00",
-      "score": 5.91,
+      "score": 5.85,
       "tags": [
         "closure"
       ]
@@ -21,7 +21,17 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORDc5bW8xalZNWDA5QnNLNFQ1UnJmNk5Td1FodENISjNqMjBjNTF3bjJYUU5KWTZwQ0VjTXZ2alJkLXNJTUlnWVhKRzA0eVhwLWJQMmJYTVFNN09wT1lQSWdKaVhKNjJpeVJUb3d3b082NHp0SU5aS25ibDNvVHRhVkRnQ25TSmpKai1JanlVSmVpVmNXZXZZSkozUkZDUklISWdyUjJhd1piNTNUaWJaemNnR1puVlJlRW1PUUNn0gHDAUFVX3lxTE05QndPTGlBaVdKOG9tUTdzc3JRR0xhamw0OURYcEFGMlZkM3E0c1JSMUJKcnhmVzE4T3czZ2JKYV9aNkxacGZ6cDd5WHJDRF80aFJ1akdXUTZybG9ENnlQclJMbXNOd2N4VGtpMS1oYmcyLWJ5VGNOX2YzcGRUOVdRaVdBOEZRd1MyN1dMSzc1OE92ejR0UEM0QzZUZ2JFcEh5MkgtTkxmdWpsM3JmZzZPWnkwSk1HRExXY2dHcTBNTWxSWQ?oc=5",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "published": "2026-08-04T13:30:00+00:00",
-      "score": 3.89,
+      "score": 3.85,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Cargo ship struck in the Strait of Hormuz as Trump, Tehran clash over talks - newsnationnow.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOakJEbkRuOS1SbGJ5TTFqWmFPcmFDV1hZb0RYZlBpQ0w5a1NhY2cyX2RGWTRuUUdfd1lCY2NkY0tYaW45dHNmdy1aR3JNLTU4bGVpX0VCdm96NllqVlAyWTFRdGxEQXc1Vm1tOXhlV292dHdlcC13QkVqR1pkOWNEcEdn0gGHAUFVX3lxTE9jMUktUlVHS0Y1WDNpN0d3WW1tM2hRd3htT3I2NkVPd1FvcHltTUFLUWJqYWFPV2xJclNoWjhHNEpscnhTV3lCcE9mM3c2S1Q0MFZUUlpHNS05bldOd1NWUDJXaVhmTUxfYUxiZnlrbk5tR05pR1lsR0RUTDlmU1lfXzl4cTkzbw?oc=5",
+      "source": "newsnationnow.com",
+      "published": "2026-08-05T04:53:40+00:00",
+      "score": 3.0,
       "tags": [
         "tension"
       ]
@@ -41,17 +51,7 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcjk0c2FOdzM2N212QjJLcmx6WFBibzdXM0hlSUpSNGRuZjQ1c0tsbmIydHRXdjdldmhUUk9henV1cjZXVkRzWFRyd2xiZjIxdUJJUHZUb2s1ZHVCdHN4NjRjNWpaR0MzSGlxVW5BY0JhdkJnZ3VTUng0VEk1M1NodXpnbWRTU01DdXBKSkFaNTBtdnNRR0Y2cjZsVQ?oc=5",
       "source": "UA.NEWS",
       "published": "2026-08-04T18:16:03+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Cargo ship struck in the Strait of Hormuz as Trump, Tehran clash over talks - NewsNation",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOakJEbkRuOS1SbGJ5TTFqWmFPcmFDV1hZb0RYZlBpQ0w5a1NhY2cyX2RGWTRuUUdfd1lCY2NkY0tYaW45dHNmdy1aR3JNLTU4bGVpX0VCdm96NllqVlAyWTFRdGxEQXc1Vm1tOXhlV292dHdlcC13QkVqR1pkOWNEcEdn0gGHAUFVX3lxTE9jMUktUlVHS0Y1WDNpN0d3WW1tM2hRd3htT3I2NkVPd1FvcHltTUFLUWJqYWFPV2xJclNoWjhHNEpscnhTV3lCcE9mM3c2S1Q0MFZUUlpHNS05bldOd1NWUDJXaVhmTUxfYUxiZnlrbk5tR05pR1lsR0RUTDlmU1lfXzl4cTkzbw?oc=5",
-      "source": "NewsNation",
-      "published": "2026-08-04T17:20:52+00:00",
-      "score": 2.98,
+      "score": 2.97,
       "tags": [
         "tension"
       ]
@@ -61,7 +61,7 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZjBXR2x4WUxHaktOaThwMkNGZTVackgyRGt2NEFyNkhCR1puYmVwdzNTOWlOQV82dW5LY2dENkp3b3M0dHNlX3RNTTRTZDhzYW0wQjlIdGVyQ2dzQ3Nvc3dZaHJRdlhfRnZ3TGVBX25sSENKdGVwWE5CbDBLckZOR3RiOTZVNzhSclRweVYzb3hzLWlOWmY1b0NoVQ?oc=5",
       "source": "NBC News",
       "published": "2026-08-04T14:52:52+00:00",
-      "score": 2.94,
+      "score": 2.91,
       "tags": [
         "tension"
       ]
@@ -71,17 +71,17 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY0NyZUZveW5qakM1eE9EN1dwVFRQU05aN1Q4Z2ZPeEZueFFybGM0aVRzd1pGUXRfSjZpcDNkMlFJQlJxblJQMkpNd1p2eGZmRDc1SUNNczktMjBJQUVYNXZ3MjcySHNESzNBUTA4Z1NFc0JEbVVnQXRYZjk4bHFXd0dOOFoxQi1UMkNGQVNRYjRFV2Rjb29Nem91REJHaFRyZTlnYW9JU1FKSnZia3ZlWg?oc=5",
       "source": "Washington Times",
       "published": "2026-08-04T13:56:34+00:00",
-      "score": 2.93,
+      "score": 2.9,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Trade vessel struck by projectile in Strait of Hormuz amid US-Iran talks - foxnews.com",
+      "title": "Trade vessel struck by projectile in Strait of Hormuz amid US-Iran talks - Fox News",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb0YxM3BvSE1fd2dicTVISDU4bVg0VnhyOW5feHYwaFhyVms4SEN1eXdXUGQ1dFpqc25RajBxa3FWdURtUERJQktrY0NjR0YyVlRvOFFzcE9pUmVfcEpPVWhZYVhITFhzZWw3NmFNQzJ3T1N1RE9pTXlveS04eHlWYl93RW5mMTF2ZzVIRlk0a1REY21yOGNMaVctYznSAaIBQVVfeXFMTWVFd3N6RlRuR0xGTTFvSkZCMTlUb1NCQ0VJTVJYSEh2bVo0clhlZUdKZXNLVnp0NDRRQU84M3hnSjFYaVpvcWFpcVlweExaeXBDOUl2SlhxN1RSWHBYYVBfRU9KTHhoeDVwSkdRUUM2T01TVDAzN0VEMlBhWUFLUm8xaU9UenAxWXVCWG01d0F1YU5ueGQ2dE0xVE84N2dWaDJR?oc=5",
-      "source": "foxnews.com",
+      "source": "Fox News",
       "published": "2026-08-04T13:47:30+00:00",
-      "score": 2.92,
+      "score": 2.9,
       "tags": [
         "tension"
       ]
@@ -91,17 +91,7 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNmR4SnJUamhfbEp3eUZYLWxzV0p6Qkpqa2oyckJXOTFFSmd0clBHZllWZ05CSWtOclJkN0JYU0VmQUNIeWQ1cjBWYkk5SnNjTXZYR0o3Z1Vzb0ZzVWdwTWZHUUZQS1U4cEczRnV4OW1TdEw5d0dGa2VMQkRkNnJHSnRGNFNwOGtnRkFZVFVUcTgxQlB3TUV3UFhJR19NM1NiRjNn0gGoAUFVX3lxTFBxSXowVHUxaDhaekVxYWNlUm1wSTg1RFZ4azRqdXVSRkNITmczeGViNVJ0UnViTlJBVGIzNndFQUwzYk1xX3JoTU5LWHB5ZGs4djFNVmM2X1EzZlNkQnNkY21BdklPRGF2b2FxUUZjV0pOblhZdXlHakRvMktFc1N4a2VEOTZubXRDSmJfZEI5TndmOHhGZHZ6c3Rwbm8yMC1BSzR6TXNzdA?oc=5",
       "source": "The Hill",
       "published": "2026-08-04T11:51:00+00:00",
-      "score": 2.89,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Cargo ship reports projectile strike in Strait of Hormuz as US, Iran dispute talks - Ynetnews",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wYl94WXpyakxnRW54a2ZfbzJ4cHNQcEszb01FZUQwbDhVcjFESkQwLWMyR05MWVhkcUYwQmU4emNxdW1XWDc3cHVmN091Z3NZSkNQQ1h3?oc=5",
-      "source": "Ynetnews",
-      "published": "2026-08-04T07:04:00+00:00",
-      "score": 2.81,
+      "score": 2.86,
       "tags": [
         "tension"
       ]
@@ -111,7 +101,7 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTEJTRDR3UkJMcU5KS1YyZS0xNkpaR3RZUml6SHgyT1cxX3RoNTVkSElGRTFRdFotWnJtRnZ3bGw1dXVydDRabkY2MEVkM2RkZ1puZWlvNmljMGtlQ2JwZmV0emtCRldoemFDNXlfbFE2RVp2dkJrb3lDTmNzNTZSNjdkMEtURlZQSWRwT2JPRndNN0VRVFlwM0lNNW1LbjQ?oc=5",
       "source": "The Maritime Executive",
       "published": "2026-08-04T02:47:46+00:00",
-      "score": 2.74,
+      "score": 2.71,
       "tags": [
         "tension"
       ]
@@ -121,14 +111,24 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYWhXaDVtNGJtX1ZnYUZNMWVna2w5Yk93c3FmdFAtOUFlQVA1bjVZTHZDb005LUdsbm1UbVBSNDVpVEpPWnBHOTFhQWpxWWY5TU1nOUhPNVB5Z3M0REp1enZwVlFZMUdhdFpvTEI3RkxoUTRsckhad09ydjAwcDhxQWhUU3ZPa0RkWFRvclpaanNaVmNWMFhETkZuMGt0ZmR1bWxMWHFFejg4T1F0ZURTa1FZYXYyRi1FMVNSeHRvbDV4Zw?oc=5",
       "source": "The Institute for Energy Research",
       "published": "2026-08-03T17:31:06+00:00",
-      "score": 2.59,
+      "score": 2.56,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Fresh US-Iran talks are \u2018last chance\u2019 for Tehran to avoid war escalating, Trump says - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMlZNN3YxdlBrMlh4djFYOTlDSkhQX3gyeTlreW5pb1NWVDFDVzVzM1QzWkNWaDdfTHpmTVRyeVRnLS1sakdfVnZYTzdDSzRHTi1aRy1xSzJPaHJnZl9yUlRNZ2N1SV9lc3p4Qm5XLUlPZ0dvWWJsc0VNMDZwYWJJSE5RTXB3dXlGM1ZaMFpzLVZvTGpNZ1ZUX1hyak5TZzhWVGRMdDFOUUZRYXo3eDJaY1Nn?oc=5",
+      "source": "The Guardian",
+      "published": "2026-08-03T11:52:00+00:00",
+      "score": 2.46,
       "tags": [
         "tension"
       ]
     }
   ],
   "brent": {
-    "price": 79.42,
-    "change_pct": 0.08
+    "price": 79.37,
+    "change_pct": 0.01
   }
 }
