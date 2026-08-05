@@ -1,17 +1,17 @@
 {
   "status": "OPEN",
   "label": "Normal traffic",
-  "tension_index": -139.0,
+  "tension_index": -115.5,
   "closure_signals": 1,
-  "articles_scanned": 226,
-  "updated": "2026-08-05T16:58:56.749247+00:00",
+  "articles_scanned": 223,
+  "updated": "2026-08-05T18:23:20.480150+00:00",
   "headlines": [
     {
       "title": "Iran Weighs Allowing Europe to Clear Mines in Strait of Hormuz - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcTFZUkpXdmRrNDczQXdOdERpaWFoRnpyMHA4TGVZNm1BZEcxOXF6eVJJR2xaZjdac3lLWGszZEZrLVo1YW5yOGhULXREd1llTGVIZHh5YmJzRDBLS1Jkb2JjdVhoSUxJU3pPVlZ5RDhYNnRONFNZUUJUZTNFSU9GeEtqWE5TSHhqN3cyUklTc0RXbG9LTzFOelJJTGNKRVE1R2tLTXlKNk11b01lV0p1UDhxdw?oc=5",
       "source": "Bloomberg.com",
       "published": "2026-08-04T15:38:51+00:00",
-      "score": 5.96,
+      "score": 5.91,
       "tags": [
         "closure"
       ]
@@ -21,17 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORDc5bW8xalZNWDA5QnNLNFQ1UnJmNk5Td1FodENISjNqMjBjNTF3bjJYUU5KWTZwQ0VjTXZ2alJkLXNJTUlnWVhKRzA0eVhwLWJQMmJYTVFNN09wT1lQSWdKaVhKNjJpeVJUb3d3b082NHp0SU5aS25ibDNvVHRhVkRnQ25TSmpKai1JanlVSmVpVmNXZXZZSkozUkZDUklISWdyUjJhd1piNTNUaWJaemNnR1puVlJlRW1PUUNn0gHDAUFVX3lxTE05QndPTGlBaVdKOG9tUTdzc3JRR0xhamw0OURYcEFGMlZkM3E0c1JSMUJKcnhmVzE4T3czZ2JKYV9aNkxacGZ6cDd5WHJDRF80aFJ1akdXUTZybG9ENnlQclJMbXNOd2N4VGtpMS1oYmcyLWJ5VGNOX2YzcGRUOVdRaVdBOEZRd1MyN1dMSzc1OE92ejR0UEM0QzZUZ2JFcEh5MkgtTkxmdWpsM3JmZzZPWnkwSk1HRExXY2dHcTBNTWxSWQ?oc=5",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "published": "2026-08-04T13:30:00+00:00",
-      "score": 3.92,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Cargo ship struck in the Strait of Hormuz as Trump, Tehran clash over talks - NewsNation",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOakJEbkRuOS1SbGJ5TTFqWmFPcmFDV1hZb0RYZlBpQ0w5a1NhY2cyX2RGWTRuUUdfd1lCY2NkY0tYaW45dHNmdy1aR3JNLTU4bGVpX0VCdm96NllqVlAyWTFRdGxEQXc1Vm1tOXhlV292dHdlcC13QkVqR1pkOWNEcEdn0gGHAUFVX3lxTE9jMUktUlVHS0Y1WDNpN0d3WW1tM2hRd3htT3I2NkVPd1FvcHltTUFLUWJqYWFPV2xJclNoWjhHNEpscnhTV3lCcE9mM3c2S1Q0MFZUUlpHNS05bldOd1NWUDJXaVhmTUxfYUxiZnlrbk5tR05pR1lsR0RUTDlmU1lfXzl4cTkzbw?oc=5",
-      "source": "NewsNation",
-      "published": "2026-08-05T04:53:40+00:00",
-      "score": 3.0,
+      "score": 3.89,
       "tags": [
         "tension"
       ]
@@ -57,11 +47,21 @@
       ]
     },
     {
+      "title": "Cargo ship struck in the Strait of Hormuz as Trump, Tehran clash over talks - NewsNation",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOakJEbkRuOS1SbGJ5TTFqWmFPcmFDV1hZb0RYZlBpQ0w5a1NhY2cyX2RGWTRuUUdfd1lCY2NkY0tYaW45dHNmdy1aR3JNLTU4bGVpX0VCdm96NllqVlAyWTFRdGxEQXc1Vm1tOXhlV292dHdlcC13QkVqR1pkOWNEcEdn0gGHAUFVX3lxTE9jMUktUlVHS0Y1WDNpN0d3WW1tM2hRd3htT3I2NkVPd1FvcHltTUFLUWJqYWFPV2xJclNoWjhHNEpscnhTV3lCcE9mM3c2S1Q0MFZUUlpHNS05bldOd1NWUDJXaVhmTUxfYUxiZnlrbk5tR05pR1lsR0RUTDlmU1lfXzl4cTkzbw?oc=5",
+      "source": "NewsNation",
+      "published": "2026-08-04T17:20:52+00:00",
+      "score": 2.98,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
       "title": "Trump and Iran clash over Strait of Hormuz talks as cargo ship is attacked - NBC News",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZjBXR2x4WUxHaktOaThwMkNGZTVackgyRGt2NEFyNkhCR1puYmVwdzNTOWlOQV82dW5LY2dENkp3b3M0dHNlX3RNTTRTZDhzYW0wQjlIdGVyQ2dzQ3Nvc3dZaHJRdlhfRnZ3TGVBX25sSENKdGVwWE5CbDBLckZOR3RiOTZVNzhSclRweVYzb3hzLWlOWmY1b0NoVQ?oc=5",
       "source": "NBC News",
       "published": "2026-08-04T14:52:52+00:00",
-      "score": 2.96,
+      "score": 2.94,
       "tags": [
         "tension"
       ]
@@ -71,17 +71,17 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY0NyZUZveW5qakM1eE9EN1dwVFRQU05aN1Q4Z2ZPeEZueFFybGM0aVRzd1pGUXRfSjZpcDNkMlFJQlJxblJQMkpNd1p2eGZmRDc1SUNNczktMjBJQUVYNXZ3MjcySHNESzNBUTA4Z1NFc0JEbVVnQXRYZjk4bHFXd0dOOFoxQi1UMkNGQVNRYjRFV2Rjb29Nem91REJHaFRyZTlnYW9JU1FKSnZia3ZlWg?oc=5",
       "source": "Washington Times",
       "published": "2026-08-04T13:56:34+00:00",
-      "score": 2.95,
+      "score": 2.93,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Trade vessel struck by projectile in Strait of Hormuz amid US-Iran talks - Fox News",
+      "title": "Trade vessel struck by projectile in Strait of Hormuz amid US-Iran talks - foxnews.com",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb0YxM3BvSE1fd2dicTVISDU4bVg0VnhyOW5feHYwaFhyVms4SEN1eXdXUGQ1dFpqc25RajBxa3FWdURtUERJQktrY0NjR0YyVlRvOFFzcE9pUmVfcEpPVWhZYVhITFhzZWw3NmFNQzJ3T1N1RE9pTXlveS04eHlWYl93RW5mMTF2ZzVIRlk0a1REY21yOGNMaVctYznSAaIBQVVfeXFMTWVFd3N6RlRuR0xGTTFvSkZCMTlUb1NCQ0VJTVJYSEh2bVo0clhlZUdKZXNLVnp0NDRRQU84M3hnSjFYaVpvcWFpcVlweExaeXBDOUl2SlhxN1RSWHBYYVBfRU9KTHhoeDVwSkdRUUM2T01TVDAzN0VEMlBhWUFLUm8xaU9UenAxWXVCWG01d0F1YU5ueGQ2dE0xVE84N2dWaDJR?oc=5",
-      "source": "Fox News",
+      "source": "foxnews.com",
       "published": "2026-08-04T13:47:30+00:00",
-      "score": 2.95,
+      "score": 2.92,
       "tags": [
         "tension"
       ]
@@ -91,17 +91,27 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNmR4SnJUamhfbEp3eUZYLWxzV0p6Qkpqa2oyckJXOTFFSmd0clBHZllWZ05CSWtOclJkN0JYU0VmQUNIeWQ1cjBWYkk5SnNjTXZYR0o3Z1Vzb0ZzVWdwTWZHUUZQS1U4cEczRnV4OW1TdEw5d0dGa2VMQkRkNnJHSnRGNFNwOGtnRkFZVFVUcTgxQlB3TUV3UFhJR19NM1NiRjNn0gGoAUFVX3lxTFBxSXowVHUxaDhaekVxYWNlUm1wSTg1RFZ4azRqdXVSRkNITmczeGViNVJ0UnViTlJBVGIzNndFQUwzYk1xX3JoTU5LWHB5ZGs4djFNVmM2X1EzZlNkQnNkY21BdklPRGF2b2FxUUZjV0pOblhZdXlHakRvMktFc1N4a2VEOTZubXRDSmJfZEI5TndmOHhGZHZ6c3Rwbm8yMC1BSzR6TXNzdA?oc=5",
       "source": "The Hill",
       "published": "2026-08-04T11:51:00+00:00",
-      "score": 2.91,
+      "score": 2.89,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Cargo Ship Attacked in Omani Sector of the Strait of Hormuz - maritime-executive.com",
+      "title": "Cargo ship reports projectile strike in Strait of Hormuz as US, Iran dispute talks - Ynetnews",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wYl94WXpyakxnRW54a2ZfbzJ4cHNQcEszb01FZUQwbDhVcjFESkQwLWMyR05MWVhkcUYwQmU4emNxdW1XWDc3cHVmN091Z3NZSkNQQ1h3?oc=5",
+      "source": "Ynetnews",
+      "published": "2026-08-04T07:04:00+00:00",
+      "score": 2.81,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Cargo Ship Attacked in Omani Sector of the Strait of Hormuz - The Maritime Executive",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTEJTRDR3UkJMcU5KS1YyZS0xNkpaR3RZUml6SHgyT1cxX3RoNTVkSElGRTFRdFotWnJtRnZ3bGw1dXVydDRabkY2MEVkM2RkZ1puZWlvNmljMGtlQ2JwZmV0emtCRldoemFDNXlfbFE2RVp2dkJrb3lDTmNzNTZSNjdkMEtURlZQSWRwT2JPRndNN0VRVFlwM0lNNW1LbjQ?oc=5",
-      "source": "maritime-executive.com",
+      "source": "The Maritime Executive",
       "published": "2026-08-04T02:47:46+00:00",
-      "score": 2.76,
+      "score": 2.74,
       "tags": [
         "tension"
       ]
@@ -111,24 +121,14 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYWhXaDVtNGJtX1ZnYUZNMWVna2w5Yk93c3FmdFAtOUFlQVA1bjVZTHZDb005LUdsbm1UbVBSNDVpVEpPWnBHOTFhQWpxWWY5TU1nOUhPNVB5Z3M0REp1enZwVlFZMUdhdFpvTEI3RkxoUTRsckhad09ydjAwcDhxQWhUU3ZPa0RkWFRvclpaanNaVmNWMFhETkZuMGt0ZmR1bWxMWHFFejg4T1F0ZURTa1FZYXYyRi1FMVNSeHRvbDV4Zw?oc=5",
       "source": "The Institute for Energy Research",
       "published": "2026-08-03T17:31:06+00:00",
-      "score": 2.61,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Oil prices drop after Trump cancels strikes on Iran amid peace talks - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUlZqTmNlYTZPZDBsa0VRZm9ONlVCV2txZkxNSnhDSGF1NXplN09nc0xjN1hwZ1NnVFlIR1d3bVdjYW5TZWQyclZ0aXYtNFlJU3lTN3BwRGItbGUySVJWc3FJYW1FMEpUZVlJMmVyVmJVR3BVbXZmZkdwT2c0TlhKN0Z3RG53QkJFdDRFR0MwY2ZwTUdGZUJDSzF0amVCSDM0U090ekU4VmFCQ3RjWnB3?oc=5",
-      "source": "The Independent",
-      "published": "2026-08-03T14:54:00+00:00",
-      "score": 2.57,
+      "score": 2.59,
       "tags": [
         "tension"
       ]
     }
   ],
   "brent": {
-    "price": 79.25,
-    "change_pct": -0.14
+    "price": 79.42,
+    "change_pct": 0.08
   }
 }
