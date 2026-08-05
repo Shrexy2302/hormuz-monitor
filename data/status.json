@@ -1,10 +1,10 @@
 {
   "status": "OPEN",
   "label": "Normal traffic",
-  "tension_index": -26.6,
+  "tension_index": -22.1,
   "closure_signals": 1,
-  "articles_scanned": 225,
-  "updated": "2026-08-04T23:58:35.364779+00:00",
+  "articles_scanned": 223,
+  "updated": "2026-08-05T02:42:04.138177+00:00",
   "headlines": [
     {
       "title": "Iran Weighs Allowing Europe to Clear Mines in Strait of Hormuz - Bloomberg.com",
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "title": "Trump hails talks with Iran as cargo ship struck in Strait of Hormuz - NBC News",
+      "title": "Trump and Iran clash over Strait of Hormuz talks as cargo ship is attacked - NBC News",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZjBXR2x4WUxHaktOaThwMkNGZTVackgyRGt2NEFyNkhCR1puYmVwdzNTOWlOQV82dW5LY2dENkp3b3M0dHNlX3RNTTRTZDhzYW0wQjlIdGVyQ2dzQ3Nvc3dZaHJRdlhfRnZ3TGVBX25sSENKdGVwWE5CbDBLckZOR3RiOTZVNzhSclRweVYzb3hzLWlOWmY1b0NoVQ?oc=5",
       "source": "NBC News",
       "published": "2026-08-04T14:52:52+00:00",
@@ -97,9 +97,9 @@
       ]
     },
     {
-      "title": "Cargo ship reports being struck in Strait of Hormuz - thehill.com",
+      "title": "Cargo ship reports being struck in Strait of Hormuz - The Hill",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNmR4SnJUamhfbEp3eUZYLWxzV0p6Qkpqa2oyckJXOTFFSmd0clBHZllWZ05CSWtOclJkN0JYU0VmQUNIeWQ1cjBWYkk5SnNjTXZYR0o3Z1Vzb0ZzVWdwTWZHUUZQS1U4cEczRnV4OW1TdEw5d0dGa2VMQkRkNnJHSnRGNFNwOGtnRkFZVFVUcTgxQlB3TUV3UFhJR19NM1NiRjNn0gGoAUFVX3lxTFBxSXowVHUxaDhaekVxYWNlUm1wSTg1RFZ4azRqdXVSRkNITmczeGViNVJ0UnViTlJBVGIzNndFQUwzYk1xX3JoTU5LWHB5ZGs4djFNVmM2X1EzZlNkQnNkY21BdklPRGF2b2FxUUZjV0pOblhZdXlHakRvMktFc1N4a2VEOTZubXRDSmJfZEI5TndmOHhGZHZ6c3Rwbm8yMC1BSzR6TXNzdA?oc=5",
-      "source": "thehill.com",
+      "source": "The Hill",
       "published": "2026-08-04T11:51:00+00:00",
       "score": 3.0,
       "tags": [
@@ -117,9 +117,9 @@
       ]
     },
     {
-      "title": "One missing as crew abandons ship in Strait of Hormuz after strike - The Jerusalem Post",
+      "title": "One missing as crew abandons ship in Strait of Hormuz after strike - jpost.com",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zMGFfZ2ZKaVI2OXRyMUdWRnJYQnU5ZU5xRlZpU0oxX3M3ZXVrMDBwc1F2d0poSzA2TWZVQ0l2ajNiMW1UQjQ1ZUtvMzlYSldya0hGSmlsSFFrODNmcTdB?oc=5",
-      "source": "The Jerusalem Post",
+      "source": "jpost.com",
       "published": "2026-08-04T09:20:53+00:00",
       "score": 3.0,
       "tags": [
@@ -128,7 +128,7 @@
     }
   ],
   "brent": {
-    "price": 78.78,
-    "change_pct": -0.73
+    "price": 78.68,
+    "change_pct": -0.86
   }
 }
