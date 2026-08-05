@@ -1,10 +1,10 @@
 {
   "status": "OPEN",
   "label": "Normal traffic",
-  "tension_index": -129.8,
+  "tension_index": -118.9,
   "closure_signals": 2,
-  "articles_scanned": 224,
-  "updated": "2026-08-05T12:54:00.587735+00:00",
+  "articles_scanned": 226,
+  "updated": "2026-08-05T15:10:00.501854+00:00",
   "headlines": [
     {
       "title": "Iran Weighs Allowing Europe to Clear Mines in Strait of Hormuz - Supply Chain Brain",
@@ -31,7 +31,17 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORDc5bW8xalZNWDA5QnNLNFQ1UnJmNk5Td1FodENISjNqMjBjNTF3bjJYUU5KWTZwQ0VjTXZ2alJkLXNJTUlnWVhKRzA0eVhwLWJQMmJYTVFNN09wT1lQSWdKaVhKNjJpeVJUb3d3b082NHp0SU5aS25ibDNvVHRhVkRnQ25TSmpKai1JanlVSmVpVmNXZXZZSkozUkZDUklISWdyUjJhd1piNTNUaWJaemNnR1puVlJlRW1PUUNn0gHDAUFVX3lxTE05QndPTGlBaVdKOG9tUTdzc3JRR0xhamw0OURYcEFGMlZkM3E0c1JSMUJKcnhmVzE4T3czZ2JKYV9aNkxacGZ6cDd5WHJDRF80aFJ1akdXUTZybG9ENnlQclJMbXNOd2N4VGtpMS1oYmcyLWJ5VGNOX2YzcGRUOVdRaVdBOEZRd1MyN1dMSzc1OE92ejR0UEM0QzZUZ2JFcEh5MkgtTkxmdWpsM3JmZzZPWnkwSk1HRExXY2dHcTBNTWxSWQ?oc=5",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "published": "2026-08-04T13:30:00+00:00",
-      "score": 4.0,
+      "score": 3.96,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Oil prices move higher after Yemen's Iran-backed Houthis claim Saudi tanker strike - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMVdVODNiYzNHUXdESW9Hb0NPMExXVFJseWhOdHIzZ1VfRG9mUzFYNWRoZjdzRV8xdnA0YWFQajJzTGpyYmxjTlN1SDEtUDEzR0s5cWFwckNsN3VTWFhmekxnd2xsdDM0RGlsMVF6YTVkSHpoWEN1ZmlYTi10cU9QQUNKNNIBiAFBVV95cUxNQVNZNURhYmhuYWNhRl81dVY2WHRNRlFjeHdZc1pseGY1bnJDTzctWE55SmJNclhrME5vQmVRbElKWkdyX0RscGNOUDVZVmQtRGZfajUzeHNwVTJGLTczdmUxTTJZcVQyU3c4YTNJcGp2X2hESDlON2VqVEU0TlM4LU92V1NPZmd6?oc=5",
+      "source": "CNBC",
+      "published": "2026-08-05T09:49:09+00:00",
+      "score": 3.0,
       "tags": [
         "tension"
       ]
@@ -41,6 +51,16 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTVVlUlR2N2ZKNTl1dFJTRG9GdGZNWGlFUzAyenRXZkpKU1U2cDl0VjlxbHl2cmZvd1BRLVU2c0xZLXgzcVZDRXRVVlYyQXVqMWpZTkFlaDdiZnZ2VEFWS0RqNS1WenduZDNkSkh5Z1luZzlKWVpueFZtMnBlQkk1d3ptdUFTeVNwNTZBVjl5eEFtM01KOUxaZjNnY3FjaTBPVG5PSk5oZ2pLckNwWmdyQkhDVG1HbkZ5QlJIT3dKak0yTmRMWjZocDVkUQ?oc=5",
       "source": "New York Post",
       "published": "2026-08-04T20:40:00+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran may strike a favorable deal with Europe regarding the Strait of Hormuz - UA.NEWS",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcjk0c2FOdzM2N212QjJLcmx6WFBibzdXM0hlSUpSNGRuZjQ1c0tsbmIydHRXdjdldmhUUk9henV1cjZXVkRzWFRyd2xiZjIxdUJJUHZUb2s1ZHVCdHN4NjRjNWpaR0MzSGlxVW5BY0JhdkJnZ3VTUng0VEk1M1NodXpnbWRTU01DdXBKSkFaNTBtdnNRR0Y2cjZsVQ?oc=5",
+      "source": "UA.NEWS",
+      "published": "2026-08-04T18:16:03+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -71,7 +91,7 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY0NyZUZveW5qakM1eE9EN1dwVFRQU05aN1Q4Z2ZPeEZueFFybGM0aVRzd1pGUXRfSjZpcDNkMlFJQlJxblJQMkpNd1p2eGZmRDc1SUNNczktMjBJQUVYNXZ3MjcySHNESzNBUTA4Z1NFc0JEbVVnQXRYZjk4bHFXd0dOOFoxQi1UMkNGQVNRYjRFV2Rjb29Nem91REJHaFRyZTlnYW9JU1FKSnZia3ZlWg?oc=5",
       "source": "Washington Times",
       "published": "2026-08-04T13:56:34+00:00",
-      "score": 3.0,
+      "score": 2.98,
       "tags": [
         "tension"
       ]
@@ -81,7 +101,7 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb0YxM3BvSE1fd2dicTVISDU4bVg0VnhyOW5feHYwaFhyVms4SEN1eXdXUGQ1dFpqc25RajBxa3FWdURtUERJQktrY0NjR0YyVlRvOFFzcE9pUmVfcEpPVWhZYVhITFhzZWw3NmFNQzJ3T1N1RE9pTXlveS04eHlWYl93RW5mMTF2ZzVIRlk0a1REY21yOGNMaVctYznSAaIBQVVfeXFMTWVFd3N6RlRuR0xGTTFvSkZCMTlUb1NCQ0VJTVJYSEh2bVo0clhlZUdKZXNLVnp0NDRRQU84M3hnSjFYaVpvcWFpcVlweExaeXBDOUl2SlhxN1RSWHBYYVBfRU9KTHhoeDVwSkdRUUM2T01TVDAzN0VEMlBhWUFLUm8xaU9UenAxWXVCWG01d0F1YU5ueGQ2dE0xVE84N2dWaDJR?oc=5",
       "source": "Fox News",
       "published": "2026-08-04T13:47:30+00:00",
-      "score": 3.0,
+      "score": 2.98,
       "tags": [
         "tension"
       ]
@@ -91,7 +111,7 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNmR4SnJUamhfbEp3eUZYLWxzV0p6Qkpqa2oyckJXOTFFSmd0clBHZllWZ05CSWtOclJkN0JYU0VmQUNIeWQ1cjBWYkk5SnNjTXZYR0o3Z1Vzb0ZzVWdwTWZHUUZQS1U4cEczRnV4OW1TdEw5d0dGa2VMQkRkNnJHSnRGNFNwOGtnRkFZVFVUcTgxQlB3TUV3UFhJR19NM1NiRjNn0gGoAUFVX3lxTFBxSXowVHUxaDhaekVxYWNlUm1wSTg1RFZ4azRqdXVSRkNITmczeGViNVJ0UnViTlJBVGIzNndFQUwzYk1xX3JoTU5LWHB5ZGs4djFNVmM2X1EzZlNkQnNkY21BdklPRGF2b2FxUUZjV0pOblhZdXlHakRvMktFc1N4a2VEOTZubXRDSmJfZEI5TndmOHhGZHZ6c3Rwbm8yMC1BSzR6TXNzdA?oc=5",
       "source": "The Hill",
       "published": "2026-08-04T11:51:00+00:00",
-      "score": 2.98,
+      "score": 2.94,
       "tags": [
         "tension"
       ]
@@ -101,34 +121,14 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zMGFfZ2ZKaVI2OXRyMUdWRnJYQnU5ZU5xRlZpU0oxX3M3ZXVrMDBwc1F2d0poSzA2TWZVQ0l2ajNiMW1UQjQ1ZUtvMzlYSldya0hGSmlsSFFrODNmcTdB?oc=5",
       "source": "The Jerusalem Post",
       "published": "2026-08-04T09:20:53+00:00",
-      "score": 2.94,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Cargo ship reports projectile strike in Strait of Hormuz as US, Iran dispute talks - Ynetnews",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wYl94WXpyakxnRW54a2ZfbzJ4cHNQcEszb01FZUQwbDhVcjFESkQwLWMyR05MWVhkcUYwQmU4emNxdW1XWDc3cHVmN091Z3NZSkNQQ1h3?oc=5",
-      "source": "Ynetnews",
-      "published": "2026-08-04T07:04:00+00:00",
       "score": 2.9,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Cargo Ship Attacked in Omani Sector of the Strait of Hormuz - The Maritime Executive",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTEJTRDR3UkJMcU5KS1YyZS0xNkpaR3RZUml6SHgyT1cxX3RoNTVkSElGRTFRdFotWnJtRnZ3bGw1dXVydDRabkY2MEVkM2RkZ1puZWlvNmljMGtlQ2JwZmV0emtCRldoemFDNXlfbFE2RVp2dkJrb3lDTmNzNTZSNjdkMEtURlZQSWRwT2JPRndNN0VRVFlwM0lNNW1LbjQ?oc=5",
-      "source": "The Maritime Executive",
-      "published": "2026-08-04T02:47:46+00:00",
-      "score": 2.83,
       "tags": [
         "tension"
       ]
     }
   ],
   "brent": {
-    "price": 80.35,
-    "change_pct": 1.25
+    "price": 79.0,
+    "change_pct": -0.45
   }
 }
