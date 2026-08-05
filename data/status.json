@@ -1,10 +1,10 @@
 {
   "status": "OPEN",
   "label": "Normal traffic",
-  "tension_index": -22.1,
+  "tension_index": -21.2,
   "closure_signals": 1,
-  "articles_scanned": 223,
-  "updated": "2026-08-05T02:42:04.138177+00:00",
+  "articles_scanned": 226,
+  "updated": "2026-08-05T05:40:04.752337+00:00",
   "headlines": [
     {
       "title": "Iran Weighs Allowing Europe to Clear Mines in Strait of Hormuz - Bloomberg.com",
@@ -87,16 +87,6 @@
       ]
     },
     {
-      "title": "Cargo ship struck in Strait of Hormuz as Qatar mediates U.S.-Iran talks - Spectrum News",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM1dKRnE3dEUtUmI2eFpGUUZyT20tZF96MEk3N0tGN2ZGUDEwdzhodGNYWVg5eXB5MmpRQUFndUZsYWQ3NzNnd01UTlkyYm45Y0pxd1BYaUNsMi01akF0bDluMGE2MGN6SnI0MWNobDlfeTVSMHFxTk1id1ZOVEMtZnpndlVfNmxtSmhXZnJPU0dTT18waWtYQ3FlWDRxVE8wQi1faTlWbExXVnplbVNTbEVHd2xYd29JbnF5QUJaeF9ETlE?oc=5",
-      "source": "Spectrum News",
-      "published": "2026-08-04T12:52:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
       "title": "Cargo ship reports being struck in Strait of Hormuz - The Hill",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNmR4SnJUamhfbEp3eUZYLWxzV0p6Qkpqa2oyckJXOTFFSmd0clBHZllWZ05CSWtOclJkN0JYU0VmQUNIeWQ1cjBWYkk5SnNjTXZYR0o3Z1Vzb0ZzVWdwTWZHUUZQS1U4cEczRnV4OW1TdEw5d0dGa2VMQkRkNnJHSnRGNFNwOGtnRkFZVFVUcTgxQlB3TUV3UFhJR19NM1NiRjNn0gGoAUFVX3lxTFBxSXowVHUxaDhaekVxYWNlUm1wSTg1RFZ4azRqdXVSRkNITmczeGViNVJ0UnViTlJBVGIzNndFQUwzYk1xX3JoTU5LWHB5ZGs4djFNVmM2X1EzZlNkQnNkY21BdklPRGF2b2FxUUZjV0pOblhZdXlHakRvMktFc1N4a2VEOTZubXRDSmJfZEI5TndmOHhGZHZ6c3Rwbm8yMC1BSzR6TXNzdA?oc=5",
       "source": "The Hill",
@@ -117,10 +107,20 @@
       ]
     },
     {
-      "title": "One missing as crew abandons ship in Strait of Hormuz after strike - jpost.com",
+      "title": "One missing as crew abandons ship in Strait of Hormuz after strike - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zMGFfZ2ZKaVI2OXRyMUdWRnJYQnU5ZU5xRlZpU0oxX3M3ZXVrMDBwc1F2d0poSzA2TWZVQ0l2ajNiMW1UQjQ1ZUtvMzlYSldya0hGSmlsSFFrODNmcTdB?oc=5",
-      "source": "jpost.com",
+      "source": "The Jerusalem Post",
       "published": "2026-08-04T09:20:53+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Seafarer missing after bulker struck in the Strait of Hormuz - Seatrade Maritime News",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUDNRYlhVSjh5U0VGQTBQd1JGdENyZXJQdkhHblctdnhMSVExSUpDM2ZibVY5eUJOYmp6Z0w0dzlMTEFwWGNCdjBET19SR3lVc3lNX0xIcjNtY2JRTUxERjU2ZU5IcmpNanJObEk4a1YtczdMMk5iMVdrajhNUGxjcjl6SUNPZjFfbUczYQ?oc=5",
+      "source": "Seatrade Maritime News",
+      "published": "2026-08-04T08:22:07+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -128,7 +128,7 @@
     }
   ],
   "brent": {
-    "price": 78.68,
-    "change_pct": -0.86
+    "price": 78.99,
+    "change_pct": -0.47
   }
 }
