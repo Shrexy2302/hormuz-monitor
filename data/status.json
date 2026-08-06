@@ -1,17 +1,27 @@
 {
   "status": "OPEN",
   "label": "Normal traffic",
-  "tension_index": -98.3,
-  "closure_signals": 1,
-  "articles_scanned": 234,
-  "updated": "2026-08-06T01:55:36.486467+00:00",
+  "tension_index": -78.5,
+  "closure_signals": 2,
+  "articles_scanned": 237,
+  "updated": "2026-08-06T05:11:57.713876+00:00",
   "headlines": [
+    {
+      "title": "White House disputes reports that Strait of Hormuz is closed - Foster's Daily Democrat",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQalpyNGNuc0d5ZVVCVHlpYUxhckktNjRHaHFWVjlQSE5sY1BJZElreGFDUXFsV1VMemdfQTJpNGVUNjhNc0NvZXdoZzRKSXNpV213eFM1M0hMUUoyZllQQmFmS2hFbGszNUVBU3lBWGNwWmE5RjZJOTdwNUJSLWpXWHZZUGZYVDYyQTV1aTFTbGxoQThrRXNLZ0dvOUlMdnJoQl9HZlJ3MTRzS0lseUFWMVNrdlVCYzFSdzdibVl0MDhGb3J2LVY1OWNoY0ROQS03Tmc?oc=5",
+      "source": "Foster's Daily Democrat",
+      "published": "2026-08-04T19:34:18+00:00",
+      "score": 9.47,
+      "tags": [
+        "closure"
+      ]
+    },
     {
       "title": "Iran Weighs Allowing Europe to Clear Mines in Strait of Hormuz - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcTFZUkpXdmRrNDczQXdOdERpaWFoRnpyMHA4TGVZNm1BZEcxOXF6eVJJR2xaZjdac3lLWGszZEZrLVo1YW5yOGhULXREd1llTGVIZHh5YmJzRDBLS1Jkb2JjdVhoSUxJU3pPVlZ5RDhYNnRONFNZUUJUZTNFSU9GeEtqWE5TSHhqN3cyUklTc0RXbG9LTzFOelJJTGNKRVE1R2tLTXlKNk11b01lV0p1UDhxdw?oc=5",
       "source": "Bloomberg.com",
       "published": "2026-08-04T15:38:51+00:00",
-      "score": 5.66,
+      "score": 5.55,
       "tags": [
         "closure"
       ]
@@ -21,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTVVlUlR2N2ZKNTl1dFJTRG9GdGZNWGlFUzAyenRXZkpKU1U2cDl0VjlxbHl2cmZvd1BRLVU2c0xZLXgzcVZDRXRVVlYyQXVqMWpZTkFlaDdiZnZ2VEFWS0RqNS1WenduZDNkSkh5Z1luZzlKWVpueFZtMnBlQkk1d3ptdUFTeVNwNTZBVjl5eEFtM01KOUxaZjNnY3FjaTBPVG5PSk5oZ2pLckNwWmdyQkhDVG1HbkZ5QlJIT3dKak0yTmRMWjZocDVkUQ?oc=5",
       "source": "New York Post",
       "published": "2026-08-04T20:40:00+00:00",
-      "score": 2.91,
+      "score": 2.86,
       "tags": [
         "tension"
       ]
@@ -31,7 +41,17 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcjk0c2FOdzM2N212QjJLcmx6WFBibzdXM0hlSUpSNGRuZjQ1c0tsbmIydHRXdjdldmhUUk9henV1cjZXVkRzWFRyd2xiZjIxdUJJUHZUb2s1ZHVCdHN4NjRjNWpaR0MzSGlxVW5BY0JhdkJnZ3VTUng0VEk1M1NodXpnbWRTU01DdXBKSkFaNTBtdnNRR0Y2cjZsVQ?oc=5",
       "source": "UA.NEWS",
       "published": "2026-08-04T18:16:03+00:00",
-      "score": 2.87,
+      "score": 2.82,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Hormuz Opening Uncertain After New Strike, as Trump Administration Says Deal May Be Close - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV1R4TUdhN3VrMV9BWmpDY1Z1MkpVVmNfekh3ODl5ZExXMHQxNkNBcFhOLUM4MVdSLTRadGQta1J5M1lsVDdXV0xGVkk0TldLZG1xSmdIVkxrVzM5RVkweWFvWGhOeXg2ZjV4M2NUWERBSEE5b2s2X3VFa2k2ckVKRnBRcFgtQWZWa1c5SklXbzFuNUJjVlM4ODMxWFBTT1dOc0c2TWNXMmc?oc=5",
+      "source": "WSJ",
+      "published": "2026-08-04T15:26:00+00:00",
+      "score": 2.77,
       "tags": [
         "tension"
       ]
@@ -41,17 +61,17 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZjBXR2x4WUxHaktOaThwMkNGZTVackgyRGt2NEFyNkhCR1puYmVwdzNTOWlOQV82dW5LY2dENkp3b3M0dHNlX3RNTTRTZDhzYW0wQjlIdGVyQ2dzQ3Nvc3dZaHJRdlhfRnZ3TGVBX25sSENKdGVwWE5CbDBLckZOR3RiOTZVNzhSclRweVYzb3hzLWlOWmY1b0NoVQ?oc=5",
       "source": "NBC News",
       "published": "2026-08-04T14:52:52+00:00",
-      "score": 2.82,
+      "score": 2.76,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Qatar confirms diplomacy between U.S., Iran as vessel attacked in Strait of Hormuz - washingtontimes.com",
+      "title": "Qatar confirms diplomacy between U.S., Iran as vessel attacked in Strait of Hormuz - Washington Times",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY0NyZUZveW5qakM1eE9EN1dwVFRQU05aN1Q4Z2ZPeEZueFFybGM0aVRzd1pGUXRfSjZpcDNkMlFJQlJxblJQMkpNd1p2eGZmRDc1SUNNczktMjBJQUVYNXZ3MjcySHNESzNBUTA4Z1NFc0JEbVVnQXRYZjk4bHFXd0dOOFoxQi1UMkNGQVNRYjRFV2Rjb29Nem91REJHaFRyZTlnYW9JU1FKSnZia3ZlWg?oc=5",
-      "source": "washingtontimes.com",
+      "source": "Washington Times",
       "published": "2026-08-04T13:56:34+00:00",
-      "score": 2.8,
+      "score": 2.75,
       "tags": [
         "tension"
       ]
@@ -61,7 +81,7 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNmR4SnJUamhfbEp3eUZYLWxzV0p6Qkpqa2oyckJXOTFFSmd0clBHZllWZ05CSWtOclJkN0JYU0VmQUNIeWQ1cjBWYkk5SnNjTXZYR0o3Z1Vzb0ZzVWdwTWZHUUZQS1U4cEczRnV4OW1TdEw5d0dGa2VMQkRkNnJHSnRGNFNwOGtnRkFZVFVUcTgxQlB3TUV3UFhJR19NM1NiRjNn0gGoAUFVX3lxTFBxSXowVHUxaDhaekVxYWNlUm1wSTg1RFZ4azRqdXVSRkNITmczeGViNVJ0UnViTlJBVGIzNndFQUwzYk1xX3JoTU5LWHB5ZGs4djFNVmM2X1EzZlNkQnNkY21BdklPRGF2b2FxUUZjV0pOblhZdXlHakRvMktFc1N4a2VEOTZubXRDSmJfZEI5TndmOHhGZHZ6c3Rwbm8yMC1BSzR6TXNzdA?oc=5",
       "source": "The Hill",
       "published": "2026-08-04T11:51:00+00:00",
-      "score": 2.77,
+      "score": 2.71,
       "tags": [
         "tension"
       ]
@@ -71,7 +91,7 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdU9zbjhhSWk5NllyNDZlS0FuWndxVnZDc0FKSmxjdVRpdXNDV2lKNU44bUQwRVRZbnhTbVRKTHBRSV9Tb2ZlQ0EzdlQ3aGdlYnpLVk1TVDBta3Frd29GXzZXMDFwV21GZ3BHOHVWdlZkTVVwdkM1djFzcXBYLUpZNGJyZWhEQzEzNGV5U2haWWhiZFg1R2lmRU80dlFaUFhvOHpWRFdxbURxbXFlZWFN0gG3AUFVX3lxTFBDbmtHTnFycEhJN3dIQkJBSXBhXzhLR3M5b1BoNmN1LWY2QVZJaXFZVGRGVm1pMWhSclhacF8tZmU0MVZJOE5PY21yb0szVHQ5ME1IbzN5ajRXaElibE5rLTBDZm9iMF93OFlHY2V5RnotMHFwT0JqNVdnYjRUcUVuNGVULTFtdGlsWW9iUV92bVZTSXJIQy1rRy1tWHdXb0VhZWJZSnRuTFUzVGdua0p2T1E2Rk5MQQ?oc=5",
       "source": "NBC 7 San Diego",
       "published": "2026-08-04T09:17:38+00:00",
-      "score": 2.72,
+      "score": 2.67,
       "tags": [
         "tension"
       ]
@@ -81,7 +101,7 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTEJTRDR3UkJMcU5KS1YyZS0xNkpaR3RZUml6SHgyT1cxX3RoNTVkSElGRTFRdFotWnJtRnZ3bGw1dXVydDRabkY2MEVkM2RkZ1puZWlvNmljMGtlQ2JwZmV0emtCRldoemFDNXlfbFE2RVp2dkJrb3lDTmNzNTZSNjdkMEtURlZQSWRwT2JPRndNN0VRVFlwM0lNNW1LbjQ?oc=5",
       "source": "The Maritime Executive",
       "published": "2026-08-04T02:47:46+00:00",
-      "score": 2.61,
+      "score": 2.56,
       "tags": [
         "tension"
       ]
@@ -91,7 +111,7 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMlZNN3YxdlBrMlh4djFYOTlDSkhQX3gyeTlreW5pb1NWVDFDVzVzM1QzWkNWaDdfTHpmTVRyeVRnLS1sakdfVnZYTzdDSzRHTi1aRy1xSzJPaHJnZl9yUlRNZ2N1SV9lc3p4Qm5XLUlPZ0dvWWJsc0VNMDZwYWJJSE5RTXB3dXlGM1ZaMFpzLVZvTGpNZ1ZUX1hyak5TZzhWVGRMdDFOUUZRYXo3eDJaY1Nn?oc=5",
       "source": "The Guardian",
       "published": "2026-08-03T11:52:00+00:00",
-      "score": 2.37,
+      "score": 2.31,
       "tags": [
         "tension"
       ]
@@ -101,34 +121,14 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcUppQzhZSkh6NkMtRjIyazd5OTJiUGV3RnNRWmMxdGlTUlBDWDVCMUV3SWRPZ3cxSWt4eU1jb2pfYWRhajBaT0c4TzRIX3UyaGh5RW0zanhubEhxZ3JZRFFjMDd0WFJxNFJYU1BqLTJvSUltMlJ3RkN0aEV3cUdDVm5SLTU2S3JEa3RkbmI5S181Qy0wT0x2amt2LV9BVDk1VjRFdXdSYXlMcU1jTk85Z0g3R0ZGQlVOU1hoWHln?oc=5",
       "source": "Euronews",
       "published": "2026-08-03T10:31:24+00:00",
-      "score": 2.34,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "LNG Carrier Hit By Iranian Attack in Strait of Hormuz - The Maritime Executive",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMjJHc3FEWmxUanVKNXhGeGVpZWpSNFh1b3dPdGIxWFRPekxTZmIzQ3pyVHJ4aXNSWFZxWGt5TXVSS1VaY2ZwV1BaMGdFWVYwb2M2Z3p5M3pfeE4xeWFxeGV2SWstMXk0b1REYUtFTEtnRGJsRW9JaWlQY3hSMjdjeDhvODYzYWZ5WVJPU0YzLVAtWVNDRUxR?oc=5",
-      "source": "The Maritime Executive",
-      "published": "2026-08-02T17:46:11+00:00",
-      "score": 2.06,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran Strikes 2 Tankers Trying To Cross Strait Of Hormuz Under US \"Air Escort\" - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcVpJYkJJdzJCQkp2a2R5X1VTcXp6N2RVWWEtX3VBakl5ZjFTWTBBcFBTdWExZ190TFhham4zUGpDNEw0NjNqbWQyOUpWSkphMVRKb20yLTFKNEo2d0Q1cUpneHJXTEoxMHdXZ3lzeDhYWTBNa3h1c0JKak5pRlhQdW8zOXlFYVJJeTVFeWpsc1hHUjI3V25LUzRaUHlFQU40RXpnSGlqRUE5dzBqdmF5cUFPQUs3dEFRV2h2aXpIUHB2T2FDZ1NR0gHPAUFVX3lxTE5MbVh3ZC1fc0dDNk82WXhnbEtKeER4SVNYaWRMWEpvemt1WmhWVXhjcXFUaHROcmpUc1FxaGNadHV6Xy1WMVdDRG1PMVM1R1NwMlVMcmdPM3k2OVFKU1pieXBmWWRVN2NITUwzRzZZcklBVzl3WWo2WG1sczFTc2dtMkw2Skg5T19wSUdvRm5LYkdlbl90dzhZOFlzYW51WVQxUjRsTnZjSUltSnV0VTc0Rkt6VS10aGxDa2V3V1JEeUZkdlBXTURXUU5hcnMtZw?oc=5",
-      "source": "NDTV",
-      "published": "2026-07-31T15:19:26+00:00",
-      "score": 2.04,
+      "score": 2.29,
       "tags": [
         "tension"
       ]
     }
   ],
   "brent": {
-    "price": 80.1,
-    "change_pct": 0.82
+    "price": 79.16,
+    "change_pct": -0.37
   }
 }
