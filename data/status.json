@@ -1,17 +1,17 @@
 {
   "status": "OPEN",
   "label": "Normal traffic",
-  "tension_index": -75.4,
+  "tension_index": -65.8,
   "closure_signals": 2,
-  "articles_scanned": 236,
-  "updated": "2026-08-07T08:09:15.354855+00:00",
+  "articles_scanned": 230,
+  "updated": "2026-08-07T09:30:12.536261+00:00",
   "headlines": [
     {
       "title": "Gavin Newsom Says Strait of Hormuz Is Closed Despite Trump's Claims\u2014UKMTO Reports Explosion Near Vessel - Benzinga",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNa1ZmOW4xcjNTQ3BoekhLOGhIekJGMncteVk4OVhGbTM0LUwwcXRNZ2VXN2lXR0FrcGs3Zmt1V2ZoSFZwTTREdkx4WXQ5TmdGS21vRGpub1FiOXdzN1FIN1lyVkpReGhlX2F3R1lDNl9JZXE5Y1JkaGV5VVRWQWdRVjNRS0M4QmZHZHBiSFBCQTFSMHkwc1JFaXZUTGVPRHZRUjlkakxsLU9LdjJCWjItelp2RVZ5WTltQnF3VTVGcjJKTHpGN0diUTJaako2TlFFS1N2T2NoblRQN3J4eXEwWHJoNnZEVlVMZHkzNw?oc=5",
       "source": "Benzinga",
       "published": "2026-08-06T07:44:19+00:00",
-      "score": 9.98,
+      "score": 9.9,
       "tags": [
         "closure"
       ]
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQalpyNGNuc0d5ZVVCVHlpYUxhckktNjRHaHFWVjlQSE5sY1BJZElreGFDUXFsV1VMemdfQTJpNGVUNjhNc0NvZXdoZzRKSXNpV213eFM1M0hMUUoyZllQQmFmS2hFbGszNUVBU3lBWGNwWmE5RjZJOTdwNUJSLWpXWHZZUGZYVDYyQTV1aTFTbGxoQThrRXNLZ0dvOUlMdnJoQl9HZlJ3MTRzS0lseUFWMVNrdlVCYzFSdzdibVl0MDhGb3J2LVY1OWNoY0ROQS03Tmc?oc=5",
       "source": "Foster's Daily Democrat",
       "published": "2026-08-04T19:34:18+00:00",
-      "score": 7.97,
+      "score": 7.89,
       "tags": [
         "closure"
       ]
@@ -31,9 +31,19 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcTFZUkpXdmRrNDczQXdOdERpaWFoRnpyMHA4TGVZNm1BZEcxOXF6eVJJR2xaZjdac3lLWGszZEZrLVo1YW5yOGhULXREd1llTGVIZHh5YmJzRDBLS1Jkb2JjdVhoSUxJU3pPVlZ5RDhYNnRONFNZUUJUZTNFSU9GeEtqWE5TSHhqN3cyUklTc0RXbG9LTzFOelJJTGNKRVE1R2tLTXlKNk11b01lV0p1UDhxdw?oc=5",
       "source": "Bloomberg.com",
       "published": "2026-08-04T15:38:51+00:00",
-      "score": 4.65,
+      "score": 4.6,
       "tags": [
         "closure"
+      ]
+    },
+    {
+      "title": "Oil Extends Gains on Reported Iran Strikes in Strait of Hormuz - Energy Connects",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTnFra0hWdHVkRWYxTXJwSENmTUZoS0ZSMkNHRGJadFFNV3hDQVNaaEhOZ184ZnVtTVljaXQ5THU1Y01SZWRRcWxhd2N1SU5xX3A2ckNKdjQ0NUNwTHhoYXNMbEpxcjUwTXZZYV9iOWRaNS1saHlENFNOVl9TSjJnNFAtYXF5dVRXaFpPcFJVbGw0MG1lOU9QLXhIM200cDhjOVg2TF91UHZTZy1XQ2lUN0lxbDdwZw?oc=5",
+      "source": "Energy Connects",
+      "published": "2026-08-07T05:12:05+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
       ]
     },
     {
@@ -51,17 +61,17 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVTZaTFF1d0RtUUU0YWlhZ0RkNW9nXzcwWVhfdUlaMnByRGhLcDVCbFhOeE0xa0dJZk5yaU1DaUVKSXpHMTZCY2pMS0NoZERmUWRVRGtjSDVuenBmTjBlOHZZX3MzVzBZS3lMSm9EUXpneVlCaC1NcW9tQ1YzN0ZJMGlmdmJmWlcxMlpMQjZfUEJIdHMtNFhCeXE1QjFXMGh1RGItaDFZaXZPcFNwWWM1Q3R3ZUxtUGlSZ1NoVWRuMmpMVkU?oc=5",
       "source": "Reuters",
       "published": "2026-08-06T05:37:00+00:00",
-      "score": 2.96,
+      "score": 2.94,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "More commercial ships attacked in Middle East, threatening Strait of Hormuz deal with Iran - New York Post",
+      "title": "More commercial ships attacked in Middle East, threatening Strait of Hormuz deal with Iran - nypost.com",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTVVlUlR2N2ZKNTl1dFJTRG9GdGZNWGlFUzAyenRXZkpKU1U2cDl0VjlxbHl2cmZvd1BRLVU2c0xZLXgzcVZDRXRVVlYyQXVqMWpZTkFlaDdiZnZ2VEFWS0RqNS1WenduZDNkSkh5Z1luZzlKWVpueFZtMnBlQkk1d3ptdUFTeVNwNTZBVjl5eEFtM01KOUxaZjNnY3FjaTBPVG5PSk5oZ2pLckNwWmdyQkhDVG1HbkZ5QlJIT3dKak0yTmRMWjZocDVkUQ?oc=5",
-      "source": "New York Post",
+      "source": "nypost.com",
       "published": "2026-08-04T20:40:00+00:00",
-      "score": 2.41,
+      "score": 2.39,
       "tags": [
         "tension"
       ]
@@ -71,17 +81,17 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZjBXR2x4WUxHaktOaThwMkNGZTVackgyRGt2NEFyNkhCR1puYmVwdzNTOWlOQV82dW5LY2dENkp3b3M0dHNlX3RNTTRTZDhzYW0wQjlIdGVyQ2dzQ3Nvc3dZaHJRdlhfRnZ3TGVBX25sSENKdGVwWE5CbDBLckZOR3RiOTZVNzhSclRweVYzb3hzLWlOWmY1b0NoVQ?oc=5",
       "source": "NBC News",
       "published": "2026-08-04T14:52:52+00:00",
-      "score": 2.31,
+      "score": 2.29,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Qatar confirms diplomacy between U.S., Iran as vessel attacked in Strait of Hormuz - washingtontimes.com",
+      "title": "Qatar confirms diplomacy between U.S., Iran as vessel attacked in Strait of Hormuz - Washington Times",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY0NyZUZveW5qakM1eE9EN1dwVFRQU05aN1Q4Z2ZPeEZueFFybGM0aVRzd1pGUXRfSjZpcDNkMlFJQlJxblJQMkpNd1p2eGZmRDc1SUNNczktMjBJQUVYNXZ3MjcySHNESzNBUTA4Z1NFc0JEbVVnQXRYZjk4bHFXd0dOOFoxQi1UMkNGQVNRYjRFV2Rjb29Nem91REJHaFRyZTlnYW9JU1FKSnZia3ZlWg?oc=5",
-      "source": "washingtontimes.com",
+      "source": "Washington Times",
       "published": "2026-08-04T13:56:34+00:00",
-      "score": 2.3,
+      "score": 2.27,
       "tags": [
         "tension"
       ]
@@ -91,7 +101,7 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNmR4SnJUamhfbEp3eUZYLWxzV0p6Qkpqa2oyckJXOTFFSmd0clBHZllWZ05CSWtOclJkN0JYU0VmQUNIeWQ1cjBWYkk5SnNjTXZYR0o3Z1Vzb0ZzVWdwTWZHUUZQS1U4cEczRnV4OW1TdEw5d0dGa2VMQkRkNnJHSnRGNFNwOGtnRkFZVFVUcTgxQlB3TUV3UFhJR19NM1NiRjNn0gGoAUFVX3lxTFBxSXowVHUxaDhaekVxYWNlUm1wSTg1RFZ4azRqdXVSRkNITmczeGViNVJ0UnViTlJBVGIzNndFQUwzYk1xX3JoTU5LWHB5ZGs4djFNVmM2X1EzZlNkQnNkY21BdklPRGF2b2FxUUZjV0pOblhZdXlHakRvMktFc1N4a2VEOTZubXRDSmJfZEI5TndmOHhGZHZ6c3Rwbm8yMC1BSzR6TXNzdA?oc=5",
       "source": "The Hill",
       "published": "2026-08-04T11:51:00+00:00",
-      "score": 2.26,
+      "score": 2.24,
       "tags": [
         "tension"
       ]
@@ -101,7 +111,7 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdU9zbjhhSWk5NllyNDZlS0FuWndxVnZDc0FKSmxjdVRpdXNDV2lKNU44bUQwRVRZbnhTbVRKTHBRSV9Tb2ZlQ0EzdlQ3aGdlYnpLVk1TVDBta3Frd29GXzZXMDFwV21GZ3BHOHVWdlZkTVVwdkM1djFzcXBYLUpZNGJyZWhEQzEzNGV5U2haWWhiZFg1R2lmRU80dlFaUFhvOHpWRFdxbURxbXFlZWFN0gG3AUFVX3lxTFBDbmtHTnFycEhJN3dIQkJBSXBhXzhLR3M5b1BoNmN1LWY2QVZJaXFZVGRGVm1pMWhSclhacF8tZmU0MVZJOE5PY21yb0szVHQ5ME1IbzN5ajRXaElibE5rLTBDZm9iMF93OFlHY2V5RnotMHFwT0JqNVdnYjRUcUVuNGVULTFtdGlsWW9iUV92bVZTSXJIQy1rRy1tWHdXb0VhZWJZSnRuTFUzVGdua0p2T1E2Rk5MQQ?oc=5",
       "source": "NBC 7 San Diego",
       "published": "2026-08-04T09:17:38+00:00",
-      "score": 2.22,
+      "score": 2.2,
       "tags": [
         "tension"
       ]
@@ -111,24 +121,14 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTEJTRDR3UkJMcU5KS1YyZS0xNkpaR3RZUml6SHgyT1cxX3RoNTVkSElGRTFRdFotWnJtRnZ3bGw1dXVydDRabkY2MEVkM2RkZ1puZWlvNmljMGtlQ2JwZmV0emtCRldoemFDNXlfbFE2RVp2dkJrb3lDTmNzNTZSNjdkMEtURlZQSWRwT2JPRndNN0VRVFlwM0lNNW1LbjQ?oc=5",
       "source": "The Maritime Executive",
       "published": "2026-08-04T02:47:46+00:00",
-      "score": 2.11,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Fresh US-Iran talks are \u2018last chance\u2019 for Tehran to avoid war escalating, Trump says - theguardian.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMlZNN3YxdlBrMlh4djFYOTlDSkhQX3gyeTlreW5pb1NWVDFDVzVzM1QzWkNWaDdfTHpmTVRyeVRnLS1sakdfVnZYTzdDSzRHTi1aRy1xSzJPaHJnZl9yUlRNZ2N1SV9lc3p4Qm5XLUlPZ0dvWWJsc0VNMDZwYWJJSE5RTXB3dXlGM1ZaMFpzLVZvTGpNZ1ZUX1hyak5TZzhWVGRMdDFOUUZRYXo3eDJaY1Nn?oc=5",
-      "source": "theguardian.com",
-      "published": "2026-08-03T11:52:00+00:00",
-      "score": 1.86,
+      "score": 2.09,
       "tags": [
         "tension"
       ]
     }
   ],
   "brent": {
-    "price": 83.29,
-    "change_pct": 0.97
+    "price": 82.76,
+    "change_pct": 0.33
   }
 }
