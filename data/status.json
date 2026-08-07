@@ -1,13 +1,134 @@
 {
   "status": "OPEN",
   "label": "Normal traffic",
-  "tension_index": 0.0,
-  "closure_signals": 0,
-  "articles_scanned": 0,
-  "updated": "2026-08-07T05:29:32.224543+00:00",
-  "headlines": [],
+  "tension_index": -76.3,
+  "closure_signals": 2,
+  "articles_scanned": 239,
+  "updated": "2026-08-07T06:48:34.225179+00:00",
+  "headlines": [
+    {
+      "title": "Gavin Newsom Says Strait of Hormuz Is Closed Despite Trump's Claims\u2014UKMTO Reports Explosion Near Vessel - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNa1ZmOW4xcjNTQ3BoekhLOGhIekJGMncteVk4OVhGbTM0LUwwcXRNZ2VXN2lXR0FrcGs3Zmt1V2ZoSFZwTTREdkx4WXQ5TmdGS21vRGpub1FiOXdzN1FIN1lyVkpReGhlX2F3R1lDNl9JZXE5Y1JkaGV5VVRWQWdRVjNRS0M4QmZHZHBiSFBCQTFSMHkwc1JFaXZUTGVPRHZRUjlkakxsLU9LdjJCWjItelp2RVZ5WTltQnF3VTVGcjJKTHpGN0diUTJaako2TlFFS1N2T2NoblRQN3J4eXEwWHJoNnZEVlVMZHkzNw?oc=5",
+      "source": "Benzinga",
+      "published": "2026-08-06T07:44:19+00:00",
+      "score": 10.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "White House disputes reports that Strait of Hormuz is closed - fosters.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQalpyNGNuc0d5ZVVCVHlpYUxhckktNjRHaHFWVjlQSE5sY1BJZElreGFDUXFsV1VMemdfQTJpNGVUNjhNc0NvZXdoZzRKSXNpV213eFM1M0hMUUoyZllQQmFmS2hFbGszNUVBU3lBWGNwWmE5RjZJOTdwNUJSLWpXWHZZUGZYVDYyQTV1aTFTbGxoQThrRXNLZ0dvOUlMdnJoQl9HZlJ3MTRzS0lseUFWMVNrdlVCYzFSdzdibVl0MDhGb3J2LVY1OWNoY0ROQS03Tmc?oc=5",
+      "source": "fosters.com",
+      "published": "2026-08-04T19:34:18+00:00",
+      "score": 8.04,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iran Weighs Allowing Europe to Clear Mines in Strait of Hormuz - bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcTFZUkpXdmRrNDczQXdOdERpaWFoRnpyMHA4TGVZNm1BZEcxOXF6eVJJR2xaZjdac3lLWGszZEZrLVo1YW5yOGhULXREd1llTGVIZHh5YmJzRDBLS1Jkb2JjdVhoSUxJU3pPVlZ5RDhYNnRONFNZUUJUZTNFSU9GeEtqWE5TSHhqN3cyUklTc0RXbG9LTzFOelJJTGNKRVE1R2tLTXlKNk11b01lV0p1UDhxdw?oc=5",
+      "source": "bloomberg.com",
+      "published": "2026-08-04T15:38:51+00:00",
+      "score": 4.69,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iran announces an agreement with Oman to manage the Strait of Hormuz while awaiting Trump's response; attacks continue against ships attempting to pass through it - voz.us",
+      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOLVFwYjk2ZVZiS1Zpb09LZjBvWDdtMUd3Nl9RSUo1ck9STmZtbVRxX1lLeTRFV0NJYXVMS3huSWZLSzlyZm5YV3Roel9tbzNSc093Zlp4cFNpVy16ZnZpNXl6c0NENlJXZUZDaUZhTXVGMzQ1bEVKUC0yZXlSeVNjcEkzQUxDdVg5Zks2Nk9jX1dVRVloc0hRLXhmZ0pBOFh5ZXhyZFlGNnVweEgwcnBPek15SG16U1Jab0R6ZXVLNGx4MDRPM0lON3dCR2VRYWUzaTJRc3VQRXp3bmg2RERUWVFPYzhJeGExMXpSMWUyZkJJaEFZRWt6Q1hsamJPWE5pQUlJY1ZyaGdIN2dyWjdaNDBhQ0FTSWpnQlgyZm9hbzZocDUydnlET1BhOGt6eGZn?oc=5",
+      "source": "voz.us",
+      "published": "2026-08-06T10:05:06+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Gulf shipping traffic down after Houthis say they attacked Saudi tanker - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVTZaTFF1d0RtUUU0YWlhZ0RkNW9nXzcwWVhfdUlaMnByRGhLcDVCbFhOeE0xa0dJZk5yaU1DaUVKSXpHMTZCY2pMS0NoZERmUWRVRGtjSDVuenBmTjBlOHZZX3MzVzBZS3lMSm9EUXpneVlCaC1NcW9tQ1YzN0ZJMGlmdmJmWlcxMlpMQjZfUEJIdHMtNFhCeXE1QjFXMGh1RGItaDFZaXZPcFNwWWM1Q3R3ZUxtUGlSZ1NoVWRuMmpMVkU?oc=5",
+      "source": "Reuters",
+      "published": "2026-08-06T05:37:00+00:00",
+      "score": 2.98,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "More commercial ships attacked in Middle East, threatening Strait of Hormuz deal with Iran - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTVVlUlR2N2ZKNTl1dFJTRG9GdGZNWGlFUzAyenRXZkpKU1U2cDl0VjlxbHl2cmZvd1BRLVU2c0xZLXgzcVZDRXRVVlYyQXVqMWpZTkFlaDdiZnZ2VEFWS0RqNS1WenduZDNkSkh5Z1luZzlKWVpueFZtMnBlQkk1d3ptdUFTeVNwNTZBVjl5eEFtM01KOUxaZjNnY3FjaTBPVG5PSk5oZ2pLckNwWmdyQkhDVG1HbkZ5QlJIT3dKak0yTmRMWjZocDVkUQ?oc=5",
+      "source": "New York Post",
+      "published": "2026-08-04T20:40:00+00:00",
+      "score": 2.43,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran may strike a favorable deal with Europe regarding the Strait of Hormuz - UA.NEWS",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcjk0c2FOdzM2N212QjJLcmx6WFBibzdXM0hlSUpSNGRuZjQ1c0tsbmIydHRXdjdldmhUUk9henV1cjZXVkRzWFRyd2xiZjIxdUJJUHZUb2s1ZHVCdHN4NjRjNWpaR0MzSGlxVW5BY0JhdkJnZ3VTUng0VEk1M1NodXpnbWRTU01DdXBKSkFaNTBtdnNRR0Y2cjZsVQ?oc=5",
+      "source": "UA.NEWS",
+      "published": "2026-08-04T18:16:03+00:00",
+      "score": 2.39,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Trump and Iran clash over Strait of Hormuz talks as cargo ship is attacked - nbcnews.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZjBXR2x4WUxHaktOaThwMkNGZTVackgyRGt2NEFyNkhCR1puYmVwdzNTOWlOQV82dW5LY2dENkp3b3M0dHNlX3RNTTRTZDhzYW0wQjlIdGVyQ2dzQ3Nvc3dZaHJRdlhfRnZ3TGVBX25sSENKdGVwWE5CbDBLckZOR3RiOTZVNzhSclRweVYzb3hzLWlOWmY1b0NoVQ?oc=5",
+      "source": "nbcnews.com",
+      "published": "2026-08-04T14:52:52+00:00",
+      "score": 2.33,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Qatar confirms diplomacy between U.S., Iran as vessel attacked in Strait of Hormuz - Washington Times",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY0NyZUZveW5qakM1eE9EN1dwVFRQU05aN1Q4Z2ZPeEZueFFybGM0aVRzd1pGUXRfSjZpcDNkMlFJQlJxblJQMkpNd1p2eGZmRDc1SUNNczktMjBJQUVYNXZ3MjcySHNESzNBUTA4Z1NFc0JEbVVnQXRYZjk4bHFXd0dOOFoxQi1UMkNGQVNRYjRFV2Rjb29Nem91REJHaFRyZTlnYW9JU1FKSnZia3ZlWg?oc=5",
+      "source": "Washington Times",
+      "published": "2026-08-04T13:56:34+00:00",
+      "score": 2.32,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Cargo ship reports being struck in Strait of Hormuz - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNmR4SnJUamhfbEp3eUZYLWxzV0p6Qkpqa2oyckJXOTFFSmd0clBHZllWZ05CSWtOclJkN0JYU0VmQUNIeWQ1cjBWYkk5SnNjTXZYR0o3Z1Vzb0ZzVWdwTWZHUUZQS1U4cEczRnV4OW1TdEw5d0dGa2VMQkRkNnJHSnRGNFNwOGtnRkFZVFVUcTgxQlB3TUV3UFhJR19NM1NiRjNn0gGoAUFVX3lxTFBxSXowVHUxaDhaekVxYWNlUm1wSTg1RFZ4azRqdXVSRkNITmczeGViNVJ0UnViTlJBVGIzNndFQUwzYk1xX3JoTU5LWHB5ZGs4djFNVmM2X1EzZlNkQnNkY21BdklPRGF2b2FxUUZjV0pOblhZdXlHakRvMktFc1N4a2VEOTZubXRDSmJfZEI5TndmOHhGZHZ6c3Rwbm8yMC1BSzR6TXNzdA?oc=5",
+      "source": "The Hill",
+      "published": "2026-08-04T11:51:00+00:00",
+      "score": 2.28,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Cargo ship reports being struck in Strait of Hormuz as U.S. and Iran dispute talks - NBC 7 San Diego",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdU9zbjhhSWk5NllyNDZlS0FuWndxVnZDc0FKSmxjdVRpdXNDV2lKNU44bUQwRVRZbnhTbVRKTHBRSV9Tb2ZlQ0EzdlQ3aGdlYnpLVk1TVDBta3Frd29GXzZXMDFwV21GZ3BHOHVWdlZkTVVwdkM1djFzcXBYLUpZNGJyZWhEQzEzNGV5U2haWWhiZFg1R2lmRU80dlFaUFhvOHpWRFdxbURxbXFlZWFN0gG3AUFVX3lxTFBDbmtHTnFycEhJN3dIQkJBSXBhXzhLR3M5b1BoNmN1LWY2QVZJaXFZVGRGVm1pMWhSclhacF8tZmU0MVZJOE5PY21yb0szVHQ5ME1IbzN5ajRXaElibE5rLTBDZm9iMF93OFlHY2V5RnotMHFwT0JqNVdnYjRUcUVuNGVULTFtdGlsWW9iUV92bVZTSXJIQy1rRy1tWHdXb0VhZWJZSnRuTFUzVGdua0p2T1E2Rk5MQQ?oc=5",
+      "source": "NBC 7 San Diego",
+      "published": "2026-08-04T09:17:38+00:00",
+      "score": 2.24,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Cargo Ship Attacked in Omani Sector of the Strait of Hormuz - The Maritime Executive",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTEJTRDR3UkJMcU5KS1YyZS0xNkpaR3RZUml6SHgyT1cxX3RoNTVkSElGRTFRdFotWnJtRnZ3bGw1dXVydDRabkY2MEVkM2RkZ1puZWlvNmljMGtlQ2JwZmV0emtCRldoemFDNXlfbFE2RVp2dkJrb3lDTmNzNTZSNjdkMEtURlZQSWRwT2JPRndNN0VRVFlwM0lNNW1LbjQ?oc=5",
+      "source": "The Maritime Executive",
+      "published": "2026-08-04T02:47:46+00:00",
+      "score": 2.13,
+      "tags": [
+        "tension"
+      ]
+    }
+  ],
   "brent": {
-    "price": 83.77,
-    "change_pct": 1.55
+    "price": 83.4,
+    "change_pct": 1.1
   }
 }
