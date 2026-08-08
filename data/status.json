@@ -1,10 +1,10 @@
 {
   "status": "OPEN",
   "label": "Normal traffic",
-  "tension_index": -6.8,
-  "closure_signals": 6,
-  "articles_scanned": 227,
-  "updated": "2026-08-08T14:56:50.639413+00:00",
+  "tension_index": -12.7,
+  "closure_signals": 5,
+  "articles_scanned": 228,
+  "updated": "2026-08-08T15:26:31.089087+00:00",
   "headlines": [
     {
       "title": "Iran keeps Strait of Hormuz closed until US meets conditions: IRGC - Apa.az",
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNa1ZmOW4xcjNTQ3BoekhLOGhIekJGMncteVk4OVhGbTM0LUwwcXRNZ2VXN2lXR0FrcGs3Zmt1V2ZoSFZwTTREdkx4WXQ5TmdGS21vRGpub1FiOXdzN1FIN1lyVkpReGhlX2F3R1lDNl9JZXE5Y1JkaGV5VVRWQWdRVjNRS0M4QmZHZHBiSFBCQTFSMHkwc1JFaXZUTGVPRHZRUjlkakxsLU9LdjJCWjItelp2RVZ5WTltQnF3VTVGcjJKTHpGN0diUTJaako2TlFFS1N2T2NoblRQN3J4eXEwWHJoNnZEVlVMZHkzNw?oc=5",
       "source": "Benzinga",
       "published": "2026-08-06T07:44:19+00:00",
-      "score": 8.27,
+      "score": 8.24,
       "tags": [
         "closure"
       ]
@@ -37,21 +37,11 @@
       ]
     },
     {
-      "title": "Is Iran Preparing to Permanently Block the Strait of Hormuz - oilprice.com",
+      "title": "Is Iran Preparing to Permanently Block the Strait of Hormuz - Crude Oil Prices Today | OilPrice.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTHhPUWdacm9BTElRZzJDVGhhTWgwSmRoVVk4elZwR3dmNS1pcHgxaFVCbHNXTkhwQkI5ZDBsb09vdFVMRU1GbWkwUHdDYmFpT1NqZnlQdlJGbk1kODcwSHoxRS1KT1BOUlVIY1BfeUJtRW9IanV6X1hobHBwU0Z4TTQ1a2NiU1pHRkJwUGFZdGhTWFR4YklwRXNMR3ZjcmxnV2JtV0Vmb3U0Mk3SAbABQVVfeXFMT0xUN3ByZmZSZmlMRVZNUmNybmQ1aGUyRFdEY0NrcE1SSloyQVo4cnM1VkZRTk9TVDlOQ2pHNjdYcHVNNFdTajd5XzhIeUI3c3RET25BZGxFbDdiSDFFSm0tZzJOV3Rxa1hEWTBHRzlUUk9Wb3c4RlpETXZSa3JTZV9UcTZzaDk5aEpFTHdPWTVTX2w5a1FYckRjd3gtYWhRV0pycEpGU2VReHpWZ0x1TnQ?oc=5",
-      "source": "oilprice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
       "published": "2026-08-07T16:04:46+00:00",
       "score": 8.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Iran demands closure of the Strait of Hormuz to US and Israeli ships - radar.am",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3c3cwRjVWcVFiV0ZySTZKcHpIQ09HczdNemJ6MDBJb0xnX29aUDY4d2hlS0JscmN0aUpqamJiNkMtWXhEUmlSUldtTlA1b3diT2tvQQ?oc=5",
-      "source": "radar.am",
-      "published": "2026-08-07T08:43:00+00:00",
-      "score": 7.72,
       "tags": [
         "closure"
       ]
@@ -61,7 +51,7 @@
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQalpyNGNuc0d5ZVVCVHlpYUxhckktNjRHaHFWVjlQSE5sY1BJZElreGFDUXFsV1VMemdfQTJpNGVUNjhNc0NvZXdoZzRKSXNpV213eFM1M0hMUUoyZllQQmFmS2hFbGszNUVBU3lBWGNwWmE5RjZJOTdwNUJSLWpXWHZZUGZYVDYyQTV1aTFTbGxoQThrRXNLZ0dvOUlMdnJoQl9HZlJ3MTRzS0lseUFWMVNrdlVCYzFSdzdibVl0MDhGb3J2LVY1OWNoY0ROQS03Tmc?oc=5",
       "source": "Foster's Daily Democrat",
       "published": "2026-08-04T19:34:18+00:00",
-      "score": 6.26,
+      "score": 6.23,
       "tags": [
         "closure"
       ]
@@ -81,16 +71,16 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcTFZUkpXdmRrNDczQXdOdERpaWFoRnpyMHA4TGVZNm1BZEcxOXF6eVJJR2xaZjdac3lLWGszZEZrLVo1YW5yOGhULXREd1llTGVIZHh5YmJzRDBLS1Jkb2JjdVhoSUxJU3pPVlZ5RDhYNnRONFNZUUJUZTNFSU9GeEtqWE5TSHhqN3cyUklTc0RXbG9LTzFOelJJTGNKRVE1R2tLTXlKNk11b01lV0p1UDhxdw?oc=5",
       "source": "Bloomberg.com",
       "published": "2026-08-04T15:38:51+00:00",
-      "score": 3.62,
+      "score": 3.61,
       "tags": [
         "closure"
       ]
     },
     {
       "title": "Missile strikes ADNOC tanker in Strait of Hormuz - Shafaq News | Latest breaking news in Iraq and the world - \u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeUI0ZVZQREZDWHpVTmFhTWd1Mm9ZOERDd3BEdUdCVHZ1RUlOYWplcE9zNjNLOENsQzhzWWR1VzV3ajdqWE82WElrVzNtOFhSdWx2cWsySGlDOGJoa3hqSVZRNjBFdkFaS2hmaUZuSTRrdEZSdkMyTVZ1bWszOTVJem1aTk0wT3VmQVQ3V0R3RQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeTd2Z2FMbWhJdC1uVy1NV3JTMWtjTmMzR01raG9qX3U3OTBjVkNpQk9TTHVGdUJOMWhZQ1Y2bHlESzBoTk0tT0ZyeHZWSFFQRENUOUtNTW9OU1BEUlN4RnZLQkMwb29YdDZBNTV3WS1GRUpNdU1nS1dodmhMaEcyYnN5TGJQd0NRdXc?oc=5",
       "source": "\u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
-      "published": "2026-08-08T12:12:58+00:00",
+      "published": "2026-08-08T12:11:30+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -107,9 +97,9 @@
       ]
     },
     {
-      "title": "Abu Dhabi National Oil Company says its vessel hit by missile in Strait of Hormuz - aa.com.tr",
+      "title": "Abu Dhabi National Oil Company says its vessel hit by missile in Strait of Hormuz - Anadolu Ajans\u0131",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTnJzSHFieExUTjdrUmVxVVlWVGRyc0F0V3ljSGFISi1DNEQ4R25DUjdHMEl1c0U4aGtGTmt2YUtOeXgxZW4zTWZfbFNPcFowSUlIdHczR3FOX2YxUVNVRDVWZUVkRGExb3EtNjgzWGttQ3hyc3NkdC03THF1WGZ1bkljR2w0YjJqb2V2a3phTXFkRGwwYm5aTE04VVhlWklWMmhMdnZKaVpGdnNzcUN5Wk93OTB1UV9ZQTVRQkFYUzg3NG41?oc=5",
-      "source": "aa.com.tr",
+      "source": "Anadolu Ajans\u0131",
       "published": "2026-08-08T11:02:55+00:00",
       "score": 3.0,
       "tags": [
@@ -121,6 +111,16 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNUVDcDN2bGszeGZLclhwZ0stckdfM04xWlBrRXhad1NacEU1Tm1ndEFhdHFTNDRZTWIyNUdnX0FObEhuSi1BX2F1S1FyQ3JsX1dFZWxBRnFwbmQ0bmFhaEM5eHhWQ3FLcUZTRGhibnd0SkJTMEdxMDZpMDJZRGpjam1KV0Q5RU1wUE1zY3Q4UkNFb2NJM2FPUXZ4VHl6TGpacnpVbmJkSjRrT1B0MV9xTA?oc=5",
       "source": "gCaptain",
       "published": "2026-08-07T17:25:21+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "ADNOC Reports 15 Vessel Attacks as Hormuz Risks Mount - Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYjhXdXBvR043NmQwYzNMSWktN0dGeUM1YU5HNWpmb3JMTEQ5QWVoOE5vWDlpNURwbGpQLThYM1BoNlZtc0tVS292NFVqcWNENjJ1MzNJaHRDaVo2SU9HOENHNmdCODY0N1BHektMeDdaYW5fUnI3QldtMm9rNkFaNGVlc2xIZlVsOFhsMjJoc25IZjRqT2l5YXNNRURCNEVDdTVJZU9NZWpnRjhVRkHSAbMBQVVfeXFMTkktQ3FkYUFMVnU5STlvWlMxNG1yVVVSbENkNUFtejVFY2pEb1p3ZC1Uc2ZUeVpMMHExcmJucXN3RUNSS09UQ3V4ajVxRFQtc3JTbVpyUUp5eWk3QzM3OGo4VURKWUtRMDEyZDhxeG9VUkRRRGx5NllFY3F0akFOcENCV2x2VHprcHN3aDVCTHZTWGVWdUJ3WXl1VnNHVHRjb0RsOGhJZlQwbGh1Skx3cXNUUDQ?oc=5",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "published": "2026-08-07T15:45:00+00:00",
       "score": 3.0,
       "tags": [
         "tension"
