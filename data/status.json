@@ -1,17 +1,17 @@
 {
   "status": "OPEN",
   "label": "Normal traffic",
-  "tension_index": -37.0,
+  "tension_index": -43.2,
   "closure_signals": 4,
-  "articles_scanned": 232,
-  "updated": "2026-08-08T09:30:28.187762+00:00",
+  "articles_scanned": 230,
+  "updated": "2026-08-08T10:23:40.284018+00:00",
   "headlines": [
     {
       "title": "Gavin Newsom Says Strait of Hormuz Is Closed Despite Trump's Claims\u2014UKMTO Reports Explosion Near Vessel - Benzinga",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNa1ZmOW4xcjNTQ3BoekhLOGhIekJGMncteVk4OVhGbTM0LUwwcXRNZ2VXN2lXR0FrcGs3Zmt1V2ZoSFZwTTREdkx4WXQ5TmdGS21vRGpub1FiOXdzN1FIN1lyVkpReGhlX2F3R1lDNl9JZXE5Y1JkaGV5VVRWQWdRVjNRS0M4QmZHZHBiSFBCQTFSMHkwc1JFaXZUTGVPRHZRUjlkakxsLU9LdjJCWjItelp2RVZ5WTltQnF3VTVGcjJKTHpGN0diUTJaako2TlFFS1N2T2NoblRQN3J4eXEwWHJoNnZEVlVMZHkzNw?oc=5",
       "source": "Benzinga",
       "published": "2026-08-06T07:44:19+00:00",
-      "score": 8.57,
+      "score": 8.52,
       "tags": [
         "closure"
       ]
@@ -31,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3c3cwRjVWcVFiV0ZySTZKcHpIQ09HczdNemJ6MDBJb0xnX29aUDY4d2hlS0JscmN0aUpqamJiNkMtWXhEUmlSUldtTlA1b3diT2tvQQ?oc=5",
       "source": "Radar.am",
       "published": "2026-08-07T08:43:00+00:00",
-      "score": 7.96,
+      "score": 7.93,
       "tags": [
         "closure"
       ]
@@ -41,7 +41,7 @@
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQalpyNGNuc0d5ZVVCVHlpYUxhckktNjRHaHFWVjlQSE5sY1BJZElreGFDUXFsV1VMemdfQTJpNGVUNjhNc0NvZXdoZzRKSXNpV213eFM1M0hMUUoyZllQQmFmS2hFbGszNUVBU3lBWGNwWmE5RjZJOTdwNUJSLWpXWHZZUGZYVDYyQTV1aTFTbGxoQThrRXNLZ0dvOUlMdnJoQl9HZlJ3MTRzS0lseUFWMVNrdlVCYzFSdzdibVl0MDhGb3J2LVY1OWNoY0ROQS03Tmc?oc=5",
       "source": "Foster's Daily Democrat",
       "published": "2026-08-04T19:34:18+00:00",
-      "score": 6.56,
+      "score": 6.51,
       "tags": [
         "closure"
       ]
@@ -51,7 +51,7 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcTFZUkpXdmRrNDczQXdOdERpaWFoRnpyMHA4TGVZNm1BZEcxOXF6eVJJR2xaZjdac3lLWGszZEZrLVo1YW5yOGhULXREd1llTGVIZHh5YmJzRDBLS1Jkb2JjdVhoSUxJU3pPVlZ5RDhYNnRONFNZUUJUZTNFSU9GeEtqWE5TSHhqN3cyUklTc0RXbG9LTzFOelJJTGNKRVE1R2tLTXlKNk11b01lV0p1UDhxdw?oc=5",
       "source": "Bloomberg.com",
       "published": "2026-08-04T15:38:51+00:00",
-      "score": 3.8,
+      "score": 3.78,
       "tags": [
         "closure"
       ]
@@ -77,21 +77,21 @@
       ]
     },
     {
-      "title": "Iran claims Strait of Hormuz attacks despite rumoured talks progress - TradeWinds News",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT3NXMHY3U2VjU3B5Q3NlaW1Ld05pekpFTTZrVWlQVmR2akJZWThONXBpcS0tSTJiWktwVEtqeU9OdTExa1BldmNPUktUQUhkNExzUFFGUjlMSGhncUxlbTBmQ2ViRFVGMDVLMnUtZVdyVWtvY1lvelpTZE9RWm4yTWJMSzUyUE9DN0ZObnFGcjVzazc0NWtVMFphXzFNaFl4cHZuU1BCa2FFZW1uSVFwSDZ2dmpkTnZrN3M0?oc=5",
-      "source": "TradeWinds News",
-      "published": "2026-08-07T11:00:52+00:00",
-      "score": 3.0,
+      "title": "Iran announces an agreement with Oman to manage the Strait of Hormuz while awaiting Trump's response; attacks continue against ships attempting to pass through it - voz.us",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUmc0LU9tLWxyQ1hWRDVRd3ZqV1N0WnViZVQxb3FvbGtwU3htWHpxSE5IYkpuOC01cEYtd0NUbXlDREJyUERmUmYtU1hXck5mU25jYzAyUnFkUGRIT0Y4QzZhdzY4ekxhWHgxOE9vQndIOFJKSkhUdm5Fa2FCeFZQMzJFWElHZ1I5YTdGY2NVcWxlOEY3ZDdfclJvWXVWdzl2RE5FSDIxTzNyM0JEc01FNnZvVFg3ZUlvdjdZbm80cEVqSDE0MWZLUElGRE5pNkVQUTNKNURzanpZVHY3?oc=5",
+      "source": "voz.us",
+      "published": "2026-08-06T10:05:06+00:00",
+      "score": 2.59,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Iran announces an agreement with Oman to manage the Strait of Hormuz while awaiting Trump's response; attacks continue against ships attempting to pass through it - voz.us",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUmc0LU9tLWxyQ1hWRDVRd3ZqV1N0WnViZVQxb3FvbGtwU3htWHpxSE5IYkpuOC01cEYtd0NUbXlDREJyUERmUmYtU1hXck5mU25jYzAyUnFkUGRIT0Y4QzZhdzY4ekxhWHgxOE9vQndIOFJKSkhUdm5Fa2FCeFZQMzJFWElHZ1I5YTdGY2NVcWxlOEY3ZDdfclJvWXVWdzl2RE5FSDIxTzNyM0JEc01FNnZvVFg3ZUlvdjdZbm80cEVqSDE0MWZLUElGRE5pNkVQUTNKNURzanpZVHY3?oc=5",
-      "source": "voz.us",
-      "published": "2026-08-06T10:05:06+00:00",
-      "score": 2.61,
+      "title": "Possible Strait of Hormuz deal, a large attack in Yemen and other Mideast news - AP News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd1R4TEFIQVkxS1I2SDdWVUZfalVNQXk2VnNDc1FHUnNYU0xRY3ExT0JiLUp6cDl2N2ZYLUl3UHFlbFUzY2F0MU9iVW9ZRTBTYTIxUWd1RXh0dnY4ZTJPT1Q3cTNFNi1ja2lTVnNsZmZPd09SMFFFMjBUNVJPZWxLVlR6OG9fYk1Cc3Byc3JUY3lTYlhqV2xjRl9RVkFDRnU4Vmx2WkV6R19fcjlHYVZWOQ?oc=5",
+      "source": "AP News",
+      "published": "2026-08-06T09:06:53+00:00",
+      "score": 2.58,
       "tags": [
         "tension"
       ]
@@ -101,7 +101,7 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVTZaTFF1d0RtUUU0YWlhZ0RkNW9nXzcwWVhfdUlaMnByRGhLcDVCbFhOeE0xa0dJZk5yaU1DaUVKSXpHMTZCY2pMS0NoZERmUWRVRGtjSDVuenBmTjBlOHZZX3MzVzBZS3lMSm9EUXpneVlCaC1NcW9tQ1YzN0ZJMGlmdmJmWlcxMlpMQjZfUEJIdHMtNFhCeXE1QjFXMGh1RGItaDFZaXZPcFNwWWM1Q3R3ZUxtUGlSZ1NoVWRuMmpMVkU?oc=5",
       "source": "Reuters",
       "published": "2026-08-06T05:37:00+00:00",
-      "score": 2.54,
+      "score": 2.52,
       "tags": [
         "tension"
       ]
@@ -121,7 +121,7 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTVVlUlR2N2ZKNTl1dFJTRG9GdGZNWGlFUzAyenRXZkpKU1U2cDl0VjlxbHl2cmZvd1BRLVU2c0xZLXgzcVZDRXRVVlYyQXVqMWpZTkFlaDdiZnZ2VEFWS0RqNS1WenduZDNkSkh5Z1luZzlKWVpueFZtMnBlQkk1d3ptdUFTeVNwNTZBVjl5eEFtM01KOUxaZjNnY3FjaTBPVG5PSk5oZ2pLckNwWmdyQkhDVG1HbkZ5QlJIT3dKak0yTmRMWjZocDVkUQ?oc=5",
       "source": "New York Post",
       "published": "2026-08-04T20:40:00+00:00",
-      "score": 1.99,
+      "score": 1.97,
       "tags": [
         "tension"
       ]
