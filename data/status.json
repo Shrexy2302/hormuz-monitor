@@ -1,10 +1,10 @@
 {
   "status": "OPEN",
   "label": "Normal traffic",
-  "tension_index": -29.5,
+  "tension_index": -31.6,
   "closure_signals": 5,
-  "articles_scanned": 225,
-  "updated": "2026-08-08T17:54:56.490969+00:00",
+  "articles_scanned": 224,
+  "updated": "2026-08-08T18:26:03.664247+00:00",
   "headlines": [
     {
       "title": "Gavin Newsom Says Strait of Hormuz Is Closed Despite Trump's Claims\u2014UKMTO Reports Explosion Near Vessel - Yahoo",
@@ -41,7 +41,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTHhPUWdacm9BTElRZzJDVGhhTWgwSmRoVVk4elZwR3dmNS1pcHgxaFVCbHNXTkhwQkI5ZDBsb09vdFVMRU1GbWkwUHdDYmFpT1NqZnlQdlJGbk1kODcwSHoxRS1KT1BOUlVIY1BfeUJtRW9IanV6X1hobHBwU0Z4TTQ1a2NiU1pHRkJwUGFZdGhTWFR4YklwRXNMR3ZjcmxnV2JtV0Vmb3U0Mk3SAbABQVVfeXFMT0xUN3ByZmZSZmlMRVZNUmNybmQ1aGUyRFdEY0NrcE1SSloyQVo4cnM1VkZRTk9TVDlOQ2pHNjdYcHVNNFdTajd5XzhIeUI3c3RET25BZGxFbDdiSDFFSm0tZzJOV3Rxa1hEWTBHRzlUUk9Wb3c4RlpETXZSa3JTZV9UcTZzaDk5aEpFTHdPWTVTX2w5a1FYckRjd3gtYWhRV0pycEpGU2VReHpWZ0x1TnQ?oc=5",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "published": "2026-08-07T16:04:46+00:00",
-      "score": 7.92,
+      "score": 7.9,
       "tags": [
         "closure"
       ]
@@ -51,7 +51,7 @@
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQalpyNGNuc0d5ZVVCVHlpYUxhckktNjRHaHFWVjlQSE5sY1BJZElreGFDUXFsV1VMemdfQTJpNGVUNjhNc0NvZXdoZzRKSXNpV213eFM1M0hMUUoyZllQQmFmS2hFbGszNUVBU3lBWGNwWmE5RjZJOTdwNUJSLWpXWHZZUGZYVDYyQTV1aTFTbGxoQThrRXNLZ0dvOUlMdnJoQl9HZlJ3MTRzS0lseUFWMVNrdlVCYzFSdzdibVl0MDhGb3J2LVY1OWNoY0ROQS03Tmc?oc=5",
       "source": "Foster's Daily Democrat",
       "published": "2026-08-04T19:34:18+00:00",
-      "score": 6.09,
+      "score": 6.06,
       "tags": [
         "closure"
       ]
@@ -61,15 +61,25 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcTFZUkpXdmRrNDczQXdOdERpaWFoRnpyMHA4TGVZNm1BZEcxOXF6eVJJR2xaZjdac3lLWGszZEZrLVo1YW5yOGhULXREd1llTGVIZHh5YmJzRDBLS1Jkb2JjdVhoSUxJU3pPVlZ5RDhYNnRONFNZUUJUZTNFSU9GeEtqWE5TSHhqN3cyUklTc0RXbG9LTzFOelJJTGNKRVE1R2tLTXlKNk11b01lV0p1UDhxdw?oc=5",
       "source": "Bloomberg.com",
       "published": "2026-08-04T15:38:51+00:00",
-      "score": 3.52,
+      "score": 3.51,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Trump pursues Iran negotiations as new Strait of Hormuz attacks raise stakes - kfoxtv.com",
+      "title": "UAE Condemns Iranian Missile Attack on ADNOC Tanker in Strait of Hormuz: 13 outlets compared - NewsCord",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUG5RQlBscnl0UEl3VmRPMGN5WkRvbm9iZ1JDLUQ3VEc4VGZPaEgzNDNrTnNmSXRyYlBSWkJyN1N3ZkZkdERZVEdvSU1ZSkhDTjdnTWdBVTgxWmloZHlRc0xlSlB6OHM5VzB3UXJKbmgzMFc5bGtreG55NlpPXzdzeWZOM0Q1R3B5WllTVFl1SklsU3RFd2VEeWszeFYwRjh2b21DS1ROcU4tZzJ3X1lRamNVa3dmZU92WVpGUWt0N1gxOXEyYUJJeVU0ckRSaS1RakRTYTlzdUxRWHN5SWc?oc=5",
+      "source": "NewsCord",
+      "published": "2026-08-08T17:53:45+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Trump pursues Iran negotiations as new Strait of Hormuz attacks raise stakes - KFOX",
       "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOcEdxeFhVQkw0cUp2VWVuOE1XMWtQYmxEcGNxczJmdUtQU2R4TFh6UGJFT2xmZGdPMk5LamZYX1IzSW0ybVg3UGJURnh2cHdGdW0tTVNZOG1CM01vNnE0blB4a185d3ppSE5IcDhTeG1lLV9vVkl5RE10NHBUQU0xdUZhLVBLRmdZcW50SkNxekV6UEFfamI0dXcxXy1KdFlYSFFNZUdhb3NRLVVZMDZmcEZiZFVnd19ZVnBNUTZaeXRPYTNnSzJyM0s2MEJmV25KSkdFTGphZURaWndid00zd0tPcW5pQzMtdFZ2R0JZZC1lMW5CN2hBVEVUQTNfZU5CdzlJZ2RqUnEtMmZMbUlPb1VhMHhSdTYwTjNqSWxTUmFiMTBkNlBLclVOWUI5RWs4djZlV2JlZkhGWjV6YnU4RE5PZ2NYMFBENW1XOFdvcVg5WGg2dlFpN2JXTHZNRlBzUk5CZlVkb1VMdk9WeHlEc2tR?oc=5",
-      "source": "kfoxtv.com",
+      "source": "KFOX",
       "published": "2026-08-08T15:39:27+00:00",
       "score": 3.0,
       "tags": [
@@ -101,7 +111,7 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNUVDcDN2bGszeGZLclhwZ0stckdfM04xWlBrRXhad1NacEU1Tm1ndEFhdHFTNDRZTWIyNUdnX0FObEhuSi1BX2F1S1FyQ3JsX1dFZWxBRnFwbmQ0bmFhaEM5eHhWQ3FLcUZTRGhibnd0SkJTMEdxMDZpMDJZRGpjam1KV0Q5RU1wUE1zY3Q4UkNFb2NJM2FPUXZ4VHl6TGpacnpVbmJkSjRrT1B0MV9xTA?oc=5",
       "source": "gCaptain",
       "published": "2026-08-07T17:25:21+00:00",
-      "score": 2.99,
+      "score": 2.98,
       "tags": [
         "tension"
       ]
@@ -112,16 +122,6 @@
       "source": "Crude Oil Prices Today | OilPrice.com",
       "published": "2026-08-07T15:45:00+00:00",
       "score": 2.96,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran claims Strait of Hormuz attacks despite rumoured talks progress - TradeWinds News",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT3NXMHY3U2VjU3B5Q3NlaW1Ld05pekpFTTZrVWlQVmR2akJZWThONXBpcS0tSTJiWktwVEtqeU9OdTExa1BldmNPUktUQUhkNExzUFFGUjlMSGhncUxlbTBmQ2ViRFVGMDVLMnUtZVdyVWtvY1lvelpTZE9RWm4yTWJMSzUyUE9DN0ZObnFGcjVzazc0NWtVMFphXzFNaFl4cHZuU1BCa2FFZW1uSVFwSDZ2dmpkTnZrN3M0?oc=5",
-      "source": "TradeWinds News",
-      "published": "2026-08-07T11:05:33+00:00",
-      "score": 2.89,
       "tags": [
         "tension"
       ]
