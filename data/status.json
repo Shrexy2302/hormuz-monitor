@@ -1,26 +1,16 @@
 {
   "status": "OPEN",
   "label": "Normal traffic",
-  "tension_index": -41.9,
-  "closure_signals": 5,
-  "articles_scanned": 223,
-  "updated": "2026-08-08T22:55:20.855286+00:00",
+  "tension_index": -49.6,
+  "closure_signals": 4,
+  "articles_scanned": 222,
+  "updated": "2026-08-08T23:21:28.363330+00:00",
   "headlines": [
     {
       "title": "Gavin Newsom Says Strait of Hormuz Is Closed Despite Trump's Claims\u2014UKMTO Reports Explosion Near Vessel - Yahoo",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbTR4QkpvUk5uSk5XMUZPNndrMWZlcW4tU2tmekJtQ181czB3cHFMTjg5WjQyS2RVR1ZWVlBJQ3U0NllMR1hPckJiOThlQUFEMktKU2pGelAyUU5LX3dEbUN4NFhVT1gzOHdQekM5eDFjeWRkUGRQbDdneXlFUXpnaEVuWkhnejZZaUt3MVVGSWlrNl8wMlE?oc=5",
       "source": "Yahoo",
       "published": "2026-08-08T16:00:42+00:00",
-      "score": 10.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Iran keeps Strait of Hormuz closed until US meets conditions: IRGC - Apa.az",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd3ZKZW9namJzV21NenFJck1haXpvOXFVU2JWa0lRcUR2emM4VkNSbDFIYVFRZ0V5ZmhNaERCSFE0N3RXdk5zbEFNZFNzR09nRzV4X0otbG91amV5dE0xZXlQQ2V3TVdjemo1WHByV1hxUTlLb2ZBNmtfc3NralNSOXB5Q0o5aVdLY1E0UnhnbWV3NXhQc0NHV09mdw?oc=5",
-      "source": "Apa.az",
-      "published": "2026-08-08T10:59:00+00:00",
       "score": 10.0,
       "tags": [
         "closure"
@@ -37,21 +27,21 @@
       ]
     },
     {
-      "title": "Is Iran Preparing to Permanently Block the Strait of Hormuz - oilprice.com",
+      "title": "Is Iran Preparing to Permanently Block the Strait of Hormuz - Crude Oil Prices Today | OilPrice.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTHhPUWdacm9BTElRZzJDVGhhTWgwSmRoVVk4elZwR3dmNS1pcHgxaFVCbHNXTkhwQkI5ZDBsb09vdFVMRU1GbWkwUHdDYmFpT1NqZnlQdlJGbk1kODcwSHoxRS1KT1BOUlVIY1BfeUJtRW9IanV6X1hobHBwU0Z4TTQ1a2NiU1pHRkJwUGFZdGhTWFR4YklwRXNMR3ZjcmxnV2JtV0Vmb3U0Mk3SAbABQVVfeXFMT0xUN3ByZmZSZmlMRVZNUmNybmQ1aGUyRFdEY0NrcE1SSloyQVo4cnM1VkZRTk9TVDlOQ2pHNjdYcHVNNFdTajd5XzhIeUI3c3RET25BZGxFbDdiSDFFSm0tZzJOV3Rxa1hEWTBHRzlUUk9Wb3c4RlpETXZSa3JTZV9UcTZzaDk5aEpFTHdPWTVTX2w5a1FYckRjd3gtYWhRV0pycEpGU2VReHpWZ0x1TnQ?oc=5",
-      "source": "oilprice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
       "published": "2026-08-07T16:04:46+00:00",
-      "score": 7.7,
+      "score": 7.68,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "White House disputes reports that Strait of Hormuz is closed - fosters.com",
+      "title": "White House disputes reports that Strait of Hormuz is closed - Foster's Daily Democrat",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQalpyNGNuc0d5ZVVCVHlpYUxhckktNjRHaHFWVjlQSE5sY1BJZElreGFDUXFsV1VMemdfQTJpNGVUNjhNc0NvZXdoZzRKSXNpV213eFM1M0hMUUoyZllQQmFmS2hFbGszNUVBU3lBWGNwWmE5RjZJOTdwNUJSLWpXWHZZUGZYVDYyQTV1aTFTbGxoQThrRXNLZ0dvOUlMdnJoQl9HZlJ3MTRzS0lseUFWMVNrdlVCYzFSdzdibVl0MDhGb3J2LVY1OWNoY0ROQS03Tmc?oc=5",
-      "source": "fosters.com",
+      "source": "Foster's Daily Democrat",
       "published": "2026-08-04T19:34:18+00:00",
-      "score": 5.81,
+      "score": 5.79,
       "tags": [
         "closure"
       ]
@@ -61,7 +51,7 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcTFZUkpXdmRrNDczQXdOdERpaWFoRnpyMHA4TGVZNm1BZEcxOXF6eVJJR2xaZjdac3lLWGszZEZrLVo1YW5yOGhULXREd1llTGVIZHh5YmJzRDBLS1Jkb2JjdVhoSUxJU3pPVlZ5RDhYNnRONFNZUUJUZTNFSU9GeEtqWE5TSHhqN3cyUklTc0RXbG9LTzFOelJJTGNKRVE1R2tLTXlKNk11b01lV0p1UDhxdw?oc=5",
       "source": "Bloomberg.com",
       "published": "2026-08-04T15:38:51+00:00",
-      "score": 3.36,
+      "score": 3.34,
       "tags": [
         "closure"
       ]
@@ -87,10 +77,20 @@
       ]
     },
     {
-      "title": "UAE says Iran attacked ADNOC vessel with missile in Strait of Hormuz - reuters.com",
+      "title": "UAE says Iran attacked ADNOC vessel with missile in Strait of Hormuz - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQajV4Uk9FTWd2WFJTWWVSZS1pdkl4OGFERFdzeExaYy1udkYxWGdXYWxRdHUwd2kwLVRtRTdhRkdVdUZuNXZ3U09EQUR3OXUwUzVtZmZZeWZkWmlkTThUTDBYNVBjbE9IWVBQZnhhcHBfcFVnZTc0NG1uMk54dElXNkhzQUFZR3VkRW5QZkthVjdfdTJOaXR6YWxiZmtfdzJROGg3bWFuOVhuV2ZkTDNLNkg4d18?oc=5",
-      "source": "reuters.com",
+      "source": "Reuters",
       "published": "2026-08-08T11:46:57+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Abu Dhabi National Oil Company says its vessel hit by missile in Strait of Hormuz - Anadolu Ajans\u0131",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTnJzSHFieExUTjdrUmVxVVlWVGRyc0F0V3ljSGFISi1DNEQ4R25DUjdHMEl1c0U4aGtGTmt2YUtOeXgxZW4zTWZfbFNPcFowSUlIdHczR3FOX2YxUVNVRDVWZUVkRGExb3EtNjgzWGttQ3hyc3NkdC03THF1WGZ1bkljR2w0YjJqb2V2a3phTXFkRGwwYm5aTE04VVhlWklWMmhMdnZKaVpGdnNzcUN5Wk93OTB1UV9ZQTVRQkFYUzg3NG41?oc=5",
+      "source": "Anadolu Ajans\u0131",
+      "published": "2026-08-08T11:02:55+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -101,7 +101,7 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNUVDcDN2bGszeGZLclhwZ0stckdfM04xWlBrRXhad1NacEU1Tm1ndEFhdHFTNDRZTWIyNUdnX0FObEhuSi1BX2F1S1FyQ3JsX1dFZWxBRnFwbmQ0bmFhaEM5eHhWQ3FLcUZTRGhibnd0SkJTMEdxMDZpMDJZRGpjam1KV0Q5RU1wUE1zY3Q4UkNFb2NJM2FPUXZ4VHl6TGpacnpVbmJkSjRrT1B0MV9xTA?oc=5",
       "source": "gCaptain",
       "published": "2026-08-07T17:25:21+00:00",
-      "score": 2.91,
+      "score": 2.9,
       "tags": [
         "tension"
       ]
@@ -117,11 +117,11 @@
       ]
     },
     {
-      "title": "Hormuz, Gulf shipping slows after Houthis attack Saudi tanker - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wNnBRS01YVTE4c0ZQenBKSElIc1pOSXJpdkFMQWZNcF8yLTB2ZGgzakRXRkN0MGVMXzM5RVNWOXQtbmNyMGQ2MG9OVE0zaXp5V1ZnQ2NIcjMtd2xQakNJ?oc=5",
-      "source": "The Jerusalem Post",
-      "published": "2026-08-06T12:02:19+00:00",
-      "score": 2.42,
+      "title": "Iran announces an agreement with Oman to manage the Strait of Hormuz while awaiting Trump's response; attacks continue against ships attempting to pass through it - voz.us",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUmc0LU9tLWxyQ1hWRDVRd3ZqV1N0WnViZVQxb3FvbGtwU3htWHpxSE5IYkpuOC01cEYtd0NUbXlDREJyUERmUmYtU1hXck5mU25jYzAyUnFkUGRIT0Y4QzZhdzY4ekxhWHgxOE9vQndIOFJKSkhUdm5Fa2FCeFZQMzJFWElHZ1I5YTdGY2NVcWxlOEY3ZDdfclJvWXVWdzl2RE5FSDIxTzNyM0JEc01FNnZvVFg3ZUlvdjdZbm80cEVqSDE0MWZLUElGRE5pNkVQUTNKNURzanpZVHY3?oc=5",
+      "source": "voz.us",
+      "published": "2026-08-06T10:05:06+00:00",
+      "score": 2.38,
       "tags": [
         "tension"
       ]
