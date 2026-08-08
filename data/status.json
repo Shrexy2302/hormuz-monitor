@@ -1,10 +1,10 @@
 {
   "status": "OPEN",
   "label": "Normal traffic",
-  "tension_index": -47.2,
+  "tension_index": -48.3,
   "closure_signals": 5,
-  "articles_scanned": 223,
-  "updated": "2026-08-08T21:54:52.935875+00:00",
+  "articles_scanned": 224,
+  "updated": "2026-08-08T22:20:46.256347+00:00",
   "headlines": [
     {
       "title": "Gavin Newsom Says Strait of Hormuz Is Closed Despite Trump's Claims\u2014UKMTO Reports Explosion Near Vessel - Yahoo",
@@ -37,11 +37,11 @@
       ]
     },
     {
-      "title": "Is Iran Preparing to Permanently Block the Strait of Hormuz - oilprice.com",
+      "title": "Is Iran Preparing to Permanently Block the Strait of Hormuz - Crude Oil Prices Today | OilPrice.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTHhPUWdacm9BTElRZzJDVGhhTWgwSmRoVVk4elZwR3dmNS1pcHgxaFVCbHNXTkhwQkI5ZDBsb09vdFVMRU1GbWkwUHdDYmFpT1NqZnlQdlJGbk1kODcwSHoxRS1KT1BOUlVIY1BfeUJtRW9IanV6X1hobHBwU0Z4TTQ1a2NiU1pHRkJwUGFZdGhTWFR4YklwRXNMR3ZjcmxnV2JtV0Vmb3U0Mk3SAbABQVVfeXFMT0xUN3ByZmZSZmlMRVZNUmNybmQ1aGUyRFdEY0NrcE1SSloyQVo4cnM1VkZRTk9TVDlOQ2pHNjdYcHVNNFdTajd5XzhIeUI3c3RET25BZGxFbDdiSDFFSm0tZzJOV3Rxa1hEWTBHRzlUUk9Wb3c4RlpETXZSa3JTZV9UcTZzaDk5aEpFTHdPWTVTX2w5a1FYckRjd3gtYWhRV0pycEpGU2VReHpWZ0x1TnQ?oc=5",
-      "source": "oilprice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
       "published": "2026-08-07T16:04:46+00:00",
-      "score": 7.74,
+      "score": 7.72,
       "tags": [
         "closure"
       ]
@@ -51,7 +51,7 @@
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQalpyNGNuc0d5ZVVCVHlpYUxhckktNjRHaHFWVjlQSE5sY1BJZElreGFDUXFsV1VMemdfQTJpNGVUNjhNc0NvZXdoZzRKSXNpV213eFM1M0hMUUoyZllQQmFmS2hFbGszNUVBU3lBWGNwWmE5RjZJOTdwNUJSLWpXWHZZUGZYVDYyQTV1aTFTbGxoQThrRXNLZ0dvOUlMdnJoQl9HZlJ3MTRzS0lseUFWMVNrdlVCYzFSdzdibVl0MDhGb3J2LVY1OWNoY0ROQS03Tmc?oc=5",
       "source": "Foster's Daily Democrat",
       "published": "2026-08-04T19:34:18+00:00",
-      "score": 5.87,
+      "score": 5.85,
       "tags": [
         "closure"
       ]
@@ -61,26 +61,16 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcTFZUkpXdmRrNDczQXdOdERpaWFoRnpyMHA4TGVZNm1BZEcxOXF6eVJJR2xaZjdac3lLWGszZEZrLVo1YW5yOGhULXREd1llTGVIZHh5YmJzRDBLS1Jkb2JjdVhoSUxJU3pPVlZ5RDhYNnRONFNZUUJUZTNFSU9GeEtqWE5TSHhqN3cyUklTc0RXbG9LTzFOelJJTGNKRVE1R2tLTXlKNk11b01lV0p1UDhxdw?oc=5",
       "source": "Bloomberg.com",
       "published": "2026-08-04T15:38:51+00:00",
-      "score": 3.39,
+      "score": 3.38,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iran strikes vessel in Strait of Hormuz as Pezeshkian calls for deal - www.israelhayom.com",
+      "title": "Iran strikes vessel in Strait of Hormuz as Pezeshkian calls for deal - israelhayom.com",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMlpTMEI4eHhkTFV5aVpzSU05WlJpUXJuTG1hTnZCVkQ5LTUwY3NBcjdWRGdWd08xcjZ6emVvaWw5Mm9PU3otZUNwVFkwVFBNMXkzUVBSU3VBaTZYNktCYnpuOWFpa3ktYmNaMEZ0enZhWWhzZkpqYmhka3dGaGMxMlQzeG1HcGVGV1RLUzRHTnkwNDgyRlpad2FSSnVzN2FQMGpaWVhuckVETWUt?oc=5",
-      "source": "www.israelhayom.com",
+      "source": "israelhayom.com",
       "published": "2026-08-08T18:42:39+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "UAE Condemns Iranian Missile Attack on ADNOC Tanker in Strait of Hormuz: 13 outlets compared - NewsCord",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUG5RQlBscnl0UEl3VmRPMGN5WkRvbm9iZ1JDLUQ3VEc4VGZPaEgzNDNrTnNmSXRyYlBSWkJyN1N3ZkZkdERZVEdvSU1ZSkhDTjdnTWdBVTgxWmloZHlRc0xlSlB6OHM5VzB3UXJKbmgzMFc5bGtreG55NlpPXzdzeWZOM0Q1R3B5WllTVFl1SklsU3RFd2VEeWszeFYwRjh2b21DS1ROcU4tZzJ3X1lRamNVa3dmZU92WVpGUWt0N1gxOXEyYUJJeVU0ckRSaS1RakRTYTlzdUxRWHN5SWc?oc=5",
-      "source": "NewsCord",
-      "published": "2026-08-08T17:53:45+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -97,21 +87,21 @@
       ]
     },
     {
-      "title": "ADNOC Says Three Vessels Attacked This Week as Hormuz Shipping Remains Severely Disrupted - gcaptain.com",
+      "title": "ADNOC Says Three Vessels Attacked This Week as Hormuz Shipping Remains Severely Disrupted - gCaptain",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNUVDcDN2bGszeGZLclhwZ0stckdfM04xWlBrRXhad1NacEU1Tm1ndEFhdHFTNDRZTWIyNUdnX0FObEhuSi1BX2F1S1FyQ3JsX1dFZWxBRnFwbmQ0bmFhaEM5eHhWQ3FLcUZTRGhibnd0SkJTMEdxMDZpMDJZRGpjam1KV0Q5RU1wUE1zY3Q4UkNFb2NJM2FPUXZ4VHl6TGpacnpVbmJkSjRrT1B0MV9xTA?oc=5",
-      "source": "gcaptain.com",
+      "source": "gCaptain",
       "published": "2026-08-07T17:25:21+00:00",
-      "score": 2.93,
+      "score": 2.92,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Iran claims Strait of Hormuz attacks despite rumoured talks progress - tradewindsnews.com",
+      "title": "Iran claims Strait of Hormuz attacks despite rumoured talks progress - TradeWinds News",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT3NXMHY3U2VjU3B5Q3NlaW1Ld05pekpFTTZrVWlQVmR2akJZWThONXBpcS0tSTJiWktwVEtqeU9OdTExa1BldmNPUktUQUhkNExzUFFGUjlMSGhncUxlbTBmQ2ViRFVGMDVLMnUtZVdyVWtvY1lvelpTZE9RWm4yTWJMSzUyUE9DN0ZObnFGcjVzazc0NWtVMFphXzFNaFl4cHZuU1BCa2FFZW1uSVFwSDZ2dmpkTnZrN3M0?oc=5",
-      "source": "tradewindsnews.com",
+      "source": "TradeWinds News",
       "published": "2026-08-07T11:05:33+00:00",
-      "score": 2.82,
+      "score": 2.81,
       "tags": [
         "tension"
       ]
@@ -121,7 +111,17 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wNnBRS01YVTE4c0ZQenBKSElIc1pOSXJpdkFMQWZNcF8yLTB2ZGgzakRXRkN0MGVMXzM5RVNWOXQtbmNyMGQ2MG9OVE0zaXp5V1ZnQ2NIcjMtd2xQakNJ?oc=5",
       "source": "The Jerusalem Post",
       "published": "2026-08-06T12:02:19+00:00",
-      "score": 2.44,
+      "score": 2.43,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran announces an agreement with Oman to manage the Strait of Hormuz while awaiting Trump's response; attacks continue against ships attempting to pass through it - voz.us",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUmc0LU9tLWxyQ1hWRDVRd3ZqV1N0WnViZVQxb3FvbGtwU3htWHpxSE5IYkpuOC01cEYtd0NUbXlDREJyUERmUmYtU1hXck5mU25jYzAyUnFkUGRIT0Y4QzZhdzY4ekxhWHgxOE9vQndIOFJKSkhUdm5Fa2FCeFZQMzJFWElHZ1I5YTdGY2NVcWxlOEY3ZDdfclJvWXVWdzl2RE5FSDIxTzNyM0JEc01FNnZvVFg3ZUlvdjdZbm80cEVqSDE0MWZLUElGRE5pNkVQUTNKNURzanpZVHY3?oc=5",
+      "source": "voz.us",
+      "published": "2026-08-06T10:05:06+00:00",
+      "score": 2.4,
       "tags": [
         "tension"
       ]
