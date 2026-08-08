@@ -1,10 +1,10 @@
 {
   "status": "OPEN",
   "label": "Normal traffic",
-  "tension_index": -30.7,
+  "tension_index": -19.7,
   "closure_signals": 5,
-  "articles_scanned": 232,
-  "updated": "2026-08-08T11:31:27.522408+00:00",
+  "articles_scanned": 231,
+  "updated": "2026-08-08T12:32:58.352449+00:00",
   "headlines": [
     {
       "title": "Iran keeps Strait of Hormuz closed until US meets conditions: IRGC - Apa.az",
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNa1ZmOW4xcjNTQ3BoekhLOGhIekJGMncteVk4OVhGbTM0LUwwcXRNZ2VXN2lXR0FrcGs3Zmt1V2ZoSFZwTTREdkx4WXQ5TmdGS21vRGpub1FiOXdzN1FIN1lyVkpReGhlX2F3R1lDNl9JZXE5Y1JkaGV5VVRWQWdRVjNRS0M4QmZHZHBiSFBCQTFSMHkwc1JFaXZUTGVPRHZRUjlkakxsLU9LdjJCWjItelp2RVZ5WTltQnF3VTVGcjJKTHpGN0diUTJaako2TlFFS1N2T2NoblRQN3J4eXEwWHJoNnZEVlVMZHkzNw?oc=5",
       "source": "Benzinga",
       "published": "2026-08-06T07:44:19+00:00",
-      "score": 8.46,
+      "score": 8.4,
       "tags": [
         "closure"
       ]
@@ -41,7 +41,7 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3c3cwRjVWcVFiV0ZySTZKcHpIQ09HczdNemJ6MDBJb0xnX29aUDY4d2hlS0JscmN0aUpqamJiNkMtWXhEUmlSUldtTlA1b3diT2tvQQ?oc=5",
       "source": "Radar.am",
       "published": "2026-08-07T08:43:00+00:00",
-      "score": 7.88,
+      "score": 7.83,
       "tags": [
         "closure"
       ]
@@ -51,7 +51,7 @@
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQalpyNGNuc0d5ZVVCVHlpYUxhckktNjRHaHFWVjlQSE5sY1BJZElreGFDUXFsV1VMemdfQTJpNGVUNjhNc0NvZXdoZzRKSXNpV213eFM1M0hMUUoyZllQQmFmS2hFbGszNUVBU3lBWGNwWmE5RjZJOTdwNUJSLWpXWHZZUGZYVDYyQTV1aTFTbGxoQThrRXNLZ0dvOUlMdnJoQl9HZlJ3MTRzS0lseUFWMVNrdlVCYzFSdzdibVl0MDhGb3J2LVY1OWNoY0ROQS03Tmc?oc=5",
       "source": "Foster's Daily Democrat",
       "published": "2026-08-04T19:34:18+00:00",
-      "score": 6.45,
+      "score": 6.39,
       "tags": [
         "closure"
       ]
@@ -61,9 +61,29 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcTFZUkpXdmRrNDczQXdOdERpaWFoRnpyMHA4TGVZNm1BZEcxOXF6eVJJR2xaZjdac3lLWGszZEZrLVo1YW5yOGhULXREd1llTGVIZHh5YmJzRDBLS1Jkb2JjdVhoSUxJU3pPVlZ5RDhYNnRONFNZUUJUZTNFSU9GeEtqWE5TSHhqN3cyUklTc0RXbG9LTzFOelJJTGNKRVE1R2tLTXlKNk11b01lV0p1UDhxdw?oc=5",
       "source": "Bloomberg.com",
       "published": "2026-08-04T15:38:51+00:00",
-      "score": 3.74,
+      "score": 3.7,
       "tags": [
         "closure"
+      ]
+    },
+    {
+      "title": "UAE says Iran attacked ADNOC vessel with missile in Strait of Hormuz - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQajV4Uk9FTWd2WFJTWWVSZS1pdkl4OGFERFdzeExaYy1udkYxWGdXYWxRdHUwd2kwLVRtRTdhRkdVdUZuNXZ3U09EQUR3OXUwUzVtZmZZeWZkWmlkTThUTDBYNVBjbE9IWVBQZnhhcHBfcFVnZTc0NG1uMk54dElXNkhzQUFZR3VkRW5QZkthVjdfdTJOaXR6YWxiZmtfdzJROGg3bWFuOVhuV2ZkTDNLNkg4d18?oc=5",
+      "source": "Reuters",
+      "published": "2026-08-08T11:46:57+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Abu Dhabi National Oil Company says its vessel hit by missile in Strait of Hormuz - Anadolu Ajans\u0131",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTnJzSHFieExUTjdrUmVxVVlWVGRyc0F0V3ljSGFISi1DNEQ4R25DUjdHMEl1c0U4aGtGTmt2YUtOeXgxZW4zTWZfbFNPcFowSUlIdHczR3FOX2YxUVNVRDVWZUVkRGExb3EtNjgzWGttQ3hyc3NkdC03THF1WGZ1bkljR2w0YjJqb2V2a3phTXFkRGwwYm5aTE04VVhlWklWMmhMdnZKaVpGdnNzcUN5Wk93OTB1UV9ZQTVRQkFYUzg3NG41?oc=5",
+      "source": "Anadolu Ajans\u0131",
+      "published": "2026-08-08T11:02:55+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
       ]
     },
     {
@@ -87,11 +107,11 @@
       ]
     },
     {
-      "title": "Possible Strait of Hormuz deal, a large attack in Yemen and other Mideast news - AP News",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd1R4TEFIQVkxS1I2SDdWVUZfalVNQXk2VnNDc1FHUnNYU0xRY3ExT0JiLUp6cDl2N2ZYLUl3UHFlbFUzY2F0MU9iVW9ZRTBTYTIxUWd1RXh0dnY4ZTJPT1Q3cTNFNi1ja2lTVnNsZmZPd09SMFFFMjBUNVJPZWxLVlR6OG9fYk1Cc3Byc3JUY3lTYlhqV2xjRl9RVkFDRnU4Vmx2WkV6R19fcjlHYVZWOQ?oc=5",
-      "source": "AP News",
-      "published": "2026-08-06T23:31:00+00:00",
-      "score": 2.8,
+      "title": "Oil Extends Gains on Reported Iran Strikes in Strait of Hormuz - energyconnects.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTnFra0hWdHVkRWYxTXJwSENmTUZoS0ZSMkNHRGJadFFNV3hDQVNaaEhOZ184ZnVtTVljaXQ5THU1Y01SZWRRcWxhd2N1SU5xX3A2ckNKdjQ0NUNwTHhoYXNMbEpxcjUwTXZZYV9iOWRaNS1saHlENFNOVl9TSjJnNFAtYXF5dVRXaFpPcFJVbGw0MG1lOU9QLXhIM200cDhjOVg2TF91UHZTZy1XQ2lUN0lxbDdwZw?oc=5",
+      "source": "energyconnects.com",
+      "published": "2026-08-07T05:12:05+00:00",
+      "score": 2.88,
       "tags": [
         "tension"
       ]
@@ -101,27 +121,7 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wNnBRS01YVTE4c0ZQenBKSElIc1pOSXJpdkFMQWZNcF8yLTB2ZGgzakRXRkN0MGVMXzM5RVNWOXQtbmNyMGQ2MG9OVE0zaXp5V1ZnQ2NIcjMtd2xQakNJ?oc=5",
       "source": "The Jerusalem Post",
       "published": "2026-08-06T12:02:19+00:00",
-      "score": 2.61,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran announces an agreement with Oman to manage the Strait of Hormuz while awaiting Trump's response; attacks continue against ships attempting to pass through it - voz.us",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUmc0LU9tLWxyQ1hWRDVRd3ZqV1N0WnViZVQxb3FvbGtwU3htWHpxSE5IYkpuOC01cEYtd0NUbXlDREJyUERmUmYtU1hXck5mU25jYzAyUnFkUGRIT0Y4QzZhdzY4ekxhWHgxOE9vQndIOFJKSkhUdm5Fa2FCeFZQMzJFWElHZ1I5YTdGY2NVcWxlOEY3ZDdfclJvWXVWdzl2RE5FSDIxTzNyM0JEc01FNnZvVFg3ZUlvdjdZbm80cEVqSDE0MWZLUElGRE5pNkVQUTNKNURzanpZVHY3?oc=5",
-      "source": "voz.us",
-      "published": "2026-08-06T10:05:06+00:00",
-      "score": 2.58,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Why Can\u2019t the US Escort Oil Tankers Through the Strait of Hormuz? - The National Interest",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY2pIM3Ztd0VQeVN4bnRUd3hLbUNwRTE2MlBaRmcweDNKNDV4RG9pRHRlQjhCc3ZOajlnQkN3ZWx2OVBoMjhQMENtMEV2U05oZWI0V3VfR3pwZkJaMHlfVXI1bFRSZ2VVQ3pjUFVscXVvbllVMF83dWtCN0RJNVBnT1FiN2E1SVRCSFRtbTdzWTR6RUgxdWRQNVpJWFNFTi1zZmd0bg?oc=5",
-      "source": "The National Interest",
-      "published": "2026-08-07T13:05:59+00:00",
-      "score": 2.0,
+      "score": 2.59,
       "tags": [
         "tension"
       ]
