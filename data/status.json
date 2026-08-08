@@ -1,10 +1,10 @@
 {
   "status": "OPEN",
   "label": "Normal traffic",
-  "tension_index": -10.1,
+  "tension_index": -13.1,
   "closure_signals": 6,
-  "articles_scanned": 231,
-  "updated": "2026-08-08T13:40:07.306813+00:00",
+  "articles_scanned": 230,
+  "updated": "2026-08-08T14:24:49.438836+00:00",
   "headlines": [
     {
       "title": "Iran keeps Strait of Hormuz closed until US meets conditions: IRGC - Apa.az",
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNa1ZmOW4xcjNTQ3BoekhLOGhIekJGMncteVk4OVhGbTM0LUwwcXRNZ2VXN2lXR0FrcGs3Zmt1V2ZoSFZwTTREdkx4WXQ5TmdGS21vRGpub1FiOXdzN1FIN1lyVkpReGhlX2F3R1lDNl9JZXE5Y1JkaGV5VVRWQWdRVjNRS0M4QmZHZHBiSFBCQTFSMHkwc1JFaXZUTGVPRHZRUjlkakxsLU9LdjJCWjItelp2RVZ5WTltQnF3VTVGcjJKTHpGN0diUTJaako2TlFFS1N2T2NoblRQN3J4eXEwWHJoNnZEVlVMZHkzNw?oc=5",
       "source": "Benzinga",
       "published": "2026-08-06T07:44:19+00:00",
-      "score": 8.34,
+      "score": 8.3,
       "tags": [
         "closure"
       ]
@@ -47,11 +47,11 @@
       ]
     },
     {
-      "title": "Iran demands closure of the Strait of Hormuz to US and Israeli ships - Radar.am",
+      "title": "Iran demands closure of the Strait of Hormuz to US and Israeli ships - radar.am",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3c3cwRjVWcVFiV0ZySTZKcHpIQ09HczdNemJ6MDBJb0xnX29aUDY4d2hlS0JscmN0aUpqamJiNkMtWXhEUmlSUldtTlA1b3diT2tvQQ?oc=5",
-      "source": "Radar.am",
+      "source": "radar.am",
       "published": "2026-08-07T08:43:00+00:00",
-      "score": 7.78,
+      "score": 7.75,
       "tags": [
         "closure"
       ]
@@ -61,7 +61,7 @@
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQalpyNGNuc0d5ZVVCVHlpYUxhckktNjRHaHFWVjlQSE5sY1BJZElreGFDUXFsV1VMemdfQTJpNGVUNjhNc0NvZXdoZzRKSXNpV213eFM1M0hMUUoyZllQQmFmS2hFbGszNUVBU3lBWGNwWmE5RjZJOTdwNUJSLWpXWHZZUGZYVDYyQTV1aTFTbGxoQThrRXNLZ0dvOUlMdnJoQl9HZlJ3MTRzS0lseUFWMVNrdlVCYzFSdzdibVl0MDhGb3J2LVY1OWNoY0ROQS03Tmc?oc=5",
       "source": "Foster's Daily Democrat",
       "published": "2026-08-04T19:34:18+00:00",
-      "score": 6.33,
+      "score": 6.29,
       "tags": [
         "closure"
       ]
@@ -81,7 +81,7 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcTFZUkpXdmRrNDczQXdOdERpaWFoRnpyMHA4TGVZNm1BZEcxOXF6eVJJR2xaZjdac3lLWGszZEZrLVo1YW5yOGhULXREd1llTGVIZHh5YmJzRDBLS1Jkb2JjdVhoSUxJU3pPVlZ5RDhYNnRONFNZUUJUZTNFSU9GeEtqWE5TSHhqN3cyUklTc0RXbG9LTzFOelJJTGNKRVE1R2tLTXlKNk11b01lV0p1UDhxdw?oc=5",
       "source": "Bloomberg.com",
       "published": "2026-08-04T15:38:51+00:00",
-      "score": 3.67,
+      "score": 3.64,
       "tags": [
         "closure"
       ]
@@ -117,9 +117,9 @@
       ]
     },
     {
-      "title": "ADNOC Says Three Vessels Attacked This Week as Hormuz Shipping Remains Severely Disrupted - gcaptain.com",
+      "title": "ADNOC Says Three Vessels Attacked This Week as Hormuz Shipping Remains Severely Disrupted - gCaptain",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNUVDcDN2bGszeGZLclhwZ0stckdfM04xWlBrRXhad1NacEU1Tm1ndEFhdHFTNDRZTWIyNUdnX0FObEhuSi1BX2F1S1FyQ3JsX1dFZWxBRnFwbmQ0bmFhaEM5eHhWQ3FLcUZTRGhibnd0SkJTMEdxMDZpMDJZRGpjam1KV0Q5RU1wUE1zY3Q4UkNFb2NJM2FPUXZ4VHl6TGpacnpVbmJkSjRrT1B0MV9xTA?oc=5",
-      "source": "gcaptain.com",
+      "source": "gCaptain",
       "published": "2026-08-07T17:25:21+00:00",
       "score": 3.0,
       "tags": [
