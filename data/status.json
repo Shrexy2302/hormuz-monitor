@@ -1,10 +1,10 @@
 {
   "status": "OPEN",
   "label": "Normal traffic",
-  "tension_index": -44.1,
+  "tension_index": -46.3,
   "closure_signals": 5,
-  "articles_scanned": 221,
-  "updated": "2026-08-09T04:43:26.487434+00:00",
+  "articles_scanned": 220,
+  "updated": "2026-08-09T05:42:11.496691+00:00",
   "headlines": [
     {
       "title": "Gavin Newsom Says Strait of Hormuz Is Closed Despite Trump's Claims\u2014UKMTO Reports Explosion Near Vessel - Yahoo",
@@ -41,7 +41,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTHhPUWdacm9BTElRZzJDVGhhTWgwSmRoVVk4elZwR3dmNS1pcHgxaFVCbHNXTkhwQkI5ZDBsb09vdFVMRU1GbWkwUHdDYmFpT1NqZnlQdlJGbk1kODcwSHoxRS1KT1BOUlVIY1BfeUJtRW9IanV6X1hobHBwU0Z4TTQ1a2NiU1pHRkJwUGFZdGhTWFR4YklwRXNMR3ZjcmxnV2JtV0Vmb3U0Mk3SAbABQVVfeXFMT0xUN3ByZmZSZmlMRVZNUmNybmQ1aGUyRFdEY0NrcE1SSloyQVo4cnM1VkZRTk9TVDlOQ2pHNjdYcHVNNFdTajd5XzhIeUI3c3RET25BZGxFbDdiSDFFSm0tZzJOV3Rxa1hEWTBHRzlUUk9Wb3c4RlpETXZSa3JTZV9UcTZzaDk5aEpFTHdPWTVTX2w5a1FYckRjd3gtYWhRV0pycEpGU2VReHpWZ0x1TnQ?oc=5",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "published": "2026-08-07T16:04:46+00:00",
-      "score": 7.44,
+      "score": 7.39,
       "tags": [
         "closure"
       ]
@@ -51,17 +51,17 @@
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQalpyNGNuc0d5ZVVCVHlpYUxhckktNjRHaHFWVjlQSE5sY1BJZElreGFDUXFsV1VMemdfQTJpNGVUNjhNc0NvZXdoZzRKSXNpV213eFM1M0hMUUoyZllQQmFmS2hFbGszNUVBU3lBWGNwWmE5RjZJOTdwNUJSLWpXWHZZUGZYVDYyQTV1aTFTbGxoQThrRXNLZ0dvOUlMdnJoQl9HZlJ3MTRzS0lseUFWMVNrdlVCYzFSdzdibVl0MDhGb3J2LVY1OWNoY0ROQS03Tmc?oc=5",
       "source": "Foster's Daily Democrat",
       "published": "2026-08-04T19:34:18+00:00",
-      "score": 5.49,
+      "score": 5.44,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iran Weighs Allowing Europe to Clear Mines in Strait of Hormuz - bloomberg.com",
+      "title": "Iran Weighs Allowing Europe to Clear Mines in Strait of Hormuz - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcTFZUkpXdmRrNDczQXdOdERpaWFoRnpyMHA4TGVZNm1BZEcxOXF6eVJJR2xaZjdac3lLWGszZEZrLVo1YW5yOGhULXREd1llTGVIZHh5YmJzRDBLS1Jkb2JjdVhoSUxJU3pPVlZ5RDhYNnRONFNZUUJUZTNFSU9GeEtqWE5TSHhqN3cyUklTc0RXbG9LTzFOelJJTGNKRVE1R2tLTXlKNk11b01lV0p1UDhxdw?oc=5",
-      "source": "bloomberg.com",
+      "source": "Bloomberg.com",
       "published": "2026-08-04T15:38:51+00:00",
-      "score": 3.16,
+      "score": 3.13,
       "tags": [
         "closure"
       ]
@@ -87,9 +87,9 @@
       ]
     },
     {
-      "title": "UAE says Iran attacked ADNOC vessel with missile in Strait of Hormuz - Reuters",
+      "title": "UAE says Iran attacked ADNOC vessel with missile in Strait of Hormuz - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQajV4Uk9FTWd2WFJTWWVSZS1pdkl4OGFERFdzeExaYy1udkYxWGdXYWxRdHUwd2kwLVRtRTdhRkdVdUZuNXZ3U09EQUR3OXUwUzVtZmZZeWZkWmlkTThUTDBYNVBjbE9IWVBQZnhhcHBfcFVnZTc0NG1uMk54dElXNkhzQUFZR3VkRW5QZkthVjdfdTJOaXR6YWxiZmtfdzJROGg3bWFuOVhuV2ZkTDNLNkg4d18?oc=5",
-      "source": "Reuters",
+      "source": "reuters.com",
       "published": "2026-08-08T11:46:57+00:00",
       "score": 3.0,
       "tags": [
@@ -111,7 +111,7 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNUVDcDN2bGszeGZLclhwZ0stckdfM04xWlBrRXhad1NacEU1Tm1ndEFhdHFTNDRZTWIyNUdnX0FObEhuSi1BX2F1S1FyQ3JsX1dFZWxBRnFwbmQ0bmFhaEM5eHhWQ3FLcUZTRGhibnd0SkJTMEdxMDZpMDJZRGpjam1KV0Q5RU1wUE1zY3Q4UkNFb2NJM2FPUXZ4VHl6TGpacnpVbmJkSjRrT1B0MV9xTA?oc=5",
       "source": "gCaptain",
       "published": "2026-08-07T17:25:21+00:00",
-      "score": 2.81,
+      "score": 2.8,
       "tags": [
         "tension"
       ]
@@ -121,7 +121,7 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT3NXMHY3U2VjU3B5Q3NlaW1Ld05pekpFTTZrVWlQVmR2akJZWThONXBpcS0tSTJiWktwVEtqeU9OdTExa1BldmNPUktUQUhkNExzUFFGUjlMSGhncUxlbTBmQ2ViRFVGMDVLMnUtZVdyVWtvY1lvelpTZE9RWm4yTWJMSzUyUE9DN0ZObnFGcjVzazc0NWtVMFphXzFNaFl4cHZuU1BCa2FFZW1uSVFwSDZ2dmpkTnZrN3M0?oc=5",
       "source": "TradeWinds News",
       "published": "2026-08-07T11:05:33+00:00",
-      "score": 2.71,
+      "score": 2.69,
       "tags": [
         "tension"
       ]
