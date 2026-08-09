@@ -1,10 +1,10 @@
 {
   "status": "OPEN",
   "label": "Normal traffic",
-  "tension_index": -50.2,
+  "tension_index": -45.3,
   "closure_signals": 4,
   "articles_scanned": 223,
-  "updated": "2026-08-08T23:52:44.353454+00:00",
+  "updated": "2026-08-09T01:09:29.907715+00:00",
   "headlines": [
     {
       "title": "Gavin Newsom Says Strait of Hormuz Is Closed Despite Trump's Claims\u2014UKMTO Reports Explosion Near Vessel - Yahoo",
@@ -31,17 +31,17 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTHhPUWdacm9BTElRZzJDVGhhTWgwSmRoVVk4elZwR3dmNS1pcHgxaFVCbHNXTkhwQkI5ZDBsb09vdFVMRU1GbWkwUHdDYmFpT1NqZnlQdlJGbk1kODcwSHoxRS1KT1BOUlVIY1BfeUJtRW9IanV6X1hobHBwU0Z4TTQ1a2NiU1pHRkJwUGFZdGhTWFR4YklwRXNMR3ZjcmxnV2JtV0Vmb3U0Mk3SAbABQVVfeXFMT0xUN3ByZmZSZmlMRVZNUmNybmQ1aGUyRFdEY0NrcE1SSloyQVo4cnM1VkZRTk9TVDlOQ2pHNjdYcHVNNFdTajd5XzhIeUI3c3RET25BZGxFbDdiSDFFSm0tZzJOV3Rxa1hEWTBHRzlUUk9Wb3c4RlpETXZSa3JTZV9UcTZzaDk5aEpFTHdPWTVTX2w5a1FYckRjd3gtYWhRV0pycEpGU2VReHpWZ0x1TnQ?oc=5",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "published": "2026-08-07T16:04:46+00:00",
-      "score": 7.65,
+      "score": 7.6,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "White House disputes reports that Strait of Hormuz is closed - Foster's Daily Democrat",
+      "title": "White House disputes reports that Strait of Hormuz is closed - fosters.com",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQalpyNGNuc0d5ZVVCVHlpYUxhckktNjRHaHFWVjlQSE5sY1BJZElreGFDUXFsV1VMemdfQTJpNGVUNjhNc0NvZXdoZzRKSXNpV213eFM1M0hMUUoyZllQQmFmS2hFbGszNUVBU3lBWGNwWmE5RjZJOTdwNUJSLWpXWHZZUGZYVDYyQTV1aTFTbGxoQThrRXNLZ0dvOUlMdnJoQl9HZlJ3MTRzS0lseUFWMVNrdlVCYzFSdzdibVl0MDhGb3J2LVY1OWNoY0ROQS03Tmc?oc=5",
-      "source": "Foster's Daily Democrat",
+      "source": "fosters.com",
       "published": "2026-08-04T19:34:18+00:00",
-      "score": 5.76,
+      "score": 5.69,
       "tags": [
         "closure"
       ]
@@ -51,7 +51,7 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcTFZUkpXdmRrNDczQXdOdERpaWFoRnpyMHA4TGVZNm1BZEcxOXF6eVJJR2xaZjdac3lLWGszZEZrLVo1YW5yOGhULXREd1llTGVIZHh5YmJzRDBLS1Jkb2JjdVhoSUxJU3pPVlZ5RDhYNnRONFNZUUJUZTNFSU9GeEtqWE5TSHhqN3cyUklTc0RXbG9LTzFOelJJTGNKRVE1R2tLTXlKNk11b01lV0p1UDhxdw?oc=5",
       "source": "Bloomberg.com",
       "published": "2026-08-04T15:38:51+00:00",
-      "score": 3.33,
+      "score": 3.28,
       "tags": [
         "closure"
       ]
@@ -101,7 +101,7 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNUVDcDN2bGszeGZLclhwZ0stckdfM04xWlBrRXhad1NacEU1Tm1ndEFhdHFTNDRZTWIyNUdnX0FObEhuSi1BX2F1S1FyQ3JsX1dFZWxBRnFwbmQ0bmFhaEM5eHhWQ3FLcUZTRGhibnd0SkJTMEdxMDZpMDJZRGpjam1KV0Q5RU1wUE1zY3Q4UkNFb2NJM2FPUXZ4VHl6TGpacnpVbmJkSjRrT1B0MV9xTA?oc=5",
       "source": "gCaptain",
       "published": "2026-08-07T17:25:21+00:00",
-      "score": 2.89,
+      "score": 2.87,
       "tags": [
         "tension"
       ]
@@ -111,7 +111,7 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYjhXdXBvR043NmQwYzNMSWktN0dGeUM1YU5HNWpmb3JMTEQ5QWVoOE5vWDlpNURwbGpQLThYM1BoNlZtc0tVS292NFVqcWNENjJ1MzNJaHRDaVo2SU9HOENHNmdCODY0N1BHektMeDdaYW5fUnI3QldtMm9rNkFaNGVlc2xIZlVsOFhsMjJoc25IZjRqT2l5YXNNRURCNEVDdTVJZU9NZWpnRjhVRkHSAbMBQVVfeXFMTkktQ3FkYUFMVnU5STlvWlMxNG1yVVVSbENkNUFtejVFY2pEb1p3ZC1Uc2ZUeVpMMHExcmJucXN3RUNSS09UQ3V4ajVxRFQtc3JTbVpyUUp5eWk3QzM3OGo4VURKWUtRMDEyZDhxeG9VUkRRRGx5NllFY3F0akFOcENCV2x2VHprcHN3aDVCTHZTWGVWdUJ3WXl1VnNHVHRjb0RsOGhJZlQwbGh1Skx3cXNUUDQ?oc=5",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "published": "2026-08-07T15:45:00+00:00",
-      "score": 2.86,
+      "score": 2.84,
       "tags": [
         "tension"
       ]
@@ -121,7 +121,7 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT3NXMHY3U2VjU3B5Q3NlaW1Ld05pekpFTTZrVWlQVmR2akJZWThONXBpcS0tSTJiWktwVEtqeU9OdTExa1BldmNPUktUQUhkNExzUFFGUjlMSGhncUxlbTBmQ2ViRFVGMDVLMnUtZVdyVWtvY1lvelpTZE9RWm4yTWJMSzUyUE9DN0ZObnFGcjVzazc0NWtVMFphXzFNaFl4cHZuU1BCa2FFZW1uSVFwSDZ2dmpkTnZrN3M0?oc=5",
       "source": "TradeWinds News",
       "published": "2026-08-07T11:05:33+00:00",
-      "score": 2.79,
+      "score": 2.77,
       "tags": [
         "tension"
       ]
