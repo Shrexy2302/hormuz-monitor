@@ -1,10 +1,10 @@
 {
   "status": "OPEN",
   "label": "Normal traffic",
-  "tension_index": -43.0,
+  "tension_index": -33.3,
   "closure_signals": 7,
-  "articles_scanned": 231,
-  "updated": "2026-08-10T11:01:57.307678+00:00",
+  "articles_scanned": 227,
+  "updated": "2026-08-10T12:06:32.878569+00:00",
   "headlines": [
     {
       "title": "Iran keeps Strait of Hormuz closed, presses U.S. for major concessions - CBS News",
@@ -27,9 +27,9 @@
       ]
     },
     {
-      "title": "Iran Says Deal With Oman Is Near, but Conditions Keep Strait of Hormuz Closed - \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
+      "title": "Iran Says Deal With Oman Is Near, but Conditions Keep Strait of Hormuz Closed - mezha.net",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE44MG9FaG9PVTFpZXJCOGZnV2ZKM0NSVVMyOUpSNkN5MllZeDY3LXlVcE5YaTByZVhteExJaHN6UC1NRTZGdkRnMElBN0RWeVJtblhUMVBkRkExT2EyRUxkRGRn?oc=5",
-      "source": "\u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
+      "source": "mezha.net",
       "published": "2026-08-09T15:14:04+00:00",
       "score": 10.0,
       "tags": [
@@ -41,7 +41,7 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbTR4QkpvUk5uSk5XMUZPNndrMWZlcW4tU2tmekJtQ181czB3cHFMTjg5WjQyS2RVR1ZWVlBJQ3U0NllMR1hPckJiOThlQUFEMktKU2pGelAyUU5LX3dEbUN4NFhVT1gzOHdQekM5eDFjeWRkUGRQbDdneXlFUXpnaEVuWkhnejZZaUt3MVVGSWlrNl8wMlE?oc=5",
       "source": "Yahoo",
       "published": "2026-08-08T16:00:42+00:00",
-      "score": 8.94,
+      "score": 8.88,
       "tags": [
         "closure"
       ]
@@ -51,7 +51,7 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSmRkbHIwNXZpaGRxaHZjdW94bUgtdHg5WnozUUNLR2ZwWDBaM0t6cTNfMmpmeHY2UzE0WEFpUWF2YkZYYXQtMmtqSVdCZkNQNmtEQTFRRGNzdGhPa1RlSnRQRkZmQzlGaERacFA0TF9PZm9vaTFuWHpYckFDdXQzbnVFeEtISlZqSnh0T1E4OVJ5UQ?oc=5",
       "source": "Briefs Finance",
       "published": "2026-08-08T22:02:17+00:00",
-      "score": 7.42,
+      "score": 7.37,
       "tags": [
         "closure"
       ]
@@ -61,7 +61,7 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4waWlyWkdHclhxUHUta0FxcURwR1E0cXNRaVBjelZfX0lmVUJpTnlkTlpBQk9aOGd2Nmhsbm96UGpINGEzQk0tMUJwQ1dnei1nOXh1VHdMT1JBeWNfbDF1NUotZzlta3lQME1XY0tR?oc=5",
       "source": "news.cgtn.com",
       "published": "2026-08-08T09:36:53+00:00",
-      "score": 6.87,
+      "score": 6.82,
       "tags": [
         "closure"
       ]
@@ -71,7 +71,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTHhPUWdacm9BTElRZzJDVGhhTWgwSmRoVVk4elZwR3dmNS1pcHgxaFVCbHNXTkhwQkI5ZDBsb09vdFVMRU1GbWkwUHdDYmFpT1NqZnlQdlJGbk1kODcwSHoxRS1KT1BOUlVIY1BfeUJtRW9IanV6X1hobHBwU0Z4TTQ1a2NiU1pHRkJwUGFZdGhTWFR4YklwRXNMR3ZjcmxnV2JtV0Vmb3U0Mk3SAbABQVVfeXFMT0xUN3ByZmZSZmlMRVZNUmNybmQ1aGUyRFdEY0NrcE1SSloyQVo4cnM1VkZRTk9TVDlOQ2pHNjdYcHVNNFdTajd5XzhIeUI3c3RET25BZGxFbDdiSDFFSm0tZzJOV3Rxa1hEWTBHRzlUUk9Wb3c4RlpETXZSa3JTZV9UcTZzaDk5aEpFTHdPWTVTX2w5a1FYckRjd3gtYWhRV0pycEpGU2VReHpWZ0x1TnQ?oc=5",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "published": "2026-08-07T16:04:46+00:00",
-      "score": 6.09,
+      "score": 6.04,
       "tags": [
         "closure"
       ]
@@ -91,9 +91,29 @@
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQalpyNGNuc0d5ZVVCVHlpYUxhckktNjRHaHFWVjlQSE5sY1BJZElreGFDUXFsV1VMemdfQTJpNGVUNjhNc0NvZXdoZzRKSXNpV213eFM1M0hMUUoyZllQQmFmS2hFbGszNUVBU3lBWGNwWmE5RjZJOTdwNUJSLWpXWHZZUGZYVDYyQTV1aTFTbGxoQThrRXNLZ0dvOUlMdnJoQl9HZlJ3MTRzS0lseUFWMVNrdlVCYzFSdzdibVl0MDhGb3J2LVY1OWNoY0ROQS03Tmc?oc=5",
       "source": "Foster's Daily Democrat",
       "published": "2026-08-04T19:34:18+00:00",
-      "score": 3.81,
+      "score": 3.75,
       "tags": [
         "closure"
+      ]
+    },
+    {
+      "title": "Ship burning after fresh projectile strike in Strait of Hormuz - TradeWinds News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRm85c1gyYnM5Yi1iQ1dFMWo0YVc0cmNXWDNPSGpEY0laMmNKbTZMa1c3aVNsd2w4R1BiTnV1dGhYVmk0aWtNYTVMRGo3ZnB4d2hBNGNJdWNIU0NwdlA1WUdlVGdqTkw1S2Zra2d6MF9IQW80d1hFOVUxc2Q1Si14VklhQVg4UWY0eHBmRXU4X0IteWJPVDFnaGUxakpiRWJqMW5ISWtGSm83d3NJeGpfR3RhcS0ya3M?oc=5",
+      "source": "TradeWinds News",
+      "published": "2026-08-10T08:57:49+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "ADNOC reports 15 vessels attacked while transiting Hormuz - Shipping Telegraph",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUJldzRRcGUtMzA2SGlIVTVKSlU1YlZldzFFOS1zVE1KN2IwVjJRanRnUU9NYmNidkZMbXhNcXp3dk82UzhoSXllZW45TnpWX3ZjSVpIcE1NRkxBT2pOYmI3d2xNaTkzWW9GckREdi1FMmMxNHNsQzc0M2FhZWppZnVzQXk1QmI5ZWRpT3hWajd1S21ISUNlLVBlcWZpMFAtVTh5WFMzTWU?oc=5",
+      "source": "Shipping Telegraph",
+      "published": "2026-08-10T00:55:41+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
       ]
     },
     {
@@ -101,34 +121,14 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVXkwTllSWmYwYmpmS0ZYQkRSOUhiVzB2dzBVR1U0amw0SHJ4LUhPUU5MWmlBeDN0ZVhaQlBxS25RS1p5UE0tNUJmVHlNM01JOFRuamN3WnZnTVA1TFk3MGg0dUZ1YmIwTTRxNEFNRkd2ODk1TjI0V2RQSENzRS16UHl1V1dWZEF3VzdiLUdJa3VjMDUwNFZnVTNJbTh1X2pLUzhhV1JCLUFOLW9rWTk2M3Q3QzNnMVEwejRVeVQyS3kzZw?oc=5",
       "source": "France 24",
       "published": "2026-08-09T05:01:29+00:00",
-      "score": 2.9,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Oil spill seen after tanker attack in Strait of Hormuz, TankerTrackers says - Iran International",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yRFNnWndzR0JxMlo3QXEzc3ZidlY5d245VS1oNWtVWmRfN0NBOWlDSUw5NHRTcmM4aXZMeEdWTVhOZHBMcHZMQVdFV245elB1SEE?oc=5",
-      "source": "Iran International",
-      "published": "2026-08-08T20:22:04+00:00",
-      "score": 2.76,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran strikes vessel in Strait of Hormuz as Pezeshkian calls for deal - www.israelhayom.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMlpTMEI4eHhkTFV5aVpzSU05WlJpUXJuTG1hTnZCVkQ5LTUwY3NBcjdWRGdWd08xcjZ6emVvaWw5Mm9PU3otZUNwVFkwVFBNMXkzUVBSU3VBaTZYNktCYnpuOWFpa3ktYmNaMEZ0enZhWWhzZkpqYmhka3dGaGMxMlQzeG1HcGVGV1RLUzRHTnkwNDgyRlpad2FSSnVzN2FQMGpaWVhuckVETWUt?oc=5",
-      "source": "www.israelhayom.com",
-      "published": "2026-08-08T18:42:39+00:00",
-      "score": 2.73,
+      "score": 2.88,
       "tags": [
         "tension"
       ]
     }
   ],
   "brent": {
-    "price": 84.74,
-    "change_pct": 1.42
+    "price": 84.93,
+    "change_pct": 1.65
   }
 }
