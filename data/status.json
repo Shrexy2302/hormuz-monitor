@@ -1,10 +1,10 @@
 {
   "status": "OPEN",
   "label": "Normal traffic",
-  "tension_index": -35.3,
+  "tension_index": -26.3,
   "closure_signals": 7,
-  "articles_scanned": 214,
-  "updated": "2026-08-11T18:52:51.866908+00:00",
+  "articles_scanned": 212,
+  "updated": "2026-08-11T19:57:04.776467+00:00",
   "headlines": [
     {
       "title": "Uniper CEO predicts high gas prices as long as Strait of Hormuz shut - Reuters",
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRnFqN2lqcGxreDVjUVNGQnhOT2Q4VEhvb3htSDNOczBjYWZpYjFaVkxoUVhjbm9fNFZqZ1RJZWVkTF9MeVlKS1dtSEdmOTd0eGhDSUI0Sk5HQzFkWF9yT09RaWY5TlZsOE1USDZYLTVSR3NzZHZGaGhQTzFyaERzbGVUU0NLNTJhMXpRTTRELWNzbXJQandJMmY1d0EzY3lZZXBrYWRJeHk?oc=5",
       "source": "CBS News",
       "published": "2026-08-10T03:14:00+00:00",
-      "score": 9.13,
+      "score": 9.07,
       "tags": [
         "closure"
       ]
@@ -31,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcExuVkhsVURCdE9CWmRqbm91YnFZc2o0cFEtVXJUNEVzdjJYSEk4TTNvOThtdzI4Um44Q01KYlBHZ0Q0NVpUVTNrT3RxQWhzXzVuMVZiR3EyYllhR1Z6aUpUOWRIdkFaQ1QtdTNCX3ptVlRnNVhoYWtRa0RJUFpPdWNKeGpXYTFTNTRaVWhhMERHYjhyd1dRQ3lQZ20wWkp5RWc?oc=5",
       "source": "CBS News",
       "published": "2026-08-10T00:37:00+00:00",
-      "score": 8.99,
+      "score": 8.93,
       "tags": [
         "closure"
       ]
@@ -41,7 +41,7 @@
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE44MG9FaG9PVTFpZXJCOGZnV2ZKM0NSVVMyOUpSNkN5MllZeDY3LXlVcE5YaTByZVhteExJaHN6UC1NRTZGdkRnMElBN0RWeVJtblhUMVBkRkExT2EyRUxkRGRn?oc=5",
       "source": "\u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
       "published": "2026-08-09T15:14:04+00:00",
-      "score": 8.46,
+      "score": 8.4,
       "tags": [
         "closure"
       ]
@@ -51,17 +51,7 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbTR4QkpvUk5uSk5XMUZPNndrMWZlcW4tU2tmekJtQ181czB3cHFMTjg5WjQyS2RVR1ZWVlBJQ3U0NllMR1hPckJiOThlQUFEMktKU2pGelAyUU5LX3dEbUN4NFhVT1gzOHdQekM5eDFjeWRkUGRQbDdneXlFUXpnaEVuWkhnejZZaUt3MVVGSWlrNl8wMlE?oc=5",
       "source": "Yahoo",
       "published": "2026-08-08T16:00:42+00:00",
-      "score": 7.17,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Iran's Closure of the Strait of Hormuz Pushes U.S.-Bound Container Rates Up Almost a Third - briefs.co",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSmRkbHIwNXZpaGRxaHZjdW94bUgtdHg5WnozUUNLR2ZwWDBaM0t6cTNfMmpmeHY2UzE0WEFpUWF2YkZYYXQtMmtqSVdCZkNQNmtEQTFRRGNzdGhPa1RlSnRQRkZmQzlGaERacFA0TF9PZm9vaTFuWHpYckFDdXQzbnVFeEtISlZqSnh0T1E4OVJ5UQ?oc=5",
-      "source": "briefs.co",
-      "published": "2026-08-08T22:02:17+00:00",
-      "score": 6.01,
+      "score": 7.11,
       "tags": [
         "closure"
       ]
@@ -77,11 +67,21 @@
       ]
     },
     {
+      "title": "Iran's Closure of the Strait of Hormuz Pushes U.S.-Bound Container Rates Up Almost a Third - Briefs Finance",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSmRkbHIwNXZpaGRxaHZjdW94bUgtdHg5WnozUUNLR2ZwWDBaM0t6cTNfMmpmeHY2UzE0WEFpUWF2YkZYYXQtMmtqSVdCZkNQNmtEQTFRRGNzdGhPa1RlSnRQRkZmQzlGaERacFA0TF9PZm9vaTFuWHpYckFDdXQzbnVFeEtISlZqSnh0T1E4OVJ5UQ?oc=5",
+      "source": "Briefs Finance",
+      "published": "2026-08-08T22:02:17+00:00",
+      "score": 5.96,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
       "title": "Is Iran Preparing to Permanently Block the Strait of Hormuz - Crude Oil Prices Today | OilPrice.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTHhPUWdacm9BTElRZzJDVGhhTWgwSmRoVVk4elZwR3dmNS1pcHgxaFVCbHNXTkhwQkI5ZDBsb09vdFVMRU1GbWkwUHdDYmFpT1NqZnlQdlJGbk1kODcwSHoxRS1KT1BOUlVIY1BfeUJtRW9IanV6X1hobHBwU0Z4TTQ1a2NiU1pHRkJwUGFZdGhTWFR4YklwRXNMR3ZjcmxnV2JtV0Vmb3U0Mk3SAbABQVVfeXFMT0xUN3ByZmZSZmlMRVZNUmNybmQ1aGUyRFdEY0NrcE1SSloyQVo4cnM1VkZRTk9TVDlOQ2pHNjdYcHVNNFdTajd5XzhIeUI3c3RET25BZGxFbDdiSDFFSm0tZzJOV3Rxa1hEWTBHRzlUUk9Wb3c4RlpETXZSa3JTZV9UcTZzaDk5aEpFTHdPWTVTX2w5a1FYckRjd3gtYWhRV0pycEpGU2VReHpWZ0x1TnQ?oc=5",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "published": "2026-08-07T16:04:46+00:00",
-      "score": 4.68,
+      "score": 4.63,
       "tags": [
         "closure"
       ]
@@ -91,7 +91,27 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON0pPV0R0aC02SFNUNzZwUkNUdFNadFAwZ1hhR3BOWnJ3NkdXQmJPRFhZQmpjeUNhWnAwSlVONHBVWk9KMXBILVFMOU1ramJ5aDlCNmlzb2dOOWVXV2JlZUlmbWpacEptV1U2SnJUMHUyOVhsTEJzY0tGcU90bTZWcnFTbktzM2VjQTludnRGc3JKUnRGVjczSEtOOUhySnVKdUphcGVUN0hPcmJHdHl0MEJIeEFWZW_SAbwBQVVfeXFMUHQwSDFOdVJxQTZITGY4UTE2YVRjUnNtRl9GWEY4bmplSG1rXzRDQ1Fpb0ZfZ2I2V3UzUWFGZTNhXzdTWVNrNGNaNmRVMk1OZW9aUDdoaGdVOXFwaHFYUmlGR1NDd0VrTkNKUmZrNHpHU2hmaWNoYm9fZWdvS0s1OW1nMnlFaHFHUDVOZ3E1RTNjMDdRa1ZteDRrVEhUekxTbVAydUQtNnpwaWlKOFlmbll2MWdZSi1FSDhCTnY?oc=5",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "published": "2026-08-10T06:30:00+00:00",
-      "score": 3.72,
+      "score": 3.7,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "US missile strike reportedly hits container ship off Pakistan - NewsNation",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRHFrRUdwdTRkajMzeEp3RUlPbjNsVXRhWDFqc3ROUjdYTlBIc2NMSkU5M3RtMjhzVWxFdEE4aUppLWNjbkdKNzN3NURIZlpjLXctUkt2bmI3SUJXMjBUNUg0QW1pblhKUGRtanVNYUdjYkZmUFU2SDE1QUFfOUdOb3NGQzBNc3E2bGcyXzZwc9IBlAFBVV95cUxQUGpVYUdqTjlyMlNZTHdUSXVmelNRTVk3bnl1bTA2SWRPbUs2SDBzZ0dvWFg0TTRrX1J5UWFuV2RQZlVaeGdwVXdpZ0RoWmk4eklEVE1OVFoxYUFNaHMwRVprZWFUYkptMzJmWWxRNktHZFV2X0F4Y245c08wSlREcWd2TkJpNTlBMmdNRE1uZlNvd01M?oc=5",
+      "source": "NewsNation",
+      "published": "2026-08-11T15:19:44+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Houthi attacks in Yemen threaten new shipping crisis in Red Sea as Iran digs in on Hormuz demands - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mVGU5WWo4SGhQaVdqd1JEM3c0Y2hXQm1hN3pSN1U3aFVRb1d2VTItTWJMZjV1RkpzWHhlVHZ3MlByekk4Sm1NUHRhNDNsc2k4OTBSRnN6dzUwWXYwckd1Y2xFWUZ6T0dLdmJ3SGJTbzNBWlNfN01WWGVUWFY?oc=5",
+      "source": "Fortune",
+      "published": "2026-08-11T13:39:00+00:00",
+      "score": 3.0,
       "tags": [
         "tension"
       ]
@@ -101,34 +121,14 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRm85c1gyYnM5Yi1iQ1dFMWo0YVc0cmNXWDNPSGpEY0laMmNKbTZMa1c3aVNsd2w4R1BiTnV1dGhYVmk0aWtNYTVMRGo3ZnB4d2hBNGNJdWNIU0NwdlA1WUdlVGdqTkw1S2Zra2d6MF9IQW80d1hFOVUxc2Q1Si14VklhQVg4UWY0eHBmRXU4X0IteWJPVDFnaGUxakpiRWJqMW5ISWtGSm83d3NJeGpfR3RhcS0ya3M?oc=5",
       "source": "TradeWinds News",
       "published": "2026-08-10T08:58:11+00:00",
-      "score": 2.83,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "ADNOC reports 15 vessels attacked while transiting Hormuz - Shipping Telegraph",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUJldzRRcGUtMzA2SGlIVTVKSlU1YlZldzFFOS1zVE1KN2IwVjJRanRnUU9NYmNidkZMbXhNcXp3dk82UzhoSXllZW45TnpWX3ZjSVpIcE1NRkxBT2pOYmI3d2xNaTkzWW9GckREdi1FMmMxNHNsQzc0M2FhZWppZnVzQXk1QmI5ZWRpT3hWajd1S21ISUNlLVBlcWZpMFAtVTh5WFMzTWU?oc=5",
-      "source": "Shipping Telegraph",
-      "published": "2026-08-10T00:55:41+00:00",
-      "score": 2.7,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "UAE says Iran attacked ADNOC vessel with missile in Strait of Hormuz - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQajV4Uk9FTWd2WFJTWWVSZS1pdkl4OGFERFdzeExaYy1udkYxWGdXYWxRdHUwd2kwLVRtRTdhRkdVdUZuNXZ3U09EQUR3OXUwUzVtZmZZeWZkWmlkTThUTDBYNVBjbE9IWVBQZnhhcHBfcFVnZTc0NG1uMk54dElXNkhzQUFZR3VkRW5QZkthVjdfdTJOaXR6YWxiZmtfdzJROGg3bWFuOVhuV2ZkTDNLNkg4d18?oc=5",
-      "source": "Reuters",
-      "published": "2026-08-08T11:46:57+00:00",
-      "score": 2.08,
+      "score": 2.82,
       "tags": [
         "tension"
       ]
     }
   ],
   "brent": {
-    "price": 88.77,
-    "change_pct": 1.2
+    "price": 89.06,
+    "change_pct": 1.53
   }
 }
