@@ -1,37 +1,37 @@
 {
   "status": "OPEN",
   "label": "Normal traffic",
-  "tension_index": -55.6,
+  "tension_index": -46.7,
   "closure_signals": 4,
-  "articles_scanned": 217,
-  "updated": "2026-08-12T11:41:08.358152+00:00",
+  "articles_scanned": 218,
+  "updated": "2026-08-12T12:53:02.222659+00:00",
   "headlines": [
     {
-      "title": "Uniper CEO predicts high gas prices as long as Strait of Hormuz shut - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS19ZUksxSnliT05sLVlKZ2JFeVdpU0l0elN5Y1o1UVRXU3NjMGFVMndlUWxNSkFhUzdkRnBsaEs1Y3Z5ampPSFZpR0tXVnpENldMdEtNR2d4M1NmakRteWx5cEM5T29wdWpzbmFkSko4aElxb0JWWTlLN2FmYVY3R2xzS21SaHlsRVlpeEFkQ3hUUllwQjExdGpPeTBkemdZOGRPOEZ4NkFnZ0ozQ2c?oc=5",
-      "source": "Reuters",
-      "published": "2026-08-11T11:29:01+00:00",
-      "score": 9.99,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Iran keeps Strait of Hormuz closed, presses U.S. for major concessions - CBS News",
+      "title": "Iran keeps Strait of Hormuz closed, presses U.S. for major concessions - cbsnews.com",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRnFqN2lqcGxreDVjUVNGQnhOT2Q4VEhvb3htSDNOczBjYWZpYjFaVkxoUVhjbm9fNFZqZ1RJZWVkTF9MeVlKS1dtSEdmOTd0eGhDSUI0Sk5HQzFkWF9yT09RaWY5TlZsOE1USDZYLTVSR3NzZHZGaGhQTzFyaERzbGVUU0NLNTJhMXpRTTRELWNzbXJQandJMmY1d0EzY3lZZXBrYWRJeHk?oc=5",
-      "source": "CBS News",
+      "source": "cbsnews.com",
       "published": "2026-08-10T03:14:00+00:00",
-      "score": 8.2,
+      "score": 8.13,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iranian leaders demand U.S. pay for war damage or will keep Strait of Hormuz closed - CBS News",
+      "title": "ECU researcher says 5-month closure of Strait of Hormuz has created a biological super-spreader event - Public Radio East",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX0tOc3EteldQdV9OYjBySGhjMkxNQTZiRmJXRkZIa2JIZU1faW5GbXd3Q254MnVWOHBldWZLSGpwWkh2RUptT0lvdWxWdTdrTmV6TnpBUUR6Zjk3UzlEUmp5eEUxMjd6cUZZTWlPc2ZEQkxqc1ZITWdIMWd2QVc3UFVLOGdaVTN5SzV6WWs2ZUVOcmlSV0NxUkp0bGJaM0JiWmxyZ2xydDVpSkM5SWNldnBqMlppOEZsQ3ZmWTk1RXVaSUFaMmhPNFp6Wk9FNWRXTFhoejlLeVBkX1JD?oc=5",
+      "source": "Public Radio East",
+      "published": "2026-08-12T10:53:00+00:00",
+      "score": 8.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iranian leaders demand U.S. pay for war damage or will keep Strait of Hormuz closed - cbsnews.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcExuVkhsVURCdE9CWmRqbm91YnFZc2o0cFEtVXJUNEVzdjJYSEk4TTNvOThtdzI4Um44Q01KYlBHZ0Q0NVpUVTNrT3RxQWhzXzVuMVZiR3EyYllhR1Z6aUpUOWRIdkFaQ1QtdTNCX3ptVlRnNVhoYWtRa0RJUFpPdWNKeGpXYTFTNTRaVWhhMERHYjhyd1dRQ3lQZ20wWkp5RWc?oc=5",
-      "source": "CBS News",
+      "source": "cbsnews.com",
       "published": "2026-08-10T00:37:00+00:00",
-      "score": 8.05,
+      "score": 7.99,
       "tags": [
         "closure"
       ]
@@ -41,7 +41,7 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZzREeGZUcl95WmtZRGZabUR3NXhwWFNiallMWG83WUhETlQxVVliRDhfcTlIcHJNdnRwa2VXcUNhcE5WZFNjdS1BejZKU1RtY2RuWUU2TDlUSG5YNURneWkwSXB4cjhyb2lmbV9BXzlnSG1nMmEwMkQzUDJRdWYwQ2g2aTIyVGpjSW5JS3oxeEMxbGdRd0pfZW9vcUk?oc=5",
       "source": "IranWire",
       "published": "2026-08-11T08:39:34+00:00",
-      "score": 5.9,
+      "score": 5.86,
       "tags": [
         "closure"
       ]
@@ -51,7 +51,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTHhPUWdacm9BTElRZzJDVGhhTWgwSmRoVVk4elZwR3dmNS1pcHgxaFVCbHNXTkhwQkI5ZDBsb09vdFVMRU1GbWkwUHdDYmFpT1NqZnlQdlJGbk1kODcwSHoxRS1KT1BOUlVIY1BfeUJtRW9IanV6X1hobHBwU0Z4TTQ1a2NiU1pHRkJwUGFZdGhTWFR4YklwRXNMR3ZjcmxnV2JtV0Vmb3U0Mk3SAbABQVVfeXFMT0xUN3ByZmZSZmlMRVZNUmNybmQ1aGUyRFdEY0NrcE1SSloyQVo4cnM1VkZRTk9TVDlOQ2pHNjdYcHVNNFdTajd5XzhIeUI3c3RET25BZGxFbDdiSDFFSm0tZzJOV3Rxa1hEWTBHRzlUUk9Wb3c4RlpETXZSa3JTZV9UcTZzaDk5aEpFTHdPWTVTX2w5a1FYckRjd3gtYWhRV0pycEpGU2VReHpWZ0x1TnQ?oc=5",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "published": "2026-08-07T16:04:46+00:00",
-      "score": 3.93,
+      "score": 3.88,
       "tags": [
         "closure"
       ]
@@ -61,15 +61,25 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON0pPV0R0aC02SFNUNzZwUkNUdFNadFAwZ1hhR3BOWnJ3NkdXQmJPRFhZQmpjeUNhWnAwSlVONHBVWk9KMXBILVFMOU1ramJ5aDlCNmlzb2dOOWVXV2JlZUlmbWpacEptV1U2SnJUMHUyOVhsTEJzY0tGcU90bTZWcnFTbktzM2VjQTludnRGc3JKUnRGVjczSEtOOUhySnVKdUphcGVUN0hPcmJHdHl0MEJIeEFWZW_SAbwBQVVfeXFMUHQwSDFOdVJxQTZITGY4UTE2YVRjUnNtRl9GWEY4bmplSG1rXzRDQ1Fpb0ZfZ2I2V3UzUWFGZTNhXzdTWVNrNGNaNmRVMk1OZW9aUDdoaGdVOXFwaHFYUmlGR1NDd0VrTkNKUmZrNHpHU2hmaWNoYm9fZWdvS0s1OW1nMnlFaHFHUDVOZ3E1RTNjMDdRa1ZteDRrVEhUekxTbVAydUQtNnpwaWlKOFlmbll2MWdZSi1FSDhCTnY?oc=5",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "published": "2026-08-10T06:30:00+00:00",
-      "score": 3.35,
+      "score": 3.32,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes container ship - CNBC",
+      "title": "US-Iran war: Hormuz closure threat grows as Houthis, US report fresh attacks on shipping - Firstpost",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNWtjVlplM0ZSZXh4N3RtdjREejJJLTY2NDgyaTZKV1JTa0xPa2VrM0ZYX09FSDJoTG9SS014amJkZ0xpbUctNkNpY2tkMHRHMzdCVzdvVVBla29iYTNpdGx2VURuN0htUjQ2OVVuZEdOQzBud1dsaFM1MWMydl9LMkJRVXJEMWhXNS11YlR6Y2RxeVlOaFp0UklnVVFPV0NaUGtPcThkQkdxck1NbjNwSDBxcUtDTm1BZ3FOM3FBX3dpX1FPd0x6SEJubUfSAdIBQVVfeXFMTVBuclA5ZHd1UDh6eWNXc1BXR095X3g0TWIycXJZTUF2bEhyLTJrS182aExlbFBNSFpZM0J3SHhRczI1YW8xZGlYY3hBbGE5NVBMT0U5WkZXbFRsT1ctQXJ6S2ZDb1pRaURaM2lnUVpTVEQ3V29ONUlJaU1EaXg2WEEyYXhXMmROS09kX0t5dmJWWG5FalRBYjVnNVUtRnppTUZUdUZPTEl4SjU5LTlIRkZSWThheUlRZ08tQ05ZN011S2Y2RjNHaGRqUnREcDlqTTBR?oc=5",
+      "source": "Firstpost",
+      "published": "2026-08-12T12:31:13+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes container ship - cnbc.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSGtLT21UUTZ1QlQ3UVd6akpNcnhtNzI0aFNidjRHeWExendmSDhoT3VNZmt0VHVkdFk4LS1YVGdveE9uY1VYdUJrWnV2ZGlRanVTZmxmUTB1dzNCNnRDOUg1R2hUS3ZXeHdEMkcwdWZodzNOam9qOTN2TjJlMkNCY25PbzRVNG81RVFMd1NR0gGTAUFVX3lxTE5YekViUjgwbV9GLWVWUmplY0d3Nm9ka1lxQmRFMHVrNzFTWHhiSU1JMVpDbllZRGF2MGtkNW4yakJidmF5LTJsbUk2YVRSQ214ZHQyQzRwczRzYVRTZFJUWk5pNHRMZzZpcXRvX2cwbF9PYzByQlNLNUpvOE1lSGQ3Zk9rUFJsMkdBVFo4ZkMtZnQ1TQ?oc=5",
-      "source": "CNBC",
+      "source": "cnbc.com",
       "published": "2026-08-12T05:10:09+00:00",
       "score": 3.0,
       "tags": [
@@ -87,10 +97,10 @@
       ]
     },
     {
-      "title": "US confirms Hellfire missile used to hit container ship off Pakistan - newsnationnow.com",
+      "title": "US confirms Hellfire missile used to hit container ship off Pakistan - NewsNation",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRHFrRUdwdTRkajMzeEp3RUlPbjNsVXRhWDFqc3ROUjdYTlBIc2NMSkU5M3RtMjhzVWxFdEE4aUppLWNjbkdKNzN3NURIZlpjLXctUkt2bmI3SUJXMjBUNUg0QW1pblhKUGRtanVNYUdjYkZmUFU2SDE1QUFfOUdOb3NGQzBNc3E2bGcyXzZwc9IBlAFBVV95cUxQUGpVYUdqTjlyMlNZTHdUSXVmelNRTVk3bnl1bTA2SWRPbUs2SDBzZ0dvWFg0TTRrX1J5UWFuV2RQZlVaeGdwVXdpZ0RoWmk4eklEVE1OVFoxYUFNaHMwRVprZWFUYkptMzJmWWxRNktHZFV2X0F4Y245c08wSlREcWd2TkJpNTlBMmdNRE1uZlNvd01M?oc=5",
-      "source": "newsnationnow.com",
-      "published": "2026-08-11T19:20:09+00:00",
+      "source": "NewsNation",
+      "published": "2026-08-11T15:19:44+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -115,20 +125,10 @@
       "tags": [
         "tension"
       ]
-    },
-    {
-      "title": "UAE Says Iran Attacked Vessel With Missile In Strait of Hormuz - gCaptain",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVjhFNTdPUE5ucUxoc3dQM3dsdV9LdHZTdTdKaFhQWFVTNlJTLU11ZlJSeVZkWFZTS1hkYlFRdzNKLXlwQlFDNURKOVYzeFFuWUdCbUZaenFiNDNkZk1aYXMwNzhWMWE5SFlIcmpXSzlCTDFTRVN3NlV3aGtUblJLZDNheHdLUGRkOGNpZA?oc=5",
-      "source": "gCaptain",
-      "published": "2026-08-08T13:07:44+00:00",
-      "score": 1.82,
-      "tags": [
-        "tension"
-      ]
     }
   ],
   "brent": {
-    "price": 88.86,
-    "change_pct": -0.06
+    "price": 89.11,
+    "change_pct": 0.22
   }
 }
