@@ -1,27 +1,17 @@
 {
   "status": "OPEN",
   "label": "Normal traffic",
-  "tension_index": -42.7,
+  "tension_index": -29.6,
   "closure_signals": 5,
-  "articles_scanned": 221,
-  "updated": "2026-08-12T14:17:01.405695+00:00",
+  "articles_scanned": 214,
+  "updated": "2026-08-12T15:27:29.664307+00:00",
   "headlines": [
     {
-      "title": "Uniper CEO predicts high gas prices as long as Strait of Hormuz shut - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS19ZUksxSnliT05sLVlKZ2JFeVdpU0l0elN5Y1o1UVRXU3NjMGFVMndlUWxNSkFhUzdkRnBsaEs1Y3Z5ampPSFZpR0tXVnpENldMdEtNR2d4M1NmakRteWx5cEM5T29wdWpzbmFkSko4aElxb0JWWTlLN2FmYVY3R2xzS21SaHlsRVlpeEFkQ3hUUllwQjExdGpPeTBkemdZOGRPOEZ4NkFnZ0ozQ2c?oc=5",
-      "source": "Reuters",
-      "published": "2026-08-11T11:29:01+00:00",
-      "score": 9.84,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Iran keeps Strait of Hormuz closed, presses U.S. for major concessions - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRnFqN2lqcGxreDVjUVNGQnhOT2Q4VEhvb3htSDNOczBjYWZpYjFaVkxoUVhjbm9fNFZqZ1RJZWVkTF9MeVlKS1dtSEdmOTd0eGhDSUI0Sk5HQzFkWF9yT09RaWY5TlZsOE1USDZYLTVSR3NzZHZGaGhQTzFyaERzbGVUU0NLNTJhMXpRTTRELWNzbXJQandJMmY1d0EzY3lZZXBrYWRJeHk?oc=5",
-      "source": "CBS News",
-      "published": "2026-08-10T03:14:00+00:00",
-      "score": 8.05,
+      "title": "Iran: Strait of Hormuz Closed until US Accepts Iran\u2019s Conditions - \u0627\u0633\u0644\u0627\u0645 \u062a\u0627\u064a\u0645\u0632",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSzUyOUM2d1N6ZzkwNUNnWlNyM1RPeDNjTFphV1NEbWhuWFhtaG1TdFE4a2RSamFydE1tSkE1MTRtUzVpZmhnRFVkd1FkOWJ5bHBpUW9IeXBqUGh1ckVENTQzTHloRjF3ZXVCajhHZTRQb1dyZFhlQlFILUlsVng5NF9GU0c3a2dqZjhvNFVHSU15NzVBc3QyaE9VT2o1X2thd19ldlJLem1fdw?oc=5",
+      "source": "\u0627\u0633\u0644\u0627\u0645 \u062a\u0627\u064a\u0645\u0632",
+      "published": "2026-08-12T11:44:53+00:00",
+      "score": 10.0,
       "tags": [
         "closure"
       ]
@@ -37,11 +27,21 @@
       ]
     },
     {
+      "title": "Iran keeps Strait of Hormuz closed, presses U.S. for major concessions - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRnFqN2lqcGxreDVjUVNGQnhOT2Q4VEhvb3htSDNOczBjYWZpYjFaVkxoUVhjbm9fNFZqZ1RJZWVkTF9MeVlKS1dtSEdmOTd0eGhDSUI0Sk5HQzFkWF9yT09RaWY5TlZsOE1USDZYLTVSR3NzZHZGaGhQTzFyaERzbGVUU0NLNTJhMXpRTTRELWNzbXJQandJMmY1d0EzY3lZZXBrYWRJeHk?oc=5",
+      "source": "CBS News",
+      "published": "2026-08-10T03:14:00+00:00",
+      "score": 7.99,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
       "title": "Iranian leaders demand U.S. pay for war damage or will keep Strait of Hormuz closed - CBS News",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcExuVkhsVURCdE9CWmRqbm91YnFZc2o0cFEtVXJUNEVzdjJYSEk4TTNvOThtdzI4Um44Q01KYlBHZ0Q0NVpUVTNrT3RxQWhzXzVuMVZiR3EyYllhR1Z6aUpUOWRIdkFaQ1QtdTNCX3ptVlRnNVhoYWtRa0RJUFpPdWNKeGpXYTFTNTRaVWhhMERHYjhyd1dRQ3lQZ20wWkp5RWc?oc=5",
       "source": "CBS News",
       "published": "2026-08-10T00:37:00+00:00",
-      "score": 7.91,
+      "score": 7.84,
       "tags": [
         "closure"
       ]
@@ -51,7 +51,7 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZzREeGZUcl95WmtZRGZabUR3NXhwWFNiallMWG83WUhETlQxVVliRDhfcTlIcHJNdnRwa2VXcUNhcE5WZFNjdS1BejZKU1RtY2RuWUU2TDlUSG5YNURneWkwSXB4cjhyb2lmbV9BXzlnSG1nMmEwMkQzUDJRdWYwQ2g2aTIyVGpjSW5JS3oxeEMxbGdRd0pfZW9vcUk?oc=5",
       "source": "IranWire",
       "published": "2026-08-11T08:39:34+00:00",
-      "score": 5.81,
+      "score": 5.77,
       "tags": [
         "closure"
       ]
@@ -61,7 +61,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTHhPUWdacm9BTElRZzJDVGhhTWgwSmRoVVk4elZwR3dmNS1pcHgxaFVCbHNXTkhwQkI5ZDBsb09vdFVMRU1GbWkwUHdDYmFpT1NqZnlQdlJGbk1kODcwSHoxRS1KT1BOUlVIY1BfeUJtRW9IanV6X1hobHBwU0Z4TTQ1a2NiU1pHRkJwUGFZdGhTWFR4YklwRXNMR3ZjcmxnV2JtV0Vmb3U0Mk3SAbABQVVfeXFMT0xUN3ByZmZSZmlMRVZNUmNybmQ1aGUyRFdEY0NrcE1SSloyQVo4cnM1VkZRTk9TVDlOQ2pHNjdYcHVNNFdTajd5XzhIeUI3c3RET25BZGxFbDdiSDFFSm0tZzJOV3Rxa1hEWTBHRzlUUk9Wb3c4RlpETXZSa3JTZV9UcTZzaDk5aEpFTHdPWTVTX2w5a1FYckRjd3gtYWhRV0pycEpGU2VReHpWZ0x1TnQ?oc=5",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "published": "2026-08-07T16:04:46+00:00",
-      "score": 3.81,
+      "score": 3.76,
       "tags": [
         "closure"
       ]
@@ -71,7 +71,7 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON0pPV0R0aC02SFNUNzZwUkNUdFNadFAwZ1hhR3BOWnJ3NkdXQmJPRFhZQmpjeUNhWnAwSlVONHBVWk9KMXBILVFMOU1ramJ5aDlCNmlzb2dOOWVXV2JlZUlmbWpacEptV1U2SnJUMHUyOVhsTEJzY0tGcU90bTZWcnFTbktzM2VjQTludnRGc3JKUnRGVjczSEtOOUhySnVKdUphcGVUN0hPcmJHdHl0MEJIeEFWZW_SAbwBQVVfeXFMUHQwSDFOdVJxQTZITGY4UTE2YVRjUnNtRl9GWEY4bmplSG1rXzRDQ1Fpb0ZfZ2I2V3UzUWFGZTNhXzdTWVNrNGNaNmRVMk1OZW9aUDdoaGdVOXFwaHFYUmlGR1NDd0VrTkNKUmZrNHpHU2hmaWNoYm9fZWdvS0s1OW1nMnlFaHFHUDVOZ3E1RTNjMDdRa1ZteDRrVEhUekxTbVAydUQtNnpwaWlKOFlmbll2MWdZSi1FSDhCTnY?oc=5",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "published": "2026-08-10T06:30:00+00:00",
-      "score": 3.29,
+      "score": 3.27,
       "tags": [
         "tension"
       ]
@@ -128,7 +128,7 @@
     }
   ],
   "brent": {
-    "price": 88.53,
-    "change_pct": -0.43
+    "price": 88.97,
+    "change_pct": 0.07
   }
 }
