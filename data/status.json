@@ -1,10 +1,10 @@
 {
   "status": "ELEVATED",
   "label": "Elevated tension",
-  "tension_index": 12.0,
+  "tension_index": 10.4,
   "closure_signals": 5,
-  "articles_scanned": 208,
-  "updated": "2026-08-13T14:18:52.877903+00:00",
+  "articles_scanned": 212,
+  "updated": "2026-08-13T15:29:13.886623+00:00",
   "headlines": [
     {
       "title": "Iran Keeps Strait of Hormuz Blocked After Trump Declares Deal Over: how 16 outlets framed it - NewsCord",
@@ -17,11 +17,11 @@
       ]
     },
     {
-      "title": "Iran: Strait of Hormuz Closed until US Accepts Iran\u2019s Conditions - \u0627\u0633\u0644\u0627\u0645 \u062a\u0627\u064a\u0645\u0632",
+      "title": "Iran: Strait of Hormuz Closed until US Accepts Iran\u2019s Conditions - islamtimes.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSzUyOUM2d1N6ZzkwNUNnWlNyM1RPeDNjTFphV1NEbWhuWFhtaG1TdFE4a2RSamFydE1tSkE1MTRtUzVpZmhnRFVkd1FkOWJ5bHBpUW9IeXBqUGh1ckVENTQzTHloRjF3ZXVCajhHZTRQb1dyZFhlQlFILUlsVng5NF9GU0c3a2dqZjhvNFVHSU15NzVBc3QyaE9VT2o1X2thd19ldlJLem1fdw?oc=5",
-      "source": "\u0627\u0633\u0644\u0627\u0645 \u062a\u0627\u064a\u0645\u0632",
+      "source": "islamtimes.com",
       "published": "2026-08-12T11:44:53+00:00",
-      "score": 9.86,
+      "score": 9.79,
       "tags": [
         "closure"
       ]
@@ -31,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeEJqMk5udTFzRkRCQkM3bTFuOTRNOGJ4ZC1rVjZyTzZPN1BRQmV0Yjd1V0VBQ1JSd0p2eVJOeEZ6VDYyOGVxODFaOGxTWURWbTA0d0tzS2lRNGlkMXFBSDVPNHlGVTdPeDdsei1lMW9ST2c2Z3owQTMwQTR2RXZIamF6b3UzT0tqTGZwOTNjZVpCdVJERndWV2djS3ZEOTFqUkVydVNBREM0bFBzTHhEdXBNUjZiVHRzUFJvY1lxR3U5NS1Pa0xfSDZWdjYzYmJzSnQyLTJBSHREbE1SOEVZajc2a2RySklTV2c?oc=5",
       "source": "Public Radio East",
       "published": "2026-08-12T10:53:00+00:00",
-      "score": 7.85,
+      "score": 7.8,
       "tags": [
         "closure"
       ]
@@ -41,7 +41,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRnFqN2lqcGxreDVjUVNGQnhOT2Q4VEhvb3htSDNOczBjYWZpYjFaVkxoUVhjbm9fNFZqZ1RJZWVkTF9MeVlKS1dtSEdmOTd0eGhDSUI0Sk5HQzFkWF9yT09RaWY5TlZsOE1USDZYLTVSR3NzZHZGaGhQTzFyaERzbGVUU0NLNTJhMXpRTTRELWNzbXJQandJMmY1d0EzY3lZZXBrYWRJeHk?oc=5",
       "source": "CBS News",
       "published": "2026-08-10T03:14:00+00:00",
-      "score": 6.72,
+      "score": 6.65,
       "tags": [
         "closure"
       ]
@@ -51,7 +51,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcExuVkhsVURCdE9CWmRqbm91YnFZc2o0cFEtVXJUNEVzdjJYSEk4TTNvOThtdzI4Um44Q01KYlBHZ0Q0NVpUVTNrT3RxQWhzXzVuMVZiR3EyYllhR1Z6aUpUOWRIdkFaQ1QtdTNCX3ptVlRnNVhoYWtRa0RJUFpPdWNKeGpXYTFTNTRaVWhhMERHYjhyd1dRQ3lQZ20wWkp5RWc?oc=5",
       "source": "CBS News",
       "published": "2026-08-10T00:37:00+00:00",
-      "score": 6.57,
+      "score": 6.51,
       "tags": [
         "closure"
       ]
@@ -61,7 +61,7 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNWtjVlplM0ZSZXh4N3RtdjREejJJLTY2NDgyaTZKV1JTa0xPa2VrM0ZYX09FSDJoTG9SS014amJkZ0xpbUctNkNpY2tkMHRHMzdCVzdvVVBla29iYTNpdGx2VURuN0htUjQ2OVVuZEdOQzBud1dsaFM1MWMydl9LMkJRVXJEMWhXNS11YlR6Y2RxeVlOaFp0UklnVVFPV0NaUGtPcThkQkdxck1NbjNwSDBxcUtDTm1BZ3FOM3FBX3dpX1FPd0x6SEJubUfSAdIBQVVfeXFMTVBuclA5ZHd1UDh6eWNXc1BXR095X3g0TWIycXJZTUF2bEhyLTJrS182aExlbFBNSFpZM0J3SHhRczI1YW8xZGlYY3hBbGE5NVBMT0U5WkZXbFRsT1ctQXJ6S2ZDb1pRaURaM2lnUVpTVEQ3V29ONUlJaU1EaXg2WEEyYXhXMmROS09kX0t5dmJWWG5FalRBYjVnNVUtRnppTUZUdUZPTEl4SjU5LTlIRkZSWThheUlRZ08tQ05ZN011S2Y2RjNHaGRqUnREcDlqTTBR?oc=5",
       "source": "Firstpost",
       "published": "2026-08-12T12:31:13+00:00",
-      "score": 2.97,
+      "score": 2.95,
       "tags": [
         "tension"
       ]
@@ -71,7 +71,7 @@
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5IcjBTNWs4R3N2UXNNQmw0X3l3Tml3TDYyODJKLXF3MjQ2MUZjblB0Rl9zTFdnelVHNkZMVzZTbExZRHFKZldseWJqbFZLUEt5SkdWd2xRNA?oc=5",
       "source": "UN News",
       "published": "2026-08-12T12:25:04+00:00",
-      "score": 2.97,
+      "score": 2.95,
       "tags": [
         "tension"
       ]
@@ -81,7 +81,7 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSGtLT21UUTZ1QlQ3UVd6akpNcnhtNzI0aFNidjRHeWExendmSDhoT3VNZmt0VHVkdFk4LS1YVGdveE9uY1VYdUJrWnV2ZGlRanVTZmxmUTB1dzNCNnRDOUg1R2hUS3ZXeHdEMkcwdWZodzNOam9qOTN2TjJlMkNCY25PbzRVNG81RVFMd1NR0gGTAUFVX3lxTE5YekViUjgwbV9GLWVWUmplY0d3Nm9ka1lxQmRFMHVrNzFTWHhiSU1JMVpDbllZRGF2MGtkNW4yakJidmF5LTJsbUk2YVRSQ214ZHQyQzRwczRzYVRTZFJUWk5pNHRMZzZpcXRvX2cwbF9PYzByQlNLNUpvOE1lSGQ3Zk9rUFJsMkdBVFo4ZkMtZnQ1TQ?oc=5",
       "source": "CNBC",
       "published": "2026-08-12T05:10:09+00:00",
-      "score": 2.85,
+      "score": 2.83,
       "tags": [
         "tension"
       ]
@@ -91,19 +91,9 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTHhPUWdacm9BTElRZzJDVGhhTWgwSmRoVVk4elZwR3dmNS1pcHgxaFVCbHNXTkhwQkI5ZDBsb09vdFVMRU1GbWkwUHdDYmFpT1NqZnlQdlJGbk1kODcwSHoxRS1KT1BOUlVIY1BfeUJtRW9IanV6X1hobHBwU0Z4TTQ1a2NiU1pHRkJwUGFZdGhTWFR4YklwRXNMR3ZjcmxnV2JtV0Vmb3U0Mk3SAbABQVVfeXFMT0xUN3ByZmZSZmlMRVZNUmNybmQ1aGUyRFdEY0NrcE1SSloyQVo4cnM1VkZRTk9TVDlOQ2pHNjdYcHVNNFdTajd5XzhIeUI3c3RET25BZGxFbDdiSDFFSm0tZzJOV3Rxa1hEWTBHRzlUUk9Wb3c4RlpETXZSa3JTZV9UcTZzaDk5aEpFTHdPWTVTX2w5a1FYckRjd3gtYWhRV0pycEpGU2VReHpWZ0x1TnQ?oc=5",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "published": "2026-08-07T16:04:46+00:00",
-      "score": 2.75,
+      "score": 2.69,
       "tags": [
         "closure"
-      ]
-    },
-    {
-      "title": "US strikes Iran-bound ship as mediators signal Hormuz breakthrough - Iran International",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByaWR6NWxFbEVVdVFzYnU3LV9PekdXZDZuMVdhRWwwY2NBc3RJMEdBYkRNdUNDTkJwZWp5dnVrZWNXQTdEQUtsbE5UQkpld1hUUVE?oc=5",
-      "source": "Iran International",
-      "published": "2026-08-11T20:30:55+00:00",
-      "score": 2.7,
-      "tags": [
-        "tension"
       ]
     },
     {
@@ -111,7 +101,7 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRHFrRUdwdTRkajMzeEp3RUlPbjNsVXRhWDFqc3ROUjdYTlBIc2NMSkU5M3RtMjhzVWxFdEE4aUppLWNjbkdKNzN3NURIZlpjLXctUkt2bmI3SUJXMjBUNUg0QW1pblhKUGRtanVNYUdjYkZmUFU2SDE1QUFfOUdOb3NGQzBNc3E2bGcyXzZwc9IBlAFBVV95cUxQUGpVYUdqTjlyMlNZTHdUSXVmelNRTVk3bnl1bTA2SWRPbUs2SDBzZ0dvWFg0TTRrX1J5UWFuV2RQZlVaeGdwVXdpZ0RoWmk4eklEVE1OVFoxYUFNaHMwRVprZWFUYkptMzJmWWxRNktHZFV2X0F4Y245c08wSlREcWd2TkJpNTlBMmdNRE1uZlNvd01M?oc=5",
       "source": "NewsNation",
       "published": "2026-08-11T19:20:09+00:00",
-      "score": 2.68,
+      "score": 2.66,
       "tags": [
         "tension"
       ]
@@ -121,14 +111,24 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdTVnOGNlUjBiaWY5N3h5bmNxWm1BckxCVE9uYlRrb3VwZUxIN0VXTXBXekpEYU1sYm5uYXZ1R2dVNXJKZ3JzR0UxM3cwQ2RpSno3QTM5S05jU0ZCdEtfVmY4YTZ0MG9adl9IUzN1Rk1KYTFpWkFZTjFIMExSX0lCVGI5MEplMWFZYkJocVNnUnNFN3FsTTRuTU9ycktocjAzSWV5UA?oc=5",
       "source": "gCaptain",
       "published": "2026-08-11T16:40:23+00:00",
-      "score": 2.64,
+      "score": 2.62,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "New attacks on shipping as Iran war talks hit fresh impasse - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzI4ZllHeXZmVDVJVE40M0w5NkYtdkFzM0RyYlZvY1pXbEJoc1d4RHNvVWxTem1kMEhGNUxmc0tZZmZ2ZkpZamtDNkd6bjRTVXhCVEF6dGhOSXltR0RQc3RPc0RFUzctZ00xRjAzX0hwNy1oYlU0a0dMYU9iUjdqYXZ4ZWM5YXhBMUhEREduYVo2QkVsT2ktQ19NaFNpUF85TmhFcnF1REktbFZfRklXb0EtbzZsLUZ1Vk53TFRR?oc=5",
+      "source": "Reuters",
+      "published": "2026-08-11T15:18:00+00:00",
+      "score": 2.6,
       "tags": [
         "tension"
       ]
     }
   ],
   "brent": {
-    "price": 85.9,
-    "change_pct": -3.46
+    "price": 88.15,
+    "change_pct": -0.93
   }
 }
