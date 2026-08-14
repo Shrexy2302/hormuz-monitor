@@ -1,10 +1,10 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 42.7,
+  "tension_index": 39.8,
   "closure_signals": 2,
   "articles_scanned": 198,
-  "updated": "2026-08-14T21:18:31.347004+00:00",
+  "updated": "2026-08-14T21:47:31.982121+00:00",
   "headlines": [
     {
       "title": "IRGC Navy Commander Declares Strait of Hormuz Closed, Dismisses U.S. Claims - WANA News Agency",
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRl9UNlJQOWowcHhnUjVFSF9MVXVnX0dSdFNlUDh5V1lqWE1udlZUVmlnLVItZHBQalQwZUdJWC1PX0E2eC01VjNnVEU3b0E0VUtSaUk0WHFNZU1UNU1xeHIzLTNsYWpVQ3p4cjRvVFE0RkNQaTNMb3M3bjk5dS1uM0VGcHJxZFJQelc4Z25zbWZrM3FoZ29CT1lXV2JEQUhxNHdGa2VnWklzNmNrSW96WS1lbWNBVTVsYTBGZWdwMUg1dHhBWmdlNG5LLTNWMkcwVkdleGNQaW5ucnp3RjJwdUhiZnlHQQ?oc=5",
       "source": "NewsCord",
       "published": "2026-08-13T09:52:48+00:00",
-      "score": 9.37,
+      "score": 9.34,
       "tags": [
         "closure"
       ]
@@ -31,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcExuVkhsVURCdE9CWmRqbm91YnFZc2o0cFEtVXJUNEVzdjJYSEk4TTNvOThtdzI4Um44Q01KYlBHZ0Q0NVpUVTNrT3RxQWhzXzVuMVZiR3EyYllhR1Z6aUpUOWRIdkFaQ1QtdTNCX3ptVlRnNVhoYWtRa0RJUFpPdWNKeGpXYTFTNTRaVWhhMERHYjhyd1dRQ3lQZ20wWkp5RWc?oc=5",
       "source": "CBS News",
       "published": "2026-08-10T00:37:00+00:00",
-      "score": 4.85,
+      "score": 4.82,
       "tags": [
         "closure"
       ]
@@ -107,20 +107,20 @@
       ]
     },
     {
-      "title": "2 UAE tankers attacked while transiting Strait of Hormuz, and other news from the Middle East - Audacy",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVGdpTGVOT3RfT2tCWThJS1hqMVNYTWNRUDRzLVVaMjZUSHZRLU1MRDF5M0twbGNkaWVBdVhKalR3SEFLblBVZGhpLVVQajFBU3hOLWVBNkViR1NrRWZIVl81QktvclhpMkFEVVJlWlZLeWdzaVpjdmlsd01OQVFRRXVIUTNDWHVVNG1CSERKY1p5eTM5Z3BJQlZzdDlnUl9YdTMxLU45U2JiQWFtcnlpUTdn?oc=5",
-      "source": "Audacy",
-      "published": "2026-08-14T09:07:00+00:00",
+      "title": "Tanker Targeted in Attack Near Strait of Hormuz - WANA News Agency",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xTDVNd1Y5c2lWdWZUYkdEbzdBZzRYZ2Zsekx5VWh2dGZKYWw0MFB3Rms3OGRSQW1xaW9xaGF6cTR1bkRmcThfY0dTME4tMWZQLWhxLVJKT0xFOGJjYVBPZ1ZLMVhCSDFEbGF2cE9GZVdHUlUtekE?oc=5",
+      "source": "WANA News Agency",
+      "published": "2026-08-14T09:03:08+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Tanker Targeted in Attack Near Strait of Hormuz - WANA News Agency",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xTDVNd1Y5c2lWdWZUYkdEbzdBZzRYZ2Zsekx5VWh2dGZKYWw0MFB3Rms3OGRSQW1xaW9xaGF6cTR1bkRmcThfY0dTME4tMWZQLWhxLVJKT0xFOGJjYVBPZ1ZLMVhCSDFEbGF2cE9GZVdHUlUtekE?oc=5",
-      "source": "WANA News Agency",
-      "published": "2026-08-14T09:03:08+00:00",
+      "title": "Tanker hit by drone while exiting Strait of Hormuz: UK maritime agency - Anadolu Ajans\u0131",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbU5pSmRaOXJfck5NVXluYkFmNlVRMnhVT19KcnZ1RDVjaUh1VXVxemNYZ3ZfRDZwN2R4LUFnbnB1djQ1ZUdJbEE5TDBYdVpuY3hyYzREWjMxb2lpUVpsQld1ZWVibGk5c1k1LUJYejZfbVFpUVE4ZFRNeml5N2gzRm04cXJwazY3WE45OExlVzN6aXg5ellQX25rdkEzZzRqR3RLYkQybkxfYXVlb245cjRodTM?oc=5",
+      "source": "Anadolu Ajans\u0131",
+      "published": "2026-08-14T08:31:26+00:00",
       "score": 3.0,
       "tags": [
         "tension"
