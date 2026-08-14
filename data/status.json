@@ -1,10 +1,10 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 40.0,
+  "tension_index": 40.1,
   "closure_signals": 2,
-  "articles_scanned": 197,
-  "updated": "2026-08-14T22:46:57.447750+00:00",
+  "articles_scanned": 199,
+  "updated": "2026-08-14T23:14:44.955521+00:00",
   "headlines": [
     {
       "title": "IRGC Navy Commander Declares Strait of Hormuz Closed, Dismisses U.S. Claims - WANA News Agency",
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRl9UNlJQOWowcHhnUjVFSF9MVXVnX0dSdFNlUDh5V1lqWE1udlZUVmlnLVItZHBQalQwZUdJWC1PX0E2eC01VjNnVEU3b0E0VUtSaUk0WHFNZU1UNU1xeHIzLTNsYWpVQ3p4cjRvVFE0RkNQaTNMb3M3bjk5dS1uM0VGcHJxZFJQelc4Z25zbWZrM3FoZ29CT1lXV2JEQUhxNHdGa2VnWklzNmNrSW96WS1lbWNBVTVsYTBGZWdwMUg1dHhBWmdlNG5LLTNWMkcwVkdleGNQaW5ucnp3RjJwdUhiZnlHQQ?oc=5",
       "source": "NewsCord",
       "published": "2026-08-13T09:52:48+00:00",
-      "score": 9.28,
+      "score": 9.26,
       "tags": [
         "closure"
       ]
@@ -31,16 +31,16 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcExuVkhsVURCdE9CWmRqbm91YnFZc2o0cFEtVXJUNEVzdjJYSEk4TTNvOThtdzI4Um44Q01KYlBHZ0Q0NVpUVTNrT3RxQWhzXzVuMVZiR3EyYllhR1Z6aUpUOWRIdkFaQ1QtdTNCX3ptVlRnNVhoYWtRa0RJUFpPdWNKeGpXYTFTNTRaVWhhMERHYjhyd1dRQ3lQZ20wWkp5RWc?oc=5",
       "source": "CBS News",
       "published": "2026-08-10T00:37:00+00:00",
-      "score": 4.77,
+      "score": 4.74,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "2 UAE tankers attacked while transiting Strait of Hormuz, and other news from the Middle East - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU19BM2l2RGhNUW5aWGxpdXJRU1QwVWtzekJ1ckw2bUdzWlhBSWcxX3U3T1JVblRkYW92MEhkaS1rakhweUN6MnlYc0xVbzVQcUtwdXRBbGFPUzV5T2Q5a3lmbVNqdE0zZFgyT0J3OGt6bzlwT1dWb2dtdVBieEtuOVFQXzdlNFdzUm8tU3FrV1JQS1hEUGpscjl3Q1BRczR4RlE?oc=5",
-      "source": "AP News",
-      "published": "2026-08-14T19:35:00+00:00",
+      "title": "Two More Tankers Attacked in the Strait of Hormuz - The Maritime Executive",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOXhnaEtqWDRzM0Z0ZmZGbmVhVUhxZGtlS2hOdEg1WDlrVkxOcjIyLTBxcG5DOS1nLW56ZTdnS3dDcmZpS2VsTWhNR09mbTl6Ym1EaGV5WDYyVmZvSE5CczBjaFZwMzJFczQtR1A5RE1yQWNNMmxrNWZkVkJlcjQ2R2liemJiSTdoTjNtVlUtQjNydw?oc=5",
+      "source": "The Maritime Executive",
+      "published": "2026-08-14T23:04:00+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -51,16 +51,6 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON2pvV0t4T25LdUVjOHpBU2tzN1RER1ZRQWF3cGZ3aEVZUm1JRXJXSk5xdWxaV3VEbEFMWHAtUkZ6MlpKX0VVRWlmNklKaUM3R3hER1o2WkEydXl0ZzZiS3NpNVNVdm80ck55SktBekVZbG1SaDdVdTJJOWJuUDMyV0RLNlJ5QkpYNUxGVjFQUHNQTWg1bVlJT3RXcXkyNkEwcUFtSGhLOXpWUno0LThMelpqWWRoQW8?oc=5",
       "source": "Reuters",
       "published": "2026-08-14T19:21:47+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iranian Attacks Push Hormuz Shipping Toward Tehran-Controlled Route - gCaptain",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX1pkemR2TWJWLUdoZ3cxVjF6MnhSNDJjSUtzRXU4c1dGQWszTlU1QzZmQVRSUzF3YmJ6TUZlWEtFRTF6MUNZbzNHQkhUa1FrN3pndEhUYTJSLUZPLW0tWWN5YXV2dHZBb3pnSXl2QXRBYzdQVnBOLVpNN1V2ZkNxYlpNT0Zwc2dtYnpFcW1YTnNtRE0?oc=5",
-      "source": "gCaptain",
-      "published": "2026-08-14T17:44:35+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -81,6 +71,16 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11SkdOenRYTGNZZUQxbmRaLXpKVjRkQ3JzZlUxVVh1WGFHVTZBWlpZTlU2ZTdkZmwwN3RoYVI3QkxMbE9Id0RlNV9BWEFMaEJpTFdLdzhKNHZwZEhaamZvQ25LeUJ4eUVrRTU5Zk1ucnRtLTBsRGVFRUJYSDBEZ9IBgwFBVV95cUxQUndhM3RvS2wzeGRjbGVrSkFjTjRWWWgzeTVlTmotRnl4ZEM5dUlXOXpvUW5rWXZJT09waDJWYWw2bFNhZnh3bG4xSjhTekVjcGh3VWY3Znl1LXpaNHoxVjRHekU1XzVyNm9sZ1E4WTVFRWNUY1ppaldGYjN4S0JwTWFrZw?oc=5",
       "source": "NewsNation",
       "published": "2026-08-14T15:12:55+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "2 UAE tankers attacked while transiting Strait of Hormuz, and other news from the Middle East - apnews.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU19BM2l2RGhNUW5aWGxpdXJRU1QwVWtzekJ1ckw2bUdzWlhBSWcxX3U3T1JVblRkYW92MEhkaS1rakhweUN6MnlYc0xVbzVQcUtwdXRBbGFPUzV5T2Q5a3lmbVNqdE0zZFgyT0J3OGt6bzlwT1dWb2dtdVBieEtuOVFQXzdlNFdzUm8tU3FrV1JQS1hEUGpscjl3Q1BRczR4RlE?oc=5",
+      "source": "apnews.com",
+      "published": "2026-08-14T14:07:20+00:00",
       "score": 3.0,
       "tags": [
         "tension"
