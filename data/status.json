@@ -1,17 +1,17 @@
 {
-  "status": "CLOSED",
-  "label": "Closure reported",
-  "tension_index": 31.9,
-  "closure_signals": 3,
-  "articles_scanned": 203,
-  "updated": "2026-08-14T18:14:17.269411+00:00",
+  "status": "DISRUPTED",
+  "label": "Major disruption reported",
+  "tension_index": 33.8,
+  "closure_signals": 2,
+  "articles_scanned": 202,
+  "updated": "2026-08-14T19:26:21.718896+00:00",
   "headlines": [
     {
       "title": "Iran Keeps Strait of Hormuz Blocked After Trump Declares Deal Over: how 16 outlets framed it - NewsCord",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRl9UNlJQOWowcHhnUjVFSF9MVXVnX0dSdFNlUDh5V1lqWE1udlZUVmlnLVItZHBQalQwZUdJWC1PX0E2eC01VjNnVEU3b0E0VUtSaUk0WHFNZU1UNU1xeHIzLTNsYWpVQ3p4cjRvVFE0RkNQaTNMb3M3bjk5dS1uM0VGcHJxZFJQelc4Z25zbWZrM3FoZ29CT1lXV2JEQUhxNHdGa2VnWklzNmNrSW96WS1lbWNBVTVsYTBGZWdwMUg1dHhBWmdlNG5LLTNWMkcwVkdleGNQaW5ucnp3RjJwdUhiZnlHQQ?oc=5",
       "source": "NewsCord",
       "published": "2026-08-13T09:52:48+00:00",
-      "score": 9.54,
+      "score": 9.47,
       "tags": [
         "closure"
       ]
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSzUyOUM2d1N6ZzkwNUNnWlNyM1RPeDNjTFphV1NEbWhuWFhtaG1TdFE4a2RSamFydE1tSkE1MTRtUzVpZmhnRFVkd1FkOWJ5bHBpUW9IeXBqUGh1ckVENTQzTHloRjF3ZXVCajhHZTRQb1dyZFhlQlFILUlsVng5NF9GU0c3a2dqZjhvNFVHSU15NzVBc3QyaE9VT2o1X2thd19ldlJLem1fdw?oc=5",
       "source": "\u0627\u0633\u0644\u0627\u0645 \u062a\u0627\u064a\u0645\u0632",
       "published": "2026-08-12T11:44:53+00:00",
-      "score": 8.31,
+      "score": 8.24,
       "tags": [
         "closure"
       ]
@@ -31,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcExuVkhsVURCdE9CWmRqbm91YnFZc2o0cFEtVXJUNEVzdjJYSEk4TTNvOThtdzI4Um44Q01KYlBHZ0Q0NVpUVTNrT3RxQWhzXzVuMVZiR3EyYllhR1Z6aUpUOWRIdkFaQ1QtdTNCX3ptVlRnNVhoYWtRa0RJUFpPdWNKeGpXYTFTNTRaVWhhMERHYjhyd1dRQ3lQZ20wWkp5RWc?oc=5",
       "source": "CBS News",
       "published": "2026-08-10T00:37:00+00:00",
-      "score": 5.02,
+      "score": 4.95,
       "tags": [
         "closure"
       ]
@@ -40,7 +40,7 @@
       "title": "2 UAE tankers attacked while transiting Strait of Hormuz, and other news from the Middle East - AP News",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU19BM2l2RGhNUW5aWGxpdXJRU1QwVWtzekJ1ckw2bUdzWlhBSWcxX3U3T1JVblRkYW92MEhkaS1rakhweUN6MnlYc0xVbzVQcUtwdXRBbGFPUzV5T2Q5a3lmbVNqdE0zZFgyT0J3OGt6bzlwT1dWb2dtdVBieEtuOVFQXzdlNFdzUm8tU3FrV1JQS1hEUGpscjl3Q1BRczR4RlE?oc=5",
       "source": "AP News",
-      "published": "2026-08-14T17:28:00+00:00",
+      "published": "2026-08-14T18:23:00+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -77,9 +77,19 @@
       ]
     },
     {
-      "title": "Oil prices swing on 2 tanker attacks in Strait of Hormuz - Transport Topics",
+      "title": "US Warns Iran It Will Step Up Economic Pressure; Two More Ships Attacked in Hormuz - gcaptain.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcWtKWUhsWmZtcDdzSUNjSFA1Z2JPbTJzNzVtYXMtYlIwM0pDaV8xRkV4bDBlRHJWTW53UmRuYjBOSTNfaC15Vm9yZldFZUM1a2FEdmt4bEs2b3pXcGN5Z2l6cmNqWTVBWnFYU2QybzVNY0tpT1YteHNPaUlaRENXNll3a1NfdzBYVnY5Q1pudW1KZFdCZmFRWnR0Y0ZMMWIzS1VvQjJB?oc=5",
+      "source": "gcaptain.com",
+      "published": "2026-08-14T12:24:05+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Oil prices swing on 2 tanker attacks in Strait of Hormuz - ttnews.com",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aa2xyMEVQcGQzVTdRNjhDY0hIbDU3Q3Vfa0pzRG9MdXVfcjAzSVJyWXdJZ25adHBOOVQzMHZLNFhrOGZpdmY1Y0ZfQVh5UVh1QmhJMFpaV1FxLTNlODhSd2MxMks3bkZJWWdNVg?oc=5",
-      "source": "Transport Topics",
+      "source": "ttnews.com",
       "published": "2026-08-14T12:12:00+00:00",
       "score": 3.0,
       "tags": [
@@ -115,20 +125,10 @@
       "tags": [
         "tension"
       ]
-    },
-    {
-      "title": "Tanker hit by drone in Strait of Hormuz - UKMTO - iranintl.com",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0TE5wSm1tRzI0Y3lhVW1xekxtZENaTzBRMDg3ay0wcWhndnBvTVk1U3NMUFVaS2NXbk9KRkprLVNwVnY1WFZRQzZNWWVLal9YS0E?oc=5",
-      "source": "iranintl.com",
-      "published": "2026-08-14T08:02:14+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
     }
   ],
   "brent": {
-    "price": 88.18,
-    "change_pct": 1.27
+    "price": 88.49,
+    "change_pct": 1.63
   }
 }
