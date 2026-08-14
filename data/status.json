@@ -1,13 +1,134 @@
 {
-  "status": "OPEN",
-  "label": "Normal traffic",
-  "tension_index": 0.0,
-  "closure_signals": 0,
-  "articles_scanned": 0,
-  "updated": "2026-08-14T16:13:16.000894+00:00",
-  "headlines": [],
+  "status": "CLOSED",
+  "label": "Closure reported",
+  "tension_index": 37.5,
+  "closure_signals": 3,
+  "articles_scanned": 204,
+  "updated": "2026-08-14T17:25:25.305754+00:00",
+  "headlines": [
+    {
+      "title": "Iran Keeps Strait of Hormuz Blocked After Trump Declares Deal Over: how 16 outlets framed it - NewsCord",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRl9UNlJQOWowcHhnUjVFSF9MVXVnX0dSdFNlUDh5V1lqWE1udlZUVmlnLVItZHBQalQwZUdJWC1PX0E2eC01VjNnVEU3b0E0VUtSaUk0WHFNZU1UNU1xeHIzLTNsYWpVQ3p4cjRvVFE0RkNQaTNMb3M3bjk5dS1uM0VGcHJxZFJQelc4Z25zbWZrM3FoZ29CT1lXV2JEQUhxNHdGa2VnWklzNmNrSW96WS1lbWNBVTVsYTBGZWdwMUg1dHhBWmdlNG5LLTNWMkcwVkdleGNQaW5ucnp3RjJwdUhiZnlHQQ?oc=5",
+      "source": "NewsCord",
+      "published": "2026-08-13T09:52:48+00:00",
+      "score": 9.58,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iran: Strait of Hormuz Closed until US Accepts Iran\u2019s Conditions - \u0627\u0633\u0644\u0627\u0645 \u062a\u0627\u064a\u0645\u0632",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSzUyOUM2d1N6ZzkwNUNnWlNyM1RPeDNjTFphV1NEbWhuWFhtaG1TdFE4a2RSamFydE1tSkE1MTRtUzVpZmhnRFVkd1FkOWJ5bHBpUW9IeXBqUGh1ckVENTQzTHloRjF3ZXVCajhHZTRQb1dyZFhlQlFILUlsVng5NF9GU0c3a2dqZjhvNFVHSU15NzVBc3QyaE9VT2o1X2thd19ldlJLem1fdw?oc=5",
+      "source": "\u0627\u0633\u0644\u0627\u0645 \u062a\u0627\u064a\u0645\u0632",
+      "published": "2026-08-12T11:44:53+00:00",
+      "score": 8.35,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iranian leaders demand U.S. pay for war damage or will keep Strait of Hormuz closed - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcExuVkhsVURCdE9CWmRqbm91YnFZc2o0cFEtVXJUNEVzdjJYSEk4TTNvOThtdzI4Um44Q01KYlBHZ0Q0NVpUVTNrT3RxQWhzXzVuMVZiR3EyYllhR1Z6aUpUOWRIdkFaQ1QtdTNCX3ptVlRnNVhoYWtRa0RJUFpPdWNKeGpXYTFTNTRaVWhhMERHYjhyd1dRQ3lQZ20wWkp5RWc?oc=5",
+      "source": "CBS News",
+      "published": "2026-08-10T00:37:00+00:00",
+      "score": 5.07,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Oil climbs on tanker attacks, US-Iran claims about Hormuz control - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON2pvV0t4T25LdUVjOHpBU2tzN1RER1ZRQWF3cGZ3aEVZUm1JRXJXSk5xdWxaV3VEbEFMWHAtUkZ6MlpKX0VVRWlmNklKaUM3R3hER1o2WkEydXl0ZzZiS3NpNVNVdm80ck55SktBekVZbG1SaDdVdTJJOWJuUDMyV0RLNlJ5QkpYNUxGVjFQUHNQTWg1bVlJT3RXcXkyNkEwcUFtSGhLOXpWUno0LThMelpqWWRoQW8?oc=5",
+      "source": "Reuters",
+      "published": "2026-08-14T16:34:24+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Drone Attack Targets Oil Tanker Exiting the Strait of Hormuz - IranWire",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdVZrRWk3UWNSV2N0VVVrNEotVFFXQjhrRXJ5Y0lzcVpOM0hYMUx6eUxncjBMMnhRX091eWJmUmpEY1F2NjdydWhkSEJ5TEJyOFNjeklwUFFnZnY2bEJvNmVWR1NzSjNCSEE1QjdXcGJGNTdDV2l2XzVSTVpTdmNtby1IZjJYZGxwNlJ3c0pLSGN0SENmMkNjaFhBVml0Zw?oc=5",
+      "source": "IranWire",
+      "published": "2026-08-14T15:16:25+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "2 UAE tankers attacked while transiting Strait of Hormuz, and other news from the Middle East - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU19BM2l2RGhNUW5aWGxpdXJRU1QwVWtzekJ1ckw2bUdzWlhBSWcxX3U3T1JVblRkYW92MEhkaS1rakhweUN6MnlYc0xVbzVQcUtwdXRBbGFPUzV5T2Q5a3lmbVNqdE0zZFgyT0J3OGt6bzlwT1dWb2dtdVBieEtuOVFQXzdlNFdzUm8tU3FrV1JQS1hEUGpscjl3Q1BRczR4RlE?oc=5",
+      "source": "AP News",
+      "published": "2026-08-14T14:20:00+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Oil prices climb on 2 tanker attacks in Strait of Hormuz - Transport Topics",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aa2xyMEVQcGQzVTdRNjhDY0hIbDU3Q3Vfa0pzRG9MdXVfcjAzSVJyWXdJZ25adHBOOVQzMHZLNFhrOGZpdmY1Y0ZfQVh5UVh1QmhJMFpaV1FxLTNlODhSd2MxMks3bkZJWWdNVg?oc=5",
+      "source": "Transport Topics",
+      "published": "2026-08-14T12:12:30+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Tanker struck by drone while exiting Strait of Hormuz, UK maritime agency says - Muslim Network TV",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR0dkWFY5cWxXdVBoejRNWmplVVNJWERPaFFkYzNydEVieThRejZXQkJmaFVjdWF3NnUyRXc0bUQzNDFpRHVyQkVxbHgtREZIUHFUa290YXJnaGo3VTJ0dWFSUGRIRWROcGpkUEJTV3BMYzgzZTFDTjVQdXlBVWVldm52YnFuaHVJVzUxUVBPQURvY2syUXAzQlVFckwydENJX2dwQjRkZ0NzUWc?oc=5",
+      "source": "Muslim Network TV",
+      "published": "2026-08-14T12:00:00+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "UAE blames Iran for drone attack on tankers in Strait of Hormuz - NewsNation",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11SkdOenRYTGNZZUQxbmRaLXpKVjRkQ3JzZlUxVVh1WGFHVTZBWlpZTlU2ZTdkZmwwN3RoYVI3QkxMbE9Id0RlNV9BWEFMaEJpTFdLdzhKNHZwZEhaamZvQ25LeUJ4eUVrRTU5Zk1ucnRtLTBsRGVFRUJYSDBEZ9IBgwFBVV95cUxQUndhM3RvS2wzeGRjbGVrSkFjTjRWWWgzeTVlTmotRnl4ZEM5dUlXOXpvUW5rWXZJT09waDJWYWw2bFNhZnh3bG4xSjhTekVjcGh3VWY3Znl1LXpaNHoxVjRHekU1XzVyNm9sZ1E4WTVFRWNUY1ppaldGYjN4S0JwTWFrZw?oc=5",
+      "source": "NewsNation",
+      "published": "2026-08-14T10:48:48+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "2 UAE tankers attacked while transiting Strait of Hormuz, and other news from the Middle East - Audacy",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVGdpTGVOT3RfT2tCWThJS1hqMVNYTWNRUDRzLVVaMjZUSHZRLU1MRDF5M0twbGNkaWVBdVhKalR3SEFLblBVZGhpLVVQajFBU3hOLWVBNkViR1NrRWZIVl81QktvclhpMkFEVVJlWlZLeWdzaVpjdmlsd01OQVFRRXVIUTNDWHVVNG1CSERKY1p5eTM5Z3BJQlZzdDlnUl9YdTMxLU45U2JiQWFtcnlpUTdn?oc=5",
+      "source": "Audacy",
+      "published": "2026-08-14T09:07:00+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Tanker Targeted in Attack Near Strait of Hormuz - WANA News Agency",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xTDVNd1Y5c2lWdWZUYkdEbzdBZzRYZ2Zsekx5VWh2dGZKYWw0MFB3Rms3OGRSQW1xaW9xaGF6cTR1bkRmcThfY0dTME4tMWZQLWhxLVJKT0xFOGJjYVBPZ1ZLMVhCSDFEbGF2cE9GZVdHUlUtekE?oc=5",
+      "source": "WANA News Agency",
+      "published": "2026-08-14T09:03:08+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Tanker hit by drone while exiting Strait of Hormuz: UK maritime agency - Anadolu Ajans\u0131",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbU5pSmRaOXJfck5NVXluYkFmNlVRMnhVT19KcnZ1RDVjaUh1VXVxemNYZ3ZfRDZwN2R4LUFnbnB1djQ1ZUdJbEE5TDBYdVpuY3hyYzREWjMxb2lpUVpsQld1ZWVibGk5c1k1LUJYejZfbVFpUVE4ZFRNeml5N2gzRm04cXJwazY3WE45OExlVzN6aXg5ellQX25rdkEzZzRqR3RLYkQybkxfYXVlb245cjRodTM?oc=5",
+      "source": "Anadolu Ajans\u0131",
+      "published": "2026-08-14T08:31:26+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    }
+  ],
   "brent": {
-    "price": 87.74,
-    "change_pct": 0.77
+    "price": 88.25,
+    "change_pct": 1.36
   }
 }
