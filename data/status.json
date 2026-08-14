@@ -1,10 +1,10 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 39.8,
+  "tension_index": 36.9,
   "closure_signals": 2,
-  "articles_scanned": 198,
-  "updated": "2026-08-14T21:47:31.982121+00:00",
+  "articles_scanned": 199,
+  "updated": "2026-08-14T22:15:25.665307+00:00",
   "headlines": [
     {
       "title": "IRGC Navy Commander Declares Strait of Hormuz Closed, Dismisses U.S. Claims - WANA News Agency",
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRl9UNlJQOWowcHhnUjVFSF9MVXVnX0dSdFNlUDh5V1lqWE1udlZUVmlnLVItZHBQalQwZUdJWC1PX0E2eC01VjNnVEU3b0E0VUtSaUk0WHFNZU1UNU1xeHIzLTNsYWpVQ3p4cjRvVFE0RkNQaTNMb3M3bjk5dS1uM0VGcHJxZFJQelc4Z25zbWZrM3FoZ29CT1lXV2JEQUhxNHdGa2VnWklzNmNrSW96WS1lbWNBVTVsYTBGZWdwMUg1dHhBWmdlNG5LLTNWMkcwVkdleGNQaW5ucnp3RjJwdUhiZnlHQQ?oc=5",
       "source": "NewsCord",
       "published": "2026-08-13T09:52:48+00:00",
-      "score": 9.34,
+      "score": 9.31,
       "tags": [
         "closure"
       ]
@@ -31,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcExuVkhsVURCdE9CWmRqbm91YnFZc2o0cFEtVXJUNEVzdjJYSEk4TTNvOThtdzI4Um44Q01KYlBHZ0Q0NVpUVTNrT3RxQWhzXzVuMVZiR3EyYllhR1Z6aUpUOWRIdkFaQ1QtdTNCX3ptVlRnNVhoYWtRa0RJUFpPdWNKeGpXYTFTNTRaVWhhMERHYjhyd1dRQ3lQZ20wWkp5RWc?oc=5",
       "source": "CBS News",
       "published": "2026-08-10T00:37:00+00:00",
-      "score": 4.82,
+      "score": 4.8,
       "tags": [
         "closure"
       ]
@@ -51,16 +51,6 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON2pvV0t4T25LdUVjOHpBU2tzN1RER1ZRQWF3cGZ3aEVZUm1JRXJXSk5xdWxaV3VEbEFMWHAtUkZ6MlpKX0VVRWlmNklKaUM3R3hER1o2WkEydXl0ZzZiS3NpNVNVdm80ck55SktBekVZbG1SaDdVdTJJOWJuUDMyV0RLNlJ5QkpYNUxGVjFQUHNQTWg1bVlJT3RXcXkyNkEwcUFtSGhLOXpWUno0LThMelpqWWRoQW8?oc=5",
       "source": "Reuters",
       "published": "2026-08-14T19:21:47+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iranian Attacks Push Hormuz Shipping Toward Tehran-Controlled Route - gCaptain",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX1pkemR2TWJWLUdoZ3cxVjF6MnhSNDJjSUtzRXU4c1dGQWszTlU1QzZmQVRSUzF3YmJ6TUZlWEtFRTF6MUNZbzNHQkhUa1FrN3pndEhUYTJSLUZPLW0tWWN5YXV2dHZBb3pnSXl2QXRBYzdQVnBOLVpNN1V2ZkNxYlpNT0Zwc2dtYnpFcW1YTnNtRE0?oc=5",
-      "source": "gCaptain",
-      "published": "2026-08-14T17:44:35+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -121,6 +111,16 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbU5pSmRaOXJfck5NVXluYkFmNlVRMnhVT19KcnZ1RDVjaUh1VXVxemNYZ3ZfRDZwN2R4LUFnbnB1djQ1ZUdJbEE5TDBYdVpuY3hyYzREWjMxb2lpUVpsQld1ZWVibGk5c1k1LUJYejZfbVFpUVE4ZFRNeml5N2gzRm04cXJwazY3WE45OExlVzN6aXg5ellQX25rdkEzZzRqR3RLYkQybkxfYXVlb245cjRodTM?oc=5",
       "source": "Anadolu Ajans\u0131",
       "published": "2026-08-14T08:31:26+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Tanker hit by drone in Strait of Hormuz - UKMTO - iranintl.com",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0TE5wSm1tRzI0Y3lhVW1xekxtZENaTzBRMDg3ay0wcWhndnBvTVk1U3NMUFVaS2NXbk9KRkprLVNwVnY1WFZRQzZNWWVLal9YS0E?oc=5",
+      "source": "iranintl.com",
+      "published": "2026-08-14T08:02:14+00:00",
       "score": 3.0,
       "tags": [
         "tension"
