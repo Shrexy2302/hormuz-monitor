@@ -3,8 +3,8 @@
   "label": "Major disruption reported",
   "tension_index": 42.7,
   "closure_signals": 2,
-  "articles_scanned": 199,
-  "updated": "2026-08-14T20:53:55.555098+00:00",
+  "articles_scanned": 198,
+  "updated": "2026-08-14T21:18:31.347004+00:00",
   "headlines": [
     {
       "title": "IRGC Navy Commander Declares Strait of Hormuz Closed, Dismisses U.S. Claims - WANA News Agency",
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRl9UNlJQOWowcHhnUjVFSF9MVXVnX0dSdFNlUDh5V1lqWE1udlZUVmlnLVItZHBQalQwZUdJWC1PX0E2eC01VjNnVEU3b0E0VUtSaUk0WHFNZU1UNU1xeHIzLTNsYWpVQ3p4cjRvVFE0RkNQaTNMb3M3bjk5dS1uM0VGcHJxZFJQelc4Z25zbWZrM3FoZ29CT1lXV2JEQUhxNHdGa2VnWklzNmNrSW96WS1lbWNBVTVsYTBGZWdwMUg1dHhBWmdlNG5LLTNWMkcwVkdleGNQaW5ucnp3RjJwdUhiZnlHQQ?oc=5",
       "source": "NewsCord",
       "published": "2026-08-13T09:52:48+00:00",
-      "score": 9.39,
+      "score": 9.37,
       "tags": [
         "closure"
       ]
@@ -31,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcExuVkhsVURCdE9CWmRqbm91YnFZc2o0cFEtVXJUNEVzdjJYSEk4TTNvOThtdzI4Um44Q01KYlBHZ0Q0NVpUVTNrT3RxQWhzXzVuMVZiR3EyYllhR1Z6aUpUOWRIdkFaQ1QtdTNCX3ptVlRnNVhoYWtRa0RJUFpPdWNKeGpXYTFTNTRaVWhhMERHYjhyd1dRQ3lQZ20wWkp5RWc?oc=5",
       "source": "CBS News",
       "published": "2026-08-10T00:37:00+00:00",
-      "score": 4.87,
+      "score": 4.85,
       "tags": [
         "closure"
       ]
@@ -57,10 +57,10 @@
       ]
     },
     {
-      "title": "Two Tankers Attacked as UAE Expands Hormuz Oil Shuttle - gCaptain",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORzhtMURHTmZwYmhvczhtMVBnX1ZiY1BHeFBfdEpSdkV4ZUZXdGhmbnZrUldRUkZRLWxuTXItSlZGa2JLVW8tZDJfMjlPXzRHTjhFcWMzVmsydHZIeFBURC03WE5NOHBkaElUdTJnLWs0a1o0WGJsUFJkYWpSNmY4c3dB?oc=5",
+      "title": "Iranian Attacks Push Hormuz Shipping Toward Tehran-Controlled Route - gCaptain",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX1pkemR2TWJWLUdoZ3cxVjF6MnhSNDJjSUtzRXU4c1dGQWszTlU1QzZmQVRSUzF3YmJ6TUZlWEtFRTF6MUNZbzNHQkhUa1FrN3pndEhUYTJSLUZPLW0tWWN5YXV2dHZBb3pnSXl2QXRBYzdQVnBOLVpNN1V2ZkNxYlpNT0Zwc2dtYnpFcW1YTnNtRE0?oc=5",
       "source": "gCaptain",
-      "published": "2026-08-14T17:17:46+00:00",
+      "published": "2026-08-14T17:44:35+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -128,7 +128,7 @@
     }
   ],
   "brent": {
-    "price": 88.53,
-    "change_pct": 1.68
+    "price": 88.59,
+    "change_pct": 1.75
   }
 }
