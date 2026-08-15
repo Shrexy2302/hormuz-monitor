@@ -1,17 +1,27 @@
 {
-  "status": "DISRUPTED",
-  "label": "Major disruption reported",
-  "tension_index": 57.2,
-  "closure_signals": 2,
-  "articles_scanned": 199,
-  "updated": "2026-08-15T12:23:06.003867+00:00",
+  "status": "CLOSED",
+  "label": "Closure reported",
+  "tension_index": 64.8,
+  "closure_signals": 3,
+  "articles_scanned": 201,
+  "updated": "2026-08-15T13:06:32.371107+00:00",
   "headlines": [
+    {
+      "title": "Iran Keeps Strait of Hormuz Blocked as Trump Defends Higher US Fuel Prices - \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CVDdELXViMUpVei1hVUVyUlRsRkFzRHc4MFptN2gwc0RfZDhvZWZGS0JBWjZjb1kxNHViSGpxZDM1MzZRLTZpY2huM2pKR2diMWlxUl96LVpUdWtBcnh2XzdzTmt0UQ?oc=5",
+      "source": "\u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
+      "published": "2026-08-15T01:08:10+00:00",
+      "score": 10.0,
+      "tags": [
+        "closure"
+      ]
+    },
     {
       "title": "IRGC Navy Commander Declares Strait of Hormuz Closed, Dismisses U.S. Claims - WANA News Agency",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS0ljQ0hlZ21kR1B3TjNBSVBveGMzTkVDRHQ2dlNPRmExT01fcEtzNDk1RlhJYmc3Q0RFbmJnTUFnNGZKelVJZ1UtNEd4aVNZbTlITDhVM2Y1ZVN2ZEF5RVBoRmF1emlVQy1zOWtHQzI3ckdSVk96akdTemJQNVY3TVlMQ0xHUWExZ3BjRlFzaTQyOTJrTjJpdQ?oc=5",
       "source": "WANA News Agency",
       "published": "2026-08-14T07:53:08+00:00",
-      "score": 9.75,
+      "score": 9.71,
       "tags": [
         "closure"
       ]
@@ -21,17 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRl9UNlJQOWowcHhnUjVFSF9MVXVnX0dSdFNlUDh5V1lqWE1udlZUVmlnLVItZHBQalQwZUdJWC1PX0E2eC01VjNnVEU3b0E0VUtSaUk0WHFNZU1UNU1xeHIzLTNsYWpVQ3p4cjRvVFE0RkNQaTNMb3M3bjk5dS1uM0VGcHJxZFJQelc4Z25zbWZrM3FoZ29CT1lXV2JEQUhxNHdGa2VnWklzNmNrSW96WS1lbWNBVTVsYTBGZWdwMUg1dHhBWmdlNG5LLTNWMkcwVkdleGNQaW5ucnp3RjJwdUhiZnlHQQ?oc=5",
       "source": "NewsCord",
       "published": "2026-08-13T09:52:48+00:00",
-      "score": 8.53,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Iran keeps Strait of Hormuz closed, presses U.S. for major concessions - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRnFqN2lqcGxreDVjUVNGQnhOT2Q4VEhvb3htSDNOczBjYWZpYjFaVkxoUVhjbm9fNFZqZ1RJZWVkTF9MeVlKS1dtSEdmOTd0eGhDSUI0Sk5HQzFkWF9yT09RaWY5TlZsOE1USDZYLTVSR3NzZHZGaGhQTzFyaERzbGVUU0NLNTJhMXpRTTRELWNzbXJQandJMmY1d0EzY3lZZXBrYWRJeHk?oc=5",
-      "source": "CBS News",
-      "published": "2026-08-10T03:14:00+00:00",
-      "score": 4.16,
+      "score": 8.49,
       "tags": [
         "closure"
       ]
@@ -41,7 +41,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcExuVkhsVURCdE9CWmRqbm91YnFZc2o0cFEtVXJUNEVzdjJYSEk4TTNvOThtdzI4Um44Q01KYlBHZ0Q0NVpUVTNrT3RxQWhzXzVuMVZiR3EyYllhR1Z6aUpUOWRIdkFaQ1QtdTNCX3ptVlRnNVhoYWtRa0RJUFpPdWNKeGpXYTFTNTRaVWhhMERHYjhyd1dRQ3lQZ20wWkp5RWc?oc=5",
       "source": "CBS News",
       "published": "2026-08-10T00:37:00+00:00",
-      "score": 4.01,
+      "score": 3.97,
       "tags": [
         "closure"
       ]
@@ -57,9 +57,9 @@
       ]
     },
     {
-      "title": "Strait of Hormuz Traffic Nearly Grinds to a Halt After Two More Ships Get Attacked, US Tightens Pressure on Iran - Benzinga",
+      "title": "Strait of Hormuz Traffic Nearly Grinds to a Halt After Two More Ships Get Attacked, US Tightens Pressure on Iran - benzinga.com",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPMWt4NjdGcmZKQThGQ3I2ejkxYXBMQmZ6SDFTcFZieThoU0VLeXlzWTZ6NHQxUDhfOTFpWVVPN1dFZ3hkcWlZRVVFaEVtS09JTDI4M0VQNnQ5TVpfQjUxOVcxOWtNVHhrZjVva3RhTnpra2k1elJOUmZkRlZxWnpXUzNGc0UwTmJYYjNpTUJIdHZ6OU9PaDZ6SXZUY3gtWjBjRURlVEhfc0lkdDQ5bHdyUEJZeTFxRVNwaWNzczdTZjVGdlVXM1FDX0NhcWNKbXJaMVdBTGotMjg4QzYwXzRtQU1FMDJhMTV0eGxzeXh3N2t3dGc0UlZkWg?oc=5",
-      "source": "Benzinga",
+      "source": "benzinga.com",
       "published": "2026-08-15T06:57:24+00:00",
       "score": 3.0,
       "tags": [
