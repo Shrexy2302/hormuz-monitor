@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 80.0,
-  "closure_signals": 4,
-  "articles_scanned": 202,
-  "updated": "2026-08-15T19:42:41.065447+00:00",
+  "tension_index": 92.0,
+  "closure_signals": 5,
+  "articles_scanned": 203,
+  "updated": "2026-08-15T20:14:17.922855+00:00",
   "headlines": [
     {
       "title": "Iran Says It Will Keep Strait of Hormuz Closed Until US Accepts Its Terms - bloomingbit",
@@ -27,21 +27,31 @@
       ]
     },
     {
-      "title": "IRGC Navy Commander Declares Strait of Hormuz Closed, Dismisses U.S. Claims - WANA News Agency",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS0ljQ0hlZ21kR1B3TjNBSVBveGMzTkVDRHQ2dlNPRmExT01fcEtzNDk1RlhJYmc3Q0RFbmJnTUFnNGZKelVJZ1UtNEd4aVNZbTlITDhVM2Y1ZVN2ZEF5RVBoRmF1emlVQy1zOWtHQzI3ckdSVk96akdTemJQNVY3TVlMQ0xHUWExZ3BjRlFzaTQyOTJrTjJpdQ?oc=5",
-      "source": "WANA News Agency",
-      "published": "2026-08-14T07:53:08+00:00",
-      "score": 9.34,
+      "title": "Iran says the Strait of Hormuz is shut down. The Trump administration says 9 million barrels a day are still getting out - finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVmxfMThFcGpOV0FXTUdmZWxOdk02OWtDemExYWVkTmVZaWwzWWRxRFlLUEE1SHNEdjc2YkNiUTFSQWdSSlBUSVYyM0R4cXZyRTVRY3RRa05aSXJrTlZJMy02MmlBRmw4bEp2VEx4Ymh6ZE1uTGZ1N1BpOU5LMWg4d2g5N3pQODktNHQxWHVB?oc=5",
+      "source": "finance.yahoo.com",
+      "published": "2026-08-14T16:54:27+00:00",
+      "score": 9.81,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iran Keeps Strait of Hormuz Blocked After Trump Declares Deal Over: how 16 outlets framed it - newscord.org",
+      "title": "IRGC Navy Commander Declares Strait of Hormuz Closed, Dismisses U.S. Claims - WANA News Agency",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS0ljQ0hlZ21kR1B3TjNBSVBveGMzTkVDRHQ2dlNPRmExT01fcEtzNDk1RlhJYmc3Q0RFbmJnTUFnNGZKelVJZ1UtNEd4aVNZbTlITDhVM2Y1ZVN2ZEF5RVBoRmF1emlVQy1zOWtHQzI3ckdSVk96akdTemJQNVY3TVlMQ0xHUWExZ3BjRlFzaTQyOTJrTjJpdQ?oc=5",
+      "source": "WANA News Agency",
+      "published": "2026-08-14T07:53:08+00:00",
+      "score": 9.31,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iran Keeps Strait of Hormuz Blocked After Trump Declares Deal Over: how 16 outlets framed it - NewsCord",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRl9UNlJQOWowcHhnUjVFSF9MVXVnX0dSdFNlUDh5V1lqWE1udlZUVmlnLVItZHBQalQwZUdJWC1PX0E2eC01VjNnVEU3b0E0VUtSaUk0WHFNZU1UNU1xeHIzLTNsYWpVQ3p4cjRvVFE0RkNQaTNMb3M3bjk5dS1uM0VGcHJxZFJQelc4Z25zbWZrM3FoZ29CT1lXV2JEQUhxNHdGa2VnWklzNmNrSW96WS1lbWNBVTVsYTBGZWdwMUg1dHhBWmdlNG5LLTNWMkcwVkdleGNQaW5ucnp3RjJwdUhiZnlHQQ?oc=5",
-      "source": "newscord.org",
+      "source": "NewsCord",
       "published": "2026-08-13T09:52:48+00:00",
-      "score": 8.12,
+      "score": 8.09,
       "tags": [
         "closure"
       ]
@@ -51,15 +61,15 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcExuVkhsVURCdE9CWmRqbm91YnFZc2o0cFEtVXJUNEVzdjJYSEk4TTNvOThtdzI4Um44Q01KYlBHZ0Q0NVpUVTNrT3RxQWhzXzVuMVZiR3EyYllhR1Z6aUpUOWRIdkFaQ1QtdTNCX3ptVlRnNVhoYWtRa0RJUFpPdWNKeGpXYTFTNTRaVWhhMERHYjhyd1dRQ3lQZ20wWkp5RWc?oc=5",
       "source": "CBS News",
       "published": "2026-08-10T00:37:00+00:00",
-      "score": 3.61,
+      "score": 3.58,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iran attacks third UAE tanker within a week - thehill.com",
+      "title": "Iran attacks third UAE tanker within a week - The Hill",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS3VQZHZGdDlJX2N0TlNubVV2QW9UdnUwMW1sTk1iUExtcFlQYlUtQ2dHMHNnaUkxbUJ6YnpscVd4WUFlZmd3WXJPbm1ZQjN2TGRzVDY4aUFCZ1ZlSk9KNFgxd3NJYlpGODNwOWVOSW93RUJVRGljcG9EblpDWTRPZUlxWlp0YkXSAYwBQVVfeXFMT1A3V3BJZlZWWFBYNnFlcVhqaVJYRjZFUVJORkxOTjRmVG91cmZGU0VTOVlKSWs4VENKR3hVZ3lhdV9GaW10QjB6RmtJb1J2cXVaRHQtelNCMmZMOGkzOGV0ZEduWEV5WFRmV2EyZzBnUS1sTmVxb1g4OVJyZy1XTTRkdGd4VnBPMzd3a0M?oc=5",
-      "source": "thehill.com",
+      "source": "The Hill",
       "published": "2026-08-15T18:28:00+00:00",
       "score": 3.0,
       "tags": [
@@ -77,9 +87,9 @@
       ]
     },
     {
-      "title": "Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck - cnbc.com",
+      "title": "Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck - CNBC",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd0pZYV94d2NxSkJ3SjNuZVE0ODRyYi1RVlRHbFFqZXF6OUo3ZWZNT1VxQlBKQ0tHYnNrVmVRV2VnelBKY2dTVkZpeWxWU29oSW94aUpTNXE3V0o1MTBnMGU2dkVyaEt2YWhrdXMxaDFIWDN4clVMUkpOZXZKbzJuNEM3aG9YVGVSbi1CWFBucEE2aExaa2JKVDVIZ3BhRkFVWUEw0gGoAUFVX3lxTE9lS3pIMXFQdkNJTmh5WjlxOXkxWEUxejB5V3ZfdHZtY3BTbWVObUpiMFF2eWw1SktyVWI5X2ZEdnpwUkZGRklacW1hc2xVVEpsXzBveVRpVG5YQWRyejIyQTlVOU5zaThreHZYdHlzYzRBNjVGbGhVbWdUekRfZ2poQzFrcFhKVlVSOG9fb2ZKZExQcEdYYkpiWmhjWWk5bmN2dGJBLWVGTQ?oc=5",
-      "source": "cnbc.com",
+      "source": "CNBC",
       "published": "2026-08-15T11:00:36+00:00",
       "score": 3.0,
       "tags": [
@@ -87,9 +97,9 @@
       ]
     },
     {
-      "title": "Strait of Hormuz Traffic Nearly Grinds to a Halt After Two More Ships Get Attacked, US Tightens Pressure on Iran - benzinga.com",
+      "title": "Strait of Hormuz Traffic Nearly Grinds to a Halt After Two More Ships Get Attacked, US Tightens Pressure on Iran - Benzinga",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPMWt4NjdGcmZKQThGQ3I2ejkxYXBMQmZ6SDFTcFZieThoU0VLeXlzWTZ6NHQxUDhfOTFpWVVPN1dFZ3hkcWlZRVVFaEVtS09JTDI4M0VQNnQ5TVpfQjUxOVcxOWtNVHhrZjVva3RhTnpra2k1elJOUmZkRlZxWnpXUzNGc0UwTmJYYjNpTUJIdHZ6OU9PaDZ6SXZUY3gtWjBjRURlVEhfc0lkdDQ5bHdyUEJZeTFxRVNwaWNzczdTZjVGdlVXM1FDX0NhcWNKbXJaMVdBTGotMjg4QzYwXzRtQU1FMDJhMTV0eGxzeXh3N2t3dGc0UlZkWg?oc=5",
-      "source": "benzinga.com",
+      "source": "Benzinga",
       "published": "2026-08-15T06:57:24+00:00",
       "score": 3.0,
       "tags": [
@@ -111,16 +121,6 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWU9iQlhCOGg1TlpZN29NeExkWkR0X2NJY1Jtdm4xaWNTM1hxNmxtaFNNbDBFSjJ4RFEydmhjVWZDYWlrWXFqVWlnaV82cHN1Nk5BeWx2SGVkYlcxV2xZeWRlSnFxS1lLdkN2clR6Q2VndGdLQmlSbUdXbmZJdkszTVc4X1VuRnI3OGpOTTh2cV9COWs2SzR2Ul9zVHJsNTQ5bjhoNExTWnZWQjJPemxaY2ZXWVc1RUktYWtiak9oTU9ZSkFleXJ3c3U1WQ?oc=5",
       "source": "Washington Examiner",
       "published": "2026-08-14T21:52:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "2 UAE tankers attacked while transiting Strait of Hormuz, and other news from the Middle East - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU19BM2l2RGhNUW5aWGxpdXJRU1QwVWtzekJ1ckw2bUdzWlhBSWcxX3U3T1JVblRkYW92MEhkaS1rakhweUN6MnlYc0xVbzVQcUtwdXRBbGFPUzV5T2Q5a3lmbVNqdE0zZFgyT0J3OGt6bzlwT1dWb2dtdVBieEtuOVFQXzdlNFdzUm8tU3FrV1JQS1hEUGpscjl3Q1BRczR4RlE?oc=5",
-      "source": "AP News",
-      "published": "2026-08-14T19:35:00+00:00",
       "score": 3.0,
       "tags": [
         "tension"
