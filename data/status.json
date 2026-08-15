@@ -1,10 +1,10 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 47.5,
+  "tension_index": 47.6,
   "closure_signals": 2,
   "articles_scanned": 201,
-  "updated": "2026-08-15T04:02:04.686912+00:00",
+  "updated": "2026-08-15T04:54:54.038912+00:00",
   "headlines": [
     {
       "title": "IRGC Navy Commander Declares Strait of Hormuz Closed, Dismisses U.S. Claims - WANA News Agency",
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRl9UNlJQOWowcHhnUjVFSF9MVXVnX0dSdFNlUDh5V1lqWE1udlZUVmlnLVItZHBQalQwZUdJWC1PX0E2eC01VjNnVEU3b0E0VUtSaUk0WHFNZU1UNU1xeHIzLTNsYWpVQ3p4cjRvVFE0RkNQaTNMb3M3bjk5dS1uM0VGcHJxZFJQelc4Z25zbWZrM3FoZ29CT1lXV2JEQUhxNHdGa2VnWklzNmNrSW96WS1lbWNBVTVsYTBGZWdwMUg1dHhBWmdlNG5LLTNWMkcwVkdleGNQaW5ucnp3RjJwdUhiZnlHQQ?oc=5",
       "source": "newscord.org",
       "published": "2026-08-13T09:52:48+00:00",
-      "score": 8.99,
+      "score": 8.94,
       "tags": [
         "closure"
       ]
@@ -31,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcExuVkhsVURCdE9CWmRqbm91YnFZc2o0cFEtVXJUNEVzdjJYSEk4TTNvOThtdzI4Um44Q01KYlBHZ0Q0NVpUVTNrT3RxQWhzXzVuMVZiR3EyYllhR1Z6aUpUOWRIdkFaQ1QtdTNCX3ptVlRnNVhoYWtRa0RJUFpPdWNKeGpXYTFTNTRaVWhhMERHYjhyd1dRQ3lQZ20wWkp5RWc?oc=5",
       "source": "CBS News",
       "published": "2026-08-10T00:37:00+00:00",
-      "score": 4.48,
+      "score": 4.43,
       "tags": [
         "closure"
       ]
@@ -67,9 +67,9 @@
       ]
     },
     {
-      "title": "Two UAE oil tankers struck by Iranian drones in Strait of Hormuz - washingtonexaminer.com",
+      "title": "Two UAE oil tankers struck by Iranian drones in Strait of Hormuz - Washington Examiner",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWU9iQlhCOGg1TlpZN29NeExkWkR0X2NJY1Jtdm4xaWNTM1hxNmxtaFNNbDBFSjJ4RFEydmhjVWZDYWlrWXFqVWlnaV82cHN1Nk5BeWx2SGVkYlcxV2xZeWRlSnFxS1lLdkN2clR6Q2VndGdLQmlSbUdXbmZJdkszTVc4X1VuRnI3OGpOTTh2cV9COWs2SzR2Ul9zVHJsNTQ5bjhoNExTWnZWQjJPemxaY2ZXWVc1RUktYWtiak9oTU9ZSkFleXJ3c3U1WQ?oc=5",
-      "source": "washingtonexaminer.com",
+      "source": "Washington Examiner",
       "published": "2026-08-14T21:52:00+00:00",
       "score": 3.0,
       "tags": [
@@ -128,7 +128,7 @@
     }
   ],
   "brent": {
-    "price": 88.59,
-    "change_pct": 1.75
+    "price": 88.52,
+    "change_pct": 1.67
   }
 }
