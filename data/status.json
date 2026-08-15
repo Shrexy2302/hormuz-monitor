@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 64.8,
+  "tension_index": 64.3,
   "closure_signals": 3,
-  "articles_scanned": 201,
-  "updated": "2026-08-15T13:06:32.371107+00:00",
+  "articles_scanned": 199,
+  "updated": "2026-08-15T13:49:46.436364+00:00",
   "headlines": [
     {
       "title": "Iran Keeps Strait of Hormuz Blocked as Trump Defends Higher US Fuel Prices - \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS0ljQ0hlZ21kR1B3TjNBSVBveGMzTkVDRHQ2dlNPRmExT01fcEtzNDk1RlhJYmc3Q0RFbmJnTUFnNGZKelVJZ1UtNEd4aVNZbTlITDhVM2Y1ZVN2ZEF5RVBoRmF1emlVQy1zOWtHQzI3ckdSVk96akdTemJQNVY3TVlMQ0xHUWExZ3BjRlFzaTQyOTJrTjJpdQ?oc=5",
       "source": "WANA News Agency",
       "published": "2026-08-14T07:53:08+00:00",
-      "score": 9.71,
+      "score": 9.67,
       "tags": [
         "closure"
       ]
@@ -31,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRl9UNlJQOWowcHhnUjVFSF9MVXVnX0dSdFNlUDh5V1lqWE1udlZUVmlnLVItZHBQalQwZUdJWC1PX0E2eC01VjNnVEU3b0E0VUtSaUk0WHFNZU1UNU1xeHIzLTNsYWpVQ3p4cjRvVFE0RkNQaTNMb3M3bjk5dS1uM0VGcHJxZFJQelc4Z25zbWZrM3FoZ29CT1lXV2JEQUhxNHdGa2VnWklzNmNrSW96WS1lbWNBVTVsYTBGZWdwMUg1dHhBWmdlNG5LLTNWMkcwVkdleGNQaW5ucnp3RjJwdUhiZnlHQQ?oc=5",
       "source": "NewsCord",
       "published": "2026-08-13T09:52:48+00:00",
-      "score": 8.49,
+      "score": 8.45,
       "tags": [
         "closure"
       ]
@@ -41,7 +41,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcExuVkhsVURCdE9CWmRqbm91YnFZc2o0cFEtVXJUNEVzdjJYSEk4TTNvOThtdzI4Um44Q01KYlBHZ0Q0NVpUVTNrT3RxQWhzXzVuMVZiR3EyYllhR1Z6aUpUOWRIdkFaQ1QtdTNCX3ptVlRnNVhoYWtRa0RJUFpPdWNKeGpXYTFTNTRaVWhhMERHYjhyd1dRQ3lQZ20wWkp5RWc?oc=5",
       "source": "CBS News",
       "published": "2026-08-10T00:37:00+00:00",
-      "score": 3.97,
+      "score": 3.93,
       "tags": [
         "closure"
       ]
@@ -57,9 +57,9 @@
       ]
     },
     {
-      "title": "Strait of Hormuz Traffic Nearly Grinds to a Halt After Two More Ships Get Attacked, US Tightens Pressure on Iran - benzinga.com",
+      "title": "Strait of Hormuz Traffic Nearly Grinds to a Halt After Two More Ships Get Attacked, US Tightens Pressure on Iran - Benzinga",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPMWt4NjdGcmZKQThGQ3I2ejkxYXBMQmZ6SDFTcFZieThoU0VLeXlzWTZ6NHQxUDhfOTFpWVVPN1dFZ3hkcWlZRVVFaEVtS09JTDI4M0VQNnQ5TVpfQjUxOVcxOWtNVHhrZjVva3RhTnpra2k1elJOUmZkRlZxWnpXUzNGc0UwTmJYYjNpTUJIdHZ6OU9PaDZ6SXZUY3gtWjBjRURlVEhfc0lkdDQ5bHdyUEJZeTFxRVNwaWNzczdTZjVGdlVXM1FDX0NhcWNKbXJaMVdBTGotMjg4QzYwXzRtQU1FMDJhMTV0eGxzeXh3N2t3dGc0UlZkWg?oc=5",
-      "source": "benzinga.com",
+      "source": "Benzinga",
       "published": "2026-08-15T06:57:24+00:00",
       "score": 3.0,
       "tags": [
@@ -107,20 +107,20 @@
       ]
     },
     {
-      "title": "2 UAE tankers attacked while transiting Strait of Hormuz, and other news from the Middle East - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU19BM2l2RGhNUW5aWGxpdXJRU1QwVWtzekJ1ckw2bUdzWlhBSWcxX3U3T1JVblRkYW92MEhkaS1rakhweUN6MnlYc0xVbzVQcUtwdXRBbGFPUzV5T2Q5a3lmbVNqdE0zZFgyT0J3OGt6bzlwT1dWb2dtdVBieEtuOVFQXzdlNFdzUm8tU3FrV1JQS1hEUGpscjl3Q1BRczR4RlE?oc=5",
-      "source": "AP News",
-      "published": "2026-08-14T19:35:00+00:00",
+      "title": "Oil climbs over $1 on tanker attacks, no progrees on peace - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON2pvV0t4T25LdUVjOHpBU2tzN1RER1ZRQWF3cGZ3aEVZUm1JRXJXSk5xdWxaV3VEbEFMWHAtUkZ6MlpKX0VVRWlmNklKaUM3R3hER1o2WkEydXl0ZzZiS3NpNVNVdm80ck55SktBekVZbG1SaDdVdTJJOWJuUDMyV0RLNlJ5QkpYNUxGVjFQUHNQTWg1bVlJT3RXcXkyNkEwcUFtSGhLOXpWUno0LThMelpqWWRoQW8?oc=5",
+      "source": "Reuters",
+      "published": "2026-08-14T19:21:47+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Oil climbs over $1 on tanker attacks, no progrees on peace - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON2pvV0t4T25LdUVjOHpBU2tzN1RER1ZRQWF3cGZ3aEVZUm1JRXJXSk5xdWxaV3VEbEFMWHAtUkZ6MlpKX0VVRWlmNklKaUM3R3hER1o2WkEydXl0ZzZiS3NpNVNVdm80ck55SktBekVZbG1SaDdVdTJJOWJuUDMyV0RLNlJ5QkpYNUxGVjFQUHNQTWg1bVlJT3RXcXkyNkEwcUFtSGhLOXpWUno0LThMelpqWWRoQW8?oc=5",
-      "source": "Reuters",
-      "published": "2026-08-14T19:21:47+00:00",
+      "title": "Iranian Attacks Push Hormuz Shipping Toward Tehran-Controlled Route - gCaptain",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX1pkemR2TWJWLUdoZ3cxVjF6MnhSNDJjSUtzRXU4c1dGQWszTlU1QzZmQVRSUzF3YmJ6TUZlWEtFRTF6MUNZbzNHQkhUa1FrN3pndEhUYTJSLUZPLW0tWWN5YXV2dHZBb3pnSXl2QXRBYzdQVnBOLVpNN1V2ZkNxYlpNT0Zwc2dtYnpFcW1YTnNtRE0?oc=5",
+      "source": "gCaptain",
+      "published": "2026-08-14T17:44:35+00:00",
       "score": 3.0,
       "tags": [
         "tension"
