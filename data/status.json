@@ -1,15 +1,25 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 66.1,
-  "closure_signals": 3,
-  "articles_scanned": 200,
-  "updated": "2026-08-15T09:48:02.635732+00:00",
+  "tension_index": 74.8,
+  "closure_signals": 4,
+  "articles_scanned": 201,
+  "updated": "2026-08-15T10:15:32.467357+00:00",
   "headlines": [
     {
-      "title": "Iran Keeps Strait of Hormuz Blocked as Trump Defends Higher US Fuel Prices - mezha.net",
+      "title": "Iran Says It Will Keep Strait of Hormuz Closed Until US Accepts Its Terms - bloomingbit",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1mbFlURlpUVkt2UWxuRzJsOGZaOVJqSE5YVHp5NU9oa2pINjVlQmhkSXAyaXZGQmRYejVCbVFXcWpfSEh3cjN1UHpCeW40VmpSaEhMZQ?oc=5",
+      "source": "bloomingbit",
+      "published": "2026-08-15T07:14:07+00:00",
+      "score": 10.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iran Keeps Strait of Hormuz Blocked as Trump Defends Higher US Fuel Prices - \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CVDdELXViMUpVei1hVUVyUlRsRkFzRHc4MFptN2gwc0RfZDhvZWZGS0JBWjZjb1kxNHViSGpxZDM1MzZRLTZpY2huM2pKR2diMWlxUl96LVpUdWtBcnh2XzdzTmt0UQ?oc=5",
-      "source": "mezha.net",
+      "source": "\u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
       "published": "2026-08-15T01:08:10+00:00",
       "score": 10.0,
       "tags": [
@@ -21,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS0ljQ0hlZ21kR1B3TjNBSVBveGMzTkVDRHQ2dlNPRmExT01fcEtzNDk1RlhJYmc3Q0RFbmJnTUFnNGZKelVJZ1UtNEd4aVNZbTlITDhVM2Y1ZVN2ZEF5RVBoRmF1emlVQy1zOWtHQzI3ckdSVk96akdTemJQNVY3TVlMQ0xHUWExZ3BjRlFzaTQyOTJrTjJpdQ?oc=5",
       "source": "WANA News Agency",
       "published": "2026-08-14T07:53:08+00:00",
-      "score": 9.89,
+      "score": 9.87,
       "tags": [
         "closure"
       ]
@@ -31,17 +41,7 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRl9UNlJQOWowcHhnUjVFSF9MVXVnX0dSdFNlUDh5V1lqWE1udlZUVmlnLVItZHBQalQwZUdJWC1PX0E2eC01VjNnVEU3b0E0VUtSaUk0WHFNZU1UNU1xeHIzLTNsYWpVQ3p4cjRvVFE0RkNQaTNMb3M3bjk5dS1uM0VGcHJxZFJQelc4Z25zbWZrM3FoZ29CT1lXV2JEQUhxNHdGa2VnWklzNmNrSW96WS1lbWNBVTVsYTBGZWdwMUg1dHhBWmdlNG5LLTNWMkcwVkdleGNQaW5ucnp3RjJwdUhiZnlHQQ?oc=5",
       "source": "NewsCord",
       "published": "2026-08-13T09:52:48+00:00",
-      "score": 8.67,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Iran keeps Strait of Hormuz closed, presses U.S. for major concessions - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRnFqN2lqcGxreDVjUVNGQnhOT2Q4VEhvb3htSDNOczBjYWZpYjFaVkxoUVhjbm9fNFZqZ1RJZWVkTF9MeVlKS1dtSEdmOTd0eGhDSUI0Sk5HQzFkWF9yT09RaWY5TlZsOE1USDZYLTVSR3NzZHZGaGhQTzFyaERzbGVUU0NLNTJhMXpRTTRELWNzbXJQandJMmY1d0EzY3lZZXBrYWRJeHk?oc=5",
-      "source": "CBS News",
-      "published": "2026-08-10T03:14:00+00:00",
-      "score": 4.3,
+      "score": 8.65,
       "tags": [
         "closure"
       ]
@@ -51,7 +51,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcExuVkhsVURCdE9CWmRqbm91YnFZc2o0cFEtVXJUNEVzdjJYSEk4TTNvOThtdzI4Um44Q01KYlBHZ0Q0NVpUVTNrT3RxQWhzXzVuMVZiR3EyYllhR1Z6aUpUOWRIdkFaQ1QtdTNCX3ptVlRnNVhoYWtRa0RJUFpPdWNKeGpXYTFTNTRaVWhhMERHYjhyd1dRQ3lQZ20wWkp5RWc?oc=5",
       "source": "CBS News",
       "published": "2026-08-10T00:37:00+00:00",
-      "score": 4.16,
+      "score": 4.13,
       "tags": [
         "closure"
       ]
@@ -87,9 +87,9 @@
       ]
     },
     {
-      "title": "UAE says ADNOC vessel attacked in Hormuz, vows to defend navigation rights - reuters.com",
+      "title": "UAE says ADNOC vessel attacked in Hormuz, vows to defend navigation rights - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbEFoM0Z1VnBsRUlGMUtsU3pXUWd6WUVvVW84ak5jbVpIZ25ld1VfR3RITUJ4MEx1ZTRJaGdXSDRadGVRNThPMzFlOVNsNWo4QzV2eTMzVmoxb1RDSE5QNXZkQ1d3bl9oSk85SUFxNEgxU1N6ME9UWHJ6dENMZmk1LWhacTJreTc4VlgtaGRxaFVQbFltR2UwMVN3Z1V3WUJLeHdDNy0wU0NldXRLaVA0NVY5WTZLQ1NOQjJQQWFHSjMtMk9icXc?oc=5",
-      "source": "reuters.com",
+      "source": "Reuters",
       "published": "2026-08-14T22:01:00+00:00",
       "score": 3.0,
       "tags": [
@@ -117,9 +117,9 @@
       ]
     },
     {
-      "title": "Oil climbs over $1 on tanker attacks, no progrees on peace - reuters.com",
+      "title": "Oil climbs over $1 on tanker attacks, no progrees on peace - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON2pvV0t4T25LdUVjOHpBU2tzN1RER1ZRQWF3cGZ3aEVZUm1JRXJXSk5xdWxaV3VEbEFMWHAtUkZ6MlpKX0VVRWlmNklKaUM3R3hER1o2WkEydXl0ZzZiS3NpNVNVdm80ck55SktBekVZbG1SaDdVdTJJOWJuUDMyV0RLNlJ5QkpYNUxGVjFQUHNQTWg1bVlJT3RXcXkyNkEwcUFtSGhLOXpWUno0LThMelpqWWRoQW8?oc=5",
-      "source": "reuters.com",
+      "source": "Reuters",
       "published": "2026-08-14T19:21:47+00:00",
       "score": 3.0,
       "tags": [
