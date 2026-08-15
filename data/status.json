@@ -1,15 +1,15 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 90.2,
+  "tension_index": 85.6,
   "closure_signals": 5,
   "articles_scanned": 202,
-  "updated": "2026-08-15T21:13:49.259734+00:00",
+  "updated": "2026-08-15T21:42:53.862933+00:00",
   "headlines": [
     {
-      "title": "Iran Says It Will Keep Strait of Hormuz Closed Until US Accepts Its Terms - en.bloomingbit.io",
+      "title": "Iran Says It Will Keep Strait of Hormuz Closed Until US Accepts Its Terms - bloomingbit",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1mbFlURlpUVkt2UWxuRzJsOGZaOVJqSE5YVHp5NU9oa2pINjVlQmhkSXAyaXZGQmRYejVCbVFXcWpfSEh3cjN1UHpCeW40VmpSaEhMZQ?oc=5",
-      "source": "en.bloomingbit.io",
+      "source": "bloomingbit",
       "published": "2026-08-15T07:14:07+00:00",
       "score": 10.0,
       "tags": [
@@ -31,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVmxfMThFcGpOV0FXTUdmZWxOdk02OWtDemExYWVkTmVZaWwzWWRxRFlLUEE1SHNEdjc2YkNiUTFSQWdSSlBUSVYyM0R4cXZyRTVRY3RRa05aSXJrTlZJMy02MmlBRmw4bEp2VEx4Ymh6ZE1uTGZ1N1BpOU5LMWg4d2g5N3pQODktNHQxWHVB?oc=5",
       "source": "Yahoo Finance",
       "published": "2026-08-14T16:54:27+00:00",
-      "score": 9.76,
+      "score": 9.73,
       "tags": [
         "closure"
       ]
@@ -41,7 +41,7 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS0ljQ0hlZ21kR1B3TjNBSVBveGMzTkVDRHQ2dlNPRmExT01fcEtzNDk1RlhJYmc3Q0RFbmJnTUFnNGZKelVJZ1UtNEd4aVNZbTlITDhVM2Y1ZVN2ZEF5RVBoRmF1emlVQy1zOWtHQzI3ckdSVk96akdTemJQNVY3TVlMQ0xHUWExZ3BjRlFzaTQyOTJrTjJpdQ?oc=5",
       "source": "WANA News Agency",
       "published": "2026-08-14T07:53:08+00:00",
-      "score": 9.26,
+      "score": 9.23,
       "tags": [
         "closure"
       ]
@@ -51,17 +51,17 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRl9UNlJQOWowcHhnUjVFSF9MVXVnX0dSdFNlUDh5V1lqWE1udlZUVmlnLVItZHBQalQwZUdJWC1PX0E2eC01VjNnVEU3b0E0VUtSaUk0WHFNZU1UNU1xeHIzLTNsYWpVQ3p4cjRvVFE0RkNQaTNMb3M3bjk5dS1uM0VGcHJxZFJQelc4Z25zbWZrM3FoZ29CT1lXV2JEQUhxNHdGa2VnWklzNmNrSW96WS1lbWNBVTVsYTBGZWdwMUg1dHhBWmdlNG5LLTNWMkcwVkdleGNQaW5ucnp3RjJwdUhiZnlHQQ?oc=5",
       "source": "NewsCord",
       "published": "2026-08-13T09:52:48+00:00",
-      "score": 8.04,
+      "score": 8.01,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iranian leaders demand U.S. pay for war damage or will keep Strait of Hormuz closed - CBS News",
+      "title": "Iranian leaders demand U.S. pay for war damage or will keep Strait of Hormuz closed - cbsnews.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcExuVkhsVURCdE9CWmRqbm91YnFZc2o0cFEtVXJUNEVzdjJYSEk4TTNvOThtdzI4Um44Q01KYlBHZ0Q0NVpUVTNrT3RxQWhzXzVuMVZiR3EyYllhR1Z6aUpUOWRIdkFaQ1QtdTNCX3ptVlRnNVhoYWtRa0RJUFpPdWNKeGpXYTFTNTRaVWhhMERHYjhyd1dRQ3lQZ20wWkp5RWc?oc=5",
-      "source": "CBS News",
+      "source": "cbsnews.com",
       "published": "2026-08-10T00:37:00+00:00",
-      "score": 3.52,
+      "score": 3.49,
       "tags": [
         "closure"
       ]
@@ -71,16 +71,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS3VQZHZGdDlJX2N0TlNubVV2QW9UdnUwMW1sTk1iUExtcFlQYlUtQ2dHMHNnaUkxbUJ6YnpscVd4WUFlZmd3WXJPbm1ZQjN2TGRzVDY4aUFCZ1ZlSk9KNFgxd3NJYlpGODNwOWVOSW93RUJVRGljcG9EblpDWTRPZUlxWlp0YkXSAYwBQVVfeXFMT1A3V3BJZlZWWFBYNnFlcVhqaVJYRjZFUVJORkxOTjRmVG91cmZGU0VTOVlKSWs4VENKR3hVZ3lhdV9GaW10QjB6RmtJb1J2cXVaRHQtelNCMmZMOGkzOGV0ZEduWEV5WFRmV2EyZzBnUS1sTmVxb1g4OVJyZy1XTTRkdGd4VnBPMzd3a0M?oc=5",
       "source": "The Hill",
       "published": "2026-08-15T18:28:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "UAE Blames Iran for Attack on ADNOC Vessel in Strait of Hormuz - Kurdistan24",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRU4xejFxLVZUOEp2TENOXzUwOS14YW93dE81VjMzdkhmYy1vQlIzYTZycFZ0Yy1aZk5MM1Z3eVNqX3c5bXNYd2FVV3M4OWMxYVNIY2pkS05JV0R0QjcxQVM0bU5mc3doTWdmbzVBZ0NGRmpWUjZPY0djWTdiZEExeXlvYVY0ckE5WXh3SU5UbFNDN1VsSEpQdDRBN1lpb3NRQkx5OS16eFFWdw?oc=5",
-      "source": "Kurdistan24",
-      "published": "2026-08-15T15:39:42+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -122,6 +112,16 @@
       "source": "Washington Examiner",
       "published": "2026-08-14T21:52:00+00:00",
       "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "2 UAE tankers attacked while transiting Strait of Hormuz, and other news from the Middle East - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU19BM2l2RGhNUW5aWGxpdXJRU1QwVWtzekJ1ckw2bUdzWlhBSWcxX3U3T1JVblRkYW92MEhkaS1rakhweUN6MnlYc0xVbzVQcUtwdXRBbGFPUzV5T2Q5a3lmbVNqdE0zZFgyT0J3OGt6bzlwT1dWb2dtdVBieEtuOVFQXzdlNFdzUm8tU3FrV1JQS1hEUGpscjl3Q1BRczR4RlE?oc=5",
+      "source": "AP News",
+      "published": "2026-08-14T19:35:00+00:00",
+      "score": 2.96,
       "tags": [
         "tension"
       ]
