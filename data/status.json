@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 95.9,
+  "tension_index": 99.2,
   "closure_signals": 5,
-  "articles_scanned": 203,
-  "updated": "2026-08-15T23:13:40.285812+00:00",
+  "articles_scanned": 204,
+  "updated": "2026-08-15T23:41:55.211606+00:00",
   "headlines": [
     {
       "title": "Iran Says It Will Keep Strait of Hormuz Closed Until US Accepts Its Terms - bloomingbit",
@@ -31,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVmxfMThFcGpOV0FXTUdmZWxOdk02OWtDemExYWVkTmVZaWwzWWRxRFlLUEE1SHNEdjc2YkNiUTFSQWdSSlBUSVYyM0R4cXZyRTVRY3RRa05aSXJrTlZJMy02MmlBRmw4bEp2VEx4Ymh6ZE1uTGZ1N1BpOU5LMWg4d2g5N3pQODktNHQxWHVB?oc=5",
       "source": "Yahoo Finance",
       "published": "2026-08-14T16:54:27+00:00",
-      "score": 9.65,
+      "score": 9.62,
       "tags": [
         "closure"
       ]
@@ -41,7 +41,7 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS0ljQ0hlZ21kR1B3TjNBSVBveGMzTkVDRHQ2dlNPRmExT01fcEtzNDk1RlhJYmc3Q0RFbmJnTUFnNGZKelVJZ1UtNEd4aVNZbTlITDhVM2Y1ZVN2ZEF5RVBoRmF1emlVQy1zOWtHQzI3ckdSVk96akdTemJQNVY3TVlMQ0xHUWExZ3BjRlFzaTQyOTJrTjJpdQ?oc=5",
       "source": "WANA News Agency",
       "published": "2026-08-14T07:53:08+00:00",
-      "score": 9.15,
+      "score": 9.12,
       "tags": [
         "closure"
       ]
@@ -51,7 +51,7 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRl9UNlJQOWowcHhnUjVFSF9MVXVnX0dSdFNlUDh5V1lqWE1udlZUVmlnLVItZHBQalQwZUdJWC1PX0E2eC01VjNnVEU3b0E0VUtSaUk0WHFNZU1UNU1xeHIzLTNsYWpVQ3p4cjRvVFE0RkNQaTNMb3M3bjk5dS1uM0VGcHJxZFJQelc4Z25zbWZrM3FoZ29CT1lXV2JEQUhxNHdGa2VnWklzNmNrSW96WS1lbWNBVTVsYTBGZWdwMUg1dHhBWmdlNG5LLTNWMkcwVkdleGNQaW5ucnp3RjJwdUhiZnlHQQ?oc=5",
       "source": "NewsCord",
       "published": "2026-08-13T09:52:48+00:00",
-      "score": 7.93,
+      "score": 7.9,
       "tags": [
         "closure"
       ]
@@ -61,9 +61,19 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcExuVkhsVURCdE9CWmRqbm91YnFZc2o0cFEtVXJUNEVzdjJYSEk4TTNvOThtdzI4Um44Q01KYlBHZ0Q0NVpUVTNrT3RxQWhzXzVuMVZiR3EyYllhR1Z6aUpUOWRIdkFaQ1QtdTNCX3ptVlRnNVhoYWtRa0RJUFpPdWNKeGpXYTFTNTRaVWhhMERHYjhyd1dRQ3lQZ20wWkp5RWc?oc=5",
       "source": "CBS News",
       "published": "2026-08-10T00:37:00+00:00",
-      "score": 3.41,
+      "score": 3.38,
       "tags": [
         "closure"
+      ]
+    },
+    {
+      "title": "UAE accuses Iran of launch strike on oil tanker in Strait of Hormuz - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORERuY0ViWGV0MmNPS0U3NnFCLTJKcWpfNUdfZjlBeHpnZUdYQjd4cWNQNTZ2azBLZTA1TXRzLTZLRC1KN29YRndLaGllS3M2cmg2TkNobENjdlVTRDlBRjh6UWxKc091T1N2VU5yRmtoSjF1YzF5WUEzVk1mTkNEWEZ5bEliZlVCY0sxUjdUZ2hjS09tSDZiVm9pS1Zqd0FKSXpBVS15MkRLUQ?oc=5",
+      "source": "CBS News",
+      "published": "2026-08-15T23:25:00+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
       ]
     },
     {
@@ -111,16 +121,6 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd0pZYV94d2NxSkJ3SjNuZVE0ODRyYi1RVlRHbFFqZXF6OUo3ZWZNT1VxQlBKQ0tHYnNrVmVRV2VnelBKY2dTVkZpeWxWU29oSW94aUpTNXE3V0o1MTBnMGU2dkVyaEt2YWhrdXMxaDFIWDN4clVMUkpOZXZKbzJuNEM3aG9YVGVSbi1CWFBucEE2aExaa2JKVDVIZ3BhRkFVWUEw0gGoAUFVX3lxTE9lS3pIMXFQdkNJTmh5WjlxOXkxWEUxejB5V3ZfdHZtY3BTbWVObUpiMFF2eWw1SktyVWI5X2ZEdnpwUkZGRklacW1hc2xVVEpsXzBveVRpVG5YQWRyejIyQTlVOU5zaThreHZYdHlzYzRBNjVGbGhVbWdUekRfZ2poQzFrcFhKVlVSOG9fb2ZKZExQcEdYYkpiWmhjWWk5bmN2dGJBLWVGTQ?oc=5",
       "source": "CNBC",
       "published": "2026-08-15T11:00:36+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Strait of Hormuz Traffic Nearly Grinds to a Halt After Two More Ships Get Attacked, US Tightens Pressure on Iran - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPMWt4NjdGcmZKQThGQ3I2ejkxYXBMQmZ6SDFTcFZieThoU0VLeXlzWTZ6NHQxUDhfOTFpWVVPN1dFZ3hkcWlZRVVFaEVtS09JTDI4M0VQNnQ5TVpfQjUxOVcxOWtNVHhrZjVva3RhTnpra2k1elJOUmZkRlZxWnpXUzNGc0UwTmJYYjNpTUJIdHZ6OU9PaDZ6SXZUY3gtWjBjRURlVEhfc0lkdDQ5bHdyUEJZeTFxRVNwaWNzczdTZjVGdlVXM1FDX0NhcWNKbXJaMVdBTGotMjg4QzYwXzRtQU1FMDJhMTV0eGxzeXh3N2t3dGc0UlZkWg?oc=5",
-      "source": "Benzinga",
-      "published": "2026-08-15T06:57:24+00:00",
       "score": 3.0,
       "tags": [
         "tension"
