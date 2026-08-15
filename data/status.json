@@ -1,15 +1,15 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 90.7,
+  "tension_index": 90.2,
   "closure_signals": 5,
-  "articles_scanned": 201,
-  "updated": "2026-08-15T20:45:21.893063+00:00",
+  "articles_scanned": 202,
+  "updated": "2026-08-15T21:13:49.259734+00:00",
   "headlines": [
     {
-      "title": "Iran Says It Will Keep Strait of Hormuz Closed Until US Accepts Its Terms - bloomingbit",
+      "title": "Iran Says It Will Keep Strait of Hormuz Closed Until US Accepts Its Terms - en.bloomingbit.io",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1mbFlURlpUVkt2UWxuRzJsOGZaOVJqSE5YVHp5NU9oa2pINjVlQmhkSXAyaXZGQmRYejVCbVFXcWpfSEh3cjN1UHpCeW40VmpSaEhMZQ?oc=5",
-      "source": "bloomingbit",
+      "source": "en.bloomingbit.io",
       "published": "2026-08-15T07:14:07+00:00",
       "score": 10.0,
       "tags": [
@@ -31,17 +31,17 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVmxfMThFcGpOV0FXTUdmZWxOdk02OWtDemExYWVkTmVZaWwzWWRxRFlLUEE1SHNEdjc2YkNiUTFSQWdSSlBUSVYyM0R4cXZyRTVRY3RRa05aSXJrTlZJMy02MmlBRmw4bEp2VEx4Ymh6ZE1uTGZ1N1BpOU5LMWg4d2g5N3pQODktNHQxWHVB?oc=5",
       "source": "Yahoo Finance",
       "published": "2026-08-14T16:54:27+00:00",
-      "score": 9.79,
+      "score": 9.76,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "IRGC Navy Commander Declares Strait of Hormuz Closed, Dismisses U.S. Claims - wanaen.com",
+      "title": "IRGC Navy Commander Declares Strait of Hormuz Closed, Dismisses U.S. Claims - WANA News Agency",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS0ljQ0hlZ21kR1B3TjNBSVBveGMzTkVDRHQ2dlNPRmExT01fcEtzNDk1RlhJYmc3Q0RFbmJnTUFnNGZKelVJZ1UtNEd4aVNZbTlITDhVM2Y1ZVN2ZEF5RVBoRmF1emlVQy1zOWtHQzI3ckdSVk96akdTemJQNVY3TVlMQ0xHUWExZ3BjRlFzaTQyOTJrTjJpdQ?oc=5",
-      "source": "wanaen.com",
+      "source": "WANA News Agency",
       "published": "2026-08-14T07:53:08+00:00",
-      "score": 9.28,
+      "score": 9.26,
       "tags": [
         "closure"
       ]
@@ -51,7 +51,7 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRl9UNlJQOWowcHhnUjVFSF9MVXVnX0dSdFNlUDh5V1lqWE1udlZUVmlnLVItZHBQalQwZUdJWC1PX0E2eC01VjNnVEU3b0E0VUtSaUk0WHFNZU1UNU1xeHIzLTNsYWpVQ3p4cjRvVFE0RkNQaTNMb3M3bjk5dS1uM0VGcHJxZFJQelc4Z25zbWZrM3FoZ29CT1lXV2JEQUhxNHdGa2VnWklzNmNrSW96WS1lbWNBVTVsYTBGZWdwMUg1dHhBWmdlNG5LLTNWMkcwVkdleGNQaW5ucnp3RjJwdUhiZnlHQQ?oc=5",
       "source": "NewsCord",
       "published": "2026-08-13T09:52:48+00:00",
-      "score": 8.06,
+      "score": 8.04,
       "tags": [
         "closure"
       ]
@@ -61,7 +61,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcExuVkhsVURCdE9CWmRqbm91YnFZc2o0cFEtVXJUNEVzdjJYSEk4TTNvOThtdzI4Um44Q01KYlBHZ0Q0NVpUVTNrT3RxQWhzXzVuMVZiR3EyYllhR1Z6aUpUOWRIdkFaQ1QtdTNCX3ptVlRnNVhoYWtRa0RJUFpPdWNKeGpXYTFTNTRaVWhhMERHYjhyd1dRQ3lQZ20wWkp5RWc?oc=5",
       "source": "CBS News",
       "published": "2026-08-10T00:37:00+00:00",
-      "score": 3.55,
+      "score": 3.52,
       "tags": [
         "closure"
       ]
