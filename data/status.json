@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 60.0,
+  "tension_index": 67.2,
   "closure_signals": 3,
-  "articles_scanned": 203,
-  "updated": "2026-08-15T11:13:32.585380+00:00",
+  "articles_scanned": 202,
+  "updated": "2026-08-15T11:42:12.916109+00:00",
   "headlines": [
     {
       "title": "Iran Keeps Strait of Hormuz Blocked as Trump Defends Higher US Fuel Prices - \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS0ljQ0hlZ21kR1B3TjNBSVBveGMzTkVDRHQ2dlNPRmExT01fcEtzNDk1RlhJYmc3Q0RFbmJnTUFnNGZKelVJZ1UtNEd4aVNZbTlITDhVM2Y1ZVN2ZEF5RVBoRmF1emlVQy1zOWtHQzI3ckdSVk96akdTemJQNVY3TVlMQ0xHUWExZ3BjRlFzaTQyOTJrTjJpdQ?oc=5",
       "source": "WANA News Agency",
       "published": "2026-08-14T07:53:08+00:00",
-      "score": 9.81,
+      "score": 9.79,
       "tags": [
         "closure"
       ]
@@ -31,7 +31,17 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRl9UNlJQOWowcHhnUjVFSF9MVXVnX0dSdFNlUDh5V1lqWE1udlZUVmlnLVItZHBQalQwZUdJWC1PX0E2eC01VjNnVEU3b0E0VUtSaUk0WHFNZU1UNU1xeHIzLTNsYWpVQ3p4cjRvVFE0RkNQaTNMb3M3bjk5dS1uM0VGcHJxZFJQelc4Z25zbWZrM3FoZ29CT1lXV2JEQUhxNHdGa2VnWklzNmNrSW96WS1lbWNBVTVsYTBGZWdwMUg1dHhBWmdlNG5LLTNWMkcwVkdleGNQaW5ucnp3RjJwdUhiZnlHQQ?oc=5",
       "source": "NewsCord",
       "published": "2026-08-13T09:52:48+00:00",
-      "score": 8.59,
+      "score": 8.57,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iran keeps Strait of Hormuz closed, presses U.S. for major concessions - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRnFqN2lqcGxreDVjUVNGQnhOT2Q4VEhvb3htSDNOczBjYWZpYjFaVkxoUVhjbm9fNFZqZ1RJZWVkTF9MeVlKS1dtSEdmOTd0eGhDSUI0Sk5HQzFkWF9yT09RaWY5TlZsOE1USDZYLTVSR3NzZHZGaGhQTzFyaERzbGVUU0NLNTJhMXpRTTRELWNzbXJQandJMmY1d0EzY3lZZXBrYWRJeHk?oc=5",
+      "source": "CBS News",
+      "published": "2026-08-10T03:14:00+00:00",
+      "score": 4.2,
       "tags": [
         "closure"
       ]
@@ -41,9 +51,19 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcExuVkhsVURCdE9CWmRqbm91YnFZc2o0cFEtVXJUNEVzdjJYSEk4TTNvOThtdzI4Um44Q01KYlBHZ0Q0NVpUVTNrT3RxQWhzXzVuMVZiR3EyYllhR1Z6aUpUOWRIdkFaQ1QtdTNCX3ptVlRnNVhoYWtRa0RJUFpPdWNKeGpXYTFTNTRaVWhhMERHYjhyd1dRQ3lQZ20wWkp5RWc?oc=5",
       "source": "CBS News",
       "published": "2026-08-10T00:37:00+00:00",
-      "score": 4.08,
+      "score": 4.05,
       "tags": [
         "closure"
+      ]
+    },
+    {
+      "title": "Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd0pZYV94d2NxSkJ3SjNuZVE0ODRyYi1RVlRHbFFqZXF6OUo3ZWZNT1VxQlBKQ0tHYnNrVmVRV2VnelBKY2dTVkZpeWxWU29oSW94aUpTNXE3V0o1MTBnMGU2dkVyaEt2YWhrdXMxaDFIWDN4clVMUkpOZXZKbzJuNEM3aG9YVGVSbi1CWFBucEE2aExaa2JKVDVIZ3BhRkFVWUEw0gGoAUFVX3lxTE9lS3pIMXFQdkNJTmh5WjlxOXkxWEUxejB5V3ZfdHZtY3BTbWVObUpiMFF2eWw1SktyVWI5X2ZEdnpwUkZGRklacW1hc2xVVEpsXzBveVRpVG5YQWRyejIyQTlVOU5zaThreHZYdHlzYzRBNjVGbGhVbWdUekRfZ2poQzFrcFhKVlVSOG9fb2ZKZExQcEdYYkpiWmhjWWk5bmN2dGJBLWVGTQ?oc=5",
+      "source": "CNBC",
+      "published": "2026-08-15T11:00:36+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
       ]
     },
     {
@@ -57,9 +77,9 @@
       ]
     },
     {
-      "title": "UAE blames Iran for drone attack on tankers in Strait of Hormuz - newsnationnow.com",
+      "title": "UAE blames Iran for drone attack on tankers in Strait of Hormuz - NewsNation",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11SkdOenRYTGNZZUQxbmRaLXpKVjRkQ3JzZlUxVVh1WGFHVTZBWlpZTlU2ZTdkZmwwN3RoYVI3QkxMbE9Id0RlNV9BWEFMaEJpTFdLdzhKNHZwZEhaamZvQ25LeUJ4eUVrRTU5Zk1ucnRtLTBsRGVFRUJYSDBEZ9IBgwFBVV95cUxQUndhM3RvS2wzeGRjbGVrSkFjTjRWWWgzeTVlTmotRnl4ZEM5dUlXOXpvUW5rWXZJT09waDJWYWw2bFNhZnh3bG4xSjhTekVjcGh3VWY3Znl1LXpaNHoxVjRHekU1XzVyNm9sZ1E4WTVFRWNUY1ppaldGYjN4S0JwTWFrZw?oc=5",
-      "source": "newsnationnow.com",
+      "source": "NewsNation",
       "published": "2026-08-15T00:45:06+00:00",
       "score": 3.0,
       "tags": [
@@ -101,26 +121,6 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU19BM2l2RGhNUW5aWGxpdXJRU1QwVWtzekJ1ckw2bUdzWlhBSWcxX3U3T1JVblRkYW92MEhkaS1rakhweUN6MnlYc0xVbzVQcUtwdXRBbGFPUzV5T2Q5a3lmbVNqdE0zZFgyT0J3OGt6bzlwT1dWb2dtdVBieEtuOVFQXzdlNFdzUm8tU3FrV1JQS1hEUGpscjl3Q1BRczR4RlE?oc=5",
       "source": "AP News",
       "published": "2026-08-14T19:35:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Oil climbs over $1 on tanker attacks, no progrees on peace - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON2pvV0t4T25LdUVjOHpBU2tzN1RER1ZRQWF3cGZ3aEVZUm1JRXJXSk5xdWxaV3VEbEFMWHAtUkZ6MlpKX0VVRWlmNklKaUM3R3hER1o2WkEydXl0ZzZiS3NpNVNVdm80ck55SktBekVZbG1SaDdVdTJJOWJuUDMyV0RLNlJ5QkpYNUxGVjFQUHNQTWg1bVlJT3RXcXkyNkEwcUFtSGhLOXpWUno0LThMelpqWWRoQW8?oc=5",
-      "source": "Reuters",
-      "published": "2026-08-14T19:21:47+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iranian Attacks Push Hormuz Shipping Toward Tehran-Controlled Route - gCaptain",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX1pkemR2TWJWLUdoZ3cxVjF6MnhSNDJjSUtzRXU4c1dGQWszTlU1QzZmQVRSUzF3YmJ6TUZlWEtFRTF6MUNZbzNHQkhUa1FrN3pndEhUYTJSLUZPLW0tWWN5YXV2dHZBb3pnSXl2QXRBYzdQVnBOLVpNN1V2ZkNxYlpNT0Zwc2dtYnpFcW1YTnNtRE0?oc=5",
-      "source": "gCaptain",
-      "published": "2026-08-14T17:44:35+00:00",
       "score": 3.0,
       "tags": [
         "tension"
