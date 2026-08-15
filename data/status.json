@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 90.1,
+  "tension_index": 93.0,
   "closure_signals": 5,
   "articles_scanned": 202,
-  "updated": "2026-08-15T22:13:39.292907+00:00",
+  "updated": "2026-08-15T22:45:08.304706+00:00",
   "headlines": [
     {
       "title": "Iran Says It Will Keep Strait of Hormuz Closed Until US Accepts Its Terms - bloomingbit",
@@ -31,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVmxfMThFcGpOV0FXTUdmZWxOdk02OWtDemExYWVkTmVZaWwzWWRxRFlLUEE1SHNEdjc2YkNiUTFSQWdSSlBUSVYyM0R4cXZyRTVRY3RRa05aSXJrTlZJMy02MmlBRmw4bEp2VEx4Ymh6ZE1uTGZ1N1BpOU5LMWg4d2g5N3pQODktNHQxWHVB?oc=5",
       "source": "Yahoo Finance",
       "published": "2026-08-14T16:54:27+00:00",
-      "score": 9.7,
+      "score": 9.68,
       "tags": [
         "closure"
       ]
@@ -41,7 +41,7 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS0ljQ0hlZ21kR1B3TjNBSVBveGMzTkVDRHQ2dlNPRmExT01fcEtzNDk1RlhJYmc3Q0RFbmJnTUFnNGZKelVJZ1UtNEd4aVNZbTlITDhVM2Y1ZVN2ZEF5RVBoRmF1emlVQy1zOWtHQzI3ckdSVk96akdTemJQNVY3TVlMQ0xHUWExZ3BjRlFzaTQyOTJrTjJpdQ?oc=5",
       "source": "WANA News Agency",
       "published": "2026-08-14T07:53:08+00:00",
-      "score": 9.2,
+      "score": 9.17,
       "tags": [
         "closure"
       ]
@@ -51,7 +51,7 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRl9UNlJQOWowcHhnUjVFSF9MVXVnX0dSdFNlUDh5V1lqWE1udlZUVmlnLVItZHBQalQwZUdJWC1PX0E2eC01VjNnVEU3b0E0VUtSaUk0WHFNZU1UNU1xeHIzLTNsYWpVQ3p4cjRvVFE0RkNQaTNMb3M3bjk5dS1uM0VGcHJxZFJQelc4Z25zbWZrM3FoZ29CT1lXV2JEQUhxNHdGa2VnWklzNmNrSW96WS1lbWNBVTVsYTBGZWdwMUg1dHhBWmdlNG5LLTNWMkcwVkdleGNQaW5ucnp3RjJwdUhiZnlHQQ?oc=5",
       "source": "NewsCord",
       "published": "2026-08-13T09:52:48+00:00",
-      "score": 7.98,
+      "score": 7.95,
       "tags": [
         "closure"
       ]
@@ -61,7 +61,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcExuVkhsVURCdE9CWmRqbm91YnFZc2o0cFEtVXJUNEVzdjJYSEk4TTNvOThtdzI4Um44Q01KYlBHZ0Q0NVpUVTNrT3RxQWhzXzVuMVZiR3EyYllhR1Z6aUpUOWRIdkFaQ1QtdTNCX3ptVlRnNVhoYWtRa0RJUFpPdWNKeGpXYTFTNTRaVWhhMERHYjhyd1dRQ3lQZ20wWkp5RWc?oc=5",
       "source": "CBS News",
       "published": "2026-08-10T00:37:00+00:00",
-      "score": 3.47,
+      "score": 3.44,
       "tags": [
         "closure"
       ]
@@ -71,6 +71,16 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS3VQZHZGdDlJX2N0TlNubVV2QW9UdnUwMW1sTk1iUExtcFlQYlUtQ2dHMHNnaUkxbUJ6YnpscVd4WUFlZmd3WXJPbm1ZQjN2TGRzVDY4aUFCZ1ZlSk9KNFgxd3NJYlpGODNwOWVOSW93RUJVRGljcG9EblpDWTRPZUlxWlp0YkXSAYwBQVVfeXFMT1A3V3BJZlZWWFBYNnFlcVhqaVJYRjZFUVJORkxOTjRmVG91cmZGU0VTOVlKSWs4VENKR3hVZ3lhdV9GaW10QjB6RmtJb1J2cXVaRHQtelNCMmZMOGkzOGV0ZEduWEV5WFRmV2EyZzBnUS1sTmVxb1g4OVJyZy1XTTRkdGd4VnBPMzd3a0M?oc=5",
       "source": "The Hill",
       "published": "2026-08-15T18:28:00+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran Accuses Trump Of \u2018Fanciful Delusions,\u2019 Says Strait Of Hormuz \u2018Cannot Be Seized By Tweet\u2019 - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS0hCWFRwMkxiZ3FBdDlKMW13VW03cUtYV3M3Y3lESVpVX0hMbUJQOFRsTlBSSWFZR1BoV2kySnRGVWdDV1VHRm1kRGVIMHBnUDE0SV9wQlNDN1NtLWNRbFhuVmRoTjU4dWF0UllTdmxwMVhRdl9UY1FpczJlRjFYZ3plU1VTaEUzMDlicHV6aktITEVlZGtTSjM2dWVORXdfcmhMUDRTb29kMFVLSnFVUXNxMzhkb2liS0E2ZHdweFNxOFp6QlBB?oc=5",
+      "source": "Forbes",
+      "published": "2026-08-15T17:57:39+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -112,16 +122,6 @@
       "source": "The Maritime Executive",
       "published": "2026-08-14T23:04:00+00:00",
       "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Two UAE oil tankers struck by Iranian drones in Strait of Hormuz - Washington Examiner",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWU9iQlhCOGg1TlpZN29NeExkWkR0X2NJY1Jtdm4xaWNTM1hxNmxtaFNNbDBFSjJ4RFEydmhjVWZDYWlrWXFqVWlnaV82cHN1Nk5BeWx2SGVkYlcxV2xZeWRlSnFxS1lLdkN2clR6Q2VndGdLQmlSbUdXbmZJdkszTVc4X1VuRnI3OGpOTTh2cV9COWs2SzR2Ul9zVHJsNTQ5bjhoNExTWnZWQjJPemxaY2ZXWVc1RUktYWtiak9oTU9ZSkFleXJ3c3U1WQ?oc=5",
-      "source": "Washington Examiner",
-      "published": "2026-08-14T21:52:00+00:00",
-      "score": 2.99,
       "tags": [
         "tension"
       ]
