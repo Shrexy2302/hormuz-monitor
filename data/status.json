@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 95.0,
+  "tension_index": 93.1,
   "closure_signals": 5,
   "articles_scanned": 202,
-  "updated": "2026-08-16T06:28:14.182779+00:00",
+  "updated": "2026-08-16T07:09:14.600346+00:00",
   "headlines": [
     {
       "title": "Iran Says It Will Keep Strait of Hormuz Closed Until US Accepts Its Terms - bloomingbit",
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CVDdELXViMUpVei1hVUVyUlRsRkFzRHc4MFptN2gwc0RfZDhvZWZGS0JBWjZjb1kxNHViSGpxZDM1MzZRLTZpY2huM2pKR2diMWlxUl96LVpUdWtBcnh2XzdzTmt0UQ?oc=5",
       "source": "\u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
       "published": "2026-08-15T01:08:10+00:00",
-      "score": 9.7,
+      "score": 9.67,
       "tags": [
         "closure"
       ]
@@ -31,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVmxfMThFcGpOV0FXTUdmZWxOdk02OWtDemExYWVkTmVZaWwzWWRxRFlLUEE1SHNEdjc2YkNiUTFSQWdSSlBUSVYyM0R4cXZyRTVRY3RRa05aSXJrTlZJMy02MmlBRmw4bEp2VEx4Ymh6ZE1uTGZ1N1BpOU5LMWg4d2g5N3pQODktNHQxWHVB?oc=5",
       "source": "Yahoo Finance",
       "published": "2026-08-14T16:54:27+00:00",
-      "score": 9.25,
+      "score": 9.21,
       "tags": [
         "closure"
       ]
@@ -41,7 +41,7 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS0ljQ0hlZ21kR1B3TjNBSVBveGMzTkVDRHQ2dlNPRmExT01fcEtzNDk1RlhJYmc3Q0RFbmJnTUFnNGZKelVJZ1UtNEd4aVNZbTlITDhVM2Y1ZVN2ZEF5RVBoRmF1emlVQy1zOWtHQzI3ckdSVk96akdTemJQNVY3TVlMQ0xHUWExZ3BjRlFzaTQyOTJrTjJpdQ?oc=5",
       "source": "WANA News Agency",
       "published": "2026-08-14T07:53:08+00:00",
-      "score": 8.75,
+      "score": 8.71,
       "tags": [
         "closure"
       ]
@@ -51,17 +51,7 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRl9UNlJQOWowcHhnUjVFSF9MVXVnX0dSdFNlUDh5V1lqWE1udlZUVmlnLVItZHBQalQwZUdJWC1PX0E2eC01VjNnVEU3b0E0VUtSaUk0WHFNZU1UNU1xeHIzLTNsYWpVQ3p4cjRvVFE0RkNQaTNMb3M3bjk5dS1uM0VGcHJxZFJQelc4Z25zbWZrM3FoZ29CT1lXV2JEQUhxNHdGa2VnWklzNmNrSW96WS1lbWNBVTVsYTBGZWdwMUg1dHhBWmdlNG5LLTNWMkcwVkdleGNQaW5ucnp3RjJwdUhiZnlHQQ?oc=5",
       "source": "NewsCord",
       "published": "2026-08-13T09:52:48+00:00",
-      "score": 7.52,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Iranian leaders demand U.S. pay for war damage or will keep Strait of Hormuz closed - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcExuVkhsVURCdE9CWmRqbm91YnFZc2o0cFEtVXJUNEVzdjJYSEk4TTNvOThtdzI4Um44Q01KYlBHZ0Q0NVpUVTNrT3RxQWhzXzVuMVZiR3EyYllhR1Z6aUpUOWRIdkFaQ1QtdTNCX3ptVlRnNVhoYWtRa0RJUFpPdWNKeGpXYTFTNTRaVWhhMERHYjhyd1dRQ3lQZ20wWkp5RWc?oc=5",
-      "source": "CBS News",
-      "published": "2026-08-10T00:37:00+00:00",
-      "score": 3.01,
+      "score": 7.48,
       "tags": [
         "closure"
       ]
@@ -117,10 +107,20 @@
       ]
     },
     {
-      "title": "Iran Accuses Trump Of \u2018Fanciful Delusions,\u2019 Says Strait Of Hormuz \u2018Cannot Be Seized By Tweet\u2019 - forbes.com",
+      "title": "Iran Accuses Trump Of \u2018Fanciful Delusions,\u2019 Says Strait Of Hormuz \u2018Cannot Be Seized By Tweet\u2019 - Forbes",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS0hCWFRwMkxiZ3FBdDlKMW13VW03cUtYV3M3Y3lESVpVX0hMbUJQOFRsTlBSSWFZR1BoV2kySnRGVWdDV1VHRm1kRGVIMHBnUDE0SV9wQlNDN1NtLWNRbFhuVmRoTjU4dWF0UllTdmxwMVhRdl9UY1FpczJlRjFYZ3plU1VTaEUzMDlicHV6aktITEVlZGtTSjM2dWVORXdfcmhMUDRTb29kMFVLSnFVUXNxMzhkb2liS0E2ZHdweFNxOFp6QlBB?oc=5",
-      "source": "forbes.com",
+      "source": "Forbes",
       "published": "2026-08-15T17:57:39+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd0pZYV94d2NxSkJ3SjNuZVE0ODRyYi1RVlRHbFFqZXF6OUo3ZWZNT1VxQlBKQ0tHYnNrVmVRV2VnelBKY2dTVkZpeWxWU29oSW94aUpTNXE3V0o1MTBnMGU2dkVyaEt2YWhrdXMxaDFIWDN4clVMUkpOZXZKbzJuNEM3aG9YVGVSbi1CWFBucEE2aExaa2JKVDVIZ3BhRkFVWUEw0gGoAUFVX3lxTE9lS3pIMXFQdkNJTmh5WjlxOXkxWEUxejB5V3ZfdHZtY3BTbWVObUpiMFF2eWw1SktyVWI5X2ZEdnpwUkZGRklacW1hc2xVVEpsXzBveVRpVG5YQWRyejIyQTlVOU5zaThreHZYdHlzYzRBNjVGbGhVbWdUekRfZ2poQzFrcFhKVlVSOG9fb2ZKZExQcEdYYkpiWmhjWWk5bmN2dGJBLWVGTQ?oc=5",
+      "source": "CNBC",
+      "published": "2026-08-15T11:00:36+00:00",
       "score": 3.0,
       "tags": [
         "tension"
