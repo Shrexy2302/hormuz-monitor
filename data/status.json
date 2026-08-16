@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 95.6,
+  "tension_index": 95.4,
   "closure_signals": 5,
-  "articles_scanned": 206,
-  "updated": "2026-08-16T04:06:29.875638+00:00",
+  "articles_scanned": 204,
+  "updated": "2026-08-16T04:58:28.604923+00:00",
   "headlines": [
     {
       "title": "Iran Says It Will Keep Strait of Hormuz Closed Until US Accepts Its Terms - bloomingbit",
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CVDdELXViMUpVei1hVUVyUlRsRkFzRHc4MFptN2gwc0RfZDhvZWZGS0JBWjZjb1kxNHViSGpxZDM1MzZRLTZpY2huM2pKR2diMWlxUl96LVpUdWtBcnh2XzdzTmt0UQ?oc=5",
       "source": "\u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
       "published": "2026-08-15T01:08:10+00:00",
-      "score": 9.83,
+      "score": 9.79,
       "tags": [
         "closure"
       ]
@@ -31,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVmxfMThFcGpOV0FXTUdmZWxOdk02OWtDemExYWVkTmVZaWwzWWRxRFlLUEE1SHNEdjc2YkNiUTFSQWdSSlBUSVYyM0R4cXZyRTVRY3RRa05aSXJrTlZJMy02MmlBRmw4bEp2VEx4Ymh6ZE1uTGZ1N1BpOU5LMWg4d2g5N3pQODktNHQxWHVB?oc=5",
       "source": "Yahoo Finance",
       "published": "2026-08-14T16:54:27+00:00",
-      "score": 9.38,
+      "score": 9.33,
       "tags": [
         "closure"
       ]
@@ -41,7 +41,7 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS0ljQ0hlZ21kR1B3TjNBSVBveGMzTkVDRHQ2dlNPRmExT01fcEtzNDk1RlhJYmc3Q0RFbmJnTUFnNGZKelVJZ1UtNEd4aVNZbTlITDhVM2Y1ZVN2ZEF5RVBoRmF1emlVQy1zOWtHQzI3ckdSVk96akdTemJQNVY3TVlMQ0xHUWExZ3BjRlFzaTQyOTJrTjJpdQ?oc=5",
       "source": "WANA News Agency",
       "published": "2026-08-14T07:53:08+00:00",
-      "score": 8.88,
+      "score": 8.83,
       "tags": [
         "closure"
       ]
@@ -51,7 +51,7 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRl9UNlJQOWowcHhnUjVFSF9MVXVnX0dSdFNlUDh5V1lqWE1udlZUVmlnLVItZHBQalQwZUdJWC1PX0E2eC01VjNnVEU3b0E0VUtSaUk0WHFNZU1UNU1xeHIzLTNsYWpVQ3p4cjRvVFE0RkNQaTNMb3M3bjk5dS1uM0VGcHJxZFJQelc4Z25zbWZrM3FoZ29CT1lXV2JEQUhxNHdGa2VnWklzNmNrSW96WS1lbWNBVTVsYTBGZWdwMUg1dHhBWmdlNG5LLTNWMkcwVkdleGNQaW5ucnp3RjJwdUhiZnlHQQ?oc=5",
       "source": "NewsCord",
       "published": "2026-08-13T09:52:48+00:00",
-      "score": 7.65,
+      "score": 7.61,
       "tags": [
         "closure"
       ]
@@ -61,7 +61,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcExuVkhsVURCdE9CWmRqbm91YnFZc2o0cFEtVXJUNEVzdjJYSEk4TTNvOThtdzI4Um44Q01KYlBHZ0Q0NVpUVTNrT3RxQWhzXzVuMVZiR3EyYllhR1Z6aUpUOWRIdkFaQ1QtdTNCX3ptVlRnNVhoYWtRa0RJUFpPdWNKeGpXYTFTNTRaVWhhMERHYjhyd1dRQ3lQZ20wWkp5RWc?oc=5",
       "source": "CBS News",
       "published": "2026-08-10T00:37:00+00:00",
-      "score": 3.14,
+      "score": 3.09,
       "tags": [
         "closure"
       ]
@@ -107,9 +107,9 @@
       ]
     },
     {
-      "title": "UAE Blames Iran for Attack on ADNOC Vessel in Strait of Hormuz - kurdistan24.net",
+      "title": "UAE Blames Iran for Attack on ADNOC Vessel in Strait of Hormuz - Kurdistan24",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9md2ZOTFp3ZnlrbDB0NzBOZm5ncG1IS3V1ekw2SHBsMTlyVE1IMkZ3WlhYM29Vd1VscWVLRjNvRDRrMHE3cVhVUGpsdUdySUs5VFY3QWN3?oc=5",
-      "source": "kurdistan24.net",
+      "source": "Kurdistan24",
       "published": "2026-08-15T18:24:53+00:00",
       "score": 3.0,
       "tags": [
