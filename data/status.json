@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 99.2,
+  "tension_index": 101.9,
   "closure_signals": 5,
   "articles_scanned": 204,
-  "updated": "2026-08-15T23:41:55.211606+00:00",
+  "updated": "2026-08-16T00:53:39.994639+00:00",
   "headlines": [
     {
       "title": "Iran Says It Will Keep Strait of Hormuz Closed Until US Accepts Its Terms - bloomingbit",
@@ -27,11 +27,11 @@
       ]
     },
     {
-      "title": "Iran says the Strait of Hormuz is shut down. The Trump administration says 9 million barrels a day are still getting out - Yahoo Finance",
+      "title": "Iran says the Strait of Hormuz is shut down. The Trump administration says 9 million barrels a day are still getting out - finance.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVmxfMThFcGpOV0FXTUdmZWxOdk02OWtDemExYWVkTmVZaWwzWWRxRFlLUEE1SHNEdjc2YkNiUTFSQWdSSlBUSVYyM0R4cXZyRTVRY3RRa05aSXJrTlZJMy02MmlBRmw4bEp2VEx4Ymh6ZE1uTGZ1N1BpOU5LMWg4d2g5N3pQODktNHQxWHVB?oc=5",
-      "source": "Yahoo Finance",
+      "source": "finance.yahoo.com",
       "published": "2026-08-14T16:54:27+00:00",
-      "score": 9.62,
+      "score": 9.56,
       "tags": [
         "closure"
       ]
@@ -41,17 +41,17 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS0ljQ0hlZ21kR1B3TjNBSVBveGMzTkVDRHQ2dlNPRmExT01fcEtzNDk1RlhJYmc3Q0RFbmJnTUFnNGZKelVJZ1UtNEd4aVNZbTlITDhVM2Y1ZVN2ZEF5RVBoRmF1emlVQy1zOWtHQzI3ckdSVk96akdTemJQNVY3TVlMQ0xHUWExZ3BjRlFzaTQyOTJrTjJpdQ?oc=5",
       "source": "WANA News Agency",
       "published": "2026-08-14T07:53:08+00:00",
-      "score": 9.12,
+      "score": 9.06,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iran Keeps Strait of Hormuz Blocked After Trump Declares Deal Over: how 16 outlets framed it - NewsCord",
+      "title": "Iran Keeps Strait of Hormuz Blocked After Trump Declares Deal Over: how 16 outlets framed it - newscord.org",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRl9UNlJQOWowcHhnUjVFSF9MVXVnX0dSdFNlUDh5V1lqWE1udlZUVmlnLVItZHBQalQwZUdJWC1PX0E2eC01VjNnVEU3b0E0VUtSaUk0WHFNZU1UNU1xeHIzLTNsYWpVQ3p4cjRvVFE0RkNQaTNMb3M3bjk5dS1uM0VGcHJxZFJQelc4Z25zbWZrM3FoZ29CT1lXV2JEQUhxNHdGa2VnWklzNmNrSW96WS1lbWNBVTVsYTBGZWdwMUg1dHhBWmdlNG5LLTNWMkcwVkdleGNQaW5ucnp3RjJwdUhiZnlHQQ?oc=5",
-      "source": "NewsCord",
+      "source": "newscord.org",
       "published": "2026-08-13T09:52:48+00:00",
-      "score": 7.9,
+      "score": 7.83,
       "tags": [
         "closure"
       ]
@@ -61,7 +61,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcExuVkhsVURCdE9CWmRqbm91YnFZc2o0cFEtVXJUNEVzdjJYSEk4TTNvOThtdzI4Um44Q01KYlBHZ0Q0NVpUVTNrT3RxQWhzXzVuMVZiR3EyYllhR1Z6aUpUOWRIdkFaQ1QtdTNCX3ptVlRnNVhoYWtRa0RJUFpPdWNKeGpXYTFTNTRaVWhhMERHYjhyd1dRQ3lQZ20wWkp5RWc?oc=5",
       "source": "CBS News",
       "published": "2026-08-10T00:37:00+00:00",
-      "score": 3.38,
+      "score": 3.32,
       "tags": [
         "closure"
       ]
@@ -87,6 +87,16 @@
       ]
     },
     {
+      "title": "Iran strikes another ship in Strait of Hormuz as Israel steps up Lebanon attacks - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQWY1WDZmRnJPRzVwR2lHU0F5TkkxSGFZTnBrbm5zMEdXMUVIZE1iNVlLamMzWFBGTl9YWEJmaGZLaW9PSDNMdFVIQ25Da1FqMGZpUWdYelhpT2JSZnp1cjFwckN6NjFjTUI4ZnAyUWtBeHhDZ3JBTTJERG9xVUl2dXJWZXNUUjR3NXhxQ19JTFpHaTVpaU5tajZoRFJ3b2Nhd0JweldKUm8yS3dnWjZ5Z2NjYnlHYTZDcDdybmUzOA?oc=5",
+      "source": "CBS News",
+      "published": "2026-08-15T22:30:00+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
       "title": "Iran attacks third UAE tanker within a week - The Hill",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS3VQZHZGdDlJX2N0TlNubVV2QW9UdnUwMW1sTk1iUExtcFlQYlUtQ2dHMHNnaUkxbUJ6YnpscVd4WUFlZmd3WXJPbm1ZQjN2TGRzVDY4aUFCZ1ZlSk9KNFgxd3NJYlpGODNwOWVOSW93RUJVRGljcG9EblpDWTRPZUlxWlp0YkXSAYwBQVVfeXFMT1A3V3BJZlZWWFBYNnFlcVhqaVJYRjZFUVJORkxOTjRmVG91cmZGU0VTOVlKSWs4VENKR3hVZ3lhdV9GaW10QjB6RmtJb1J2cXVaRHQtelNCMmZMOGkzOGV0ZEduWEV5WFRmV2EyZzBnUS1sTmVxb1g4OVJyZy1XTTRkdGd4VnBPMzd3a0M?oc=5",
       "source": "The Hill",
@@ -97,30 +107,20 @@
       ]
     },
     {
+      "title": "UAE Blames Iran for Attack on ADNOC Vessel in Strait of Hormuz - Kurdistan24",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9md2ZOTFp3ZnlrbDB0NzBOZm5ncG1IS3V1ekw2SHBsMTlyVE1IMkZ3WlhYM29Vd1VscWVLRjNvRDRrMHE3cVhVUGpsdUdySUs5VFY3QWN3?oc=5",
+      "source": "Kurdistan24",
+      "published": "2026-08-15T18:24:53+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
       "title": "Iran Accuses Trump Of \u2018Fanciful Delusions,\u2019 Says Strait Of Hormuz \u2018Cannot Be Seized By Tweet\u2019 - Forbes",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS0hCWFRwMkxiZ3FBdDlKMW13VW03cUtYV3M3Y3lESVpVX0hMbUJQOFRsTlBSSWFZR1BoV2kySnRGVWdDV1VHRm1kRGVIMHBnUDE0SV9wQlNDN1NtLWNRbFhuVmRoTjU4dWF0UllTdmxwMVhRdl9UY1FpczJlRjFYZ3plU1VTaEUzMDlicHV6aktITEVlZGtTSjM2dWVORXdfcmhMUDRTb29kMFVLSnFVUXNxMzhkb2liS0E2ZHdweFNxOFp6QlBB?oc=5",
       "source": "Forbes",
       "published": "2026-08-15T17:57:39+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "UAE Blames Iran for Attack on ADNOC Vessel in Strait of Hormuz - Kurdistan24",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRU4xejFxLVZUOEp2TENOXzUwOS14YW93dE81VjMzdkhmYy1vQlIzYTZycFZ0Yy1aZk5MM1Z3eVNqX3c5bXNYd2FVV3M4OWMxYVNIY2pkS05JV0R0QjcxQVM0bU5mc3doTWdmbzVBZ0NGRmpWUjZPY0djWTdiZEExeXlvYVY0ckE5WXh3SU5UbFNDN1VsSEpQdDRBN1lpb3NRQkx5OS16eFFWdw?oc=5",
-      "source": "Kurdistan24",
-      "published": "2026-08-15T15:39:42+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd0pZYV94d2NxSkJ3SjNuZVE0ODRyYi1RVlRHbFFqZXF6OUo3ZWZNT1VxQlBKQ0tHYnNrVmVRV2VnelBKY2dTVkZpeWxWU29oSW94aUpTNXE3V0o1MTBnMGU2dkVyaEt2YWhrdXMxaDFIWDN4clVMUkpOZXZKbzJuNEM3aG9YVGVSbi1CWFBucEE2aExaa2JKVDVIZ3BhRkFVWUEw0gGoAUFVX3lxTE9lS3pIMXFQdkNJTmh5WjlxOXkxWEUxejB5V3ZfdHZtY3BTbWVObUpiMFF2eWw1SktyVWI5X2ZEdnpwUkZGRklacW1hc2xVVEpsXzBveVRpVG5YQWRyejIyQTlVOU5zaThreHZYdHlzYzRBNjVGbGhVbWdUekRfZ2poQzFrcFhKVlVSOG9fb2ZKZExQcEdYYkpiWmhjWWk5bmN2dGJBLWVGTQ?oc=5",
-      "source": "CNBC",
-      "published": "2026-08-15T11:00:36+00:00",
       "score": 3.0,
       "tags": [
         "tension"
