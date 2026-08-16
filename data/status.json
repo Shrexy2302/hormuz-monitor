@@ -1,15 +1,15 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 96.2,
+  "tension_index": 95.1,
   "closure_signals": 5,
-  "articles_scanned": 203,
-  "updated": "2026-08-16T05:29:51.851734+00:00",
+  "articles_scanned": 204,
+  "updated": "2026-08-16T05:55:21.855533+00:00",
   "headlines": [
     {
-      "title": "Iran Says It Will Keep Strait of Hormuz Closed Until US Accepts Its Terms - en.bloomingbit.io",
+      "title": "Iran Says It Will Keep Strait of Hormuz Closed Until US Accepts Its Terms - bloomingbit",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1mbFlURlpUVkt2UWxuRzJsOGZaOVJqSE5YVHp5NU9oa2pINjVlQmhkSXAyaXZGQmRYejVCbVFXcWpfSEh3cjN1UHpCeW40VmpSaEhMZQ?oc=5",
-      "source": "en.bloomingbit.io",
+      "source": "bloomingbit",
       "published": "2026-08-15T07:14:07+00:00",
       "score": 10.0,
       "tags": [
@@ -21,17 +21,17 @@
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CVDdELXViMUpVei1hVUVyUlRsRkFzRHc4MFptN2gwc0RfZDhvZWZGS0JBWjZjb1kxNHViSGpxZDM1MzZRLTZpY2huM2pKR2diMWlxUl96LVpUdWtBcnh2XzdzTmt0UQ?oc=5",
       "source": "\u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
       "published": "2026-08-15T01:08:10+00:00",
-      "score": 9.76,
+      "score": 9.73,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iran says the Strait of Hormuz is shut down. The Trump administration says 9 million barrels a day are still getting out - Yahoo Finance",
+      "title": "Iran says the Strait of Hormuz is shut down. The Trump administration says 9 million barrels a day are still getting out - finance.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVmxfMThFcGpOV0FXTUdmZWxOdk02OWtDemExYWVkTmVZaWwzWWRxRFlLUEE1SHNEdjc2YkNiUTFSQWdSSlBUSVYyM0R4cXZyRTVRY3RRa05aSXJrTlZJMy02MmlBRmw4bEp2VEx4Ymh6ZE1uTGZ1N1BpOU5LMWg4d2g5N3pQODktNHQxWHVB?oc=5",
-      "source": "Yahoo Finance",
+      "source": "finance.yahoo.com",
       "published": "2026-08-14T16:54:27+00:00",
-      "score": 9.3,
+      "score": 9.28,
       "tags": [
         "closure"
       ]
@@ -41,7 +41,7 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS0ljQ0hlZ21kR1B3TjNBSVBveGMzTkVDRHQ2dlNPRmExT01fcEtzNDk1RlhJYmc3Q0RFbmJnTUFnNGZKelVJZ1UtNEd4aVNZbTlITDhVM2Y1ZVN2ZEF5RVBoRmF1emlVQy1zOWtHQzI3ckdSVk96akdTemJQNVY3TVlMQ0xHUWExZ3BjRlFzaTQyOTJrTjJpdQ?oc=5",
       "source": "WANA News Agency",
       "published": "2026-08-14T07:53:08+00:00",
-      "score": 8.8,
+      "score": 8.78,
       "tags": [
         "closure"
       ]
@@ -51,7 +51,7 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRl9UNlJQOWowcHhnUjVFSF9MVXVnX0dSdFNlUDh5V1lqWE1udlZUVmlnLVItZHBQalQwZUdJWC1PX0E2eC01VjNnVEU3b0E0VUtSaUk0WHFNZU1UNU1xeHIzLTNsYWpVQ3p4cjRvVFE0RkNQaTNMb3M3bjk5dS1uM0VGcHJxZFJQelc4Z25zbWZrM3FoZ29CT1lXV2JEQUhxNHdGa2VnWklzNmNrSW96WS1lbWNBVTVsYTBGZWdwMUg1dHhBWmdlNG5LLTNWMkcwVkdleGNQaW5ucnp3RjJwdUhiZnlHQQ?oc=5",
       "source": "NewsCord",
       "published": "2026-08-13T09:52:48+00:00",
-      "score": 7.58,
+      "score": 7.55,
       "tags": [
         "closure"
       ]
@@ -61,7 +61,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcExuVkhsVURCdE9CWmRqbm91YnFZc2o0cFEtVXJUNEVzdjJYSEk4TTNvOThtdzI4Um44Q01KYlBHZ0Q0NVpUVTNrT3RxQWhzXzVuMVZiR3EyYllhR1Z6aUpUOWRIdkFaQ1QtdTNCX3ptVlRnNVhoYWtRa0RJUFpPdWNKeGpXYTFTNTRaVWhhMERHYjhyd1dRQ3lQZ20wWkp5RWc?oc=5",
       "source": "CBS News",
       "published": "2026-08-10T00:37:00+00:00",
-      "score": 3.06,
+      "score": 3.04,
       "tags": [
         "closure"
       ]
