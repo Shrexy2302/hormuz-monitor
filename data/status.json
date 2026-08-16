@@ -1,17 +1,17 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 105.8,
+  "tension_index": 102.8,
   "closure_signals": 7,
   "articles_scanned": 205,
-  "updated": "2026-08-16T16:48:32.475714+00:00",
+  "updated": "2026-08-16T17:13:56.150721+00:00",
   "headlines": [
     {
       "title": "Iran Says It Will Keep Strait of Hormuz Closed Until US Accepts Its Terms - bloomingbit",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1mbFlURlpUVkt2UWxuRzJsOGZaOVJqSE5YVHp5NU9oa2pINjVlQmhkSXAyaXZGQmRYejVCbVFXcWpfSEh3cjN1UHpCeW40VmpSaEhMZQ?oc=5",
       "source": "bloomingbit",
       "published": "2026-08-15T07:14:07+00:00",
-      "score": 9.47,
+      "score": 9.44,
       "tags": [
         "closure"
       ]
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CVDdELXViMUpVei1hVUVyUlRsRkFzRHc4MFptN2gwc0RfZDhvZWZGS0JBWjZjb1kxNHViSGpxZDM1MzZRLTZpY2huM2pKR2diMWlxUl96LVpUdWtBcnh2XzdzTmt0UQ?oc=5",
       "source": "\u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
       "published": "2026-08-15T01:08:10+00:00",
-      "score": 9.13,
+      "score": 9.11,
       "tags": [
         "closure"
       ]
@@ -31,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVmxfMThFcGpOV0FXTUdmZWxOdk02OWtDemExYWVkTmVZaWwzWWRxRFlLUEE1SHNEdjc2YkNiUTFSQWdSSlBUSVYyM0R4cXZyRTVRY3RRa05aSXJrTlZJMy02MmlBRmw4bEp2VEx4Ymh6ZE1uTGZ1N1BpOU5LMWg4d2g5N3pQODktNHQxWHVB?oc=5",
       "source": "Yahoo Finance",
       "published": "2026-08-14T16:54:27+00:00",
-      "score": 8.67,
+      "score": 8.65,
       "tags": [
         "closure"
       ]
@@ -41,7 +41,7 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeUJGazFZU1g0bFJMR2pOWXRrWUhnOE1DVGlIMUR4SHBPMWZLUzB3eTYyZm12V25waHNjQWdQQTE4WUtweUtIdURHUmFvZmR4TTJtYjFFaGtDcDNQWHZfQVJBV25laFo3ak5xcU1VQ2ZvRlFJeUJkXzRRSG95eDRQWjliRFhMUkxCZWxmQVVQY3lmaTZ5WGc?oc=5",
       "source": "Fortune",
       "published": "2026-08-14T16:54:00+00:00",
-      "score": 8.67,
+      "score": 8.65,
       "tags": [
         "closure"
       ]
@@ -51,7 +51,7 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS0ljQ0hlZ21kR1B3TjNBSVBveGMzTkVDRHQ2dlNPRmExT01fcEtzNDk1RlhJYmc3Q0RFbmJnTUFnNGZKelVJZ1UtNEd4aVNZbTlITDhVM2Y1ZVN2ZEF5RVBoRmF1emlVQy1zOWtHQzI3ckdSVk96akdTemJQNVY3TVlMQ0xHUWExZ3BjRlFzaTQyOTJrTjJpdQ?oc=5",
       "source": "WANA News Agency",
       "published": "2026-08-14T07:53:08+00:00",
-      "score": 8.17,
+      "score": 8.15,
       "tags": [
         "closure"
       ]
@@ -61,7 +61,7 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRl9UNlJQOWowcHhnUjVFSF9MVXVnX0dSdFNlUDh5V1lqWE1udlZUVmlnLVItZHBQalQwZUdJWC1PX0E2eC01VjNnVEU3b0E0VUtSaUk0WHFNZU1UNU1xeHIzLTNsYWpVQ3p4cjRvVFE0RkNQaTNMb3M3bjk5dS1uM0VGcHJxZFJQelc4Z25zbWZrM3FoZ29CT1lXV2JEQUhxNHdGa2VnWklzNmNrSW96WS1lbWNBVTVsYTBGZWdwMUg1dHhBWmdlNG5LLTNWMkcwVkdleGNQaW5ucnp3RjJwdUhiZnlHQQ?oc=5",
       "source": "NewsCord",
       "published": "2026-08-13T09:52:48+00:00",
-      "score": 6.95,
+      "score": 6.92,
       "tags": [
         "closure"
       ]
@@ -71,19 +71,9 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWkJhazR2SXY2NEdKdTFXUTVGaE1ua2JKUG5LR0tqQzRGN1BDLVZubkdxRDJPSGRGd2lZNmZ1N0RmZ2NhbGpLNkM3bXJCbzhtNEp0VkNBRzBoU3JQZW1yRHF2OElLVE1FNElHZGphUVdTNlk3Ym0yR24tWk9nZERKRFdSMnRDRU8tN3JOVXEwMko0Zw?oc=5",
       "source": "Marine News Magazine",
       "published": "2026-08-14T18:25:10+00:00",
-      "score": 6.13,
+      "score": 6.11,
       "tags": [
         "closure"
-      ]
-    },
-    {
-      "title": "Bab el-Mandeb Strait faces growing threat as Houthi attacks raise fears of a second Hormuz - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcWZ4Y3pCY2JPd1Q3NDhQem9ueXlmOVFzX05Rb20zcVNacTdSRHd0REU1LUJiUlJ3MW5qWlNtOVlOOU8yZmd5UHRESE1odm5NMkFqWFlPdlZ2YXowdl80TGZ1d0VRc0l5OHRjMnVnQlFZSkwtajBZZFFISFNaNmpISDNWd2N0bVVhNnY1M1IxOWstWGpKb1ZOcFJOTFk0UUNJYWJQclhhZG8yNFdfN205TFpn0gG3AUFVX3lxTFBMbVBaay1Kal9NaTNkb0p3MlU5eWY1YVNOSjlERXl2ckxqZHNuU3h1a0JzUjFXUzRWSVdrbzRYd2RJaGpWNU9uSnhGYmVtZVFkVUk2TVpjRGRZbDRFNkpnWUttTmV1MkhhU2JZb1JvRlYtRXdtSEtfUU9QRWduaUIxVU5TR25IaG1YS0xqaGMtZVJveFRUUVlDbnE3T0pxQW9ZZV9rSnI3d0NuRXJYY0Qxc1IxQWFLMA?oc=5",
-      "source": "Fox News",
-      "published": "2026-08-16T13:53:38+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
       ]
     },
     {
@@ -121,6 +111,16 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYXY2RlRCLUlzWHBxQnlxZzQ0Ml9lMWJFWjJsUG1pMVpqbEc1dUJ1dVMycmtnenlsVlNja25FcTE5cEw3ZnVLNk1Qem1LQzlBUkVxcV84LUdJTkgxbUViMFdXRVlZV3YyMUd5MXVZTjNQZU15TXhnd3k2VXVMV0lYQnpLNFZPbk80Wnc?oc=5",
       "source": "gCaptain",
       "published": "2026-08-15T21:38:43+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran, Oman strike Hormuz shipping deal \u2014 but \u2018US action on June memorandum\u2019 condition applies - Firstpost",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUGp3UHlaUTNJZWRpOElxMUFvbFhtS3g3Q1lyTDByTkkyeHhUUUhQMVVocnRKUXBkOVo5QVRfbEUxWEVlb08zXzdXUm5OZmNjWl9BcjA5OFMzb0NOYWMtcXQ5Q240R3k2d3czMmFiLWF5SFRoaWsxbFF3cVpBTWNtOVU0aTR3MzktY2dCTkFEQTF3ZDJQVTg3UmNxaFBKNTBRZTA3a2tPRXRHSFlQOHQ4aDQ3dmxERnJ2a3VyYi130gHDAUFVX3lxTE5uY3ZTOUM3eUZZUF9UNDlKeVE1cWtCWFV6NERsdmsxc01nZkp3ZHZkbFdwZUpfZmZzN0xKVWUyY3FCaS14R20yLWRyaS02bW82UFQ3XzZ4cV9tbkhPN241WmhObklWTDl1VHBsNmVUMnM5T0E5YkgtYjY1b2NGRDNLbW11NGhCcGhocVpYb0pvcFNZTnp5b1AxVDBlbXZ3VTFfemZIMTRnWng0NU1XZmhZeW14QWVRa2pzMFhXb1FNeVJoOA?oc=5",
+      "source": "Firstpost",
+      "published": "2026-08-15T19:34:34+00:00",
       "score": 3.0,
       "tags": [
         "tension"
