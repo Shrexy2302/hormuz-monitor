@@ -1,11 +1,22 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 78.0,
-  "closure_signals": 3,
-  "articles_scanned": 208,
-  "updated": "2026-08-17T20:17:47.936224+00:00",
+  "tension_index": 83.7,
+  "closure_signals": 4,
+  "articles_scanned": 206,
+  "updated": "2026-08-17T20:51:15.263067+00:00",
   "headlines": [
+    {
+      "title": "U.S.-Iran Tensions Keep The Strait Of Hormuz Closed With No End in Sight. Stocks Declined. - International Business Times",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNenMzNEd0Z1FHd2hfQ0N4YUdVVm8xV2NqSG5hSm5lZG94b0hWQ0pJR0wtb3k0aGxFTndKc1NieHZFeHk1NGVKc0k1aklUeG1KMmdZZTFuSVBxQ09FcmtvSzlhb1lVX2txaXVKM2FMVlc1aG9XNTVQWjdWci04LXVUV2FpSG91SGlDZmFoWkxyTnFBQXJ1NTZwSmljYnRqdE5NeDNDSW5R?oc=5",
+      "source": "International Business Times",
+      "published": "2026-08-17T20:03:34+00:00",
+      "score": 11.0,
+      "tags": [
+        "closure",
+        "tension"
+      ]
+    },
     {
       "title": "Diesel spikes to $5.41 nationally as closure of Strait of Hormuz pressures prices - WLUK",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZS0zV3NTVHhMNTMzRHZ0eUpjZnBjN1pvYVBHSnpZSS1WREtFU3JPTXQxSFZHalR4c3ZZYk5qTEsyQUhBb3FGdnVEM2FQSjliNzhzQmIzYnRHUmgzVDNxdjcxMGpHS3M1blZwNVRQVzI5SEJXY1hDaEVWdnU0Y1BaeEhmUUtYSFZyOGRxSk40WTZjZjhRaTlFSGxjWXNMcnphOWlmVzhIUnU5Vi1JRGwyS2lpRm52OTQ?oc=5",
@@ -21,7 +32,7 @@
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CVDdELXViMUpVei1hVUVyUlRsRkFzRHc4MFptN2gwc0RfZDhvZWZGS0JBWjZjb1kxNHViSGpxZDM1MzZRLTZpY2huM2pKR2diMWlxUl96LVpUdWtBcnh2XzdzTmt0UQ?oc=5",
       "source": "\u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
       "published": "2026-08-15T01:08:10+00:00",
-      "score": 7.6,
+      "score": 7.57,
       "tags": [
         "closure"
       ]
@@ -31,7 +42,7 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeUJGazFZU1g0bFJMR2pOWXRrWUhnOE1DVGlIMUR4SHBPMWZLUzB3eTYyZm12V25waHNjQWdQQTE4WUtweUtIdURHUmFvZmR4TTJtYjFFaGtDcDNQWHZfQVJBV25laFo3ak5xcU1VQ2ZvRlFJeUJkXzRRSG95eDRQWjliRFhMUkxCZWxmQVVQY3lmaTZ5WGc?oc=5",
       "source": "Fortune",
       "published": "2026-08-14T16:54:00+00:00",
-      "score": 7.14,
+      "score": 7.11,
       "tags": [
         "closure"
       ]
@@ -57,9 +68,9 @@
       ]
     },
     {
-      "title": "Strait of Hormuz Shipping Disruption: Attacks, Stalled Talks, and Oil Market Impact - News and Statistics - IndexBox",
+      "title": "Strait of Hormuz Shipping Disruption: Attacks, Stalled Talks, and Oil Market Impact - News and Statistics - indexbox.io",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMFlrZlYtRUJsQjh4NFVVNDBvRUZiOS0yZ3VjbHZIX09xdzJJTUYtZ0VpZjg5U3N0RTdObUxnUUdWcE1qcEdLbzJ2ZmtLQ2dTUHRlMnk3bDB3U3p0YkNaSlBiZXlwSzF4Z0JjbXpVX0pCR0N1MkFLbGtsMF9qZ2dwZkUzWl9FTXhVRWtmTVdBRER0ZE0?oc=5",
-      "source": "IndexBox",
+      "source": "indexbox.io",
       "published": "2026-08-17T04:51:00+00:00",
       "score": 3.0,
       "tags": [
@@ -87,11 +98,11 @@
       ]
     },
     {
-      "title": "Bab el-Mandeb Strait faces growing threat as Houthi attacks raise fears of a second Hormuz - foxnews.com",
+      "title": "Bab el-Mandeb Strait faces growing threat as Houthi attacks raise fears of a second Hormuz - Fox News",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcWZ4Y3pCY2JPd1Q3NDhQem9ueXlmOVFzX05Rb20zcVNacTdSRHd0REU1LUJiUlJ3MW5qWlNtOVlOOU8yZmd5UHRESE1odm5NMkFqWFlPdlZ2YXowdl80TGZ1d0VRc0l5OHRjMnVnQlFZSkwtajBZZFFISFNaNmpISDNWd2N0bVVhNnY1M1IxOWstWGpKb1ZOcFJOTFk0UUNJYWJQclhhZG8yNFdfN205TFpn0gG3AUFVX3lxTFBMbVBaay1Kal9NaTNkb0p3MlU5eWY1YVNOSjlERXl2ckxqZHNuU3h1a0JzUjFXUzRWSVdrbzRYd2RJaGpWNU9uSnhGYmVtZVFkVUk2TVpjRGRZbDRFNkpnWUttTmV1MkhhU2JZb1JvRlYtRXdtSEtfUU9QRWduaUIxVU5TR25IaG1YS0xqaGMtZVJveFRUUVlDbnE3T0pxQW9ZZV9rSnI3d0NuRXJYY0Qxc1IxQWFLMA?oc=5",
-      "source": "foxnews.com",
+      "source": "Fox News",
       "published": "2026-08-16T13:53:38+00:00",
-      "score": 2.89,
+      "score": 2.88,
       "tags": [
         "tension"
       ]
@@ -101,7 +112,7 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS19ZUksxSnliT05sLVlKZ2JFeVdpU0l0elN5Y1o1UVRXU3NjMGFVMndlUWxNSkFhUzdkRnBsaEs1Y3Z5ampPSFZpR0tXVnpENldMdEtNR2d4M1NmakRteWx5cEM5T29wdWpzbmFkSko4aElxb0JWWTlLN2FmYVY3R2xzS21SaHlsRVlpeEFkQ3hUUllwQjExdGpPeTBkemdZOGRPOEZ4NkFnZ0ozQ2c?oc=5",
       "source": "Reuters",
       "published": "2026-08-11T11:29:01+00:00",
-      "score": 2.84,
+      "score": 2.81,
       "tags": [
         "closure"
       ]
@@ -111,24 +122,14 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTTRFNlQ0ZzI0SVU5N2lXNnY4Z1JCRTZjWmM2X0RZVk9GRkpSdHUzMlRwdy1ndWdySlpBbWlINlhNN1JKVVM4NzctQ2ZKVDBsVmVYWWtLdHY0S2c5VkhRdWpBS1FCNDE0bzFBSHN0anNfTEhTcHE1NUQ5OFNfZmk0TFMxZTY2WktZdUQxWm9iVW9QVkQ4SWVJWjJNOF9oMVNxZUE?oc=5",
       "source": "Classic Rock 103.5 WIMZ",
       "published": "2026-08-16T07:00:00+00:00",
-      "score": 2.78,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "UAE accuses Iran of launch strike on oil tanker in Strait of Hormuz - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORERuY0ViWGV0MmNPS0U3NnFCLTJKcWpfNUdfZjlBeHpnZUdYQjd4cWNQNTZ2azBLZTA1TXRzLTZLRC1KN29YRndLaGllS3M2cmg2TkNobENjdlVTRDlBRjh6UWxKc091T1N2VU5yRmtoSjF1YzF5WUEzVk1mTkNEWEZ5bEliZlVCY0sxUjdUZ2hjS09tSDZiVm9pS1Zqd0FKSXpBVS15MkRLUQ?oc=5",
-      "source": "CBS News",
-      "published": "2026-08-15T23:25:00+00:00",
-      "score": 2.65,
+      "score": 2.77,
       "tags": [
         "tension"
       ]
     }
   ],
   "brent": {
-    "price": 90.75,
-    "change_pct": 2.52
+    "price": 91.11,
+    "change_pct": 2.93
   }
 }
