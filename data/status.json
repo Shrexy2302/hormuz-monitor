@@ -1,15 +1,15 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 82.0,
+  "tension_index": 69.2,
   "closure_signals": 3,
-  "articles_scanned": 206,
-  "updated": "2026-08-17T19:07:29.121808+00:00",
+  "articles_scanned": 207,
+  "updated": "2026-08-17T19:49:27.533992+00:00",
   "headlines": [
     {
-      "title": "Diesel spikes to $5.41 nationally as closure of Strait of Hormuz pressures prices - WLUK",
+      "title": "Diesel spikes to $5.41 nationally as closure of Strait of Hormuz pressures prices - fox11online.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZS0zV3NTVHhMNTMzRHZ0eUpjZnBjN1pvYVBHSnpZSS1WREtFU3JPTXQxSFZHalR4c3ZZYk5qTEsyQUhBb3FGdnVEM2FQSjliNzhzQmIzYnRHUmgzVDNxdjcxMGpHS3M1blZwNVRQVzI5SEJXY1hDaEVWdnU0Y1BaeEhmUUtYSFZyOGRxSk40WTZjZjhRaTlFSGxjWXNMcnphOWlmVzhIUnU5Vi1JRGwyS2lpRm52OTQ?oc=5",
-      "source": "WLUK",
+      "source": "fox11online.com",
       "published": "2026-08-17T10:44:02+00:00",
       "score": 8.0,
       "tags": [
@@ -17,11 +17,11 @@
       ]
     },
     {
-      "title": "Iran Keeps Strait of Hormuz Blocked as Trump Defends Higher US Fuel Prices - mezha.net",
+      "title": "Iran Keeps Strait of Hormuz Blocked as Trump Defends Higher US Fuel Prices - \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CVDdELXViMUpVei1hVUVyUlRsRkFzRHc4MFptN2gwc0RfZDhvZWZGS0JBWjZjb1kxNHViSGpxZDM1MzZRLTZpY2huM2pKR2diMWlxUl96LVpUdWtBcnh2XzdzTmt0UQ?oc=5",
-      "source": "mezha.net",
+      "source": "\u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
       "published": "2026-08-15T01:08:10+00:00",
-      "score": 7.67,
+      "score": 7.63,
       "tags": [
         "closure"
       ]
@@ -31,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeUJGazFZU1g0bFJMR2pOWXRrWUhnOE1DVGlIMUR4SHBPMWZLUzB3eTYyZm12V25waHNjQWdQQTE4WUtweUtIdURHUmFvZmR4TTJtYjFFaGtDcDNQWHZfQVJBV25laFo3ak5xcU1VQ2ZvRlFJeUJkXzRRSG95eDRQWjliRFhMUkxCZWxmQVVQY3lmaTZ5WGc?oc=5",
       "source": "Fortune",
       "published": "2026-08-14T16:54:00+00:00",
-      "score": 7.21,
+      "score": 7.17,
       "tags": [
         "closure"
       ]
@@ -87,29 +87,9 @@
       ]
     },
     {
-      "title": "Shipping through Hormuz Strait slows after tanker attacks - Middle East Eye",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHc4ejYwRktxVXhCU3lxam1Nd3JtZFlwZEs5cmtwbExiRkNXd2FiWW5kRUc1cTlWbnFFc1Z5aTF2MHZ0REdFdFk4NnpMeGUzanhZM2N6RDdiY2RRVUhINWktN04tUlNYZm9uUWtqWmJTUUlJZ1BNU1ZORXpPVHVCNGc1VGRrUjd2cEVoVWtsQ2d3ZmVOZ2FZNnB1VVUxLWR1M05YdzBDTWRpX1pBeWZUb0FDaXU?oc=5",
-      "source": "Middle East Eye",
-      "published": "2026-08-17T01:43:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Strait of Hormuz traffic drops to near standstill following tanker attacks - Israel National News",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoYXNBeG1qSFFhbXBtTFhzY3JoalUzR1ZuYmtVdGFqeUpkS3lJLXEwcGd2OWZLek01UWpURGhWY3hJOXhxQm9jTlB2NUdMNDd6UzgtckJHT0hVZw?oc=5",
-      "source": "Israel National News",
-      "published": "2026-08-17T01:23:27+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Shipping slows through Strait of Hormuz after tanker attacks, data shows - Reuters",
+      "title": "Shipping slows through Strait of Hormuz after tanker attacks, data shows - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS011b1NvcmEzQUNzX2dVdzFyUmg1UnpkLXZqNW5nUFFxNGZpaE51amZaZWJDZnNTQi1yZDE2cGxwU09PdzhMWWJiV1lpMk0xSmJmb0dQNVdGN1F3RHBTaVQtRzlsU2Nwa2RER0ZlbngzOWc3aDV2MmMwRmNfZ2xXclpHRzE0RkFzeDZ3MjY2QTAwMlFPSEVTeTRQM0JDQ2VtQjVPQTFPZWxRaXB4YzBTbjBVSXlxQTBoMUE?oc=5",
-      "source": "Reuters",
+      "source": "reuters.com",
       "published": "2026-08-16T23:54:51+00:00",
       "score": 3.0,
       "tags": [
@@ -121,14 +101,34 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcWZ4Y3pCY2JPd1Q3NDhQem9ueXlmOVFzX05Rb20zcVNacTdSRHd0REU1LUJiUlJ3MW5qWlNtOVlOOU8yZmd5UHRESE1odm5NMkFqWFlPdlZ2YXowdl80TGZ1d0VRc0l5OHRjMnVnQlFZSkwtajBZZFFISFNaNmpISDNWd2N0bVVhNnY1M1IxOWstWGpKb1ZOcFJOTFk0UUNJYWJQclhhZG8yNFdfN205TFpn0gG3AUFVX3lxTFBMbVBaay1Kal9NaTNkb0p3MlU5eWY1YVNOSjlERXl2ckxqZHNuU3h1a0JzUjFXUzRWSVdrbzRYd2RJaGpWNU9uSnhGYmVtZVFkVUk2TVpjRGRZbDRFNkpnWUttTmV1MkhhU2JZb1JvRlYtRXdtSEtfUU9QRWduaUIxVU5TR25IaG1YS0xqaGMtZVJveFRUUVlDbnE3T0pxQW9ZZV9rSnI3d0NuRXJYY0Qxc1IxQWFLMA?oc=5",
       "source": "Fox News",
       "published": "2026-08-16T13:53:38+00:00",
-      "score": 2.91,
+      "score": 2.9,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Uniper CEO predicts high gas prices as long as Strait of Hormuz shut - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS19ZUksxSnliT05sLVlKZ2JFeVdpU0l0elN5Y1o1UVRXU3NjMGFVMndlUWxNSkFhUzdkRnBsaEs1Y3Z5ampPSFZpR0tXVnpENldMdEtNR2d4M1NmakRteWx5cEM5T29wdWpzbmFkSko4aElxb0JWWTlLN2FmYVY3R2xzS21SaHlsRVlpeEFkQ3hUUllwQjExdGpPeTBkemdZOGRPOEZ4NkFnZ0ozQ2c?oc=5",
+      "source": "reuters.com",
+      "published": "2026-08-11T11:29:01+00:00",
+      "score": 2.87,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "UAE accuses Iran of launch strike on oil tanker in Strait of Hormuz - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORERuY0ViWGV0MmNPS0U3NnFCLTJKcWpfNUdfZjlBeHpnZUdYQjd4cWNQNTZ2azBLZTA1TXRzLTZLRC1KN29YRndLaGllS3M2cmg2TkNobENjdlVTRDlBRjh6UWxKc091T1N2VU5yRmtoSjF1YzF5WUEzVk1mTkNEWEZ5bEliZlVCY0sxUjdUZ2hjS09tSDZiVm9pS1Zqd0FKSXpBVS15MkRLUQ?oc=5",
+      "source": "CBS News",
+      "published": "2026-08-15T23:25:00+00:00",
+      "score": 2.66,
       "tags": [
         "tension"
       ]
     }
   ],
   "brent": {
-    "price": 90.58,
-    "change_pct": 2.33
+    "price": 90.67,
+    "change_pct": 2.43
   }
 }
