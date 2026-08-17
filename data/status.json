@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 88.6,
+  "tension_index": 91.3,
   "closure_signals": 4,
   "articles_scanned": 206,
-  "updated": "2026-08-17T17:52:48.808867+00:00",
+  "updated": "2026-08-17T18:28:18.426649+00:00",
   "headlines": [
     {
       "title": "Diesel spikes to $5.41 nationally as closure of Strait of Hormuz pressures prices - WLUK",
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CVDdELXViMUpVei1hVUVyUlRsRkFzRHc4MFptN2gwc0RfZDhvZWZGS0JBWjZjb1kxNHViSGpxZDM1MzZRLTZpY2huM2pKR2diMWlxUl96LVpUdWtBcnh2XzdzTmt0UQ?oc=5",
       "source": "mezha.net",
       "published": "2026-08-15T01:08:10+00:00",
-      "score": 7.74,
+      "score": 7.7,
       "tags": [
         "closure"
       ]
@@ -31,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVmxfMThFcGpOV0FXTUdmZWxOdk02OWtDemExYWVkTmVZaWwzWWRxRFlLUEE1SHNEdjc2YkNiUTFSQWdSSlBUSVYyM0R4cXZyRTVRY3RRa05aSXJrTlZJMy02MmlBRmw4bEp2VEx4Ymh6ZE1uTGZ1N1BpOU5LMWg4d2g5N3pQODktNHQxWHVB?oc=5",
       "source": "Yahoo Finance",
       "published": "2026-08-14T16:54:27+00:00",
-      "score": 7.28,
+      "score": 7.25,
       "tags": [
         "closure"
       ]
@@ -41,7 +41,7 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeUJGazFZU1g0bFJMR2pOWXRrWUhnOE1DVGlIMUR4SHBPMWZLUzB3eTYyZm12V25waHNjQWdQQTE4WUtweUtIdURHUmFvZmR4TTJtYjFFaGtDcDNQWHZfQVJBV25laFo3ak5xcU1VQ2ZvRlFJeUJkXzRRSG95eDRQWjliRFhMUkxCZWxmQVVQY3lmaTZ5WGc?oc=5",
       "source": "Fortune",
       "published": "2026-08-14T16:54:00+00:00",
-      "score": 7.28,
+      "score": 7.25,
       "tags": [
         "closure"
       ]
@@ -128,7 +128,7 @@
     }
   ],
   "brent": {
-    "price": 90.64,
-    "change_pct": 2.39
+    "price": 90.92,
+    "change_pct": 2.71
   }
 }
