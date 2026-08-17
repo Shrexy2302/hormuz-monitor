@@ -1,17 +1,17 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 101.8,
+  "tension_index": 107.0,
   "closure_signals": 6,
   "articles_scanned": 204,
-  "updated": "2026-08-17T10:55:05.459764+00:00",
+  "updated": "2026-08-17T11:18:44.883441+00:00",
   "headlines": [
     {
       "title": "Iran Says It Will Keep Strait of Hormuz Closed Until US Accepts Its Terms - bloomingbit",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1mbFlURlpUVkt2UWxuRzJsOGZaOVJqSE5YVHp5NU9oa2pINjVlQmhkSXAyaXZGQmRYejVCbVFXcWpfSEh3cjN1UHpCeW40VmpSaEhMZQ?oc=5",
       "source": "bloomingbit",
       "published": "2026-08-15T07:14:07+00:00",
-      "score": 8.46,
+      "score": 8.44,
       "tags": [
         "closure"
       ]
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CVDdELXViMUpVei1hVUVyUlRsRkFzRHc4MFptN2gwc0RfZDhvZWZGS0JBWjZjb1kxNHViSGpxZDM1MzZRLTZpY2huM2pKR2diMWlxUl96LVpUdWtBcnh2XzdzTmt0UQ?oc=5",
       "source": "\u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
       "published": "2026-08-15T01:08:10+00:00",
-      "score": 8.12,
+      "score": 8.1,
       "tags": [
         "closure"
       ]
@@ -41,7 +41,7 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVmxfMThFcGpOV0FXTUdmZWxOdk02OWtDemExYWVkTmVZaWwzWWRxRFlLUEE1SHNEdjc2YkNiUTFSQWdSSlBUSVYyM0R4cXZyRTVRY3RRa05aSXJrTlZJMy02MmlBRmw4bEp2VEx4Ymh6ZE1uTGZ1N1BpOU5LMWg4d2g5N3pQODktNHQxWHVB?oc=5",
       "source": "Yahoo Finance",
       "published": "2026-08-14T16:54:27+00:00",
-      "score": 7.67,
+      "score": 7.64,
       "tags": [
         "closure"
       ]
@@ -51,7 +51,7 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeUJGazFZU1g0bFJMR2pOWXRrWUhnOE1DVGlIMUR4SHBPMWZLUzB3eTYyZm12V25waHNjQWdQQTE4WUtweUtIdURHUmFvZmR4TTJtYjFFaGtDcDNQWHZfQVJBV25laFo3ak5xcU1VQ2ZvRlFJeUJkXzRRSG95eDRQWjliRFhMUkxCZWxmQVVQY3lmaTZ5WGc?oc=5",
       "source": "Fortune",
       "published": "2026-08-14T16:54:00+00:00",
-      "score": 7.67,
+      "score": 7.64,
       "tags": [
         "closure"
       ]
@@ -61,9 +61,19 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS0ljQ0hlZ21kR1B3TjNBSVBveGMzTkVDRHQ2dlNPRmExT01fcEtzNDk1RlhJYmc3Q0RFbmJnTUFnNGZKelVJZ1UtNEd4aVNZbTlITDhVM2Y1ZVN2ZEF5RVBoRmF1emlVQy1zOWtHQzI3ckdSVk96akdTemJQNVY3TVlMQ0xHUWExZ3BjRlFzaTQyOTJrTjJpdQ?oc=5",
       "source": "WANA News Agency",
       "published": "2026-08-14T07:53:08+00:00",
-      "score": 7.16,
+      "score": 7.14,
       "tags": [
         "closure"
+      ]
+    },
+    {
+      "title": "Strait Of Hormuz Traffic Falls Drastically After Attack On 5 Commodity Tankers Over The Weekend - Marine Insight",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOTNqM0RsSzhPN29adktkVk50eDlGSkoyTnZxckQ4Z0ZVQkxKM1g3Y0NpRURVV2lxWWtQVVlrYnUzaHJLOXk2TzR5djE2NV9ManQtQ3RtNlU5QW92V29WQ09MMW1McmI5cFU3WENtcHJrN1R4VUlfOWtlcFVmSUJ0TDN2dFJaMk00QVI0NXRHVVEyOXk0VE1vSGdJc1VpRXJUZG9SUG11UEM2V1NmbHhERG83ZHpyeW9jcW9WN1VzcTlFTl9I?oc=5",
+      "source": "Marine Insight",
+      "published": "2026-08-17T08:34:47+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
       ]
     },
     {
@@ -107,20 +117,10 @@
       ]
     },
     {
-      "title": "Strait of Hormuz traffic drops to near standstill following tanker attacks - Israel National News",
+      "title": "Strait of Hormuz traffic drops to near standstill following tanker attacks - israelnationalnews.com",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoYXNBeG1qSFFhbXBtTFhzY3JoalUzR1ZuYmtVdGFqeUpkS3lJLXEwcGd2OWZLek01UWpURGhWY3hJOXhxQm9jTlB2NUdMNDd6UzgtckJHT0hVZw?oc=5",
-      "source": "Israel National News",
+      "source": "israelnationalnews.com",
       "published": "2026-08-17T01:23:27+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Strait of Hormuz traffic drops to near standstill following tanker attacks - Jewish Rhode Island",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUlVfc1ZhOExvQlZweS1KVHVMNk9vVjFGSVZyMDR3Z2wweWZMa05heHlReW1fMmdHLVVvdFdsSG1kRUdRcm1aSTFFTWw1Tm8zYVdRR0FMSXlNR1FYUnRpYmpXR2x3S3hncm5fNXZLT2pKOXFCdHpiLVdCRnBZb3lRaW55LXlURXNNWC05OFl4cURTdUpBdXpWSFhYTjNvNHRSa01JWVY5OXJWNjZSNldfdUxvM0tSdHZx?oc=5",
-      "source": "Jewish Rhode Island",
-      "published": "2026-08-17T01:23:00+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -128,7 +128,7 @@
     }
   ],
   "brent": {
-    "price": 89.3,
-    "change_pct": 0.88
+    "price": 89.19,
+    "change_pct": 0.76
   }
 }
