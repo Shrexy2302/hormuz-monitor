@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 93.2,
+  "tension_index": 96.0,
   "closure_signals": 4,
-  "articles_scanned": 209,
-  "updated": "2026-08-18T09:56:04.315187+00:00",
+  "articles_scanned": 208,
+  "updated": "2026-08-18T10:23:18.687774+00:00",
   "headlines": [
     {
       "title": "U.S.-Iran Tensions Keep The Strait Of Hormuz Closed With No End in Sight. Stocks Declined. - International Business Times",
@@ -32,7 +32,7 @@
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CVDdELXViMUpVei1hVUVyUlRsRkFzRHc4MFptN2gwc0RfZDhvZWZGS0JBWjZjb1kxNHViSGpxZDM1MzZRLTZpY2huM2pKR2diMWlxUl96LVpUdWtBcnh2XzdzTmt0UQ?oc=5",
       "source": "\u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
       "published": "2026-08-15T01:08:10+00:00",
-      "score": 6.84,
+      "score": 6.82,
       "tags": [
         "closure"
       ]
@@ -42,7 +42,7 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVmxfMThFcGpOV0FXTUdmZWxOdk02OWtDemExYWVkTmVZaWwzWWRxRFlLUEE1SHNEdjc2YkNiUTFSQWdSSlBUSVYyM0R4cXZyRTVRY3RRa05aSXJrTlZJMy02MmlBRmw4bEp2VEx4Ymh6ZE1uTGZ1N1BpOU5LMWg4d2g5N3pQODktNHQxWHVB?oc=5",
       "source": "Yahoo Finance",
       "published": "2026-08-14T16:54:27+00:00",
-      "score": 6.39,
+      "score": 6.36,
       "tags": [
         "closure"
       ]
@@ -62,6 +62,16 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT3dNdURhVHc0dUV4UmtQSF9SdkpSUURuQWhHSGNOZWdIcFBOd3k4a0h2bDZnYTg0SHBXb0pnaTJFU3BZV0tJcXB1bFVrTGZsTmpTZ05jNUtpenlEd1BpWmp3eTFENGlLd0dBWTE3azFQMnhaZHBWSVRoUUI4QmloVnhoZjgyUTVtN2V0bDZHZkg1TkNKRGxPR3pfODMzMDhxX01SU0NWZ3o0ckxE0gGyAUFVX3lxTE1kLXc5VUk4bTdvR2JJa0hMaHk2bVRvenZNVFg0b0RJNzR1MUREeVJ0ejJPTm1BaWl6M2FjNmtKSjYweW40SjYwTzRmYzVBRG42NFdhbzVva0d6S1pGRXl5UlpVZWZ4OFhVQm5lS2lyVnpLOGFZTkgySHY3Q2kwdmdrZ1haZjRpT1J1UUlqb1F1YmhKWndOM1NXcDYwUF8zakxRSjZtQjJZeG1qRkVJUF80VUE?oc=5",
       "source": "The Times of Israel",
       "published": "2026-08-18T08:43:22+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Ship attacked in Strait of Hormuz as 60-day peace deal window expires - KGW",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNFh5Y0JmeGdJX0V0dzVTeFFoZVFhWXc2RzFTYjJLajNXc3laN0RlNXM3U2I2anRMaEJCOUl6U3ozYWFKV1E1bGZ4c0ZTY3FqR2kxN0FDLUVnMEd2NTlUaGtETkxLR3lkZUt4aHM4UVFWQnQzS0lINTZLcnRkSWNVSnZRX3FpdnhYd0tVT1hjZ3pHN05CVS1KdWpRTmdyM1NrX3d3TjgxVkItMmtZcGQxbDAtaUluNWdrb3k3WjB4WGpuRjA2TWd1NDZn?oc=5",
+      "source": "KGW",
+      "published": "2026-08-18T08:43:00+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -88,9 +98,9 @@
       ]
     },
     {
-      "title": "Shipping through the Strait of Hormuz slowed after attacks on oil tankers - \u0635\u062d\u064a\u0641\u0629 \u0645\u0627\u0644",
+      "title": "Shipping through the Strait of Hormuz slowed after attacks on oil tankers - maaal.com",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tb256M2t0VHptaWM3Y05ZUlpqaF9rMzFZVGNoVEJBSXJRbUZMcm5PQTBnTm5JWDBYdms4Z3B6WGhRd0tZazAzLTdqclZNUFR4SW8zckVVWjZUS2ZfZmd0d3pucUY2aTRKazlRQQ?oc=5",
-      "source": "\u0635\u062d\u064a\u0641\u0629 \u0645\u0627\u0644",
+      "source": "maaal.com",
       "published": "2026-08-17T13:05:04+00:00",
       "score": 3.0,
       "tags": [
@@ -102,7 +112,7 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMFlrZlYtRUJsQjh4NFVVNDBvRUZiOS0yZ3VjbHZIX09xdzJJTUYtZ0VpZjg5U3N0RTdObUxnUUdWcE1qcEdLbzJ2ZmtLQ2dTUHRlMnk3bDB3U3p0YkNaSlBiZXlwSzF4Z0JjbXpVX0pCR0N1MkFLbGtsMF9qZ2dwZkUzWl9FTXhVRWtmTVdBRER0ZE0?oc=5",
       "source": "IndexBox",
       "published": "2026-08-17T04:51:00+00:00",
-      "score": 2.92,
+      "score": 2.91,
       "tags": [
         "tension"
       ]
@@ -112,24 +122,14 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10SGJIeDlKR0E2TVpuTnEtb3VvNWo0SmI0UDl2ZFFKV1pqN2VCVV9Qem5xUDA5LWhmR0h0YVEtMEpETnVZSnMtOVhrX0xuaC1rVXpiZm5B?oc=5",
       "source": "mediaselangor.com",
       "published": "2026-08-17T03:10:52+00:00",
-      "score": 2.89,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Shipping Through Strait of Hormuz Nearly Stops After Tanker Attacks - \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1ZUNyeVppbHp3ZjQwXzFTVVpCV2hWRnpHM0NoUXQ4a2thZXo4cjQ3bGJRakFkVDYzTjQwN0Rva1ZReEM5YWRHQkVFYTJoQW82ZjVrZXhyd20xWkFwZ2h3dkhTdm44enliUVY2WGt3?oc=5",
-      "source": "\u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
-      "published": "2026-08-17T01:16:50+00:00",
-      "score": 2.86,
+      "score": 2.88,
       "tags": [
         "tension"
       ]
     }
   ],
   "brent": {
-    "price": 90.88,
-    "change_pct": 0.01
+    "price": 91.02,
+    "change_pct": 0.17
   }
 }
