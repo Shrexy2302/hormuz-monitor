@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 91.5,
+  "tension_index": 91.8,
   "closure_signals": 4,
-  "articles_scanned": 213,
-  "updated": "2026-08-18T07:31:45.671797+00:00",
+  "articles_scanned": 209,
+  "updated": "2026-08-18T08:27:29.678505+00:00",
   "headlines": [
     {
       "title": "U.S.-Iran Tensions Keep The Strait Of Hormuz Closed With No End in Sight. Stocks Declined. - International Business Times",
@@ -32,19 +32,29 @@
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CVDdELXViMUpVei1hVUVyUlRsRkFzRHc4MFptN2gwc0RfZDhvZWZGS0JBWjZjb1kxNHViSGpxZDM1MzZRLTZpY2huM2pKR2diMWlxUl96LVpUdWtBcnh2XzdzTmt0UQ?oc=5",
       "source": "\u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
       "published": "2026-08-15T01:08:10+00:00",
-      "score": 6.98,
+      "score": 6.93,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iran says the Strait of Hormuz is shut down. The Trump administration says 9 million barrels a day are still getting out - fortune.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeUJGazFZU1g0bFJMR2pOWXRrWUhnOE1DVGlIMUR4SHBPMWZLUzB3eTYyZm12V25waHNjQWdQQTE4WUtweUtIdURHUmFvZmR4TTJtYjFFaGtDcDNQWHZfQVJBV25laFo3ak5xcU1VQ2ZvRlFJeUJkXzRRSG95eDRQWjliRFhMUkxCZWxmQVVQY3lmaTZ5WGc?oc=5",
-      "source": "fortune.com",
-      "published": "2026-08-14T16:54:00+00:00",
-      "score": 6.52,
+      "title": "Iran says the Strait of Hormuz is shut down. The Trump administration says 9 million barrels a day are still getting out - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVmxfMThFcGpOV0FXTUdmZWxOdk02OWtDemExYWVkTmVZaWwzWWRxRFlLUEE1SHNEdjc2YkNiUTFSQWdSSlBUSVYyM0R4cXZyRTVRY3RRa05aSXJrTlZJMy02MmlBRmw4bEp2VEx4Ymh6ZE1uTGZ1N1BpOU5LMWg4d2g5N3pQODktNHQxWHVB?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-08-14T16:54:27+00:00",
+      "score": 6.47,
       "tags": [
         "closure"
+      ]
+    },
+    {
+      "title": "Iran claims to have detained UAE tanker in Hormuz - Seatrade Maritime News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRk8zSFZaRHNMeE4wSFFMS0k5ZXdZa3B3amNaeUozSng4cS1CLUItUFJRYnJBd0xHd1FMcXA1VFJzSkRYX2ZvbTVEcnRBMFpDVlduemg2cE5DQzRKelZFTkExWWlJUW9CNVBkOE9rMjlNbThSejIycU56Y2x4SXA3eklvaVZLeldKYUJWZkxMc2xHcVg3X1VV?oc=5",
+      "source": "Seatrade Maritime News",
+      "published": "2026-08-18T02:47:27+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
       ]
     },
     {
@@ -82,7 +92,7 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMFlrZlYtRUJsQjh4NFVVNDBvRUZiOS0yZ3VjbHZIX09xdzJJTUYtZ0VpZjg5U3N0RTdObUxnUUdWcE1qcEdLbzJ2ZmtLQ2dTUHRlMnk3bDB3U3p0YkNaSlBiZXlwSzF4Z0JjbXpVX0pCR0N1MkFLbGtsMF9qZ2dwZkUzWl9FTXhVRWtmTVdBRER0ZE0?oc=5",
       "source": "IndexBox",
       "published": "2026-08-17T04:51:00+00:00",
-      "score": 2.96,
+      "score": 2.94,
       "tags": [
         "tension"
       ]
@@ -92,7 +102,17 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS011b1NvcmEzQUNzX2dVdzFyUmg1UnpkLXZqNW5nUFFxNGZpaE51amZaZWJDZnNTQi1yZDE2cGxwU09PdzhMWWJiV1lpMk0xSmJmb0dQNVdGN1F3RHBTaVQtRzlsU2Nwa2RER0ZlbngzOWc3aDV2MmMwRmNfZ2xXclpHRzE0RkFzeDZ3MjY2QTAwMlFPSEVTeTRQM0JDQ2VtQjVPQTFPZWxRaXB4YzBTbjBVSXlxQTBoMUE?oc=5",
       "source": "Reuters",
       "published": "2026-08-16T23:54:51+00:00",
-      "score": 2.87,
+      "score": 2.86,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Strait of Hormuz standoff: Three vessels attacked in 72 hours as threat stays severe - Gulf News",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQVY5MlBUS29ZRVpqUjdDV2E3M3hsbDExYUtPWlJ5Q2I2YTJ2eUVVOVRfTm9NSktZaFVHbnlVMVZsU3gwSVBqZ3pYUW9NVllIVmNfVXpqR2JDUGVfcDZnc19MajFKMEpqcC1mTDljRm1ING0yR1piNHpYTVc4azU5cm52N1FuQXZ1V2dHUW9temRwMld0ajd1YTRyS0dEbExOZWZ4bm1QeE9pTlRFbDl2ZmJlUzltRmZ2UU10Rl9NMUdBUlZJRHfSAdgBQVVfeXFMTkxqbnpzUGFrQmN6dUhTcWczNFVMQ3FMT19tLThEc2ROZWpvc21WS1JWaWJ2YVFHaDRVVDRGdW5HQlkwb01Nak9Xb1RwSW45T0FuSDZFdEdRb3M3N0tXdl8xQzR1b2tJeDc3TC1Ob0xUaGk0YzdpaklBX1lKZUpkV3cwNldDNzFQNjNBNlAzanBHdjYzanNUVk9wOENTdVU5aG5IcFd6SEJKODB3cXExdDUyZnU4TFJwa1NvUFNSdmR3OWxCRzRfR3VlbWpTTk1lSDJNWjMzX2JD?oc=5",
+      "source": "Gulf News",
+      "published": "2026-08-16T14:35:27+00:00",
+      "score": 2.7,
       "tags": [
         "tension"
       ]
@@ -102,34 +122,14 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcWZ4Y3pCY2JPd1Q3NDhQem9ueXlmOVFzX05Rb20zcVNacTdSRHd0REU1LUJiUlJ3MW5qWlNtOVlOOU8yZmd5UHRESE1odm5NMkFqWFlPdlZ2YXowdl80TGZ1d0VRc0l5OHRjMnVnQlFZSkwtajBZZFFISFNaNmpISDNWd2N0bVVhNnY1M1IxOWstWGpKb1ZOcFJOTFk0UUNJYWJQclhhZG8yNFdfN205TFpn0gG3AUFVX3lxTFBMbVBaay1Kal9NaTNkb0p3MlU5eWY1YVNOSjlERXl2ckxqZHNuU3h1a0JzUjFXUzRWSVdrbzRYd2RJaGpWNU9uSnhGYmVtZVFkVUk2TVpjRGRZbDRFNkpnWUttTmV1MkhhU2JZb1JvRlYtRXdtSEtfUU9QRWduaUIxVU5TR25IaG1YS0xqaGMtZVJveFRUUVlDbnE3T0pxQW9ZZV9rSnI3d0NuRXJYY0Qxc1IxQWFLMA?oc=5",
       "source": "Fox News",
       "published": "2026-08-16T13:53:38+00:00",
-      "score": 2.71,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Shipping slows through Strait of Hormuz after tanker attacks, data shows - Classic Rock 103.5 WIMZ",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTTRFNlQ0ZzI0SVU5N2lXNnY4Z1JCRTZjWmM2X0RZVk9GRkpSdHUzMlRwdy1ndWdySlpBbWlINlhNN1JKVVM4NzctQ2ZKVDBsVmVYWWtLdHY0S2c5VkhRdWpBS1FCNDE0bzFBSHN0anNfTEhTcHE1NUQ5OFNfZmk0TFMxZTY2WktZdUQxWm9iVW9QVkQ4SWVJWjJNOF9oMVNxZUE?oc=5",
-      "source": "Classic Rock 103.5 WIMZ",
-      "published": "2026-08-16T07:00:00+00:00",
-      "score": 2.59,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "UAE accuses Iran of launch strike on oil tanker in Strait of Hormuz - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORERuY0ViWGV0MmNPS0U3NnFCLTJKcWpfNUdfZjlBeHpnZUdYQjd4cWNQNTZ2azBLZTA1TXRzLTZLRC1KN29YRndLaGllS3M2cmg2TkNobENjdlVTRDlBRjh6UWxKc091T1N2VU5yRmtoSjF1YzF5WUEzVk1mTkNEWEZ5bEliZlVCY0sxUjdUZ2hjS09tSDZiVm9pS1Zqd0FKSXpBVS15MkRLUQ?oc=5",
-      "source": "CBS News",
-      "published": "2026-08-15T23:25:00+00:00",
-      "score": 2.46,
+      "score": 2.69,
       "tags": [
         "tension"
       ]
     }
   ],
   "brent": {
-    "price": 91.04,
-    "change_pct": 0.19
+    "price": 91.36,
+    "change_pct": 0.54
   }
 }
