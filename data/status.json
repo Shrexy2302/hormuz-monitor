@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 114.4,
+  "tension_index": 114.2,
   "closure_signals": 5,
-  "articles_scanned": 207,
-  "updated": "2026-08-18T16:22:06.517462+00:00",
+  "articles_scanned": 208,
+  "updated": "2026-08-18T16:56:44.445724+00:00",
   "headlines": [
     {
       "title": "U.S.-Iran Tensions Keep The Strait Of Hormuz Closed With No End in Sight. Stocks Declined. - International Business Times",
@@ -21,7 +21,7 @@
       "title": "Iran closes Strait of Hormuz as diesel prices surge to $5.46 a gallon across the United States - Scripps News",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMHlNQmFIblRjVl9XU0xrb29xVzhrTzBRZm5hSjZqMUhiVHh1ZFh6TFVYZ1J6MnB6VlR5UjZCTjhJTDRubUZURXU0bllvQVpVcEdWa3NpM1Ezdk5JaVhfSzVzLU53cXJfT0FvQTEzNFg1LU9xU3k4R2ZMTWl3cUF6eEpnZ0NHTkpzR2dxNkt6SUNjSHRSN2FGTzVGRXFjMGxRRklUNk01RzlnM2pWWC11VkZ5VndrektYelQyRGxTUk52Q0tZR0JKN1NtQ2hhMHRnazFVYw?oc=5",
       "source": "Scripps News",
-      "published": "2026-08-18T12:20:51+00:00",
+      "published": "2026-08-18T12:40:06+00:00",
       "score": 8.0,
       "tags": [
         "closure"
@@ -32,7 +32,17 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZS0zV3NTVHhMNTMzRHZ0eUpjZnBjN1pvYVBHSnpZSS1WREtFU3JPTXQxSFZHalR4c3ZZYk5qTEsyQUhBb3FGdnVEM2FQSjliNzhzQmIzYnRHUmgzVDNxdjcxMGpHS3M1blZwNVRQVzI5SEJXY1hDaEVWdnU0Y1BaeEhmUUtYSFZyOGRxSk40WTZjZjhRaTlFSGxjWXNMcnphOWlmVzhIUnU5Vi1JRGwyS2lpRm52OTQ?oc=5",
       "source": "WLUK",
       "published": "2026-08-17T10:44:02+00:00",
-      "score": 7.75,
+      "score": 7.72,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Trump says Strait of Hormuz has been de-mined, is 'open and operating' after 60-day Iran talks window shuts - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQktYX0J0R2hzNlc5bXNxTEp2QlNHeDdvQUIwYnk4dVJZdmpEeEJoTERxUXJ6ZVFlV1pZTFV0VlZEeHpqUHNpQ0lJZ2wySzUzMzNabWxKX0VDZGFVNjhRd29IeEZPVWctdGw2RWhWcXNjUVFJWHJiS2swYTVmYWpjNWxsY28yVEh1dU1uRFB1c0Y4cnFMRWpHMXpMWVpVenZTY2IxYzhObGRqWlVhM2RIS0lZVkxzNHhhNlZnUXJmZFpXN0pQVktjWHdkQ1JwWldWQVZZRVAtelBWaHc?oc=5",
+      "source": "New York Post",
+      "published": "2026-08-18T15:15:47+00:00",
+      "score": 6.0,
       "tags": [
         "closure"
       ]
@@ -42,25 +52,15 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVmxfMThFcGpOV0FXTUdmZWxOdk02OWtDemExYWVkTmVZaWwzWWRxRFlLUEE1SHNEdjc2YkNiUTFSQWdSSlBUSVYyM0R4cXZyRTVRY3RRa05aSXJrTlZJMy02MmlBRmw4bEp2VEx4Ymh6ZE1uTGZ1N1BpOU5LMWg4d2g5N3pQODktNHQxWHVB?oc=5",
       "source": "Yahoo Finance",
       "published": "2026-08-14T16:54:27+00:00",
-      "score": 6.03,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Trump says Strait of Hormuz has been de-mined, is 'open and operating' after 60-day Iran talks window shuts - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQktYX0J0R2hzNlc5bXNxTEp2QlNHeDdvQUIwYnk4dVJZdmpEeEJoTERxUXJ6ZVFlV1pZTFV0VlZEeHpqUHNpQ0lJZ2wySzUzMzNabWxKX0VDZGFVNjhRd29IeEZPVWctdGw2RWhWcXNjUVFJWHJiS2swYTVmYWpjNWxsY28yVEh1dU1uRFB1c0Y4cnFMRWpHMXpMWVpVenZTY2IxYzhObGRqWlVhM2RIS0lZVkxzNHhhNlZnUXJmZFpXN0pQVktjWHdkQ1JwWldWQVZZRVAtelBWaHc?oc=5",
-      "source": "New York Post",
-      "published": "2026-08-18T15:11:15+00:00",
       "score": 6.0,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Ship attack in Hormuz results in one casualty while Trump says strait is 'open and operating' - CNBC",
+      "title": "Ship attack in Hormuz results in one casualty while Trump says strait is 'open and operating' - cnbc.com",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQll2LTZWcThSeTZYWjFBZXE0dVUxSl95V0RVdVhyVGRoZ2x3U28xcmxLWkFEN3ZVSnV1TVZaamh1UHBJd28xT19LN1JBNXdydndscmVqUHBPSUtkaXdBbFRyTnJKZGNlSmtQUnNhX0pka1VKS2xHVEdrTkd6U1o5MFd30gGHAUFVX3lxTE9JSG4tT1c5eF9DUEtCeVF6V1pYWnUtai1uY2hnNERGZ25hR2Y0OHBKR2l2b1dtcEhpaDRxWmdYMWlYMFUzRUJWb0VXTE0wUUczbktXV0Y2alc2RzdfT3hZU1FIUHVreFE0aDNvUS1mSTRBNmk0MEZReWZya3BybHhxTUhPN0RiVQ?oc=5",
-      "source": "CNBC",
+      "source": "cnbc.com",
       "published": "2026-08-18T15:50:46+00:00",
       "score": 3.0,
       "tags": [
@@ -82,6 +82,16 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLWRoQy1ybV9pY3hOdTU0T0Z3azZ6Qjh6Q1QwZDVfVFFqSG1mVWxrS3ZjckoxZC1tRjNiR3hycHJGUGpPNnJsX0dHRkt0ZWg4WHlMaXVkZWVIYjNKUEg1dDB2U0JUZ2ZkUGNHdFpOdlJzWnhxLXlTcE5heXlsNkpITjlPVlJtV0RGWkpTQjNlbV9LaUo5NW90VjhB?oc=5",
       "source": "gCaptain",
       "published": "2026-08-18T14:46:42+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Ship Exiting the Strait of Hormuz Is Attacked - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTGRpNm9fblB2cTJiOHJmbzI5OTlPZmJrNUlWaUtyVDA3STdiTllISTBvNDIzLUFIMUlUMU8tcHJUazh5MmdrVlRwNUtZeHBqeVdsTFVuLVg0SDF0STVTSDlNUEVING82UWs3RmZvX1VsSzBMeTNkZER0ZmlfMWdiZUo0VQ?oc=5",
+      "source": "The New York Times",
+      "published": "2026-08-18T14:12:55+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -116,20 +126,10 @@
       "tags": [
         "tension"
       ]
-    },
-    {
-      "title": "Vessel struck in Hormuz; Iran vows to keep waterway shut until US complies with June deal - The Times of Israel",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT3dNdURhVHc0dUV4UmtQSF9SdkpSUURuQWhHSGNOZWdIcFBOd3k4a0h2bDZnYTg0SHBXb0pnaTJFU3BZV0tJcXB1bFVrTGZsTmpTZ05jNUtpenlEd1BpWmp3eTFENGlLd0dBWTE3azFQMnhaZHBWSVRoUUI4QmloVnhoZjgyUTVtN2V0bDZHZkg1TkNKRGxPR3pfODMzMDhxX01SU0NWZ3o0ckxE0gGyAUFVX3lxTE1kLXc5VUk4bTdvR2JJa0hMaHk2bVRvenZNVFg0b0RJNzR1MUREeVJ0ejJPTm1BaWl6M2FjNmtKSjYweW40SjYwTzRmYzVBRG42NFdhbzVva0d6S1pGRXl5UlpVZWZ4OFhVQm5lS2lyVnpLOGFZTkgySHY3Q2kwdmdrZ1haZjRpT1J1UUlqb1F1YmhKWndOM1NXcDYwUF8zakxRSjZtQjJZeG1qRkVJUF80VUE?oc=5",
-      "source": "The Times of Israel",
-      "published": "2026-08-18T12:40:01+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
     }
   ],
   "brent": {
-    "price": 91.39,
-    "change_pct": 0.57
+    "price": 91.43,
+    "change_pct": 0.62
   }
 }
