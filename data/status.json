@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 115.8,
+  "tension_index": 117.8,
   "closure_signals": 5,
-  "articles_scanned": 203,
-  "updated": "2026-08-18T17:51:35.695939+00:00",
+  "articles_scanned": 202,
+  "updated": "2026-08-18T18:27:06.348228+00:00",
   "headlines": [
     {
       "title": "U.S.-Iran Tensions Keep The Strait Of Hormuz Closed With No End in Sight. Stocks Declined. - International Business Times",
@@ -32,7 +32,7 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZS0zV3NTVHhMNTMzRHZ0eUpjZnBjN1pvYVBHSnpZSS1WREtFU3JPTXQxSFZHalR4c3ZZYk5qTEsyQUhBb3FGdnVEM2FQSjliNzhzQmIzYnRHUmgzVDNxdjcxMGpHS3M1blZwNVRQVzI5SEJXY1hDaEVWdnU0Y1BaeEhmUUtYSFZyOGRxSk40WTZjZjhRaTlFSGxjWXNMcnphOWlmVzhIUnU5Vi1JRGwyS2lpRm52OTQ?oc=5",
       "source": "WLUK",
       "published": "2026-08-17T10:44:02+00:00",
-      "score": 7.68,
+      "score": 7.66,
       "tags": [
         "closure"
       ]
@@ -52,15 +52,35 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVmxfMThFcGpOV0FXTUdmZWxOdk02OWtDemExYWVkTmVZaWwzWWRxRFlLUEE1SHNEdjc2YkNiUTFSQWdSSlBUSVYyM0R4cXZyRTVRY3RRa05aSXJrTlZJMy02MmlBRmw4bEp2VEx4Ymh6ZE1uTGZ1N1BpOU5LMWg4d2g5N3pQODktNHQxWHVB?oc=5",
       "source": "Yahoo Finance",
       "published": "2026-08-14T16:54:27+00:00",
-      "score": 5.95,
+      "score": 5.91,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Ship attack in Hormuz results in one casualty while Trump says strait is 'open and operating' - CNBC",
+      "title": "Two Ships Passing Through the Strait of Hormuz Are Attacked - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTGRpNm9fblB2cTJiOHJmbzI5OTlPZmJrNUlWaUtyVDA3STdiTllISTBvNDIzLUFIMUlUMU8tcHJUazh5MmdrVlRwNUtZeHBqeVdsTFVuLVg0SDF0STVTSDlNUEVING82UWs3RmZvX1VsSzBMeTNkZER0ZmlfMWdiZUo0VQ?oc=5",
+      "source": "The New York Times",
+      "published": "2026-08-18T16:56:21+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Chief Engineer Killed as Bulker is Attacked Exiting Strait of Hormuz - The Maritime Executive",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeVBfXzNFUUdvR3RFLWp0X0FnWERDSlpES0tnTGxaT2VsWmp3VlFobjNxN0hRS2RZT3NHSk9aamJTNHZWY1JKMjdSZ2tIcG5mVlBOZ2x2SHZtbEFQUEtnLU5kSkh6aWpkalUwWFlfS3lOSmJZSFNwSDNEV1RQMTZ0RlhzUDV2a2pvaTgycDl6UWFXdEp1eDVtN1RnemVrOGdiX1BlaW0xWG4taW8?oc=5",
+      "source": "The Maritime Executive",
+      "published": "2026-08-18T16:15:35+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Ship attack in Hormuz kills crew member while Trump says strait is 'open and operating' - cnbc.com",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQll2LTZWcThSeTZYWjFBZXE0dVUxSl95V0RVdVhyVGRoZ2x3U28xcmxLWkFEN3ZVSnV1TVZaamh1UHBJd28xT19LN1JBNXdydndscmVqUHBPSUtkaXdBbFRyTnJKZGNlSmtQUnNhX0pka1VKS2xHVEdrTkd6U1o5MFd30gGHAUFVX3lxTE9JSG4tT1c5eF9DUEtCeVF6V1pYWnUtai1uY2hnNERGZ25hR2Y0OHBKR2l2b1dtcEhpaDRxWmdYMWlYMFUzRUJWb0VXTE0wUUczbktXV0Y2alc2RzdfT3hZU1FIUHVreFE0aDNvUS1mSTRBNmk0MEZReWZya3BybHhxTUhPN0RiVQ?oc=5",
-      "source": "CNBC",
+      "source": "cnbc.com",
       "published": "2026-08-18T15:50:46+00:00",
       "score": 3.0,
       "tags": [
@@ -72,16 +92,6 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTExRTmtjckNNaHc5QXdUVlFScVNYeEU0Y3NfYU80SHNwU0trNG11bjJ2c2d6LV9iaVpDeU13VnAyV3lieEU1cGVQOHJYd1gyRGtBTDRfdDBPNG5iWS1kc3doc3JUSi1IbG1WbmxiV1hSQnNNa2J6MjFfTU9mTVNxc0FB0gGHAUFVX3lxTE9mMzFXb3hGcEI5UjhjRkNIZGpMZzBpTXZvV0ViM3h4cWJZLURFMWNUSmhkT3ZZTXZYVnVMdFdyNjZzVEZsMTVPc2hpdGNMLU5Ic3JkdURKMTR6cjRTRDBmaTZoUFhuTkkwb3EyNzNmX0RORXAzRWVuWVNNeldMTzNjRTBQbzRnVQ?oc=5",
       "source": "NewsNation",
       "published": "2026-08-18T15:25:20+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Trump denies talks with Iran amid continued attacks near Strait of Hormuz - stripes.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWnVRbHFtN1lzNnM5N1dRUnA4WVVMWllteTFrU21aZkgyaUpyRVcwenVRamYxUWVRVkVYRHlzaHZ6d1l1YnVlN2xCZU9CTzJyRUZZLXZnMUZHcnFYRzZVQmRfNzJXUVBKZDhpZkFmZG9ZaXZoMVhUbS1Fb2g0eVVWSDZncHhUS1R3TjFlcUtNbXAyQUQtRkFQQXVpYUphVmo3aGVXdg?oc=5",
-      "source": "stripes.com",
-      "published": "2026-08-18T15:20:26+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -108,20 +118,10 @@
       ]
     },
     {
-      "title": "Ship attacked while exiting Strait of Hormuz - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdHF0cjNEbWU5QkN3RzlVamhweldsY1l5ZER4ay1PNlI3WXRaSDE5WUhXNFpSWUFRTDgxanZCalhfaVg2RF82QzF5LS1KQzhJNUN2TXNMMXpjY1p3RVptVEdnQUdBSHN1S0FwX2lWTzV1M0VsZ2g4LWROQXNyQnpRYUgzdjQ3OUVzbEQ3aDJXSWxNUdIBlwFBVV95cUxQT1pPR0N6OTF6QW5ZaWlYUWszTm04ZEx0NFJrVXhFVG9ZZDlpbGl6WlEtZW5NTWY2bHNKd2hnVXQ1RXdiRzhMLWdpRzVuWGIwSXB5OEU4bVA0ak9Fck5mNkxWS09yWjlIMmZoWmZwTWNTYUJMT2lDU0E1N3ZELTdwUGxpOXAyaURWdmhsczY3WEE2azhNQ053?oc=5",
-      "source": "The Hill",
-      "published": "2026-08-18T12:46:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Vessel struck in Hormuz; Iran vows to keep waterway shut until US complies with June deal - timesofisrael.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT3dNdURhVHc0dUV4UmtQSF9SdkpSUURuQWhHSGNOZWdIcFBOd3k4a0h2bDZnYTg0SHBXb0pnaTJFU3BZV0tJcXB1bFVrTGZsTmpTZ05jNUtpenlEd1BpWmp3eTFENGlLd0dBWTE3azFQMnhaZHBWSVRoUUI4QmloVnhoZjgyUTVtN2V0bDZHZkg1TkNKRGxPR3pfODMzMDhxX01SU0NWZ3o0ckxE0gGyAUFVX3lxTE1kLXc5VUk4bTdvR2JJa0hMaHk2bVRvenZNVFg0b0RJNzR1MUREeVJ0ejJPTm1BaWl6M2FjNmtKSjYweW40SjYwTzRmYzVBRG42NFdhbzVva0d6S1pGRXl5UlpVZWZ4OFhVQm5lS2lyVnpLOGFZTkgySHY3Q2kwdmdrZ1haZjRpT1J1UUlqb1F1YmhKWndOM1NXcDYwUF8zakxRSjZtQjJZeG1qRkVJUF80VUE?oc=5",
-      "source": "timesofisrael.com",
-      "published": "2026-08-18T12:40:01+00:00",
+      "title": "Trump denies talks with Iran amid continued attacks near Strait of Hormuz - stripes.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWnVRbHFtN1lzNnM5N1dRUnA4WVVMWllteTFrU21aZkgyaUpyRVcwenVRamYxUWVRVkVYRHlzaHZ6d1l1YnVlN2xCZU9CTzJyRUZZLXZnMUZHcnFYRzZVQmRfNzJXUVBKZDhpZkFmZG9ZaXZoMVhUbS1Fb2g0eVVWSDZncHhUS1R3TjFlcUtNbXAyQUQtRkFQQXVpYUphVmo3aGVXdg?oc=5",
+      "source": "stripes.com",
+      "published": "2026-08-18T13:25:26+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -129,7 +129,7 @@
     }
   ],
   "brent": {
-    "price": 91.18,
-    "change_pct": 0.34
+    "price": 90.99,
+    "change_pct": 0.13
   }
 }
