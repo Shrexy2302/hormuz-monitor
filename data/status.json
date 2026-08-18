@@ -1,17 +1,17 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 77.8,
+  "tension_index": 80.9,
   "closure_signals": 3,
-  "articles_scanned": 196,
-  "updated": "2026-08-18T23:15:07.167173+00:00",
+  "articles_scanned": 202,
+  "updated": "2026-08-18T23:44:01.786585+00:00",
   "headlines": [
     {
       "title": "Diesel spikes to $5.41 nationally as closure of Strait of Hormuz pressures prices - fox11online.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZS0zV3NTVHhMNTMzRHZ0eUpjZnBjN1pvYVBHSnpZSS1WREtFU3JPTXQxSFZHalR4c3ZZYk5qTEsyQUhBb3FGdnVEM2FQSjliNzhzQmIzYnRHUmgzVDNxdjcxMGpHS3M1blZwNVRQVzI5SEJXY1hDaEVWdnU0Y1BaeEhmUUtYSFZyOGRxSk40WTZjZjhRaTlFSGxjWXNMcnphOWlmVzhIUnU5Vi1JRGwyS2lpRm52OTQ?oc=5",
       "source": "fox11online.com",
       "published": "2026-08-17T10:44:02+00:00",
-      "score": 7.44,
+      "score": 7.42,
       "tags": [
         "closure"
       ]
@@ -27,11 +27,11 @@
       ]
     },
     {
-      "title": "Iran says the Strait of Hormuz is shut down. The Trump administration says 9 million barrels a day are still getting out - finance.yahoo.com",
+      "title": "Iran says the Strait of Hormuz is shut down. The Trump administration says 9 million barrels a day are still getting out - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVmxfMThFcGpOV0FXTUdmZWxOdk02OWtDemExYWVkTmVZaWwzWWRxRFlLUEE1SHNEdjc2YkNiUTFSQWdSSlBUSVYyM0R4cXZyRTVRY3RRa05aSXJrTlZJMy02MmlBRmw4bEp2VEx4Ymh6ZE1uTGZ1N1BpOU5LMWg4d2g5N3pQODktNHQxWHVB?oc=5",
-      "source": "finance.yahoo.com",
+      "source": "Yahoo Finance",
       "published": "2026-08-14T16:54:27+00:00",
-      "score": 5.65,
+      "score": 5.62,
       "tags": [
         "closure"
       ]
@@ -97,9 +97,9 @@
       ]
     },
     {
-      "title": "Two Ships Passing Through the Strait of Hormuz Are Attacked - The New York Times",
+      "title": "Two Ships Passing Through the Strait of Hormuz Are Attacked - nytimes.com",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTGRpNm9fblB2cTJiOHJmbzI5OTlPZmJrNUlWaUtyVDA3STdiTllISTBvNDIzLUFIMUlUMU8tcHJUazh5MmdrVlRwNUtZeHBqeVdsTFVuLVg0SDF0STVTSDlNUEVING82UWs3RmZvX1VsSzBMeTNkZER0ZmlfMWdiZUo0VQ?oc=5",
-      "source": "The New York Times",
+      "source": "nytimes.com",
       "published": "2026-08-18T12:27:21+00:00",
       "score": 3.0,
       "tags": [
@@ -107,9 +107,9 @@
       ]
     },
     {
-      "title": "Ship attacked during Strait of Hormuz transit - Spectrum News",
+      "title": "Ship attacked during Strait of Hormuz transit - spectrumlocalnews.com",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbjRDdmtNcEYxXzZNcVQ0TXdLemtXcWhJdlQweENJTzZyc19ULTBob3NKWUVTYVA5bzJCd3FZWW5obXZ1Q05CMGhLQmhvSlhTMXc3Y2VPV04yVERnYUtlVzIxMVNiUTdvTThPV1NYMUFJbEowd0NlcGlJM3QzZVJtaWhZVmlHVE92aTlnLV9Pd3YySmJ2Zlo3dmtvb0JjbkowYkJlX1V0YVEyZTNZ?oc=5",
-      "source": "Spectrum News",
+      "source": "spectrumlocalnews.com",
       "published": "2026-08-18T12:19:00+00:00",
       "score": 3.0,
       "tags": [
@@ -128,7 +128,7 @@
     }
   ],
   "brent": {
-    "price": 91.35,
-    "change_pct": 0.36
+    "price": 91.38,
+    "change_pct": 0.4
   }
 }
