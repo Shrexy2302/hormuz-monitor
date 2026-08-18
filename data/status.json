@@ -1,17 +1,17 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 86.7,
+  "tension_index": 85.1,
   "closure_signals": 3,
-  "articles_scanned": 196,
-  "updated": "2026-08-18T21:45:18.871747+00:00",
+  "articles_scanned": 198,
+  "updated": "2026-08-18T22:15:09.400430+00:00",
   "headlines": [
     {
       "title": "Diesel spikes to $5.41 nationally as closure of Strait of Hormuz pressures prices - WLUK",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZS0zV3NTVHhMNTMzRHZ0eUpjZnBjN1pvYVBHSnpZSS1WREtFU3JPTXQxSFZHalR4c3ZZYk5qTEsyQUhBb3FGdnVEM2FQSjliNzhzQmIzYnRHUmgzVDNxdjcxMGpHS3M1blZwNVRQVzI5SEJXY1hDaEVWdnU0Y1BaeEhmUUtYSFZyOGRxSk40WTZjZjhRaTlFSGxjWXNMcnphOWlmVzhIUnU5Vi1JRGwyS2lpRm52OTQ?oc=5",
       "source": "WLUK",
       "published": "2026-08-17T10:44:02+00:00",
-      "score": 7.51,
+      "score": 7.49,
       "tags": [
         "closure"
       ]
@@ -27,13 +27,23 @@
       ]
     },
     {
-      "title": "Iran says the Strait of Hormuz is shut down. The Trump administration says 9 million barrels a day are still getting out - finance.yahoo.com",
+      "title": "Iran says the Strait of Hormuz is shut down. The Trump administration says 9 million barrels a day are still getting out - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVmxfMThFcGpOV0FXTUdmZWxOdk02OWtDemExYWVkTmVZaWwzWWRxRFlLUEE1SHNEdjc2YkNiUTFSQWdSSlBUSVYyM0R4cXZyRTVRY3RRa05aSXJrTlZJMy02MmlBRmw4bEp2VEx4Ymh6ZE1uTGZ1N1BpOU5LMWg4d2g5N3pQODktNHQxWHVB?oc=5",
-      "source": "finance.yahoo.com",
+      "source": "Yahoo Finance",
       "published": "2026-08-14T16:54:27+00:00",
-      "score": 5.73,
+      "score": 5.7,
       "tags": [
         "closure"
+      ]
+    },
+    {
+      "title": "Strait of Hormuz closure, Ukrainian attacks on Russian oil refineries lead to higher gas prices in U.S., Texas - - Breckenridge Texan",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaXpsdWU3eDVIa3NGSzE5WjlUNE9ibkdNUE1ROUg5SmJIb0tLcmtnV3NyMDNWNWthSWh0ZE91T1B1VWRnZ0FaNVluX0p2YlN4WW9fN05PTy1kbHhpVHBRMFg1ek1oUU5xdTdEOVFFSktzLVVvNEZrSVl2MDE0Z1FLU3E2OUJrdjUzbmozckEzNkdqRXdzcFdSUUZldGdHVGtnc21id1dDN1RLVHNtUzhRUXktcUsxaUF2ZzVBVkRDY3BXaS1jM1VKWjhJbF95VFNoWUFJMlVYMTA3aUV1N1BRaDczUQ?oc=5",
+      "source": "- Breckenridge Texan",
+      "published": "2026-08-18T17:30:12+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
       ]
     },
     {
@@ -47,9 +57,9 @@
       ]
     },
     {
-      "title": "Seafarer Killed in Latest Strait of Hormuz Attack on Commercial Shipping - gCaptain",
+      "title": "Seafarer Killed in Latest Strait of Hormuz Attack on Commercial Shipping - gcaptain.com",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLWRoQy1ybV9pY3hOdTU0T0Z3azZ6Qjh6Q1QwZDVfVFFqSG1mVWxrS3ZjckoxZC1tRjNiR3hycHJGUGpPNnJsX0dHRkt0ZWg4WHlMaXVkZWVIYjNKUEg1dDB2U0JUZ2ZkUGNHdFpOdlJzWnhxLXlTcE5heXlsNkpITjlPVlJtV0RGWkpTQjNlbV9LaUo5NW90VjhB?oc=5",
-      "source": "gCaptain",
+      "source": "gcaptain.com",
       "published": "2026-08-18T14:46:42+00:00",
       "score": 3.0,
       "tags": [
@@ -115,20 +125,10 @@
       "tags": [
         "tension"
       ]
-    },
-    {
-      "title": "Iran fails to strike deal with US as deadline passes and Trump calls for \u2018white flag of surrender' - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYm5waFA2ZFpHX0ljNXNwalNwV1NTUm1GVk43UUR1VjM1LXN2LTNLVm0tWm1SR0ktOXRTdlhBVEJDXzlYZmJScFlwVDVaRU5VbWFPZTE4bGMxeGRVMVltVEN2QndXeG9pWWtqS1lwVHFXTlhrX3pWOGgtbjBZYlkyaTY4eG1QempNcS1yMzZ5ZHNwZzhKY095V0I2ZXYtY3lsYVFRMTJ4LWw5aFXSAbABQVVfeXFMTklQdGthcDBtcjVrS2MzM2JqUi1CR3JZSkh0bVg2VVZ2cERRNjhfTmJSaEp1eEFKSkhZTC15LThYYk8wZnFXeEVKeC05UWNibFY5UmZmVjdFQzZvMlppMDlPQW1fZEE5VVZraHBXMFVSalVtbVZuS1JyeEFMSWd3UWxBSnFRQTFRQ19MOTg3TGRKTmJlR1cwSzNjZ2E2TlBfZTc2VW5MRGdodDNaTW9VN1U?oc=5",
-      "source": "Fox News",
-      "published": "2026-08-18T11:32:41+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
     }
   ],
   "brent": {
-    "price": 91.27,
-    "change_pct": 0.44
+    "price": 91.31,
+    "change_pct": 0.32
   }
 }
