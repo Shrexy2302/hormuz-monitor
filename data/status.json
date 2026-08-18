@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 98.6,
-  "closure_signals": 4,
-  "articles_scanned": 204,
-  "updated": "2026-08-18T15:55:05.655256+00:00",
+  "tension_index": 114.4,
+  "closure_signals": 5,
+  "articles_scanned": 207,
+  "updated": "2026-08-18T16:22:06.517462+00:00",
   "headlines": [
     {
       "title": "U.S.-Iran Tensions Keep The Strait Of Hormuz Closed With No End in Sight. Stocks Declined. - International Business Times",
@@ -32,7 +32,7 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZS0zV3NTVHhMNTMzRHZ0eUpjZnBjN1pvYVBHSnpZSS1WREtFU3JPTXQxSFZHalR4c3ZZYk5qTEsyQUhBb3FGdnVEM2FQSjliNzhzQmIzYnRHUmgzVDNxdjcxMGpHS3M1blZwNVRQVzI5SEJXY1hDaEVWdnU0Y1BaeEhmUUtYSFZyOGRxSk40WTZjZjhRaTlFSGxjWXNMcnphOWlmVzhIUnU5Vi1JRGwyS2lpRm52OTQ?oc=5",
       "source": "WLUK",
       "published": "2026-08-17T10:44:02+00:00",
-      "score": 7.77,
+      "score": 7.75,
       "tags": [
         "closure"
       ]
@@ -42,9 +42,39 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVmxfMThFcGpOV0FXTUdmZWxOdk02OWtDemExYWVkTmVZaWwzWWRxRFlLUEE1SHNEdjc2YkNiUTFSQWdSSlBUSVYyM0R4cXZyRTVRY3RRa05aSXJrTlZJMy02MmlBRmw4bEp2VEx4Ymh6ZE1uTGZ1N1BpOU5LMWg4d2g5N3pQODktNHQxWHVB?oc=5",
       "source": "Yahoo Finance",
       "published": "2026-08-14T16:54:27+00:00",
-      "score": 6.05,
+      "score": 6.03,
       "tags": [
         "closure"
+      ]
+    },
+    {
+      "title": "Trump says Strait of Hormuz has been de-mined, is 'open and operating' after 60-day Iran talks window shuts - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQktYX0J0R2hzNlc5bXNxTEp2QlNHeDdvQUIwYnk4dVJZdmpEeEJoTERxUXJ6ZVFlV1pZTFV0VlZEeHpqUHNpQ0lJZ2wySzUzMzNabWxKX0VDZGFVNjhRd29IeEZPVWctdGw2RWhWcXNjUVFJWHJiS2swYTVmYWpjNWxsY28yVEh1dU1uRFB1c0Y4cnFMRWpHMXpMWVpVenZTY2IxYzhObGRqWlVhM2RIS0lZVkxzNHhhNlZnUXJmZFpXN0pQVktjWHdkQ1JwWldWQVZZRVAtelBWaHc?oc=5",
+      "source": "New York Post",
+      "published": "2026-08-18T15:11:15+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Ship attack in Hormuz results in one casualty while Trump says strait is 'open and operating' - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQll2LTZWcThSeTZYWjFBZXE0dVUxSl95V0RVdVhyVGRoZ2x3U28xcmxLWkFEN3ZVSnV1TVZaamh1UHBJd28xT19LN1JBNXdydndscmVqUHBPSUtkaXdBbFRyTnJKZGNlSmtQUnNhX0pka1VKS2xHVEdrTkd6U1o5MFd30gGHAUFVX3lxTE9JSG4tT1c5eF9DUEtCeVF6V1pYWnUtai1uY2hnNERGZ25hR2Y0OHBKR2l2b1dtcEhpaDRxWmdYMWlYMFUzRUJWb0VXTE0wUUczbktXV0Y2alc2RzdfT3hZU1FIUHVreFE0aDNvUS1mSTRBNmk0MEZReWZya3BybHhxTUhPN0RiVQ?oc=5",
+      "source": "CNBC",
+      "published": "2026-08-18T15:50:46+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Trump denies talks with Iran amid continued attacks near Strait of Hormuz - stripes.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWnVRbHFtN1lzNnM5N1dRUnA4WVVMWllteTFrU21aZkgyaUpyRVcwenVRamYxUWVRVkVYRHlzaHZ6d1l1YnVlN2xCZU9CTzJyRUZZLXZnMUZHcnFYRzZVQmRfNzJXUVBKZDhpZkFmZG9ZaXZoMVhUbS1Fb2g0eVVWSDZncHhUS1R3TjFlcUtNbXAyQUQtRkFQQXVpYUphVmo3aGVXdg?oc=5",
+      "source": "stripes.com",
+      "published": "2026-08-18T15:20:26+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
       ]
     },
     {
@@ -58,20 +88,20 @@
       ]
     },
     {
-      "title": "Ship Exiting the Strait of Hormuz Is Attacked - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTGRpNm9fblB2cTJiOHJmbzI5OTlPZmJrNUlWaUtyVDA3STdiTllISTBvNDIzLUFIMUlUMU8tcHJUazh5MmdrVlRwNUtZeHBqeVdsTFVuLVg0SDF0STVTSDlNUEVING82UWs3RmZvX1VsSzBMeTNkZER0ZmlfMWdiZUo0VQ?oc=5",
-      "source": "The New York Times",
-      "published": "2026-08-18T14:12:55+00:00",
+      "title": "Iran strikes ship, doubles down on closing Strait of Hormuz - NewsNation",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTExRTmtjckNNaHc5QXdUVlFScVNYeEU0Y3NfYU80SHNwU0trNG11bjJ2c2d6LV9iaVpDeU13VnAyV3lieEU1cGVQOHJYd1gyRGtBTDRfdDBPNG5iWS1kc3doc3JUSi1IbG1WbmxiV1hSQnNNa2J6MjFfTU9mTVNxc0FB0gGHAUFVX3lxTE9mMzFXb3hGcEI5UjhjRkNIZGpMZzBpTXZvV0ViM3h4cWJZLURFMWNUSmhkT3ZZTXZYVnVMdFdyNjZzVEZsMTVPc2hpdGNMLU5Ic3JkdURKMTR6cjRTRDBmaTZoUFhuTkkwb3EyNzNmX0RORXAzRWVuWVNNeldMTzNjRTBQbzRnVQ?oc=5",
+      "source": "NewsNation",
+      "published": "2026-08-18T13:47:54+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Iran strikes ship, doubles down on closing Strait of Hormuz - NewsNation",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTExRTmtjckNNaHc5QXdUVlFScVNYeEU0Y3NfYU80SHNwU0trNG11bjJ2c2d6LV9iaVpDeU13VnAyV3lieEU1cGVQOHJYd1gyRGtBTDRfdDBPNG5iWS1kc3doc3JUSi1IbG1WbmxiV1hSQnNNa2J6MjFfTU9mTVNxc0FB0gGHAUFVX3lxTE9mMzFXb3hGcEI5UjhjRkNIZGpMZzBpTXZvV0ViM3h4cWJZLURFMWNUSmhkT3ZZTXZYVnVMdFdyNjZzVEZsMTVPc2hpdGNMLU5Ic3JkdURKMTR6cjRTRDBmaTZoUFhuTkkwb3EyNzNmX0RORXAzRWVuWVNNeldMTzNjRTBQbzRnVQ?oc=5",
-      "source": "NewsNation",
-      "published": "2026-08-18T13:47:54+00:00",
+      "title": "Crew of ship sustains casualty after vessel is struck in Hormuz Strait - upi.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb2dmb0xGSHRwU09pOUg3d3RSLUxwRDhyT1VpeEtiUG5ILVdXYzVEcEkzQVhpODZwWnd2RlRfa1VORldJaGxLTElMSkJsU2ZXRHBDQmZiZ0VpclVQOTBEOHFtNGV5VWVISTRDdUMxNzBiamtBMkc0bWNCNjZrbjlGQVJYWG1SSlg1OXJTdUltRThHN3RLV19BcVJkZDFCeWVQNXFtZlRraVg2cmF4WkU1M3U2QUlfZjgyNGfSAboBQVVfeXFMTm9nZm9MRkh0cFNPaTlIN3d0Ui1McEQ4ck9VaXhLYlBuSC1XV2M1RHBJM0FYaTg2cFp3dkZUX2tVTkZXSWhsS0xJTEpCbFNmV0RwQ0JmYmdFaXJVUDkwRDhxbTRleVVlSEk0Q3VDMTcwYmprQTJHNG1jQjY2a245RkFSWFhtUkpYNTlyU3VJbUU4Rzd0S1dfQXFSZGQxQnllUDVxbWZUa2lYNnJheFpFNTN1NkFJX2Y4MjRn?oc=5",
+      "source": "upi.com",
+      "published": "2026-08-18T13:30:00+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -96,40 +126,10 @@
       "tags": [
         "tension"
       ]
-    },
-    {
-      "title": "Ship attacked during Strait of Hormuz transit - Spectrum News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbjRDdmtNcEYxXzZNcVQ0TXdLemtXcWhJdlQweENJTzZyc19ULTBob3NKWUVTYVA5bzJCd3FZWW5obXZ1Q05CMGhLQmhvSlhTMXc3Y2VPV04yVERnYUtlVzIxMVNiUTdvTThPV1NYMUFJbEowd0NlcGlJM3QzZVJtaWhZVmlHVE92aTlnLV9Pd3YySmJ2Zlo3dmtvb0JjbkowYkJlX1V0YVEyZTNZ?oc=5",
-      "source": "Spectrum News",
-      "published": "2026-08-18T12:19:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran fails to strike deal with US as deadline passes and Trump calls for \u2018white flag of surrender' - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYm5waFA2ZFpHX0ljNXNwalNwV1NTUm1GVk43UUR1VjM1LXN2LTNLVm0tWm1SR0ktOXRTdlhBVEJDXzlYZmJScFlwVDVaRU5VbWFPZTE4bGMxeGRVMVltVEN2QndXeG9pWWtqS1lwVHFXTlhrX3pWOGgtbjBZYlkyaTY4eG1QempNcS1yMzZ5ZHNwZzhKY095V0I2ZXYtY3lsYVFRMTJ4LWw5aFXSAbABQVVfeXFMTklQdGthcDBtcjVrS2MzM2JqUi1CR3JZSkh0bVg2VVZ2cERRNjhfTmJSaEp1eEFKSkhZTC15LThYYk8wZnFXeEVKeC05UWNibFY5UmZmVjdFQzZvMlppMDlPQW1fZEE5VVZraHBXMFVSalVtbVZuS1JyeEFMSWd3UWxBSnFRQTFRQ19MOTg3TGRKTmJlR1cwSzNjZ2E2TlBfZTc2VW5MRGdodDNaTW9VN1U?oc=5",
-      "source": "Fox News",
-      "published": "2026-08-18T11:32:41+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "One Dead After Vessel Struck in Strait of Hormuz - IranWire",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWTZETHl1dlA4dzhNcld5SmR6S0NnQThUclRXTVNPSkJoZVJCOGZiOUw4enFpbFRfM1lCMERvWlNnYS1pcHpud2Q2SGpEaDhyQW1MNVgwMkRuYTRsVG50R21Va0txb1Y2eWF4R2hFVE9nMHAzTnlUbVI5OWhCVW5md1YxSHVXTEVoNlJmRE1B?oc=5",
-      "source": "IranWire",
-      "published": "2026-08-18T10:57:39+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
     }
   ],
   "brent": {
-    "price": 91.84,
-    "change_pct": 1.07
+    "price": 91.39,
+    "change_pct": 0.57
   }
 }
