@@ -3,13 +3,13 @@
   "label": "Closure reported",
   "tension_index": 115.8,
   "closure_signals": 5,
-  "articles_scanned": 204,
-  "updated": "2026-08-18T17:24:07.039099+00:00",
+  "articles_scanned": 203,
+  "updated": "2026-08-18T17:51:35.695939+00:00",
   "headlines": [
     {
-      "title": "U.S.-Iran Tensions Keep The Strait Of Hormuz Closed With No End in Sight. Stocks Declined. - ibtimes.com",
+      "title": "U.S.-Iran Tensions Keep The Strait Of Hormuz Closed With No End in Sight. Stocks Declined. - International Business Times",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNenMzNEd0Z1FHd2hfQ0N4YUdVVm8xV2NqSG5hSm5lZG94b0hWQ0pJR0wtb3k0aGxFTndKc1NieHZFeHk1NGVKc0k1aklUeG1KMmdZZTFuSVBxQ09FcmtvSzlhb1lVX2txaXVKM2FMVlc1aG9XNTVQWjdWci04LXVUV2FpSG91SGlDZmFoWkxyTnFBQXJ1NTZwSmljYnRqdE5NeDNDSW5R?oc=5",
-      "source": "ibtimes.com",
+      "source": "International Business Times",
       "published": "2026-08-17T20:03:34+00:00",
       "score": 11.0,
       "tags": [
@@ -32,7 +32,7 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZS0zV3NTVHhMNTMzRHZ0eUpjZnBjN1pvYVBHSnpZSS1WREtFU3JPTXQxSFZHalR4c3ZZYk5qTEsyQUhBb3FGdnVEM2FQSjliNzhzQmIzYnRHUmgzVDNxdjcxMGpHS3M1blZwNVRQVzI5SEJXY1hDaEVWdnU0Y1BaeEhmUUtYSFZyOGRxSk40WTZjZjhRaTlFSGxjWXNMcnphOWlmVzhIUnU5Vi1JRGwyS2lpRm52OTQ?oc=5",
       "source": "WLUK",
       "published": "2026-08-17T10:44:02+00:00",
-      "score": 7.7,
+      "score": 7.68,
       "tags": [
         "closure"
       ]
@@ -52,7 +52,7 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVmxfMThFcGpOV0FXTUdmZWxOdk02OWtDemExYWVkTmVZaWwzWWRxRFlLUEE1SHNEdjc2YkNiUTFSQWdSSlBUSVYyM0R4cXZyRTVRY3RRa05aSXJrTlZJMy02MmlBRmw4bEp2VEx4Ymh6ZE1uTGZ1N1BpOU5LMWg4d2g5N3pQODktNHQxWHVB?oc=5",
       "source": "Yahoo Finance",
       "published": "2026-08-14T16:54:27+00:00",
-      "score": 5.97,
+      "score": 5.95,
       "tags": [
         "closure"
       ]
@@ -98,16 +98,6 @@
       ]
     },
     {
-      "title": "Ship Exiting the Strait of Hormuz Is Attacked - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTGRpNm9fblB2cTJiOHJmbzI5OTlPZmJrNUlWaUtyVDA3STdiTllISTBvNDIzLUFIMUlUMU8tcHJUazh5MmdrVlRwNUtZeHBqeVdsTFVuLVg0SDF0STVTSDlNUEVING82UWs3RmZvX1VsSzBMeTNkZER0ZmlfMWdiZUo0VQ?oc=5",
-      "source": "The New York Times",
-      "published": "2026-08-18T14:12:55+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
       "title": "Crew of ship sustains casualty after vessel is struck in Hormuz Strait - upi.com",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb2dmb0xGSHRwU09pOUg3d3RSLUxwRDhyT1VpeEtiUG5ILVdXYzVEcEkzQVhpODZwWnd2RlRfa1VORldJaGxLTElMSkJsU2ZXRHBDQmZiZ0VpclVQOTBEOHFtNGV5VWVISTRDdUMxNzBiamtBMkc0bWNCNjZrbjlGQVJYWG1SSlg1OXJTdUltRThHN3RLV19BcVJkZDFCeWVQNXFtZlRraVg2cmF4WkU1M3U2QUlfZjgyNGfSAboBQVVfeXFMTm9nZm9MRkh0cFNPaTlIN3d0Ui1McEQ4ck9VaXhLYlBuSC1XV2M1RHBJM0FYaTg2cFp3dkZUX2tVTkZXSWhsS0xJTEpCbFNmV0RwQ0JmYmdFaXJVUDkwRDhxbTRleVVlSEk0Q3VDMTcwYmprQTJHNG1jQjY2a245RkFSWFhtUkpYNTlyU3VJbUU4Rzd0S1dfQXFSZGQxQnllUDVxbWZUa2lYNnJheFpFNTN1NkFJX2Y4MjRn?oc=5",
       "source": "upi.com",
@@ -126,10 +116,20 @@
       "tags": [
         "tension"
       ]
+    },
+    {
+      "title": "Vessel struck in Hormuz; Iran vows to keep waterway shut until US complies with June deal - timesofisrael.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT3dNdURhVHc0dUV4UmtQSF9SdkpSUURuQWhHSGNOZWdIcFBOd3k4a0h2bDZnYTg0SHBXb0pnaTJFU3BZV0tJcXB1bFVrTGZsTmpTZ05jNUtpenlEd1BpWmp3eTFENGlLd0dBWTE3azFQMnhaZHBWSVRoUUI4QmloVnhoZjgyUTVtN2V0bDZHZkg1TkNKRGxPR3pfODMzMDhxX01SU0NWZ3o0ckxE0gGyAUFVX3lxTE1kLXc5VUk4bTdvR2JJa0hMaHk2bVRvenZNVFg0b0RJNzR1MUREeVJ0ejJPTm1BaWl6M2FjNmtKSjYweW40SjYwTzRmYzVBRG42NFdhbzVva0d6S1pGRXl5UlpVZWZ4OFhVQm5lS2lyVnpLOGFZTkgySHY3Q2kwdmdrZ1haZjRpT1J1UUlqb1F1YmhKWndOM1NXcDYwUF8zakxRSjZtQjJZeG1qRkVJUF80VUE?oc=5",
+      "source": "timesofisrael.com",
+      "published": "2026-08-18T12:40:01+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
     }
   ],
   "brent": {
-    "price": 91.24,
-    "change_pct": 0.41
+    "price": 91.18,
+    "change_pct": 0.34
   }
 }
