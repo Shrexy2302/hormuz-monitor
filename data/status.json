@@ -1,28 +1,27 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 101.2,
+  "tension_index": 94.1,
   "closure_signals": 4,
-  "articles_scanned": 202,
-  "updated": "2026-08-18T19:06:50.046396+00:00",
+  "articles_scanned": 200,
+  "updated": "2026-08-18T19:47:15.632451+00:00",
   "headlines": [
     {
-      "title": "U.S.-Iran Tensions Keep The Strait Of Hormuz Closed With No End in Sight. Stocks Declined. - International Business Times",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNenMzNEd0Z1FHd2hfQ0N4YUdVVm8xV2NqSG5hSm5lZG94b0hWQ0pJR0wtb3k0aGxFTndKc1NieHZFeHk1NGVKc0k1aklUeG1KMmdZZTFuSVBxQ09FcmtvSzlhb1lVX2txaXVKM2FMVlc1aG9XNTVQWjdWci04LXVUV2FpSG91SGlDZmFoWkxyTnFBQXJ1NTZwSmljYnRqdE5NeDNDSW5R?oc=5",
-      "source": "International Business Times",
-      "published": "2026-08-17T20:03:34+00:00",
-      "score": 11.0,
+      "title": "Iran closes Strait of Hormuz as diesel prices surge to $5.46 a gallon across the United States - Scripps News",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMHlNQmFIblRjVl9XU0xrb29xVzhrTzBRZm5hSjZqMUhiVHh1ZFh6TFVYZ1J6MnB6VlR5UjZCTjhJTDRubUZURXU0bllvQVpVcEdWa3NpM1Ezdk5JaVhfSzVzLU53cXJfT0FvQTEzNFg1LU9xU3k4R2ZMTWl3cUF6eEpnZ0NHTkpzR2dxNkt6SUNjSHRSN2FGTzVGRXFjMGxRRklUNk01RzlnM2pWWC11VkZ5VndrektYelQyRGxTUk52Q0tZR0JKN1NtQ2hhMHRnazFVYw?oc=5",
+      "source": "Scripps News",
+      "published": "2026-08-18T12:44:27+00:00",
+      "score": 8.0,
       "tags": [
-        "closure",
-        "tension"
+        "closure"
       ]
     },
     {
-      "title": "Diesel spikes to $5.41 nationally as closure of Strait of Hormuz pressures prices - WLUK",
+      "title": "Diesel spikes to $5.41 nationally as closure of Strait of Hormuz pressures prices - fox11online.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZS0zV3NTVHhMNTMzRHZ0eUpjZnBjN1pvYVBHSnpZSS1WREtFU3JPTXQxSFZHalR4c3ZZYk5qTEsyQUhBb3FGdnVEM2FQSjliNzhzQmIzYnRHUmgzVDNxdjcxMGpHS3M1blZwNVRQVzI5SEJXY1hDaEVWdnU0Y1BaeEhmUUtYSFZyOGRxSk40WTZjZjhRaTlFSGxjWXNMcnphOWlmVzhIUnU5Vi1JRGwyS2lpRm52OTQ?oc=5",
-      "source": "WLUK",
+      "source": "fox11online.com",
       "published": "2026-08-17T10:44:02+00:00",
-      "score": 7.63,
+      "score": 7.6,
       "tags": [
         "closure"
       ]
@@ -38,11 +37,11 @@
       ]
     },
     {
-      "title": "Iran says the Strait of Hormuz is shut down. The Trump administration says 9 million barrels a day are still getting out - Yahoo Finance",
+      "title": "Iran says the Strait of Hormuz is shut down. The Trump administration says 9 million barrels a day are still getting out - finance.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVmxfMThFcGpOV0FXTUdmZWxOdk02OWtDemExYWVkTmVZaWwzWWRxRFlLUEE1SHNEdjc2YkNiUTFSQWdSSlBUSVYyM0R4cXZyRTVRY3RRa05aSXJrTlZJMy02MmlBRmw4bEp2VEx4Ymh6ZE1uTGZ1N1BpOU5LMWg4d2g5N3pQODktNHQxWHVB?oc=5",
-      "source": "Yahoo Finance",
+      "source": "finance.yahoo.com",
       "published": "2026-08-14T16:54:27+00:00",
-      "score": 5.88,
+      "score": 5.84,
       "tags": [
         "closure"
       ]
@@ -52,16 +51,6 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTGRpNm9fblB2cTJiOHJmbzI5OTlPZmJrNUlWaUtyVDA3STdiTllISTBvNDIzLUFIMUlUMU8tcHJUazh5MmdrVlRwNUtZeHBqeVdsTFVuLVg0SDF0STVTSDlNUEVING82UWs3RmZvX1VsSzBMeTNkZER0ZmlfMWdiZUo0VQ?oc=5",
       "source": "The New York Times",
       "published": "2026-08-18T16:56:22+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Chief Engineer Killed as Bulker is Attacked Exiting Strait of Hormuz - The Maritime Executive",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeVBfXzNFUUdvR3RFLWp0X0FnWERDSlpES0tnTGxaT2VsWmp3VlFobjNxN0hRS2RZT3NHSk9aamJTNHZWY1JKMjdSZ2tIcG5mVlBOZ2x2SHZtbEFQUEtnLU5kSkh6aWpkalUwWFlfS3lOSmJZSFNwSDNEV1RQMTZ0RlhzUDV2a2pvaTgycDl6UWFXdEp1eDVtN1RnemVrOGdiX1BlaW0xWG4taW8?oc=5",
-      "source": "The Maritime Executive",
-      "published": "2026-08-18T16:15:35+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -126,10 +115,20 @@
       "tags": [
         "tension"
       ]
+    },
+    {
+      "title": "Vessel struck in Hormuz; Iran vows to keep waterway shut until US complies with June deal - timesofisrael.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT3dNdURhVHc0dUV4UmtQSF9SdkpSUURuQWhHSGNOZWdIcFBOd3k4a0h2bDZnYTg0SHBXb0pnaTJFU3BZV0tJcXB1bFVrTGZsTmpTZ05jNUtpenlEd1BpWmp3eTFENGlLd0dBWTE3azFQMnhaZHBWSVRoUUI4QmloVnhoZjgyUTVtN2V0bDZHZkg1TkNKRGxPR3pfODMzMDhxX01SU0NWZ3o0ckxE0gGyAUFVX3lxTE1kLXc5VUk4bTdvR2JJa0hMaHk2bVRvenZNVFg0b0RJNzR1MUREeVJ0ejJPTm1BaWl6M2FjNmtKSjYweW40SjYwTzRmYzVBRG42NFdhbzVva0d6S1pGRXl5UlpVZWZ4OFhVQm5lS2lyVnpLOGFZTkgySHY3Q2kwdmdrZ1haZjRpT1J1UUlqb1F1YmhKWndOM1NXcDYwUF8zakxRSjZtQjJZeG1qRkVJUF80VUE?oc=5",
+      "source": "timesofisrael.com",
+      "published": "2026-08-18T12:40:01+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
     }
   ],
   "brent": {
-    "price": 91.02,
-    "change_pct": 0.17
+    "price": 90.92,
+    "change_pct": 0.06
   }
 }
