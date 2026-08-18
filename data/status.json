@@ -1,17 +1,28 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 89.4,
-  "closure_signals": 3,
+  "tension_index": 94.0,
+  "closure_signals": 4,
   "articles_scanned": 198,
-  "updated": "2026-08-18T20:15:11.533156+00:00",
+  "updated": "2026-08-18T20:46:51.664268+00:00",
   "headlines": [
+    {
+      "title": "U.S.-Iran Tensions Keep The Strait Of Hormuz Closed With No End in Sight. Stocks Declined. - International Business Times",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNenMzNEd0Z1FHd2hfQ0N4YUdVVm8xV2NqSG5hSm5lZG94b0hWQ0pJR0wtb3k0aGxFTndKc1NieHZFeHk1NGVKc0k1aklUeG1KMmdZZTFuSVBxQ09FcmtvSzlhb1lVX2txaXVKM2FMVlc1aG9XNTVQWjdWci04LXVUV2FpSG91SGlDZmFoWkxyTnFBQXJ1NTZwSmljYnRqdE5NeDNDSW5R?oc=5",
+      "source": "International Business Times",
+      "published": "2026-08-17T20:03:34+00:00",
+      "score": 10.96,
+      "tags": [
+        "closure",
+        "tension"
+      ]
+    },
     {
       "title": "Diesel spikes to $5.41 nationally as closure of Strait of Hormuz pressures prices - WLUK",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZS0zV3NTVHhMNTMzRHZ0eUpjZnBjN1pvYVBHSnpZSS1WREtFU3JPTXQxSFZHalR4c3ZZYk5qTEsyQUhBb3FGdnVEM2FQSjliNzhzQmIzYnRHUmgzVDNxdjcxMGpHS3M1blZwNVRQVzI5SEJXY1hDaEVWdnU0Y1BaeEhmUUtYSFZyOGRxSk40WTZjZjhRaTlFSGxjWXNMcnphOWlmVzhIUnU5Vi1JRGwyS2lpRm52OTQ?oc=5",
       "source": "WLUK",
       "published": "2026-08-17T10:44:02+00:00",
-      "score": 7.58,
+      "score": 7.55,
       "tags": [
         "closure"
       ]
@@ -31,7 +42,7 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVmxfMThFcGpOV0FXTUdmZWxOdk02OWtDemExYWVkTmVZaWwzWWRxRFlLUEE1SHNEdjc2YkNiUTFSQWdSSlBUSVYyM0R4cXZyRTVRY3RRa05aSXJrTlZJMy02MmlBRmw4bEp2VEx4Ymh6ZE1uTGZ1N1BpOU5LMWg4d2g5N3pQODktNHQxWHVB?oc=5",
       "source": "Yahoo Finance",
       "published": "2026-08-14T16:54:27+00:00",
-      "score": 5.81,
+      "score": 5.78,
       "tags": [
         "closure"
       ]
@@ -47,20 +58,20 @@
       ]
     },
     {
-      "title": "Iran strikes ship, doubles down on closing Strait of Hormuz - NewsNation",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTExRTmtjckNNaHc5QXdUVlFScVNYeEU0Y3NfYU80SHNwU0trNG11bjJ2c2d6LV9iaVpDeU13VnAyV3lieEU1cGVQOHJYd1gyRGtBTDRfdDBPNG5iWS1kc3doc3JUSi1IbG1WbmxiV1hSQnNNa2J6MjFfTU9mTVNxc0FB0gGHAUFVX3lxTE9mMzFXb3hGcEI5UjhjRkNIZGpMZzBpTXZvV0ViM3h4cWJZLURFMWNUSmhkT3ZZTXZYVnVMdFdyNjZzVEZsMTVPc2hpdGNMLU5Ic3JkdURKMTR6cjRTRDBmaTZoUFhuTkkwb3EyNzNmX0RORXAzRWVuWVNNeldMTzNjRTBQbzRnVQ?oc=5",
-      "source": "NewsNation",
-      "published": "2026-08-18T15:25:20+00:00",
+      "title": "Seafarer Killed in Latest Strait of Hormuz Attack on Commercial Shipping - gcaptain.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLWRoQy1ybV9pY3hOdTU0T0Z3azZ6Qjh6Q1QwZDVfVFFqSG1mVWxrS3ZjckoxZC1tRjNiR3hycHJGUGpPNnJsX0dHRkt0ZWg4WHlMaXVkZWVIYjNKUEg1dDB2U0JUZ2ZkUGNHdFpOdlJzWnhxLXlTcE5heXlsNkpITjlPVlJtV0RGWkpTQjNlbV9LaUo5NW90VjhB?oc=5",
+      "source": "gcaptain.com",
+      "published": "2026-08-18T14:46:42+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Seafarer Killed in Latest Strait of Hormuz Attack on Commercial Shipping - gCaptain",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLWRoQy1ybV9pY3hOdTU0T0Z3azZ6Qjh6Q1QwZDVfVFFqSG1mVWxrS3ZjckoxZC1tRjNiR3hycHJGUGpPNnJsX0dHRkt0ZWg4WHlMaXVkZWVIYjNKUEg1dDB2U0JUZ2ZkUGNHdFpOdlJzWnhxLXlTcE5heXlsNkpITjlPVlJtV0RGWkpTQjNlbV9LaUo5NW90VjhB?oc=5",
-      "source": "gCaptain",
-      "published": "2026-08-18T14:46:42+00:00",
+      "title": "Iran strikes ship, doubles down on closing Strait of Hormuz - NewsNation",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTExRTmtjckNNaHc5QXdUVlFScVNYeEU0Y3NfYU80SHNwU0trNG11bjJ2c2d6LV9iaVpDeU13VnAyV3lieEU1cGVQOHJYd1gyRGtBTDRfdDBPNG5iWS1kc3doc3JUSi1IbG1WbmxiV1hSQnNNa2J6MjFfTU9mTVNxc0FB0gGHAUFVX3lxTE9mMzFXb3hGcEI5UjhjRkNIZGpMZzBpTXZvV0ViM3h4cWJZLURFMWNUSmhkT3ZZTXZYVnVMdFdyNjZzVEZsMTVPc2hpdGNMLU5Ic3JkdURKMTR6cjRTRDBmaTZoUFhuTkkwb3EyNzNmX0RORXAzRWVuWVNNeldMTzNjRTBQbzRnVQ?oc=5",
+      "source": "NewsNation",
+      "published": "2026-08-18T13:47:54+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -115,20 +126,10 @@
       "tags": [
         "tension"
       ]
-    },
-    {
-      "title": "Ship attacked during Strait of Hormuz transit - Spectrum News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbjRDdmtNcEYxXzZNcVQ0TXdLemtXcWhJdlQweENJTzZyc19ULTBob3NKWUVTYVA5bzJCd3FZWW5obXZ1Q05CMGhLQmhvSlhTMXc3Y2VPV04yVERnYUtlVzIxMVNiUTdvTThPV1NYMUFJbEowd0NlcGlJM3QzZVJtaWhZVmlHVE92aTlnLV9Pd3YySmJ2Zlo3dmtvb0JjbkowYkJlX1V0YVEyZTNZ?oc=5",
-      "source": "Spectrum News",
-      "published": "2026-08-18T12:19:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
     }
   ],
   "brent": {
-    "price": 90.95,
-    "change_pct": 0.09
+    "price": 91.19,
+    "change_pct": 0.35
   }
 }
