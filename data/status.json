@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 94.2,
+  "tension_index": 94.4,
   "closure_signals": 4,
   "articles_scanned": 212,
-  "updated": "2026-08-18T02:11:33.605691+00:00",
+  "updated": "2026-08-18T03:15:43.013470+00:00",
   "headlines": [
     {
       "title": "U.S.-Iran Tensions Keep The Strait Of Hormuz Closed With No End in Sight. Stocks Declined. - International Business Times",
@@ -32,7 +32,7 @@
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CVDdELXViMUpVei1hVUVyUlRsRkFzRHc4MFptN2gwc0RfZDhvZWZGS0JBWjZjb1kxNHViSGpxZDM1MzZRLTZpY2huM2pKR2diMWlxUl96LVpUdWtBcnh2XzdzTmt0UQ?oc=5",
       "source": "\u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
       "published": "2026-08-15T01:08:10+00:00",
-      "score": 7.27,
+      "score": 7.22,
       "tags": [
         "closure"
       ]
@@ -42,7 +42,7 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeUJGazFZU1g0bFJMR2pOWXRrWUhnOE1DVGlIMUR4SHBPMWZLUzB3eTYyZm12V25waHNjQWdQQTE4WUtweUtIdURHUmFvZmR4TTJtYjFFaGtDcDNQWHZfQVJBV25laFo3ak5xcU1VQ2ZvRlFJeUJkXzRRSG95eDRQWjliRFhMUkxCZWxmQVVQY3lmaTZ5WGc?oc=5",
       "source": "Fortune",
       "published": "2026-08-14T16:54:00+00:00",
-      "score": 6.82,
+      "score": 6.76,
       "tags": [
         "closure"
       ]
@@ -78,9 +78,9 @@
       ]
     },
     {
-      "title": "Strait of Hormuz Shipping Disruption: Attacks, Stalled Talks, and Oil Market Impact - News and Statistics - indexbox.io",
+      "title": "Strait of Hormuz Shipping Disruption: Attacks, Stalled Talks, and Oil Market Impact - News and Statistics - IndexBox",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMFlrZlYtRUJsQjh4NFVVNDBvRUZiOS0yZ3VjbHZIX09xdzJJTUYtZ0VpZjg5U3N0RTdObUxnUUdWcE1qcEdLbzJ2ZmtLQ2dTUHRlMnk3bDB3U3p0YkNaSlBiZXlwSzF4Z0JjbXpVX0pCR0N1MkFLbGtsMF9qZ2dwZkUzWl9FTXhVRWtmTVdBRER0ZE0?oc=5",
-      "source": "indexbox.io",
+      "source": "IndexBox",
       "published": "2026-08-17T04:51:00+00:00",
       "score": 3.0,
       "tags": [
@@ -112,7 +112,7 @@
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96bnlvUFNIN3BwU2xSRWxfbFBGdVZzX3lwMGtSdmdvS2lDcDNRZUlNQ3lHdlJVNFpFclBNUlNMbTd6czZYRkotZVNHeGg5cmZrOXdXbktJdF9mQndZMHU5Y2Rn?oc=5",
       "source": "Forth.News",
       "published": "2026-08-17T01:25:16+00:00",
-      "score": 2.99,
+      "score": 2.97,
       "tags": [
         "tension"
       ]
@@ -122,14 +122,14 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1ZUNyeVppbHp3ZjQwXzFTVVpCV2hWRnpHM0NoUXQ4a2thZXo4cjQ3bGJRakFkVDYzTjQwN0Rva1ZReEM5YWRHQkVFYTJoQW82ZjVrZXhyd20xWkFwZ2h3dkhTdm44enliUVY2WGt3?oc=5",
       "source": "\u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
       "published": "2026-08-17T01:16:50+00:00",
-      "score": 2.98,
+      "score": 2.97,
       "tags": [
         "tension"
       ]
     }
   ],
   "brent": {
-    "price": 91.19,
-    "change_pct": 0.35
+    "price": 91.34,
+    "change_pct": 0.52
   }
 }
