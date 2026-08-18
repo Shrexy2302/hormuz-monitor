@@ -1,27 +1,17 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 94.1,
-  "closure_signals": 4,
-  "articles_scanned": 200,
-  "updated": "2026-08-18T19:47:15.632451+00:00",
+  "tension_index": 89.4,
+  "closure_signals": 3,
+  "articles_scanned": 198,
+  "updated": "2026-08-18T20:15:11.533156+00:00",
   "headlines": [
     {
-      "title": "Iran closes Strait of Hormuz as diesel prices surge to $5.46 a gallon across the United States - Scripps News",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMHlNQmFIblRjVl9XU0xrb29xVzhrTzBRZm5hSjZqMUhiVHh1ZFh6TFVYZ1J6MnB6VlR5UjZCTjhJTDRubUZURXU0bllvQVpVcEdWa3NpM1Ezdk5JaVhfSzVzLU53cXJfT0FvQTEzNFg1LU9xU3k4R2ZMTWl3cUF6eEpnZ0NHTkpzR2dxNkt6SUNjSHRSN2FGTzVGRXFjMGxRRklUNk01RzlnM2pWWC11VkZ5VndrektYelQyRGxTUk52Q0tZR0JKN1NtQ2hhMHRnazFVYw?oc=5",
-      "source": "Scripps News",
-      "published": "2026-08-18T12:44:27+00:00",
-      "score": 8.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Diesel spikes to $5.41 nationally as closure of Strait of Hormuz pressures prices - fox11online.com",
+      "title": "Diesel spikes to $5.41 nationally as closure of Strait of Hormuz pressures prices - WLUK",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZS0zV3NTVHhMNTMzRHZ0eUpjZnBjN1pvYVBHSnpZSS1WREtFU3JPTXQxSFZHalR4c3ZZYk5qTEsyQUhBb3FGdnVEM2FQSjliNzhzQmIzYnRHUmgzVDNxdjcxMGpHS3M1blZwNVRQVzI5SEJXY1hDaEVWdnU0Y1BaeEhmUUtYSFZyOGRxSk40WTZjZjhRaTlFSGxjWXNMcnphOWlmVzhIUnU5Vi1JRGwyS2lpRm52OTQ?oc=5",
-      "source": "fox11online.com",
+      "source": "WLUK",
       "published": "2026-08-17T10:44:02+00:00",
-      "score": 7.6,
+      "score": 7.58,
       "tags": [
         "closure"
       ]
@@ -37,23 +27,13 @@
       ]
     },
     {
-      "title": "Iran says the Strait of Hormuz is shut down. The Trump administration says 9 million barrels a day are still getting out - finance.yahoo.com",
+      "title": "Iran says the Strait of Hormuz is shut down. The Trump administration says 9 million barrels a day are still getting out - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVmxfMThFcGpOV0FXTUdmZWxOdk02OWtDemExYWVkTmVZaWwzWWRxRFlLUEE1SHNEdjc2YkNiUTFSQWdSSlBUSVYyM0R4cXZyRTVRY3RRa05aSXJrTlZJMy02MmlBRmw4bEp2VEx4Ymh6ZE1uTGZ1N1BpOU5LMWg4d2g5N3pQODktNHQxWHVB?oc=5",
-      "source": "finance.yahoo.com",
+      "source": "Yahoo Finance",
       "published": "2026-08-14T16:54:27+00:00",
-      "score": 5.84,
+      "score": 5.81,
       "tags": [
         "closure"
-      ]
-    },
-    {
-      "title": "Two Ships Transiting Strait of Hormuz Are Attacked as Oil Prices Rise - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTGRpNm9fblB2cTJiOHJmbzI5OTlPZmJrNUlWaUtyVDA3STdiTllISTBvNDIzLUFIMUlUMU8tcHJUazh5MmdrVlRwNUtZeHBqeVdsTFVuLVg0SDF0STVTSDlNUEVING82UWs3RmZvX1VsSzBMeTNkZER0ZmlfMWdiZUo0VQ?oc=5",
-      "source": "The New York Times",
-      "published": "2026-08-18T16:56:22+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
       ]
     },
     {
@@ -117,10 +97,30 @@
       ]
     },
     {
-      "title": "Vessel struck in Hormuz; Iran vows to keep waterway shut until US complies with June deal - timesofisrael.com",
+      "title": "Vessel struck in Hormuz; Iran vows to keep waterway shut until US complies with June deal - The Times of Israel",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT3dNdURhVHc0dUV4UmtQSF9SdkpSUURuQWhHSGNOZWdIcFBOd3k4a0h2bDZnYTg0SHBXb0pnaTJFU3BZV0tJcXB1bFVrTGZsTmpTZ05jNUtpenlEd1BpWmp3eTFENGlLd0dBWTE3azFQMnhaZHBWSVRoUUI4QmloVnhoZjgyUTVtN2V0bDZHZkg1TkNKRGxPR3pfODMzMDhxX01SU0NWZ3o0ckxE0gGyAUFVX3lxTE1kLXc5VUk4bTdvR2JJa0hMaHk2bVRvenZNVFg0b0RJNzR1MUREeVJ0ejJPTm1BaWl6M2FjNmtKSjYweW40SjYwTzRmYzVBRG42NFdhbzVva0d6S1pGRXl5UlpVZWZ4OFhVQm5lS2lyVnpLOGFZTkgySHY3Q2kwdmdrZ1haZjRpT1J1UUlqb1F1YmhKWndOM1NXcDYwUF8zakxRSjZtQjJZeG1qRkVJUF80VUE?oc=5",
-      "source": "timesofisrael.com",
+      "source": "The Times of Israel",
       "published": "2026-08-18T12:40:01+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Two Ships Passing Through the Strait of Hormuz Are Attacked - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTGRpNm9fblB2cTJiOHJmbzI5OTlPZmJrNUlWaUtyVDA3STdiTllISTBvNDIzLUFIMUlUMU8tcHJUazh5MmdrVlRwNUtZeHBqeVdsTFVuLVg0SDF0STVTSDlNUEVING82UWs3RmZvX1VsSzBMeTNkZER0ZmlfMWdiZUo0VQ?oc=5",
+      "source": "The New York Times",
+      "published": "2026-08-18T12:27:21+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Ship attacked during Strait of Hormuz transit - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbjRDdmtNcEYxXzZNcVQ0TXdLemtXcWhJdlQweENJTzZyc19ULTBob3NKWUVTYVA5bzJCd3FZWW5obXZ1Q05CMGhLQmhvSlhTMXc3Y2VPV04yVERnYUtlVzIxMVNiUTdvTThPV1NYMUFJbEowd0NlcGlJM3QzZVJtaWhZVmlHVE92aTlnLV9Pd3YySmJ2Zlo3dmtvb0JjbkowYkJlX1V0YVEyZTNZ?oc=5",
+      "source": "Spectrum News",
+      "published": "2026-08-18T12:19:00+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -128,7 +128,7 @@
     }
   ],
   "brent": {
-    "price": 90.92,
-    "change_pct": 0.06
+    "price": 90.95,
+    "change_pct": 0.09
   }
 }
