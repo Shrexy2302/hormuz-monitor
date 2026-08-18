@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 92.4,
+  "tension_index": 88.9,
   "closure_signals": 4,
-  "articles_scanned": 212,
-  "updated": "2026-08-18T04:04:56.011896+00:00",
+  "articles_scanned": 214,
+  "updated": "2026-08-18T05:00:36.968186+00:00",
   "headlines": [
     {
       "title": "U.S.-Iran Tensions Keep The Strait Of Hormuz Closed With No End in Sight. Stocks Declined. - International Business Times",
@@ -32,7 +32,7 @@
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CVDdELXViMUpVei1hVUVyUlRsRkFzRHc4MFptN2gwc0RfZDhvZWZGS0JBWjZjb1kxNHViSGpxZDM1MzZRLTZpY2huM2pKR2diMWlxUl96LVpUdWtBcnh2XzdzTmt0UQ?oc=5",
       "source": "\u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
       "published": "2026-08-15T01:08:10+00:00",
-      "score": 7.17,
+      "score": 7.12,
       "tags": [
         "closure"
       ]
@@ -42,7 +42,7 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeUJGazFZU1g0bFJMR2pOWXRrWUhnOE1DVGlIMUR4SHBPMWZLUzB3eTYyZm12V25waHNjQWdQQTE4WUtweUtIdURHUmFvZmR4TTJtYjFFaGtDcDNQWHZfQVJBV25laFo3ak5xcU1VQ2ZvRlFJeUJkXzRRSG95eDRQWjliRFhMUkxCZWxmQVVQY3lmaTZ5WGc?oc=5",
       "source": "Fortune",
       "published": "2026-08-14T16:54:00+00:00",
-      "score": 6.71,
+      "score": 6.66,
       "tags": [
         "closure"
       ]
@@ -88,41 +88,41 @@
       ]
     },
     {
-      "title": "Frequency of vessel attacks in Hormuz increases - Seatrade Maritime News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYV9aVHN1MlRoNzYtVkV5dGhGOFBFekNPSWZIaEM0YUtfWXZPcE9BUmZkaTFPWFptSnBPMmJMQ2x5bFI2YlpDaTZKc0FXUWNlbFljNVFqZ3Y3TjFrU3d1S3F6dnNLVlRzRmRGU2Izd3c1SUJRdm1FRUxTUlAybkFRb3RwYzJSRHhTdk9GWU9VQkJZMGpz?oc=5",
-      "source": "Seatrade Maritime News",
-      "published": "2026-08-17T03:40:07+00:00",
-      "score": 2.99,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
       "title": "Shipping slows through Strait of Hormuz after tanker attacks - mediaselangor.com",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10SGJIeDlKR0E2TVpuTnEtb3VvNWo0SmI0UDl2ZFFKV1pqN2VCVV9Qem5xUDA5LWhmR0h0YVEtMEpETnVZSnMtOVhrX0xuaC1rVXpiZm5B?oc=5",
       "source": "mediaselangor.com",
       "published": "2026-08-17T03:10:52+00:00",
-      "score": 2.98,
+      "score": 2.97,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Shipping Through Strait of Hormuz Slows After Tanker Attacks, Data Shows - Forth.News",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96bnlvUFNIN3BwU2xSRWxfbFBGdVZzX3lwMGtSdmdvS2lDcDNRZUlNQ3lHdlJVNFpFclBNUlNMbTd6czZYRkotZVNHeGg5cmZrOXdXbktJdF9mQndZMHU5Y2Rn?oc=5",
-      "source": "Forth.News",
-      "published": "2026-08-17T01:25:16+00:00",
-      "score": 2.96,
+      "title": "Shipping slows through Strait of Hormuz after tanker attacks, data shows - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS011b1NvcmEzQUNzX2dVdzFyUmg1UnpkLXZqNW5nUFFxNGZpaE51amZaZWJDZnNTQi1yZDE2cGxwU09PdzhMWWJiV1lpMk0xSmJmb0dQNVdGN1F3RHBTaVQtRzlsU2Nwa2RER0ZlbngzOWc3aDV2MmMwRmNfZ2xXclpHRzE0RkFzeDZ3MjY2QTAwMlFPSEVTeTRQM0JDQ2VtQjVPQTFPZWxRaXB4YzBTbjBVSXlxQTBoMUE?oc=5",
+      "source": "Reuters",
+      "published": "2026-08-16T23:54:51+00:00",
+      "score": 2.92,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Shipping Through Strait of Hormuz Nearly Stops After Tanker Attacks - \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1ZUNyeVppbHp3ZjQwXzFTVVpCV2hWRnpHM0NoUXQ4a2thZXo4cjQ3bGJRakFkVDYzTjQwN0Rva1ZReEM5YWRHQkVFYTJoQW82ZjVrZXhyd20xWkFwZ2h3dkhTdm44enliUVY2WGt3?oc=5",
-      "source": "\u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
-      "published": "2026-08-17T01:16:50+00:00",
-      "score": 2.95,
+      "title": "Bab el-Mandeb Strait faces growing threat as Houthi attacks raise fears of a second Hormuz - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcWZ4Y3pCY2JPd1Q3NDhQem9ueXlmOVFzX05Rb20zcVNacTdSRHd0REU1LUJiUlJ3MW5qWlNtOVlOOU8yZmd5UHRESE1odm5NMkFqWFlPdlZ2YXowdl80TGZ1d0VRc0l5OHRjMnVnQlFZSkwtajBZZFFISFNaNmpISDNWd2N0bVVhNnY1M1IxOWstWGpKb1ZOcFJOTFk0UUNJYWJQclhhZG8yNFdfN205TFpn0gG3AUFVX3lxTFBMbVBaay1Kal9NaTNkb0p3MlU5eWY1YVNOSjlERXl2ckxqZHNuU3h1a0JzUjFXUzRWSVdrbzRYd2RJaGpWNU9uSnhGYmVtZVFkVUk2TVpjRGRZbDRFNkpnWUttTmV1MkhhU2JZb1JvRlYtRXdtSEtfUU9QRWduaUIxVU5TR25IaG1YS0xqaGMtZVJveFRUUVlDbnE3T0pxQW9ZZV9rSnI3d0NuRXJYY0Qxc1IxQWFLMA?oc=5",
+      "source": "Fox News",
+      "published": "2026-08-16T13:53:38+00:00",
+      "score": 2.75,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Shipping slows through Strait of Hormuz after tanker attacks, data shows - Classic Rock 103.5 WIMZ",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTTRFNlQ0ZzI0SVU5N2lXNnY4Z1JCRTZjWmM2X0RZVk9GRkpSdHUzMlRwdy1ndWdySlpBbWlINlhNN1JKVVM4NzctQ2ZKVDBsVmVYWWtLdHY0S2c5VkhRdWpBS1FCNDE0bzFBSHN0anNfTEhTcHE1NUQ5OFNfZmk0TFMxZTY2WktZdUQxWm9iVW9QVkQ4SWVJWjJNOF9oMVNxZUE?oc=5",
+      "source": "Classic Rock 103.5 WIMZ",
+      "published": "2026-08-16T07:00:00+00:00",
+      "score": 2.63,
       "tags": [
         "tension"
       ]
