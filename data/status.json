@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 117.8,
-  "closure_signals": 5,
+  "tension_index": 101.2,
+  "closure_signals": 4,
   "articles_scanned": 202,
-  "updated": "2026-08-18T18:27:06.348228+00:00",
+  "updated": "2026-08-18T19:06:50.046396+00:00",
   "headlines": [
     {
       "title": "U.S.-Iran Tensions Keep The Strait Of Hormuz Closed With No End in Sight. Stocks Declined. - International Business Times",
@@ -18,21 +18,11 @@
       ]
     },
     {
-      "title": "Iran closes Strait of Hormuz as diesel prices surge to $5.46 a gallon across the United States - Scripps News",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMHlNQmFIblRjVl9XU0xrb29xVzhrTzBRZm5hSjZqMUhiVHh1ZFh6TFVYZ1J6MnB6VlR5UjZCTjhJTDRubUZURXU0bllvQVpVcEdWa3NpM1Ezdk5JaVhfSzVzLU53cXJfT0FvQTEzNFg1LU9xU3k4R2ZMTWl3cUF6eEpnZ0NHTkpzR2dxNkt6SUNjSHRSN2FGTzVGRXFjMGxRRklUNk01RzlnM2pWWC11VkZ5VndrektYelQyRGxTUk52Q0tZR0JKN1NtQ2hhMHRnazFVYw?oc=5",
-      "source": "Scripps News",
-      "published": "2026-08-18T12:40:06+00:00",
-      "score": 8.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
       "title": "Diesel spikes to $5.41 nationally as closure of Strait of Hormuz pressures prices - WLUK",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZS0zV3NTVHhMNTMzRHZ0eUpjZnBjN1pvYVBHSnpZSS1WREtFU3JPTXQxSFZHalR4c3ZZYk5qTEsyQUhBb3FGdnVEM2FQSjliNzhzQmIzYnRHUmgzVDNxdjcxMGpHS3M1blZwNVRQVzI5SEJXY1hDaEVWdnU0Y1BaeEhmUUtYSFZyOGRxSk40WTZjZjhRaTlFSGxjWXNMcnphOWlmVzhIUnU5Vi1JRGwyS2lpRm52OTQ?oc=5",
       "source": "WLUK",
       "published": "2026-08-17T10:44:02+00:00",
-      "score": 7.66,
+      "score": 7.63,
       "tags": [
         "closure"
       ]
@@ -52,16 +42,16 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVmxfMThFcGpOV0FXTUdmZWxOdk02OWtDemExYWVkTmVZaWwzWWRxRFlLUEE1SHNEdjc2YkNiUTFSQWdSSlBUSVYyM0R4cXZyRTVRY3RRa05aSXJrTlZJMy02MmlBRmw4bEp2VEx4Ymh6ZE1uTGZ1N1BpOU5LMWg4d2g5N3pQODktNHQxWHVB?oc=5",
       "source": "Yahoo Finance",
       "published": "2026-08-14T16:54:27+00:00",
-      "score": 5.91,
+      "score": 5.88,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Two Ships Passing Through the Strait of Hormuz Are Attacked - The New York Times",
+      "title": "Two Ships Transiting Strait of Hormuz Are Attacked as Oil Prices Rise - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTGRpNm9fblB2cTJiOHJmbzI5OTlPZmJrNUlWaUtyVDA3STdiTllISTBvNDIzLUFIMUlUMU8tcHJUazh5MmdrVlRwNUtZeHBqeVdsTFVuLVg0SDF0STVTSDlNUEVING82UWs3RmZvX1VsSzBMeTNkZER0ZmlfMWdiZUo0VQ?oc=5",
       "source": "The New York Times",
-      "published": "2026-08-18T16:56:21+00:00",
+      "published": "2026-08-18T16:56:22+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -78,9 +68,9 @@
       ]
     },
     {
-      "title": "Ship attack in Hormuz kills crew member while Trump says strait is 'open and operating' - cnbc.com",
+      "title": "Ship attack in Hormuz kills crew member while Trump says strait is 'open and operating' - CNBC",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQll2LTZWcThSeTZYWjFBZXE0dVUxSl95V0RVdVhyVGRoZ2x3U28xcmxLWkFEN3ZVSnV1TVZaamh1UHBJd28xT19LN1JBNXdydndscmVqUHBPSUtkaXdBbFRyTnJKZGNlSmtQUnNhX0pka1VKS2xHVEdrTkd6U1o5MFd30gGHAUFVX3lxTE9JSG4tT1c5eF9DUEtCeVF6V1pYWnUtai1uY2hnNERGZ25hR2Y0OHBKR2l2b1dtcEhpaDRxWmdYMWlYMFUzRUJWb0VXTE0wUUczbktXV0Y2alc2RzdfT3hZU1FIUHVreFE0aDNvUS1mSTRBNmk0MEZReWZya3BybHhxTUhPN0RiVQ?oc=5",
-      "source": "cnbc.com",
+      "source": "CNBC",
       "published": "2026-08-18T15:50:46+00:00",
       "score": 3.0,
       "tags": [
@@ -126,10 +116,20 @@
       "tags": [
         "tension"
       ]
+    },
+    {
+      "title": "Ship attacked while exiting Strait of Hormuz - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdHF0cjNEbWU5QkN3RzlVamhweldsY1l5ZER4ay1PNlI3WXRaSDE5WUhXNFpSWUFRTDgxanZCalhfaVg2RF82QzF5LS1KQzhJNUN2TXNMMXpjY1p3RVptVEdnQUdBSHN1S0FwX2lWTzV1M0VsZ2g4LWROQXNyQnpRYUgzdjQ3OUVzbEQ3aDJXSWxNUdIBlwFBVV95cUxQT1pPR0N6OTF6QW5ZaWlYUWszTm04ZEx0NFJrVXhFVG9ZZDlpbGl6WlEtZW5NTWY2bHNKd2hnVXQ1RXdiRzhMLWdpRzVuWGIwSXB5OEU4bVA0ak9Fck5mNkxWS09yWjlIMmZoWmZwTWNTYUJMT2lDU0E1N3ZELTdwUGxpOXAyaURWdmhsczY3WEE2azhNQ053?oc=5",
+      "source": "The Hill",
+      "published": "2026-08-18T12:46:00+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
     }
   ],
   "brent": {
-    "price": 90.99,
-    "change_pct": 0.13
+    "price": 91.02,
+    "change_pct": 0.17
   }
 }
