@@ -1,17 +1,17 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 80.5,
+  "tension_index": 80.2,
   "closure_signals": 3,
   "articles_scanned": 198,
-  "updated": "2026-08-19T08:27:43.395927+00:00",
+  "updated": "2026-08-19T09:04:26.053670+00:00",
   "headlines": [
     {
       "title": "Diesel spikes to $5.41 nationally as closure of Strait of Hormuz pressures prices - WLUK",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZS0zV3NTVHhMNTMzRHZ0eUpjZnBjN1pvYVBHSnpZSS1WREtFU3JPTXQxSFZHalR4c3ZZYk5qTEsyQUhBb3FGdnVEM2FQSjliNzhzQmIzYnRHUmgzVDNxdjcxMGpHS3M1blZwNVRQVzI5SEJXY1hDaEVWdnU0Y1BaeEhmUUtYSFZyOGRxSk40WTZjZjhRaTlFSGxjWXNMcnphOWlmVzhIUnU5Vi1JRGwyS2lpRm52OTQ?oc=5",
       "source": "WLUK",
       "published": "2026-08-17T10:44:02+00:00",
-      "score": 7.03,
+      "score": 7.01,
       "tags": [
         "closure"
       ]
@@ -31,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVmxfMThFcGpOV0FXTUdmZWxOdk02OWtDemExYWVkTmVZaWwzWWRxRFlLUEE1SHNEdjc2YkNiUTFSQWdSSlBUSVYyM0R4cXZyRTVRY3RRa05aSXJrTlZJMy02MmlBRmw4bEp2VEx4Ymh6ZE1uTGZ1N1BpOU5LMWg4d2g5N3pQODktNHQxWHVB?oc=5",
       "source": "Yahoo Finance",
       "published": "2026-08-14T16:54:27+00:00",
-      "score": 5.14,
+      "score": 5.1,
       "tags": [
         "closure"
       ]
@@ -47,9 +47,9 @@
       ]
     },
     {
-      "title": "Iran\u2019s Attacks on Ships in Hormuz Mount, Testing U.S. Military Restraint - wsj.com",
+      "title": "Iran\u2019s Attacks on Ships in Hormuz Mount, Testing U.S. Military Restraint - WSJ",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdkR4blJKdVRSdUJldFRXenNyRzRuSEEtUjlTRWxUbE54QVNsb0U1QXE3NUdzZWFLNmppUlIyOFUyRTNoVVRjcFRWVlMwWXJkSG43TlBOMkpKaktpemV6VWZRcDJFMmdrcnZGazEtMVg3M0NEbkkxOU5Na3pkS2wwbWt6V0RhNkRkODk0ajd3T0stUnhzUEdyTWhyNWIwX3ZyYThON2xIbzUyRFd2cWdjeDYwc080WlQ4Rnc?oc=5",
-      "source": "wsj.com",
+      "source": "WSJ",
       "published": "2026-08-18T21:01:00+00:00",
       "score": 3.0,
       "tags": [
@@ -107,9 +107,9 @@
       ]
     },
     {
-      "title": "Ship attacked while exiting Strait of Hormuz - The Hill",
+      "title": "Ship attacked while exiting Strait of Hormuz - thehill.com",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdHF0cjNEbWU5QkN3RzlVamhweldsY1l5ZER4ay1PNlI3WXRaSDE5WUhXNFpSWUFRTDgxanZCalhfaVg2RF82QzF5LS1KQzhJNUN2TXNMMXpjY1p3RVptVEdnQUdBSHN1S0FwX2lWTzV1M0VsZ2g4LWROQXNyQnpRYUgzdjQ3OUVzbEQ3aDJXSWxNUdIBlwFBVV95cUxQT1pPR0N6OTF6QW5ZaWlYUWszTm04ZEx0NFJrVXhFVG9ZZDlpbGl6WlEtZW5NTWY2bHNKd2hnVXQ1RXdiRzhMLWdpRzVuWGIwSXB5OEU4bVA0ak9Fck5mNkxWS09yWjlIMmZoWmZwTWNTYUJMT2lDU0E1N3ZELTdwUGxpOXAyaURWdmhsczY3WEE2azhNQ053?oc=5",
-      "source": "The Hill",
+      "source": "thehill.com",
       "published": "2026-08-18T12:46:00+00:00",
       "score": 3.0,
       "tags": [
@@ -128,7 +128,7 @@
     }
   ],
   "brent": {
-    "price": 91.54,
-    "change_pct": 0.57
+    "price": 91.53,
+    "change_pct": 0.56
   }
 }
