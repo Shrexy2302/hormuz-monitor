@@ -1,17 +1,17 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 86.3,
+  "tension_index": 85.9,
   "closure_signals": 3,
-  "articles_scanned": 202,
-  "updated": "2026-08-19T03:23:18.662493+00:00",
+  "articles_scanned": 198,
+  "updated": "2026-08-19T04:05:41.585423+00:00",
   "headlines": [
     {
       "title": "Diesel spikes to $5.41 nationally as closure of Strait of Hormuz pressures prices - WLUK",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZS0zV3NTVHhMNTMzRHZ0eUpjZnBjN1pvYVBHSnpZSS1WREtFU3JPTXQxSFZHalR4c3ZZYk5qTEsyQUhBb3FGdnVEM2FQSjliNzhzQmIzYnRHUmgzVDNxdjcxMGpHS3M1blZwNVRQVzI5SEJXY1hDaEVWdnU0Y1BaeEhmUUtYSFZyOGRxSk40WTZjZjhRaTlFSGxjWXNMcnphOWlmVzhIUnU5Vi1JRGwyS2lpRm52OTQ?oc=5",
       "source": "WLUK",
       "published": "2026-08-17T10:44:02+00:00",
-      "score": 7.26,
+      "score": 7.23,
       "tags": [
         "closure"
       ]
@@ -31,26 +31,16 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVmxfMThFcGpOV0FXTUdmZWxOdk02OWtDemExYWVkTmVZaWwzWWRxRFlLUEE1SHNEdjc2YkNiUTFSQWdSSlBUSVYyM0R4cXZyRTVRY3RRa05aSXJrTlZJMy02MmlBRmw4bEp2VEx4Ymh6ZE1uTGZ1N1BpOU5LMWg4d2g5N3pQODktNHQxWHVB?oc=5",
       "source": "Yahoo Finance",
       "published": "2026-08-14T16:54:27+00:00",
-      "score": 5.42,
+      "score": 5.38,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iran\u2019s Attacks on Ships in Hormuz Mount, Testing U.S. Military Restraint - wsj.com",
+      "title": "Iran\u2019s Attacks on Ships in Hormuz Mount, Testing U.S. Military Restraint - WSJ",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdkR4blJKdVRSdUJldFRXenNyRzRuSEEtUjlTRWxUbE54QVNsb0U1QXE3NUdzZWFLNmppUlIyOFUyRTNoVVRjcFRWVlMwWXJkSG43TlBOMkpKaktpemV6VWZRcDJFMmdrcnZGazEtMVg3M0NEbkkxOU5Na3pkS2wwbWt6V0RhNkRkODk0ajd3T0stUnhzUEdyTWhyNWIwX3ZyYThON2xIbzUyRFd2cWdjeDYwc080WlQ4Rnc?oc=5",
-      "source": "wsj.com",
+      "source": "WSJ",
       "published": "2026-08-18T21:01:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Vessel Struck In Strait Of Hormuz, Crew Injured - Marine News Magazine",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWVowNnNrSm5QWWtSNXk3eWRtTlg2cndPR2tBRTJYRjJzTGpSS2ZuUTJMTEFnNzJFajA2QzM4M2p0aVRyMkNsQUd1WlQxZXdUV2t5WnVVYzEzdndUZlJEajdzRE12aHpsZXN6ZnZINUJMeWg2WlNNRm1YUVdtOWs0QVhIMmVnUQ?oc=5",
-      "source": "Marine News Magazine",
-      "published": "2026-08-18T19:27:38+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -67,9 +57,9 @@
       ]
     },
     {
-      "title": "Two Ships Transiting Strait of Hormuz Are Attacked as Oil Prices Rise - nytimes.com",
+      "title": "Two Ships Transiting Strait of Hormuz Are Attacked as Oil Prices Rise - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTGRpNm9fblB2cTJiOHJmbzI5OTlPZmJrNUlWaUtyVDA3STdiTllISTBvNDIzLUFIMUlUMU8tcHJUazh5MmdrVlRwNUtZeHBqeVdsTFVuLVg0SDF0STVTSDlNUEVING82UWs3RmZvX1VsSzBMeTNkZER0ZmlfMWdiZUo0VQ?oc=5",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "published": "2026-08-18T16:56:22+00:00",
       "score": 3.0,
       "tags": [
@@ -125,10 +115,20 @@
       "tags": [
         "tension"
       ]
+    },
+    {
+      "title": "Ship attacked during Strait of Hormuz transit - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVVBWMG93dV80RERhUkdsT3ZSRkwyNFF3a1lHUEtiekREYkVtUHpUdWNYaW1aeUw2Y29OaUtMYnZUdDdKb1VXNlJSbjhvaHc4WUpYSGRkNTZ1bVpmZkhhTWs1OElZQ2d3clAyaDZGZ2VHT3NiemJVbmF1RHNEQ3A4MU0telBiVHEzMk1razF2R015Q19hMmNEa3Jwc3lTc01EWGVDNHg1VklYQzJrd0pVZzRUZzA?oc=5",
+      "source": "Spectrum News",
+      "published": "2026-08-18T12:19:00+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
     }
   ],
   "brent": {
-    "price": 91.83,
-    "change_pct": 0.89
+    "price": 91.54,
+    "change_pct": 0.57
   }
 }
