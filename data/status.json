@@ -1,17 +1,17 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 80.9,
+  "tension_index": 86.9,
   "closure_signals": 3,
-  "articles_scanned": 202,
-  "updated": "2026-08-18T23:44:01.786585+00:00",
+  "articles_scanned": 201,
+  "updated": "2026-08-19T00:50:39.562587+00:00",
   "headlines": [
     {
-      "title": "Diesel spikes to $5.41 nationally as closure of Strait of Hormuz pressures prices - fox11online.com",
+      "title": "Diesel spikes to $5.41 nationally as closure of Strait of Hormuz pressures prices - WLUK",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZS0zV3NTVHhMNTMzRHZ0eUpjZnBjN1pvYVBHSnpZSS1WREtFU3JPTXQxSFZHalR4c3ZZYk5qTEsyQUhBb3FGdnVEM2FQSjliNzhzQmIzYnRHUmgzVDNxdjcxMGpHS3M1blZwNVRQVzI5SEJXY1hDaEVWdnU0Y1BaeEhmUUtYSFZyOGRxSk40WTZjZjhRaTlFSGxjWXNMcnphOWlmVzhIUnU5Vi1JRGwyS2lpRm52OTQ?oc=5",
-      "source": "fox11online.com",
+      "source": "WLUK",
       "published": "2026-08-17T10:44:02+00:00",
-      "score": 7.42,
+      "score": 7.37,
       "tags": [
         "closure"
       ]
@@ -31,16 +31,36 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVmxfMThFcGpOV0FXTUdmZWxOdk02OWtDemExYWVkTmVZaWwzWWRxRFlLUEE1SHNEdjc2YkNiUTFSQWdSSlBUSVYyM0R4cXZyRTVRY3RRa05aSXJrTlZJMy02MmlBRmw4bEp2VEx4Ymh6ZE1uTGZ1N1BpOU5LMWg4d2g5N3pQODktNHQxWHVB?oc=5",
       "source": "Yahoo Finance",
       "published": "2026-08-14T16:54:27+00:00",
-      "score": 5.62,
+      "score": 5.56,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Strait of Hormuz closure, Ukrainian attacks on Russian oil refineries lead to higher gas prices in U.S., Texas - - Breckenridge Texan",
+      "title": "Iran\u2019s Attacks on Ships in Hormuz Mount, Testing U.S. Military Restraint - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdkR4blJKdVRSdUJldFRXenNyRzRuSEEtUjlTRWxUbE54QVNsb0U1QXE3NUdzZWFLNmppUlIyOFUyRTNoVVRjcFRWVlMwWXJkSG43TlBOMkpKaktpemV6VWZRcDJFMmdrcnZGazEtMVg3M0NEbkkxOU5Na3pkS2wwbWt6V0RhNkRkODk0ajd3T0stUnhzUEdyTWhyNWIwX3ZyYThON2xIbzUyRFd2cWdjeDYwc080WlQ4Rnc?oc=5",
+      "source": "WSJ",
+      "published": "2026-08-18T21:01:00+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Strait of Hormuz closure, Ukrainian attacks on Russian oil refineries lead to higher gas prices in U.S., Texas - breckenridgetexan.com",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaXpsdWU3eDVIa3NGSzE5WjlUNE9ibkdNUE1ROUg5SmJIb0tLcmtnV3NyMDNWNWthSWh0ZE91T1B1VWRnZ0FaNVluX0p2YlN4WW9fN05PTy1kbHhpVHBRMFg1ek1oUU5xdTdEOVFFSktzLVVvNEZrSVl2MDE0Z1FLU3E2OUJrdjUzbmozckEzNkdqRXdzcFdSUUZldGdHVGtnc21id1dDN1RLVHNtUzhRUXktcUsxaUF2ZzVBVkRDY3BXaS1jM1VKWjhJbF95VFNoWUFJMlVYMTA3aUV1N1BRaDczUQ?oc=5",
-      "source": "- Breckenridge Texan",
+      "source": "breckenridgetexan.com",
       "published": "2026-08-18T17:30:12+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Two Ships Transiting Strait of Hormuz Are Attacked as Oil Prices Rise - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTGRpNm9fblB2cTJiOHJmbzI5OTlPZmJrNUlWaUtyVDA3STdiTllISTBvNDIzLUFIMUlUMU8tcHJUazh5MmdrVlRwNUtZeHBqeVdsTFVuLVg0SDF0STVTSDlNUEVING82UWs3RmZvX1VsSzBMeTNkZER0ZmlfMWdiZUo0VQ?oc=5",
+      "source": "The New York Times",
+      "published": "2026-08-18T16:56:22+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -78,18 +98,18 @@
     },
     {
       "title": "Crew of ship sustains casualty after vessel is struck in Hormuz Strait - upi.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVXZDYV9pcVhVNHQxaHpNclRzYTZINWtMTmt2T0o1ejJfa2h2X0FQMnpKUFRtSTdKbEp4dlZxZVM5S1hPSXByUDcxcGNiR0lmdjB4a0toUk53bVRaYUpVSktDT3dEV2FLR1VKX09qTkt6Y05LOGo1ZFpGQlpTTjFqZGxCQXBhaFZpbVZ2WTIxek1qRW9pSk50cXRnYnhSNnFncUdVZkRtSUpwTzZBT3RTdDZqbVLSAboBQVVfeXFMTm9nZm9MRkh0cFNPaTlIN3d0Ui1McEQ4ck9VaXhLYlBuSC1XV2M1RHBJM0FYaTg2cFp3dkZUX2tVTkZXSWhsS0xJTEpCbFNmV0RwQ0JmYmdFaXJVUDkwRDhxbTRleVVlSEk0Q3VDMTcwYmprQTJHNG1jQjY2a245RkFSWFhtUkpYNTlyU3VJbUU4Rzd0S1dfQXFSZGQxQnllUDVxbWZUa2lYNnJheFpFNTN1NkFJX2Y4MjRn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb2dmb0xGSHRwU09pOUg3d3RSLUxwRDhyT1VpeEtiUG5ILVdXYzVEcEkzQVhpODZwWnd2RlRfa1VORldJaGxLTElMSkJsU2ZXRHBDQmZiZ0VpclVQOTBEOHFtNGV5VWVISTRDdUMxNzBiamtBMkc0bWNCNjZrbjlGQVJYWG1SSlg1OXJTdUltRThHN3RLV19BcVJkZDFCeWVQNXFtZlRraVg2cmF4WkU1M3U2QUlfZjgyNGfSAboBQVVfeXFMTm9nZm9MRkh0cFNPaTlIN3d0Ui1McEQ4ck9VaXhLYlBuSC1XV2M1RHBJM0FYaTg2cFp3dkZUX2tVTkZXSWhsS0xJTEpCbFNmV0RwQ0JmYmdFaXJVUDkwRDhxbTRleVVlSEk0Q3VDMTcwYmprQTJHNG1jQjY2a245RkFSWFhtUkpYNTlyU3VJbUU4Rzd0S1dfQXFSZGQxQnllUDVxbWZUa2lYNnJheFpFNTN1NkFJX2Y4MjRn?oc=5",
       "source": "upi.com",
-      "published": "2026-08-18T13:30:24+00:00",
+      "published": "2026-08-18T13:30:00+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Ship attacked while exiting Strait of Hormuz - The Hill",
+      "title": "Ship attacked while exiting Strait of Hormuz - thehill.com",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdHF0cjNEbWU5QkN3RzlVamhweldsY1l5ZER4ay1PNlI3WXRaSDE5WUhXNFpSWUFRTDgxanZCalhfaVg2RF82QzF5LS1KQzhJNUN2TXNMMXpjY1p3RVptVEdnQUdBSHN1S0FwX2lWTzV1M0VsZ2g4LWROQXNyQnpRYUgzdjQ3OUVzbEQ3aDJXSWxNUdIBlwFBVV95cUxQT1pPR0N6OTF6QW5ZaWlYUWszTm04ZEx0NFJrVXhFVG9ZZDlpbGl6WlEtZW5NTWY2bHNKd2hnVXQ1RXdiRzhMLWdpRzVuWGIwSXB5OEU4bVA0ak9Fck5mNkxWS09yWjlIMmZoWmZwTWNTYUJMT2lDU0E1N3ZELTdwUGxpOXAyaURWdmhsczY3WEE2azhNQ053?oc=5",
-      "source": "The Hill",
+      "source": "thehill.com",
       "published": "2026-08-18T12:46:00+00:00",
       "score": 3.0,
       "tags": [
@@ -97,30 +117,10 @@
       ]
     },
     {
-      "title": "Two Ships Passing Through the Strait of Hormuz Are Attacked - nytimes.com",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTGRpNm9fblB2cTJiOHJmbzI5OTlPZmJrNUlWaUtyVDA3STdiTllISTBvNDIzLUFIMUlUMU8tcHJUazh5MmdrVlRwNUtZeHBqeVdsTFVuLVg0SDF0STVTSDlNUEVING82UWs3RmZvX1VsSzBMeTNkZER0ZmlfMWdiZUo0VQ?oc=5",
-      "source": "nytimes.com",
-      "published": "2026-08-18T12:27:21+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Ship attacked during Strait of Hormuz transit - spectrumlocalnews.com",
+      "title": "Ship attacked during Strait of Hormuz transit - Spectrum News",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbjRDdmtNcEYxXzZNcVQ0TXdLemtXcWhJdlQweENJTzZyc19ULTBob3NKWUVTYVA5bzJCd3FZWW5obXZ1Q05CMGhLQmhvSlhTMXc3Y2VPV04yVERnYUtlVzIxMVNiUTdvTThPV1NYMUFJbEowd0NlcGlJM3QzZVJtaWhZVmlHVE92aTlnLV9Pd3YySmJ2Zlo3dmtvb0JjbkowYkJlX1V0YVEyZTNZ?oc=5",
-      "source": "spectrumlocalnews.com",
+      "source": "Spectrum News",
       "published": "2026-08-18T12:19:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran fails to strike deal with US as deadline passes and Trump calls for \u2018white flag of surrender' - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYm5waFA2ZFpHX0ljNXNwalNwV1NTUm1GVk43UUR1VjM1LXN2LTNLVm0tWm1SR0ktOXRTdlhBVEJDXzlYZmJScFlwVDVaRU5VbWFPZTE4bGMxeGRVMVltVEN2QndXeG9pWWtqS1lwVHFXTlhrX3pWOGgtbjBZYlkyaTY4eG1QempNcS1yMzZ5ZHNwZzhKY095V0I2ZXYtY3lsYVFRMTJ4LWw5aFXSAbABQVVfeXFMTklQdGthcDBtcjVrS2MzM2JqUi1CR3JZSkh0bVg2VVZ2cERRNjhfTmJSaEp1eEFKSkhZTC15LThYYk8wZnFXeEVKeC05UWNibFY5UmZmVjdFQzZvMlppMDlPQW1fZEE5VVZraHBXMFVSalVtbVZuS1JyeEFMSWd3UWxBSnFRQTFRQ19MOTg3TGRKTmJlR1cwSzNjZ2E2TlBfZTc2VW5MRGdodDNaTW9VN1U?oc=5",
-      "source": "Fox News",
-      "published": "2026-08-18T11:32:41+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -128,7 +128,7 @@
     }
   ],
   "brent": {
-    "price": 91.38,
-    "change_pct": 0.4
+    "price": 91.56,
+    "change_pct": 0.59
   }
 }
