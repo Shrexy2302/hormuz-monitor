@@ -1,17 +1,17 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 99.0,
-  "closure_signals": 4,
-  "articles_scanned": 222,
-  "updated": "2026-08-20T15:57:14.810052+00:00",
+  "tension_index": 99.9,
+  "closure_signals": 5,
+  "articles_scanned": 224,
+  "updated": "2026-08-20T16:33:12.537967+00:00",
   "headlines": [
     {
       "title": "Trump rules out Iran talks as Tehran keeps Strait of Hormuz closed - Nation Thailand",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96UXcxSmVNd3BkNzBVVDRTOEZxbE8yanFGZ1c4QkRYd3QwdHQ1a3FoZ2k4YU1fbWNVOUxiZzM4QzkwdTBkblREWU04MFRBdXJWeWJSS2RiVGdjSGJVZjRF?oc=5",
       "source": "Nation Thailand",
       "published": "2026-08-19T09:23:00+00:00",
-      "score": 9.63,
+      "score": 9.6,
       "tags": [
         "closure"
       ]
@@ -21,10 +21,20 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNenMzNEd0Z1FHd2hfQ0N4YUdVVm8xV2NqSG5hSm5lZG94b0hWQ0pJR0wtb3k0aGxFTndKc1NieHZFeHk1NGVKc0k1aklUeG1KMmdZZTFuSVBxQ09FcmtvSzlhb1lVX2txaXVKM2FMVlc1aG9XNTVQWjdWci04LXVUV2FpSG91SGlDZmFoWkxyTnFBQXJ1NTZwSmljYnRqdE5NeDNDSW5R?oc=5",
       "source": "International Business Times",
       "published": "2026-08-17T20:03:34+00:00",
-      "score": 8.32,
+      "score": 8.28,
       "tags": [
         "closure",
         "tension"
+      ]
+    },
+    {
+      "title": "Iran closes Strait of Hormuz as diesel prices surge to $5.46 a gallon across the United States - Scripps News",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMHlNQmFIblRjVl9XU0xrb29xVzhrTzBRZm5hSjZqMUhiVHh1ZFh6TFVYZ1J6MnB6VlR5UjZCTjhJTDRubUZURXU0bllvQVpVcEdWa3NpM1Ezdk5JaVhfSzVzLU53cXJfT0FvQTEzNFg1LU9xU3k4R2ZMTWl3cUF6eEpnZ0NHTkpzR2dxNkt6SUNjSHRSN2FGTzVGRXFjMGxRRklUNk01RzlnM2pWWC11VkZ5VndrektYelQyRGxTUk52Q0tZR0JKN1NtQ2hhMHRnazFVYw?oc=5",
+      "source": "Scripps News",
+      "published": "2026-08-18T12:16:07+00:00",
+      "score": 6.74,
+      "tags": [
+        "closure"
       ]
     },
     {
@@ -32,7 +42,7 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZS0zV3NTVHhMNTMzRHZ0eUpjZnBjN1pvYVBHSnpZSS1WREtFU3JPTXQxSFZHalR4c3ZZYk5qTEsyQUhBb3FGdnVEM2FQSjliNzhzQmIzYnRHUmgzVDNxdjcxMGpHS3M1blZwNVRQVzI5SEJXY1hDaEVWdnU0Y1BaeEhmUUtYSFZyOGRxSk40WTZjZjhRaTlFSGxjWXNMcnphOWlmVzhIUnU5Vi1JRGwyS2lpRm52OTQ?oc=5",
       "source": "WLUK",
       "published": "2026-08-17T10:44:02+00:00",
-      "score": 5.63,
+      "score": 5.61,
       "tags": [
         "closure"
       ]
@@ -42,7 +52,7 @@
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQktYX0J0R2hzNlc5bXNxTEp2QlNHeDdvQUIwYnk4dVJZdmpEeEJoTERxUXJ6ZVFlV1pZTFV0VlZEeHpqUHNpQ0lJZ2wySzUzMzNabWxKX0VDZGFVNjhRd29IeEZPVWctdGw2RWhWcXNjUVFJWHJiS2swYTVmYWpjNWxsY28yVEh1dU1uRFB1c0Y4cnFMRWpHMXpMWVpVenZTY2IxYzhObGRqWlVhM2RIS0lZVkxzNHhhNlZnUXJmZFpXN0pQVktjWHdkQ1JwWldWQVZZRVAtelBWaHc?oc=5",
       "source": "New York Post",
       "published": "2026-08-18T15:15:47+00:00",
-      "score": 5.18,
+      "score": 5.16,
       "tags": [
         "closure"
       ]
@@ -52,7 +62,7 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVmxfMThFcGpOV0FXTUdmZWxOdk02OWtDemExYWVkTmVZaWwzWWRxRFlLUEE1SHNEdjc2YkNiUTFSQWdSSlBUSVYyM0R4cXZyRTVRY3RRa05aSXJrTlZJMy02MmlBRmw4bEp2VEx4Ymh6ZE1uTGZ1N1BpOU5LMWg4d2g5N3pQODktNHQxWHVB?oc=5",
       "source": "Yahoo Finance",
       "published": "2026-08-14T16:54:27+00:00",
-      "score": 3.39,
+      "score": 3.35,
       "tags": [
         "closure"
       ]
@@ -82,7 +92,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZjBPS2tQOHh0MmllNHpSdGhvaXUzcUhaVGFGQnBkNXVsZzIyWHhvS3cwTEVBUEVJUHVJTXRFVkFLT05ZRHlrbFhfY1VFWi1TSjNpclN0T0NLWjh1QTM0OGxzSUVDcjY3OUY0UFB1OVhnYTVMZ210OUtFbGFMeVZXS0cxZEc1R3FjZDRhd1VIQkNERjIzN3JGZW9iWm12SFJNclBqM3kxRC1IVUHSAbABQVVfeXFMTW5LbDE4SkFPWGNfU3p3ZmlBNkJFZ3paUUlQR3lldkQzTDJ0RUlpM1lDYThUX2NQWmZ5Y2tZeFVJR0JFdG9BLTFBTnRpM2xoMUZIT3U4N00zR2NPZk1qM2p5cW9YV3VKUEpHaUZzTmNJdGVSN0dRWGRCMlU3bXp4dGpBUXpDam1ZUXA3X3IwTVp1MWJIN214V2k2eVNvZ0gySzZKN2JFYUhFWmtibjVEdDk?oc=5",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "published": "2026-08-19T09:30:00+00:00",
-      "score": 2.89,
+      "score": 2.88,
       "tags": [
         "tension"
       ]
@@ -92,7 +102,7 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPalprM01sZ3lXSzZEUGthcmJrU3VKNFBHcVA2TTdVZlVKMElqeE5xa3B4M0UtajRvSHMxSXpfd193S1MtdWpfTWlLZDA1cXhETXZ5TmR4LVdQU3BuT0VmUEV0NDlOUThESE82MWRJR1ZLTTJBcEdsajAxUHFOczNxM2RIeXZaVEN2RHcyVW5hSzRfcVRGUnJFQlRJTERpLTQ?oc=5",
       "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
       "published": "2026-08-19T08:28:18+00:00",
-      "score": 2.88,
+      "score": 2.87,
       "tags": [
         "tension"
       ]
@@ -102,7 +112,7 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xWXltSkJ1VVdJSDBqRktHbUd0bjg0cG5KcjhudGFwaUFCLUk2cUxndEpIalBiUndYRzM2azBKU1Q3VUdwTjZhNjM3SHVCS0Y1Ym9qSy1rSzlMUDMxb0lSLUxfekhvdHdPVlUtdnln0gFzQVVfeXFMTklBNnA3QkJxbGljbGpEei1oYnVWeWJ2Z1hjRjNaY0M0ZGlMR0xHa3ZlUEJrcEhBWG5qWHZ2Tk5KMWJPMkpQZFl1U0R2cnI1TngyQWVrY1NadEx6YUR3dTUxdGEtY2V3S3REdDA5bHNzRHZOVQ?oc=5",
       "source": "CNBC",
       "published": "2026-08-19T06:52:12+00:00",
-      "score": 2.85,
+      "score": 2.84,
       "tags": [
         "tension"
       ]
@@ -112,24 +122,14 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTExRTmtjckNNaHc5QXdUVlFScVNYeEU0Y3NfYU80SHNwU0trNG11bjJ2c2d6LV9iaVpDeU13VnAyV3lieEU1cGVQOHJYd1gyRGtBTDRfdDBPNG5iWS1kc3doc3JUSi1IbG1WbmxiV1hSQnNNa2J6MjFfTU9mTVNxc0FB0gGHAUFVX3lxTE9mMzFXb3hGcEI5UjhjRkNIZGpMZzBpTXZvV0ViM3h4cWJZLURFMWNUSmhkT3ZZTXZYVnVMdFdyNjZzVEZsMTVPc2hpdGNMLU5Ic3JkdURKMTR6cjRTRDBmaTZoUFhuTkkwb3EyNzNmX0RORXAzRWVuWVNNeldMTzNjRTBQbzRnVQ?oc=5",
       "source": "NewsNation",
       "published": "2026-08-19T01:14:15+00:00",
-      "score": 2.75,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Oil edges higher as Iranian attacks on ships in Strait of Hormuz without U.S. response rise - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZlVmTWVjbDRHU2p1aV9QaXJVZWpjN2NGSklibGJqNF9xLWZTM1E2dnFxX2hwbUtKOEJPd09jaHc0YzlkSy1RNTJydktsQVZRbFB4MjljWTI5NGJqTWc2V3hVS2YxakNxbWRuLUJPb0ZVRHNNRXVNT1lpQ083Tm9vU1p4NllCWXBmVnBfMnNsYXoyNGQteXQ1Vl83UHhpTGxaWW44ZF9ieVZFYm12YkpFZjVnaDNpMkxzOFlfYjRJclp0TXJKWkE?oc=5",
-      "source": "Seeking Alpha",
-      "published": "2026-08-18T23:50:28+00:00",
-      "score": 2.73,
+      "score": 2.74,
       "tags": [
         "tension"
       ]
     }
   ],
   "brent": {
-    "price": 93.83,
-    "change_pct": 2.41
+    "price": 93.71,
+    "change_pct": 2.28
   }
 }
