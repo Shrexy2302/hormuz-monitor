@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 111.5,
+  "tension_index": 111.0,
   "closure_signals": 5,
-  "articles_scanned": 216,
-  "updated": "2026-08-20T03:22:58.403795+00:00",
+  "articles_scanned": 214,
+  "updated": "2026-08-20T04:05:39.571473+00:00",
   "headlines": [
     {
       "title": "Trump rules out Iran talks as Tehran keeps Strait of Hormuz closed - Nation Thailand",
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNenMzNEd0Z1FHd2hfQ0N4YUdVVm8xV2NqSG5hSm5lZG94b0hWQ0pJR0wtb3k0aGxFTndKc1NieHZFeHk1NGVKc0k1aklUeG1KMmdZZTFuSVBxQ09FcmtvSzlhb1lVX2txaXVKM2FMVlc1aG9XNTVQWjdWci04LXVUV2FpSG91SGlDZmFoWkxyTnFBQXJ1NTZwSmljYnRqdE5NeDNDSW5R?oc=5",
       "source": "International Business Times",
       "published": "2026-08-17T20:03:34+00:00",
-      "score": 9.09,
+      "score": 9.04,
       "tags": [
         "closure",
         "tension"
@@ -32,17 +32,17 @@
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMHlNQmFIblRjVl9XU0xrb29xVzhrTzBRZm5hSjZqMUhiVHh1ZFh6TFVYZ1J6MnB6VlR5UjZCTjhJTDRubUZURXU0bllvQVpVcEdWa3NpM1Ezdk5JaVhfSzVzLU53cXJfT0FvQTEzNFg1LU9xU3k4R2ZMTWl3cUF6eEpnZ0NHTkpzR2dxNkt6SUNjSHRSN2FGTzVGRXFjMGxRRklUNk01RzlnM2pWWC11VkZ5VndrektYelQyRGxTUk52Q0tZR0JKN1NtQ2hhMHRnazFVYw?oc=5",
       "source": "Scripps News",
       "published": "2026-08-18T12:44:27+00:00",
-      "score": 7.35,
+      "score": 7.32,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Diesel spikes to $5.41 nationally as closure of Strait of Hormuz pressures prices - WLUK",
+      "title": "Diesel spikes to $5.41 nationally as closure of Strait of Hormuz pressures prices - fox11online.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZS0zV3NTVHhMNTMzRHZ0eUpjZnBjN1pvYVBHSnpZSS1WREtFU3JPTXQxSFZHalR4c3ZZYk5qTEsyQUhBb3FGdnVEM2FQSjliNzhzQmIzYnRHUmgzVDNxdjcxMGpHS3M1blZwNVRQVzI5SEJXY1hDaEVWdnU0Y1BaeEhmUUtYSFZyOGRxSk40WTZjZjhRaTlFSGxjWXNMcnphOWlmVzhIUnU5Vi1JRGwyS2lpRm52OTQ?oc=5",
-      "source": "WLUK",
+      "source": "fox11online.com",
       "published": "2026-08-17T10:44:02+00:00",
-      "score": 6.19,
+      "score": 6.16,
       "tags": [
         "closure"
       ]
@@ -52,7 +52,7 @@
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQktYX0J0R2hzNlc5bXNxTEp2QlNHeDdvQUIwYnk4dVJZdmpEeEJoTERxUXJ6ZVFlV1pZTFV0VlZEeHpqUHNpQ0lJZ2wySzUzMzNabWxKX0VDZGFVNjhRd29IeEZPVWctdGw2RWhWcXNjUVFJWHJiS2swYTVmYWpjNWxsY28yVEh1dU1uRFB1c0Y4cnFMRWpHMXpMWVpVenZTY2IxYzhObGRqWlVhM2RIS0lZVkxzNHhhNlZnUXJmZFpXN0pQVktjWHdkQ1JwWldWQVZZRVAtelBWaHc?oc=5",
       "source": "New York Post",
       "published": "2026-08-18T15:15:47+00:00",
-      "score": 5.6,
+      "score": 5.57,
       "tags": [
         "closure"
       ]
@@ -62,7 +62,7 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVmxfMThFcGpOV0FXTUdmZWxOdk02OWtDemExYWVkTmVZaWwzWWRxRFlLUEE1SHNEdjc2YkNiUTFSQWdSSlBUSVYyM0R4cXZyRTVRY3RRa05aSXJrTlZJMy02MmlBRmw4bEp2VEx4Ymh6ZE1uTGZ1N1BpOU5LMWg4d2g5N3pQODktNHQxWHVB?oc=5",
       "source": "Yahoo Finance",
       "published": "2026-08-14T16:54:27+00:00",
-      "score": 4.08,
+      "score": 4.05,
       "tags": [
         "closure"
       ]
@@ -88,9 +88,9 @@
       ]
     },
     {
-      "title": "Strait of Hormuz Shipping Slows After Vessel Attack - Crude Oil Prices Today | OilPrice.com",
+      "title": "Strait of Hormuz Shipping Slows After Vessel Attack - oilprice.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZjBPS2tQOHh0MmllNHpSdGhvaXUzcUhaVGFGQnBkNXVsZzIyWHhvS3cwTEVBUEVJUHVJTXRFVkFLT05ZRHlrbFhfY1VFWi1TSjNpclN0T0NLWjh1QTM0OGxzSUVDcjY3OUY0UFB1OVhnYTVMZ210OUtFbGFMeVZXS0cxZEc1R3FjZDRhd1VIQkNERjIzN3JGZW9iWm12SFJNclBqM3kxRC1IVUHSAbABQVVfeXFMTW5LbDE4SkFPWGNfU3p3ZmlBNkJFZ3paUUlQR3lldkQzTDJ0RUlpM1lDYThUX2NQWmZ5Y2tZeFVJR0JFdG9BLTFBTnRpM2xoMUZIT3U4N00zR2NPZk1qM2p5cW9YV3VKUEpHaUZzTmNJdGVSN0dRWGRCMlU3bXp4dGpBUXpDam1ZUXA3X3IwTVp1MWJIN214V2k2eVNvZ0gySzZKN2JFYUhFWmtibjVEdDk?oc=5",
-      "source": "Crude Oil Prices Today | OilPrice.com",
+      "source": "oilprice.com",
       "published": "2026-08-19T09:30:00+00:00",
       "score": 3.0,
       "tags": [
@@ -108,11 +108,11 @@
       ]
     },
     {
-      "title": "Iran strikes ship, doubles down on closing Strait of Hormuz - newsnationnow.com",
+      "title": "Iran strikes ship, doubles down on closing Strait of Hormuz - NewsNation",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTExRTmtjckNNaHc5QXdUVlFScVNYeEU0Y3NfYU80SHNwU0trNG11bjJ2c2d6LV9iaVpDeU13VnAyV3lieEU1cGVQOHJYd1gyRGtBTDRfdDBPNG5iWS1kc3doc3JUSi1IbG1WbmxiV1hSQnNNa2J6MjFfTU9mTVNxc0FB0gGHAUFVX3lxTE9mMzFXb3hGcEI5UjhjRkNIZGpMZzBpTXZvV0ViM3h4cWJZLURFMWNUSmhkT3ZZTXZYVnVMdFdyNjZzVEZsMTVPc2hpdGNMLU5Ic3JkdURKMTR6cjRTRDBmaTZoUFhuTkkwb3EyNzNmX0RORXAzRWVuWVNNeldMTzNjRTBQbzRnVQ?oc=5",
-      "source": "newsnationnow.com",
+      "source": "NewsNation",
       "published": "2026-08-19T01:14:15+00:00",
-      "score": 2.96,
+      "score": 2.95,
       "tags": [
         "tension"
       ]
@@ -122,14 +122,14 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZlVmTWVjbDRHU2p1aV9QaXJVZWpjN2NGSklibGJqNF9xLWZTM1E2dnFxX2hwbUtKOEJPd09jaHc0YzlkSy1RNTJydktsQVZRbFB4MjljWTI5NGJqTWc2V3hVS2YxakNxbWRuLUJPb0ZVRHNNRXVNT1lpQ083Tm9vU1p4NllCWXBmVnBfMnNsYXoyNGQteXQ1Vl83UHhpTGxaWW44ZF9ieVZFYm12YkpFZjVnaDNpMkxzOFlfYjRJclp0TXJKWkE?oc=5",
       "source": "Seeking Alpha",
       "published": "2026-08-18T23:50:28+00:00",
-      "score": 2.94,
+      "score": 2.93,
       "tags": [
         "tension"
       ]
     }
   ],
   "brent": {
-    "price": 91.78,
-    "change_pct": 0.17
+    "price": 91.9,
+    "change_pct": 0.31
   }
 }
