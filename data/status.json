@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 110.4,
-  "closure_signals": 4,
+  "tension_index": 113.1,
+  "closure_signals": 5,
   "articles_scanned": 218,
-  "updated": "2026-08-19T23:44:35.842583+00:00",
+  "updated": "2026-08-20T00:50:50.321689+00:00",
   "headlines": [
     {
       "title": "Trump rules out Iran talks as Tehran keeps Strait of Hormuz closed - Nation Thailand",
@@ -17,21 +17,32 @@
       ]
     },
     {
-      "title": "Iran closes Strait of Hormuz as diesel prices surge to $5.46 a gallon across the United States - scrippsnews.com",
+      "title": "U.S.-Iran Tensions Keep The Strait Of Hormuz Closed With No End in Sight. Stocks Declined. - ibtimes.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNenMzNEd0Z1FHd2hfQ0N4YUdVVm8xV2NqSG5hSm5lZG94b0hWQ0pJR0wtb3k0aGxFTndKc1NieHZFeHk1NGVKc0k1aklUeG1KMmdZZTFuSVBxQ09FcmtvSzlhb1lVX2txaXVKM2FMVlc1aG9XNTVQWjdWci04LXVUV2FpSG91SGlDZmFoWkxyTnFBQXJ1NTZwSmljYnRqdE5NeDNDSW5R?oc=5",
+      "source": "ibtimes.com",
+      "published": "2026-08-17T20:03:34+00:00",
+      "score": 9.24,
+      "tags": [
+        "closure",
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran closes Strait of Hormuz as diesel prices surge to $5.46 a gallon across the United States - Scripps News",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMHlNQmFIblRjVl9XU0xrb29xVzhrTzBRZm5hSjZqMUhiVHh1ZFh6TFVYZ1J6MnB6VlR5UjZCTjhJTDRubUZURXU0bllvQVpVcEdWa3NpM1Ezdk5JaVhfSzVzLU53cXJfT0FvQTEzNFg1LU9xU3k4R2ZMTWl3cUF6eEpnZ0NHTkpzR2dxNkt6SUNjSHRSN2FGTzVGRXFjMGxRRklUNk01RzlnM2pWWC11VkZ5VndrektYelQyRGxTUk52Q0tZR0JKN1NtQ2hhMHRnazFVYw?oc=5",
-      "source": "scrippsnews.com",
+      "source": "Scripps News",
       "published": "2026-08-18T12:44:27+00:00",
-      "score": 7.51,
+      "score": 7.46,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Diesel spikes to $5.41 nationally as closure of Strait of Hormuz pressures prices - fox11online.com",
+      "title": "Diesel spikes to $5.41 nationally as closure of Strait of Hormuz pressures prices - WLUK",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZS0zV3NTVHhMNTMzRHZ0eUpjZnBjN1pvYVBHSnpZSS1WREtFU3JPTXQxSFZHalR4c3ZZYk5qTEsyQUhBb3FGdnVEM2FQSjliNzhzQmIzYnRHUmgzVDNxdjcxMGpHS3M1blZwNVRQVzI5SEJXY1hDaEVWdnU0Y1BaeEhmUUtYSFZyOGRxSk40WTZjZjhRaTlFSGxjWXNMcnphOWlmVzhIUnU5Vi1JRGwyS2lpRm52OTQ?oc=5",
-      "source": "fox11online.com",
+      "source": "WLUK",
       "published": "2026-08-17T10:44:02+00:00",
-      "score": 6.36,
+      "score": 6.31,
       "tags": [
         "closure"
       ]
@@ -41,7 +52,7 @@
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQktYX0J0R2hzNlc5bXNxTEp2QlNHeDdvQUIwYnk4dVJZdmpEeEJoTERxUXJ6ZVFlV1pZTFV0VlZEeHpqUHNpQ0lJZ2wySzUzMzNabWxKX0VDZGFVNjhRd29IeEZPVWctdGw2RWhWcXNjUVFJWHJiS2swYTVmYWpjNWxsY28yVEh1dU1uRFB1c0Y4cnFMRWpHMXpMWVpVenZTY2IxYzhObGRqWlVhM2RIS0lZVkxzNHhhNlZnUXJmZFpXN0pQVktjWHdkQ1JwWldWQVZZRVAtelBWaHc?oc=5",
       "source": "New York Post",
       "published": "2026-08-18T15:15:47+00:00",
-      "score": 5.72,
+      "score": 5.68,
       "tags": [
         "closure"
       ]
@@ -51,7 +62,7 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVmxfMThFcGpOV0FXTUdmZWxOdk02OWtDemExYWVkTmVZaWwzWWRxRFlLUEE1SHNEdjc2YkNiUTFSQWdSSlBUSVYyM0R4cXZyRTVRY3RRa05aSXJrTlZJMy02MmlBRmw4bEp2VEx4Ymh6ZE1uTGZ1N1BpOU5LMWg4d2g5N3pQODktNHQxWHVB?oc=5",
       "source": "Yahoo Finance",
       "published": "2026-08-14T16:54:27+00:00",
-      "score": 4.29,
+      "score": 4.23,
       "tags": [
         "closure"
       ]
@@ -111,24 +122,14 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZlVmTWVjbDRHU2p1aV9QaXJVZWpjN2NGSklibGJqNF9xLWZTM1E2dnFxX2hwbUtKOEJPd09jaHc0YzlkSy1RNTJydktsQVZRbFB4MjljWTI5NGJqTWc2V3hVS2YxakNxbWRuLUJPb0ZVRHNNRXVNT1lpQ083Tm9vU1p4NllCWXBmVnBfMnNsYXoyNGQteXQ1Vl83UHhpTGxaWW44ZF9ieVZFYm12YkpFZjVnaDNpMkxzOFlfYjRJclp0TXJKWkE?oc=5",
       "source": "Seeking Alpha",
       "published": "2026-08-18T23:50:28+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran\u2019s Attacks on Ships in Hormuz Mount, Testing U.S. Military Restraint - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdkR4blJKdVRSdUJldFRXenNyRzRuSEEtUjlTRWxUbE54QVNsb0U1QXE3NUdzZWFLNmppUlIyOFUyRTNoVVRjcFRWVlMwWXJkSG43TlBOMkpKaktpemV6VWZRcDJFMmdrcnZGazEtMVg3M0NEbkkxOU5Na3pkS2wwbWt6V0RhNkRkODk0ajd3T0stUnhzUEdyTWhyNWIwX3ZyYThON2xIbzUyRFd2cWdjeDYwc080WlQ4Rnc?oc=5",
-      "source": "WSJ",
-      "published": "2026-08-18T21:01:00+00:00",
-      "score": 2.95,
+      "score": 2.98,
       "tags": [
         "tension"
       ]
     }
   ],
   "brent": {
-    "price": 91.73,
-    "change_pct": 0.12
+    "price": 91.87,
+    "change_pct": 0.27
   }
 }
