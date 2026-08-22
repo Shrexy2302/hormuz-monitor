@@ -1,17 +1,17 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 43.4,
+  "tension_index": 43.1,
   "closure_signals": 2,
-  "articles_scanned": 221,
-  "updated": "2026-08-22T11:14:23.510529+00:00",
+  "articles_scanned": 222,
+  "updated": "2026-08-22T11:42:55.757140+00:00",
   "headlines": [
     {
       "title": "Trump rules out Iran talks as Tehran keeps Strait of Hormuz closed - Nation Thailand",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96UXcxSmVNd3BkNzBVVDRTOEZxbE8yanFGZ1c4QkRYd3QwdHQ1a3FoZ2k4YU1fbWNVOUxiZzM4QzkwdTBkblREWU04MFRBdXJWeWJSS2RiVGdjSGJVZjRF?oc=5",
       "source": "Nation Thailand",
       "published": "2026-08-19T09:23:00+00:00",
-      "score": 7.23,
+      "score": 7.2,
       "tags": [
         "closure"
       ]
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNenMzNEd0Z1FHd2hfQ0N4YUdVVm8xV2NqSG5hSm5lZG94b0hWQ0pJR0wtb3k0aGxFTndKc1NieHZFeHk1NGVKc0k1aklUeG1KMmdZZTFuSVBxQ09FcmtvSzlhb1lVX2txaXVKM2FMVlc1aG9XNTVQWjdWci04LXVUV2FpSG91SGlDZmFoWkxyTnFBQXJ1NTZwSmljYnRqdE5NeDNDSW5R?oc=5",
       "source": "International Business Times",
       "published": "2026-08-17T20:03:34+00:00",
-      "score": 5.67,
+      "score": 5.64,
       "tags": [
         "closure",
         "tension"
@@ -32,7 +32,7 @@
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMHlNQmFIblRjVl9XU0xrb29xVzhrTzBRZm5hSjZqMUhiVHh1ZFh6TFVYZ1J6MnB6VlR5UjZCTjhJTDRubUZURXU0bllvQVpVcEdWa3NpM1Ezdk5JaVhfSzVzLU53cXJfT0FvQTEzNFg1LU9xU3k4R2ZMTWl3cUF6eEpnZ0NHTkpzR2dxNkt6SUNjSHRSN2FGTzVGRXFjMGxRRklUNk01RzlnM2pWWC11VkZ5VndrektYelQyRGxTUk52Q0tZR0JKN1NtQ2hhMHRnazFVYw?oc=5",
       "source": "Scripps News",
       "published": "2026-08-18T12:16:07+00:00",
-      "score": 4.85,
+      "score": 4.82,
       "tags": [
         "closure"
       ]
@@ -42,7 +42,7 @@
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQktYX0J0R2hzNlc5bXNxTEp2QlNHeDdvQUIwYnk4dVJZdmpEeEJoTERxUXJ6ZVFlV1pZTFV0VlZEeHpqUHNpQ0lJZ2wySzUzMzNabWxKX0VDZGFVNjhRd29IeEZPVWctdGw2RWhWcXNjUVFJWHJiS2swYTVmYWpjNWxsY28yVEh1dU1uRFB1c0Y4cnFMRWpHMXpMWVpVenZTY2IxYzhObGRqWlVhM2RIS0lZVkxzNHhhNlZnUXJmZFpXN0pQVktjWHdkQ1JwWldWQVZZRVAtelBWaHc?oc=5",
       "source": "New York Post",
       "published": "2026-08-18T15:15:47+00:00",
-      "score": 3.73,
+      "score": 3.72,
       "tags": [
         "closure"
       ]
@@ -52,7 +52,7 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeERXT2lUdlNjVkx4OHlMaU10bU9tOUpYbmJlMmtUcnNBbzZqSEl0RUVYZkFMaDZDQ2l3M2VGR294dXhzWWtiNkJGYWRxZUFaUFVfdGpfbGJrdHllMm9oWXRDMHdLWGtmc0ZDWlhaaHE4U2ozcTNESnZWQ3pMeGNRREZOX2o0N21ndlhLODAwRU5MR2JsNlJoaUpKNkNHUzdD0gGmAUFVX3lxTFBrcnFDVTNGRjg3X1NDUzRqMjZiV1NacXR4alFCdlVldU5EVktiQVhtSm0tMTlOQV8tQ0lSYjFiaFFfbnRlam1FOE9vcExLeVppbF84N0ZZdkJFVk00NWpKSERIeGJCMldNQVoxckVzRVJueG9ybE9zWjJ0N2RyaGs3YWU1QjhYcG5QZ3lJRVdESmk5U3AwZC1IOHc0ZnFGQ1o1WS1vTVE?oc=5",
       "source": "ABC News - Breaking News, Latest News and Videos",
       "published": "2026-08-20T00:57:09+00:00",
-      "score": 2.43,
+      "score": 2.42,
       "tags": [
         "tension"
       ]
@@ -62,7 +62,7 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTWtveDg4aDBFQS1uYzhtT1ZDdHB1RkJJWjZHck56VHF0elFmcVBtRVdrbEpUOUhJeF9YWEVUVU8yXy03X3pMaW03allEaUI2NGpPM1lPR2EzTENxaDI2d1hwSTBSVDYyWVhLTF9CZzVZMDN4MU5QV3A4SnJ6Vmd1VEVqWi14Z0pNSW5wX0Q5bVhJYndDQUdSY0lKM1k5LVZpMWtiT1laOG80WlhOUlE?oc=5",
       "source": "Marine News Magazine",
       "published": "2026-08-19T18:23:47+00:00",
-      "score": 2.32,
+      "score": 2.31,
       "tags": [
         "tension"
       ]
@@ -72,7 +72,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZjBPS2tQOHh0MmllNHpSdGhvaXUzcUhaVGFGQnBkNXVsZzIyWHhvS3cwTEVBUEVJUHVJTXRFVkFLT05ZRHlrbFhfY1VFWi1TSjNpclN0T0NLWjh1QTM0OGxzSUVDcjY3OUY0UFB1OVhnYTVMZ210OUtFbGFMeVZXS0cxZEc1R3FjZDRhd1VIQkNERjIzN3JGZW9iWm12SFJNclBqM3kxRC1IVUHSAbABQVVfeXFMTW5LbDE4SkFPWGNfU3p3ZmlBNkJFZ3paUUlQR3lldkQzTDJ0RUlpM1lDYThUX2NQWmZ5Y2tZeFVJR0JFdG9BLTFBTnRpM2xoMUZIT3U4N00zR2NPZk1qM2p5cW9YV3VKUEpHaUZzTmNJdGVSN0dRWGRCMlU3bXp4dGpBUXpDam1ZUXA3X3IwTVp1MWJIN214V2k2eVNvZ0gySzZKN2JFYUhFWmtibjVEdDk?oc=5",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "published": "2026-08-19T09:30:00+00:00",
-      "score": 2.17,
+      "score": 2.16,
       "tags": [
         "tension"
       ]
@@ -92,7 +92,7 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xWXltSkJ1VVdJSDBqRktHbUd0bjg0cG5KcjhudGFwaUFCLUk2cUxndEpIalBiUndYRzM2azBKU1Q3VUdwTjZhNjM3SHVCS0Y1Ym9qSy1rSzlMUDMxb0lSLUxfekhvdHdPVlUtdnln0gFzQVVfeXFMTklBNnA3QkJxbGljbGpEei1oYnVWeWJ2Z1hjRjNaY0M0ZGlMR0xHa3ZlUEJrcEhBWG5qWHZ2Tk5KMWJPMkpQZFl1U0R2cnI1TngyQWVrY1NadEx6YUR3dTUxdGEtY2V3S3REdDA5bHNzRHZOVQ?oc=5",
       "source": "CNBC",
       "published": "2026-08-19T06:52:12+00:00",
-      "score": 2.13,
+      "score": 2.12,
       "tags": [
         "tension"
       ]
@@ -112,7 +112,7 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZlVmTWVjbDRHU2p1aV9QaXJVZWpjN2NGSklibGJqNF9xLWZTM1E2dnFxX2hwbUtKOEJPd09jaHc0YzlkSy1RNTJydktsQVZRbFB4MjljWTI5NGJqTWc2V3hVS2YxakNxbWRuLUJPb0ZVRHNNRXVNT1lpQ083Tm9vU1p4NllCWXBmVnBfMnNsYXoyNGQteXQ1Vl83UHhpTGxaWW44ZF9ieVZFYm12YkpFZjVnaDNpMkxzOFlfYjRJclp0TXJKWkE?oc=5",
       "source": "Seeking Alpha",
       "published": "2026-08-18T23:50:28+00:00",
-      "score": 2.01,
+      "score": 2.0,
       "tags": [
         "tension"
       ]
