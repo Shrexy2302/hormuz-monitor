@@ -1,17 +1,17 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 28.6,
+  "tension_index": 27.7,
   "closure_signals": 2,
-  "articles_scanned": 227,
-  "updated": "2026-08-24T18:31:37.134092+00:00",
+  "articles_scanned": 225,
+  "updated": "2026-08-24T19:23:09.105391+00:00",
   "headlines": [
     {
       "title": "US targets mine-laying vessels in the Strait of Hormuz amid blockade disrupting global oil markets - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzRPSjlIQTd4QndKdm9CUHk1ZWxIaktfOERjc1A3VHpYMHV0Z1Zkd3dGNURqMFJFR3l4LXo3OU5scG96QXhMd0F5TGthdlVzbmg0QVVHbnktU096TkFWUnc5QU9UV0xvTk1jbDY3eGFJaWZXN19UOEJvbTF6eFdFcW13cWxwdWRDVzU1OEl6c2ctT3ltYVJZN0d1a3hvQdIBowFBVV95cUxPUktnalZhVFFxNkhBTHFVS0tOSVBzVE5rZWFhcHhQUVk5dnlocFVZQWdNeHlNQ2pwY0ctTHp6dkQ1WFh1djJsUkQxZ3RZR3NkbVVJOWNCNTFqdFl5eUpMc044SVlwQVMyeldla2VYZ2FxVG5ud1RvTVlKNVc1d0FMNjZSemNubmdydW5BRE1peGVjdmJNSFF5QVZ2OGtNMTVHY09B?oc=5",
       "source": "ABC News - Breaking News, Latest News and Videos",
       "published": "2026-08-22T20:41:02+00:00",
-      "score": 5.27,
+      "score": 5.24,
       "tags": [
         "closure"
       ]
@@ -21,19 +21,9 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NUXVITkFVd1RiLXY1Wkg3NXVRZWhTandQVzd3NkVSeV94V0syUjZiWnVBd1I5SndyUWxqZ2MwRUFSLVVvN3FHaE1ueGU0TGsxQlE?oc=5",
       "source": "Iran International",
       "published": "2026-08-22T20:19:13+00:00",
-      "score": 5.26,
+      "score": 5.23,
       "tags": [
         "calm",
-        "closure"
-      ]
-    },
-    {
-      "title": "Iran closes Strait of Hormuz as diesel prices surge to $5.46 a gallon across the United States - Scripps News",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMHlNQmFIblRjVl9XU0xrb29xVzhrTzBRZm5hSjZqMUhiVHh1ZFh6TFVYZ1J6MnB6VlR5UjZCTjhJTDRubUZURXU0bllvQVpVcEdWa3NpM1Ezdk5JaVhfSzVzLU53cXJfT0FvQTEzNFg1LU9xU3k4R2ZMTWl3cUF6eEpnZ0NHTkpzR2dxNkt6SUNjSHRSN2FGTzVGRXFjMGxRRklUNk01RzlnM2pWWC11VkZ5VndrektYelQyRGxTUk52Q0tZR0JKN1NtQ2hhMHRnazFVYw?oc=5",
-      "source": "Scripps News",
-      "published": "2026-08-18T12:44:27+00:00",
-      "score": 2.41,
-      "tags": [
         "closure"
       ]
     },
@@ -42,9 +32,19 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS1dEY0pvaGNEVEMyTGdTaGl5UmZBY1hJQms3SGF2cmVoRWwzSFZZUnZRR1BEVWg1SmJReV9WcEpTN0szcHgwU18ta1MzV0RoNV94NVB2RDhHQmI2NTBRSGlYQUpkUzJvUFQ4elAtb3lZcmpHeUpGa0xBU2JSWG80bnZ2S2dOczZZRzNYQmhrVlFGRkVrbVVTbllGdlFQUTlPUEV6Uy1qRQ?oc=5",
       "source": "Moomoo",
       "published": "2026-08-22T06:06:09+00:00",
-      "score": 2.39,
+      "score": 2.38,
       "tags": [
         "tension"
+      ]
+    },
+    {
+      "title": "Iran closes Strait of Hormuz as diesel prices surge to $5.46 a gallon across the United States - Scripps News",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMHlNQmFIblRjVl9XU0xrb29xVzhrTzBRZm5hSjZqMUhiVHh1ZFh6TFVYZ1J6MnB6VlR5UjZCTjhJTDRubUZURXU0bllvQVpVcEdWa3NpM1Ezdk5JaVhfSzVzLU53cXJfT0FvQTEzNFg1LU9xU3k4R2ZMTWl3cUF6eEpnZ0NHTkpzR2dxNkt6SUNjSHRSN2FGTzVGRXFjMGxRRklUNk01RzlnM2pWWC11VkZ5VndrektYelQyRGxTUk52Q0tZR0JKN1NtQ2hhMHRnazFVYw?oc=5",
+      "source": "Scripps News",
+      "published": "2026-08-18T12:44:27+00:00",
+      "score": 2.37,
+      "tags": [
+        "closure"
       ]
     },
     {
@@ -52,7 +52,7 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VY1NyRWF1ejhQaG5Gck9KTjYzazVSdFdiaHY4QTVrWXdVeFhGaUl4QUZwam9ZY0pOMm5zZHpOTF9nVXlXOGdQN3hDM2JkMU9lMmxfMkNvWmtRZVVp?oc=5",
       "source": "The Jerusalem Post",
       "published": "2026-08-22T00:56:49+00:00",
-      "score": 2.31,
+      "score": 2.29,
       "tags": [
         "tension"
       ]
@@ -62,7 +62,7 @@
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQktYX0J0R2hzNlc5bXNxTEp2QlNHeDdvQUIwYnk4dVJZdmpEeEJoTERxUXJ6ZVFlV1pZTFV0VlZEeHpqUHNpQ0lJZ2wySzUzMzNabWxKX0VDZGFVNjhRd29IeEZPVWctdGw2RWhWcXNjUVFJWHJiS2swYTVmYWpjNWxsY28yVEh1dU1uRFB1c0Y4cnFMRWpHMXpMWVpVenZTY2IxYzhObGRqWlVhM2RIS0lZVkxzNHhhNlZnUXJmZFpXN0pQVktjWHdkQ1JwWldWQVZZRVAtelBWaHc?oc=5",
       "source": "New York Post",
       "published": "2026-08-18T15:15:47+00:00",
-      "score": 1.89,
+      "score": 1.86,
       "tags": [
         "closure"
       ]
@@ -72,7 +72,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZjBPS2tQOHh0MmllNHpSdGhvaXUzcUhaVGFGQnBkNXVsZzIyWHhvS3cwTEVBUEVJUHVJTXRFVkFLT05ZRHlrbFhfY1VFWi1TSjNpclN0T0NLWjh1QTM0OGxzSUVDcjY3OUY0UFB1OVhnYTVMZ210OUtFbGFMeVZXS0cxZEc1R3FjZDRhd1VIQkNERjIzN3JGZW9iWm12SFJNclBqM3kxRC1IVUHSAbABQVVfeXFMTW5LbDE4SkFPWGNfU3p3ZmlBNkJFZ3paUUlQR3lldkQzTDJ0RUlpM1lDYThUX2NQWmZ5Y2tZeFVJR0JFdG9BLTFBTnRpM2xoMUZIT3U4N00zR2NPZk1qM2p5cW9YV3VKUEpHaUZzTmNJdGVSN0dRWGRCMlU3bXp4dGpBUXpDam1ZUXA3X3IwTVp1MWJIN214V2k2eVNvZ0gySzZKN2JFYUhFWmtibjVEdDk?oc=5",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "published": "2026-08-19T09:30:00+00:00",
-      "score": 1.25,
+      "score": 1.24,
       "tags": [
         "tension"
       ]
@@ -82,7 +82,7 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPalprM01sZ3lXSzZEUGthcmJrU3VKNFBHcVA2TTdVZlVKMElqeE5xa3B4M0UtajRvSHMxSXpfd193S1MtdWpfTWlLZDA1cXhETXZ5TmR4LVdQU3BuT0VmUEV0NDlOUThESE82MWRJR1ZLTTJBcEdsajAxUHFOczNxM2RIeXZaVEN2RHcyVW5hSzRfcVRGUnJFQlRJTERpLTQ?oc=5",
       "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
       "published": "2026-08-19T08:28:18+00:00",
-      "score": 1.23,
+      "score": 1.22,
       "tags": [
         "tension"
       ]
@@ -92,7 +92,7 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xWXltSkJ1VVdJSDBqRktHbUd0bjg0cG5KcjhudGFwaUFCLUk2cUxndEpIalBiUndYRzM2azBKU1Q3VUdwTjZhNjM3SHVCS0Y1Ym9qSy1rSzlMUDMxb0lSLUxfekhvdHdPVlUtdnln0gFzQVVfeXFMTklBNnA3QkJxbGljbGpEei1oYnVWeWJ2Z1hjRjNaY0M0ZGlMR0xHa3ZlUEJrcEhBWG5qWHZ2Tk5KMWJPMkpQZFl1U0R2cnI1TngyQWVrY1NadEx6YUR3dTUxdGEtY2V3S3REdDA5bHNzRHZOVQ?oc=5",
       "source": "CNBC",
       "published": "2026-08-19T06:52:12+00:00",
-      "score": 1.21,
+      "score": 1.19,
       "tags": [
         "tension"
       ]
@@ -102,7 +102,7 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZlVmTWVjbDRHU2p1aV9QaXJVZWpjN2NGSklibGJqNF9xLWZTM1E2dnFxX2hwbUtKOEJPd09jaHc0YzlkSy1RNTJydktsQVZRbFB4MjljWTI5NGJqTWc2V3hVS2YxakNxbWRuLUJPb0ZVRHNNRXVNT1lpQ083Tm9vU1p4NllCWXBmVnBfMnNsYXoyNGQteXQ1Vl83UHhpTGxaWW44ZF9ieVZFYm12YkpFZjVnaDNpMkxzOFlfYjRJclp0TXJKWkE?oc=5",
       "source": "Seeking Alpha",
       "published": "2026-08-18T23:50:28+00:00",
-      "score": 1.09,
+      "score": 1.07,
       "tags": [
         "tension"
       ]
@@ -118,10 +118,10 @@
       ]
     },
     {
-      "title": "Iran Blacklists 45 Tankers as Hormuz Standoff Escalates - Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbi12dVJ0ZXZpd29UZXAzU1c5c2RZUFBWUXhHV2ZaQUJvQ2ZWb0JJaHF5RUI1b2stWUZ1dkk1UEYtSThEUGRuaFNTNGloUXFacUM3NHE5ZXFGX3NwSlItbGN6RzV1Z09HeC1HelJLaWVUbGNXMms3UDFlLXE3LVV2MzktS3BmTERibUFMODB5Qk8yQ09oZWNvVVJubUJJOVA0YTVsaHdn0gGrAUFVX3lxTE45VnctU1RiZl9iQUduVDhfY09sTmtBREpBSTE3WHdVb0ZPLVFrbmlGbjliTFNYcGllYmExTHpGYlUxaG9xeEhaWGFsSjVWN2ZRaXNwcWFNSktWaGtYOVRJelNWUUxTWFVubGhzSEJzbWlEV0RMdXI2czVoZkEtYWY0RzF5ZzBTVTN6YVZVVzBpR0FPR2NyVHFHbkNzdHlqR3d0YS1uRjRsVFQzOA?oc=5",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "published": "2026-08-24T14:00:00+00:00",
+      "title": "Iran threatens 45 tankers with fines, confiscation in Hormuz escalation - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR1A3TzVlaW92SHFPcHNmUjdQZ1hIYi0xZWNCdGVpcmY4VmZBUHNneElLRnE5dDFwZXRRX1FfcHFkMDlFMm5kdGh2aldsWnllaGZSVWJ2SFhzUVRRU3FyNzJNeWJfb3lrQnhqQ2g0d1c0ZUo0dllmTkd4QzAwWTNZV05sNlc2M3c5c3d5Zi1hTF90N0ltX25sUUk4T0RURUE3akZuX2VrMEFGcXFIMV9FRFU5VWI2UE4wREV3?oc=5",
+      "source": "Reuters",
+      "published": "2026-08-24T13:31:53+00:00",
       "score": 1.0,
       "tags": [
         "tension"
@@ -129,7 +129,7 @@
     }
   ],
   "brent": {
-    "price": 91.97,
-    "change_pct": -2.56
+    "price": 92.33,
+    "change_pct": -2.18
   }
 }
