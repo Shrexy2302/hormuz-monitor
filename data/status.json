@@ -1,17 +1,17 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 41.4,
+  "tension_index": 27.1,
   "closure_signals": 2,
-  "articles_scanned": 250,
-  "updated": "2026-08-24T22:18:28.365908+00:00",
+  "articles_scanned": 225,
+  "updated": "2026-08-24T22:51:06.773798+00:00",
   "headlines": [
     {
       "title": "US targets mine-laying vessels in the Strait of Hormuz amid blockade disrupting global oil markets - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzRPSjlIQTd4QndKdm9CUHk1ZWxIaktfOERjc1A3VHpYMHV0Z1Zkd3dGNURqMFJFR3l4LXo3OU5scG96QXhMd0F5TGthdlVzbmg0QVVHbnktU096TkFWUnc5QU9UV0xvTk1jbDY3eGFJaWZXN19UOEJvbTF6eFdFcW13cWxwdWRDVzU1OEl6c2ctT3ltYVJZN0d1a3hvQdIBowFBVV95cUxPUktnalZhVFFxNkhBTHFVS0tOSVBzVE5rZWFhcHhQUVk5dnlocFVZQWdNeHlNQ2pwY0ctTHp6dkQ1WFh1djJsUkQxZ3RZR3NkbVVJOWNCNTFqdFl5eUpMc044SVlwQVMyeldla2VYZ2FxVG5ud1RvTVlKNVc1d0FMNjZSemNubmdydW5BRE1peGVjdmJNSFF5QVZ2OGtNMTVHY09B?oc=5",
       "source": "ABC News - Breaking News, Latest News and Videos",
       "published": "2026-08-22T20:41:02+00:00",
-      "score": 5.15,
+      "score": 5.13,
       "tags": [
         "closure"
       ]
@@ -21,50 +21,10 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NUXVITkFVd1RiLXY1Wkg3NXVRZWhTandQVzd3NkVSeV94V0syUjZiWnVBd1I5SndyUWxqZ2MwRUFSLVVvN3FHaE1ueGU0TGsxQlE?oc=5",
       "source": "Iran International",
       "published": "2026-08-22T20:19:13+00:00",
-      "score": 5.13,
+      "score": 5.12,
       "tags": [
         "calm",
         "closure"
-      ]
-    },
-    {
-      "title": "Yemen\u2019s Houthis report attack on Saudi oil tanker in Red Sea - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdkNmMGllenFfdWxNVTJYWTF5b3h1Y3lVSmlhSmEwUHZjUC1jRTVQRUZCZ1p2SDFaaWZSRTdVOHNta2JwaFpTSjZyUHgzVUJ4WDdHUjJYeGdXR3Vycm1sdnRjSmdUdmwxQjVuU0tLTURmWXU4S2RRWmlVc3FfNTBzajUwQ0tNX1Z1WWZ30gGQAUFVX3lxTE9nNGYwUkF5QTdrZmVZSnEzSUdXLUt0YURGSFRiTXNQcHZEUXlkemFzTFBxX3JXRzRwQmViNHJJZjdvR0dyNFdvd3piWlpmbVZhNzVaZ1BUTUVUckNmNVpYeW9SQVA4eGtIZHcxc0xiRXMyeGhaOFgwbC1TUG9kX1VaNWU1MTFwbUQ1dFZFVE0ydA?oc=5",
-      "source": "Al Jazeera",
-      "published": "2026-08-24T20:07:17+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran threatens 45 blacklisted ships with seizure and fines - Seatrade Maritime News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeWd4T093eWRLaTAxbDNERlM5bkdiM3VkYXp6Qy12WWYydkdNNW41SlJPWVltQ1lCZG1HV3ByOElfczVpNVpIQlY5VFFKZU51cEtJVTlTR3hzUFZmV3lwd0hGb1ByMkc0Y0xGQ3dXQm5iN0QyeDdqRndia0E0TGoxb3E4c0dOblMyVnpUUEZiVndyYjdYdmZVaUd5UkwyS180T3pv?oc=5",
-      "source": "Seatrade Maritime News",
-      "published": "2026-08-24T15:50:58+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Fuel Tanker Ablaze in Strait of Hormuz After Drone Strike, Iran Revolutionary Guards Say - EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdFpMRXhSZ09VUGxxTUtFWklJX0gzTlpBeUVFTUZTb01TU29mYi16WktycHc2eVVnRUp4Q0NhdjB4QmtjNVVkYzBELW96Rlp0X1NMNVVraC16V0k2dnh3d1M3WW03eVRvREVDVmsxNVpTNTdhcEhHamt6dnVDTC1Ga3ZJUTNqSFJVbjUzME02WVlTRS12NFhnaTB3VF9aaE1Ta0o2RGhwZ25uQ0djTEp3NzRFanMwVFlp?oc=5",
-      "source": "EnergyNow",
-      "published": "2026-08-24T09:31:51+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Oil Tanker Traffic Through Hormuz at Near Standstill as Attacks Strain Iran Truce - EnergyNow.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSUpxaG5ETU12d1BLVHVRRWp0dUczREEzR2JpU01zS1ItdTNpQjJtRDNvYUg0aDhvVk80dF9rMXlyVVlRcEZOZEJhWlhhZEdqZ2czTVhHYjl1RVYyZmZYcEpMLXhwMFp4b1FUd05SeG5TeUFyQ2h4Ny1vby1nVDFIMGJkRjNSZmt3X1lGOHlYU1ZqUlMwcHFwdlltUVRCX1BPMGVVRUJhYTF5cnBUVUJrODNn?oc=5",
-      "source": "EnergyNow.com",
-      "published": "2026-08-22T12:35:48+00:00",
-      "score": 2.44,
-      "tags": [
-        "tension"
       ]
     },
     {
@@ -72,7 +32,17 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS1dEY0pvaGNEVEMyTGdTaGl5UmZBY1hJQms3SGF2cmVoRWwzSFZZUnZRR1BEVWg1SmJReV9WcEpTN0szcHgwU18ta1MzV0RoNV94NVB2RDhHQmI2NTBRSGlYQUpkUzJvUFQ4elAtb3lZcmpHeUpGa0xBU2JSWG80bnZ2S2dOczZZRzNYQmhrVlFGRkVrbVVTbllGdlFQUTlPUEV6Uy1qRQ?oc=5",
       "source": "Moomoo",
       "published": "2026-08-22T06:06:09+00:00",
-      "score": 2.33,
+      "score": 2.32,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Oil tankers going dark to evade Iranian attacks raises major oil spill risk in Gulf - report - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VY1NyRWF1ejhQaG5Gck9KTjYzazVSdFdiaHY4QTVrWXdVeFhGaUl4QUZwam9ZY0pOMm5zZHpOTF9nVXlXOGdQN3hDM2JkMU9lMmxfMkNvWmtRZVVp?oc=5",
+      "source": "The Jerusalem Post",
+      "published": "2026-08-22T00:56:49+00:00",
+      "score": 2.23,
       "tags": [
         "tension"
       ]
@@ -82,7 +52,7 @@
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMHlNQmFIblRjVl9XU0xrb29xVzhrTzBRZm5hSjZqMUhiVHh1ZFh6TFVYZ1J6MnB6VlR5UjZCTjhJTDRubUZURXU0bllvQVpVcEdWa3NpM1Ezdk5JaVhfSzVzLU53cXJfT0FvQTEzNFg1LU9xU3k4R2ZMTWl3cUF6eEpnZ0NHTkpzR2dxNkt6SUNjSHRSN2FGTzVGRXFjMGxRRklUNk01RzlnM2pWWC11VkZ5VndrektYelQyRGxTUk52Q0tZR0JKN1NtQ2hhMHRnazFVYw?oc=5",
       "source": "Scripps News",
       "published": "2026-08-18T12:44:27+00:00",
-      "score": 2.24,
+      "score": 2.22,
       "tags": [
         "closure"
       ]
@@ -92,19 +62,9 @@
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQktYX0J0R2hzNlc5bXNxTEp2QlNHeDdvQUIwYnk4dVJZdmpEeEJoTERxUXJ6ZVFlV1pZTFV0VlZEeHpqUHNpQ0lJZ2wySzUzMzNabWxKX0VDZGFVNjhRd29IeEZPVWctdGw2RWhWcXNjUVFJWHJiS2swYTVmYWpjNWxsY28yVEh1dU1uRFB1c0Y4cnFMRWpHMXpMWVpVenZTY2IxYzhObGRqWlVhM2RIS0lZVkxzNHhhNlZnUXJmZFpXN0pQVktjWHdkQ1JwWldWQVZZRVAtelBWaHc?oc=5",
       "source": "New York Post",
       "published": "2026-08-18T15:15:47+00:00",
-      "score": 1.77,
+      "score": 1.75,
       "tags": [
         "closure"
-      ]
-    },
-    {
-      "title": "Data shows that shipping through the Strait of Hormuz is slowing down after recent tanker attacks - Marine News Magazine",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTWtveDg4aDBFQS1uYzhtT1ZDdHB1RkJJWjZHck56VHF0elFmcVBtRVdrbEpUOUhJeF9YWEVUVU8yXy03X3pMaW03allEaUI2NGpPM1lPR2EzTENxaDI2d1hwSTBSVDYyWVhLTF9CZzVZMDN4MU5QV3A4SnJ6Vmd1VEVqWi14Z0pNSW5wX0Q5bVhJYndDQUdSY0lKM1k5LVZpMWtiT1laOG80WlhOUlE?oc=5",
-      "source": "Marine News Magazine",
-      "published": "2026-08-19T18:23:47+00:00",
-      "score": 1.33,
-      "tags": [
-        "tension"
       ]
     },
     {
@@ -112,7 +72,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZjBPS2tQOHh0MmllNHpSdGhvaXUzcUhaVGFGQnBkNXVsZzIyWHhvS3cwTEVBUEVJUHVJTXRFVkFLT05ZRHlrbFhfY1VFWi1TSjNpclN0T0NLWjh1QTM0OGxzSUVDcjY3OUY0UFB1OVhnYTVMZ210OUtFbGFMeVZXS0cxZEc1R3FjZDRhd1VIQkNERjIzN3JGZW9iWm12SFJNclBqM3kxRC1IVUHSAbABQVVfeXFMTW5LbDE4SkFPWGNfU3p3ZmlBNkJFZ3paUUlQR3lldkQzTDJ0RUlpM1lDYThUX2NQWmZ5Y2tZeFVJR0JFdG9BLTFBTnRpM2xoMUZIT3U4N00zR2NPZk1qM2p5cW9YV3VKUEpHaUZzTmNJdGVSN0dRWGRCMlU3bXp4dGpBUXpDam1ZUXA3X3IwTVp1MWJIN214V2k2eVNvZ0gySzZKN2JFYUhFWmtibjVEdDk?oc=5",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "published": "2026-08-19T09:30:00+00:00",
-      "score": 1.19,
+      "score": 1.18,
       "tags": [
         "tension"
       ]
@@ -122,14 +82,54 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPalprM01sZ3lXSzZEUGthcmJrU3VKNFBHcVA2TTdVZlVKMElqeE5xa3B4M0UtajRvSHMxSXpfd193S1MtdWpfTWlLZDA1cXhETXZ5TmR4LVdQU3BuT0VmUEV0NDlOUThESE82MWRJR1ZLTTJBcEdsajAxUHFOczNxM2RIeXZaVEN2RHcyVW5hSzRfcVRGUnJFQlRJTERpLTQ?oc=5",
       "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
       "published": "2026-08-19T08:28:18+00:00",
-      "score": 1.17,
+      "score": 1.16,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "UAE severs trade with Iran after reported missile strike - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xWXltSkJ1VVdJSDBqRktHbUd0bjg0cG5KcjhudGFwaUFCLUk2cUxndEpIalBiUndYRzM2azBKU1Q3VUdwTjZhNjM3SHVCS0Y1Ym9qSy1rSzlMUDMxb0lSLUxfekhvdHdPVlUtdnln0gFzQVVfeXFMTklBNnA3QkJxbGljbGpEei1oYnVWeWJ2Z1hjRjNaY0M0ZGlMR0xHa3ZlUEJrcEhBWG5qWHZ2Tk5KMWJPMkpQZFl1U0R2cnI1TngyQWVrY1NadEx6YUR3dTUxdGEtY2V3S3REdDA5bHNzRHZOVQ?oc=5",
+      "source": "CNBC",
+      "published": "2026-08-19T06:52:12+00:00",
+      "score": 1.13,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Oil edges higher as Iranian attacks on ships in Strait of Hormuz without U.S. response rise - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZlVmTWVjbDRHU2p1aV9QaXJVZWpjN2NGSklibGJqNF9xLWZTM1E2dnFxX2hwbUtKOEJPd09jaHc0YzlkSy1RNTJydktsQVZRbFB4MjljWTI5NGJqTWc2V3hVS2YxakNxbWRuLUJPb0ZVRHNNRXVNT1lpQ083Tm9vU1p4NllCWXBmVnBfMnNsYXoyNGQteXQ1Vl83UHhpTGxaWW44ZF9ieVZFYm12YkpFZjVnaDNpMkxzOFlfYjRJclp0TXJKWkE?oc=5",
+      "source": "Seeking Alpha",
+      "published": "2026-08-18T23:50:28+00:00",
+      "score": 1.02,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Global food supply has become \u2018collateral damage\u2019 in conflicts: Secretary-General - UN News",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBsQWxwTmFXNzVUSmVaT0tJYUEwcF9RbzQ4aEhaSXRkSWJ3MVlad1Zsd3d3aktIVGh2dXNIdVY5M2RaZXp6QTNzTUZwdFFEOWs1Vy13dmsyUQ?oc=5",
+      "source": "UN News",
+      "published": "2026-08-24T15:41:53+00:00",
+      "score": 1.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran threatens 45 tankers with fines, confiscation in Hormuz escalation - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR1A3TzVlaW92SHFPcHNmUjdQZ1hIYi0xZWNCdGVpcmY4VmZBUHNneElLRnE5dDFwZXRRX1FfcHFkMDlFMm5kdGh2aldsWnllaGZSVWJ2SFhzUVRRU3FyNzJNeWJfb3lrQnhqQ2g0d1c0ZUo0dllmTkd4QzAwWTNZV05sNlc2M3c5c3d5Zi1hTF90N0ltX25sUUk4T0RURUE3akZuX2VrMEFGcXFIMV9FRFU5VWI2UE4wREV3?oc=5",
+      "source": "Reuters",
+      "published": "2026-08-24T13:31:53+00:00",
+      "score": 1.0,
       "tags": [
         "tension"
       ]
     }
   ],
   "brent": {
-    "price": 92.05,
-    "change_pct": -0.13
+    "price": 92.07,
+    "change_pct": -0.11
   }
 }
