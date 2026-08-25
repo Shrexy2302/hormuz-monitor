@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 128.0,
+  "tension_index": 109.1,
   "closure_signals": 8,
-  "articles_scanned": 225,
-  "updated": "2026-08-25T21:50:49.311085+00:00",
+  "articles_scanned": 239,
+  "updated": "2026-08-25T22:18:51.546515+00:00",
   "headlines": [
     {
       "title": "Trump says US Navy has cleared all mines from Strait of Hormuz - T\u00fcrkiye Today",
@@ -91,7 +91,7 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NUXVITkFVd1RiLXY1Wkg3NXVRZWhTandQVzd3NkVSeV94V0syUjZiWnVBd1I5SndyUWxqZ2MwRUFSLVVvN3FHaE1ueGU0TGsxQlE?oc=5",
       "source": "Iran International",
       "published": "2026-08-22T20:19:13+00:00",
-      "score": 4.35,
+      "score": 4.33,
       "tags": [
         "calm",
         "closure"
@@ -108,20 +108,20 @@
       ]
     },
     {
-      "title": "Ship disabled by attack in Strait of Hormuz and other news from around the Middle East - KTSM 9 News",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT2hEN2JUM3NuSldPZ0pobGk3N25yN0txbWtYajQ1a09NSlVGNlQyN1NxTzNVZDMtejBiMWNvdG1tRm44QlBZZVh3YUdXdGs3Y09JVkFmdUhMbmJIUml5TGhfZFZqejljdXNndjl3aEw4eERRRXdvQ2RZRHBpR05sNUN4OFEtazV5SG5lOFlHOFczOXhudFNsZm1QOHFCVTh5YXBLYlQ2NjBlRzZxSFhzOXhGSVNRNnFtU3lzSDZNem1YUjZKNlFDR2NDWnZ5QdIB0wFBVV95cUxNcEZMOVJYSWJDZXBhOThYd2VDc2lQUjJickxVLWUyYkNqZlEzMnY0blBrVkdLX1ZWZWJudVhuU1o2QUFhbG5USzFDSG9Gdkw1MkdjSlRJa3g0bW93ZmxWbVp2aTFvMllMUE5DWHdxQUVOaTZDLTRxNW5Wcm5fS19Cb2x3X2xUWmVOSG9zSXo2a2h0eW13UU9xcmRpb3FhUzl0NE1xNVpWMTFPcmp3SHNjYWJoU01OU3FpQ1VOOUNtSUp5SWdEREd1ejFRbkRWQVpud0tZ?oc=5",
-      "source": "KTSM 9 News",
-      "published": "2026-08-25T19:06:47+00:00",
-      "score": 3.0,
+      "title": "Damaged Qatari LNG Tanker Awaits Salvage After Strike as Hormuz Risks Escalate - EnergyNow.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ3NvSDZxd0xkb2w2ZDFUNjlLaU9lR3BtWENNeGItOXZ1dGljOU00bGtDLWt2alZDVUR6TzFtR3ZmN05udTZDMndnQ2NPaW9uM2dQYnVZc1JoRlo5ZzV5RV9kREtOaWVfakpBRExhc0hQYVJIMUc4Z0YzVXpfU1BRTS0ycnJqUDFqb3BQTGQ0UmxHdnpwYjh3TUVYVFNKbUpOcDlvM2Z4b3BoU1lzMmc?oc=5",
+      "source": "EnergyNow.com",
+      "published": "2026-08-23T22:58:45+00:00",
+      "score": 3.48,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Ship disabled by attack in Strait of Hormuz; crew reported safe - Las Vegas Review-Journal",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSzlEQi1sMjBzQ0Z5amkwVXNNWURJb3BfVFdWelJpMUVfQmEta1ZueVNjZkJITVF2OXVFd1p2UkY4eFBVTGxBbTZ2T1ZSV0ZmUlBaNF9pNlFzbXJaWDVTUFoycDM3cVI5OW5mc2pIV2sxNVJHXzE4R2g4dmpheGdOM0puSGRNeXVqN3czeFVBRVVDRk96S2o2T1hXdDVGbEozOWdCSG9fTHplNHFKenVnUVJ3NVlWLTVLVTdrMFA3a04zaWROYnJOcWN3?oc=5",
-      "source": "Las Vegas Review-Journal",
-      "published": "2026-08-25T16:41:15+00:00",
+      "title": "An attack disables a ship in the Strait of Hormuz and other news from around the Middle East - WHDH",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTXNzTTYxUnJXWWVkRU16N281bWNuVkxJbWhHXzRMalp5clhIYjJ2OTdQY2VRcGxUZTNsekhlXzY5eEJrOE1KcFluNlRDSXlmZUt6cF9vM0xfUy1wTGtUQjJrMjJwcy1fd2YxZU50R2NiVWptZ3NDSEdfVEdQRnlFM3Exck0xNGtzRjl2Vmg4NHJVa3FRR1ZpWVNDcDJiMHFsalNETEQzLUxNM0Jmd2tpVnNOeGI1QQ?oc=5",
+      "source": "WHDH",
+      "published": "2026-08-25T17:15:29+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -129,7 +129,7 @@
     }
   ],
   "brent": {
-    "price": 85.86,
-    "change_pct": -1.62
+    "price": 86.15,
+    "change_pct": -1.28
   }
 }
