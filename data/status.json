@@ -1,16 +1,26 @@
 {
-  "status": "DISRUPTED",
-  "label": "Major disruption reported",
-  "tension_index": 101.7,
-  "closure_signals": 2,
-  "articles_scanned": 222,
-  "updated": "2026-08-25T15:35:46.045228+00:00",
+  "status": "CLOSED",
+  "label": "Closure reported",
+  "tension_index": 107.4,
+  "closure_signals": 4,
+  "articles_scanned": 223,
+  "updated": "2026-08-25T16:27:50.551692+00:00",
   "headlines": [
     {
       "title": "Trump says all mines cleared from Strait of Hormuz - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tNi16cVlvMnN2YWdPQWdTOVdLYTFYVmFsRE5haGxwWS01blp5eFR0R0JUbi1ZMHJkRk44bnY1RnVrM3QzczI0RjNydDNqUTc1Nnl0QXp5ZjIwdw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12aGV3aDB6R2NEeXJCUDRXNFM3OHJwVzVwUzdLUmxtSDN0dDZMRE1oQXhyb291VXJUekk5VWI4bUdlTllibjJjTmIyYXVZUHhJWTBYU0RELWV6Mm42?oc=5",
       "source": "BBC",
       "published": "2026-08-25T15:31:21+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Strait of Hormuz cleared of all Iranian mines: Trump - Washington Examiner",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcDlvMkVQTjk0YWY4TEZmQnFHNGlzQ0QzWXl1RXhrcEMzeDhYQVUyZ0NOc3lwWi13MXJHOXVCazR5bWlxNjVQaEdCcGxwZWxhZXRlOGZHX05SUm8zcVpkSWhtTjBBbi1ERkt2VWZkRkxsU0NMV1lzYld0RGNhYXJCak9HWnZXZXkzX1d4NURHaE1sWmZTRnBMX3pldGJJZUpiSkxzODh6MDBrck5peEQ5UVNZUXpvemk0elF0ZG5Nc3hpVEpGNGRpamZXbUs2ZzV1UEE?oc=5",
+      "source": "Washington Examiner",
+      "published": "2026-08-25T15:13:00+00:00",
       "score": 6.0,
       "tags": [
         "closure"
@@ -27,11 +37,21 @@
       ]
     },
     {
+      "title": "Strait of Hormuz cleared of all mines, Donald Trump says citing US Navy - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GM0JJTVQtb19jZzk5WldDZTVxOVpsb2d1bEhXdUU4ampQYlRtNDhFb2RJQ3ZxSFkxMFBEYXlQYUhwQ1hodWtkazFpQXJ5dkYzTVJlVFdDd09PMmkzTkEwaU4zWVltV3hTaUE?oc=5",
+      "source": "The Jerusalem Post",
+      "published": "2026-08-25T14:40:41+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
       "title": "US targets mine-laying vessels in the Strait of Hormuz amid blockade disrupting global oil markets - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzRPSjlIQTd4QndKdm9CUHk1ZWxIaktfOERjc1A3VHpYMHV0Z1Zkd3dGNURqMFJFR3l4LXo3OU5scG96QXhMd0F5TGthdlVzbmg0QVVHbnktU096TkFWUnc5QU9UV0xvTk1jbDY3eGFJaWZXN19UOEJvbTF6eFdFcW13cWxwdWRDVzU1OEl6c2ctT3ltYVJZN0d1a3hvQdIBowFBVV95cUxPUktnalZhVFFxNkhBTHFVS0tOSVBzVE5rZWFhcHhQUVk5dnlocFVZQWdNeHlNQ2pwY0ctTHp6dkQ1WFh1djJsUkQxZ3RZR3NkbVVJOWNCNTFqdFl5eUpMc044SVlwQVMyeldla2VYZ2FxVG5ud1RvTVlKNVc1d0FMNjZSemNubmdydW5BRE1peGVjdmJNSFF5QVZ2OGtNMTVHY09B?oc=5",
       "source": "ABC News - Breaking News, Latest News and Videos",
       "published": "2026-08-22T20:41:02+00:00",
-      "score": 4.57,
+      "score": 4.54,
       "tags": [
         "closure"
       ]
@@ -41,7 +61,7 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NUXVITkFVd1RiLXY1Wkg3NXVRZWhTandQVzd3NkVSeV94V0syUjZiWnVBd1I5SndyUWxqZ2MwRUFSLVVvN3FHaE1ueGU0TGsxQlE?oc=5",
       "source": "Iran International",
       "published": "2026-08-22T20:19:13+00:00",
-      "score": 4.56,
+      "score": 4.53,
       "tags": [
         "calm",
         "closure"
@@ -53,6 +73,16 @@
       "source": "IranWire",
       "published": "2026-08-25T12:41:22+00:00",
       "score": 4.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Ship disabled by attack in Strait of Hormuz; crew reported safe - Las Vegas Review-Journal",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSzlEQi1sMjBzQ0Z5amkwVXNNWURJb3BfVFdWelJpMUVfQmEta1ZueVNjZkJITVF2OXVFd1p2UkY4eFBVTGxBbTZ2T1ZSV0ZmUlBaNF9pNlFzbXJaWDVTUFoycDM3cVI5OW5mc2pIV2sxNVJHXzE4R2g4dmpheGdOM0puSGRNeXVqN3czeFVBRVVDRk96S2o2T1hXdDVGbEozOWdCSG9fTHplNHFKenVnUVJ3NVlWLTVLVTdrMFA3a04zaWROYnJOcWN3?oc=5",
+      "source": "Las Vegas Review-Journal",
+      "published": "2026-08-25T13:57:34+00:00",
+      "score": 3.0,
       "tags": [
         "tension"
       ]
@@ -96,40 +126,10 @@
       "tags": [
         "tension"
       ]
-    },
-    {
-      "title": "Greek-owned tanker struck in Hormuz strait; crew reported safe - eKathimerini.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMUZaNm9CTkNEWXdIR2UzTnlkcFZIUVJ4eldFa213Y2hkaFgtNnZGX2UxQlUteUR5VmpHTGFtMGFGMml3eEFra1Y5N0pWd0V2SDRuYlZobmFtMl94WThUWVc2eHVlX2diblk0cy14MkV2QXQ5SU0wWDNfU3pQbzZQOHZJSDFQbHFYbHlDZ0JnQUVud1lPdmdIQmNRd001YkJQd1JkajVzMmRaWDJuQ1RqQ0pFTW5ycEluUDZZVF85bGI?oc=5",
-      "source": "eKathimerini.com",
-      "published": "2026-08-25T11:22:41+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Ship disabled by attack in Strait of Hormuz and other news from around the Middle East - Canon City Daily Record",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaXZ4NnVZMjZIZjhmaWdGa2ZLUkNBbFdtbU9ac3c4Q3Ytd0ZyUTNXS2dzSVotOV9lVm5BbWxtdWdmcGNVeTJYVHpuQ1NJRjlod2lROWtqNFVvekpZeGFOVS1lMkxVSkdYSmoyZThnZXJIMXhNZHFHaHhKc0xZMDBINHhwZmp4SFhuVnJ1b2xCUkpMc1A2UHR4U3R2MERvR2RBazAyUjV3?oc=5",
-      "source": "Canon City Daily Record",
-      "published": "2026-08-25T11:21:07+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Ship disabled by attack in Strait of Hormuz and other news from around the Middle East - Hartford Courant",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM2FSU29HTTdvS1ZFY1Zvc0I2VXAyZFNiSjlYZXJhMnY3VG1GYi1VZzFZbWdwanlLLVV5UVFXbldCQjRlb1J3OVMyZkcyanlELXR2UW5tM3c1VnUzaDE0VDdZcFNDRmd1STFVbTNONHdQUDNjVGVzSWF6T0xWQW9ZeHlwM2oxMzVJcU9tQ2hQek5qZzF3?oc=5",
-      "source": "Hartford Courant",
-      "published": "2026-08-25T11:20:34+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
     }
   ],
   "brent": {
-    "price": 87.74,
-    "change_pct": -3.09
+    "price": 87.22,
+    "change_pct": -3.67
   }
 }
