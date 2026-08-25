@@ -1,17 +1,37 @@
 {
-  "status": "ELEVATED",
-  "label": "Elevated tension",
-  "tension_index": 79.9,
-  "closure_signals": 0,
+  "status": "DISRUPTED",
+  "label": "Major disruption reported",
+  "tension_index": 101.7,
+  "closure_signals": 2,
   "articles_scanned": 222,
-  "updated": "2026-08-25T14:37:12.754496+00:00",
+  "updated": "2026-08-25T15:35:46.045228+00:00",
   "headlines": [
+    {
+      "title": "Trump says all mines cleared from Strait of Hormuz - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tNi16cVlvMnN2YWdPQWdTOVdLYTFYVmFsRE5haGxwWS01blp5eFR0R0JUbi1ZMHJkRk44bnY1RnVrM3QzczI0RjNydDNqUTc1Nnl0QXp5ZjIwdw?oc=5",
+      "source": "BBC",
+      "published": "2026-08-25T15:31:21+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Trump says all mines cleared from Strait of Hormuz waters - Daily Sabah",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX25SSElRYlAwYUktSVFvUHJYVnR2bnlyWXM2RGIzNG1EOVh3UjJxczE1RjBzQUdyZFBWOHBRTkhmd0VPZTJUcnJLX1pPS0ZBWDFpZ3JWT3NnbjFaRnNrLXptSl9hRm5hVTdIUUlzazltU0prT282Um9UaFNkNnhsVHN1SzNESDBodjNyQUtJcDFCWHFXMHB2N2V1eWtUMlJJ?oc=5",
+      "source": "Daily Sabah",
+      "published": "2026-08-25T14:52:00+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
     {
       "title": "US targets mine-laying vessels in the Strait of Hormuz amid blockade disrupting global oil markets - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzRPSjlIQTd4QndKdm9CUHk1ZWxIaktfOERjc1A3VHpYMHV0Z1Zkd3dGNURqMFJFR3l4LXo3OU5scG96QXhMd0F5TGthdlVzbmg0QVVHbnktU096TkFWUnc5QU9UV0xvTk1jbDY3eGFJaWZXN19UOEJvbTF6eFdFcW13cWxwdWRDVzU1OEl6c2ctT3ltYVJZN0d1a3hvQdIBowFBVV95cUxPUktnalZhVFFxNkhBTHFVS0tOSVBzVE5rZWFhcHhQUVk5dnlocFVZQWdNeHlNQ2pwY0ctTHp6dkQ1WFh1djJsUkQxZ3RZR3NkbVVJOWNCNTFqdFl5eUpMc044SVlwQVMyeldla2VYZ2FxVG5ud1RvTVlKNVc1d0FMNjZSemNubmdydW5BRE1peGVjdmJNSFF5QVZ2OGtNMTVHY09B?oc=5",
       "source": "ABC News - Breaking News, Latest News and Videos",
       "published": "2026-08-22T20:41:02+00:00",
-      "score": 4.6,
+      "score": 4.57,
       "tags": [
         "closure"
       ]
@@ -21,7 +41,7 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NUXVITkFVd1RiLXY1Wkg3NXVRZWhTandQVzd3NkVSeV94V0syUjZiWnVBd1I5SndyUWxqZ2MwRUFSLVVvN3FHaE1ueGU0TGsxQlE?oc=5",
       "source": "Iran International",
       "published": "2026-08-22T20:19:13+00:00",
-      "score": 4.59,
+      "score": 4.56,
       "tags": [
         "calm",
         "closure"
@@ -33,6 +53,16 @@
       "source": "IranWire",
       "published": "2026-08-25T12:41:22+00:00",
       "score": 4.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "US offers Iran sanctions relief in exchange for opening Hormuz, halting attacks - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDQ1RYY3NsSy1qdHJzUXBNbGFPOUo5Xy1KVUFuTnFBaGlqT243Rlk3NEZkM0tTOHk4eUxxVDN0MFJBSnFxYlVXQUVuTlRvT3dmWWE1cWtndm5lZzdHR3E2dW9HN2k0NW5ZTXc?oc=5",
+      "source": "The Jerusalem Post",
+      "published": "2026-08-25T13:37:35+00:00",
+      "score": 3.0,
       "tags": [
         "tension"
       ]
@@ -68,6 +98,16 @@
       ]
     },
     {
+      "title": "Greek-owned tanker struck in Hormuz strait; crew reported safe - eKathimerini.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMUZaNm9CTkNEWXdIR2UzTnlkcFZIUVJ4eldFa213Y2hkaFgtNnZGX2UxQlUteUR5VmpHTGFtMGFGMml3eEFra1Y5N0pWd0V2SDRuYlZobmFtMl94WThUWVc2eHVlX2diblk0cy14MkV2QXQ5SU0wWDNfU3pQbzZQOHZJSDFQbHFYbHlDZ0JnQUVud1lPdmdIQmNRd001YkJQd1JkajVzMmRaWDJuQ1RqQ0pFTW5ycEluUDZZVF85bGI?oc=5",
+      "source": "eKathimerini.com",
+      "published": "2026-08-25T11:22:41+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
       "title": "Ship disabled by attack in Strait of Hormuz and other news from around the Middle East - Canon City Daily Record",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaXZ4NnVZMjZIZjhmaWdGa2ZLUkNBbFdtbU9ac3c4Q3Ytd0ZyUTNXS2dzSVotOV9lVm5BbWxtdWdmcGNVeTJYVHpuQ1NJRjlod2lROWtqNFVvekpZeGFOVS1lMkxVSkdYSmoyZThnZXJIMXhNZHFHaHhKc0xZMDBINHhwZmp4SFhuVnJ1b2xCUkpMc1A2UHR4U3R2MERvR2RBazAyUjV3?oc=5",
       "source": "Canon City Daily Record",
@@ -86,50 +126,10 @@
       "tags": [
         "tension"
       ]
-    },
-    {
-      "title": "Ship disabled by attack in Strait of Hormuz and other news from around the Middle East - The Fort Morgan Times",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ1RVWXUwdnl6cDNaX0lPS2tyZzI2MFhSZ1ZaenNCTHJFV0lvaUd6MWNJRnpUZ09XeFozUFM0M0VFMmo1dkV3SDNoMzdiWVJRd01VeElBV1dqZFlER0pJMzVpczdSWFNkZUkwNENVaXJRczhRS0dvODluYXp5Mi1XbFpMLS1sRkl0R3dNdzBTdDh4NGhxbmNUVmlFdnVmVkU?oc=5",
-      "source": "The Fort Morgan Times",
-      "published": "2026-08-25T11:20:20+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Ship disabled by attack in Strait of Hormuz and other news from around the Middle East - Orlando Sentinel",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVHZ2TTdZcjVtd2tNUEhvWnNjS2l5NDhYU2NmeFZuYVJUR2JiTm5RQ2JiQjgwRGpOc04zSkNBOE1UdENld0tjOWZ0WW16R0txSENtVGFsN2RQX1FmUUhUU3JSZGZMWmJXMDY4Wnk3bjZ4SS1BTUN5bFlPanBIT2tzSEYta3VjWUxrZTBxSTFNWjNQMVZ6bXFvUkxYX1BHVjA?oc=5",
-      "source": "Orlando Sentinel",
-      "published": "2026-08-25T11:20:09+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Ship disabled by attack in Strait of Hormuz and other news from around the Middle East - The Press Democrat",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYXU3WjBwNXIzbEhzU3NTRHNFYzdVemN6TnRORmg0eVF6QnZtYlNQUWYzQTBVUVNOQ0EyYnhrTFJkMXZXd2Fhd3BIWTY1Unh5ZjNsYlJQQ0JKcldlXzVDRXlpSXVaUlNFM2d1bU51bzhvcnJOX3Byenl4M0xaNWpGOFFSdkNNU2IzMWFPOGpxM2hNNXVUcHNJLXQtSnc?oc=5",
-      "source": "The Press Democrat",
-      "published": "2026-08-25T11:20:06+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Ship disabled by attack in Strait of Hormuz and other news from around the Middle East - San Bernardino Sun",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaF8xaEkxZy1UT05IdGRQSlB3ZE5YSWRuWW1TMzBhX2RTSHlDYmF0eTFCeXBuYU1aYkotTkRFZ2JHQmNqbG9oUkxMSWZaRWIzREFJVVN2NFI4eHJWWlBWeE1HbVQxeDFxYWdBWVJta05Nb05CemNqSWNCLW1mVFlEaHZJWkZGTWRpMGhmbExmUDR1dw?oc=5",
-      "source": "San Bernardino Sun",
-      "published": "2026-08-25T11:19:51+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
     }
   ],
   "brent": {
-    "price": 88.04,
-    "change_pct": -2.76
+    "price": 87.74,
+    "change_pct": -3.09
   }
 }
