@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 144.6,
+  "tension_index": 133.9,
   "closure_signals": 8,
-  "articles_scanned": 223,
-  "updated": "2026-08-25T20:53:21.670243+00:00",
+  "articles_scanned": 224,
+  "updated": "2026-08-25T21:20:19.898422+00:00",
   "headlines": [
     {
       "title": "Trump says US Navy has cleared all mines from Strait of Hormuz - T\u00fcrkiye Today",
@@ -87,21 +87,11 @@
       ]
     },
     {
-      "title": "Tehran threatens to close the Strait of Hormuz to oil and warns neighboring countries of 'economic warfare' - \u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0642\u062f\u0633",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbWtqc3kzTVAxNnZ1M2pfaDJYdTQ3NEc1Q0g3ZkdfT2Y3YWNNMmQ5bGdHb2RWYnNhVllIci1ZeG1qMjVOTkJjcWFQUjRVWTRmbzRCZGh5WlJJSG9nQ2RSa1hJLXF3SHFIc1djTkV4Q2xXODNYUkFzSy1ZUEItSy0xSG11VndhWW9EYk5FSGdtMU1RUE5OcGE2Y2R0TENJMmhkN2FMLUpLQ21oX2hHeEhJ?oc=5",
-      "source": "\u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0642\u062f\u0633",
-      "published": "2026-08-23T05:08:18+00:00",
-      "score": 4.67,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
       "title": "Iran security chief says Strait of Hormuz closed, will not reopen - Iran International",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NUXVITkFVd1RiLXY1Wkg3NXVRZWhTandQVzd3NkVSeV94V0syUjZiWnVBd1I5SndyUWxqZ2MwRUFSLVVvN3FHaE1ueGU0TGsxQlE?oc=5",
       "source": "Iran International",
       "published": "2026-08-22T20:19:13+00:00",
-      "score": 4.38,
+      "score": 4.37,
       "tags": [
         "calm",
         "closure"
@@ -126,10 +116,20 @@
       "tags": [
         "tension"
       ]
+    },
+    {
+      "title": "Ship disabled by attack in Strait of Hormuz; crew reported safe - Las Vegas Review-Journal",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSzlEQi1sMjBzQ0Z5amkwVXNNWURJb3BfVFdWelJpMUVfQmEta1ZueVNjZkJITVF2OXVFd1p2UkY4eFBVTGxBbTZ2T1ZSV0ZmUlBaNF9pNlFzbXJaWDVTUFoycDM3cVI5OW5mc2pIV2sxNVJHXzE4R2g4dmpheGdOM0puSGRNeXVqN3czeFVBRVVDRk96S2o2T1hXdDVGbEozOWdCSG9fTHplNHFKenVnUVJ3NVlWLTVLVTdrMFA3a04zaWROYnJOcWN3?oc=5",
+      "source": "Las Vegas Review-Journal",
+      "published": "2026-08-25T16:41:15+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
     }
   ],
   "brent": {
-    "price": 85.58,
-    "change_pct": -5.48
+    "price": 85.86,
+    "change_pct": -5.17
   }
 }
