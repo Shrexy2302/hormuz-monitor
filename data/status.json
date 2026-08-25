@@ -1,17 +1,17 @@
 {
   "status": "ELEVATED",
   "label": "Elevated tension",
-  "tension_index": 75.2,
+  "tension_index": 79.9,
   "closure_signals": 0,
-  "articles_scanned": 225,
-  "updated": "2026-08-25T13:42:24.684727+00:00",
+  "articles_scanned": 222,
+  "updated": "2026-08-25T14:37:12.754496+00:00",
   "headlines": [
     {
       "title": "US targets mine-laying vessels in the Strait of Hormuz amid blockade disrupting global oil markets - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzRPSjlIQTd4QndKdm9CUHk1ZWxIaktfOERjc1A3VHpYMHV0Z1Zkd3dGNURqMFJFR3l4LXo3OU5scG96QXhMd0F5TGthdlVzbmg0QVVHbnktU096TkFWUnc5QU9UV0xvTk1jbDY3eGFJaWZXN19UOEJvbTF6eFdFcW13cWxwdWRDVzU1OEl6c2ctT3ltYVJZN0d1a3hvQdIBowFBVV95cUxPUktnalZhVFFxNkhBTHFVS0tOSVBzVE5rZWFhcHhQUVk5dnlocFVZQWdNeHlNQ2pwY0ctTHp6dkQ1WFh1djJsUkQxZ3RZR3NkbVVJOWNCNTFqdFl5eUpMc044SVlwQVMyeldla2VYZ2FxVG5ud1RvTVlKNVc1d0FMNjZSemNubmdydW5BRE1peGVjdmJNSFF5QVZ2OGtNMTVHY09B?oc=5",
       "source": "ABC News - Breaking News, Latest News and Videos",
       "published": "2026-08-22T20:41:02+00:00",
-      "score": 4.63,
+      "score": 4.6,
       "tags": [
         "closure"
       ]
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NUXVITkFVd1RiLXY1Wkg3NXVRZWhTandQVzd3NkVSeV94V0syUjZiWnVBd1I5SndyUWxqZ2MwRUFSLVVvN3FHaE1ueGU0TGsxQlE?oc=5",
       "source": "Iran International",
       "published": "2026-08-22T20:19:13+00:00",
-      "score": 4.62,
+      "score": 4.59,
       "tags": [
         "calm",
         "closure"
@@ -62,16 +62,6 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc2ZVY3Y2dXJDajgxb0R0RDNXVTQwWXFQLTltbDJVWUpaanVwZ0lHSzRzQ0VIekg0NkFNZG5UVHVCX0ZOWV9lWThtbnhyV3pSWUxmeEZqR1BTU1YtR2paS0hhajBWQ0tVdHU5Njg5aklzUG1xNDNsaU5VYkJNZlZIbzVXVmZyMmkyYVRBclRKZ1k0dnFrSXJMNzJfVkpfOWhTRTZIOTgwWDRPalBlM1R4LXZFWlU?oc=5",
       "source": "AP News",
       "published": "2026-08-25T12:23:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Ship disabled by attack in Strait of Hormuz and other news from around the Middle East - Akron News-Reporter",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV3JCc0JUQ2JBV3hVcFhkWVozUUl4MGptWXNZUk1xZW45bjNEZjAzdGJQWmVTOWZkQXFQXzM5M0wzUW1lOEdWVjNUa0ZqNHlXTENQRm84ak5CN2VGMGZaNDlSV1IxNENlanB1Q3lKNWNOYlFNTGNNbWY3bUs3dmR0SnFPdVFSWXpxSzM3ckVURTVZX0kzbEtubjBUR3lKVFU3Ymc?oc=5",
-      "source": "Akron News-Reporter",
-      "published": "2026-08-25T11:21:14+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -126,10 +116,20 @@
       "tags": [
         "tension"
       ]
+    },
+    {
+      "title": "Ship disabled by attack in Strait of Hormuz and other news from around the Middle East - San Bernardino Sun",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaF8xaEkxZy1UT05IdGRQSlB3ZE5YSWRuWW1TMzBhX2RTSHlDYmF0eTFCeXBuYU1aYkotTkRFZ2JHQmNqbG9oUkxMSWZaRWIzREFJVVN2NFI4eHJWWlBWeE1HbVQxeDFxYWdBWVJta05Nb05CemNqSWNCLW1mVFlEaHZJWkZGTWRpMGhmbExmUDR1dw?oc=5",
+      "source": "San Bernardino Sun",
+      "published": "2026-08-25T11:19:51+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
     }
   ],
   "brent": {
-    "price": 88.09,
-    "change_pct": -2.71
+    "price": 88.04,
+    "change_pct": -2.76
   }
 }
