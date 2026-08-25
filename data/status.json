@@ -1,11 +1,21 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 128.4,
-  "closure_signals": 6,
-  "articles_scanned": 227,
-  "updated": "2026-08-25T17:05:00.775828+00:00",
+  "tension_index": 135.2,
+  "closure_signals": 9,
+  "articles_scanned": 225,
+  "updated": "2026-08-25T17:53:28.129047+00:00",
   "headlines": [
+    {
+      "title": "Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE96cjBibnU4b2hJd3VMYWZhS2EtUXhudDdYaWdhbUJWaEx5OF9sd3BwdFA5dUhUTlBFeTl6QVYzcVMwdEJEWS1jOEg0Y2VtQVZSLW95bFYwMkxWSGxwZ1FrYzNMNk54T3N3TFJOcTBST0JDUdIBd0FVX3lxTFBzOWdXTm5HXzl0SkxEc2VPLXpDeVRJZnk4YTJjRndaZmZrVG03Yy1kMlplOV9EVzFkWWlkalFOMlZoZVlSWVF4c2hVOVZvdDBHUVRFbVhwdFpsZ1BnbmMyQ1VJYndaMDNpNTh5cDNlbG9NbUgxSWlR?oc=5",
+      "source": "CNBC",
+      "published": "2026-08-25T17:16:25+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
     {
       "title": "Trump: Mines fully removed from Strait of Hormuz - Axios",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9va1JQWnZ4dEZoTTQwSzhwa0E5MnpRMTBkaXp0THRHYW80cHdwMGw1RXYzYllUTzh2MmlrY1dDMjVfTEdGeUVMZmhfdHdfU3Ayc0VITm9zeGxjQUllLVhPdEZrY05LWkwxdmhPQ1FNZDE0NGt5Z1E?oc=5",
@@ -27,10 +37,30 @@
       ]
     },
     {
+      "title": "Trump Says U.S. Navy Has Cleared All Mines From Strait of Hormuz - gCaptain",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQenJkN2lSRW14UFhGbDdkTzduc05XVTZXSDd4a01OTmN5ZHNqZHBpVWhFdmZ5Nno4aVplc3UtVVFNalZYQW94dnhRbXlDYW9HWTUzZnFSUW41LUFPc2NUcG5aVWRzWlcwTzF5SW95MUg2Skd4MWdmMkFUZ3pKT0RScFFEbFZyTm52TlVxbGFn?oc=5",
+      "source": "gCaptain",
+      "published": "2026-08-25T15:17:46+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
       "title": "Strait of Hormuz cleared of all Iranian mines: Trump - Washington Examiner",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcDlvMkVQTjk0YWY4TEZmQnFHNGlzQ0QzWXl1RXhrcEMzeDhYQVUyZ0NOc3lwWi13MXJHOXVCazR5bWlxNjVQaEdCcGxwZWxhZXRlOGZHX05SUm8zcVpkSWhtTjBBbi1ERkt2VWZkRkxsU0NMV1lzYld0RGNhYXJCak9HWnZXZXkzX1d4NURHaE1sWmZTRnBMX3pldGJJZUpiSkxzODh6MDBrck5peEQ5UVNZUXpvemk0elF0ZG5Nc3hpVEpGNGRpamZXbUs2ZzV1UEE?oc=5",
       "source": "Washington Examiner",
       "published": "2026-08-25T15:13:00+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Trump says all mines cleared from Strait of Hormuz - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWFhkNHdtanZsWVo0cWUtUHU5UDlORnplbzdXYzNNN0JPanpzVEo1Qkl1VkhCd3ZQdkxrYl9MVTlTNXUtenVPYkFzaUZDb2hFZF9YN1JZVTJkdzJ1NlF6YmpmNlZieG9RZjNYYWU4M3ZOd1N0Mk8tOUlYOXI5b3hfWg?oc=5",
+      "source": "AOL.com",
+      "published": "2026-08-25T15:05:10+00:00",
       "score": 6.0,
       "tags": [
         "closure"
@@ -67,21 +97,11 @@
       ]
     },
     {
-      "title": "Tehran threatens to close the Strait of Hormuz to oil and warns neighboring countries of 'economic warfare' - \u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0642\u062f\u0633",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbWtqc3kzTVAxNnZ1M2pfaDJYdTQ3NEc1Q0g3ZkdfT2Y3YWNNMmQ5bGdHb2RWYnNhVllIci1ZeG1qMjVOTkJjcWFQUjRVWTRmbzRCZGh5WlJJSG9nQ2RSa1hJLXF3SHFIc1djTkV4Q2xXODNYUkFzSy1ZUEItSy0xSG11VndhWW9EYk5FSGdtMU1RUE5OcGE2Y2R0TENJMmhkN2FMLUpLQ21oX2hHeEhJ?oc=5",
-      "source": "\u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0642\u062f\u0633",
-      "published": "2026-08-23T05:08:18+00:00",
-      "score": 4.8,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
       "title": "US targets mine-laying vessels in the Strait of Hormuz amid blockade disrupting global oil markets - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzRPSjlIQTd4QndKdm9CUHk1ZWxIaktfOERjc1A3VHpYMHV0Z1Zkd3dGNURqMFJFR3l4LXo3OU5scG96QXhMd0F5TGthdlVzbmg0QVVHbnktU096TkFWUnc5QU9UV0xvTk1jbDY3eGFJaWZXN19UOEJvbTF6eFdFcW13cWxwdWRDVzU1OEl6c2ctT3ltYVJZN0d1a3hvQdIBowFBVV95cUxPUktnalZhVFFxNkhBTHFVS0tOSVBzVE5rZWFhcHhQUVk5dnlocFVZQWdNeHlNQ2pwY0ctTHp6dkQ1WFh1djJsUkQxZ3RZR3NkbVVJOWNCNTFqdFl5eUpMc044SVlwQVMyeldla2VYZ2FxVG5ud1RvTVlKNVc1d0FMNjZSemNubmdydW5BRE1peGVjdmJNSFF5QVZ2OGtNMTVHY09B?oc=5",
       "source": "ABC News - Breaking News, Latest News and Videos",
       "published": "2026-08-22T20:41:02+00:00",
-      "score": 4.52,
+      "score": 4.49,
       "tags": [
         "closure"
       ]
@@ -91,7 +111,7 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NUXVITkFVd1RiLXY1Wkg3NXVRZWhTandQVzd3NkVSeV94V0syUjZiWnVBd1I5SndyUWxqZ2MwRUFSLVVvN3FHaE1ueGU0TGsxQlE?oc=5",
       "source": "Iran International",
       "published": "2026-08-22T20:19:13+00:00",
-      "score": 4.51,
+      "score": 4.48,
       "tags": [
         "calm",
         "closure"
@@ -106,30 +126,10 @@
       "tags": [
         "tension"
       ]
-    },
-    {
-      "title": "An attack disables a ship in the Strait of Hormuz and other news from around the Middle East - wandtv.com",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNQ1ZJeGhXV3ZENVFJM2FpQUlrRm1hdlo1QzIyODl3MmRyU09obXByYlRrcWZoUkktVmQzblpRUW1hS1hBd1l1OW41VWs3OXFXWGpZRnBhOW0xZThJZ0ZBS09qeC1nWHl4NC1ud042UVpBcndIN0pzbUxIZ0hnOEE5Tno3NVBPcEliWU1UT1Zhb0VnUlVZNklhTlg3c21YMHZlQUNrWUtzVWR3Q1ZrLWd4Ykh5LTRPN1VuZnZydHo3WjdCR0JkTWRpSkRTeWYyQWl0MVIzQkYzZ1ZZTzFmbVJrckQ1bDlyRGZNQXVSRUh2QXdxajdlRkE?oc=5",
-      "source": "wandtv.com",
-      "published": "2026-08-25T16:23:18+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "An attack disables a ship in the Strait of Hormuz and other news from around the Middle East - KTVN",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWEFRb0trYXlKQlU3aUZ3YTdMbHBCOFRaemhrMk1TQXRCaF9nMEFMaGhpZUFBU195ZkdJYmdva041U3JPMlpaaGMzQ2Y2b21DcWo4M2lMWTdmRWQ4UHpnSnd3WXF3TXMzcXdXTmtpeUJNMTVEXzRKdUF4SGtNbkd1RjRzbVl1LWRoSzdLVEdBV1kwYjh0Ny0wZzdDaktHY0lvYy1RVVJ3djNXWTB0elBxcjFCU002NldFVG5qZzQ4U3RLZnVwQUxpbEVneFd1bXg1WGZNYXBuYWpjb3haa1RYaUthSUVLeTlTclctbmN3?oc=5",
-      "source": "KTVN",
-      "published": "2026-08-25T16:23:18+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
     }
   ],
   "brent": {
-    "price": 87.33,
-    "change_pct": -3.55
+    "price": 87.19,
+    "change_pct": -3.7
   }
 }
