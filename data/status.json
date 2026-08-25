@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 109.1,
+  "tension_index": 131.1,
   "closure_signals": 8,
-  "articles_scanned": 239,
-  "updated": "2026-08-25T22:18:51.546515+00:00",
+  "articles_scanned": 223,
+  "updated": "2026-08-25T22:52:30.765891+00:00",
   "headlines": [
     {
       "title": "Trump says US Navy has cleared all mines from Strait of Hormuz - T\u00fcrkiye Today",
@@ -30,7 +30,7 @@
       "title": "Trump: Mines fully removed from Strait of Hormuz - Axios",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9va1JQWnZ4dEZoTTQwSzhwa0E5MnpRMTBkaXp0THRHYW80cHdwMGw1RXYzYllUTzh2MmlrY1dDMjVfTEdGeUVMZmhfdHdfU3Ayc0VITm9zeGxjQUllLVhPdEZrY05LWkwxdmhPQ1FNZDE0NGt5Z1E?oc=5",
       "source": "Axios",
-      "published": "2026-08-25T16:48:47+00:00",
+      "published": "2026-08-25T16:50:05+00:00",
       "score": 6.0,
       "tags": [
         "closure"
@@ -91,7 +91,7 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NUXVITkFVd1RiLXY1Wkg3NXVRZWhTandQVzd3NkVSeV94V0syUjZiWnVBd1I5SndyUWxqZ2MwRUFSLVVvN3FHaE1ueGU0TGsxQlE?oc=5",
       "source": "Iran International",
       "published": "2026-08-22T20:19:13+00:00",
-      "score": 4.33,
+      "score": 4.31,
       "tags": [
         "calm",
         "closure"
@@ -108,20 +108,20 @@
       ]
     },
     {
-      "title": "Damaged Qatari LNG Tanker Awaits Salvage After Strike as Hormuz Risks Escalate - EnergyNow.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ3NvSDZxd0xkb2w2ZDFUNjlLaU9lR3BtWENNeGItOXZ1dGljOU00bGtDLWt2alZDVUR6TzFtR3ZmN05udTZDMndnQ2NPaW9uM2dQYnVZc1JoRlo5ZzV5RV9kREtOaWVfakpBRExhc0hQYVJIMUc4Z0YzVXpfU1BRTS0ycnJqUDFqb3BQTGQ0UmxHdnpwYjh3TUVYVFNKbUpOcDlvM2Z4b3BoU1lzMmc?oc=5",
-      "source": "EnergyNow.com",
-      "published": "2026-08-23T22:58:45+00:00",
-      "score": 3.48,
+      "title": "An attack disables a ship in the Strait of Hormuz and other news from around the Middle East - WHDH",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTXNzTTYxUnJXWWVkRU16N281bWNuVkxJbWhHXzRMalp5clhIYjJ2OTdQY2VRcGxUZTNsekhlXzY5eEJrOE1KcFluNlRDSXlmZUt6cF9vM0xfUy1wTGtUQjJrMjJwcy1fd2YxZU50R2NiVWptZ3NDSEdfVEdQRnlFM3Exck0xNGtzRjl2Vmg4NHJVa3FRR1ZpWVNDcDJiMHFsalNETEQzLUxNM0Jmd2tpVnNOeGI1QQ?oc=5",
+      "source": "WHDH",
+      "published": "2026-08-25T17:15:29+00:00",
+      "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "An attack disables a ship in the Strait of Hormuz and other news from around the Middle East - WHDH",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTXNzTTYxUnJXWWVkRU16N281bWNuVkxJbWhHXzRMalp5clhIYjJ2OTdQY2VRcGxUZTNsekhlXzY5eEJrOE1KcFluNlRDSXlmZUt6cF9vM0xfUy1wTGtUQjJrMjJwcy1fd2YxZU50R2NiVWptZ3NDSEdfVEdQRnlFM3Exck0xNGtzRjl2Vmg4NHJVa3FRR1ZpWVNDcDJiMHFsalNETEQzLUxNM0Jmd2tpVnNOeGI1QQ?oc=5",
-      "source": "WHDH",
-      "published": "2026-08-25T17:15:29+00:00",
+      "title": "An attack disables a ship in the Strait of Hormuz and other news from around the Middle East - KTVN",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWEFRb0trYXlKQlU3aUZ3YTdMbHBCOFRaemhrMk1TQXRCaF9nMEFMaGhpZUFBU195ZkdJYmdva041U3JPMlpaaGMzQ2Y2b21DcWo4M2lMWTdmRWQ4UHpnSnd3WXF3TXMzcXdXTmtpeUJNMTVEXzRKdUF4SGtNbkd1RjRzbVl1LWRoSzdLVEdBV1kwYjh0Ny0wZzdDaktHY0lvYy1RVVJ3djNXWTB0elBxcjFCU002NldFVG5qZzQ4U3RLZnVwQUxpbEVneFd1bXg1WGZNYXBuYWpjb3haa1RYaUthSUVLeTlTclctbmN3?oc=5",
+      "source": "KTVN",
+      "published": "2026-08-25T16:23:18+00:00",
       "score": 3.0,
       "tags": [
         "tension"
