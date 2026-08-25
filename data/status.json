@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 122.0,
-  "closure_signals": 6,
-  "articles_scanned": 223,
-  "updated": "2026-08-25T23:18:50.434696+00:00",
+  "tension_index": 134.9,
+  "closure_signals": 8,
+  "articles_scanned": 226,
+  "updated": "2026-08-25T23:46:35.492844+00:00",
   "headlines": [
     {
       "title": "Trump says US Navy has cleared all mines from Strait of Hormuz - T\u00fcrkiye Today",
@@ -47,10 +47,30 @@
       ]
     },
     {
+      "title": "Strait of Hormuz cleared of all Iranian mines: Trump - Washington Examiner",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcDlvMkVQTjk0YWY4TEZmQnFHNGlzQ0QzWXl1RXhrcEMzeDhYQVUyZ0NOc3lwWi13MXJHOXVCazR5bWlxNjVQaEdCcGxwZWxhZXRlOGZHX05SUm8zcVpkSWhtTjBBbi1ERkt2VWZkRkxsU0NMV1lzYld0RGNhYXJCak9HWnZXZXkzX1d4NURHaE1sWmZTRnBMX3pldGJJZUpiSkxzODh6MDBrck5peEQ5UVNZUXpvemk0elF0ZG5Nc3hpVEpGNGRpamZXbUs2ZzV1UEE?oc=5",
+      "source": "Washington Examiner",
+      "published": "2026-08-25T15:13:00+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
       "title": "Trump says all mines cleared from Strait of Hormuz waters - Daily Sabah",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX25SSElRYlAwYUktSVFvUHJYVnR2bnlyWXM2RGIzNG1EOVh3UjJxczE1RjBzQUdyZFBWOHBRTkhmd0VPZTJUcnJLX1pPS0ZBWDFpZ3JWT3NnbjFaRnNrLXptSl9hRm5hVTdIUUlzazltU0prT282Um9UaFNkNnhsVHN1SzNESDBodjNyQUtJcDFCWHFXMHB2N2V1eWtUMlJJ?oc=5",
       "source": "Daily Sabah",
       "published": "2026-08-25T14:52:00+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Trump: All mines in Strait of Hormuz removed - Israel National News",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDVEtuUWl2N3M3VFhNTGh6VGt5Z0N6T2p2WVNKd1RUVkVkc1N2YjVNYjNtTTlNeGNRSE9pcW1XMEx6UFFCVnF1UUdETnZUSmxZbUM4N1BoMC1hdw?oc=5",
+      "source": "Israel National News",
+      "published": "2026-08-25T14:45:00+00:00",
       "score": 6.0,
       "tags": [
         "closure"
@@ -71,7 +91,7 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NUXVITkFVd1RiLXY1Wkg3NXVRZWhTandQVzd3NkVSeV94V0syUjZiWnVBd1I5SndyUWxqZ2MwRUFSLVVvN3FHaE1ueGU0TGsxQlE?oc=5",
       "source": "Iran International",
       "published": "2026-08-22T20:19:13+00:00",
-      "score": 4.3,
+      "score": 4.28,
       "tags": [
         "calm",
         "closure"
@@ -98,16 +118,6 @@
       ]
     },
     {
-      "title": "Ship disabled by attack in Strait of Hormuz; crew reported safe - Las Vegas Review-Journal",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSzlEQi1sMjBzQ0Z5amkwVXNNWURJb3BfVFdWelJpMUVfQmEta1ZueVNjZkJITVF2OXVFd1p2UkY4eFBVTGxBbTZ2T1ZSV0ZmUlBaNF9pNlFzbXJaWDVTUFoycDM3cVI5OW5mc2pIV2sxNVJHXzE4R2g4dmpheGdOM0puSGRNeXVqN3czeFVBRVVDRk96S2o2T1hXdDVGbEozOWdCSG9fTHplNHFKenVnUVJ3NVlWLTVLVTdrMFA3a04zaWROYnJOcWN3?oc=5",
-      "source": "Las Vegas Review-Journal",
-      "published": "2026-08-25T16:41:15+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
       "title": "An attack disables a ship in the Strait of Hormuz and other news from around the Middle East - KTVN",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWEFRb0trYXlKQlU3aUZ3YTdMbHBCOFRaemhrMk1TQXRCaF9nMEFMaGhpZUFBU195ZkdJYmdva041U3JPMlpaaGMzQ2Y2b21DcWo4M2lMWTdmRWQ4UHpnSnd3WXF3TXMzcXdXTmtpeUJNMTVEXzRKdUF4SGtNbkd1RjRzbVl1LWRoSzdLVEdBV1kwYjh0Ny0wZzdDaktHY0lvYy1RVVJ3djNXWTB0elBxcjFCU002NldFVG5qZzQ4U3RLZnVwQUxpbEVneFd1bXg1WGZNYXBuYWpjb3haa1RYaUthSUVLeTlTclctbmN3?oc=5",
       "source": "KTVN",
@@ -116,20 +126,10 @@
       "tags": [
         "tension"
       ]
-    },
-    {
-      "title": "An attack disables a ship in the Strait of Hormuz and other news from around the Middle East - Mainline Media News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWl9PSGJ2RUxqaFhhdGZLdklmMENHNzE5d1k4b3M1Ny0yaFB0c2xvcGtCUGhCOEhTbGxPSDBrUG5sR1ExNXRKZ21hbWNzcHFQdTNMdTFfQ2tBNlNfdGZBZGFBdER3Vlg2MktiLUhQRHA5Y2lSMGRqU2pvSDVNNWI1bm1TR1RPWFczNVV3ZktxSGt3amlrUktlb19uenpLM05OalE?oc=5",
-      "source": "Mainline Media News",
-      "published": "2026-08-25T14:20:48+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
     }
   ],
   "brent": {
-    "price": 85.86,
-    "change_pct": -1.62
+    "price": 85.93,
+    "change_pct": -1.54
   }
 }
