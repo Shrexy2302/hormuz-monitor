@@ -1,11 +1,21 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 107.4,
-  "closure_signals": 4,
-  "articles_scanned": 223,
-  "updated": "2026-08-25T16:27:50.551692+00:00",
+  "tension_index": 128.4,
+  "closure_signals": 6,
+  "articles_scanned": 227,
+  "updated": "2026-08-25T17:05:00.775828+00:00",
   "headlines": [
+    {
+      "title": "Trump: Mines fully removed from Strait of Hormuz - Axios",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9va1JQWnZ4dEZoTTQwSzhwa0E5MnpRMTBkaXp0THRHYW80cHdwMGw1RXYzYllUTzh2MmlrY1dDMjVfTEdGeUVMZmhfdHdfU3Ayc0VITm9zeGxjQUllLVhPdEZrY05LWkwxdmhPQ1FNZDE0NGt5Z1E?oc=5",
+      "source": "Axios",
+      "published": "2026-08-25T16:31:37+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
     {
       "title": "Trump says all mines cleared from Strait of Hormuz - BBC",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12aGV3aDB6R2NEeXJCUDRXNFM3OHJwVzVwUzdLUmxtSDN0dDZMRE1oQXhyb291VXJUekk5VWI4bUdlTllibjJjTmIyYXVZUHhJWTBYU0RELWV6Mm42?oc=5",
@@ -37,6 +47,16 @@
       ]
     },
     {
+      "title": "Trump: All mines in Strait of Hormuz removed - Israel National News",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDVEtuUWl2N3M3VFhNTGh6VGt5Z0N6T2p2WVNKd1RUVkVkc1N2YjVNYjNtTTlNeGNRSE9pcW1XMEx6UFFCVnF1UUdETnZUSmxZbUM4N1BoMC1hdw?oc=5",
+      "source": "Israel National News",
+      "published": "2026-08-25T14:45:00+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
       "title": "Strait of Hormuz cleared of all mines, Donald Trump says citing US Navy - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GM0JJTVQtb19jZzk5WldDZTVxOVpsb2d1bEhXdUU4ampQYlRtNDhFb2RJQ3ZxSFkxMFBEYXlQYUhwQ1hodWtkazFpQXJ5dkYzTVJlVFdDd09PMmkzTkEwaU4zWVltV3hTaUE?oc=5",
       "source": "The Jerusalem Post",
@@ -47,11 +67,21 @@
       ]
     },
     {
+      "title": "Tehran threatens to close the Strait of Hormuz to oil and warns neighboring countries of 'economic warfare' - \u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0642\u062f\u0633",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbWtqc3kzTVAxNnZ1M2pfaDJYdTQ3NEc1Q0g3ZkdfT2Y3YWNNMmQ5bGdHb2RWYnNhVllIci1ZeG1qMjVOTkJjcWFQUjRVWTRmbzRCZGh5WlJJSG9nQ2RSa1hJLXF3SHFIc1djTkV4Q2xXODNYUkFzSy1ZUEItSy0xSG11VndhWW9EYk5FSGdtMU1RUE5OcGE2Y2R0TENJMmhkN2FMLUpLQ21oX2hHeEhJ?oc=5",
+      "source": "\u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0642\u062f\u0633",
+      "published": "2026-08-23T05:08:18+00:00",
+      "score": 4.8,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
       "title": "US targets mine-laying vessels in the Strait of Hormuz amid blockade disrupting global oil markets - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzRPSjlIQTd4QndKdm9CUHk1ZWxIaktfOERjc1A3VHpYMHV0Z1Zkd3dGNURqMFJFR3l4LXo3OU5scG96QXhMd0F5TGthdlVzbmg0QVVHbnktU096TkFWUnc5QU9UV0xvTk1jbDY3eGFJaWZXN19UOEJvbTF6eFdFcW13cWxwdWRDVzU1OEl6c2ctT3ltYVJZN0d1a3hvQdIBowFBVV95cUxPUktnalZhVFFxNkhBTHFVS0tOSVBzVE5rZWFhcHhQUVk5dnlocFVZQWdNeHlNQ2pwY0ctTHp6dkQ1WFh1djJsUkQxZ3RZR3NkbVVJOWNCNTFqdFl5eUpMc044SVlwQVMyeldla2VYZ2FxVG5ud1RvTVlKNVc1d0FMNjZSemNubmdydW5BRE1peGVjdmJNSFF5QVZ2OGtNMTVHY09B?oc=5",
       "source": "ABC News - Breaking News, Latest News and Videos",
       "published": "2026-08-22T20:41:02+00:00",
-      "score": 4.54,
+      "score": 4.52,
       "tags": [
         "closure"
       ]
@@ -61,7 +91,7 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NUXVITkFVd1RiLXY1Wkg3NXVRZWhTandQVzd3NkVSeV94V0syUjZiWnVBd1I5SndyUWxqZ2MwRUFSLVVvN3FHaE1ueGU0TGsxQlE?oc=5",
       "source": "Iran International",
       "published": "2026-08-22T20:19:13+00:00",
-      "score": 4.53,
+      "score": 4.51,
       "tags": [
         "calm",
         "closure"
@@ -78,50 +108,20 @@
       ]
     },
     {
-      "title": "Ship disabled by attack in Strait of Hormuz; crew reported safe - Las Vegas Review-Journal",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSzlEQi1sMjBzQ0Z5amkwVXNNWURJb3BfVFdWelJpMUVfQmEta1ZueVNjZkJITVF2OXVFd1p2UkY4eFBVTGxBbTZ2T1ZSV0ZmUlBaNF9pNlFzbXJaWDVTUFoycDM3cVI5OW5mc2pIV2sxNVJHXzE4R2g4dmpheGdOM0puSGRNeXVqN3czeFVBRVVDRk96S2o2T1hXdDVGbEozOWdCSG9fTHplNHFKenVnUVJ3NVlWLTVLVTdrMFA3a04zaWROYnJOcWN3?oc=5",
-      "source": "Las Vegas Review-Journal",
-      "published": "2026-08-25T13:57:34+00:00",
+      "title": "An attack disables a ship in the Strait of Hormuz and other news from around the Middle East - wandtv.com",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNQ1ZJeGhXV3ZENVFJM2FpQUlrRm1hdlo1QzIyODl3MmRyU09obXByYlRrcWZoUkktVmQzblpRUW1hS1hBd1l1OW41VWs3OXFXWGpZRnBhOW0xZThJZ0ZBS09qeC1nWHl4NC1ud042UVpBcndIN0pzbUxIZ0hnOEE5Tno3NVBPcEliWU1UT1Zhb0VnUlVZNklhTlg3c21YMHZlQUNrWUtzVWR3Q1ZrLWd4Ykh5LTRPN1VuZnZydHo3WjdCR0JkTWRpSkRTeWYyQWl0MVIzQkYzZ1ZZTzFmbVJrckQ1bDlyRGZNQXVSRUh2QXdxajdlRkE?oc=5",
+      "source": "wandtv.com",
+      "published": "2026-08-25T16:23:18+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "US offers Iran sanctions relief in exchange for opening Hormuz, halting attacks - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDQ1RYY3NsSy1qdHJzUXBNbGFPOUo5Xy1KVUFuTnFBaGlqT243Rlk3NEZkM0tTOHk4eUxxVDN0MFJBSnFxYlVXQUVuTlRvT3dmWWE1cWtndm5lZzdHR3E2dW9HN2k0NW5ZTXc?oc=5",
-      "source": "The Jerusalem Post",
-      "published": "2026-08-25T13:37:35+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Tanker attacked in Strait of Hormuz as Pakistan holds talks with Iran to end war - Spectrum News",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYUtlMUJzSmpRbVRhTGMwQ09MbFpockFtSUhzN21xZl91dU9wWTZkcl8yVU1LTDZKd1pOWFRYVjlEVlF4WjE1TXN6eE9pMXhKQ2paaGYtZEI2YnVxSzBLdU5iZTB0cHpzenhLWnZHRkJWX2J0dUVsS3psZHEwUlhyQlBYWmVJU0ZaUE9jRE1Rd1dHelM1bzNDN3h1c3FUU19vS3E3eDA0VmR5eDRzZ0l1UzdnMkgzUWs?oc=5",
-      "source": "Spectrum News",
-      "published": "2026-08-25T12:58:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "New Tanker Strike in Hormuz as Iran Vows Retaliation for U.S. Economic Offensive - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOc1RqdS1KRFNQWVJLVnVQM0wtM0JmN3F4YUNSeFZlcUhlTHhxR1R5cVJwTFlLUmQ4Wkt3OUtfYkNQUlBIZVdWOHZuLTNiUmh0QS1lMTh0bWVXUXhWdjJtbjcxZzZ6ZHE0VUI1dk5tZWZJSDJQemZMZkIyeXVTRHZHUlo3dHlSZWdfeDJvYWU2cDBtcXpVSWcyN01vQUZxeDZBZnVSY0cxVU9oNDhWNmlLaTZOdDAzWFd3WXdkVmt1bG03MXND?oc=5",
-      "source": "WSJ",
-      "published": "2026-08-25T12:52:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Ship disabled by attack in Strait of Hormuz and other news from around the Middle East - AP News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc2ZVY3Y2dXJDajgxb0R0RDNXVTQwWXFQLTltbDJVWUpaanVwZ0lHSzRzQ0VIekg0NkFNZG5UVHVCX0ZOWV9lWThtbnhyV3pSWUxmeEZqR1BTU1YtR2paS0hhajBWQ0tVdHU5Njg5aklzUG1xNDNsaU5VYkJNZlZIbzVXVmZyMmkyYVRBclRKZ1k0dnFrSXJMNzJfVkpfOWhTRTZIOTgwWDRPalBlM1R4LXZFWlU?oc=5",
-      "source": "AP News",
-      "published": "2026-08-25T12:23:00+00:00",
+      "title": "An attack disables a ship in the Strait of Hormuz and other news from around the Middle East - KTVN",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWEFRb0trYXlKQlU3aUZ3YTdMbHBCOFRaemhrMk1TQXRCaF9nMEFMaGhpZUFBU195ZkdJYmdva041U3JPMlpaaGMzQ2Y2b21DcWo4M2lMWTdmRWQ4UHpnSnd3WXF3TXMzcXdXTmtpeUJNMTVEXzRKdUF4SGtNbkd1RjRzbVl1LWRoSzdLVEdBV1kwYjh0Ny0wZzdDaktHY0lvYy1RVVJ3djNXWTB0elBxcjFCU002NldFVG5qZzQ4U3RLZnVwQUxpbEVneFd1bXg1WGZNYXBuYWpjb3haa1RYaUthSUVLeTlTclctbmN3?oc=5",
+      "source": "KTVN",
+      "published": "2026-08-25T16:23:18+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -129,7 +129,7 @@
     }
   ],
   "brent": {
-    "price": 87.22,
-    "change_pct": -3.67
+    "price": 87.33,
+    "change_pct": -3.55
   }
 }
