@@ -1,17 +1,17 @@
 {
   "status": "ELEVATED",
   "label": "Elevated tension",
-  "tension_index": 45.4,
+  "tension_index": 46.8,
   "closure_signals": 0,
-  "articles_scanned": 222,
-  "updated": "2026-08-25T11:26:25.908636+00:00",
+  "articles_scanned": 224,
+  "updated": "2026-08-25T11:53:32.310635+00:00",
   "headlines": [
     {
       "title": "US targets mine-laying vessels in the Strait of Hormuz amid blockade disrupting global oil markets - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzRPSjlIQTd4QndKdm9CUHk1ZWxIaktfOERjc1A3VHpYMHV0Z1Zkd3dGNURqMFJFR3l4LXo3OU5scG96QXhMd0F5TGthdlVzbmg0QVVHbnktU096TkFWUnc5QU9UV0xvTk1jbDY3eGFJaWZXN19UOEJvbTF6eFdFcW13cWxwdWRDVzU1OEl6c2ctT3ltYVJZN0d1a3hvQdIBowFBVV95cUxPUktnalZhVFFxNkhBTHFVS0tOSVBzVE5rZWFhcHhQUVk5dnlocFVZQWdNeHlNQ2pwY0ctTHp6dkQ1WFh1djJsUkQxZ3RZR3NkbVVJOWNCNTFqdFl5eUpMc044SVlwQVMyeldla2VYZ2FxVG5ud1RvTVlKNVc1d0FMNjZSemNubmdydW5BRE1peGVjdmJNSFF5QVZ2OGtNMTVHY09B?oc=5",
       "source": "ABC News - Breaking News, Latest News and Videos",
       "published": "2026-08-22T20:41:02+00:00",
-      "score": 4.71,
+      "score": 4.69,
       "tags": [
         "closure"
       ]
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NUXVITkFVd1RiLXY1Wkg3NXVRZWhTandQVzd3NkVSeV94V0syUjZiWnVBd1I5SndyUWxqZ2MwRUFSLVVvN3FHaE1ueGU0TGsxQlE?oc=5",
       "source": "Iran International",
       "published": "2026-08-22T20:19:13+00:00",
-      "score": 4.7,
+      "score": 4.68,
       "tags": [
         "calm",
         "closure"
@@ -38,9 +38,19 @@
       ]
     },
     {
-      "title": "Ship disabled by attack in Strait of Hormuz and other news from around the Middle East - Boston 25 News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOWtvR3MtWTJoODVEaUFYNFNSOW1ZaWoxVVlLaW8wakR6YlNYOGo0TExVRklxQXQyT1lMcVNkdFRsOWFXdWNGYUllZ3llTGxwZkJUZS05TkZpT2hGdTNURVB0QjZTY1BvaE5OUXVLMjZjbTRYYzVISGp6WlFMUldRRUlYNklOLUhYOHRQV3BRc3VJT0tRMWEyQ2VyYUFpTkxw0gGgAUFVX3lxTE05a29Hcy1ZMmg4NURpQVg0U1I5bVlpajFVWUtpbzBqRHpiU1g4ajRMTFVGSXFBdDJPWUxxU2R0VGw5YVd1Y0ZhSWVneWVMbHBmQlRlLTlORmlPaEZ1M1RFUHRCNlNjUG9oTk5RdUsyNmNtNFhjNUhIanpaUUxSV1FFSVg2SU4tSFg4dFBXcFFzdUlPS1ExYTJDZXJhQWlOTHA?oc=5",
-      "source": "Boston 25 News",
+      "title": "Ship disabled by attack in Strait of Hormuz and other news from around the Middle East - WSB-TV",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM2FSZkNsNXUzb1M5RFhSQzYwcU40RU1TUjc3dXlkdkV4aTEwZUZGM1RQakgyV205bXR6YUlVSDFFUC1HcGxQbkNpeWtzSUZwREl0eFJ5NkRDYXpud25SRUZQbjZ2VnV2REdTQXAzeFgyZWJPUlhSc3ZjQUpqalBtSllkOENnWENZNkhrOE84T3dTTW9EbWVF0gGXAUFVX3lxTFAzYVJmQ2w1dTNvUzlEWFJDNjBxTjRFTVNSNzd1eWR2RXhpMTBlRkYzVFBqSDJXbTltdHphSVVIMUVQLUdwbFBuQ2l5a3NJRnBESXR4Unk2RENhem53blJFRlBuNnZWdXZER1NBcDN4WDJlYk9SWFJzdmNBSmpqUG1KWWQ4Q2dYQ1k2SGs4TzhPd1NNb0RtZUU?oc=5",
+      "source": "WSB-TV",
+      "published": "2026-08-25T09:46:16+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Ship disabled by attack in Strait of Hormuz and other news from around the Middle East | World News | 2news.com - KTVN",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPVWxUd19acTJhT3c5cm1mcjN0MmFrYnIwN3p4S1MtMlFfRTBqcUtGRVU0VTM2ZEw3TlhvWGtNZ2V0bTVjYlhoenJQWGY5eDJLRDcyVklTY25rMEZPTmZJV0w2QzI3ZV9YY09zaF9uMlNxbnVQMG9wTWlqU0tmZFZqWUFqOWZVaTdwa2J2b2ZmMXdPQ19Xd1FSTTlBMHFoa0EzTzRlamItUEE2eHh1MG1HRS1tMi1NN05xNDlOb3dqTU1US2pUU3Jqek5fUnlCcTctc0VSVjRDX2c2YzVUZ2dUSExKbzMzRmV4WDlPVHY5ZWw0dlpQ?oc=5",
+      "source": "KTVN",
       "published": "2026-08-25T09:46:16+00:00",
       "score": 3.0,
       "tags": [
@@ -92,7 +102,7 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS1dEY0pvaGNEVEMyTGdTaGl5UmZBY1hJQms3SGF2cmVoRWwzSFZZUnZRR1BEVWg1SmJReV9WcEpTN0szcHgwU18ta1MzV0RoNV94NVB2RDhHQmI2NTBRSGlYQUpkUzJvUFQ4elAtb3lZcmpHeUpGa0xBU2JSWG80bnZ2S2dOczZZRzNYQmhrVlFGRkVrbVVTbllGdlFQUTlPUEV6Uy1qRQ?oc=5",
       "source": "Moomoo",
       "published": "2026-08-22T06:06:09+00:00",
-      "score": 2.11,
+      "score": 2.1,
       "tags": [
         "tension"
       ]
@@ -102,7 +112,7 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VY1NyRWF1ejhQaG5Gck9KTjYzazVSdFdiaHY4QTVrWXdVeFhGaUl4QUZwam9ZY0pOMm5zZHpOTF9nVXlXOGdQN3hDM2JkMU9lMmxfMkNvWmtRZVVp?oc=5",
       "source": "The Jerusalem Post",
       "published": "2026-08-22T00:56:49+00:00",
-      "score": 2.03,
+      "score": 2.02,
       "tags": [
         "tension"
       ]
@@ -111,25 +121,15 @@
       "title": "Iran closes Strait of Hormuz as diesel prices surge to $5.46 a gallon across the United States - Scripps News",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMHlNQmFIblRjVl9XU0xrb29xVzhrTzBRZm5hSjZqMUhiVHh1ZFh6TFVYZ1J6MnB6VlR5UjZCTjhJTDRubUZURXU0bllvQVpVcEdWa3NpM1Ezdk5JaVhfSzVzLU53cXJfT0FvQTEzNFg1LU9xU3k4R2ZMTWl3cUF6eEpnZ0NHTkpzR2dxNkt6SUNjSHRSN2FGTzVGRXFjMGxRRklUNk01RzlnM2pWWC11VkZ5VndrektYelQyRGxTUk52Q0tZR0JKN1NtQ2hhMHRnazFVYw?oc=5",
       "source": "Scripps News",
-      "published": "2026-08-18T12:16:07+00:00",
+      "published": "2026-08-18T12:44:27+00:00",
       "score": 1.64,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Trump says Strait of Hormuz has been de-mined, is 'open and operating' after 60-day Iran talks window shuts - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQktYX0J0R2hzNlc5bXNxTEp2QlNHeDdvQUIwYnk4dVJZdmpEeEJoTERxUXJ6ZVFlV1pZTFV0VlZEeHpqUHNpQ0lJZ2wySzUzMzNabWxKX0VDZGFVNjhRd29IeEZPVWctdGw2RWhWcXNjUVFJWHJiS2swYTVmYWpjNWxsY28yVEh1dU1uRFB1c0Y4cnFMRWpHMXpMWVpVenZTY2IxYzhObGRqWlVhM2RIS0lZVkxzNHhhNlZnUXJmZFpXN0pQVktjWHdkQ1JwWldWQVZZRVAtelBWaHc?oc=5",
-      "source": "New York Post",
-      "published": "2026-08-18T15:15:47+00:00",
-      "score": 1.33,
       "tags": [
         "closure"
       ]
     }
   ],
   "brent": {
-    "price": 88.16,
-    "change_pct": -2.63
+    "price": 88.08,
+    "change_pct": -2.72
   }
 }
