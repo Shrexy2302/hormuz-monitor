@@ -1,17 +1,17 @@
 {
   "status": "ELEVATED",
   "label": "Elevated tension",
-  "tension_index": 57.5,
+  "tension_index": 75.2,
   "closure_signals": 0,
-  "articles_scanned": 223,
-  "updated": "2026-08-25T12:33:56.887341+00:00",
+  "articles_scanned": 225,
+  "updated": "2026-08-25T13:42:24.684727+00:00",
   "headlines": [
     {
       "title": "US targets mine-laying vessels in the Strait of Hormuz amid blockade disrupting global oil markets - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzRPSjlIQTd4QndKdm9CUHk1ZWxIaktfOERjc1A3VHpYMHV0Z1Zkd3dGNURqMFJFR3l4LXo3OU5scG96QXhMd0F5TGthdlVzbmg0QVVHbnktU096TkFWUnc5QU9UV0xvTk1jbDY3eGFJaWZXN19UOEJvbTF6eFdFcW13cWxwdWRDVzU1OEl6c2ctT3ltYVJZN0d1a3hvQdIBowFBVV95cUxPUktnalZhVFFxNkhBTHFVS0tOSVBzVE5rZWFhcHhQUVk5dnlocFVZQWdNeHlNQ2pwY0ctTHp6dkQ1WFh1djJsUkQxZ3RZR3NkbVVJOWNCNTFqdFl5eUpMc044SVlwQVMyeldla2VYZ2FxVG5ud1RvTVlKNVc1d0FMNjZSemNubmdydW5BRE1peGVjdmJNSFF5QVZ2OGtNMTVHY09B?oc=5",
       "source": "ABC News - Breaking News, Latest News and Videos",
       "published": "2026-08-22T20:41:02+00:00",
-      "score": 4.67,
+      "score": 4.63,
       "tags": [
         "closure"
       ]
@@ -21,17 +21,57 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NUXVITkFVd1RiLXY1Wkg3NXVRZWhTandQVzd3NkVSeV94V0syUjZiWnVBd1I5SndyUWxqZ2MwRUFSLVVvN3FHaE1ueGU0TGsxQlE?oc=5",
       "source": "Iran International",
       "published": "2026-08-22T20:19:13+00:00",
-      "score": 4.66,
+      "score": 4.62,
       "tags": [
         "calm",
         "closure"
       ]
     },
     {
-      "title": "Greek-owned tanker struck in Hormuz strait; crew reported safe - eKathimerini.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMUZaNm9CTkNEWXdIR2UzTnlkcFZIUVJ4eldFa213Y2hkaFgtNnZGX2UxQlUteUR5VmpHTGFtMGFGMml3eEFra1Y5N0pWd0V2SDRuYlZobmFtMl94WThUWVc2eHVlX2diblk0cy14MkV2QXQ5SU0wWDNfU3pQbzZQOHZJSDFQbHFYbHlDZ0JnQUVud1lPdmdIQmNRd001YkJQd1JkajVzMmRaWDJuQ1RqQ0pFTW5ycEluUDZZVF85bGI?oc=5",
-      "source": "eKathimerini.com",
-      "published": "2026-08-25T11:22:41+00:00",
+      "title": "Tanker Attack and Traffic Collapse Escalate Strait of Hormuz Crisis - IranWire",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNlByejIzbUw0SVlIdUp5dmJWZF9PSllLQnVBTVN1aU1VemdXN3VSQWYwYzdQV1JHZW8zVEROV1AwbHlDa0I1Vk5tYzk4QW9FZWg1YldCS05OY3Vfd2pTR29pMkpmVmZGZ3RmRGJIWG16ZUJlbW01S1FHWlVNaWFtcHFfelF5NU9nUFRTY3Y0RVhtdmViNE80Q3A0WVZvSU8xVC1QSEt4bw?oc=5",
+      "source": "IranWire",
+      "published": "2026-08-25T12:41:22+00:00",
+      "score": 4.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Tanker attacked in Strait of Hormuz as Pakistan holds talks with Iran to end war - Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYUtlMUJzSmpRbVRhTGMwQ09MbFpockFtSUhzN21xZl91dU9wWTZkcl8yVU1LTDZKd1pOWFRYVjlEVlF4WjE1TXN6eE9pMXhKQ2paaGYtZEI2YnVxSzBLdU5iZTB0cHpzenhLWnZHRkJWX2J0dUVsS3psZHEwUlhyQlBYWmVJU0ZaUE9jRE1Rd1dHelM1bzNDN3h1c3FUU19vS3E3eDA0VmR5eDRzZ0l1UzdnMkgzUWs?oc=5",
+      "source": "Spectrum News",
+      "published": "2026-08-25T12:58:00+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "New Tanker Strike in Hormuz as Iran Vows Retaliation for U.S. Economic Offensive - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOc1RqdS1KRFNQWVJLVnVQM0wtM0JmN3F4YUNSeFZlcUhlTHhxR1R5cVJwTFlLUmQ4Wkt3OUtfYkNQUlBIZVdWOHZuLTNiUmh0QS1lMTh0bWVXUXhWdjJtbjcxZzZ6ZHE0VUI1dk5tZWZJSDJQemZMZkIyeXVTRHZHUlo3dHlSZWdfeDJvYWU2cDBtcXpVSWcyN01vQUZxeDZBZnVSY0cxVU9oNDhWNmlLaTZOdDAzWFd3WXdkVmt1bG03MXND?oc=5",
+      "source": "WSJ",
+      "published": "2026-08-25T12:52:00+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Ship disabled by attack in Strait of Hormuz and other news from around the Middle East - AP News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc2ZVY3Y2dXJDajgxb0R0RDNXVTQwWXFQLTltbDJVWUpaanVwZ0lHSzRzQ0VIekg0NkFNZG5UVHVCX0ZOWV9lWThtbnhyV3pSWUxmeEZqR1BTU1YtR2paS0hhajBWQ0tVdHU5Njg5aklzUG1xNDNsaU5VYkJNZlZIbzVXVmZyMmkyYVRBclRKZ1k0dnFrSXJMNzJfVkpfOWhTRTZIOTgwWDRPalBlM1R4LXZFWlU?oc=5",
+      "source": "AP News",
+      "published": "2026-08-25T12:23:00+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Ship disabled by attack in Strait of Hormuz and other news from around the Middle East - Akron News-Reporter",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV3JCc0JUQ2JBV3hVcFhkWVozUUl4MGptWXNZUk1xZW45bjNEZjAzdGJQWmVTOWZkQXFQXzM5M0wzUW1lOEdWVjNUa0ZqNHlXTENQRm84ak5CN2VGMGZaNDlSV1IxNENlanB1Q3lKNWNOYlFNTGNNbWY3bUs3dmR0SnFPdVFSWXpxSzM3ckVURTVZX0kzbEtubjBUR3lKVFU3Ymc?oc=5",
+      "source": "Akron News-Reporter",
+      "published": "2026-08-25T11:21:14+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -48,80 +88,40 @@
       ]
     },
     {
-      "title": "Ship disabled by attack in Strait of Hormuz and other news from around the Middle East - Sun Sentinel",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSkYyUDdFTUE0ckZzQ0ktWkk5anlDLXQ5b2pmMGZBU0ZjdnAzS0NxMzlnd2ttZ0RKaXF4LUdZYzlxXzF4MDZPak1ybEwyWEp5ZWVUUV92dlZjUTIzeThuSHJzeFBZRk55XzVjdTBJN0M5akVqWkJjRTlJTHR0OEdLS3NMUzdRMmtxdk00S000SGF6NTBCUmFVeFE1MA?oc=5",
-      "source": "Sun Sentinel",
-      "published": "2026-08-25T11:20:52+00:00",
+      "title": "Ship disabled by attack in Strait of Hormuz and other news from around the Middle East - Hartford Courant",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM2FSU29HTTdvS1ZFY1Zvc0I2VXAyZFNiSjlYZXJhMnY3VG1GYi1VZzFZbWdwanlLLVV5UVFXbldCQjRlb1J3OVMyZkcyanlELXR2UW5tM3c1VnUzaDE0VDdZcFNDRmd1STFVbTNONHdQUDNjVGVzSWF6T0xWQW9ZeHlwM2oxMzVJcU9tQ2hQek5qZzF3?oc=5",
+      "source": "Hartford Courant",
+      "published": "2026-08-25T11:20:34+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Ship disabled by attack in Strait of Hormuz and other news from around the Middle East - News-Herald",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUk5HakJibHlIQjFJam14RXFibUc4V1hRakl2cldROEI3MzlEcV9SQ210YVBEWWt0eHlBdldjZ09JTXkwdHVvMDg4X3dFVVBRRWFBRDNvUlBHR0xGa2ctYlRLbkpJTUdZNkdwZWlPV3ZHSXBVLUZTWmIweXpJZkRCSmY1bFhxemdoODlwWTJyZkxFR0pTSU96c1ZR?oc=5",
-      "source": "News-Herald",
-      "published": "2026-08-25T11:20:14+00:00",
+      "title": "Ship disabled by attack in Strait of Hormuz and other news from around the Middle East - The Fort Morgan Times",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ1RVWXUwdnl6cDNaX0lPS2tyZzI2MFhSZ1ZaenNCTHJFV0lvaUd6MWNJRnpUZ09XeFozUFM0M0VFMmo1dkV3SDNoMzdiWVJRd01VeElBV1dqZFlER0pJMzVpczdSWFNkZUkwNENVaXJRczhRS0dvODluYXp5Mi1XbFpMLS1sRkl0R3dNdzBTdDh4NGhxbmNUVmlFdnVmVkU?oc=5",
+      "source": "The Fort Morgan Times",
+      "published": "2026-08-25T11:20:20+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Ship disabled by attack in Strait of Hormuz and other news f... - seMissourian",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT2xDeDVPZXRDZFlQaE5YNmpibEFPWTZRbFh5ZkU0dFlETTFJT19UMUZEd3RsY0x3VXlnWnotLUlMNlVEaFlCTU9XTVNucFh2ZVNWeWI0U0FGU0p4QVNfWDBFaE1uSVJpX1NXNTU0WEV4TV93ZEtMWEdzdG50dVNUU0x3eWF1QWRtai1mQWtac0U4c0tycHliNUlKTEFiUThwczB4TlpZN3pOSm5tQzFSOThiU2FrU3J2dWVqTDdnZGJzbEo2VDZCQ21sOA?oc=5",
-      "source": "seMissourian",
-      "published": "2026-08-25T09:56:32+00:00",
+      "title": "Ship disabled by attack in Strait of Hormuz and other news from around the Middle East - Orlando Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVHZ2TTdZcjVtd2tNUEhvWnNjS2l5NDhYU2NmeFZuYVJUR2JiTm5RQ2JiQjgwRGpOc04zSkNBOE1UdENld0tjOWZ0WW16R0txSENtVGFsN2RQX1FmUUhUU3JSZGZMWmJXMDY4Wnk3bjZ4SS1BTUN5bFlPanBIT2tzSEYta3VjWUxrZTBxSTFNWjNQMVZ6bXFvUkxYX1BHVjA?oc=5",
+      "source": "Orlando Sentinel",
+      "published": "2026-08-25T11:20:09+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Ship disabled by attack in Strait of Hormuz and other news from around the Middle East - Bozeman Daily Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQOTdDMzNvTjN2YUV3VTM2R2t6V1l3Y2ZkYWNxbFpFSk5TVHhFek1SUGhZRDRHOTE5eXJLdTZfQjJSRFM2OEFocEhkNHNSWEJ0SDQ3MzdnX25hVF9OSmxhbmZzcXc2WVQ2UnBVUGE0Xy1ubU0yUGlDY2hFMjNjc3RpNFNHZExGUWZvZ0Q5d1kyWlA1MDl4TEI4S0hCZXlKQnJKUTliaVRkcWN0WjJzWUVvM2xJVUU1eHBCUXRYMDFLTThCTHlWdlRIS000dWhJTmxhUnc2ekE4SlJYSm9vZnlhSE9SQ29ZUml3aHp3MEVqRGFWWlI0amQ2Y2p0aXk3M0lIbFUzczNvdTB0QkU?oc=5",
-      "source": "Bozeman Daily Chronicle",
-      "published": "2026-08-25T09:46:16+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Ship disabled by attack in Strait of Hormuz and other news from around the Middle East - WGAU Radio | Athens, GA",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2FWT25odDFXNWRmNmRkYm01NGVWWEQxMGpmMDkxazhMekI2bVFoTlJ5c0pFMzJoelNjSTFKQkZocGpsbTlHUEd5N2xxRmtYLXNiWGVzYThMb2EwTEk1TXZBZVNsdEdSbDJFb2p5dUpvQ2I0dG0xbFh4NW1LbTg0WHpoVHVhUHNsQnM3UDJKb21xMkRJNGMyN1RiWVbSAZwBQVVfeXFMUF9hVk9uaHQxVzVkZjZkZGJtNTRlVlhEMTBqZjA5MWs4THpCNm1RaE5SeXNKRTMyaHpTY0kxSkJGaHBqbG05R1BHeTdscUZrWC1zYlhlc2E4TG9hMExJNU12QWVTbHRHUmwyRW9qeXVKb0NiNHRtMWxYeDVtS204NFh6aFR1YVBzbEJzN1AySm9tcTJESTRjMjdUYllW?oc=5",
-      "source": "WGAU Radio | Athens, GA",
-      "published": "2026-08-25T09:46:16+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Ship disabled by attack in Strait of Hormuz and other news from around the Middle East | World News | 2news.com - KTVN",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPVWxUd19acTJhT3c5cm1mcjN0MmFrYnIwN3p4S1MtMlFfRTBqcUtGRVU0VTM2ZEw3TlhvWGtNZ2V0bTVjYlhoenJQWGY5eDJLRDcyVklTY25rMEZPTmZJV0w2QzI3ZV9YY09zaF9uMlNxbnVQMG9wTWlqU0tmZFZqWUFqOWZVaTdwa2J2b2ZmMXdPQ19Xd1FSTTlBMHFoa0EzTzRlamItUEE2eHh1MG1HRS1tMi1NN05xNDlOb3dqTU1US2pUU3Jqek5fUnlCcTctc0VSVjRDX2c2YzVUZ2dUSExKbzMzRmV4WDlPVHY5ZWw0dlpQ?oc=5",
-      "source": "KTVN",
-      "published": "2026-08-25T09:46:16+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Ship disabled by attack in Strait of Hormuz and other news from around the Middle East - AP News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc2ZVY3Y2dXJDajgxb0R0RDNXVTQwWXFQLTltbDJVWUpaanVwZ0lHSzRzQ0VIekg0NkFNZG5UVHVCX0ZOWV9lWThtbnhyV3pSWUxmeEZqR1BTU1YtR2paS0hhajBWQ0tVdHU5Njg5aklzUG1xNDNsaU5VYkJNZlZIbzVXVmZyMmkyYVRBclRKZ1k0dnFrSXJMNzJfVkpfOWhTRTZIOTgwWDRPalBlM1R4LXZFWlU?oc=5",
-      "source": "AP News",
-      "published": "2026-08-25T09:46:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Yemen\u2019s Houthis report attack on Saudi oil tanker in Red Sea - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdkNmMGllenFfdWxNVTJYWTF5b3h1Y3lVSmlhSmEwUHZjUC1jRTVQRUZCZ1p2SDFaaWZSRTdVOHNta2JwaFpTSjZyUHgzVUJ4WDdHUjJYeGdXR3Vycm1sdnRjSmdUdmwxQjVuU0tLTURmWXU4S2RRWmlVc3FfNTBzajUwQ0tNX1Z1WWZ30gGQAUFVX3lxTE9nNGYwUkF5QTdrZmVZSnEzSUdXLUt0YURGSFRiTXNQcHZEUXlkemFzTFBxX3JXRzRwQmViNHJJZjdvR0dyNFdvd3piWlpmbVZhNzVaZ1BUTUVUckNmNVpYeW9SQVA4eGtIZHcxc0xiRXMyeGhaOFgwbC1TUG9kX1VaNWU1MTFwbUQ1dFZFVE0ydA?oc=5",
-      "source": "Al Jazeera",
-      "published": "2026-08-25T08:01:38+00:00",
+      "title": "Ship disabled by attack in Strait of Hormuz and other news from around the Middle East - The Press Democrat",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYXU3WjBwNXIzbEhzU3NTRHNFYzdVemN6TnRORmg0eVF6QnZtYlNQUWYzQTBVUVNOQ0EyYnhrTFJkMXZXd2Fhd3BIWTY1Unh5ZjNsYlJQQ0JKcldlXzVDRXlpSXVaUlNFM2d1bU51bzhvcnJOX3Byenl4M0xaNWpGOFFSdkNNU2IzMWFPOGpxM2hNNXVUcHNJLXQtSnc?oc=5",
+      "source": "The Press Democrat",
+      "published": "2026-08-25T11:20:06+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -129,7 +129,7 @@
     }
   ],
   "brent": {
-    "price": 88.08,
-    "change_pct": -2.72
+    "price": 88.09,
+    "change_pct": -2.71
   }
 }
