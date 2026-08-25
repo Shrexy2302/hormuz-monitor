@@ -1,17 +1,17 @@
 {
   "status": "ELEVATED",
   "label": "Elevated tension",
-  "tension_index": 46.8,
+  "tension_index": 57.5,
   "closure_signals": 0,
-  "articles_scanned": 224,
-  "updated": "2026-08-25T11:53:32.310635+00:00",
+  "articles_scanned": 223,
+  "updated": "2026-08-25T12:33:56.887341+00:00",
   "headlines": [
     {
       "title": "US targets mine-laying vessels in the Strait of Hormuz amid blockade disrupting global oil markets - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzRPSjlIQTd4QndKdm9CUHk1ZWxIaktfOERjc1A3VHpYMHV0Z1Zkd3dGNURqMFJFR3l4LXo3OU5scG96QXhMd0F5TGthdlVzbmg0QVVHbnktU096TkFWUnc5QU9UV0xvTk1jbDY3eGFJaWZXN19UOEJvbTF6eFdFcW13cWxwdWRDVzU1OEl6c2ctT3ltYVJZN0d1a3hvQdIBowFBVV95cUxPUktnalZhVFFxNkhBTHFVS0tOSVBzVE5rZWFhcHhQUVk5dnlocFVZQWdNeHlNQ2pwY0ctTHp6dkQ1WFh1djJsUkQxZ3RZR3NkbVVJOWNCNTFqdFl5eUpMc044SVlwQVMyeldla2VYZ2FxVG5ud1RvTVlKNVc1d0FMNjZSemNubmdydW5BRE1peGVjdmJNSFF5QVZ2OGtNMTVHY09B?oc=5",
       "source": "ABC News - Breaking News, Latest News and Videos",
       "published": "2026-08-22T20:41:02+00:00",
-      "score": 4.69,
+      "score": 4.67,
       "tags": [
         "closure"
       ]
@@ -21,10 +21,60 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NUXVITkFVd1RiLXY1Wkg3NXVRZWhTandQVzd3NkVSeV94V0syUjZiWnVBd1I5SndyUWxqZ2MwRUFSLVVvN3FHaE1ueGU0TGsxQlE?oc=5",
       "source": "Iran International",
       "published": "2026-08-22T20:19:13+00:00",
-      "score": 4.68,
+      "score": 4.66,
       "tags": [
         "calm",
         "closure"
+      ]
+    },
+    {
+      "title": "Greek-owned tanker struck in Hormuz strait; crew reported safe - eKathimerini.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMUZaNm9CTkNEWXdIR2UzTnlkcFZIUVJ4eldFa213Y2hkaFgtNnZGX2UxQlUteUR5VmpHTGFtMGFGMml3eEFra1Y5N0pWd0V2SDRuYlZobmFtMl94WThUWVc2eHVlX2diblk0cy14MkV2QXQ5SU0wWDNfU3pQbzZQOHZJSDFQbHFYbHlDZ0JnQUVud1lPdmdIQmNRd001YkJQd1JkajVzMmRaWDJuQ1RqQ0pFTW5ycEluUDZZVF85bGI?oc=5",
+      "source": "eKathimerini.com",
+      "published": "2026-08-25T11:22:41+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Ship disabled by attack in Strait of Hormuz and other news from around the Middle East - Canon City Daily Record",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaXZ4NnVZMjZIZjhmaWdGa2ZLUkNBbFdtbU9ac3c4Q3Ytd0ZyUTNXS2dzSVotOV9lVm5BbWxtdWdmcGNVeTJYVHpuQ1NJRjlod2lROWtqNFVvekpZeGFOVS1lMkxVSkdYSmoyZThnZXJIMXhNZHFHaHhKc0xZMDBINHhwZmp4SFhuVnJ1b2xCUkpMc1A2UHR4U3R2MERvR2RBazAyUjV3?oc=5",
+      "source": "Canon City Daily Record",
+      "published": "2026-08-25T11:21:07+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Ship disabled by attack in Strait of Hormuz and other news from around the Middle East - Sun Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSkYyUDdFTUE0ckZzQ0ktWkk5anlDLXQ5b2pmMGZBU0ZjdnAzS0NxMzlnd2ttZ0RKaXF4LUdZYzlxXzF4MDZPak1ybEwyWEp5ZWVUUV92dlZjUTIzeThuSHJzeFBZRk55XzVjdTBJN0M5akVqWkJjRTlJTHR0OEdLS3NMUzdRMmtxdk00S000SGF6NTBCUmFVeFE1MA?oc=5",
+      "source": "Sun Sentinel",
+      "published": "2026-08-25T11:20:52+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Ship disabled by attack in Strait of Hormuz and other news from around the Middle East - News-Herald",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUk5HakJibHlIQjFJam14RXFibUc4V1hRakl2cldROEI3MzlEcV9SQ210YVBEWWt0eHlBdldjZ09JTXkwdHVvMDg4X3dFVVBRRWFBRDNvUlBHR0xGa2ctYlRLbkpJTUdZNkdwZWlPV3ZHSXBVLUZTWmIweXpJZkRCSmY1bFhxemdoODlwWTJyZkxFR0pTSU96c1ZR?oc=5",
+      "source": "News-Herald",
+      "published": "2026-08-25T11:20:14+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Ship disabled by attack in Strait of Hormuz and other news f... - seMissourian",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT2xDeDVPZXRDZFlQaE5YNmpibEFPWTZRbFh5ZkU0dFlETTFJT19UMUZEd3RsY0x3VXlnWnotLUlMNlVEaFlCTU9XTVNucFh2ZVNWeWI0U0FGU0p4QVNfWDBFaE1uSVJpX1NXNTU0WEV4TV93ZEtMWEdzdG50dVNUU0x3eWF1QWRtai1mQWtac0U4c0tycHliNUlKTEFiUThwczB4TlpZN3pOSm5tQzFSOThiU2FrU3J2dWVqTDdnZGJzbEo2VDZCQ21sOA?oc=5",
+      "source": "seMissourian",
+      "published": "2026-08-25T09:56:32+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
       ]
     },
     {
@@ -38,9 +88,9 @@
       ]
     },
     {
-      "title": "Ship disabled by attack in Strait of Hormuz and other news from around the Middle East - WSB-TV",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM2FSZkNsNXUzb1M5RFhSQzYwcU40RU1TUjc3dXlkdkV4aTEwZUZGM1RQakgyV205bXR6YUlVSDFFUC1HcGxQbkNpeWtzSUZwREl0eFJ5NkRDYXpud25SRUZQbjZ2VnV2REdTQXAzeFgyZWJPUlhSc3ZjQUpqalBtSllkOENnWENZNkhrOE84T3dTTW9EbWVF0gGXAUFVX3lxTFAzYVJmQ2w1dTNvUzlEWFJDNjBxTjRFTVNSNzd1eWR2RXhpMTBlRkYzVFBqSDJXbTltdHphSVVIMUVQLUdwbFBuQ2l5a3NJRnBESXR4Unk2RENhem53blJFRlBuNnZWdXZER1NBcDN4WDJlYk9SWFJzdmNBSmpqUG1KWWQ4Q2dYQ1k2SGs4TzhPd1NNb0RtZUU?oc=5",
-      "source": "WSB-TV",
+      "title": "Ship disabled by attack in Strait of Hormuz and other news from around the Middle East - WGAU Radio | Athens, GA",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2FWT25odDFXNWRmNmRkYm01NGVWWEQxMGpmMDkxazhMekI2bVFoTlJ5c0pFMzJoelNjSTFKQkZocGpsbTlHUEd5N2xxRmtYLXNiWGVzYThMb2EwTEk1TXZBZVNsdEdSbDJFb2p5dUpvQ2I0dG0xbFh4NW1LbTg0WHpoVHVhUHNsQnM3UDJKb21xMkRJNGMyN1RiWVbSAZwBQVVfeXFMUF9hVk9uaHQxVzVkZjZkZGJtNTRlVlhEMTBqZjA5MWs4THpCNm1RaE5SeXNKRTMyaHpTY0kxSkJGaHBqbG05R1BHeTdscUZrWC1zYlhlc2E4TG9hMExJNU12QWVTbHRHUmwyRW9qeXVKb0NiNHRtMWxYeDVtS204NFh6aFR1YVBzbEJzN1AySm9tcTJESTRjMjdUYllW?oc=5",
+      "source": "WGAU Radio | Athens, GA",
       "published": "2026-08-25T09:46:16+00:00",
       "score": 3.0,
       "tags": [
@@ -75,56 +125,6 @@
       "score": 3.0,
       "tags": [
         "tension"
-      ]
-    },
-    {
-      "title": "Tanker disabled in Strait of Hormuz attack - Seatrade Maritime News",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbDI5aVNpbzRzbXBBc0tsZFpyWkM5b0xwYlJnM0RhWWdTNHpnMEdZVWtWcm15MXF4SGpLV3VsNlhqcGNaaHhqSVg5UERCRkNiaXNFRFpXSWh6VVRlZzVqTUU4RmRRU1JSdXZPVmpDNml5QXp6Y0ROck93bVNTWXIxUWdUc1M4QmlWY2llU0hn?oc=5",
-      "source": "Seatrade Maritime News",
-      "published": "2026-08-25T06:09:58+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Projectile strikes, disables tanker near Strait of Hormuz - upi.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLUFYakxBZUI5OWNmRXRBMGk2aTZsdHpCOTFWSWpfWFVZVEpKcHY2cE9KV210QzZDeXpibGJJbFJzWWI1Z0lWdjlvMHJEbndpT1FhUFJLalEwdC13RGVyU0RSSGNZVlZrVnpTZmJZWW1SMDV5YWVXaUstMW1NdDZ5WVlqR2VWXzlQTnFfSGk4SVFUZnkxZ09weNIBngFBVV95cUxQckhFdFAtMGdJOV9PRTh6XzNBUldVaVVabEVCSVY5a0VwXzJsMURaUjVVN094WlRxWjczbU5kS0ctcmFqSEpUd1VXUTlPNDZQM1BGb1U0RGxqZFFzYlRaQmlfLXJubk1zUTVNN0FPNTdhTG9iUkc2WVZBa2pJbDhYcUk1M0x6b25aZVduTjAyQ2llWmw5OU5CYTVvLTZBdw?oc=5",
-      "source": "upi.com",
-      "published": "2026-08-25T03:44:50+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Daily vessel traffic through the Strait of Hormuz halved, while crude oil weekly charts closed positively across the board; what do cross-market spreads reveal? - Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS1dEY0pvaGNEVEMyTGdTaGl5UmZBY1hJQms3SGF2cmVoRWwzSFZZUnZRR1BEVWg1SmJReV9WcEpTN0szcHgwU18ta1MzV0RoNV94NVB2RDhHQmI2NTBRSGlYQUpkUzJvUFQ4elAtb3lZcmpHeUpGa0xBU2JSWG80bnZ2S2dOczZZRzNYQmhrVlFGRkVrbVVTbllGdlFQUTlPUEV6Uy1qRQ?oc=5",
-      "source": "Moomoo",
-      "published": "2026-08-22T06:06:09+00:00",
-      "score": 2.1,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Oil tankers going dark to evade Iranian attacks raises major oil spill risk in Gulf - report - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VY1NyRWF1ejhQaG5Gck9KTjYzazVSdFdiaHY4QTVrWXdVeFhGaUl4QUZwam9ZY0pOMm5zZHpOTF9nVXlXOGdQN3hDM2JkMU9lMmxfMkNvWmtRZVVp?oc=5",
-      "source": "The Jerusalem Post",
-      "published": "2026-08-22T00:56:49+00:00",
-      "score": 2.02,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran closes Strait of Hormuz as diesel prices surge to $5.46 a gallon across the United States - Scripps News",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMHlNQmFIblRjVl9XU0xrb29xVzhrTzBRZm5hSjZqMUhiVHh1ZFh6TFVYZ1J6MnB6VlR5UjZCTjhJTDRubUZURXU0bllvQVpVcEdWa3NpM1Ezdk5JaVhfSzVzLU53cXJfT0FvQTEzNFg1LU9xU3k4R2ZMTWl3cUF6eEpnZ0NHTkpzR2dxNkt6SUNjSHRSN2FGTzVGRXFjMGxRRklUNk01RzlnM2pWWC11VkZ5VndrektYelQyRGxTUk52Q0tZR0JKN1NtQ2hhMHRnazFVYw?oc=5",
-      "source": "Scripps News",
-      "published": "2026-08-18T12:44:27+00:00",
-      "score": 1.64,
-      "tags": [
-        "closure"
       ]
     }
   ],
