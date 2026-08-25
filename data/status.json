@@ -1,17 +1,27 @@
 {
   "status": "ELEVATED",
   "label": "Elevated tension",
-  "tension_index": 33.1,
+  "tension_index": 39.1,
   "closure_signals": 0,
-  "articles_scanned": 223,
-  "updated": "2026-08-25T07:37:54.936754+00:00",
+  "articles_scanned": 225,
+  "updated": "2026-08-25T08:33:38.564324+00:00",
   "headlines": [
+    {
+      "title": "Tehran threatens to close the Strait of Hormuz to oil and warns neighboring countries of 'economic warfare' - \u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0642\u062f\u0633",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbWtqc3kzTVAxNnZ1M2pfaDJYdTQ3NEc1Q0g3ZkdfT2Y3YWNNMmQ5bGdHb2RWYnNhVllIci1ZeG1qMjVOTkJjcWFQUjRVWTRmbzRCZGh5WlJJSG9nQ2RSa1hJLXF3SHFIc1djTkV4Q2xXODNYUkFzSy1ZUEItSy0xSG11VndhWW9EYk5FSGdtMU1RUE5OcGE2Y2R0TENJMmhkN2FMLUpLQ21oX2hHeEhJ?oc=5",
+      "source": "\u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0642\u062f\u0633",
+      "published": "2026-08-23T05:08:18+00:00",
+      "score": 5.09,
+      "tags": [
+        "tension"
+      ]
+    },
     {
       "title": "US targets mine-laying vessels in the Strait of Hormuz amid blockade disrupting global oil markets - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzRPSjlIQTd4QndKdm9CUHk1ZWxIaktfOERjc1A3VHpYMHV0Z1Zkd3dGNURqMFJFR3l4LXo3OU5scG96QXhMd0F5TGthdlVzbmg0QVVHbnktU096TkFWUnc5QU9UV0xvTk1jbDY3eGFJaWZXN19UOEJvbTF6eFdFcW13cWxwdWRDVzU1OEl6c2ctT3ltYVJZN0d1a3hvQdIBowFBVV95cUxPUktnalZhVFFxNkhBTHFVS0tOSVBzVE5rZWFhcHhQUVk5dnlocFVZQWdNeHlNQ2pwY0ctTHp6dkQ1WFh1djJsUkQxZ3RZR3NkbVVJOWNCNTFqdFl5eUpMc044SVlwQVMyeldla2VYZ2FxVG5ud1RvTVlKNVc1d0FMNjZSemNubmdydW5BRE1peGVjdmJNSFF5QVZ2OGtNMTVHY09B?oc=5",
       "source": "ABC News - Breaking News, Latest News and Videos",
       "published": "2026-08-22T20:41:02+00:00",
-      "score": 4.84,
+      "score": 4.8,
       "tags": [
         "closure"
       ]
@@ -21,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NUXVITkFVd1RiLXY1Wkg3NXVRZWhTandQVzd3NkVSeV94V0syUjZiWnVBd1I5SndyUWxqZ2MwRUFSLVVvN3FHaE1ueGU0TGsxQlE?oc=5",
       "source": "Iran International",
       "published": "2026-08-22T20:19:13+00:00",
-      "score": 4.82,
+      "score": 4.79,
       "tags": [
         "calm",
         "closure"
@@ -62,7 +72,7 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS1dEY0pvaGNEVEMyTGdTaGl5UmZBY1hJQms3SGF2cmVoRWwzSFZZUnZRR1BEVWg1SmJReV9WcEpTN0szcHgwU18ta1MzV0RoNV94NVB2RDhHQmI2NTBRSGlYQUpkUzJvUFQ4elAtb3lZcmpHeUpGa0xBU2JSWG80bnZ2S2dOczZZRzNYQmhrVlFGRkVrbVVTbllGdlFQUTlPUEV6Uy1qRQ?oc=5",
       "source": "Moomoo",
       "published": "2026-08-22T06:06:09+00:00",
-      "score": 2.17,
+      "score": 2.16,
       "tags": [
         "tension"
       ]
@@ -72,7 +82,7 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VY1NyRWF1ejhQaG5Gck9KTjYzazVSdFdiaHY4QTVrWXdVeFhGaUl4QUZwam9ZY0pOMm5zZHpOTF9nVXlXOGdQN3hDM2JkMU9lMmxfMkNvWmtRZVVp?oc=5",
       "source": "The Jerusalem Post",
       "published": "2026-08-22T00:56:49+00:00",
-      "score": 2.09,
+      "score": 2.07,
       "tags": [
         "tension"
       ]
@@ -82,7 +92,7 @@
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMHlNQmFIblRjVl9XU0xrb29xVzhrTzBRZm5hSjZqMUhiVHh1ZFh6TFVYZ1J6MnB6VlR5UjZCTjhJTDRubUZURXU0bllvQVpVcEdWa3NpM1Ezdk5JaVhfSzVzLU53cXJfT0FvQTEzNFg1LU9xU3k4R2ZMTWl3cUF6eEpnZ0NHTkpzR2dxNkt6SUNjSHRSN2FGTzVGRXFjMGxRRklUNk01RzlnM2pWWC11VkZ5VndrektYelQyRGxTUk52Q0tZR0JKN1NtQ2hhMHRnazFVYw?oc=5",
       "source": "Scripps News",
       "published": "2026-08-18T12:16:07+00:00",
-      "score": 1.81,
+      "score": 1.76,
       "tags": [
         "closure"
       ]
@@ -92,7 +102,7 @@
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQktYX0J0R2hzNlc5bXNxTEp2QlNHeDdvQUIwYnk4dVJZdmpEeEJoTERxUXJ6ZVFlV1pZTFV0VlZEeHpqUHNpQ0lJZ2wySzUzMzNabWxKX0VDZGFVNjhRd29IeEZPVWctdGw2RWhWcXNjUVFJWHJiS2swYTVmYWpjNWxsY28yVEh1dU1uRFB1c0Y4cnFMRWpHMXpMWVpVenZTY2IxYzhObGRqWlVhM2RIS0lZVkxzNHhhNlZnUXJmZFpXN0pQVktjWHdkQ1JwWldWQVZZRVAtelBWaHc?oc=5",
       "source": "New York Post",
       "published": "2026-08-18T15:15:47+00:00",
-      "score": 1.45,
+      "score": 1.42,
       "tags": [
         "closure"
       ]
@@ -102,7 +112,7 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeERXT2lUdlNjVkx4OHlMaU10bU9tOUpYbmJlMmtUcnNBbzZqSEl0RUVYZkFMaDZDQ2l3M2VGR294dXhzWWtiNkJGYWRxZUFaUFVfdGpfbGJrdHllMm9oWXRDMHdLWGtmc0ZDWlhaaHE4U2ozcTNESnZWQ3pMeGNRREZOX2o0N21ndlhLODAwRU5MR2JsNlJoaUpKNkNHUzdD0gGmAUFVX3lxTFBrcnFDVTNGRjg3X1NDUzRqMjZiV1NacXR4alFCdlVldU5EVktiQVhtSm0tMTlOQV8tQ0lSYjFiaFFfbnRlam1FOE9vcExLeVppbF84N0ZZdkJFVk00NWpKSERIeGJCMldNQVoxckVzRVJueG9ybE9zWjJ0N2RyaGs3YWU1QjhYcG5QZ3lJRVdESmk5U3AwZC1IOHc0ZnFGQ1o1WS1vTVE?oc=5",
       "source": "ABC News - Breaking News, Latest News and Videos",
       "published": "2026-08-20T00:57:09+00:00",
-      "score": 1.29,
+      "score": 1.27,
       "tags": [
         "tension"
       ]
@@ -112,24 +122,14 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZjBPS2tQOHh0MmllNHpSdGhvaXUzcUhaVGFGQnBkNXVsZzIyWHhvS3cwTEVBUEVJUHVJTXRFVkFLT05ZRHlrbFhfY1VFWi1TSjNpclN0T0NLWjh1QTM0OGxzSUVDcjY3OUY0UFB1OVhnYTVMZ210OUtFbGFMeVZXS0cxZEc1R3FjZDRhd1VIQkNERjIzN3JGZW9iWm12SFJNclBqM3kxRC1IVUHSAbABQVVfeXFMTW5LbDE4SkFPWGNfU3p3ZmlBNkJFZ3paUUlQR3lldkQzTDJ0RUlpM1lDYThUX2NQWmZ5Y2tZeFVJR0JFdG9BLTFBTnRpM2xoMUZIT3U4N00zR2NPZk1qM2p5cW9YV3VKUEpHaUZzTmNJdGVSN0dRWGRCMlU3bXp4dGpBUXpDam1ZUXA3X3IwTVp1MWJIN214V2k2eVNvZ0gySzZKN2JFYUhFWmtibjVEdDk?oc=5",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "published": "2026-08-19T09:30:00+00:00",
-      "score": 1.03,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Oil prices spike after ships in Strait of Hormuz hit by fresh strikes - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPalprM01sZ3lXSzZEUGthcmJrU3VKNFBHcVA2TTdVZlVKMElqeE5xa3B4M0UtajRvSHMxSXpfd193S1MtdWpfTWlLZDA1cXhETXZ5TmR4LVdQU3BuT0VmUEV0NDlOUThESE82MWRJR1ZLTTJBcEdsajAxUHFOczNxM2RIeXZaVEN2RHcyVW5hSzRfcVRGUnJFQlRJTERpLTQ?oc=5",
-      "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-      "published": "2026-08-19T08:28:18+00:00",
-      "score": 1.01,
+      "score": 1.02,
       "tags": [
         "tension"
       ]
     }
   ],
   "brent": {
-    "price": 91.57,
-    "change_pct": -0.65
+    "price": 89.88,
+    "change_pct": -0.73
   }
 }
