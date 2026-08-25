@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 133.9,
+  "tension_index": 128.0,
   "closure_signals": 8,
-  "articles_scanned": 224,
-  "updated": "2026-08-25T21:20:19.898422+00:00",
+  "articles_scanned": 225,
+  "updated": "2026-08-25T21:50:49.311085+00:00",
   "headlines": [
     {
       "title": "Trump says US Navy has cleared all mines from Strait of Hormuz - T\u00fcrkiye Today",
@@ -91,7 +91,7 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NUXVITkFVd1RiLXY1Wkg3NXVRZWhTandQVzd3NkVSeV94V0syUjZiWnVBd1I5SndyUWxqZ2MwRUFSLVVvN3FHaE1ueGU0TGsxQlE?oc=5",
       "source": "Iran International",
       "published": "2026-08-22T20:19:13+00:00",
-      "score": 4.37,
+      "score": 4.35,
       "tags": [
         "calm",
         "closure"
@@ -130,6 +130,6 @@
   ],
   "brent": {
     "price": 85.86,
-    "change_pct": -5.17
+    "change_pct": -1.62
   }
 }
