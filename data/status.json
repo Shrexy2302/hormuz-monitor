@@ -1,15 +1,15 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 111.4,
-  "closure_signals": 14,
-  "articles_scanned": 224,
-  "updated": "2026-08-26T07:42:07.855215+00:00",
+  "tension_index": 93.8,
+  "closure_signals": 13,
+  "articles_scanned": 225,
+  "updated": "2026-08-26T08:34:47.713302+00:00",
   "headlines": [
     {
-      "title": "Trump Announces Mines Cleared From Strait Of Hormuz - News Radio 1190 KEX",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOWtOSHRRQVZCUDFyNHVlZHFzMmtQNzJueGtIRmk0eFdKNF9QQ0k3cXBMc3JELTBrRUZZNWFMSUhXVnBaazJLWThWZ0JYelNWcnZqQi1BWWxud2FZUVlHWnlrTWwtSjg0VkFPbWMtV1J0MkRrYUtQNWRKWmtmbVFRTGxrdGoteU01VE42NnpETm1CT2o0eDVGRDlILVU5ZGs?oc=5",
-      "source": "News Radio 1190 KEX",
+      "title": "Trump Announces Mines Cleared From Strait Of Hormuz - NewsRadio 570 WKBN",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeEdGb1pJZ2lTT29CMzVPa1VHQW5qXzRKdWRISHRZZHhGb1RZMWdlNmJvbVpBTXFDeXNMMjRLbDJtcHplNXhxYkpaLTJsLWN2SkRmVENjTTVxdE01eHFPNjd3UktWampaVXlZSml4cDM5Q1JEenI5aEl6SWNFeW9LR0M2aFVVaWgzXzBlVFk2Z3g0VGdHLVJzbmE3OGpXNHc?oc=5",
+      "source": "NewsRadio 570 WKBN",
       "published": "2026-08-26T06:20:00+00:00",
       "score": 6.0,
       "tags": [
@@ -17,9 +17,9 @@
       ]
     },
     {
-      "title": "Trump Announces Mines Cleared From Strait Of Hormuz - NewsRadio 1000 KTOK",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTk5zVmlES2dycGNNZFkzRS1pbEdXd3Y5dDNEdnU1WmlCTTJ4czV4cFRuRkMyZjFEVWJUVUxBUXRFMHUyZm04b25EZXI0aTlhVlg5XzNmZnA3Q1F1bXRpOGlnZ21PSVhxazNhVV9xeWdUTVc2QUtDajlNTXZmeFpVdzE0OTlTTEY0OWxKUERUN2duemhPQ0IydXJnQQ?oc=5",
-      "source": "NewsRadio 1000 KTOK",
+      "title": "Trump Announces Mines Cleared From Strait Of Hormuz - 1150 WIMA",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY3lJRC1mR2g4Vk5SS1llaEhoR2FRbjVDeHA1Qkk0XzJ1cjZfdTJ5dUdGMk1NZENrRGU1eHRUaWdkMFpCck9VOE0wNFlZSTA3SlQzUXhHVGdiWkh4c2dVdlVyT3hxS1pSM1VnbTd5c2VsUzRBWWdfa0E5X3JlWHdtQkxEUklhNFJ6M1NOTFdrUDAwcTgwZkszNkRnZW5LcGEz?oc=5",
+      "source": "1150 WIMA",
       "published": "2026-08-26T06:20:00+00:00",
       "score": 6.0,
       "tags": [
@@ -27,9 +27,9 @@
       ]
     },
     {
-      "title": "Trump Announces Mines Cleared From Strait Of Hormuz - WIOD",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZWNnbmFsbDdYUnlCNzMwVDAzZHhOWHVHV2pycjQzT2RoZnRhdGtpa3E3a1k3eWEtMnZyOWIwWWFMMjNDaWZXeDNUSFA4TXZReFdoMENabFhXQ3M1WFRGOUpSdTdkYmZ2OFY2NWxZcndEUG5hYjN4MVJoZzRZV3Rzcm5VYXZWRVZDdUZNRm5lZVc2THNUa3Bvc1RGUQ?oc=5",
-      "source": "WIOD",
+      "title": "Trump Announces Mines Cleared From Strait Of Hormuz - Newsradio WFLA Orlando",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd210cWswalc0RkZBcDFUTHpqeW5Zd1QyOTNHdllZWXNyQmZWSFVrbWpmMUZ6WU12OWZ5ZlAtOVd3a2tlY0pST2Rwek1rdi14cWE4aEdrNTM3bXpoOUxsNkN4MkVLWEwyYVI1WVFkSDZTUVM5bVlYS2x3NzlWV3oyZGpPRlFLOU01QW5NWURPbUlUWEJId2hURTV5MkpsblZsckNITg?oc=5",
+      "source": "Newsradio WFLA Orlando",
       "published": "2026-08-26T06:20:00+00:00",
       "score": 6.0,
       "tags": [
@@ -47,20 +47,10 @@
       ]
     },
     {
-      "title": "Trump claims Strait of Hormuz is de-mined \u2014 and being watched by Space Force - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUE1UazYwMTNmZmkzYTF1VnVoaVBnSTNrMEs4M2UyYnFYcm9nczJsY2pwTXB3dlRvNWdqQ3otUVhqNmlwRVdSakhHbW45a0JWcFBpUkExdERqNExHWlZxcERzdTAtazl2QWdXOUtBeHlGTzZ2Tzd4N0d1MlRnZ1RwS2pR?oc=5",
-      "source": "AOL.com",
-      "published": "2026-08-25T23:14:14+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
       "title": "Trump: Mines fully removed from Strait of Hormuz - Axios",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9va1JQWnZ4dEZoTTQwSzhwa0E5MnpRMTBkaXp0THRHYW80cHdwMGw1RXYzYllUTzh2MmlrY1dDMjVfTEdGeUVMZmhfdHdfU3Ayc0VITm9zeGxjQUllLVhPdEZrY05LWkwxdmhPQ1FNZDE0NGt5Z1E?oc=5",
       "source": "Axios",
-      "published": "2026-08-25T20:52:56+00:00",
+      "published": "2026-08-25T23:52:46+00:00",
       "score": 6.0,
       "tags": [
         "closure"
@@ -125,10 +115,20 @@
       "tags": [
         "closure"
       ]
+    },
+    {
+      "title": "Trump says all mines cleared from Strait of Hormuz - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12aGV3aDB6R2NEeXJCUDRXNFM3OHJwVzVwUzdLUmxtSDN0dDZMRE1oQXhyb291VXJUekk5VWI4bUdlTllibjJjTmIyYXVZUHhJWTBYU0RELWV6Mm42?oc=5",
+      "source": "BBC",
+      "published": "2026-08-25T15:31:21+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
     }
   ],
   "brent": {
-    "price": 85.34,
-    "change_pct": -2.21
+    "price": 85.6,
+    "change_pct": -1.91
   }
 }
