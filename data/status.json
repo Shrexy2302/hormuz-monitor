@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 104.0,
-  "closure_signals": 14,
-  "articles_scanned": 225,
-  "updated": "2026-08-26T09:33:31.097960+00:00",
+  "tension_index": 77.0,
+  "closure_signals": 11,
+  "articles_scanned": 223,
+  "updated": "2026-08-26T10:27:42.495593+00:00",
   "headlines": [
     {
       "title": "'All mines removed from Strait of Hormuz,' Trump claims - vijesti.me",
@@ -27,16 +27,6 @@
       ]
     },
     {
-      "title": "Trump Announces Mines Cleared From Strait Of Hormuz - NewsRadio 1000 KTOK",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTk5zVmlES2dycGNNZFkzRS1pbEdXd3Y5dDNEdnU1WmlCTTJ4czV4cFRuRkMyZjFEVWJUVUxBUXRFMHUyZm04b25EZXI0aTlhVlg5XzNmZnA3Q1F1bXRpOGlnZ21PSVhxazNhVV9xeWdUTVc2QUtDajlNTXZmeFpVdzE0OTlTTEY0OWxKUERUN2duemhPQ0IydXJnQQ?oc=5",
-      "source": "NewsRadio 1000 KTOK",
-      "published": "2026-08-26T06:20:00+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
       "title": "Trump Declares Strait of Hormuz Fully Cleared of Mines - Around Prague",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXFTR1B6eVBUd1lPWVMxMldNQ3BDTTBFX3VzT25tOV9sWWsyQ3JuYzJEREV1R3F6Qm1FOGViU0Y1VGh3SzlUX2R0SDFqTnZGeVdYazV0dDBOWm9seVlTSDlOd2cwN2FGVU5RNmROS3lYTVdfMFk5aTA4R1c2TkthTklHU1FLZHlFLVJtOHNIWQ?oc=5",
       "source": "Around Prague",
@@ -51,16 +41,6 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9va1JQWnZ4dEZoTTQwSzhwa0E5MnpRMTBkaXp0THRHYW80cHdwMGw1RXYzYllUTzh2MmlrY1dDMjVfTEdGeUVMZmhfdHdfU3Ayc0VITm9zeGxjQUllLVhPdEZrY05LWkwxdmhPQ1FNZDE0NGt5Z1E?oc=5",
       "source": "Axios",
       "published": "2026-08-25T23:52:46+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Trump Says All Mines Cleared from Strait of Hormuz - Kurdistan24",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xVjU5LTN2enBCNEtQeWtXZDI1ZjFMcUhNd1oybmRMWndFSTV6S05JT3liMDhKbmxZMkZvRG1hdk1Ma2ltMVdhOXNRZTdZYU1ZbXVMQ2VB?oc=5",
-      "source": "Kurdistan24",
-      "published": "2026-08-25T20:45:00+00:00",
       "score": 6.0,
       "tags": [
         "closure"
@@ -125,10 +105,30 @@
       "tags": [
         "closure"
       ]
+    },
+    {
+      "title": "Trump Says U.S. Navy Has Cleared All Mines From Strait of Hormuz - gCaptain",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQenJkN2lSRW14UFhGbDdkTzduc05XVTZXSDd4a01OTmN5ZHNqZHBpVWhFdmZ5Nno4aVplc3UtVVFNalZYQW94dnhRbXlDYW9HWTUzZnFSUW41LUFPc2NUcG5aVWRzWlcwTzF5SW95MUg2Skd4MWdmMkFUZ3pKT0RScFFEbFZyTm52TlVxbGFn?oc=5",
+      "source": "gCaptain",
+      "published": "2026-08-25T15:17:46+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Tanker Attack and Traffic Collapse Escalate Strait of Hormuz Crisis - IranWire",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNlByejIzbUw0SVlIdUp5dmJWZF9PSllLQnVBTVN1aU1VemdXN3VSQWYwYzdQV1JHZW8zVEROV1AwbHlDa0I1Vk5tYzk4QW9FZWg1YldCS05OY3Vfd2pTR29pMkpmVmZGZ3RmRGJIWG16ZUJlbW01S1FHWlVNaWFtcHFfelF5NU9nUFRTY3Y0RVhtdmViNE80Q3A0WVZvSU8xVC1QSEt4bw?oc=5",
+      "source": "IranWire",
+      "published": "2026-08-25T12:41:22+00:00",
+      "score": 4.0,
+      "tags": [
+        "tension"
+      ]
     }
   ],
   "brent": {
-    "price": 84.78,
-    "change_pct": -2.85
+    "price": 84.88,
+    "change_pct": -2.74
   }
 }
