@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 118.9,
+  "tension_index": 114.2,
   "closure_signals": 11,
-  "articles_scanned": 228,
-  "updated": "2026-08-26T05:27:14.535577+00:00",
+  "articles_scanned": 226,
+  "updated": "2026-08-26T05:59:26.769883+00:00",
   "headlines": [
     {
       "title": "Trump Declares Strait of Hormuz Fully Cleared of Mines - Around Prague",
@@ -121,7 +121,7 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NUXVITkFVd1RiLXY1Wkg3NXVRZWhTandQVzd3NkVSeV94V0syUjZiWnVBd1I5SndyUWxqZ2MwRUFSLVVvN3FHaE1ueGU0TGsxQlE?oc=5",
       "source": "Iran International",
       "published": "2026-08-22T20:19:13+00:00",
-      "score": 4.1,
+      "score": 4.08,
       "tags": [
         "calm",
         "closure"
@@ -129,7 +129,7 @@
     }
   ],
   "brent": {
-    "price": 85.66,
-    "change_pct": -1.84
+    "price": 85.92,
+    "change_pct": -1.55
   }
 }
