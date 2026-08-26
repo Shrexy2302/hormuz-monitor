@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 49.8,
-  "closure_signals": 11,
-  "articles_scanned": 219,
-  "updated": "2026-08-26T14:37:19.909652+00:00",
+  "tension_index": 41.8,
+  "closure_signals": 10,
+  "articles_scanned": 216,
+  "updated": "2026-08-26T16:12:11.908149+00:00",
   "headlines": [
     {
       "title": "Six Months Since the Closure of the Strait of Hormuz: Sharp Decline in Navigation and Thousands of Seafarers Stranded - ShiaWaves",
@@ -101,19 +101,19 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12aGV3aDB6R2NEeXJCUDRXNFM3OHJwVzVwUzdLUmxtSDN0dDZMRE1oQXhyb291VXJUekk5VWI4bUdlTllibjJjTmIyYXVZUHhJWTBYU0RELWV6Mm42?oc=5",
       "source": "BBC",
       "published": "2026-08-25T15:31:21+00:00",
-      "score": 6.0,
+      "score": 5.98,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Trump Says U.S. Navy Has Cleared All Mines From Strait of Hormuz - gCaptain",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQenJkN2lSRW14UFhGbDdkTzduc05XVTZXSDd4a01OTmN5ZHNqZHBpVWhFdmZ5Nno4aVplc3UtVVFNalZYQW94dnhRbXlDYW9HWTUzZnFSUW41LUFPc2NUcG5aVWRzWlcwTzF5SW95MUg2Skd4MWdmMkFUZ3pKT0RScFFEbFZyTm52TlVxbGFn?oc=5",
-      "source": "gCaptain",
-      "published": "2026-08-25T15:17:46+00:00",
-      "score": 6.0,
+      "title": "US-Iran Conflict: Former IRGC commander: US sanctions may lead to complete closure of Strait of Hormuz - news.cgtn.com",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MTWtKUXE0NGxDTUhVQ1VMZ0FqOUJfbmpTNEx3RVFFUFU2TkZZNlZHUTdiTWJPM0JQZm9mX3htSHM0QVNCRWtab1Nsbm5YbS1wT0FWMXlCVFIydTRCbW1NanZMNVloQzVqdm1CSy1XNE9oRmRJODRMaQ?oc=5",
+      "source": "news.cgtn.com",
+      "published": "2026-08-26T14:01:15+00:00",
+      "score": 3.0,
       "tags": [
-        "closure"
+        "tension"
       ]
     },
     {
@@ -128,7 +128,7 @@
     }
   ],
   "brent": {
-    "price": 86.41,
-    "change_pct": -0.99
+    "price": 87.78,
+    "change_pct": 0.58
   }
 }
