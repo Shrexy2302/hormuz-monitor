@@ -1,16 +1,56 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 130.0,
-  "closure_signals": 7,
-  "articles_scanned": 224,
-  "updated": "2026-08-26T00:53:33.442358+00:00",
+  "tension_index": 143.3,
+  "closure_signals": 11,
+  "articles_scanned": 226,
+  "updated": "2026-08-26T02:21:34.979045+00:00",
   "headlines": [
+    {
+      "title": "Trump Declares Strait of Hormuz Fully Cleared of Mines - Around Prague",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXFTR1B6eVBUd1lPWVMxMldNQ3BDTTBFX3VzT25tOV9sWWsyQ3JuYzJEREV1R3F6Qm1FOGViU0Y1VGh3SzlUX2R0SDFqTnZGeVdYazV0dDBOWm9seVlTSDlOd2cwN2FGVU5RNmROS3lYTVdfMFk5aTA4R1c2TkthTklHU1FLZHlFLVJtOHNIWQ?oc=5",
+      "source": "Around Prague",
+      "published": "2026-08-26T00:07:36+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Trump claims Strait of Hormuz is de-mined \u2014 and being watched by Space Force - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUE1UazYwMTNmZmkzYTF1VnVoaVBnSTNrMEs4M2UyYnFYcm9nczJsY2pwTXB3dlRvNWdqQ3otUVhqNmlwRVdSakhHbW45a0JWcFBpUkExdERqNExHWlZxcERzdTAtazl2QWdXOUtBeHlGTzZ2Tzd4N0d1MlRnZ1RwS2pR?oc=5",
+      "source": "AOL.com",
+      "published": "2026-08-25T23:14:14+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Trump Says All Mines Cleared from Strait of Hormuz - Kurdistan24",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xVjU5LTN2enBCNEtQeWtXZDI1ZjFMcUhNd1oybmRMWndFSTV6S05JT3liMDhKbmxZMkZvRG1hdk1Ma2ltMVdhOXNRZTdZYU1ZbXVMQ2VB?oc=5",
+      "source": "Kurdistan24",
+      "published": "2026-08-25T20:45:00+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
     {
       "title": "Trump says US Navy has cleared all mines from Strait of Hormuz - T\u00fcrkiye Today",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZmlCaG02cm5IRVFSWC1uWUgzM1pvd2dmVmJfQk9TNWxRcEJKaWJVcmdueHA1SGlxU0FWX3doak93bXNKdmdjb2tuMDVCRVdOdklxM1hjN0ptbGwySGszdnBqbjZfZjJXcTE3S3pyZE9sTGFYQkdaYUVqOVB1TElibkU4T2RyUmU3OUV2dVpWbVJzbGR1MENBbUlPTmJhbXhPVUROTFFicUFSZw?oc=5",
       "source": "T\u00fcrkiye Today",
       "published": "2026-08-25T19:40:30+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Trump: Mines fully removed from Strait of Hormuz - Axios",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9va1JQWnZ4dEZoTTQwSzhwa0E5MnpRMTBkaXp0THRHYW80cHdwMGw1RXYzYllUTzh2MmlrY1dDMjVfTEdGeUVMZmhfdHdfU3Ayc0VITm9zeGxjQUllLVhPdEZrY05LWkwxdmhPQ1FNZDE0NGt5Z1E?oc=5",
+      "source": "Axios",
+      "published": "2026-08-25T17:50:31+00:00",
       "score": 6.0,
       "tags": [
         "closure"
@@ -27,20 +67,20 @@
       ]
     },
     {
-      "title": "Trump: Mines fully removed from Strait of Hormuz - Axios",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9va1JQWnZ4dEZoTTQwSzhwa0E5MnpRMTBkaXp0THRHYW80cHdwMGw1RXYzYllUTzh2MmlrY1dDMjVfTEdGeUVMZmhfdHdfU3Ayc0VITm9zeGxjQUllLVhPdEZrY05LWkwxdmhPQ1FNZDE0NGt5Z1E?oc=5",
-      "source": "Axios",
-      "published": "2026-08-25T16:31:37+00:00",
+      "title": "Trump says all mines cleared from Strait of Hormuz - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12aGV3aDB6R2NEeXJCUDRXNFM3OHJwVzVwUzdLUmxtSDN0dDZMRE1oQXhyb291VXJUekk5VWI4bUdlTllibjJjTmIyYXVZUHhJWTBYU0RELWV6Mm42?oc=5",
+      "source": "BBC",
+      "published": "2026-08-25T15:31:21+00:00",
       "score": 6.0,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Trump says all mines cleared from Strait of Hormuz - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12aGV3aDB6R2NEeXJCUDRXNFM3OHJwVzVwUzdLUmxtSDN0dDZMRE1oQXhyb291VXJUekk5VWI4bUdlTllibjJjTmIyYXVZUHhJWTBYU0RELWV6Mm42?oc=5",
-      "source": "BBC",
-      "published": "2026-08-25T15:31:21+00:00",
+      "title": "Strait of Hormuz cleared of all Iranian mines: Trump - Washington Examiner",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcDlvMkVQTjk0YWY4TEZmQnFHNGlzQ0QzWXl1RXhrcEMzeDhYQVUyZ0NOc3lwWi13MXJHOXVCazR5bWlxNjVQaEdCcGxwZWxhZXRlOGZHX05SUm8zcVpkSWhtTjBBbi1ERkt2VWZkRkxsU0NMV1lzYld0RGNhYXJCak9HWnZXZXkzX1d4NURHaE1sWmZTRnBMX3pldGJJZUpiSkxzODh6MDBrck5peEQ5UVNZUXpvemk0elF0ZG5Nc3hpVEpGNGRpamZXbUs2ZzV1UEE?oc=5",
+      "source": "Washington Examiner",
+      "published": "2026-08-25T15:13:00+00:00",
       "score": 6.0,
       "tags": [
         "closure"
@@ -81,55 +121,15 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NUXVITkFVd1RiLXY1Wkg3NXVRZWhTandQVzd3NkVSeV94V0syUjZiWnVBd1I5SndyUWxqZ2MwRUFSLVVvN3FHaE1ueGU0TGsxQlE?oc=5",
       "source": "Iran International",
       "published": "2026-08-22T20:19:13+00:00",
-      "score": 4.25,
+      "score": 4.2,
       "tags": [
         "calm",
         "closure"
       ]
-    },
-    {
-      "title": "Tanker Attack and Traffic Collapse Escalate Strait of Hormuz Crisis - IranWire",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNlByejIzbUw0SVlIdUp5dmJWZF9PSllLQnVBTVN1aU1VemdXN3VSQWYwYzdQV1JHZW8zVEROV1AwbHlDa0I1Vk5tYzk4QW9FZWg1YldCS05OY3Vfd2pTR29pMkpmVmZGZ3RmRGJIWG16ZUJlbW01S1FHWlVNaWFtcHFfelF5NU9nUFRTY3Y0RVhtdmViNE80Q3A0WVZvSU8xVC1QSEt4bw?oc=5",
-      "source": "IranWire",
-      "published": "2026-08-25T12:41:22+00:00",
-      "score": 4.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "An attack disables a ship in the Strait of Hormuz and other news from around the Middle East - WHDH",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTXNzTTYxUnJXWWVkRU16N281bWNuVkxJbWhHXzRMalp5clhIYjJ2OTdQY2VRcGxUZTNsekhlXzY5eEJrOE1KcFluNlRDSXlmZUt6cF9vM0xfUy1wTGtUQjJrMjJwcy1fd2YxZU50R2NiVWptZ3NDSEdfVEdQRnlFM3Exck0xNGtzRjl2Vmg4NHJVa3FRR1ZpWVNDcDJiMHFsalNETEQzLUxNM0Jmd2tpVnNOeGI1QQ?oc=5",
-      "source": "WHDH",
-      "published": "2026-08-25T17:15:29+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "An attack disables a ship in the Strait of Hormuz and other news from around the Middle East - KTVN",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWEFRb0trYXlKQlU3aUZ3YTdMbHBCOFRaemhrMk1TQXRCaF9nMEFMaGhpZUFBU195ZkdJYmdva041U3JPMlpaaGMzQ2Y2b21DcWo4M2lMWTdmRWQ4UHpnSnd3WXF3TXMzcXdXTmtpeUJNMTVEXzRKdUF4SGtNbkd1RjRzbVl1LWRoSzdLVEdBV1kwYjh0Ny0wZzdDaktHY0lvYy1RVVJ3djNXWTB0elBxcjFCU002NldFVG5qZzQ4U3RLZnVwQUxpbEVneFd1bXg1WGZNYXBuYWpjb3haa1RYaUthSUVLeTlTclctbmN3?oc=5",
-      "source": "KTVN",
-      "published": "2026-08-25T16:23:18+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "An attack disables a ship in the Strait of Hormuz and other news from around the Middle East - Mainline Media News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWl9PSGJ2RUxqaFhhdGZLdklmMENHNzE5d1k4b3M1Ny0yaFB0c2xvcGtCUGhCOEhTbGxPSDBrUG5sR1ExNXRKZ21hbWNzcHFQdTNMdTFfQ2tBNlNfdGZBZGFBdER3Vlg2MktiLUhQRHA5Y2lSMGRqU2pvSDVNNWI1bm1TR1RPWFczNVV3ZktxSGt3amlrUktlb19uenpLM05OalE?oc=5",
-      "source": "Mainline Media News",
-      "published": "2026-08-25T14:20:48+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
     }
   ],
   "brent": {
-    "price": 85.74,
-    "change_pct": -1.75
+    "price": 85.36,
+    "change_pct": -2.19
   }
 }
