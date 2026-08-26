@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 79.1,
-  "closure_signals": 11,
-  "articles_scanned": 224,
-  "updated": "2026-08-26T11:01:24.914970+00:00",
+  "tension_index": 58.7,
+  "closure_signals": 10,
+  "articles_scanned": 223,
+  "updated": "2026-08-26T11:53:54.406495+00:00",
   "headlines": [
     {
       "title": "'All mines removed from Strait of Hormuz,' Trump claims - vijesti.me",
@@ -17,9 +17,9 @@
       ]
     },
     {
-      "title": "Trump Announces Mines Cleared From Strait Of Hormuz - 1150 WIMA",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY3lJRC1mR2g4Vk5SS1llaEhoR2FRbjVDeHA1Qkk0XzJ1cjZfdTJ5dUdGMk1NZENrRGU1eHRUaWdkMFpCck9VOE0wNFlZSTA3SlQzUXhHVGdiWkh4c2dVdlVyT3hxS1pSM1VnbTd5c2VsUzRBWWdfa0E5X3JlWHdtQkxEUklhNFJ6M1NOTFdrUDAwcTgwZkszNkRnZW5LcGEz?oc=5",
-      "source": "1150 WIMA",
+      "title": "Trump Announces Mines Cleared From Strait Of Hormuz - Talk Radio 98.3 WLAC",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQenJ2dklnaERXTWxEd1Q1NjdPbEdIM3hLYzFQdHI2NHpYUDNra3F5bzZDZUZrMVhMUDkxMUstZVdfRHN4T2hGNkZYVDFwMU1udUJsWm9rZDZ1WWlpOHVLSWZzeWlJMnFWd3VFVTBSUTJ6XzcwREJRWldIUFVVNVNwZE4yMUJHenV6NUhfQ244aTdhQlFjQ3BtM3ozQQ?oc=5",
+      "source": "Talk Radio 98.3 WLAC",
       "published": "2026-08-26T06:20:00+00:00",
       "score": 6.0,
       "tags": [
@@ -87,16 +87,6 @@
       ]
     },
     {
-      "title": "All Iranian mines cleared from Strait of Hormuz, Trump says - JNS.org",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWUFUVlNqdGlRNVhJUS0tTkhhNlp0azhscE9sNnBjSjRGZW9rWTMyNmdqeUVlVWliRldjNnpDTXphM2JUMklZSzJhN1dKUFNwanBzVXlpc0hrd3M2U25vX2xOZHNBamp3RVBFdC1HdEsxdDhRaGxfd1Z2el81TXlKVi05RlY3TS0wUU5pTENHX0k4NzQ?oc=5",
-      "source": "JNS.org",
-      "published": "2026-08-25T15:52:50+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
       "title": "Trump says all mines cleared from Strait of Hormuz - BBC",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12aGV3aDB6R2NEeXJCUDRXNFM3OHJwVzVwUzdLUmxtSDN0dDZMRE1oQXhyb291VXJUekk5VWI4bUdlTllibjJjTmIyYXVZUHhJWTBYU0RELWV6Mm42?oc=5",
       "source": "BBC",
@@ -125,10 +115,21 @@
       "tags": [
         "tension"
       ]
+    },
+    {
+      "title": "Iran security chief says Strait of Hormuz closed, will not reopen - Iran International",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NUXVITkFVd1RiLXY1Wkg3NXVRZWhTandQVzd3NkVSeV94V0syUjZiWnVBd1I5SndyUWxqZ2MwRUFSLVVvN3FHaE1ueGU0TGsxQlE?oc=5",
+      "source": "Iran International",
+      "published": "2026-08-22T20:19:13+00:00",
+      "score": 3.88,
+      "tags": [
+        "calm",
+        "closure"
+      ]
     }
   ],
   "brent": {
-    "price": 85.13,
-    "change_pct": -2.45
+    "price": 85.37,
+    "change_pct": -2.18
   }
 }
