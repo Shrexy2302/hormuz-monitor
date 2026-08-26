@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 58.7,
+  "tension_index": 57.3,
   "closure_signals": 10,
-  "articles_scanned": 223,
-  "updated": "2026-08-26T11:53:54.406495+00:00",
+  "articles_scanned": 222,
+  "updated": "2026-08-26T12:37:00.490479+00:00",
   "headlines": [
     {
       "title": "'All mines removed from Strait of Hormuz,' Trump claims - vijesti.me",
@@ -17,9 +17,9 @@
       ]
     },
     {
-      "title": "Trump Announces Mines Cleared From Strait Of Hormuz - Talk Radio 98.3 WLAC",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQenJ2dklnaERXTWxEd1Q1NjdPbEdIM3hLYzFQdHI2NHpYUDNra3F5bzZDZUZrMVhMUDkxMUstZVdfRHN4T2hGNkZYVDFwMU1udUJsWm9rZDZ1WWlpOHVLSWZzeWlJMnFWd3VFVTBSUTJ6XzcwREJRWldIUFVVNVNwZE4yMUJHenV6NUhfQ244aTdhQlFjQ3BtM3ozQQ?oc=5",
-      "source": "Talk Radio 98.3 WLAC",
+      "title": "Trump Announces Mines Cleared From Strait Of Hormuz - 1150 WIMA",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY3lJRC1mR2g4Vk5SS1llaEhoR2FRbjVDeHA1Qkk0XzJ1cjZfdTJ5dUdGMk1NZENrRGU1eHRUaWdkMFpCck9VOE0wNFlZSTA3SlQzUXhHVGdiWkh4c2dVdlVyT3hxS1pSM1VnbTd5c2VsUzRBWWdfa0E5X3JlWHdtQkxEUklhNFJ6M1NOTFdrUDAwcTgwZkszNkRnZW5LcGEz?oc=5",
+      "source": "1150 WIMA",
       "published": "2026-08-26T06:20:00+00:00",
       "score": 6.0,
       "tags": [
@@ -121,7 +121,7 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NUXVITkFVd1RiLXY1Wkg3NXVRZWhTandQVzd3NkVSeV94V0syUjZiWnVBd1I5SndyUWxqZ2MwRUFSLVVvN3FHaE1ueGU0TGsxQlE?oc=5",
       "source": "Iran International",
       "published": "2026-08-22T20:19:13+00:00",
-      "score": 3.88,
+      "score": 3.86,
       "tags": [
         "calm",
         "closure"
@@ -129,7 +129,7 @@
     }
   ],
   "brent": {
-    "price": 85.37,
-    "change_pct": -2.18
+    "price": 85.24,
+    "change_pct": -2.33
   }
 }
