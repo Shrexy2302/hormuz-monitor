@@ -1,16 +1,16 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 93.8,
-  "closure_signals": 13,
+  "tension_index": 104.0,
+  "closure_signals": 14,
   "articles_scanned": 225,
-  "updated": "2026-08-26T08:34:47.713302+00:00",
+  "updated": "2026-08-26T09:33:31.097960+00:00",
   "headlines": [
     {
-      "title": "Trump Announces Mines Cleared From Strait Of Hormuz - NewsRadio 570 WKBN",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeEdGb1pJZ2lTT29CMzVPa1VHQW5qXzRKdWRISHRZZHhGb1RZMWdlNmJvbVpBTXFDeXNMMjRLbDJtcHplNXhxYkpaLTJsLWN2SkRmVENjTTVxdE01eHFPNjd3UktWampaVXlZSml4cDM5Q1JEenI5aEl6SWNFeW9LR0M2aFVVaWgzXzBlVFk2Z3g0VGdHLVJzbmE3OGpXNHc?oc=5",
-      "source": "NewsRadio 570 WKBN",
-      "published": "2026-08-26T06:20:00+00:00",
+      "title": "'All mines removed from Strait of Hormuz,' Trump claims - vijesti.me",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWVR3RGFjTzVyNGNRQ0U5NXNqeHZhTW50cFFlQ2RxV0xNSzRYUDNGeHNWYXBLVkdpLVRqbjdFUjdYMnkxNWpyMXVaX3JnOEZlNTQxdjd0TGZKUXc1T0Ixb2tST09jdVJzaG4xZksyZ3M5bDRVRERGd3FmbEQ0ZW5feVhVdjIyWEluWTE0RzcxRDlreUtOaVdFU0NrTHBTOEk5ZGpIMTRGTEp2Y2x4a0Yw0gGgAUFVX3lxTE5ucE16d3F1a0NYRG9qNWJtek1mc3VRNjhWdm5GT29fSXNmWHBSUEFldGVwQU1vWmtZRjNIYmFFVU05U0tyemZvdWdxd3h3aVAyMk5BdWdLYTExOGF6NV8zYm5SVnVCLV9UUGdMZzdWaWF4bWtuNGhYTFBqTkRYWmFtWS0zZjJGWk9zRXJsTGotZTR3dk1KN2RXRXNfRnNYbzQ?oc=5",
+      "source": "vijesti.me",
+      "published": "2026-08-26T06:59:22+00:00",
       "score": 6.0,
       "tags": [
         "closure"
@@ -27,9 +27,9 @@
       ]
     },
     {
-      "title": "Trump Announces Mines Cleared From Strait Of Hormuz - Newsradio WFLA Orlando",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd210cWswalc0RkZBcDFUTHpqeW5Zd1QyOTNHdllZWXNyQmZWSFVrbWpmMUZ6WU12OWZ5ZlAtOVd3a2tlY0pST2Rwek1rdi14cWE4aEdrNTM3bXpoOUxsNkN4MkVLWEwyYVI1WVFkSDZTUVM5bVlYS2x3NzlWV3oyZGpPRlFLOU01QW5NWURPbUlUWEJId2hURTV5MkpsblZsckNITg?oc=5",
-      "source": "Newsradio WFLA Orlando",
+      "title": "Trump Announces Mines Cleared From Strait Of Hormuz - NewsRadio 1000 KTOK",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTk5zVmlES2dycGNNZFkzRS1pbEdXd3Y5dDNEdnU1WmlCTTJ4czV4cFRuRkMyZjFEVWJUVUxBUXRFMHUyZm04b25EZXI0aTlhVlg5XzNmZnA3Q1F1bXRpOGlnZ21PSVhxazNhVV9xeWdUTVc2QUtDajlNTXZmeFpVdzE0OTlTTEY0OWxKUERUN2duemhPQ0IydXJnQQ?oc=5",
+      "source": "NewsRadio 1000 KTOK",
       "published": "2026-08-26T06:20:00+00:00",
       "score": 6.0,
       "tags": [
@@ -128,7 +128,7 @@
     }
   ],
   "brent": {
-    "price": 85.6,
-    "change_pct": -1.91
+    "price": 84.78,
+    "change_pct": -2.85
   }
 }
