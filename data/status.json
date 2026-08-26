@@ -1,15 +1,35 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 99.5,
-  "closure_signals": 12,
-  "articles_scanned": 223,
-  "updated": "2026-08-26T06:56:26.684052+00:00",
+  "tension_index": 111.4,
+  "closure_signals": 14,
+  "articles_scanned": 224,
+  "updated": "2026-08-26T07:42:07.855215+00:00",
   "headlines": [
     {
       "title": "Trump Announces Mines Cleared From Strait Of Hormuz - News Radio 1190 KEX",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOWtOSHRRQVZCUDFyNHVlZHFzMmtQNzJueGtIRmk0eFdKNF9QQ0k3cXBMc3JELTBrRUZZNWFMSUhXVnBaazJLWThWZ0JYelNWcnZqQi1BWWxud2FZUVlHWnlrTWwtSjg0VkFPbWMtV1J0MkRrYUtQNWRKWmtmbVFRTGxrdGoteU01VE42NnpETm1CT2o0eDVGRDlILVU5ZGs?oc=5",
       "source": "News Radio 1190 KEX",
+      "published": "2026-08-26T06:20:00+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Trump Announces Mines Cleared From Strait Of Hormuz - NewsRadio 1000 KTOK",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTk5zVmlES2dycGNNZFkzRS1pbEdXd3Y5dDNEdnU1WmlCTTJ4czV4cFRuRkMyZjFEVWJUVUxBUXRFMHUyZm04b25EZXI0aTlhVlg5XzNmZnA3Q1F1bXRpOGlnZ21PSVhxazNhVV9xeWdUTVc2QUtDajlNTXZmeFpVdzE0OTlTTEY0OWxKUERUN2duemhPQ0IydXJnQQ?oc=5",
+      "source": "NewsRadio 1000 KTOK",
+      "published": "2026-08-26T06:20:00+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Trump Announces Mines Cleared From Strait Of Hormuz - WIOD",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZWNnbmFsbDdYUnlCNzMwVDAzZHhOWHVHV2pycjQzT2RoZnRhdGtpa3E3a1k3eWEtMnZyOWIwWWFMMjNDaWZXeDNUSFA4TXZReFdoMENabFhXQ3M1WFRGOUpSdTdkYmZ2OFY2NWxZcndEUG5hYjN4MVJoZzRZV3Rzcm5VYXZWRVZDdUZNRm5lZVc2THNUa3Bvc1RGUQ?oc=5",
+      "source": "WIOD",
       "published": "2026-08-26T06:20:00+00:00",
       "score": 6.0,
       "tags": [
@@ -77,6 +97,16 @@
       ]
     },
     {
+      "title": "Strait of Hormuz cleared of all mines, Donald Trump says citing US Navy - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GM0JJTVQtb19jZzk5WldDZTVxOVpsb2d1bEhXdUU4ampQYlRtNDhFb2RJQ3ZxSFkxMFBEYXlQYUhwQ1hodWtkazFpQXJ5dkYzTVJlVFdDd09PMmkzTkEwaU4zWVltV3hTaUE?oc=5",
+      "source": "The Jerusalem Post",
+      "published": "2026-08-25T17:26:33+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
       "title": "Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission - CNBC",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE96cjBibnU4b2hJd3VMYWZhS2EtUXhudDdYaWdhbUJWaEx5OF9sd3BwdFA5dUhUTlBFeTl6QVYzcVMwdEJEWS1jOEg0Y2VtQVZSLW95bFYwMkxWSGxwZ1FrYzNMNk54T3N3TFJOcTBST0JDUdIBd0FVX3lxTFBzOWdXTm5HXzl0SkxEc2VPLXpDeVRJZnk4YTJjRndaZmZrVG03Yy1kMlplOV9EVzFkWWlkalFOMlZoZVlSWVF4c2hVOVZvdDBHUVRFbVhwdFpsZ1BnbmMyQ1VJYndaMDNpNTh5cDNlbG9NbUgxSWlR?oc=5",
       "source": "CNBC",
@@ -95,40 +125,10 @@
       "tags": [
         "closure"
       ]
-    },
-    {
-      "title": "Trump says all mines cleared from Strait of Hormuz - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12aGV3aDB6R2NEeXJCUDRXNFM3OHJwVzVwUzdLUmxtSDN0dDZMRE1oQXhyb291VXJUekk5VWI4bUdlTllibjJjTmIyYXVZUHhJWTBYU0RELWV6Mm42?oc=5",
-      "source": "BBC",
-      "published": "2026-08-25T15:31:21+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Strait of Hormuz cleared of all Iranian mines: Trump - Washington Examiner",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcDlvMkVQTjk0YWY4TEZmQnFHNGlzQ0QzWXl1RXhrcEMzeDhYQVUyZ0NOc3lwWi13MXJHOXVCazR5bWlxNjVQaEdCcGxwZWxhZXRlOGZHX05SUm8zcVpkSWhtTjBBbi1ERkt2VWZkRkxsU0NMV1lzYld0RGNhYXJCak9HWnZXZXkzX1d4NURHaE1sWmZTRnBMX3pldGJJZUpiSkxzODh6MDBrck5peEQ5UVNZUXpvemk0elF0ZG5Nc3hpVEpGNGRpamZXbUs2ZzV1UEE?oc=5",
-      "source": "Washington Examiner",
-      "published": "2026-08-25T15:13:00+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Strait of Hormuz cleared of all mines, Donald Trump says citing US Navy - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GM0JJTVQtb19jZzk5WldDZTVxOVpsb2d1bEhXdUU4ampQYlRtNDhFb2RJQ3ZxSFkxMFBEYXlQYUhwQ1hodWtkazFpQXJ5dkYzTVJlVFdDd09PMmkzTkEwaU4zWVltV3hTaUE?oc=5",
-      "source": "The Jerusalem Post",
-      "published": "2026-08-25T14:40:41+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
     }
   ],
   "brent": {
-    "price": 85.49,
-    "change_pct": -2.04
+    "price": 85.34,
+    "change_pct": -2.21
   }
 }
