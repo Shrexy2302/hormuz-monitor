@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 41.8,
-  "closure_signals": 10,
-  "articles_scanned": 216,
-  "updated": "2026-08-26T16:12:11.908149+00:00",
+  "tension_index": 51.3,
+  "closure_signals": 11,
+  "articles_scanned": 219,
+  "updated": "2026-08-26T18:12:30.924864+00:00",
   "headlines": [
     {
       "title": "Six Months Since the Closure of the Strait of Hormuz: Sharp Decline in Navigation and Thousands of Seafarers Stranded - ShiaWaves",
@@ -71,7 +71,7 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GM0JJTVQtb19jZzk5WldDZTVxOVpsb2d1bEhXdUU4ampQYlRtNDhFb2RJQ3ZxSFkxMFBEYXlQYUhwQ1hodWtkazFpQXJ5dkYzTVJlVFdDd09PMmkzTkEwaU4zWVltV3hTaUE?oc=5",
       "source": "The Jerusalem Post",
       "published": "2026-08-25T17:26:33+00:00",
-      "score": 6.0,
+      "score": 5.97,
       "tags": [
         "closure"
       ]
@@ -81,7 +81,7 @@
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE96cjBibnU4b2hJd3VMYWZhS2EtUXhudDdYaWdhbUJWaEx5OF9sd3BwdFA5dUhUTlBFeTl6QVYzcVMwdEJEWS1jOEg0Y2VtQVZSLW95bFYwMkxWSGxwZ1FrYzNMNk54T3N3TFJOcTBST0JDUdIBd0FVX3lxTFBzOWdXTm5HXzl0SkxEc2VPLXpDeVRJZnk4YTJjRndaZmZrVG03Yy1kMlplOV9EVzFkWWlkalFOMlZoZVlSWVF4c2hVOVZvdDBHUVRFbVhwdFpsZ1BnbmMyQ1VJYndaMDNpNTh5cDNlbG9NbUgxSWlR?oc=5",
       "source": "CNBC",
       "published": "2026-08-25T17:16:25+00:00",
-      "score": 6.0,
+      "score": 5.97,
       "tags": [
         "closure"
       ]
@@ -90,8 +90,8 @@
       "title": "Trump: Mines fully removed from Strait of Hormuz - Axios",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9va1JQWnZ4dEZoTTQwSzhwa0E5MnpRMTBkaXp0THRHYW80cHdwMGw1RXYzYllUTzh2MmlrY1dDMjVfTEdGeUVMZmhfdHdfU3Ayc0VITm9zeGxjQUllLVhPdEZrY05LWkwxdmhPQ1FNZDE0NGt5Z1E?oc=5",
       "source": "Axios",
-      "published": "2026-08-25T16:55:35+00:00",
-      "score": 6.0,
+      "published": "2026-08-25T16:31:37+00:00",
+      "score": 5.94,
       "tags": [
         "closure"
       ]
@@ -101,7 +101,17 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12aGV3aDB6R2NEeXJCUDRXNFM3OHJwVzVwUzdLUmxtSDN0dDZMRE1oQXhyb291VXJUekk5VWI4bUdlTllibjJjTmIyYXVZUHhJWTBYU0RELWV6Mm42?oc=5",
       "source": "BBC",
       "published": "2026-08-25T15:31:21+00:00",
-      "score": 5.98,
+      "score": 5.91,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Trump Says U.S. Navy Has Cleared All Mines From Strait of Hormuz - gCaptain",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQenJkN2lSRW14UFhGbDdkTzduc05XVTZXSDd4a01OTmN5ZHNqZHBpVWhFdmZ5Nno4aVplc3UtVVFNalZYQW94dnhRbXlDYW9HWTUzZnFSUW41LUFPc2NUcG5aVWRzWlcwTzF5SW95MUg2Skd4MWdmMkFUZ3pKT0RScFFEbFZyTm52TlVxbGFn?oc=5",
+      "source": "gCaptain",
+      "published": "2026-08-25T15:17:46+00:00",
+      "score": 5.9,
       "tags": [
         "closure"
       ]
@@ -115,20 +125,10 @@
       "tags": [
         "tension"
       ]
-    },
-    {
-      "title": "\u2018Militarily, Strait of Hormuz is closed\u2019: Iran unveils temporary Oman route amid Trump warning - Firstpost",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQnd0SUVNLW5XeXdRaVREYk1NdXhoUkttYWVsUDRaWmJackI4RHZDZmlZeXFmdl83ZlN6TE9lM283UjRucFdzT2o3T2UtSjRpRFhsNFhfZ3oyOEtjamNMcTlaSEtYT1BmdjY5TDQtbll1NnpMcTJqZWxlUHZQaTNfbUFZeFFxZVZtY1BPSllrQ19KWWVySUItWDdtVEVtd2JMMnozaGlETWNfS3o0YVJNNzF0REJxWFY0ZGZOWlZFT2E3N1J6N1FnSlJKV24tVTVMNnfSAdcBQVVfeXFMUHhPdUVIMXRBNkl6a2lTR0cySHh4WGFSdFAxVnVuYUs4OXJpYU9CMlFfMTdDc0VUQ1pJaU41ZEJiVTVVWXFNQjdGSnlQWDd5VjB1ekwxTHgtcm9nVE9TTVhFbWJYUkstbFZxeGZLTUhOWVFtU1daUEJVT1VZY01YOWVVWnBOWGtxQzl3TUJEMUdUbXE0Slc1QmY4U2owRUlWOV8tdTlZQVJnUXd4b05YUVJsUUJWSXpEbXhEZUxqRWZFb3owblRWRHJJcU1nV2REOHpmZW5jRlU?oc=5",
-      "source": "Firstpost",
-      "published": "2026-08-26T03:03:33+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
     }
   ],
   "brent": {
-    "price": 87.78,
-    "change_pct": 0.58
+    "price": 87.19,
+    "change_pct": -0.09
   }
 }
