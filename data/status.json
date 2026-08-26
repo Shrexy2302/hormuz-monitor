@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 60.7,
-  "closure_signals": 12,
-  "articles_scanned": 220,
-  "updated": "2026-08-26T13:48:37.048292+00:00",
+  "tension_index": 49.8,
+  "closure_signals": 11,
+  "articles_scanned": 219,
+  "updated": "2026-08-26T14:37:19.909652+00:00",
   "headlines": [
     {
       "title": "Six Months Since the Closure of the Strait of Hormuz: Sharp Decline in Navigation and Thousands of Seafarers Stranded - ShiaWaves",
@@ -12,16 +12,6 @@
       "source": "ShiaWaves",
       "published": "2026-08-26T13:34:19+00:00",
       "score": 8.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Trump Says All Mines Cleared From Strait Of Hormuz - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWUtRU0drRkU1ZlVvUmI3NnZvX0tRbDEyNEFUQjE4cEhRVnRPQk04dHpmemV4ZXBBV0J2N3VEWVRtbE9QeHVnSkY1a29ucFE5M21yTDQ1a0lKM3Bhc21qNzFXT25zTFpSM25xbHlLWURIak1Hc2hESjNvaXNJLWgyMDBkYjBzQ00?oc=5",
-      "source": "Yahoo",
-      "published": "2026-08-26T09:45:00+00:00",
-      "score": 6.0,
       "tags": [
         "closure"
       ]
@@ -37,20 +27,10 @@
       ]
     },
     {
-      "title": "Trump Announces Mines Cleared From Strait Of Hormuz - 1150 WIMA",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY3lJRC1mR2g4Vk5SS1llaEhoR2FRbjVDeHA1Qkk0XzJ1cjZfdTJ5dUdGMk1NZENrRGU1eHRUaWdkMFpCck9VOE0wNFlZSTA3SlQzUXhHVGdiWkh4c2dVdlVyT3hxS1pSM1VnbTd5c2VsUzRBWWdfa0E5X3JlWHdtQkxEUklhNFJ6M1NOTFdrUDAwcTgwZkszNkRnZW5LcGEz?oc=5",
-      "source": "1150 WIMA",
-      "published": "2026-08-26T06:20:00+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Trump: Mines fully removed from Strait of Hormuz - Axios",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9va1JQWnZ4dEZoTTQwSzhwa0E5MnpRMTBkaXp0THRHYW80cHdwMGw1RXYzYllUTzh2MmlrY1dDMjVfTEdGeUVMZmhfdHdfU3Ayc0VITm9zeGxjQUllLVhPdEZrY05LWkwxdmhPQ1FNZDE0NGt5Z1E?oc=5",
-      "source": "Axios",
-      "published": "2026-08-26T02:54:04+00:00",
+      "title": "Trump Announces Mines Cleared From Strait Of Hormuz - News Radio 1190 KEX",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOWtOSHRRQVZCUDFyNHVlZHFzMmtQNzJueGtIRmk0eFdKNF9QQ0k3cXBMc3JELTBrRUZZNWFMSUhXVnBaazJLWThWZ0JYelNWcnZqQi1BWWxud2FZUVlHWnlrTWwtSjg0VkFPbWMtV1J0MkRrYUtQNWRKWmtmbVFRTGxrdGoteU01VE42NnpETm1CT2o0eDVGRDlILVU5ZGs?oc=5",
+      "source": "News Radio 1190 KEX",
+      "published": "2026-08-26T06:29:41+00:00",
       "score": 6.0,
       "tags": [
         "closure"
@@ -107,6 +87,16 @@
       ]
     },
     {
+      "title": "Trump: Mines fully removed from Strait of Hormuz - Axios",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9va1JQWnZ4dEZoTTQwSzhwa0E5MnpRMTBkaXp0THRHYW80cHdwMGw1RXYzYllUTzh2MmlrY1dDMjVfTEdGeUVMZmhfdHdfU3Ayc0VITm9zeGxjQUllLVhPdEZrY05LWkwxdmhPQ1FNZDE0NGt5Z1E?oc=5",
+      "source": "Axios",
+      "published": "2026-08-25T16:55:35+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
       "title": "Trump says all mines cleared from Strait of Hormuz - BBC",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12aGV3aDB6R2NEeXJCUDRXNFM3OHJwVzVwUzdLUmxtSDN0dDZMRE1oQXhyb291VXJUekk5VWI4bUdlTllibjJjTmIyYXVZUHhJWTBYU0RELWV6Mm42?oc=5",
       "source": "BBC",
@@ -125,10 +115,20 @@
       "tags": [
         "closure"
       ]
+    },
+    {
+      "title": "\u2018Militarily, Strait of Hormuz is closed\u2019: Iran unveils temporary Oman route amid Trump warning - Firstpost",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQnd0SUVNLW5XeXdRaVREYk1NdXhoUkttYWVsUDRaWmJackI4RHZDZmlZeXFmdl83ZlN6TE9lM283UjRucFdzT2o3T2UtSjRpRFhsNFhfZ3oyOEtjamNMcTlaSEtYT1BmdjY5TDQtbll1NnpMcTJqZWxlUHZQaTNfbUFZeFFxZVZtY1BPSllrQ19KWWVySUItWDdtVEVtd2JMMnozaGlETWNfS3o0YVJNNzF0REJxWFY0ZGZOWlZFT2E3N1J6N1FnSlJKV24tVTVMNnfSAdcBQVVfeXFMUHhPdUVIMXRBNkl6a2lTR0cySHh4WGFSdFAxVnVuYUs4OXJpYU9CMlFfMTdDc0VUQ1pJaU41ZEJiVTVVWXFNQjdGSnlQWDd5VjB1ekwxTHgtcm9nVE9TTVhFbWJYUkstbFZxeGZLTUhOWVFtU1daUEJVT1VZY01YOWVVWnBOWGtxQzl3TUJEMUdUbXE0Slc1QmY4U2owRUlWOV8tdTlZQVJnUXd4b05YUVJsUUJWSXpEbXhEZUxqRWZFb3owblRWRHJJcU1nV2REOHpmZW5jRlU?oc=5",
+      "source": "Firstpost",
+      "published": "2026-08-26T03:03:33+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
     }
   ],
   "brent": {
-    "price": 86.11,
-    "change_pct": -1.33
+    "price": 86.41,
+    "change_pct": -0.99
   }
 }
