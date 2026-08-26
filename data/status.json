@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 60.1,
+  "tension_index": 52.7,
   "closure_signals": 11,
-  "articles_scanned": 218,
-  "updated": "2026-08-26T20:26:25.255965+00:00",
+  "articles_scanned": 221,
+  "updated": "2026-08-26T23:55:39.301846+00:00",
   "headlines": [
     {
       "title": "Six Months Since the Closure of the Strait of Hormuz: Sharp Decline in Navigation and Thousands of Seafarers Stranded - ShiaWaves",
@@ -30,7 +30,7 @@
       "title": "Trump: Mines fully removed from Strait of Hormuz - Axios",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9va1JQWnZ4dEZoTTQwSzhwa0E5MnpRMTBkaXp0THRHYW80cHdwMGw1RXYzYllUTzh2MmlrY1dDMjVfTEdGeUVMZmhfdHdfU3Ayc0VITm9zeGxjQUllLVhPdEZrY05LWkwxdmhPQ1FNZDE0NGt5Z1E?oc=5",
       "source": "Axios",
-      "published": "2026-08-26T11:56:29+00:00",
+      "published": "2026-08-26T14:56:51+00:00",
       "score": 6.0,
       "tags": [
         "closure"
@@ -71,7 +71,7 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYklTemE2dkQ1ZU8wbEUzSzdOOEh0NnBnZU1BZVlPdWZFT0VWMWZWU0J1REpjVnVHMHYxRTZFWTJOdVJnV3V5NDBOR1dSRFl2ZXBUcHZGcVEtRHNKNS0wdEVDdkg3TGJPNWx2UjRVMzh5bnZaM3dQVWwtY3VseGhsOEE5YjRlc2t1OE5vQmNIX25mb3lTUERRYmJzb1dYZw?oc=5",
       "source": "KOHA.net",
       "published": "2026-08-25T19:57:30+00:00",
-      "score": 5.98,
+      "score": 5.87,
       "tags": [
         "closure"
       ]
@@ -81,7 +81,7 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GM0JJTVQtb19jZzk5WldDZTVxOVpsb2d1bEhXdUU4ampQYlRtNDhFb2RJQ3ZxSFkxMFBEYXlQYUhwQ1hodWtkazFpQXJ5dkYzTVJlVFdDd09PMmkzTkEwaU4zWVltV3hTaUE?oc=5",
       "source": "The Jerusalem Post",
       "published": "2026-08-25T17:26:33+00:00",
-      "score": 5.9,
+      "score": 5.78,
       "tags": [
         "closure"
       ]
@@ -91,7 +91,7 @@
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE96cjBibnU4b2hJd3VMYWZhS2EtUXhudDdYaWdhbUJWaEx5OF9sd3BwdFA5dUhUTlBFeTl6QVYzcVMwdEJEWS1jOEg0Y2VtQVZSLW95bFYwMkxWSGxwZ1FrYzNMNk54T3N3TFJOcTBST0JDUdIBd0FVX3lxTFBzOWdXTm5HXzl0SkxEc2VPLXpDeVRJZnk4YTJjRndaZmZrVG03Yy1kMlplOV9EVzFkWWlkalFOMlZoZVlSWVF4c2hVOVZvdDBHUVRFbVhwdFpsZ1BnbmMyQ1VJYndaMDNpNTh5cDNlbG9NbUgxSWlR?oc=5",
       "source": "CNBC",
       "published": "2026-08-25T17:16:25+00:00",
-      "score": 5.89,
+      "score": 5.78,
       "tags": [
         "closure"
       ]
@@ -101,7 +101,7 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12aGV3aDB6R2NEeXJCUDRXNFM3OHJwVzVwUzdLUmxtSDN0dDZMRE1oQXhyb291VXJUekk5VWI4bUdlTllibjJjTmIyYXVZUHhJWTBYU0RELWV6Mm42?oc=5",
       "source": "BBC",
       "published": "2026-08-25T15:31:21+00:00",
-      "score": 5.84,
+      "score": 5.72,
       "tags": [
         "closure"
       ]
@@ -111,7 +111,7 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQenJkN2lSRW14UFhGbDdkTzduc05XVTZXSDd4a01OTmN5ZHNqZHBpVWhFdmZ5Nno4aVplc3UtVVFNalZYQW94dnhRbXlDYW9HWTUzZnFSUW41LUFPc2NUcG5aVWRzWlcwTzF5SW95MUg2Skd4MWdmMkFUZ3pKT0RScFFEbFZyTm52TlVxbGFn?oc=5",
       "source": "gCaptain",
       "published": "2026-08-25T15:17:46+00:00",
-      "score": 5.83,
+      "score": 5.71,
       "tags": [
         "closure"
       ]
@@ -128,7 +128,7 @@
     }
   ],
   "brent": {
-    "price": 86.48,
-    "change_pct": -0.91
+    "price": 86.53,
+    "change_pct": -0.47
   }
 }
