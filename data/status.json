@@ -1,11 +1,31 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 57.3,
-  "closure_signals": 10,
-  "articles_scanned": 222,
-  "updated": "2026-08-26T12:37:00.490479+00:00",
+  "tension_index": 60.7,
+  "closure_signals": 12,
+  "articles_scanned": 220,
+  "updated": "2026-08-26T13:48:37.048292+00:00",
   "headlines": [
+    {
+      "title": "Six Months Since the Closure of the Strait of Hormuz: Sharp Decline in Navigation and Thousands of Seafarers Stranded - ShiaWaves",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOT3JLWGFWWXFSZWxNYl9mc2w1UTNJVHR2eFlYdUFBOXhTSWdQVGVxenZFS2c3NUEta1A4VWFDQUc0UGZobENyOXRtWUhsYjRSYTcwZEY0LUJiTHowdEZXV3o4ZWxXdGdLMmNXTE9yZzVhcU1LRl9Sc3d5bFJOcFZ2UnhaQjlucjI3Mzk3Z0FFR1hBd3NqYTEwbll4TVpnWGdVNTh0cUQtbzBWeEFOUWtjdDQ5c2FiX2EwU2VwRG9LZksyRFBtU2xRTGNzRHVHYXV4R29MM3k1a3lUS0VqYVdEMG9JdzhkZGhtQklvcEZpWXdsdHptNXo3ajdwcjRrY1lpeVIwUU02YlI?oc=5",
+      "source": "ShiaWaves",
+      "published": "2026-08-26T13:34:19+00:00",
+      "score": 8.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Trump Says All Mines Cleared From Strait Of Hormuz - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWUtRU0drRkU1ZlVvUmI3NnZvX0tRbDEyNEFUQjE4cEhRVnRPQk04dHpmemV4ZXBBV0J2N3VEWVRtbE9QeHVnSkY1a29ucFE5M21yTDQ1a0lKM3Bhc21qNzFXT25zTFpSM25xbHlLWURIak1Hc2hESjNvaXNJLWgyMDBkYjBzQ00?oc=5",
+      "source": "Yahoo",
+      "published": "2026-08-26T09:45:00+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
     {
       "title": "'All mines removed from Strait of Hormuz,' Trump claims - vijesti.me",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWVR3RGFjTzVyNGNRQ0U5NXNqeHZhTW50cFFlQ2RxV0xNSzRYUDNGeHNWYXBLVkdpLVRqbjdFUjdYMnkxNWpyMXVaX3JnOEZlNTQxdjd0TGZKUXc1T0Ixb2tST09jdVJzaG4xZksyZ3M5bDRVRERGd3FmbEQ0ZW5feVhVdjIyWEluWTE0RzcxRDlreUtOaVdFU0NrTHBTOEk5ZGpIMTRGTEp2Y2x4a0Yw0gGgAUFVX3lxTE5ucE16d3F1a0NYRG9qNWJtek1mc3VRNjhWdm5GT29fSXNmWHBSUEFldGVwQU1vWmtZRjNIYmFFVU05U0tyemZvdWdxd3h3aVAyMk5BdWdLYTExOGF6NV8zYm5SVnVCLV9UUGdMZzdWaWF4bWtuNGhYTFBqTkRYWmFtWS0zZjJGWk9zRXJsTGotZTR3dk1KN2RXRXNfRnNYbzQ?oc=5",
@@ -105,31 +125,10 @@
       "tags": [
         "closure"
       ]
-    },
-    {
-      "title": "Tanker Attack and Traffic Collapse Escalate Strait of Hormuz Crisis - IranWire",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNlByejIzbUw0SVlIdUp5dmJWZF9PSllLQnVBTVN1aU1VemdXN3VSQWYwYzdQV1JHZW8zVEROV1AwbHlDa0I1Vk5tYzk4QW9FZWg1YldCS05OY3Vfd2pTR29pMkpmVmZGZ3RmRGJIWG16ZUJlbW01S1FHWlVNaWFtcHFfelF5NU9nUFRTY3Y0RVhtdmViNE80Q3A0WVZvSU8xVC1QSEt4bw?oc=5",
-      "source": "IranWire",
-      "published": "2026-08-25T12:41:22+00:00",
-      "score": 4.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran security chief says Strait of Hormuz closed, will not reopen - Iran International",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NUXVITkFVd1RiLXY1Wkg3NXVRZWhTandQVzd3NkVSeV94V0syUjZiWnVBd1I5SndyUWxqZ2MwRUFSLVVvN3FHaE1ueGU0TGsxQlE?oc=5",
-      "source": "Iran International",
-      "published": "2026-08-22T20:19:13+00:00",
-      "score": 3.86,
-      "tags": [
-        "calm",
-        "closure"
-      ]
     }
   ],
   "brent": {
-    "price": 85.24,
-    "change_pct": -2.33
+    "price": 86.11,
+    "change_pct": -1.33
   }
 }
