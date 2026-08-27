@@ -1,17 +1,17 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 56.0,
+  "tension_index": 69.0,
   "closure_signals": 10,
-  "articles_scanned": 217,
-  "updated": "2026-08-27T06:47:35.479753+00:00",
+  "articles_scanned": 224,
+  "updated": "2026-08-27T18:00:59.128996+00:00",
   "headlines": [
     {
       "title": "Six Months Since the Closure of the Strait of Hormuz: Sharp Decline in Navigation and Thousands of Seafarers Stranded - ShiaWaves",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVWRLbnpXb1RKTzZUamdPeEVCTnZKZXZ6XzlPQnJwSDUyQ0htOTRrejVMeW9uQ3hZNU5mbmhxQU9aak0xZ2Q0ZzE5cEdvOXV3bGlGRUE0RW45bFZiTDByZ2dFb3pNYXZQQWJVWTcyZ0p3M1hDZ2ZNcnBkRnNRVFlkNUNWQ3BRODFTZTc5UnVQVDF0LTFQdjRwSHlvT1lGQkFSUDhWeUF2cDFIN01IUWoyelYwdEZudkZ2NlI3TUxKYjRZczNZN1c2aHlMdWhIMkhZWThNQXhZSWZlYkpmZUVsT0FUTnB0OVZzNFlrTTlNNGJwU0Z6WVpJNHhHZVA?oc=5",
       "source": "ShiaWaves",
       "published": "2026-08-26T13:34:04+00:00",
-      "score": 8.0,
+      "score": 7.8,
       "tags": [
         "closure"
       ]
@@ -27,11 +27,21 @@
       ]
     },
     {
-      "title": "Trump Announces Mines Cleared From Strait Of Hormuz - 590 KQNT",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU2FEVWl3WlUwZmxGWVl3bXJsSWJCbGxoM0NrRVRJUVNQWlZkUnFvRmFSejBTZzF5RVRRRjc1V3ZoWkhpSmlzd2RCVUVrSXE5NXJvRUdGelZ4SUR3dkIyenBMVFFzUjlYWVpYSEh2Ml9CUXJ6OXdicHRMVEdDaWJqeE52cmtrMVRnWFBjNmNkUWpFWThQV216TWZ3c1hqbGc?oc=5",
-      "source": "590 KQNT",
+      "title": "'All mines removed from Strait of Hormuz,' Trump claims - vijesti.me",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWVR3RGFjTzVyNGNRQ0U5NXNqeHZhTW50cFFlQ2RxV0xNSzRYUDNGeHNWYXBLVkdpLVRqbjdFUjdYMnkxNWpyMXVaX3JnOEZlNTQxdjd0TGZKUXc1T0Ixb2tST09jdVJzaG4xZksyZ3M5bDRVRERGd3FmbEQ0ZW5feVhVdjIyWEluWTE0RzcxRDlreUtOaVdFU0NrTHBTOEk5ZGpIMTRGTEp2Y2x4a0Yw0gGgAUFVX3lxTE5ucE16d3F1a0NYRG9qNWJtek1mc3VRNjhWdm5GT29fSXNmWHBSUEFldGVwQU1vWmtZRjNIYmFFVU05U0tyemZvdWdxd3h3aVAyMk5BdWdLYTExOGF6NV8zYm5SVnVCLV9UUGdMZzdWaWF4bWtuNGhYTFBqTkRYWmFtWS0zZjJGWk9zRXJsTGotZTR3dk1KN2RXRXNfRnNYbzQ?oc=5",
+      "source": "vijesti.me",
+      "published": "2026-08-26T06:59:22+00:00",
+      "score": 5.63,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Trump Announces Mines Cleared From Strait Of Hormuz - WGY",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdWFFdTdMYkJKYkVyalRXZV9ZbU1ndU4tREhEcUtGWk1vV2FlU0lJcTFERUxyVnVtNlB6MlZSY0kwd0xNcTlDSlRnV2lwd2ZBVGZveDY1NzR0OEdSa1ZzVFZIS2xCeFdEVUg5MGtTXzJLbXNIUEd5Ri1tWjdieGk2aFZES1AyVjRwY0M4amRvVUhrbzJkTWVhTlJB?oc=5",
+      "source": "WGY",
       "published": "2026-08-26T06:20:00+00:00",
-      "score": 5.98,
+      "score": 5.61,
       "tags": [
         "closure"
       ]
@@ -41,7 +51,7 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXFTR1B6eVBUd1lPWVMxMldNQ3BDTTBFX3VzT25tOV9sWWsyQ3JuYzJEREV1R3F6Qm1FOGViU0Y1VGh3SzlUX2R0SDFqTnZGeVdYazV0dDBOWm9seVlTSDlOd2cwN2FGVU5RNmROS3lYTVdfMFk5aTA4R1c2TkthTklHU1FLZHlFLVJtOHNIWQ?oc=5",
       "source": "Around Prague",
       "published": "2026-08-26T00:07:36+00:00",
-      "score": 5.78,
+      "score": 5.4,
       "tags": [
         "closure"
       ]
@@ -51,7 +61,7 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYklTemE2dkQ1ZU8wbEUzSzdOOEh0NnBnZU1BZVlPdWZFT0VWMWZWU0J1REpjVnVHMHYxRTZFWTJOdVJnV3V5NDBOR1dSRFl2ZXBUcHZGcVEtRHNKNS0wdEVDdkg3TGJPNWx2UjRVMzh5bnZaM3dQVWwtY3VseGhsOEE5YjRlc2t1OE5vQmNIX25mb3lTUERRYmJzb1dYZw?oc=5",
       "source": "KOHA.net",
       "published": "2026-08-25T19:57:30+00:00",
-      "score": 5.64,
+      "score": 5.26,
       "tags": [
         "closure"
       ]
@@ -61,7 +71,7 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GM0JJTVQtb19jZzk5WldDZTVxOVpsb2d1bEhXdUU4ampQYlRtNDhFb2RJQ3ZxSFkxMFBEYXlQYUhwQ1hodWtkazFpQXJ5dkYzTVJlVFdDd09PMmkzTkEwaU4zWVltV3hTaUE?oc=5",
       "source": "The Jerusalem Post",
       "published": "2026-08-25T17:26:33+00:00",
-      "score": 5.55,
+      "score": 5.18,
       "tags": [
         "closure"
       ]
@@ -71,7 +81,7 @@
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE96cjBibnU4b2hJd3VMYWZhS2EtUXhudDdYaWdhbUJWaEx5OF9sd3BwdFA5dUhUTlBFeTl6QVYzcVMwdEJEWS1jOEg0Y2VtQVZSLW95bFYwMkxWSGxwZ1FrYzNMNk54T3N3TFJOcTBST0JDUdIBd0FVX3lxTFBzOWdXTm5HXzl0SkxEc2VPLXpDeVRJZnk4YTJjRndaZmZrVG03Yy1kMlplOV9EVzFkWWlkalFOMlZoZVlSWVF4c2hVOVZvdDBHUVRFbVhwdFpsZ1BnbmMyQ1VJYndaMDNpNTh5cDNlbG9NbUgxSWlR?oc=5",
       "source": "CNBC",
       "published": "2026-08-25T17:16:25+00:00",
-      "score": 5.55,
+      "score": 5.18,
       "tags": [
         "closure"
       ]
@@ -81,7 +91,7 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9va1JQWnZ4dEZoTTQwSzhwa0E5MnpRMTBkaXp0THRHYW80cHdwMGw1RXYzYllUTzh2MmlrY1dDMjVfTEdGeUVMZmhfdHdfU3Ayc0VITm9zeGxjQUllLVhPdEZrY05LWkwxdmhPQ1FNZDE0NGt5Z1E?oc=5",
       "source": "Axios",
       "published": "2026-08-25T16:31:37+00:00",
-      "score": 5.52,
+      "score": 5.15,
       "tags": [
         "closure"
       ]
@@ -91,36 +101,26 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12aGV3aDB6R2NEeXJCUDRXNFM3OHJwVzVwUzdLUmxtSDN0dDZMRE1oQXhyb291VXJUekk5VWI4bUdlTllibjJjTmIyYXVZUHhJWTBYU0RELWV6Mm42?oc=5",
       "source": "BBC",
       "published": "2026-08-25T15:31:21+00:00",
-      "score": 5.49,
+      "score": 5.12,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Trump Says U.S. Navy Has Cleared All Mines From Strait of Hormuz - gCaptain",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQenJkN2lSRW14UFhGbDdkTzduc05XVTZXSDd4a01OTmN5ZHNqZHBpVWhFdmZ5Nno4aVplc3UtVVFNalZYQW94dnhRbXlDYW9HWTUzZnFSUW41LUFPc2NUcG5aVWRzWlcwTzF5SW95MUg2Skd4MWdmMkFUZ3pKT0RScFFEbFZyTm52TlVxbGFn?oc=5",
-      "source": "gCaptain",
-      "published": "2026-08-25T15:17:46+00:00",
-      "score": 5.48,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Another Tanker Struck as Hormuz Shipping Crisis Deepens - Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb0xSQVp4X2lwUmdDQTBnd0JadTFpbXNJMjJHQXRnQW52MDF6VXVVdU1zWHV2V2dtMC0zNFVHY2p6LUJKcHNVR1g5WXdTTTF4anYzUkVTaURvWmtEamlaemRvVWlqZVhIWVZXMTBCSHE5anhCaEtpMTFHZFg4cHVISkNVR0kxM2M5WFFldlBwS09zWW9rV0l2QkozSmJRY1dab0JNdHNKbDVIMDMzVFh1atIBtgFBVV95cUxPdC1WazNGQnRDX0ltNTBQTnhzYzJxbzliVlA3UUd1eGw3ZTlFb29NV0RsZGFzRkV5SG5HREtyczNRczAwbVJBNzBYdzNaV0VNR0dhXzRsZHRid1pKckNzRWhlRTlkQ0pDb1l2emZUeTBQaFgtQVU1TkNVY1Nadzl6QUk3Q2dQX29YUVNNNXBnMllsNjJoQXVCUjZtcDMteDBiYi02cVJBTFRyTFljOG5KMm52ZWphZw?oc=5",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "published": "2026-08-27T06:30:00+00:00",
+      "title": "Tanker Catches Fire After Projectile Strike Near Strait of Hormuz - IranWire",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjN0clVWbGQ1Zkx3WkRYTFhsZURzQWlQNzAybnBtazRzak5nOXY4ZE0wWmFqNFp4TXlyd1N4MWlYVVdma1p0SGt0WHFnb1RHdU5VS3RvTDU1R1BackNXcU5XTFpUaUU5ZUQwQm9aMlZocUlaWGhoQ2VoTS1QV3ZieGg0Q2hZSmgxTThrMERtOXVQbG5NNEh4VC1KOWJJNXRPNFc0RQ?oc=5",
+      "source": "IranWire",
+      "published": "2026-08-27T14:22:31+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Tanker attack tests Trump\u2019s claim that Hormuz is a 'functioning strait' - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nVjBrMDlsNXlyYk9iZDVzTXVhRjRMOUZ5WkNQQ3FjeF9VN0otNzlJR3puUVdZM3p5Y1hPUXh3N1dGM3lTTEk2NUh4ZlVZQTdjT2RPaGVockhDcmE2b2xleVVVd0cyQjdyUVBoTkdZMFNjcF93WW5FQ2gzazFZSEHSAYQBQVVfeXFMTU44UVVHTUt3UktXUzlDRW82U3p3S19Lc3VSU3VxRVUzcm1iOVhJYmswZU8zZ3AzWF96OUtWSUVoOXFWdzBzc1NUT0NzR1lCSUtTdHp3WS1JSGNCa1Q0Tkl2eTFzdkZ0eHRDVWc4MTJBSDE5M3F1RHlWNGNqdDQxaTRUR3dR?oc=5",
-      "source": "CNBC",
-      "published": "2026-08-27T04:45:01+00:00",
+      "title": "Another Tanker Was Struck In The Strait Of Hormuz. Oil Is Edging Up. - International Business Times",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRjQtdmR2czRwMHRuR0tjZEZ6eHhDNXJ2Mjh4Z2ROOFg4UHJyVDNLd2ptdFVaWUM2VUhrTHZocTBMb1RTUy1mTUg1SGFTVjhmOEpRM3A2SGlsT3JSMHFySnl6RlRCcmlnN3dsY2ZyVzlOVTdPbzNhLTVFMjJObktwWlAwMTR2NFAyWVE?oc=5",
+      "source": "International Business Times",
+      "published": "2026-08-27T13:21:15+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -128,7 +128,7 @@
     }
   ],
   "brent": {
-    "price": 85.93,
-    "change_pct": -1.16
+    "price": 87.91,
+    "change_pct": 1.12
   }
 }
