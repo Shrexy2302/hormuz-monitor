@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 70.7,
-  "closure_signals": 7,
-  "articles_scanned": 219,
-  "updated": "2026-08-28T14:27:45.028840+00:00",
+  "tension_index": 74.7,
+  "closure_signals": 11,
+  "articles_scanned": 226,
+  "updated": "2026-08-28T23:37:15.301977+00:00",
   "headlines": [
     {
       "title": "FEATURE | With Strait of Hormuz blocked, Persian Gulf states pour billions into infrastructure - Baird Maritime",
@@ -17,11 +17,41 @@
       ]
     },
     {
+      "title": "MORNING BUSINESS REPORT: Strait Of Hormuz Closed, Home Prices Rise Game Hockey Canadien (Dnnvy8axNa) - Mshale",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tdXJhN1BGQTZqVVhhVHk0emJQSGZRb1R6OFlkak5EZUdzRmdtSjhPa3BUalZTWE96YWFPV2h4MDdsQlRLMmtuOG9vZXVtTjQtWENJMlpFQjF0NDg?oc=5",
+      "source": "Mshale",
+      "published": "2026-08-27T21:40:04+00:00",
+      "score": 9.89,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "IRGC say Strait of Hormuz closed to all ships \u00bb Iraqi News Agency - \u0648\u0643\u0627\u0644\u0629 \u0627\u0644\u0627\u0646\u0628\u0627\u0621 \u0627\u0644\u0639\u0631\u0627\u0642\u064a\u0629 (\u0648\u0627\u0639)",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMzNsZU12SFRtZlVKVFhwcnltSGc4bkdyTHpSOW1KdnZzSFhHMHJ4bzJ6RC1tQUtGTjRJMXZVSE1wS0RQR1VPVWxhTnR5anY3VkFzdEhNdjBqMC1ucTNpVmFKbG14dzM5cF92RnNBd2IzdUZSS0hQaEROOENNYnV1VWszVndtbEdwUkMtZmlFYWh2QQ?oc=5",
+      "source": "\u0648\u0643\u0627\u0644\u0629 \u0627\u0644\u0627\u0646\u0628\u0627\u0621 \u0627\u0644\u0639\u0631\u0627\u0642\u064a\u0629 (\u0648\u0627\u0639)",
+      "published": "2026-08-27T21:13:27+00:00",
+      "score": 9.87,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
       "title": "Six Months Since the Closure of the Strait of Hormuz: Sharp Decline in Navigation and Thousands of Seafarers Stranded - ShiaWaves",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOT3JLWGFWWXFSZWxNYl9mc2w1UTNJVHR2eFlYdUFBOXhTSWdQVGVxenZFS2c3NUEta1A4VWFDQUc0UGZobENyOXRtWUhsYjRSYTcwZEY0LUJiTHowdEZXV3o4ZWxXdGdLMmNXTE9yZzVhcU1LRl9Sc3d5bFJOcFZ2UnhaQjlucjI3Mzk3Z0FFR1hBd3NqYTEwbll4TVpnWGdVNTh0cUQtbzBWeEFOUWtjdDQ5c2FiX2EwU2VwRG9LZksyRFBtU2xRTGNzRHVHYXV4R29MM3k1a3lUS0VqYVdEMG9JdzhkZGhtQklvcEZpWXdsdHptNXo3ajdwcjRrY1lpeVIwUU02YlI?oc=5",
       "source": "ShiaWaves",
       "published": "2026-08-26T13:34:04+00:00",
-      "score": 6.89,
+      "score": 6.49,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "U.S. military says Strait of Hormuz clear of sea mines - Deseret News",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTTNTMHRJVXhwOWhuSGc2ZmlaZll0cjNsS1M2X2FWTkdTU1dyaWY0azhwQkcxdWlxZkg4OEcyNnROX2RBY09GOTZwVV9nYUwzd3Y0akFsOGh5Q3lwb0tqVmJjb2NfUkZIclpTYnNXSE56TUpqZ2Z6dml2aGlGaGFqZTJxTXk5UWFmTTlRYVFPVW1HN1NvbmxwX1Rfa090djRfVmlkOERCUGVrQlNkVlUwUkdzR0xfMzFFdjh0Y0hGbGhiWVZJYjZPZnpB?oc=5",
+      "source": "Deseret News",
+      "published": "2026-08-28T16:03:40+00:00",
+      "score": 6.0,
       "tags": [
         "closure"
       ]
@@ -37,10 +67,10 @@
       ]
     },
     {
-      "title": "Iran updates: Sea mines cleared from Strait of Hormuz, Pentagon says - NewsNation",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6UGh5V2UwUmI4N1dYMTFSRUlfUU1zZFpPYVpfRGRwbkZWeTVBWmNpdmxwVkF4T3d0cFpaYmljSGR4RmVnWk5rQlg1Qm13VEZMdGRMdDJlSUNxakwybGhUVjlnM2xOMGZWZ3B2eENVazVhQmxoeWk3bHE2OHDSAYIBQVVfeXFMUG4yS3FqQUpfeGs2aHhnX0tqQ1ZOUVo1SVdBUVh2Skx2UWJHZ1FJa3pudW9XZzY3VmxHVTBXSjhjQUFJMWxHWWxTbWJmVmZjWlRyR0Nsa1R5SEVqNkx3dXJYbEpoM0JhaGQ1anY3NVdNdjhEc3Rpb2xVZ2o1YXJrdXZsQQ?oc=5",
-      "source": "NewsNation",
-      "published": "2026-08-28T04:40:03+00:00",
+      "title": "US forces \u2018got the job done\u2019 in clearing mines from Strait of Hormuz, CENTCOM boss says - stripes.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRF96Zlp1UnhwcVZpVWlDSkNnYkZZNTAySEM4TmxYRjNwTFRjWGdma3IyWlRwN09TdTI2clR3RzR3cFl5N1BZdVJhUkpSVDNzb1llM1pSemxKQVF2R3doa29mVWFXQlNRXzZERVJPMk53YXZIcFJOY2ROQnJqdWpjbTAxUVFjOXBJU3VLdENERG1WRWNUaGZ0V1RCZXBrVjdOWWF3b3pVV29rUnM?oc=5",
+      "source": "stripes.com",
+      "published": "2026-08-28T04:22:58+00:00",
       "score": 6.0,
       "tags": [
         "closure"
@@ -67,11 +97,21 @@
       ]
     },
     {
+      "title": "Iran updates: Sea mines cleared from Strait of Hormuz, Pentagon says - NewsNation",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6UGh5V2UwUmI4N1dYMTFSRUlfUU1zZFpPYVpfRGRwbkZWeTVBWmNpdmxwVkF4T3d0cFpaYmljSGR4RmVnWk5rQlg1Qm13VEZMdGRMdDJlSUNxakwybGhUVjlnM2xOMGZWZ3B2eENVazVhQmxoeWk3bHE2OHDSAYIBQVVfeXFMUG4yS3FqQUpfeGs2aHhnX0tqQ1ZOUVo1SVdBUVh2Skx2UWJHZ1FJa3pudW9XZzY3VmxHVTBXSjhjQUFJMWxHWWxTbWJmVmZjWlRyR0Nsa1R5SEVqNkx3dXJYbEpoM0JhaGQ1anY3NVdNdjhEc3Rpb2xVZ2o1YXJrdXZsQQ?oc=5",
+      "source": "NewsNation",
+      "published": "2026-08-27T23:34:07+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
       "title": "Tehran and Muscat Agree on Clearing Mines in Strait of Hormuz After Trump Announcement - Iran Focus",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObW13SFNURUhhM005NDhvdmRMY05pTVVhLWk2TmpWbjg2U0lVUjJqWlAxVmNvWkhtS3pfT0hNUm5xa2hYQ2Z6cE9LdE5ENU9oWFBNZGJkU1A1SnZYZDhJWHpvRVMzLWdfdk1EVnFwNHlJUHZUOUQxODJBYmlmMThSSTB4dXIwdzFqUWtmUDNmczBzSkZheVVuZzVOYTh1UERHUDFkVjI0cUxHSGdMRjNlT1hzUlFnY1EwWjg5ZdIBwgFBVV95cUxQaU13WGh4Nm1XUnVYZFNkODZUQzFGQ3ktMi16cTNvZzhTQ3pMOEwzRTEwVHhXX1JOUWVFckZZamJwcWhkWkJnR2lVSS1hU0hXYm80QTVxcmZCcVNLT29xa2EwSV85eUpyY3JKTkR0VXp6R1lySUo1Q2hfVmZyQXFzM2Jwa0dXT1JDc3VteGxveWtGaUk0MFczaHh3cmV1c1lPT1NjVkJXYURNV085V2I0Y2dGekFSNjlGcnVYajNOVHBXQQ?oc=5",
       "source": "Iran Focus",
       "published": "2026-08-26T18:04:12+00:00",
-      "score": 5.32,
+      "score": 5.01,
       "tags": [
         "closure"
       ]
@@ -81,54 +121,14 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbjRQT0FhVDJiN29IUmFuWF9xTlV0NWdBNmo4QmJDeUpLMnRJTzdaeTQ2djM4Z0Z2UHY2NFVkTzN4WVN5S0dCeUUzOXh3N2tUOGhJSC1DdC00ZzJJckN6UjhHYnAzS1pESzVKRW1BY0VyYTczQTRlMVFCZmNnMWYzdGJFNUlXWEtkWFRQYlkyblhRR1JnX3hGYkx4OA?oc=5",
       "source": "Z100 New York",
       "published": "2026-08-26T06:20:00+00:00",
-      "score": 4.93,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Trump Announces Mines Cleared From Strait Of Hormuz - WGY",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdWFFdTdMYkJKYkVyalRXZV9ZbU1ndU4tREhEcUtGWk1vV2FlU0lJcTFERUxyVnVtNlB6MlZSY0kwd0xNcTlDSlRnV2lwd2ZBVGZveDY1NzR0OEdSa1ZzVFZIS2xCeFdEVUg5MGtTXzJLbXNIUEd5Ri1tWjdieGk2aFZES1AyVjRwY0M4amRvVUhrbzJkTWVhTlJB?oc=5",
-      "source": "WGY",
-      "published": "2026-08-26T06:20:00+00:00",
-      "score": 4.93,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Trump Declares Strait of Hormuz Fully Cleared of Mines - Around Prague",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXFTR1B6eVBUd1lPWVMxMldNQ3BDTTBFX3VzT25tOV9sWWsyQ3JuYzJEREV1R3F6Qm1FOGViU0Y1VGh3SzlUX2R0SDFqTnZGeVdYazV0dDBOWm9seVlTSDlOd2cwN2FGVU5RNmROS3lYTVdfMFk5aTA4R1c2TkthTklHU1FLZHlFLVJtOHNIWQ?oc=5",
-      "source": "Around Prague",
-      "published": "2026-08-26T00:07:36+00:00",
-      "score": 4.72,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Strait of Hormuz cleared of all mines, Donald Trump says citing US Navy - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GM0JJTVQtb19jZzk5WldDZTVxOVpsb2d1bEhXdUU4ampQYlRtNDhFb2RJQ3ZxSFkxMFBEYXlQYUhwQ1hodWtkazFpQXJ5dkYzTVJlVFdDd09PMmkzTkEwaU4zWVltV3hTaUE?oc=5",
-      "source": "The Jerusalem Post",
-      "published": "2026-08-25T17:26:33+00:00",
-      "score": 4.5,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE96cjBibnU4b2hJd3VMYWZhS2EtUXhudDdYaWdhbUJWaEx5OF9sd3BwdFA5dUhUTlBFeTl6QVYzcVMwdEJEWS1jOEg0Y2VtQVZSLW95bFYwMkxWSGxwZ1FrYzNMNk54T3N3TFJOcTBST0JDUdIBd0FVX3lxTFBzOWdXTm5HXzl0SkxEc2VPLXpDeVRJZnk4YTJjRndaZmZrVG03Yy1kMlplOV9EVzFkWWlkalFOMlZoZVlSWVF4c2hVOVZvdDBHUVRFbVhwdFpsZ1BnbmMyQ1VJYndaMDNpNTh5cDNlbG9NbUgxSWlR?oc=5",
-      "source": "CNBC",
-      "published": "2026-08-25T17:16:25+00:00",
-      "score": 4.49,
+      "score": 4.62,
       "tags": [
         "closure"
       ]
     }
   ],
   "brent": {
-    "price": 87.77,
-    "change_pct": -0.85
+    "price": 88.29,
+    "change_pct": -0.26
   }
 }
