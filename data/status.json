@@ -1,11 +1,22 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 137.3,
-  "closure_signals": 4,
-  "articles_scanned": 220,
-  "updated": "2026-08-31T09:10:50.868476+00:00",
+  "tension_index": 188.6,
+  "closure_signals": 13,
+  "articles_scanned": 231,
+  "updated": "2026-08-31T17:09:38.327904+00:00",
   "headlines": [
+    {
+      "title": "Iran\u2019s Revolutionary Guards say supertanker struck by mines in Strait of Hormuz - Arab News",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wd1V6TTJRUW1GZ01VWGZ0RHNaY2dCLUVObGR5WmZxZ1FCRjBxSGhweGtCQUVhZmFjVXM4M0tXRngzVGVGY040ZUdPREtfX0dQSXQwbjlQbG5LNmN5UHc?oc=5",
+      "source": "Arab News",
+      "published": "2026-08-31T05:19:37+00:00",
+      "score": 9.0,
+      "tags": [
+        "closure",
+        "tension"
+      ]
+    },
     {
       "title": "Iran says supertanker struck by mines in Strait of Hormuz - CNA",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSERUY2ZIcWlIRmcxU0ZzU0xmSUtvbXdTelNNV2dWMHBJTUo5eUVHZU5xMEcxekVrRWIzVURmRVVVWlVsZEREUEtrZTFGamUtdFE2U0NqdnQxVFZydmlDblA2MGVnT216WEhaUWJqODVGQXNYUEY1WnFmMVpabm1LSFE4WnNFWFloQnN2ZHNhYWVBcjA?oc=5",
@@ -18,10 +29,90 @@
       ]
     },
     {
+      "title": "IRGC say Strait of Hormuz closed to all ships \u00bb Iraqi News Agency - \u0648\u0643\u0627\u0644\u0629 \u0627\u0644\u0627\u0646\u0628\u0627\u0621 \u0627\u0644\u0639\u0631\u0627\u0642\u064a\u0629 (\u0648\u0627\u0639)",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMzNsZU12SFRtZlVKVFhwcnltSGc4bkdyTHpSOW1KdnZzSFhHMHJ4bzJ6RC1tQUtGTjRJMXZVSE1wS0RQR1VPVWxhTnR5anY3VkFzdEhNdjBqMC1ucTNpVmFKbG14dzM5cF92RnNBd2IzdUZSS0hQaEROOENNYnV1VWszVndtbEdwUkMtZmlFYWh2QQ?oc=5",
+      "source": "\u0648\u0643\u0627\u0644\u0629 \u0627\u0644\u0627\u0646\u0628\u0627\u0621 \u0627\u0644\u0639\u0631\u0627\u0642\u064a\u0629 (\u0648\u0627\u0639)",
+      "published": "2026-08-27T21:13:27+00:00",
+      "score": 6.23,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "CENTCOM Denies Iran Claim That Tanker Hit Mines in Strait of Hormuz - Kurdistan24",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUEtmQ19aVk1Ea2xTUEdzNkpaRkphdldrY2pxNHF1akNjTHB2SDU2cGdZN2p5bEpLS25oaXpBYUNjc2xFRWpISmVoMlgzU3FhcER1YUlSRFFyaVFUSkM2ZU9JeTd1dXRiMjJ3VTBEUm42enBUSjkwbDB4Y2dWY1hBRFVfYVVaNkdaakhUdnlvSkd0VGNqdm9HcWhtTlJwSTlqSFBDdFhPVjN1UkFta1FlVQ?oc=5",
+      "source": "Kurdistan24",
+      "published": "2026-08-31T15:00:00+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "US denies Iranian claim that tanker hit mines in Strait of Hormuz - Anadolu Ajans\u0131",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWWV5QlcyXzI5dG53ZFpRb0RiOHdGdWliLWswQ1RET3hQLWRORk9ZdVEyRGhGdXVBNF9OZUVNeFNIanNXaE1KUXI1SFdDbGd6WHc2REI2RXJpTWV3WVR4XzJrUVBlRXc2OHZoemNYTTkxM193bGxITXctQUZlSWZzMVFUeVFDOF9oSE9rNG11TVg5MWZOeVhDcnFYQWk5Y2xPTEFtektJWWxnTmF2NVhB?oc=5",
+      "source": "Anadolu Ajans\u0131",
+      "published": "2026-08-31T14:49:47+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "The Mine-Free Strait of Hormuz - nationalreview.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMExOVVoxLS1TUjNDYnZpUHVWZVN5bERyNW5XSXlUVG14MHpOQ09HTU43Wk9LUmdiRWp5VU9VaUxGWEsySlZ4YVFMeGFwakJEbHBZRTNLNFZ5cjhXMzRCVGJ1YjJRbkkwUVFuZThpckpkQW5HdVZFUjU1Z0paQVZiYW5JU1o3UdIBiwFBVV95cUxQcndQcGZXcFItak56ZWlEeHpEQlIyalJCUHZ3M1lBaFpiVUdLZ095aEpxaG44WkFLQWIwMzM2MnplOWo0Vm5mYmt0Q2FyTEFmaUUwODY1WTlrcTdXUGhMQjM5WmcyU2sxMDh6VlkzZnE1eVBrVzNXZURDbkNoNkZBejA2Q3NpQ2tERUww?oc=5",
+      "source": "nationalreview.com",
+      "published": "2026-08-31T14:01:10+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Can Iran use rockets to mine the Strait of Hormuz, as US claims? - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdVp4TUZwdzl1RkRLWjNXR19ad1FWRWZ6by1YMUxNck1XX3R0MDB5OUc0cDE0SmszaUdRS0VWaDJVaDEzXzlqQzl2WkNoODZJeWRTTXVBM3dmbmZSekFrNTZ4VUZ1X3FHSGV6WW9xaGNTTnViUGxGYWs3dnQ1bHV4U1lfYlptOHIyWERKNE1DS09EaFYwc0tpOUlJUVNzdEZQbXBYUzZn0gGrAUFVX3lxTE9CMkdLYTRQNkJadk55dXBSRnFGLVZDWHNQNm8wcF9mc1FONHZzUnVVbnVwYTRDRnRIejFMUEVKWkQ1SmhwbGptRC1HY3djYW1JQ1VRMTlseTJ4TnJyOVMxOFBFTUJ0VGVBVWdsajRMcXdxUFlDTVl4LTMxNmM5bkhzVzZfdlRpUUZjME96aF9wWUFLcHBFSEFNdnBqVFhaOUJXakx2ZUZVYkpmRQ?oc=5",
+      "source": "Al Jazeera",
+      "published": "2026-08-31T13:03:55+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iran Says Supertanker Hit by Mines in Strait of Hormuz - oilprice.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQnNQdTZrdjVOQmRpQ0dHZnNrNWdPaFVzTF94cTlOSWpWeW40aUxfMVRabVNJdldxQkF5UDR2UUMzUXBMWDZyYzVDWGxfSE5tVExmUjRQWEFueEN1cTdsQjI5VFJJZHJ4clB5ZExQQ0tKX3RSS1BJR2xoclE2dVdXZk9odUNSdzlOU3djaEFPMDRCQXV5NzZ2anJWbE1ILVJ4cjJZbk9YRGRScWx4WEZB0gG0AUFVX3lxTE13Sm9DOXQ2TW8wX2g3Nk85eTg5d1gxVEhwTDJxLUpKM25XOWota1dEZXVYRG9nV29FdVVBRFdRNTV1eGJzX3JkWWVRV05VR2VPYjM3RTJWeko0WjZYMjczLUZmN05xdDhIYU5uakh3NzZvVTFjdVhMb3poZEJjUEpiUmdCVVFfWkpRWkNyc0o3LUVaNWZodVJHSGk5M2hJUzJGNnNnQ2stcnZwWGpwTWhJNDFaRQ?oc=5",
+      "source": "oilprice.com",
+      "published": "2026-08-31T11:00:00+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "IRGC: Oil tanker catches fire after hitting mines in Strait of Hormuz - Middle East Eye",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOVFxeWE1bGg5VnZEaVdBdDc1clZ0WDVlejMzRjZGQWltVFBWU0FKTlFpRHMyM05pcy1pYW9sNjBZbjVZSmMzdm1QRWY1WFJ6NXFEdTF0ZTZfRkdpRGI1SU42VWZVN3J4eHpXRC1YUlVRZjBhdzE5aGdkQmQ3THVTTHNfRUxiMjVLRm1GZXpMRWxkN1d0b2tRaHo5cXZlckV4aGhKWDFYMWpxTmVLVjNfQ0syTlJ0TzdMYzZj?oc=5",
+      "source": "Middle East Eye",
+      "published": "2026-08-31T10:16:00+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
       "title": "Iran Says Oil Tanker Hit Two Mines in Hormuz as US Claim of Clear Strait Is Directly Contradicted - Kurdistan24",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HWnRyR1lza09XeXFRLUVTdE1YV1NiQkVwU0UzMW1NSk9MUmFZZmlKWlRCbTJzcm9JOEM3VnhnT0VJTXF2ZnFvRzRhN3l5YVl2TmZiVFpn?oc=5",
       "source": "Kurdistan24",
       "published": "2026-08-31T07:25:00+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Super Tanker Catches Fire After Hitting Sea Mines in Strait of Hormuz: IRGC - \u062a\u0633\u0646\u06cc\u0645",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY25DbmtLMkdUUTdQZFZNcGt3R2cyeEpQaVJKRlhNc1RvcGVyWnYzQlMzMGd1VjJDdkV3ckE3LW1od2FrMFB1UW42elV5RlJkUVdRekJFd1ZWLWxFUTBPNk5QMTZWMThnLVVCNVgtM1JoVXR3THY1SHNxRllNaFc3bnBWcmh1YWpRdnBfV19rVHVXamwxcjBXRlNPdnprVEFIMHFYT0pQZzFSVnlGaEZzWl9zUWQwa0VmckVHVDVZMGNZSF8ydnfSAcsBQVVfeXFMT0ZEVUxsQUxGVnlTX0dNVkdzZlBBb29UWEpOZjQzSklnam56UDhnanM1ZHR1OThBVFlUYzF2OWtBdjUzQm9xMFI2VjVtVE5BaXhVa1N3S2R3eWFZdy1ZNW1adG9MYXhFdDRLUXU2MHQwaEUtVmhLVnRjd1p3cWZwZEc1V3lGbHlLN2hNVHJVSVJJQl9ZMktoeklVc3AtR3YyVDdPZWFTbmNubmNrMVkxcnVuSGxUcVQ3NFIzQUYxeXpfZHN2QTVXYVhzWDg?oc=5",
+      "source": "\u062a\u0633\u0646\u06cc\u0645",
+      "published": "2026-08-31T06:14:13+00:00",
       "score": 6.0,
       "tags": [
         "closure"
@@ -36,100 +127,10 @@
       "tags": [
         "closure"
       ]
-    },
-    {
-      "title": "Navy has cleared mines from the Strait of Hormuz, CENTCOM says - Task & Purpose",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZHRPQ0NvVGJhVGtXVml5Q3dtXy1iM2lZZ3c1S2ZEYm5QcURnZkJSaEw1Slo3SnlrajlpejFzd09FU0ZTaGxzM0NwbHFrR05vRjZxYXV4a002UTkta2FNTDc1eDZ5QUdhZmRWbGNXcWdZTnBBcFBuaDk5ZVQxeHdmOQ?oc=5",
-      "source": "Task & Purpose",
-      "published": "2026-08-29T19:54:17+00:00",
-      "score": 5.56,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Mines Cleared From Strait Of Hormuz; More Oil Flowing - Eurasia Review",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU2hIb1hPWkJqSkgwck9XRk9zby1BOWxMbDB4TzN3cmIwTnZVajNNREFZVFU4bTRucXJfTHh4T3BQenNPOGx5ZWpFenkwSDdEbnVuQ3JhbXJKZHk3WW9zR0pWbGx1a3VWX0hBWDFVSHRUd3c0b08ycEhQTGFWa2JKQThsTDVkWFdaOW5acVJjVnBodHgwb0lR?oc=5",
-      "source": "Eurasia Review",
-      "published": "2026-08-28T23:32:32+00:00",
-      "score": 4.88,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "US forces \u2018got the job done\u2019 in clearing mines from Strait of Hormuz, CENTCOM boss says - stripes.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRF96Zlp1UnhwcVZpVWlDSkNnYkZZNTAySEM4TmxYRjNwTFRjWGdma3IyWlRwN09TdTI2clR3RzR3cFl5N1BZdVJhUkpSVDNzb1llM1pSemxKQVF2R3doa29mVWFXQlNRXzZERVJPMk53YXZIcFJOY2ROQnJqdWpjbTAxUVFjOXBJU3VLdENERG1WRWNUaGZ0V1RCZXBrVjdOWWF3b3pVV29rUnM?oc=5",
-      "source": "stripes.com",
-      "published": "2026-08-28T12:45:09+00:00",
-      "score": 4.52,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "CENTCOM says Strait of Hormuz cleared of Iranian sea mines - upi.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdHlVaWFBa0dhM0taQU9zeVFTOUpsRTZLRTlOQUpFdjRkM2lVM0VoeDZtWDNRa2J0dFNwVS1DZ1VJbHdjb2tmeTFGM2lHdzFKcmhzRmxwcWlzZURpQUhybVQ4eUwxTnVIUUlNa05RRW53S2JLZVVIMzBJVEt6WWt6aG9IMm5UVlcxVlNObnBJeHQ0MkF2VC1wZU1yUdIBoAFBVV95cUxNS3ZGUl9tRVhfWnMtNTZmRVRVeWZKczI0c2doYVRYTmhLQUJHY1lmcF9QMjhWVWlhS1RuMFBEMUpraHJJdnFjVHNmLWVma1VVME94eEppTWZrWEFBdkpHUWhtNzI5bHBJUGYxY3psMW9MT29qS1Z2dGUxVkRPVGFFbnkydFJ2VGU2c0ltQlFEdmQtN29nNzlWY29BbzZEazda?oc=5",
-      "source": "upi.com",
-      "published": "2026-08-28T07:51:00+00:00",
-      "score": 4.36,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Iran updates: Sea mines cleared from Strait of Hormuz, Pentagon says - NewsNation",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6UGh5V2UwUmI4N1dYMTFSRUlfUU1zZFpPYVpfRGRwbkZWeTVBWmNpdmxwVkF4T3d0cFpaYmljSGR4RmVnWk5rQlg1Qm13VEZMdGRMdDJlSUNxakwybGhUVjlnM2xOMGZWZ3B2eENVazVhQmxoeWk3bHE2OHDSAYIBQVVfeXFMUG4yS3FqQUpfeGs2aHhnX0tqQ1ZOUVo1SVdBUVh2Skx2UWJHZ1FJa3pudW9XZzY3VmxHVTBXSjhjQUFJMWxHWWxTbWJmVmZjWlRyR0Nsa1R5SEVqNkx3dXJYbEpoM0JhaGQ1anY3NVdNdjhEc3Rpb2xVZ2o1YXJrdXZsQQ?oc=5",
-      "source": "NewsNation",
-      "published": "2026-08-28T07:24:08+00:00",
-      "score": 4.34,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "U.S. Military Says It Has Cleared Iran\u2019s Mines From Strait of Hormuz Shipping Lanes - gCaptain",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWHFLOHRJLVpsWEVvTmR5Q2h6eGpJalZqa2xRQmNDZVN0UFFNbHV6R05sYjlXemJOci1LZllPYWNwazNUZUVLZ1JpcnhDVjlJa29LT0RqYmhhOWlFMWhLNFhMOUNnRU5ENDU2Tko5eWdBSkZreG1nUldOX2lLeDEtMExBU0ZHUG04WXJDNEtnbW53dEtJUHJ2SUFkdFhya096WVl4MVB3?oc=5",
-      "source": "gCaptain",
-      "published": "2026-08-28T04:07:19+00:00",
-      "score": 4.23,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Centcom says Iranian sea mines cleared from Strait of Hormuz transit routes - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdXowNGcxb1QyQVpVWVVhbEdyeVBjRmJiZUNFdi12eDhTN200eDBxTVByOHNNd21YVVo3Y3U0cXVkaDBNYVdGY284Y0dwZjN5MXdKQTZvbzFNNjQ3bVFiMk5zUWNkVVNwUmZKRnJuQUpWMzhrdzBVclJ4N3FhMnJXNTlXTmpIZ9IBiwFBVV95cUxQekNtVklxN0JCMVdEaGhCeFdXSGROMjZ4SlN6VjgweF80MDh4S1Rfd1Z2eXBLRlpTR3VqREwyY3U0Smp1aE5sZ1NLVGxxYjFoNURnT1E3TmlnYlpTQTRFQk5Td3h6SW1STFN2b1NiVDFtVGdQTWhpd21HT0loNkRDcUg0UlA5cGF0dnlF?oc=5",
-      "source": "The Hill",
-      "published": "2026-08-28T01:40:00+00:00",
-      "score": 4.15,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Another tanker struck in Strait of Hormuz as US-Iran tensions flare anew - Lloyd's List",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcHd4Y29xc1p1bjlkZ25wWmQ0OExIMklXeDR5YVgwYkwxd1BIQ3RTSUYzNExnU2xGRHNlM0d3VVBqT3ctS242RVhmTnZYRWJ2VjBfSjllZ1BWV0VJa3FGYmh6cWh0aVV3VlB1TEoxSXFEUjFhRm9jVWlvMnd4eWxBa2l3OVlOU0xtV0RVY1pTRTIwUmNTMXo1eDgxaXgwT0lBbTk3bjBucVQ3Z2dyTmc?oc=5",
-      "source": "Lloyd's List",
-      "published": "2026-08-31T04:05:48+00:00",
-      "score": 4.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Tanker struck by 'unknown projectile' in Strait of Hormuz: UKMTO warning - Gulf News",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZVpVc2NjdmJmQWkxLVZldFpRRnpiSTc3Wi13VmlLYl9lR1ZqVWwtMVJUYmZGdFdXNEItM21iNks5QWJ6eFRBZkZHTWs1MVphTmF5MDNyamRPNVNtZmVVdWY5WFdHUWpTNXduYVQ3d0dhZDVwaFphOU5ZbllxZl9pYUZTaHVHSmpKNXdSeHRhdUh3WUlLRVhrVE14M3hFS1lOc0NLeXZMMkhoRVE5QUJrZWxFMA?oc=5",
-      "source": "Gulf News",
-      "published": "2026-08-30T17:23:52+00:00",
-      "score": 4.0,
-      "tags": [
-        "tension"
-      ]
     }
   ],
   "brent": {
-    "price": 88.85,
-    "change_pct": 3.17
+    "price": 88.2,
+    "change_pct": 2.42
   }
 }
