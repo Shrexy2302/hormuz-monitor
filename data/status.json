@@ -1,17 +1,38 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 113.0,
-  "closure_signals": 3,
-  "articles_scanned": 228,
-  "updated": "2026-08-31T02:49:17.717585+00:00",
+  "tension_index": 137.3,
+  "closure_signals": 4,
+  "articles_scanned": 220,
+  "updated": "2026-08-31T09:10:50.868476+00:00",
   "headlines": [
     {
-      "title": "IRGC say Strait of Hormuz closed to all ships \u00bb Iraqi News Agency - \u0648\u0643\u0627\u0644\u0629 \u0627\u0644\u0627\u0646\u0628\u0627\u0621 \u0627\u0644\u0639\u0631\u0627\u0642\u064a\u0629 (\u0648\u0627\u0639)",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMzNsZU12SFRtZlVKVFhwcnltSGc4bkdyTHpSOW1KdnZzSFhHMHJ4bzJ6RC1tQUtGTjRJMXZVSE1wS0RQR1VPVWxhTnR5anY3VkFzdEhNdjBqMC1ucTNpVmFKbG14dzM5cF92RnNBd2IzdUZSS0hQaEROOENNYnV1VWszVndtbEdwUkMtZmlFYWh2QQ?oc=5",
-      "source": "\u0648\u0643\u0627\u0644\u0629 \u0627\u0644\u0627\u0646\u0628\u0627\u0621 \u0627\u0644\u0639\u0631\u0627\u0642\u064a\u0629 (\u0648\u0627\u0639)",
-      "published": "2026-08-27T21:13:27+00:00",
-      "score": 7.02,
+      "title": "Iran says supertanker struck by mines in Strait of Hormuz - CNA",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSERUY2ZIcWlIRmcxU0ZzU0xmSUtvbXdTelNNV2dWMHBJTUo5eUVHZU5xMEcxekVrRWIzVURmRVVVWlVsZEREUEtrZTFGamUtdFE2U0NqdnQxVFZydmlDblA2MGVnT216WEhaUWJqODVGQXNYUEY1WnFmMVpabm1LSFE4WnNFWFloQnN2ZHNhYWVBcjA?oc=5",
+      "source": "CNA",
+      "published": "2026-08-31T04:56:00+00:00",
+      "score": 9.0,
+      "tags": [
+        "closure",
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran Says Oil Tanker Hit Two Mines in Hormuz as US Claim of Clear Strait Is Directly Contradicted - Kurdistan24",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HWnRyR1lza09XeXFRLUVTdE1YV1NiQkVwU0UzMW1NSk9MUmFZZmlKWlRCbTJzcm9JOEM3VnhnT0VJTXF2ZnFvRzRhN3l5YVl2TmZiVFpn?oc=5",
+      "source": "Kurdistan24",
+      "published": "2026-08-31T07:25:00+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iran says tanker catches fire after striking 2 mines in Strait of Hormuz - Anadolu Ajans\u0131",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWnVNem9IQ1VOdzNBYV9XbGdqVHB3LUNPNWZOTGFsMEd6d2E1WGFhenV0TDk4MmRSMGNBblphMkxmbEVFTDhLZHl6MF96MXhfSHRaNU5CYnNPRXYxb3pIRDZ3YWozbF9ib0h5NVhiMTFDcFRsX0ZmcG10X0VuN19qQi1fUU42eU1PaHVJZ2x4aFBkZTNHVXJrZnV1dWlHMGl6WUhkdHVNSUFpU0Jqbi11elFvOEpyRWlq?oc=5",
+      "source": "Anadolu Ajans\u0131",
+      "published": "2026-08-31T05:49:37+00:00",
+      "score": 6.0,
       "tags": [
         "closure"
       ]
@@ -21,7 +42,7 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZHRPQ0NvVGJhVGtXVml5Q3dtXy1iM2lZZ3c1S2ZEYm5QcURnZkJSaEw1Slo3SnlrajlpejFzd09FU0ZTaGxzM0NwbHFrR05vRjZxYXV4a002UTkta2FNTDc1eDZ5QUdhZmRWbGNXcWdZTnBBcFBuaDk5ZVQxeHdmOQ?oc=5",
       "source": "Task & Purpose",
       "published": "2026-08-29T19:54:17+00:00",
-      "score": 5.77,
+      "score": 5.56,
       "tags": [
         "closure"
       ]
@@ -31,17 +52,7 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU2hIb1hPWkJqSkgwck9XRk9zby1BOWxMbDB4TzN3cmIwTnZVajNNREFZVFU4bTRucXJfTHh4T3BQenNPOGx5ZWpFenkwSDdEbnVuQ3JhbXJKZHk3WW9zR0pWbGx1a3VWX0hBWDFVSHRUd3c0b08ycEhQTGFWa2JKQThsTDVkWFdaOW5acVJjVnBodHgwb0lR?oc=5",
       "source": "Eurasia Review",
       "published": "2026-08-28T23:32:32+00:00",
-      "score": 5.09,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "CENTCOM: U.S. forces clear Iranian mines, keep Strait of Hormuz shipping lanes open - Florida\u2019s Voice",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQjFMQThPWFRLenNoS0hwTWdHMjNmOVJGODRYT0Mxc1Nvb09vdnF5aGhsUTd0dUFGVG51X0ltVFdtbzUxRmxuYXU3TjJGb0VVRk5DSzNZR3hSN0V6QkFPN0ZkQkJyaFFiWTY5em43a1l6VTVzcjV6VDlaR1Y2YmJVVlBpa3kybGZ6c2tXcmZsSWRNZHMzVjRtU1prV2FrSkkyZGttcktka0E?oc=5",
-      "source": "Florida\u2019s Voice",
-      "published": "2026-08-28T15:42:00+00:00",
-      "score": 4.83,
+      "score": 4.88,
       "tags": [
         "closure"
       ]
@@ -51,7 +62,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRF96Zlp1UnhwcVZpVWlDSkNnYkZZNTAySEM4TmxYRjNwTFRjWGdma3IyWlRwN09TdTI2clR3RzR3cFl5N1BZdVJhUkpSVDNzb1llM1pSemxKQVF2R3doa29mVWFXQlNRXzZERVJPMk53YXZIcFJOY2ROQnJqdWpjbTAxUVFjOXBJU3VLdENERG1WRWNUaGZ0V1RCZXBrVjdOWWF3b3pVV29rUnM?oc=5",
       "source": "stripes.com",
       "published": "2026-08-28T12:45:09+00:00",
-      "score": 4.73,
+      "score": 4.52,
       "tags": [
         "closure"
       ]
@@ -61,7 +72,7 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdHlVaWFBa0dhM0taQU9zeVFTOUpsRTZLRTlOQUpFdjRkM2lVM0VoeDZtWDNRa2J0dFNwVS1DZ1VJbHdjb2tmeTFGM2lHdzFKcmhzRmxwcWlzZURpQUhybVQ4eUwxTnVIUUlNa05RRW53S2JLZVVIMzBJVEt6WWt6aG9IMm5UVlcxVlNObnBJeHQ0MkF2VC1wZU1yUdIBoAFBVV95cUxNS3ZGUl9tRVhfWnMtNTZmRVRVeWZKczI0c2doYVRYTmhLQUJHY1lmcF9QMjhWVWlhS1RuMFBEMUpraHJJdnFjVHNmLWVma1VVME94eEppTWZrWEFBdkpHUWhtNzI5bHBJUGYxY3psMW9MT29qS1Z2dGUxVkRPVGFFbnkydFJ2VGU2c0ltQlFEdmQtN29nNzlWY29BbzZEazda?oc=5",
       "source": "upi.com",
       "published": "2026-08-28T07:51:00+00:00",
-      "score": 4.57,
+      "score": 4.36,
       "tags": [
         "closure"
       ]
@@ -71,7 +82,7 @@
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6UGh5V2UwUmI4N1dYMTFSRUlfUU1zZFpPYVpfRGRwbkZWeTVBWmNpdmxwVkF4T3d0cFpaYmljSGR4RmVnWk5rQlg1Qm13VEZMdGRMdDJlSUNxakwybGhUVjlnM2xOMGZWZ3B2eENVazVhQmxoeWk3bHE2OHDSAYIBQVVfeXFMUG4yS3FqQUpfeGs2aHhnX0tqQ1ZOUVo1SVdBUVh2Skx2UWJHZ1FJa3pudW9XZzY3VmxHVTBXSjhjQUFJMWxHWWxTbWJmVmZjWlRyR0Nsa1R5SEVqNkx3dXJYbEpoM0JhaGQ1anY3NVdNdjhEc3Rpb2xVZ2o1YXJrdXZsQQ?oc=5",
       "source": "NewsNation",
       "published": "2026-08-28T07:24:08+00:00",
-      "score": 4.55,
+      "score": 4.34,
       "tags": [
         "closure"
       ]
@@ -81,7 +92,7 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWHFLOHRJLVpsWEVvTmR5Q2h6eGpJalZqa2xRQmNDZVN0UFFNbHV6R05sYjlXemJOci1LZllPYWNwazNUZUVLZ1JpcnhDVjlJa29LT0RqYmhhOWlFMWhLNFhMOUNnRU5ENDU2Tko5eWdBSkZreG1nUldOX2lLeDEtMExBU0ZHUG04WXJDNEtnbW53dEtJUHJ2SUFkdFhya096WVl4MVB3?oc=5",
       "source": "gCaptain",
       "published": "2026-08-28T04:07:19+00:00",
-      "score": 4.44,
+      "score": 4.23,
       "tags": [
         "closure"
       ]
@@ -91,9 +102,19 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdXowNGcxb1QyQVpVWVVhbEdyeVBjRmJiZUNFdi12eDhTN200eDBxTVByOHNNd21YVVo3Y3U0cXVkaDBNYVdGY284Y0dwZjN5MXdKQTZvbzFNNjQ3bVFiMk5zUWNkVVNwUmZKRnJuQUpWMzhrdzBVclJ4N3FhMnJXNTlXTmpIZ9IBiwFBVV95cUxQekNtVklxN0JCMVdEaGhCeFdXSGROMjZ4SlN6VjgweF80MDh4S1Rfd1Z2eXBLRlpTR3VqREwyY3U0Smp1aE5sZ1NLVGxxYjFoNURnT1E3TmlnYlpTQTRFQk5Td3h6SW1STFN2b1NiVDFtVGdQTWhpd21HT0loNkRDcUg0UlA5cGF0dnlF?oc=5",
       "source": "The Hill",
       "published": "2026-08-28T01:40:00+00:00",
-      "score": 4.36,
+      "score": 4.15,
       "tags": [
         "closure"
+      ]
+    },
+    {
+      "title": "Another tanker struck in Strait of Hormuz as US-Iran tensions flare anew - Lloyd's List",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcHd4Y29xc1p1bjlkZ25wWmQ0OExIMklXeDR5YVgwYkwxd1BIQ3RTSUYzNExnU2xGRHNlM0d3VVBqT3ctS242RVhmTnZYRWJ2VjBfSjllZ1BWV0VJa3FGYmh6cWh0aVV3VlB1TEoxSXFEUjFhRm9jVWlvMnd4eWxBa2l3OVlOU0xtV0RVY1pTRTIwUmNTMXo1eDgxaXgwT0lBbTk3bjBucVQ3Z2dyTmc?oc=5",
+      "source": "Lloyd's List",
+      "published": "2026-08-31T04:05:48+00:00",
+      "score": 4.0,
+      "tags": [
+        "tension"
       ]
     },
     {
@@ -105,30 +126,10 @@
       "tags": [
         "tension"
       ]
-    },
-    {
-      "title": "Tehran and Muscat Agree on Clearing Mines in Strait of Hormuz After Trump Announcement - Iran Focus",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObW13SFNURUhhM005NDhvdmRMY05pTVVhLWk2TmpWbjg2U0lVUjJqWlAxVmNvWkhtS3pfT0hNUm5xa2hYQ2Z6cE9LdE5ENU9oWFBNZGJkU1A1SnZYZDhJWHpvRVMzLWdfdk1EVnFwNHlJUHZUOUQxODJBYmlmMThSSTB4dXIwdzFqUWtmUDNmczBzSkZheVVuZzVOYTh1UERHUDFkVjI0cUxHSGdMRjNlT1hzUlFnY1EwWjg5ZdIBwgFBVV95cUxQaU13WGh4Nm1XUnVYZFNkODZUQzFGQ3ktMi16cTNvZzhTQ3pMOEwzRTEwVHhXX1JOUWVFckZZamJwcWhkWkJnR2lVSS1hU0hXYm80QTVxcmZCcVNLT29xa2EwSV85eUpyY3JKTkR0VXp6R1lySUo1Q2hfVmZyQXFzM2Jwa0dXT1JDc3VteGxveWtGaUk0MFczaHh3cmV1c1lPT1NjVkJXYURNV085V2I0Y2dGekFSNjlGcnVYajNOVHBXQQ?oc=5",
-      "source": "Iran Focus",
-      "published": "2026-08-26T18:04:12+00:00",
-      "score": 3.31,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Iran retaliates after first US strikes in a month - Al-Monitor",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOVdfSUZtYU40OWtBVlFNaEhFVVl3WjhtVnRBWHZ1SmkzY3BxdjRDeHNzNjJxQWttX2RnVVBYMER3YnA5ODd4QzF6WVlyMWJFa0p4TlhfbkhMOTdhUjQySld3dlAwNllzMW1PcmltM0ZrQ293ZmpkNG5BR1RoX3ozRmFqQ1lCY05kRGN5REpGMG5nZFk?oc=5",
-      "source": "Al-Monitor",
-      "published": "2026-08-31T02:30:27+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
     }
   ],
   "brent": {
-    "price": 90.5,
-    "change_pct": 2.72
+    "price": 88.85,
+    "change_pct": 3.17
   }
 }
