@@ -1,17 +1,27 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 194.9,
+  "tension_index": 225.0,
   "closure_signals": 12,
-  "articles_scanned": 232,
-  "updated": "2026-09-01T01:02:10.318271+00:00",
+  "articles_scanned": 234,
+  "updated": "2026-09-01T06:25:56.291978+00:00",
   "headlines": [
+    {
+      "title": "MORNING BUSINESS REPORT: Strait Of Hormuz Closed, Home Prices Rise Game Hockey Canadien (Dnnvy8axNa) - Mshale",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tdXJhN1BGQTZqVVhhVHk0emJQSGZRb1R6OFlkak5EZUdzRmdtSjhPa3BUalZTWE96YWFPV2h4MDdsQlRLMmtuOG9vZXVtTjQtWENJMlpFQjF0NDg?oc=5",
+      "source": "Mshale",
+      "published": "2026-08-30T20:32:56+00:00",
+      "score": 9.45,
+      "tags": [
+        "closure"
+      ]
+    },
     {
       "title": "Iran says supertanker struck by mines in Strait of Hormuz - CNA",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSERUY2ZIcWlIRmcxU0ZzU0xmSUtvbXdTelNNV2dWMHBJTUo5eUVHZU5xMEcxekVrRWIzVURmRVVVWlVsZEREUEtrZTFGamUtdFE2U0NqdnQxVFZydmlDblA2MGVnT216WEhaUWJqODVGQXNYUEY1WnFmMVpabm1LSFE4WnNFWFloQnN2ZHNhYWVBcjA?oc=5",
       "source": "CNA",
       "published": "2026-08-31T04:56:00+00:00",
-      "score": 9.0,
+      "score": 8.93,
       "tags": [
         "closure",
         "tension"
@@ -19,7 +29,7 @@
     },
     {
       "title": "CENTCOM Denies Iran Claim That Tanker Hit Mines in Strait of Hormuz - Kurdistan24",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUEtmQ19aVk1Ea2xTUEdzNkpaRkphdldrY2pxNHF1akNjTHB2SDU2cGdZN2p5bEpLS25oaXpBYUNjc2xFRWpISmVoMlgzU3FhcER1YUlSRFFyaVFUSkM2ZU9JeTd1dXRiMjJ3VTBEUm42enBUSjkwbDB4Y2dWY1hBRFVfYVVaNkdaakhUdnlvSkd0VGNqdm9HcWhtTlJwSTlqSFBDdFhPVjN1UkFta1FlVQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JczBrUDNockhTc2ZDLXJUVl91eGF0VTJZeUdBdWROcVg1MGNBeDZxcjU5Tm1zSlBBR2hrWFNTNHZrQ1BCTDRWNUJMR1BxT0QyZEtCZnhn?oc=5",
       "source": "Kurdistan24",
       "published": "2026-08-31T20:20:00+00:00",
       "score": 6.0,
@@ -28,19 +38,9 @@
       ]
     },
     {
-      "title": "US denies Iranian claim that tanker hit mines in Strait of Hormuz - Anadolu Ajans\u0131",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWWV5QlcyXzI5dG53ZFpRb0RiOHdGdWliLWswQ1RET3hQLWRORk9ZdVEyRGhGdXVBNF9OZUVNeFNIanNXaE1KUXI1SFdDbGd6WHc2REI2RXJpTWV3WVR4XzJrUVBlRXc2OHZoemNYTTkxM193bGxITXctQUZlSWZzMVFUeVFDOF9oSE9rNG11TVg5MWZOeVhDcnFYQWk5Y2xPTEFtektJWWxnTmF2NVhB?oc=5",
-      "source": "Anadolu Ajans\u0131",
-      "published": "2026-08-31T14:49:47+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "The Mine-Free Strait of Hormuz - National Review",
+      "title": "The Mine-Free Strait of Hormuz - nationalreview.com",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMExOVVoxLS1TUjNDYnZpUHVWZVN5bERyNW5XSXlUVG14MHpOQ09HTU43Wk9LUmdiRWp5VU9VaUxGWEsySlZ4YVFMeGFwakJEbHBZRTNLNFZ5cjhXMzRCVGJ1YjJRbkkwUVFuZThpckpkQW5HdVZFUjU1Z0paQVZiYW5JU1o3UdIBiwFBVV95cUxQcndQcGZXcFItak56ZWlEeHpEQlIyalJCUHZ3M1lBaFpiVUdLZ095aEpxaG44WkFLQWIwMzM2MnplOWo0Vm5mYmt0Q2FyTEFmaUUwODY1WTlrcTdXUGhMQjM5WmcyU2sxMDh6VlkzZnE1eVBrVzNXZURDbkNoNkZBejA2Q3NpQ2tERUww?oc=5",
-      "source": "National Review",
+      "source": "nationalreview.com",
       "published": "2026-08-31T14:01:10+00:00",
       "score": 6.0,
       "tags": [
@@ -48,9 +48,9 @@
       ]
     },
     {
-      "title": "Can Iran use rockets to mine the Strait of Hormuz, as US claims? - aljazeera.com",
+      "title": "Can Iran use rockets to mine the Strait of Hormuz, as US claims? - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdVp4TUZwdzl1RkRLWjNXR19ad1FWRWZ6by1YMUxNck1XX3R0MDB5OUc0cDE0SmszaUdRS0VWaDJVaDEzXzlqQzl2WkNoODZJeWRTTXVBM3dmbmZSekFrNTZ4VUZ1X3FHSGV6WW9xaGNTTnViUGxGYWs3dnQ1bHV4U1lfYlptOHIyWERKNE1DS09EaFYwc0tpOUlJUVNzdEZQbXBYUzZn0gGrAUFVX3lxTE9CMkdLYTRQNkJadk55dXBSRnFGLVZDWHNQNm8wcF9mc1FONHZzUnVVbnVwYTRDRnRIejFMUEVKWkQ1SmhwbGptRC1HY3djYW1JQ1VRMTlseTJ4TnJyOVMxOFBFTUJ0VGVBVWdsajRMcXdxUFlDTVl4LTMxNmM5bkhzVzZfdlRpUUZjME96aF9wWUFLcHBFSEFNdnBqVFhaOUJXakx2ZUZVYkpmRQ?oc=5",
-      "source": "aljazeera.com",
+      "source": "Al Jazeera",
       "published": "2026-08-31T13:03:55+00:00",
       "score": 6.0,
       "tags": [
@@ -68,9 +68,9 @@
       ]
     },
     {
-      "title": "IRGC: Oil tanker catches fire after hitting mines in Strait of Hormuz - Middle East Eye",
+      "title": "IRGC: Oil tanker catches fire after hitting mines in Strait of Hormuz - middleeasteye.net",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOVFxeWE1bGg5VnZEaVdBdDc1clZ0WDVlejMzRjZGQWltVFBWU0FKTlFpRHMyM05pcy1pYW9sNjBZbjVZSmMzdm1QRWY1WFJ6NXFEdTF0ZTZfRkdpRGI1SU42VWZVN3J4eHpXRC1YUlVRZjBhdzE5aGdkQmQ3THVTTHNfRUxiMjVLRm1GZXpMRWxkN1d0b2tRaHo5cXZlckV4aGhKWDFYMWpxTmVLVjNfQ0syTlJ0TzdMYzZj?oc=5",
-      "source": "Middle East Eye",
+      "source": "middleeasteye.net",
       "published": "2026-08-31T10:16:00+00:00",
       "score": 6.0,
       "tags": [
@@ -88,11 +88,21 @@
       ]
     },
     {
-      "title": "Super Tanker Catches Fire After Hitting Sea Mines in Strait of Hormuz: IRGC - tasnimnews.ir",
+      "title": "Super Tanker Catches Fire After Hitting Sea Mines in Strait of Hormuz: IRGC - \u062a\u0633\u0646\u06cc\u0645",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY25DbmtLMkdUUTdQZFZNcGt3R2cyeEpQaVJKRlhNc1RvcGVyWnYzQlMzMGd1VjJDdkV3ckE3LW1od2FrMFB1UW42elV5RlJkUVdRekJFd1ZWLWxFUTBPNk5QMTZWMThnLVVCNVgtM1JoVXR3THY1SHNxRllNaFc3bnBWcmh1YWpRdnBfV19rVHVXamwxcjBXRlNPdnprVEFIMHFYT0pQZzFSVnlGaEZzWl9zUWQwa0VmckVHVDVZMGNZSF8ydnfSAcsBQVVfeXFMT0ZEVUxsQUxGVnlTX0dNVkdzZlBBb29UWEpOZjQzSklnam56UDhnanM1ZHR1OThBVFlUYzF2OWtBdjUzQm9xMFI2VjVtVE5BaXhVa1N3S2R3eWFZdy1ZNW1adG9MYXhFdDRLUXU2MHQwaEUtVmhLVnRjd1p3cWZwZEc1V3lGbHlLN2hNVHJVSVJJQl9ZMktoeklVc3AtR3YyVDdPZWFTbmNubmNrMVkxcnVuSGxUcVQ3NFIzQUYxeXpfZHN2QTVXYVhzWDg?oc=5",
-      "source": "tasnimnews.ir",
+      "source": "\u062a\u0633\u0646\u06cc\u0645",
       "published": "2026-08-31T06:14:13+00:00",
-      "score": 6.0,
+      "score": 5.99,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "US denies Iranian claim that tanker hit mines in Strait of Hormuz - Anadolu Ajans\u0131",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWWV5QlcyXzI5dG53ZFpRb0RiOHdGdWliLWswQ1RET3hQLWRORk9ZdVEyRGhGdXVBNF9OZUVNeFNIanNXaE1KUXI1SFdDbGd6WHc2REI2RXJpTWV3WVR4XzJrUVBlRXc2OHZoemNYTTkxM193bGxITXctQUZlSWZzMVFUeVFDOF9oSE9rNG11TVg5MWZOeVhDcnFYQWk5Y2xPTEFtektJWWxnTmF2NVhB?oc=5",
+      "source": "Anadolu Ajans\u0131",
+      "published": "2026-08-31T05:51:39+00:00",
+      "score": 5.98,
       "tags": [
         "closure"
       ]
@@ -102,7 +112,7 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWnVNem9IQ1VOdzNBYV9XbGdqVHB3LUNPNWZOTGFsMEd6d2E1WGFhenV0TDk4MmRSMGNBblphMkxmbEVFTDhLZHl6MF96MXhfSHRaNU5CYnNPRXYxb3pIRDZ3YWozbF9ib0h5NVhiMTFDcFRsX0ZmcG10X0VuN19qQi1fUU42eU1PaHVJZ2x4aFBkZTNHVXJrZnV1dWlHMGl6WUhkdHVNSUFpU0Jqbi11elFvOEpyRWlq?oc=5",
       "source": "Anadolu Ajans\u0131",
       "published": "2026-08-31T05:49:37+00:00",
-      "score": 6.0,
+      "score": 5.98,
       "tags": [
         "closure"
       ]
@@ -112,24 +122,14 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMzNsZU12SFRtZlVKVFhwcnltSGc4bkdyTHpSOW1KdnZzSFhHMHJ4bzJ6RC1tQUtGTjRJMXZVSE1wS0RQR1VPVWxhTnR5anY3VkFzdEhNdjBqMC1ucTNpVmFKbG14dzM5cF92RnNBd2IzdUZSS0hQaEROOENNYnV1VWszVndtbEdwUkMtZmlFYWh2QQ?oc=5",
       "source": "\u0648\u0643\u0627\u0644\u0629 \u0627\u0644\u0627\u0646\u0628\u0627\u0621 \u0627\u0644\u0639\u0631\u0627\u0642\u064a\u0629 (\u0648\u0627\u0639)",
       "published": "2026-08-27T21:13:27+00:00",
-      "score": 5.79,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Navy has cleared mines from the Strait of Hormuz, CENTCOM says - Task & Purpose",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZHRPQ0NvVGJhVGtXVml5Q3dtXy1iM2lZZ3c1S2ZEYm5QcURnZkJSaEw1Slo3SnlrajlpejFzd09FU0ZTaGxzM0NwbHFrR05vRjZxYXV4a002UTkta2FNTDc1eDZ5QUdhZmRWbGNXcWdZTnBBcFBuaDk5ZVQxeHdmOQ?oc=5",
-      "source": "Task & Purpose",
-      "published": "2026-08-29T19:54:17+00:00",
-      "score": 5.03,
+      "score": 5.49,
       "tags": [
         "closure"
       ]
     }
   ],
   "brent": {
-    "price": 88.8,
-    "change_pct": 0.49
+    "price": 88.91,
+    "change_pct": 0.61
   }
 }
