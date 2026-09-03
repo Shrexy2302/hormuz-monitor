@@ -1,27 +1,27 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 311.3,
-  "closure_signals": 6,
-  "articles_scanned": 244,
-  "updated": "2026-09-03T00:26:15.464745+00:00",
+  "tension_index": 269.0,
+  "closure_signals": 5,
+  "articles_scanned": 245,
+  "updated": "2026-09-03T04:50:38.793154+00:00",
   "headlines": [
     {
       "title": "IRGC: U.S. Attacks Will Lead to Tighter Closure of Strait of Hormuz \u00bb Iraqi News Agency - \u0648\u0643\u0627\u0644\u0629 \u0627\u0644\u0627\u0646\u0628\u0627\u0621 \u0627\u0644\u0639\u0631\u0627\u0642\u064a\u0629 (\u0648\u0627\u0639)",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNXBldzR3eDhuZDVOdFhyWHM3MndFM0E1MzBndTZqRVVBcENvMjFmZHQyLVZBSkc2dkRmMlRSMERxNW9tZFN0T25qSUNONlpzc20tR1JYVlBEU19fWnBJSTVYa25xbmVieWd0bFFRRTM4ZkRQTlpmblVTQlZIaUM5VW9Fbmcxcm1OX0l5X0JtSXd6M0ZfNmtaOGJDYTM0bTNqUGlNUVZROFQyRUE?oc=5",
       "source": "\u0648\u0643\u0627\u0644\u0629 \u0627\u0644\u0627\u0646\u0628\u0627\u0621 \u0627\u0644\u0639\u0631\u0627\u0642\u064a\u0629 (\u0648\u0627\u0639)",
       "published": "2026-09-01T20:03:10+00:00",
-      "score": 10.73,
+      "score": 10.46,
       "tags": [
         "closure",
         "tension"
       ]
     },
     {
-      "title": "Tanker attacks, harassment and mine risks continue in Strait of Hormuz - safety4sea",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdXp5eWhnVmxIU3gyckNwUWZSR0N3NFYyY0IxaDZ1TzVuem1vSkFzdVVZQmZZejdHREp3T3VGd041alk1SkJ6OUtfWlBHRDUyajVwRDdzQ19LMXhVYkExVmFHYVI5SVdzbG9QandHdm13WW1QSUw0VEVNTWdNV1RuX091cWtEbV9vcll2RjlVR0lZVm15T0ozcA?oc=5",
-      "source": "safety4sea",
-      "published": "2026-09-02T10:06:27+00:00",
+      "title": "U.S. Strikes Iran Over Strait of Hormuz Mines, Trump Says - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQkJhNDBNOW00TjJ1ZjdIQ3BmSHJpSEVEVTVKMkNaRksxaDByenc5V2pRZVd1WENGVFA3WVgwbXhfNHd6UWxxZTRzZnp2amJ0cHBZWEY5d2k1TkNabjEzbVM5RVQwQVU2TUUzQjA0OXdub2NmNG1iTHhMcUFFY3Q0VElYZ0hxZzg?oc=5",
+      "source": "The New York Times",
+      "published": "2026-09-02T23:24:00+00:00",
       "score": 9.0,
       "tags": [
         "closure",
@@ -33,38 +33,27 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcVlVZDdubk5vMmJKVFFuUGZHd0ZZeGxVZlBUb0wzTTNQX2tvU2lrTW5LMTU0Q1ZvMm5lMVRfdXhHWUFiSnBzYW9sRHZudGVCVjJuNl9iUmFrQ2hEcGhWaXJhU05EQTRZNXo3VWZMcWx0aXVUaldVOVhfaUwzc0lXMUNXcGlTS3gtYnI1MTZnZFNEMExVcFVfbQ?oc=5",
       "source": "Energy Update",
       "published": "2026-09-01T20:06:33+00:00",
-      "score": 7.81,
+      "score": 7.61,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "MORNING BUSINESS REPORT: Strait Of Hormuz Closed, Home Prices Rise Game Hockey Canadien (Dnnvy8axNa) - mshale.com",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tdXJhN1BGQTZqVVhhVHk0emJQSGZRb1R6OFlkak5EZUdzRmdtSjhPa3BUalZTWE96YWFPV2h4MDdsQlRLMmtuOG9vZXVtTjQtWENJMlpFQjF0NDg?oc=5",
-      "source": "mshale.com",
-      "published": "2026-08-30T20:32:56+00:00",
-      "score": 7.12,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Iran says supertanker struck by mines in Strait of Hormuz - CNA",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSERUY2ZIcWlIRmcxU0ZzU0xmSUtvbXdTelNNV2dWMHBJTUo5eUVHZU5xMEcxekVrRWIzVURmRVVVWlVsZEREUEtrZTFGamUtdFE2U0NqdnQxVFZydmlDblA2MGVnT216WEhaUWJqODVGQXNYUEY1WnFmMVpabm1LSFE4WnNFWFloQnN2ZHNhYWVBcjA?oc=5",
-      "source": "CNA",
-      "published": "2026-08-31T04:56:00+00:00",
-      "score": 6.82,
-      "tags": [
-        "closure",
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran Closes Strait of Hormuz Again and Says its Negotiating Team With U.S. is Heading to Switzerland - energynow.ca",
+      "title": "Iran Closes Strait of Hormuz Again and Says its Negotiating Team With U.S. is Heading to Switzerland - EnergyNow",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQUpLYmY3MmdhWEdPakxDRnJuZ1M2eXFaOU4xQzlPejB0TmcwQXRLUEl1b2pxWV8zOG9DeFRXU240UUdPMWZIeWM3Nm1IVmtaUS1XSjZtZjY4M3BKR0lmOFNWZG5VSUloaGlhdDZYa2ljOWVYMHFocjZsQ0gwdTBNLWtZbWtJcGJURUZSR0JqVTI1OXE2aFdoM2lCSmRlQ3ZRTEFBR0ZjOFlFZHdZZkZza1kzZmRDZnVpRkFpRGdEVHZKd1JEUzdxaA?oc=5",
-      "source": "energynow.ca",
+      "source": "EnergyNow",
       "published": "2026-08-31T12:29:14+00:00",
-      "score": 6.4,
+      "score": 6.21,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "2 US-controlled oil tankers hit by mines in Hormuz Strait - Mehr News Agency",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObi11UUxUVkpnaHd6VnY5djR1dHRrZVVNUG5lS2RrZk1kSmZoOUxTUEhPejJOdEpSVThEUTAwUTJvTnhVRkpwdmRwczZOZHpqZUhyS192UXpGb1BNMXpTNnotOTd0V2k3U3dDRk9xX3I3V2N4b2M3UERMREJQblJpbENfNTluTlcwVG9mYndKb05rSWhGRlJyYg?oc=5",
+      "source": "Mehr News Agency",
+      "published": "2026-09-02T09:08:00+00:00",
+      "score": 6.0,
       "tags": [
         "closure"
       ]
@@ -74,17 +63,7 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdVp4TUZwdzl1RkRLWjNXR19ad1FWRWZ6by1YMUxNck1XX3R0MDB5OUc0cDE0SmszaUdRS0VWaDJVaDEzXzlqQzl2WkNoODZJeWRTTXVBM3dmbmZSekFrNTZ4VUZ1X3FHSGV6WW9xaGNTTnViUGxGYWs3dnQ1bHV4U1lfYlptOHIyWERKNE1DS09EaFYwc0tpOUlJUVNzdEZQbXBYUzZn0gGrAUFVX3lxTE9CMkdLYTRQNkJadk55dXBSRnFGLVZDWHNQNm8wcF9mc1FONHZzUnVVbnVwYTRDRnRIejFMUEVKWkQ1SmhwbGptRC1HY3djYW1JQ1VRMTlseTJ4TnJyOVMxOFBFTUJ0VGVBVWdsajRMcXdxUFlDTVl4LTMxNmM5bkhzVzZfdlRpUUZjME96aF9wWUFLcHBFSEFNdnBqVFhaOUJXakx2ZUZVYkpmRQ?oc=5",
       "source": "Al Jazeera",
       "published": "2026-08-31T13:03:55+00:00",
-      "score": 4.82,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "IRGC: Oil tanker catches fire after hitting mines in Strait of Hormuz - Middle East Eye",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOVFxeWE1bGg5VnZEaVdBdDc1clZ0WDVlejMzRjZGQWltVFBWU0FKTlFpRHMyM05pcy1pYW9sNjBZbjVZSmMzdm1QRWY1WFJ6NXFEdTF0ZTZfRkdpRGI1SU42VWZVN3J4eHpXRC1YUlVRZjBhdzE5aGdkQmQ3THVTTHNfRUxiMjVLRm1GZXpMRWxkN1d0b2tRaHo5cXZlckV4aGhKWDFYMWpxTmVLVjNfQ0syTlJ0TzdMYzZj?oc=5",
-      "source": "Middle East Eye",
-      "published": "2026-08-31T10:16:00+00:00",
-      "score": 4.73,
+      "score": 4.67,
       "tags": [
         "closure"
       ]
@@ -94,9 +73,19 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWWV5QlcyXzI5dG53ZFpRb0RiOHdGdWliLWswQ1RET3hQLWRORk9ZdVEyRGhGdXVBNF9OZUVNeFNIanNXaE1KUXI1SFdDbGd6WHc2REI2RXJpTWV3WVR4XzJrUVBlRXc2OHZoemNYTTkxM193bGxITXctQUZlSWZzMVFUeVFDOF9oSE9rNG11TVg5MWZOeVhDcnFYQWk5Y2xPTEFtektJWWxnTmF2NVhB?oc=5",
       "source": "Anadolu Ajans\u0131",
       "published": "2026-08-31T05:51:39+00:00",
-      "score": 4.58,
+      "score": 4.43,
       "tags": [
         "closure"
+      ]
+    },
+    {
+      "title": "Hormuz Traffic Craters to Four Ships as Iran-U.S. Strikes Escalate - Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa09oS0lBNExLMy1BWU9TZWhONk5SWDFLOXloSmhwSUVCdTFPM0ZRS2pVY0FYSXBod21uUmNTQ29ZQkVHdGVselpHdE05dkZmRHZ3LWFZdXVOdmRxZ0JMRmZnX1g3SWVWRzVLZjlQc0EzVE1xTkhEWXU4WTY1N1lyTW01OGQ3X0gxYTdlQUIwV2xyczVNeDA2ZGVMT1Q4TXFjbTZuUUlwNXppZHFYdGVHWGNvY2plWWVqdXJMTNIBwgFBVV95cUxNaHNLNTN5Q1RwM01BVV9LRDV5ZkZ0T3BvYUQ5Qk5OeGVzT0h0S0tIUEJCWUNSazZuOFI5dHk3TE81RVFyU1RnOFhnb1pCaWVZb19KaFNrU2dUTFRydkh6U2N6a0xsQ0RLeXFwS1JvMGJMYUtoSzBaR29Ca2dRc2IzYU9XVDEzOXZsUUp6aVd3LWVPbXRMMnVJZWY3V2t2S0hQMnlOcm8xM1pibmVWUDRTcENEYWh0LWFrUFEwaC1NOF9oQQ?oc=5",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "published": "2026-09-02T16:30:00+00:00",
+      "score": 4.0,
+      "tags": [
+        "tension"
       ]
     },
     {
@@ -110,11 +99,21 @@
       ]
     },
     {
-      "title": "Oil jumps over 2% as tanker attacks deepen US-Iran tensions - Al-Monitor",
+      "title": "US launches new strikes on Iran and Tehran hits back in widening conflict - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYWVYQlZISm1jT2ZUaUZ4bDJ2ZE10ZEpaeXo5MnBPQTJYS0ZJNDFjNmdBNGlPQjdyRTIxMVJWeDYzTlFEZi1wVm55eUJTUjkxSjB2WnVVU3NLaEtjTWlMTFFXZlZuTDYyNzREc3hxWnpxRzdUV2MtRUdhei12TE9TQ0Rrc1hTMEN4alFnS1VFcVRzSEM1dmVxR2FYbzZXb1B2a254Y2FlVXlNMFBhQVlFRTAyNzdoaE1FN2Q5dFF0LS1PZDR3bm1PS2JR?oc=5",
+      "source": "Reuters",
+      "published": "2026-09-02T03:39:30+00:00",
+      "score": 3.97,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Oil jumps over 2% as tanker attacks deepen US-Iran tensions - al-monitor.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ2VDQ2VQSWpkVlk5amxQbTI5TjF5S181SVlXM0hreDdoVExuSzA2NGs0TnVKZEQ4ZlN4N1FpYnN4c05iOURXOXlZaXRJQjF3ZGY3ODV4WklRMHR5VnNBXzN1bWxEbTRKaENoNUlzRXRSclBaQmJKMEtWMUNiRTNIbTJ2SW12dENxR2dVMzZselhLNkFZVHV1RWpTUlk5TnBHQ2c?oc=5",
-      "source": "Al-Monitor",
+      "source": "al-monitor.com",
       "published": "2026-09-01T14:31:27+00:00",
-      "score": 3.78,
+      "score": 3.68,
       "tags": [
         "tension"
       ]
@@ -124,14 +123,14 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSEJ1MHdtV2YzaVlRVzdFNkJBMzNydzFLeGt3eS1TU0g5QXdLMk90LW5ldFZHUkZfWVZSV3hZMmd6bG1SaWdEV2dEbTlrdmYzRmMta3lZbWN0dEJVdFcwc0VZaWU5MExTNC16RDlZU05oSFVYaVRKQXNWVHRadU5nbzF0OFQ?oc=5",
       "source": "CBC",
       "published": "2026-09-01T12:19:00+00:00",
-      "score": 3.73,
+      "score": 3.63,
       "tags": [
         "tension"
       ]
     }
   ],
   "brent": {
-    "price": 95.2,
-    "change_pct": -0.45
+    "price": 95.18,
+    "change_pct": -0.47
   }
 }
