@@ -1,30 +1,39 @@
 {
-  "status": "DISRUPTED",
-  "label": "Major disruption reported",
-  "tension_index": 201.9,
-  "closure_signals": 2,
+  "status": "CLOSED",
+  "label": "Closure reported",
+  "tension_index": 197.5,
+  "closure_signals": 3,
   "articles_scanned": 243,
-  "updated": "2026-09-05T16:31:41.121862+00:00",
+  "updated": "2026-09-05T18:43:32.489792+00:00",
   "headlines": [
     {
       "title": "Iran Declares Strait of Hormuz Closed as \u2018Unauthorised\u2019 Vessel Hit - EnergyNow.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU3BGdU5KMkwwNVNINnRuYnZBdWZpYUNjSHlXSGh2MWJWck1INVRtbXNyS2t5WXZPRGxlVEpGcnM5NUkyQnlmNEtLazBSM2dFcDROdVJ1RC1Bd1haYUlXbnphM2tzenhjNm1PQUNnRkNRYi1SNVBxX2RsNTJhY19vVUU4ejhtRlRlUkdpcmxvd1YtRXZ1dVBuaVBLWQ?oc=5",
       "source": "EnergyNow.com",
       "published": "2026-09-04T15:01:16+00:00",
-      "score": 9.92,
+      "score": 9.79,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iran's Revolutionary Guard: Enemy's Desperate Attacks Will Make Closure of Strait of Hormuz Tighter - \u0648\u0643\u0627\u0644\u0629 \u0633\u0628\u0623",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GTlhhVUxfU0FZbzlpbHlYQkJWeXZEb3FFbFpXdjdyRG5pUnAzRHRfcjNhSnhNTFNuenFIQnk5UzBFRk5mRHdVc2MtODRaVEU?oc=5",
-      "source": "\u0648\u0643\u0627\u0644\u0629 \u0633\u0628\u0623",
-      "published": "2026-09-01T20:01:55+00:00",
-      "score": 6.81,
+      "title": "Shipping Slows After Iran Says it Has Again Shut the Strait of Hormuz - EnergyNow.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONTF5MXhpYXJ5YldtMW1FSDhMX0VjWkZjNVVPN1ZsMGdieUlCSlB2cnFhUS1TVHR2SzRHamZROFZLQmhZSVkwSUxBTjJMakVYNS1xXzJMaVZwYU9hZ0NOX0NwQWllbTZ6aXhoRUk2SHhody1GLThuMF9acGtsTFVENXZmWFZhQlhMNnowVjkxYmhEUUVCV1Q1OHE3OVJLQUc5SUE?oc=5",
+      "source": "EnergyNow.com",
+      "published": "2026-09-04T10:01:04+00:00",
+      "score": 7.61,
       "tags": [
-        "closure",
-        "tension"
+        "closure"
+      ]
+    },
+    {
+      "title": "Iran Closes Strait of Hormuz Again and Says its Negotiating Team With U.S. is Heading to Switzerland - EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQUpLYmY3MmdhWEdPakxDRnJuZ1M2eXFaOU4xQzlPejB0TmcwQXRLUEl1b2pxWV8zOG9DeFRXU240UUdPMWZIeWM3Nm1IVmtaUS1XSjZtZjY4M3BKR0lmOFNWZG5VSUloaGlhdDZYa2ljOWVYMHFocjZsQ0gwdTBNLWtZbWtJcGJURUZSR0JqVTI1OXE2aFdoM2lCSmRlQ3ZRTEFBR0ZjOFlFZHdZZkZza1kzZmRDZnVpRkFpRGdEVHZKd1JEUzdxaA?oc=5",
+      "source": "EnergyNow",
+      "published": "2026-09-03T15:33:41+00:00",
+      "score": 6.79,
+      "tags": [
+        "closure"
       ]
     },
     {
@@ -32,17 +41,17 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONkdfTWVQTVdSZUV0WExHNEpESWZaMm1MMGVTRTVaZHRJalZhcmhSMlZkcTF2TkVlc25MV210cUNBelFNSFZtdWZ4R1FyaXV2VER5NU8zRVFHQU1QaFlJSDRSaW9jcG1QUUdhOGQ1dUlqUzlxUVNxb0xvX3VBQ1c5eUsta1VHdFZtREowWUlGYW5yWi1Tam9wcmstQ3Y4NXJvOHVSWlloYndhZm81SUl2RHVVRVh5R1ZfRDVXanRFT1Vibnc?oc=5",
       "source": "France 24",
       "published": "2026-09-03T05:57:20+00:00",
-      "score": 4.85,
+      "score": 4.77,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iran claims new naval mines laid in Strait of Hormuz - aa.com.tr",
+      "title": "Iran claims new naval mines laid in Strait of Hormuz - Anadolu Ajans\u0131",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbnZuUzhDTnJ6bWRuM1Q0T0tpNXJXQzBrczR6X05yQXROSnBxWFdSV3RzT2xPV3JpckxoOVpleXp1YTgxemtSY1BVb0dEVmQ4ZUlpU2RoMVNTejZYRFIyUnRPZ05vOC1aUHQtSlNYTDhNSXoxZG81T0RDaE9QVUVYbnVuNTh5U1RaX0pRejZlelBSVnBaRmJkbDN4SkV4MmVzZjhxVmdfMA?oc=5",
-      "source": "aa.com.tr",
+      "source": "Anadolu Ajans\u0131",
       "published": "2026-09-03T03:09:42+00:00",
-      "score": 4.75,
+      "score": 4.68,
       "tags": [
         "closure"
       ]
@@ -52,7 +61,7 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObi11UUxUVkpnaHd6VnY5djR1dHRrZVVNUG5lS2RrZk1kSmZoOUxTUEhPejJOdEpSVThEUTAwUTJvTnhVRkpwdmRwczZOZHpqZUhyS192UXpGb1BNMXpTNnotOTd0V2k3U3dDRk9xX3I3V2N4b2M3UERMREJQblJpbENfNTluTlcwVG9mYndKb05rSWhGRlJyYg?oc=5",
       "source": "Mehr News Agency",
       "published": "2026-09-02T09:08:00+00:00",
-      "score": 4.15,
+      "score": 4.08,
       "tags": [
         "closure"
       ]
@@ -62,18 +71,18 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNXBldzR3eDhuZDVOdFhyWHM3MndFM0E1MzBndTZqRVVBcENvMjFmZHQyLVZBSkc2dkRmMlRSMERxNW9tZFN0T25qSUNONlpzc20tR1JYVlBEU19fWnBJSTVYa25xbmVieWd0bFFRRTM4ZkRQTlpmblVTQlZIaUM5VW9Fbmcxcm1OX0l5X0JtSXd6M0ZfNmtaOGJDYTM0bTNqUGlNUVZROFQyRUE?oc=5",
       "source": "\u0648\u0643\u0627\u0644\u0629 \u0627\u0644\u0627\u0646\u0628\u0627\u0621 \u0627\u0644\u0639\u0631\u0627\u0642\u064a\u0629 (\u0648\u0627\u0639)",
       "published": "2026-08-30T22:58:00+00:00",
-      "score": 4.06,
+      "score": 3.93,
       "tags": [
         "closure",
         "tension"
       ]
     },
     {
-      "title": "Iran says supertanker struck by mines in Strait of Hormuz - channelnewsasia.com",
+      "title": "Iran says supertanker struck by mines in Strait of Hormuz - CNA",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSERUY2ZIcWlIRmcxU0ZzU0xmSUtvbXdTelNNV2dWMHBJTUo5eUVHZU5xMEcxekVrRWIzVURmRVVVWlVsZEREUEtrZTFGamUtdFE2U0NqdnQxVFZydmlDblA2MGVnT216WEhaUWJqODVGQXNYUEY1WnFmMVpabm1LSFE4WnNFWFloQnN2ZHNhYWVBcjA?oc=5",
-      "source": "channelnewsasia.com",
+      "source": "CNA",
       "published": "2026-08-31T04:56:00+00:00",
-      "score": 3.62,
+      "score": 3.51,
       "tags": [
         "closure",
         "tension"
@@ -84,15 +93,15 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYXlDZU82U0hka05LakNnQUVPbF9KY1dZVmp0emtydkxJbFFwbmNKMkpuS2dWTW9hY1htX1NRZEFzS1ByLUFUaHU2RHh1SllyY3JPZVFBaG9FS0pZeUlmend6M1ZnTGNZZHFNMU95Zm0wenVyVkp4bmdtYVpWOXc1TVZNLXdfQU9JWktmcjV2eWpFcGxxTTVFTTh4eE9iZw?oc=5",
       "source": "Forces News",
       "published": "2026-09-03T14:54:53+00:00",
-      "score": 3.43,
+      "score": 3.38,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Three Iranian tankers struck in retaliation for missile attacks, US military says - CNN",
+      "title": "US military strikes three Iranian tankers in retaliation for missile attacks - cnn.com",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tVlZfRVpnZHk5LUZINnd1bUh0Mkp3N3FoU3ZpT1Rad3ZwbzU2SllpNEUzeFpjdms2SWI4MWFCSVU4S2JtQ3BRTUNRQ01ybWprRmFybkNUdDk4TWxtZTFiWV9CQzJha0JWdlh0XzhHUzJSa2hEQkE?oc=5",
-      "source": "CNN",
+      "source": "cnn.com",
       "published": "2026-09-05T13:52:09+00:00",
       "score": 3.0,
       "tags": [
@@ -104,7 +113,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaEFuNElnbjhtTEJFTFhiclBTVnVSdFRqWmhlZTRrVVp6Zmk2S1AwLTZmNmRZWGdnTTllaVd0TjFQWlhaV0ZjQ2RKYngxX1VZWldON3VhNzZIX3lMM3h6QzdtZnIwU2NfQnRaeUNuRy1VM21CRHJ1R3pfUVRKQTFaUmZmcmc0RFRpX2k2MlhnX0JMYXFDR3dYaXFoZmlUSWtyWlFaN1Fjdlpjdw?oc=5",
       "source": "USNI News",
       "published": "2026-09-04T16:33:00+00:00",
-      "score": 3.0,
+      "score": 2.96,
       "tags": [
         "tension"
       ]
@@ -114,16 +123,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc05WN1hLamNtVG8xZE5JaWlHUmxaR3plVTlKUnpkRUlPU2diemM4bUw0Zmo5c1Y3eWh2U0pkQmRSZkNib3FDdzYzVm9PQlBKc3psTkphOVduZlQ5SzFaYlBnNHE1cmVCUzVFNlVveGlQY2pYbVU0NWdHMGRLRHNzQkJKaXVVYXZ0MThuNjVINWdSaGJ1ZmpyLUk5Mjd0NlFGb0J2aWV1RUNpUlk?oc=5",
       "source": "IndexBox",
       "published": "2026-09-04T10:51:00+00:00",
-      "score": 2.91,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "World\u2019s 5th most powerful military prepares for possible Strait of Hormuz mission with US, UK and France after attacks on African-flagged vessels - Business Insider Africa",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMm5GMUFvTHVIQVlfQ3FHaUFOb2lyT1pzZzFGR3BUenA2S21VYXNiMWZjaFpEQ05xM003Z2VpZ3FtYUlxQm9Xckx1Qk53V1FYcGtuVzRUNWZMYVU3LTV5d3MtNm1QeFZ6YW9HaElOaFZHZ0kzRnNVam9tWHRvQW5hZEp1M1VBdFYxN2kzV2ROTy1hSC1NZ2k2ZkZkTWc2dThJMG5WSTZCX3ZuUXBWeTBwaEhjZlh3eUZQcFlyZTUzc3RacXJWaW9oRmgxZFdxbldpcUtlTFVOM0w5Zw?oc=5",
-      "source": "Business Insider Africa",
-      "published": "2026-09-04T08:30:55+00:00",
       "score": 2.87,
       "tags": [
         "tension"
