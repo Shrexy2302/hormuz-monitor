@@ -1,17 +1,28 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 195.0,
+  "tension_index": 205.8,
   "closure_signals": 2,
-  "articles_scanned": 239,
-  "updated": "2026-09-05T11:20:16.156663+00:00",
+  "articles_scanned": 242,
+  "updated": "2026-09-05T13:56:54.092033+00:00",
   "headlines": [
     {
-      "title": "IRGC: U.S. Attacks Will Lead to Tighter Closure of Strait of Hormuz \u00bb Iraqi News Agency - ina.iq",
+      "title": "IRGC: U.S. Attacks Will Lead to Tighter Closure of Strait of Hormuz \u00bb Iraqi News Agency - \u0648\u0643\u0627\u0644\u0629 \u0627\u0644\u0627\u0646\u0628\u0627\u0621 \u0627\u0644\u0639\u0631\u0627\u0642\u064a\u0629 (\u0648\u0627\u0639)",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNXBldzR3eDhuZDVOdFhyWHM3MndFM0E1MzBndTZqRVVBcENvMjFmZHQyLVZBSkc2dkRmMlRSMERxNW9tZFN0T25qSUNONlpzc20tR1JYVlBEU19fWnBJSTVYa25xbmVieWd0bFFRRTM4ZkRQTlpmblVTQlZIaUM5VW9Fbmcxcm1OX0l5X0JtSXd6M0ZfNmtaOGJDYTM0bTNqUGlNUVZROFQyRUE?oc=5",
-      "source": "ina.iq",
+      "source": "\u0648\u0643\u0627\u0644\u0629 \u0627\u0644\u0627\u0646\u0628\u0627\u0621 \u0627\u0644\u0639\u0631\u0627\u0642\u064a\u0629 (\u0648\u0627\u0639)",
       "published": "2026-09-01T20:03:10+00:00",
-      "score": 7.13,
+      "score": 6.97,
+      "tags": [
+        "closure",
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran's Revolutionary Guard: Enemy's Desperate Attacks Will Make Closure of Strait of Hormuz Tighter - \u0648\u0643\u0627\u0644\u0629 \u0633\u0628\u0623",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GTlhhVUxfU0FZbzlpbHlYQkJWeXZEb3FFbFpXdjdyRG5pUnAzRHRfcjNhSnhNTFNuenFIQnk5UzBFRk5mRHdVc2MtODRaVEU?oc=5",
+      "source": "\u0648\u0643\u0627\u0644\u0629 \u0633\u0628\u0623",
+      "published": "2026-09-01T20:01:55+00:00",
+      "score": 6.97,
       "tags": [
         "closure",
         "tension"
@@ -22,7 +33,7 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONkdfTWVQTVdSZUV0WExHNEpESWZaMm1MMGVTRTVaZHRJalZhcmhSMlZkcTF2TkVlc25MV210cUNBelFNSFZtdWZ4R1FyaXV2VER5NU8zRVFHQU1QaFlJSDRSaW9jcG1QUUdhOGQ1dUlqUzlxUVNxb0xvX3VBQ1c5eUsta1VHdFZtREowWUlGYW5yWi1Tam9wcmstQ3Y4NXJvOHVSWlloYndhZm81SUl2RHVVRVh5R1ZfRDVXanRFT1Vibnc?oc=5",
       "source": "France 24",
       "published": "2026-09-03T05:57:20+00:00",
-      "score": 5.02,
+      "score": 4.93,
       "tags": [
         "closure"
       ]
@@ -32,17 +43,17 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbnZuUzhDTnJ6bWRuM1Q0T0tpNXJXQzBrczR6X05yQXROSnBxWFdSV3RzT2xPV3JpckxoOVpleXp1YTgxemtSY1BVb0dEVmQ4ZUlpU2RoMVNTejZYRFIyUnRPZ05vOC1aUHQtSlNYTDhNSXoxZG81T0RDaE9QVUVYbnVuNTh5U1RaX0pRejZlelBSVnBaRmJkbDN4SkV4MmVzZjhxVmdfMA?oc=5",
       "source": "Anadolu Ajans\u0131",
       "published": "2026-09-03T03:09:42+00:00",
-      "score": 4.93,
+      "score": 4.84,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "2 US-controlled oil tankers hit by mines in Hormuz Strait - Mehr News Agency",
+      "title": "2 US-controlled oil tankers hit by mines in Hormuz Strait - en.mehrnews.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObi11UUxUVkpnaHd6VnY5djR1dHRrZVVNUG5lS2RrZk1kSmZoOUxTUEhPejJOdEpSVThEUTAwUTJvTnhVRkpwdmRwczZOZHpqZUhyS192UXpGb1BNMXpTNnotOTd0V2k3U3dDRk9xX3I3V2N4b2M3UERMREJQblJpbENfNTluTlcwVG9mYndKb05rSWhGRlJyYg?oc=5",
-      "source": "Mehr News Agency",
+      "source": "en.mehrnews.com",
       "published": "2026-09-02T09:08:00+00:00",
-      "score": 4.33,
+      "score": 4.24,
       "tags": [
         "closure"
       ]
@@ -52,7 +63,7 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaGpwVVBCeVNvZE5lV3RCSFl0M2E1cnZlZS0wMjVSRFlrS1E5ZXFWSml2MGdKZEFMaHlSRFc1Ylc1WkRPTy1IaEpRZzFrbFpBZFJJbmw4RnVYaDJxWDFUQ3hlVk9JMUJ5Zk1HXzQ1Z2RxbVpWN2dTa3lFTzdwN3V3QjFTb20tSEdkOTRnQS10eUEwaFBQWlcxSmQwbUZxRmhCOEptYXhaTWJyNGpnV0E?oc=5",
       "source": "CBS News",
       "published": "2026-09-04T08:00:00+00:00",
-      "score": 3.93,
+      "score": 3.87,
       "tags": [
         "tension"
       ]
@@ -62,7 +73,7 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSERUY2ZIcWlIRmcxU0ZzU0xmSUtvbXdTelNNV2dWMHBJTUo5eUVHZU5xMEcxekVrRWIzVURmRVVVWlVsZEREUEtrZTFGamUtdFE2U0NqdnQxVFZydmlDblA2MGVnT216WEhaUWJqODVGQXNYUEY1WnFmMVpabm1LSFE4WnNFWFloQnN2ZHNhYWVBcjA?oc=5",
       "source": "CNA",
       "published": "2026-08-31T04:56:00+00:00",
-      "score": 3.88,
+      "score": 3.75,
       "tags": [
         "closure",
         "tension"
@@ -73,7 +84,7 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYXlDZU82U0hka05LakNnQUVPbF9KY1dZVmp0emtydkxJbFFwbmNKMkpuS2dWTW9hY1htX1NRZEFzS1ByLUFUaHU2RHh1SllyY3JPZVFBaG9FS0pZeUlmend6M1ZnTGNZZHFNMU95Zm0wenVyVkp4bmdtYVpWOXc1TVZNLXdfQU9JWktmcjV2eWpFcGxxTTVFTTh4eE9iZw?oc=5",
       "source": "Forces News",
       "published": "2026-09-03T14:54:53+00:00",
-      "score": 3.55,
+      "score": 3.49,
       "tags": [
         "tension"
       ]
@@ -82,7 +93,7 @@
       "title": "U.S., Iran Trade Strikes in Strait of Hormuz as Both Battle on Social Media - USNI News",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaEFuNElnbjhtTEJFTFhiclBTVnVSdFRqWmhlZTRrVVp6Zmk2S1AwLTZmNmRZWGdnTTllaVd0TjFQWlhaV0ZjQ2RKYngxX1VZWldON3VhNzZIX3lMM3h6QzdtZnIwU2NfQnRaeUNuRy1VM21CRHJ1R3pfUVRKQTFaUmZmcmc0RFRpX2k2MlhnX0JMYXFDR3dYaXFoZmlUSWtyWlFaN1Fjdlpjdw?oc=5",
       "source": "USNI News",
-      "published": "2026-09-04T17:01:00+00:00",
+      "published": "2026-09-04T16:33:00+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -93,7 +104,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc05WN1hLamNtVG8xZE5JaWlHUmxaR3plVTlKUnpkRUlPU2diemM4bUw0Zmo5c1Y3eWh2U0pkQmRSZkNib3FDdzYzVm9PQlBKc3psTkphOVduZlQ5SzFaYlBnNHE1cmVCUzVFNlVveGlQY2pYbVU0NWdHMGRLRHNzQkJKaXVVYXZ0MThuNjVINWdSaGJ1ZmpyLUk5Mjd0NlFGb0J2aWV1RUNpUlk?oc=5",
       "source": "IndexBox",
       "published": "2026-09-04T10:51:00+00:00",
-      "score": 2.99,
+      "score": 2.95,
       "tags": [
         "tension"
       ]
@@ -103,29 +114,19 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xcDdlb2pEWnkwbHF6cGZxc1pDcXo1NzQ1LURXOVp1ajBVaWFHblQ2Q3VhU0NXeENCY2tiTHZmU2h4bUNXZlMxd2JjanR2ME0?oc=5",
       "source": "thecradle.co",
       "published": "2026-09-02T13:42:52+00:00",
-      "score": 2.99,
+      "score": 2.93,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Trump says Iran war is 'small potatoes', Israel strikes southern Lebanon - France 24",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORllqbFpONlAxU2MzT19MRGl1YmNKQ3JNUWxFb1BEOEV2TVdPOWNQUllVN3JoV3pDVjVaOF9jWHVycF96N1RHdFp2S1cyQW1XbHlMbVB6QlFobVNFc0ZxTm1nNlVqRHFXbld1LTZQVXBwdmlCb1JydU5WU21YZVRQbGtGeEYzYU90U0RtTGZ5cF9FM0d5bW9SYXVzcXpDc2dKa0VQN21yVkw0UHZNMEpwWTRfMXZ4Y0ZnSjhNTFhSbkkwcko1RE1EUTR3?oc=5",
-      "source": "France 24",
-      "published": "2026-09-04T02:56:56+00:00",
-      "score": 2.86,
+      "title": "World\u2019s 5th most powerful military prepares for possible Strait of Hormuz mission with US, UK and France after attacks on African-flagged vessels - Business Insider Africa",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMm5GMUFvTHVIQVlfQ3FHaUFOb2lyT1pzZzFGR3BUenA2S21VYXNiMWZjaFpEQ05xM003Z2VpZ3FtYUlxQm9Xckx1Qk53V1FYcGtuVzRUNWZMYVU3LTV5d3MtNm1QeFZ6YW9HaElOaFZHZ0kzRnNVam9tWHRvQW5hZEp1M1VBdFYxN2kzV2ROTy1hSC1NZ2k2ZkZkTWc2dThJMG5WSTZCX3ZuUXBWeTBwaEhjZlh3eUZQcFlyZTUzc3RacXJWaW9oRmgxZFdxbldpcUtlTFVOM0w5Zw?oc=5",
+      "source": "Business Insider Africa",
+      "published": "2026-09-04T08:30:55+00:00",
+      "score": 2.91,
       "tags": [
         "tension"
-      ]
-    },
-    {
-      "title": "Can Iran use rockets to mine the Strait of Hormuz, as US claims? - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdVp4TUZwdzl1RkRLWjNXR19ad1FWRWZ6by1YMUxNck1XX3R0MDB5OUc0cDE0SmszaUdRS0VWaDJVaDEzXzlqQzl2WkNoODZJeWRTTXVBM3dmbmZSekFrNTZ4VUZ1X3FHSGV6WW9xaGNTTnViUGxGYWs3dnQ1bHV4U1lfYlptOHIyWERKNE1DS09EaFYwc0tpOUlJUVNzdEZQbXBYUzZn0gGrAUFVX3lxTE9CMkdLYTRQNkJadk55dXBSRnFGLVZDWHNQNm8wcF9mc1FONHZzUnVVbnVwYTRDRnRIejFMUEVKWkQ1SmhwbGptRC1HY3djYW1JQ1VRMTlseTJ4TnJyOVMxOFBFTUJ0VGVBVWdsajRMcXdxUFlDTVl4LTMxNmM5bkhzVzZfdlRpUUZjME96aF9wWUFLcHBFSEFNdnBqVFhaOUJXakx2ZUZVYkpmRQ?oc=5",
-      "source": "Al Jazeera",
-      "published": "2026-08-31T13:03:55+00:00",
-      "score": 2.86,
-      "tags": [
-        "closure"
       ]
     }
   ],
