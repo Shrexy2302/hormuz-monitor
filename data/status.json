@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 227.3,
-  "closure_signals": 6,
-  "articles_scanned": 216,
-  "updated": "2026-09-06T16:22:38.179877+00:00",
+  "tension_index": 228.6,
+  "closure_signals": 5,
+  "articles_scanned": 244,
+  "updated": "2026-09-06T18:28:36.626165+00:00",
   "headlines": [
     {
       "title": "Strait of Hormuz is closed once again: Iran - News On AIR",
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU3BGdU5KMkwwNVNINnRuYnZBdWZpYUNjSHlXSGh2MWJWck1INVRtbXNyS2t5WXZPRGxlVEpGcnM5NUkyQnlmNEtLazBSM2dFcDROdVJ1RC1Bd1haYUlXbnphM2tzenhjNm1PQUNnRkNRYi1SNVBxX2RsNTJhY19vVUU4ejhtRlRlUkdpcmxvd1YtRXZ1dVBuaVBLWQ?oc=5",
       "source": "EnergyNow.com",
       "published": "2026-09-05T07:57:08+00:00",
-      "score": 9.53,
+      "score": 9.42,
       "tags": [
         "closure"
       ]
@@ -31,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONTF5MXhpYXJ5YldtMW1FSDhMX0VjWkZjNVVPN1ZsMGdieUlCSlB2cnFhUS1TVHR2SzRHamZROFZLQmhZSVkwSUxBTjJMakVYNS1xXzJMaVZwYU9hZ0NOX0NwQWllbTZ6aXhoRUk2SHhody1GLThuMF9acGtsTFVENXZmWFZhQlhMNnowVjkxYmhEUUVCV1Q1OHE3OVJLQUc5SUE?oc=5",
       "source": "EnergyNow.com",
       "published": "2026-09-05T07:57:57+00:00",
-      "score": 7.63,
+      "score": 7.53,
       "tags": [
         "closure"
       ]
@@ -51,37 +51,7 @@
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQUpLYmY3MmdhWEdPakxDRnJuZ1M2eXFaOU4xQzlPejB0TmcwQXRLUEl1b2pxWV8zOG9DeFRXU240UUdPMWZIeWM3Nm1IVmtaUS1XSjZtZjY4M3BKR0lmOFNWZG5VSUloaGlhdDZYa2ljOWVYMHFocjZsQ0gwdTBNLWtZbWtJcGJURUZSR0JqVTI1OXE2aFdoM2lCSmRlQ3ZRTEFBR0ZjOFlFZHdZZkZza1kzZmRDZnVpRkFpRGdEVHZKd1JEUzdxaA?oc=5",
       "source": "EnergyNow",
       "published": "2026-09-03T15:33:41+00:00",
-      "score": 5.83,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Strait of Hormuz closed - Modern.az",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VZXd5LUpDbXZzRl8wc0V6WVZHUTlTY0UtZEw4aE8xM01jUUh3NkVJVU56UnNLYnR6TkhPWFZoeXhoMURRTFluSnJvQVUwNGs2ZjN5X0tOYjdSTEs4cTctSDFVdFY3b05HS0E?oc=5",
-      "source": "Modern.az",
-      "published": "2026-09-02T09:02:00+00:00",
-      "score": 5.59,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Iran announced the closure of the Strait of Hormuz - Baku.ws",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbEw2S3dZcDFyWDIwMjFmVktlOENuR2NkeHpFS0R5MERrSnVUUEFnYTBzLUs1WW5NRDUwVVc2TUdsSTJxbXZnUjRxcmtnQjJUU3Z4ZEZLdnFNSGdZV1BjVkxTWHNrTTZ4cnFoOFhYeDhaN0hXWDRJanJ2Ympwcm81aA?oc=5",
-      "source": "Baku.ws",
-      "published": "2026-09-02T05:14:00+00:00",
-      "score": 4.3,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Has Iran modified its rocket systems to fire mines into the Strait of Hormuz? - France 24",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONkdfTWVQTVdSZUV0WExHNEpESWZaMm1MMGVTRTVaZHRJalZhcmhSMlZkcTF2TkVlc25MV210cUNBelFNSFZtdWZ4R1FyaXV2VER5NU8zRVFHQU1QaFlJSDRSaW9jcG1QUUdhOGQ1dUlqUzlxUVNxb0xvX3VBQ1c5eUsta1VHdFZtREowWUlGYW5yWi1Tam9wcmstQ3Y4NXJvOHVSWlloYndhZm81SUl2RHVVRVh5R1ZfRDVXanRFT1Vibnc?oc=5",
-      "source": "France 24",
-      "published": "2026-09-03T05:57:20+00:00",
-      "score": 4.05,
+      "score": 5.74,
       "tags": [
         "closure"
       ]
@@ -91,6 +61,36 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNanoydFBiWDdnemIzQnF1X3VWVnlOVG0zbld6M2gxaVNrODNCeDdKTE9QUXpqUllaOC0xZTZmOWFPMnUwZVdYNnctT3VvQ1J5SUlNZERxRTExd2RzNmNRZExJemlvVm50M0hxWld6cnRsMmplcnNudUo0aFJ1dVdYTVVzVzdpWEdqUUtpWkVNMG0tUVo3c21n0gGcAUFVX3lxTFBWNXhzYTNXTkhON3owWnQzcXBmU09IMFNCSGhrYURXdEhCdGtKS2JXZTFhMERCYVpNdjFxelA0bHRrbzE3SVc1QzVGUDNKZmJTQklkYVlQN0s3bVR5dS02TXFqQXVEVDFROFg4ZjNfbFVyamNLVGVWZDdVdENNOXRmOThtRE1LcEVlV3RjTUJmTlNBU1pTbVYzaHFjQg?oc=5",
       "source": "ABC News - Breaking News, Latest News and Videos",
       "published": "2026-09-06T08:02:31+00:00",
+      "score": 4.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran claims strike on US ship in Strait of Hormuz as fighting escalates - WJHG",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM0NUN0s1QXY4REo0blA1ZGR5VnRIWDNvUV9DZ1pQd3E2ZmhvSVZ3YWZkLVFYS3ZhTXo5UlFXRVhHd1VMNkpSamItSXk3NHh0eFZXZld6Z1JiYlRwaGhac01WWHZXTnJEN0d5aG9Wd280V1dETDRLNWphMHdPYW1vOElPNkptU1hScHVQTHFsOWZVUFBWb0pz?oc=5",
+      "source": "WJHG",
+      "published": "2026-09-06T07:35:00+00:00",
+      "score": 4.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran claims strike on US ship in Strait of Hormuz as fighting escalates - Action News 5",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN05oaU8zY05Ibzg1SkljYklXUVFBYWx6Sm9aUHNPSHZVU2VDR2ZtNmtCSXJ3aXNyY0hPSDZCVXNXbGhtWWllU3ZENnp1Y2d6RGN2aExhQlJKd2YwczBCc1lHZjNlOVZfbGJIQzVLNXRXb0RVSEl1bUswY3l5Rm94bHdrb2ZEMXlZZG5EWVdCS1N6S2RkeExTRTczTzExeFBC?oc=5",
+      "source": "Action News 5",
+      "published": "2026-09-06T07:35:00+00:00",
+      "score": 4.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran claims strike on US ship in Strait of Hormuz as fighting escalates - KNOE",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMmx1YjFnNG5TYjRTTEk1cVJJUy13SlVpYUxrNjNTMk5aeU81Uk5vU3ZEUGVJNlpPZnBrcXVPRjJzSldjUTVLX0hJeGdkaU1qSkY1VnlvUXV1dkNGT2dsek13ck8wa2NOTEt3bVhfQXlNYUdnM2YtNXdhaFNtOGxxX1ZxbVJ4ZzJJYzJsT3hCQ1pmRmRYdUZv?oc=5",
+      "source": "KNOE",
+      "published": "2026-09-06T07:35:00+00:00",
       "score": 4.0,
       "tags": [
         "tension"
@@ -107,9 +107,9 @@
       ]
     },
     {
-      "title": "Iran claims strike on US ship in Strait of Hormuz as fighting escalates - Action News 5",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN05oaU8zY05Ibzg1SkljYklXUVFBYWx6Sm9aUHNPSHZVU2VDR2ZtNmtCSXJ3aXNyY0hPSDZCVXNXbGhtWWllU3ZENnp1Y2d6RGN2aExhQlJKd2YwczBCc1lHZjNlOVZfbGJIQzVLNXRXb0RVSEl1bUswY3l5Rm94bHdrb2ZEMXlZZG5EWVdCS1N6S2RkeExTRTczTzExeFBC?oc=5",
-      "source": "Action News 5",
+      "title": "Iran claims strike on US ship in Strait of Hormuz as fighting escalates - WBKO",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWWxpZFpqeE5FU3B5VzNwNjlrZmRSUC0zeTRjSXBpZ3Rmc1pLX0JSSDBYek56MEg0Q0VxNjhfUVdUU1JWUHd4N05DLWt3UndfMzB1MUNTdUlFNUJkcTBaZmEzRWtpOE9kd3lsSElLTEJLczI3dHF3N0cxaWYxSDNrbXM3VDJ4WmJmV3RuZ1p2QkNSOFlJNm1V?oc=5",
+      "source": "WBKO",
       "published": "2026-09-06T07:35:00+00:00",
       "score": 4.0,
       "tags": [
