@@ -1,17 +1,27 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 212.7,
-  "closure_signals": 3,
-  "articles_scanned": 245,
-  "updated": "2026-09-06T04:57:16.195715+00:00",
+  "tension_index": 229.9,
+  "closure_signals": 5,
+  "articles_scanned": 248,
+  "updated": "2026-09-06T09:09:29.990069+00:00",
   "headlines": [
+    {
+      "title": "Strait of Hormuz is closed once again: Iran - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84NVNuS3BtZVBRYXZNdGFxRTl2UURCamRKUWxSTHROY2RfMDMwOVdzczhsSEVScUcwaUpIU3U0NTRIQUtLR05IM2t2MkRlODZJNnZJUnZGMlRyeThERmR6aHo5SE1JZGJGdEhDeE1UdjJMWWZXVjVz?oc=5",
+      "source": "News On AIR",
+      "published": "2026-09-05T21:36:12+00:00",
+      "score": 10.0,
+      "tags": [
+        "closure"
+      ]
+    },
     {
       "title": "Iran Declares Strait of Hormuz Closed as \u2018Unauthorised\u2019 Vessel Hit - EnergyNow.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU3BGdU5KMkwwNVNINnRuYnZBdWZpYUNjSHlXSGh2MWJWck1INVRtbXNyS2t5WXZPRGxlVEpGcnM5NUkyQnlmNEtLazBSM2dFcDROdVJ1RC1Bd1haYUlXbnphM2tzenhjNm1PQUNnRkNRYi1SNVBxX2RsNTJhY19vVUU4ejhtRlRlUkdpcmxvd1YtRXZ1dVBuaVBLWQ?oc=5",
       "source": "EnergyNow.com",
-      "published": "2026-09-04T15:01:16+00:00",
-      "score": 9.23,
+      "published": "2026-09-05T07:57:08+00:00",
+      "score": 9.93,
       "tags": [
         "closure"
       ]
@@ -21,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONTF5MXhpYXJ5YldtMW1FSDhMX0VjWkZjNVVPN1ZsMGdieUlCSlB2cnFhUS1TVHR2SzRHamZROFZLQmhZSVkwSUxBTjJMakVYNS1xXzJMaVZwYU9hZ0NOX0NwQWllbTZ6aXhoRUk2SHhody1GLThuMF9acGtsTFVENXZmWFZhQlhMNnowVjkxYmhEUUVCV1Q1OHE3OVJLQUc5SUE?oc=5",
       "source": "EnergyNow.com",
       "published": "2026-09-05T07:57:57+00:00",
-      "score": 8.0,
+      "score": 7.95,
       "tags": [
         "closure"
       ]
@@ -31,7 +41,17 @@
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQUpLYmY3MmdhWEdPakxDRnJuZ1M2eXFaOU4xQzlPejB0TmcwQXRLUEl1b2pxWV8zOG9DeFRXU240UUdPMWZIeWM3Nm1IVmtaUS1XSjZtZjY4M3BKR0lmOFNWZG5VSUloaGlhdDZYa2ljOWVYMHFocjZsQ0gwdTBNLWtZbWtJcGJURUZSR0JqVTI1OXE2aFdoM2lCSmRlQ3ZRTEFBR0ZjOFlFZHdZZkZza1kzZmRDZnVpRkFpRGdEVHZKd1JEUzdxaA?oc=5",
       "source": "EnergyNow",
       "published": "2026-09-03T15:33:41+00:00",
-      "score": 6.34,
+      "score": 6.15,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "The risky mission to de-mine the Strait of Hormuz - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNUp3aDJkX0lnZHJLRXVaSFdDS0hyX29JcWN2RzZuWkpzRlF2TWpDTmkwTEI1cklabXlXUllTWFhnQnRJRlhZbHBManBJOXRUU1B5U3FmcVlPMkF0VnJwV0tBaGJ0SE0tZ05fQTRTNk92RmhWZGZoTW1mbkJ5UzI1VzRTX1Y?oc=5",
+      "source": "Financial Times",
+      "published": "2026-09-06T04:00:12+00:00",
+      "score": 6.0,
       "tags": [
         "closure"
       ]
@@ -41,19 +61,49 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONkdfTWVQTVdSZUV0WExHNEpESWZaMm1MMGVTRTVaZHRJalZhcmhSMlZkcTF2TkVlc25MV210cUNBelFNSFZtdWZ4R1FyaXV2VER5NU8zRVFHQU1QaFlJSDRSaW9jcG1QUUdhOGQ1dUlqUzlxUVNxb0xvX3VBQ1c5eUsta1VHdFZtREowWUlGYW5yWi1Tam9wcmstQ3Y4NXJvOHVSWlloYndhZm81SUl2RHVVRVh5R1ZfRDVXanRFT1Vibnc?oc=5",
       "source": "France 24",
       "published": "2026-09-03T05:57:20+00:00",
-      "score": 4.43,
+      "score": 4.29,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iran claims new naval mines laid in Strait of Hormuz - Anadolu Ajans\u0131",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbnZuUzhDTnJ6bWRuM1Q0T0tpNXJXQzBrczR6X05yQXROSnBxWFdSV3RzT2xPV3JpckxoOVpleXp1YTgxemtSY1BVb0dEVmQ4ZUlpU2RoMVNTejZYRFIyUnRPZ05vOC1aUHQtSlNYTDhNSXoxZG81T0RDaE9QVUVYbnVuNTh5U1RaX0pRejZlelBSVnBaRmJkbDN4SkV4MmVzZjhxVmdfMA?oc=5",
-      "source": "Anadolu Ajans\u0131",
-      "published": "2026-09-03T03:09:42+00:00",
-      "score": 4.34,
+      "title": "Iran claims strike on US ship in Strait of Hormuz as fighting escalates - WJHG",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM0NUN0s1QXY4REo0blA1ZGR5VnRIWDNvUV9DZ1pQd3E2ZmhvSVZ3YWZkLVFYS3ZhTXo5UlFXRVhHd1VMNkpSamItSXk3NHh0eFZXZld6Z1JiYlRwaGhac01WWHZXTnJEN0d5aG9Wd280V1dETDRLNWphMHdPYW1vOElPNkptU1hScHVQTHFsOWZVUFBWb0pz?oc=5",
+      "source": "WJHG",
+      "published": "2026-09-06T07:35:00+00:00",
+      "score": 4.0,
       "tags": [
-        "closure"
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran claims strike on US ship in Strait of Hormuz as fighting escalates - KNOE",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMmx1YjFnNG5TYjRTTEk1cVJJUy13SlVpYUxrNjNTMk5aeU81Uk5vU3ZEUGVJNlpPZnBrcXVPRjJzSldjUTVLX0hJeGdkaU1qSkY1VnlvUXV1dkNGT2dsek13ck8wa2NOTEt3bVhfQXlNYUdnM2YtNXdhaFNtOGxxX1ZxbVJ4ZzJJYzJsT3hCQ1pmRmRYdUZv?oc=5",
+      "source": "KNOE",
+      "published": "2026-09-06T07:35:00+00:00",
+      "score": 4.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran claims strike on US ship in Strait of Hormuz as fighting escalates - WCTV",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZDFfN2VmMFJEQzZyTjZuQW15LWl2dk9faGdwbE5MenpEdEJvV0VZcDZlZU90VU5FYThnQ2ZPcFB4ektOVGNTbkVYNjhIbF96X0I5YV9BRThtbl9QVmFxR0NQenhadGJYTmxKT1N5OFEyekQtdGo5T2hveFp1Vk9DUk5VbEtvaTV3SE5YU2hBWVZRbkZINXc?oc=5",
+      "source": "WCTV",
+      "published": "2026-09-06T07:35:00+00:00",
+      "score": 4.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran claims strike on US ship in Strait of Hormuz as fighting escalates - WKMG",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdzkzUmxVNHlVaTJZMGtxWml4d2FyMEFQMmJPUmdBQlVpVnkxNjhvdGxPOEJBSkp2bWtXOW9aUFktdjdlSElMV0VpYzl4Y3cxNVhYNlVUUjlfZ0U1b1JkRWVWMnV4Tkh0cTk2V1pJY3cwM1JGV2l0eUphLUpQZnNIZExWcEJQcG5nRDhIWFJyQUNfY2xQZVNFTk9UNERhRF90V1AwT3piZzIzYjBuVDA5akJEYnFzekFhcU45elZn?oc=5",
+      "source": "WKMG",
+      "published": "2026-09-06T07:03:35+00:00",
+      "score": 4.0,
+      "tags": [
+        "tension"
       ]
     },
     {
@@ -67,62 +117,11 @@
       ]
     },
     {
-      "title": "Iran says it attacked tankers, US-linked vessels in Hormuz escalation - Euronews.com",
+      "title": "Iran says it attacked tankers, US-linked vessels in Hormuz escalation - Euronews",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNmZvMmFhak9ROGpLQ2RDdzh6Q01QTS1vWkdDZThmdVBYUkQ4OUhVcHl6aG1TamFVTlA5QUVjQ3Vsa3ZZVEVYZjNwYTlFVDktYUhvTkNmWVFmUy1Oa3Y4bFlUS1N5d3VYMjNJZUJUeU1TNk41QThSZlpwYkhyQ0xjR1o0WXpUM1VJSE9KUUItdV9fX3BTQnRRamFCRUJaanRMQVZqSk1BM0hfZw?oc=5",
-      "source": "Euronews.com",
+      "source": "Euronews",
       "published": "2026-09-05T09:39:48+00:00",
       "score": 4.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "2 US-controlled oil tankers hit by mines in Hormuz Strait - Mehr News Agency",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObi11UUxUVkpnaHd6VnY5djR1dHRrZVVNUG5lS2RrZk1kSmZoOUxTUEhPejJOdEpSVThEUTAwUTJvTnhVRkpwdmRwczZOZHpqZUhyS192UXpGb1BNMXpTNnotOTd0V2k3U3dDRk9xX3I3V2N4b2M3UERMREJQblJpbENfNTluTlcwVG9mYndKb05rSWhGRlJyYg?oc=5",
-      "source": "Mehr News Agency",
-      "published": "2026-09-02T09:08:00+00:00",
-      "score": 3.74,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "IRGC: U.S. Attacks Will Lead to Tighter Closure of Strait of Hormuz \u00bb Iraqi News Agency - \u0648\u0643\u0627\u0644\u0629 \u0627\u0644\u0627\u0646\u0628\u0627\u0621 \u0627\u0644\u0639\u0631\u0627\u0642\u064a\u0629 (\u0648\u0627\u0639)",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNXBldzR3eDhuZDVOdFhyWHM3MndFM0E1MzBndTZqRVVBcENvMjFmZHQyLVZBSkc2dkRmMlRSMERxNW9tZFN0T25qSUNONlpzc20tR1JYVlBEU19fWnBJSTVYa25xbmVieWd0bFFRRTM4ZkRQTlpmblVTQlZIaUM5VW9Fbmcxcm1OX0l5X0JtSXd6M0ZfNmtaOGJDYTM0bTNqUGlNUVZROFQyRUE?oc=5",
-      "source": "\u0648\u0643\u0627\u0644\u0629 \u0627\u0644\u0627\u0646\u0628\u0627\u0621 \u0627\u0644\u0639\u0631\u0627\u0642\u064a\u0629 (\u0648\u0627\u0639)",
-      "published": "2026-08-30T22:58:00+00:00",
-      "score": 3.3,
-      "tags": [
-        "closure",
-        "tension"
-      ]
-    },
-    {
-      "title": "Oil Falls as Traders Digest Escalation in US-Iran Strikes - EnergyNow.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbGpZSXVERWxYRXozSEl2T1dxNFpJcTQwOTBwTkJEQmRFb1h3Z1JxZ29xcGY4MnZiSEVGb2YyRm5IVXFVeUdoeFRHeUVWaUNfYUVrcHFGRVh5VzA0NnJpUERMN2szYUJYVzlZZEp0VUJhVWtqUXNjQllsb18wd01sZ0gzbUpqS3NKYVlqbTMxNTVaZw?oc=5",
-      "source": "EnergyNow.com",
-      "published": "2026-09-03T19:56:38+00:00",
-      "score": 3.27,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Conflict branded a war of losers as US launches new round of strikes in Strait of Hormuz - Forces News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYXlDZU82U0hka05LakNnQUVPbF9KY1dZVmp0emtydkxJbFFwbmNKMkpuS2dWTW9hY1htX1NRZEFzS1ByLUFUaHU2RHh1SllyY3JPZVFBaG9FS0pZeUlmend6M1ZnTGNZZHFNMU95Zm0wenVyVkp4bmdtYVpWOXc1TVZNLXdfQU9JWktmcjV2eWpFcGxxTTVFTTh4eE9iZw?oc=5",
-      "source": "Forces News",
-      "published": "2026-09-03T14:54:53+00:00",
-      "score": 3.15,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Live - Iran threatens harsher strikes on US warships as Hegseth vows to sink tankers - Iran International",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0VzE5VXZZUC0yUU02WnVobXRXcnBXU1d4NmZwVTJZRXV0ZFBxU2pHQkpiTk56MEE4Z2RpVnEwUU1PQ3dwUy1GQTBCZHFDSDd1ZFZjR0FkM2NRMF8zQ0E?oc=5",
-      "source": "Iran International",
-      "published": "2026-09-05T23:43:04+00:00",
-      "score": 3.0,
       "tags": [
         "tension"
       ]
