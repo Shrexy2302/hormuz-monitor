@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 164.4,
+  "tension_index": 158.0,
   "closure_signals": 5,
-  "articles_scanned": 237,
-  "updated": "2026-09-07T22:55:51.721385+00:00",
+  "articles_scanned": 238,
+  "updated": "2026-09-08T00:52:30.997671+00:00",
   "headlines": [
     {
       "title": "Strait of Hormuz Is Closed Due to American Brutality - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
@@ -27,9 +27,9 @@
       ]
     },
     {
-      "title": "US Navy SEALs conducted covert four-month mission to clear Strait of Hormuz mines - report - The Jerusalem Post",
+      "title": "US Navy SEALs conducted covert four-month mission to clear Strait of Hormuz mines - report - jpost.com",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjbUxEOU5iX3kzbDlrSlR2X1pra3p3U2pQRWt1REhtVFdpNm8xeGQ1Y2Jaa0pjRUt6UnpDd3BNbmUtaHZmNnJwMTA2VXh6WDNnVWs5LW1BcTlMbjVGTzBFSG5VYUZERUd1MXc?oc=5",
-      "source": "The Jerusalem Post",
+      "source": "jpost.com",
       "published": "2026-09-07T10:21:03+00:00",
       "score": 6.0,
       "tags": [
@@ -51,7 +51,7 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNUp3aDJkX0lnZHJLRXVaSFdDS0hyX29JcWN2RzZuWkpzRlF2TWpDTmkwTEI1cklabXlXUllTWFhnQnRJRlhZbHBManBJOXRUU1B5U3FmcVlPMkF0VnJwV0tBaGJ0SE0tZ05fQTRTNk92RmhWZGZoTW1mbkJ5UzI1VzRTX1Y?oc=5",
       "source": "Financial Times",
       "published": "2026-09-06T04:02:14+00:00",
-      "score": 5.37,
+      "score": 5.31,
       "tags": [
         "closure"
       ]
@@ -71,30 +71,10 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GTlhhVUxfU0FZbzlpbHlYQkJWeXZEb3FFbFpXdjdyRG5pUnAzRHRfcjNhSnhNTFNuenFIQnk5UzBFRk5mRHdVc2MtODRaVEU?oc=5",
       "source": "\u0648\u0643\u0627\u0644\u0629 \u0633\u0628\u0623",
       "published": "2026-09-01T20:01:55+00:00",
-      "score": 3.49,
+      "score": 3.37,
       "tags": [
         "closure",
         "tension"
-      ]
-    },
-    {
-      "title": "Iran says it attacked tankers, US-linked vessels in Hormuz escalation - Euronews.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNmZvMmFhak9ROGpLQ2RDdzh6Q01QTS1vWkdDZThmdVBYUkQ4OUhVcHl6aG1TamFVTlA5QUVjQ3Vsa3ZZVEVYZjNwYTlFVDktYUhvTkNmWVFmUy1Oa3Y4bFlUS1N5d3VYMjNJZUJUeU1TNk41QThSZlpwYkhyQ0xjR1o0WXpUM1VJSE9KUUItdV9fX3BTQnRRamFCRUJaanRMQVZqSk1BM0hfZw?oc=5",
-      "source": "Euronews.com",
-      "published": "2026-09-05T09:39:48+00:00",
-      "score": 3.17,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Has Iran modified its rocket systems to fire mines into the Strait of Hormuz? - France 24",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONkdfTWVQTVdSZUV0WExHNEpESWZaMm1MMGVTRTVaZHRJalZhcmhSMlZkcTF2TkVlc25MV210cUNBelFNSFZtdWZ4R1FyaXV2VER5NU8zRVFHQU1QaFlJSDRSaW9jcG1QUUdhOGQ1dUlqUzlxUVNxb0xvX3VBQ1c5eUsta1VHdFZtREowWUlGYW5yWi1Tam9wcmstQ3Y4NXJvOHVSWlloYndhZm81SUl2RHVVRVh5R1ZfRDVXanRFT1Vibnc?oc=5",
-      "source": "France 24",
-      "published": "2026-09-03T05:57:20+00:00",
-      "score": 3.03,
-      "tags": [
-        "closure"
       ]
     },
     {
@@ -108,9 +88,9 @@
       ]
     },
     {
-      "title": "Iran Threatens To Set Up \u2018Exclusion Zone\u2019 Near War-Torn Strait Of Hormuz Following Tanker Attacks - marineinsight.com",
+      "title": "Iran Threatens To Set Up \u2018Exclusion Zone\u2019 Near War-Torn Strait Of Hormuz Following Tanker Attacks - Marine Insight",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa094M0xYa1RVRllBWHFqMWo4ZjlHUEZQS1ZxNDBPb3hJa0tYNVppWWVaVENUdW81NUF3UE9IZ0trM2lmUm9HOGRoWHR0cVk3XzFDNnMyM0ljeFdaX19BM0VRUXF5WXRqSHB1cm9LbVdWS2NQQWkzbW1leVVFOUlvRThaalRfR1psemJaYWVibzVRMk9pdjVpU2Q0YmlxMzZCMkxUM1NHU2xCb2thS2ppMFVDYTBWazU0eWhVWlhkQkpucHRJ?oc=5",
-      "source": "marineinsight.com",
+      "source": "Marine Insight",
       "published": "2026-09-07T09:10:38+00:00",
       "score": 3.0,
       "tags": [
@@ -126,10 +106,30 @@
       "tags": [
         "tension"
       ]
+    },
+    {
+      "title": "live Hormuz shipping falls to lowest level since May amid tanker strikes - AnewZ",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaFhHSHZMblE2al9wa3BzbDI3allVVVF6WGtxaVkwOTI0Ri0xVnFZXzBCMTBONVBsZFh0Q21UZUtYUUhaN3pydXZ3dTd0VXR0Y2h5SDFZX0FtbkJIMmtZdGVJZlk0Z3BLSmNUdHZEeTJNSWVtby1VQjdSTDVYWE1vdHYtcDJNLTRyUlkxNDhLVEQxbkhxS0dZNlZoSDduZW01SnU2OGVPZDRuZw?oc=5",
+      "source": "AnewZ",
+      "published": "2026-09-07T02:43:00+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran claims strike on US ship in Strait of Hormuz, but US denies it - Greater Kashmir",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbnFUUk5VUnh2Y2dWVXE2OHlUc1JjcDFHbXRnOWhvZmVmZHhqOVRrSlNoWkIzRWpVal9yRmFzNFpaTlJISlMxOXVxU2ZQNVRfVEltbjBMVUtXaVBJSGEzaEQ0bXoxTG02aUVMNDRseDR0SUlwcC1zTW0zOTl2ZThZeUZFT0ZtMW9yZk1sb2dZZ0xWMTlYcHhpTk5zcl9yYS1zajRfSGVsd0wzQ2ZobTZtdXlvMVd1QUnSAbcBQVVfeXFMT25xVFJOVVJ4dmNnVlVxNjh5VHNSY3AxR210Zzlob2ZlZmR4ajlUa0pTaFpCM0VqVWpfckZhczRaWk5SSEpTMTl1cVNmUDVUX1RJbW4wTFVLV2lQSUhhM2hENG16MUxtNmlFTDQ0bHg0dElJcHAtc01tMzk5dmU4WXlGRU9GbTFvcmZNbG9nWWdMVjE5WHB4aU5Oc3JfcmEtc2o0X0hlbHdMM0NmaG02bXV5bzFXdUFJ?oc=5",
+      "source": "Greater Kashmir",
+      "published": "2026-09-07T01:35:59+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
     }
   ],
   "brent": {
-    "price": 97.23,
-    "change_pct": 0.99
+    "price": 97.01,
+    "change_pct": 0.76
   }
 }
