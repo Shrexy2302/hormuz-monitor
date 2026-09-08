@@ -1,27 +1,27 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 155.1,
+  "tension_index": 142.7,
   "closure_signals": 5,
-  "articles_scanned": 237,
-  "updated": "2026-09-08T10:23:54.233477+00:00",
+  "articles_scanned": 240,
+  "updated": "2026-09-08T14:40:34.019802+00:00",
   "headlines": [
     {
       "title": "Strait of Hormuz Is Closed Due to American Brutality - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTEZKdWZscFlKbmlPcmd1amUzbE9NeFJfYndyM2tnX053MkhHemZCWlVZXzFRYWgyOEtWNGl6OFJOMGQ4d1gxMUJ1Y1JtSEhUTzQwSUN0SjZmeWlqZzVwSnBnRjNJYkl3QXBUUU1YckZVeVFkVEhSbVFkT2h2SG9GQnYzMkROenI1Vkl1Sy1Ta0o?oc=5",
       "source": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
       "published": "2026-09-07T07:01:52+00:00",
-      "score": 9.81,
+      "score": 9.58,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iran announces complete closure of the Strait of Hormuz - 1News.az",
+      "title": "Iran announces complete closure of the Strait of Hormuz - 1news.az",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN1ZWMUI4N1F3NkZuaEJFXzBEVUtmVHpsbjloLThNemd2RVRSaE1xTFlMa25WRzNFTExNM1pwX2JUcHJDS2p6NEotRExyb3lDSWR4UzN2eGtwX2xQNXl2enV2X05wYXpwUzNnbUJ1MlRoOTF5S0szZlotd1RwaDBUanB0V2gwcFlNNi1Kd0ZNMEpySk9BMDI2cEVGTy1hME0?oc=5",
-      "source": "1News.az",
+      "source": "1news.az",
       "published": "2026-09-07T04:30:14+00:00",
-      "score": 7.74,
+      "score": 7.55,
       "tags": [
         "closure"
       ]
@@ -31,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjbUxEOU5iX3kzbDlrSlR2X1pra3p3U2pQRWt1REhtVFdpNm8xeGQ1Y2Jaa0pjRUt6UnpDd3BNbmUtaHZmNnJwMTA2VXh6WDNnVWs5LW1BcTlMbjVGTzBFSG5VYUZERUd1MXc?oc=5",
       "source": "The Jerusalem Post",
       "published": "2026-09-07T10:21:03+00:00",
-      "score": 6.0,
+      "score": 5.86,
       "tags": [
         "closure"
       ]
@@ -41,7 +41,7 @@
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOFFkNU82SF9zdmdsSm1LZ1NSUTd5Y0wyS09aeE1KZHExQlhEREZhaDBWOG45ay05eGtvUU9TUmluTWYzaE5DelVMQVp2RE5ocUpoUjFPaEhfVXhXMUFMSGJyYlp5dkdjVWwzN3A5SGhOalBKYWVxelFNRUFTYlEwTm1Jei14TURpMGp3enVtbkFfMkp1bGIyWGRyNU9iZ1VNdGlSSEFXNzFxTEZHRkdYWGY0YUVOUmk1YVROMFFzV3FoZlVpMXhQQmRzMW8wdVgxRk9mNUtZV0h2dXB3OHdxWGJIZw?oc=5",
       "source": "i24NEWS",
       "published": "2026-09-07T07:52:00+00:00",
-      "score": 5.92,
+      "score": 5.77,
       "tags": [
         "closure"
       ]
@@ -51,7 +51,7 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNUp3aDJkX0lnZHJLRXVaSFdDS0hyX29JcWN2RzZuWkpzRlF2TWpDTmkwTEI1cklabXlXUllTWFhnQnRJRlhZbHBManBJOXRUU1B5U3FmcVlPMkF0VnJwV0tBaGJ0SE0tZ05fQTRTNk92RmhWZGZoTW1mbkJ5UzI1VzRTX1Y?oc=5",
       "source": "Financial Times",
       "published": "2026-09-06T18:33:07+00:00",
-      "score": 5.47,
+      "score": 5.33,
       "tags": [
         "closure"
       ]
@@ -61,7 +61,17 @@
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9feERoTWRsT3hscm03TDhZa0k2WG96M1JucTh1ZG1HbjFHZTYtblJqRkE5MTRxNnR5cmljTDVmNnNtcHZHYjVDaWMtLTdidkRQeXl4Rks4eTlsWVFCdG1SQkVlbzNmRnhnajVEVUYyYUZjUQ?oc=5",
       "source": "eciks.org",
       "published": "2026-09-07T04:25:10+00:00",
-      "score": 3.87,
+      "score": 3.77,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Two Tankers Attacked on Midnight Run Through Hormuz - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU216RVctUnZQZ1dYaGNlcC1VU0VITlNZNHRhWE5HcUo3ZDZLaFBpNHQwdWNBVS10c2R6ekV6QzlQR0RkYWdoTFhCdGE1TnpZaUs0VHJuOE52WXZlU1pxT2RsX181Z05Kd0ljY08yME55b2pDQkt5SEZoWEV2R2FaN1BkNWxTOWdoYzdNNC1VQ296SHpxUnFxRHBnZHh3dTQ?oc=5",
+      "source": "WSJ",
+      "published": "2026-09-08T10:20:09+00:00",
+      "score": 3.0,
       "tags": [
         "tension"
       ]
@@ -97,16 +107,6 @@
       ]
     },
     {
-      "title": "Two Tankers Attacked on Midnight Run Through Hormuz - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU216RVctUnZQZ1dYaGNlcC1VU0VITlNZNHRhWE5HcUo3ZDZLaFBpNHQwdWNBVS10c2R6ekV6QzlQR0RkYWdoTFhCdGE1TnpZaUs0VHJuOE52WXZlU1pxT2RsX181Z05Kd0ljY08yME55b2pDQkt5SEZoWEV2R2FaN1BkNWxTOWdoYzdNNC1VQ296SHpxUnFxRHBnZHh3dTQ?oc=5",
-      "source": "WSJ",
-      "published": "2026-09-08T02:00:35+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
       "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcDlzUXFCcVJvUER3Ym1FeE9mREQ1a3FuaGV6T2hOdlV4WHU1bkRTN3V0eFVfNDJvYTRrSHFoMW9uSlBtaXNoQVJ2Sk42d1BNRmFjejAwaXg4a2swdTR4WFFnaVRBMFkzZUdjQmhfRnZIcGR3Qm9SYVZ5YkZQSDhJcUZOcDE3TlUyZTFaUnkwcWV5dWJOMXEwUGlTOFJhaGE5RXZHOW5qZDV2S0dM0gGyAUFVX3lxTE1xQXhqajhaRnRSRklMaUlJeWFCdU5Gb01qSXd6VmVNLUdaY0w5TTA2Rjk0bk9mdDgyZ0F2QTU4TkRXTzF3OUNnc3NxY2M5ZEVscXZBVXR5YXd4Z0hfVmtDMWQ5YThhMm5yY1RfcTFrTDFJaWFNalEybjk4SE1GRU1WTG5vdDNETEN6U0ZabThTQVdnNFpxR1dWM0VhYVJHSy1WMXo2Z0p1MkMwX1paQ0dpR3c?oc=5",
       "source": "Al Jazeera",
@@ -117,10 +117,10 @@
       ]
     },
     {
-      "title": "Iran Threatens To Set Up \u2018Exclusion Zone\u2019 Near War-Torn Strait Of Hormuz Following Tanker Attacks - Marine Insight",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa094M0xYa1RVRllBWHFqMWo4ZjlHUEZQS1ZxNDBPb3hJa0tYNVppWWVaVENUdW81NUF3UE9IZ0trM2lmUm9HOGRoWHR0cVk3XzFDNnMyM0ljeFdaX19BM0VRUXF5WXRqSHB1cm9LbVdWS2NQQWkzbW1leVVFOUlvRThaalRfR1psemJaYWVibzVRMk9pdjVpU2Q0YmlxMzZCMkxUM1NHU2xCb2thS2ppMFVDYTBWazU0eWhVWlhkQkpucHRJ?oc=5",
-      "source": "Marine Insight",
-      "published": "2026-09-07T09:10:38+00:00",
+      "title": "Iran vows response to US strikes, says American facilities are \u2018exposed\u2019 - The Christian Science Monitor",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWVZjVGc2RzhGSHk4VGZJenoxaXlDWXhWN0dlMGxaU20tLXRwLXdIcDRPQ2pwUWtfQk1hN21FZXhHMGRHbVZ2U0o2dXZUbm0wMFIyc2ZmYmRVU0J4M2ZudkVfQ2hVVGwwbGVNdkhOMk9RSjh5aGRYMHpkcDRvZnltLXljQTEzcDR5SV9aLWJ0MNIBqAFBVV95cUxPU21iX0FxRW1HN1FkeDA3aWxmQ0xSRmJaT2dYNkFCT0JqbU5UcV9PamtnRkNxYmc4U0p4RUtuekJrVTZKX2x0dm9ub0VpeG94X0RfOHpnOTFfTW1QZUZqRXlJWG5kb1A3X21HQXJnYlJ2SVJueDhOcUVyYWhOczV3NHc5VnBlSVVvUzdFMm4wbE9YV0tQY0JCRWxSLUxseUNRUk9KZDdfUWQ?oc=5",
+      "source": "The Christian Science Monitor",
+      "published": "2026-09-07T13:32:26+00:00",
       "score": 2.98,
       "tags": [
         "tension"
@@ -128,7 +128,7 @@
     }
   ],
   "brent": {
-    "price": 98.71,
-    "change_pct": 2.52
+    "price": 98.26,
+    "change_pct": 2.06
   }
 }
