@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 158.0,
+  "tension_index": 164.6,
   "closure_signals": 5,
-  "articles_scanned": 238,
-  "updated": "2026-09-08T00:52:30.997671+00:00",
+  "articles_scanned": 241,
+  "updated": "2026-09-08T05:31:19.684899+00:00",
   "headlines": [
     {
       "title": "Strait of Hormuz Is Closed Due to American Brutality - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
@@ -21,15 +21,15 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN1ZWMUI4N1F3NkZuaEJFXzBEVUtmVHpsbjloLThNemd2RVRSaE1xTFlMa25WRzNFTExNM1pwX2JUcHJDS2p6NEotRExyb3lDSWR4UzN2eGtwX2xQNXl2enV2X05wYXpwUzNnbUJ1MlRoOTF5S0szZlotd1RwaDBUanB0V2gwcFlNNi1Kd0ZNMEpySk9BMDI2cEVGTy1hME0?oc=5",
       "source": "1News.az",
       "published": "2026-09-07T04:30:14+00:00",
-      "score": 8.0,
+      "score": 7.95,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "US Navy SEALs conducted covert four-month mission to clear Strait of Hormuz mines - report - jpost.com",
+      "title": "US Navy SEALs conducted covert four-month mission to clear Strait of Hormuz mines - report - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjbUxEOU5iX3kzbDlrSlR2X1pra3p3U2pQRWt1REhtVFdpNm8xeGQ1Y2Jaa0pjRUt6UnpDd3BNbmUtaHZmNnJwMTA2VXh6WDNnVWs5LW1BcTlMbjVGTzBFSG5VYUZERUd1MXc?oc=5",
-      "source": "jpost.com",
+      "source": "The Jerusalem Post",
       "published": "2026-09-07T10:21:03+00:00",
       "score": 6.0,
       "tags": [
@@ -50,8 +50,8 @@
       "title": "The risky mission to de-mine the Strait of Hormuz - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNUp3aDJkX0lnZHJLRXVaSFdDS0hyX29JcWN2RzZuWkpzRlF2TWpDTmkwTEI1cklabXlXUllTWFhnQnRJRlhZbHBManBJOXRUU1B5U3FmcVlPMkF0VnJwV0tBaGJ0SE0tZ05fQTRTNk92RmhWZGZoTW1mbkJ5UzI1VzRTX1Y?oc=5",
       "source": "Financial Times",
-      "published": "2026-09-06T04:02:14+00:00",
-      "score": 5.31,
+      "published": "2026-09-06T04:01:23+00:00",
+      "score": 5.15,
       "tags": [
         "closure"
       ]
@@ -61,7 +61,7 @@
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9feERoTWRsT3hscm03TDhZa0k2WG96M1JucTh1ZG1HbjFHZTYtblJqRkE5MTRxNnR5cmljTDVmNnNtcHZHYjVDaWMtLTdidkRQeXl4Rks4eTlsWVFCdG1SQkVlbzNmRnhnajVEVUYyYUZjUQ?oc=5",
       "source": "eciks.org",
       "published": "2026-09-07T04:25:10+00:00",
-      "score": 4.0,
+      "score": 3.98,
       "tags": [
         "tension"
       ]
@@ -71,9 +71,19 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GTlhhVUxfU0FZbzlpbHlYQkJWeXZEb3FFbFpXdjdyRG5pUnAzRHRfcjNhSnhNTFNuenFIQnk5UzBFRk5mRHdVc2MtODRaVEU?oc=5",
       "source": "\u0648\u0643\u0627\u0644\u0629 \u0633\u0628\u0623",
       "published": "2026-09-01T20:01:55+00:00",
-      "score": 3.37,
+      "score": 3.09,
       "tags": [
         "closure",
+        "tension"
+      ]
+    },
+    {
+      "title": "Two Tankers Attacked on Midnight Run Through Hormuz - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU216RVctUnZQZ1dYaGNlcC1VU0VITlNZNHRhWE5HcUo3ZDZLaFBpNHQwdWNBVS10c2R6ekV6QzlQR0RkYWdoTFhCdGE1TnpZaUs0VHJuOE52WXZlU1pxT2RsX181Z05Kd0ljY08yME55b2pDQkt5SEZoWEV2R2FaN1BkNWxTOWdoYzdNNC1VQ296SHpxUnFxRHBnZHh3dTQ?oc=5",
+      "source": "WSJ",
+      "published": "2026-09-08T02:00:35+00:00",
+      "score": 3.0,
+      "tags": [
         "tension"
       ]
     },
@@ -82,6 +92,16 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcDlzUXFCcVJvUER3Ym1FeE9mREQ1a3FuaGV6T2hOdlV4WHU1bkRTN3V0eFVfNDJvYTRrSHFoMW9uSlBtaXNoQVJ2Sk42d1BNRmFjejAwaXg4a2swdTR4WFFnaVRBMFkzZUdjQmhfRnZIcGR3Qm9SYVZ5YkZQSDhJcUZOcDE3TlUyZTFaUnkwcWV5dWJOMXEwUGlTOFJhaGE5RXZHOW5qZDV2S0dM0gGyAUFVX3lxTE1xQXhqajhaRnRSRklMaUlJeWFCdU5Gb01qSXd6VmVNLUdaY0w5TTA2Rjk0bk9mdDgyZ0F2QTU4TkRXTzF3OUNnc3NxY2M5ZEVscXZBVXR5YXd4Z0hfVmtDMWQ5YThhMm5yY1RfcTFrTDFJaWFNalEybjk4SE1GRU1WTG5vdDNETEN6U0ZabThTQVdnNFpxR1dWM0VhYVJHSy1WMXo2Z0p1MkMwX1paQ0dpR3c?oc=5",
       "source": "Al Jazeera",
       "published": "2026-09-07T21:33:45+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Hormuz traffic dips to lowest since May after US, Iranian strikes on ships - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX1Yzd0xQX3FmaWVJVjdQREFrMWR1ZEZfaHlPNmpTY1FJRFRNYmN0YWVTSHB6NVNvTnJ5R0VYaS1RLXg5TUh5cjEzMmFzV0Nyb0FWUmRZSXlBMUlSQjRZbGFzQll1X0kzcXdBdnVsT25ncEhNY2Z3ME5IQTMzSk9TZEdDbGx5RFh2VEJjMzdKMy1uUlBPbWZ0NWgyLTh3cmU0cTA1bTE1Rnh0cWhpd1dKaWZlTDhQeGJKVWxJeHVB?oc=5",
+      "source": "Reuters",
+      "published": "2026-09-07T11:23:44+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -102,34 +122,14 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNU0tZ2VOaGZ4LW10X0ktZ2cxcllBcmkxeTFrcElFWnpJWjQzZi0wN3kyWEtROFcxQ0dBTGJiUGtXUXZ0a1pUdTRPM3VJN0o3MzhYR1V1cXJsUjNDV0l6ODlXcmtKRkg5bFNEdDgtS0RTM2E0TTFJWndqdV8zSHlYbW5fNW9uX0o2N0Z0RUtDQ0FtalFLQS1ESUpIX0p5cmxnTXlNMVFR0gGmAUFVX3lxTE81TS1nZU5oZngtbXRfSS1nZzFyWUFyaTF5MWtwSUVaeklaNDNmLTA3eTJYS1E4VzFDR0FMYmJQa1dRdnRrWlR1NE8zdUk3SjczOFhHVXVxcmxSM0NXSXo4OVdya0pGSDlsU0R0OC1LRFMzYTRNMUlad2p1XzNIeVhtbl81b25fSjY3RnRFS0NDQW1qUUtBLURJSkhfSnlybGdNeU0xUVE?oc=5",
       "source": "Deccan Chronicle",
       "published": "2026-09-07T02:51:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "live Hormuz shipping falls to lowest level since May amid tanker strikes - AnewZ",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaFhHSHZMblE2al9wa3BzbDI3allVVVF6WGtxaVkwOTI0Ri0xVnFZXzBCMTBONVBsZFh0Q21UZUtYUUhaN3pydXZ3dTd0VXR0Y2h5SDFZX0FtbkJIMmtZdGVJZlk0Z3BLSmNUdHZEeTJNSWVtby1VQjdSTDVYWE1vdHYtcDJNLTRyUlkxNDhLVEQxbkhxS0dZNlZoSDduZW01SnU2OGVPZDRuZw?oc=5",
-      "source": "AnewZ",
-      "published": "2026-09-07T02:43:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran claims strike on US ship in Strait of Hormuz, but US denies it - Greater Kashmir",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbnFUUk5VUnh2Y2dWVXE2OHlUc1JjcDFHbXRnOWhvZmVmZHhqOVRrSlNoWkIzRWpVal9yRmFzNFpaTlJISlMxOXVxU2ZQNVRfVEltbjBMVUtXaVBJSGEzaEQ0bXoxTG02aUVMNDRseDR0SUlwcC1zTW0zOTl2ZThZeUZFT0ZtMW9yZk1sb2dZZ0xWMTlYcHhpTk5zcl9yYS1zajRfSGVsd0wzQ2ZobTZtdXlvMVd1QUnSAbcBQVVfeXFMT25xVFJOVVJ4dmNnVlVxNjh5VHNSY3AxR210Zzlob2ZlZmR4ajlUa0pTaFpCM0VqVWpfckZhczRaWk5SSEpTMTl1cVNmUDVUX1RJbW4wTFVLV2lQSUhhM2hENG16MUxtNmlFTDQ0bHg0dElJcHAtc01tMzk5dmU4WXlGRU9GbTFvcmZNbG9nWWdMVjE5WHB4aU5Oc3JfcmEtc2o0X0hlbHdMM0NmaG02bXV5bzFXdUFJ?oc=5",
-      "source": "Greater Kashmir",
-      "published": "2026-09-07T01:35:59+00:00",
-      "score": 3.0,
+      "score": 2.96,
       "tags": [
         "tension"
       ]
     }
   ],
   "brent": {
-    "price": 97.01,
-    "change_pct": 0.76
+    "price": 97.82,
+    "change_pct": 1.6
   }
 }
