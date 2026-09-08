@@ -1,17 +1,17 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 135.0,
+  "tension_index": 150.4,
   "closure_signals": 5,
-  "articles_scanned": 244,
-  "updated": "2026-09-08T18:13:41.957383+00:00",
+  "articles_scanned": 245,
+  "updated": "2026-09-08T21:17:36.384378+00:00",
   "headlines": [
     {
-      "title": "Strait of Hormuz Is Closed Due to American Brutality - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
+      "title": "Strait of Hormuz Is Closed Due to American Brutality - defapress.ir",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTEZKdWZscFlKbmlPcmd1amUzbE9NeFJfYndyM2tnX053MkhHemZCWlVZXzFRYWgyOEtWNGl6OFJOMGQ4d1gxMUJ1Y1JtSEhUTzQwSUN0SjZmeWlqZzVwSnBnRjNJYkl3QXBUUU1YckZVeVFkVEhSbVFkT2h2SG9GQnYzMkROenI1Vkl1Sy1Ta0o?oc=5",
-      "source": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
+      "source": "defapress.ir",
       "published": "2026-09-07T07:01:52+00:00",
-      "score": 9.38,
+      "score": 9.21,
       "tags": [
         "closure"
       ]
@@ -21,9 +21,19 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN1ZWMUI4N1F3NkZuaEJFXzBEVUtmVHpsbjloLThNemd2RVRSaE1xTFlMa25WRzNFTExNM1pwX2JUcHJDS2p6NEotRExyb3lDSWR4UzN2eGtwX2xQNXl2enV2X05wYXpwUzNnbUJ1MlRoOTF5S0szZlotd1RwaDBUanB0V2gwcFlNNi1Kd0ZNMEpySk9BMDI2cEVGTy1hME0?oc=5",
       "source": "1News.az",
       "published": "2026-09-07T04:30:14+00:00",
-      "score": 7.39,
+      "score": 7.25,
       "tags": [
         "closure"
+      ]
+    },
+    {
+      "title": "Iran claims to have seized American drone US says had \u2018malfunctioned\u2019 - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWmlqeDdsTWM5SmRhZE95ZmZVcVFrYkNYelVGTExQTGlnSFJvTGNuaURuV0o4MXFybUhRT3JfYWFVVDB4TnJOM3haOXhSdXBKVmNVaUlHSkhqSEZKbDF5RUxzYmhXc2JCLXlqRVNCYS1Eb2dTdmxwN2kxRkw2bzlmbEljdFRHYlE0dTJGRmJ6TQ?oc=5",
+      "source": "The Guardian",
+      "published": "2026-09-08T20:35:00+00:00",
+      "score": 6.0,
+      "tags": [
+        "tension"
       ]
     },
     {
@@ -31,7 +41,7 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjbUxEOU5iX3kzbDlrSlR2X1pra3p3U2pQRWt1REhtVFdpNm8xeGQ1Y2Jaa0pjRUt6UnpDd3BNbmUtaHZmNnJwMTA2VXh6WDNnVWs5LW1BcTlMbjVGTzBFSG5VYUZERUd1MXc?oc=5",
       "source": "The Jerusalem Post",
       "published": "2026-09-07T10:21:03+00:00",
-      "score": 5.74,
+      "score": 5.64,
       "tags": [
         "closure"
       ]
@@ -41,7 +51,7 @@
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOFFkNU82SF9zdmdsSm1LZ1NSUTd5Y0wyS09aeE1KZHExQlhEREZhaDBWOG45ay05eGtvUU9TUmluTWYzaE5DelVMQVp2RE5ocUpoUjFPaEhfVXhXMUFMSGJyYlp5dkdjVWwzN3A5SGhOalBKYWVxelFNRUFTYlEwTm1Jei14TURpMGp3enVtbkFfMkp1bGIyWGRyNU9iZ1VNdGlSSEFXNzFxTEZHRkdYWGY0YUVOUmk1YVROMFFzV3FoZlVpMXhQQmRzMW8wdVgxRk9mNUtZV0h2dXB3OHdxWGJIZw?oc=5",
       "source": "i24NEWS",
       "published": "2026-09-07T07:52:00+00:00",
-      "score": 5.65,
+      "score": 5.55,
       "tags": [
         "closure"
       ]
@@ -51,7 +61,7 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNUp3aDJkX0lnZHJLRXVaSFdDS0hyX29JcWN2RzZuWkpzRlF2TWpDTmkwTEI1cklabXlXUllTWFhnQnRJRlhZbHBManBJOXRUU1B5U3FmcVlPMkF0VnJwV0tBaGJ0SE0tZ05fQTRTNk92RmhWZGZoTW1mbkJ5UzI1VzRTX1Y?oc=5",
       "source": "Financial Times",
       "published": "2026-09-06T18:33:07+00:00",
-      "score": 5.21,
+      "score": 5.11,
       "tags": [
         "closure"
       ]
@@ -61,15 +71,45 @@
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9feERoTWRsT3hscm03TDhZa0k2WG96M1JucTh1ZG1HbjFHZTYtblJqRkE5MTRxNnR5cmljTDVmNnNtcHZHYjVDaWMtLTdidkRQeXl4Rks4eTlsWVFCdG1SQkVlbzNmRnhnajVEVUYyYUZjUQ?oc=5",
       "source": "eciks.org",
       "published": "2026-09-07T04:25:10+00:00",
-      "score": 3.69,
+      "score": 3.63,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Iran Captures U.S. Underwater Drone In The Strait Of Hormuz - teleSUR English",
+      "title": "US strikes Iranian tankers after more attempted missile attacks on Navy warship - bostonherald.com",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZY0dHNnpjME1IMG5jeHlCM2pXYlVETEFMaFlZUGdzSEhobTI2T0ZBVXM4MEE1UjhzUzhZUUgwSThWWVo0RVU4ZzdoSFNDR016d0FuU1hLTjhMQmRsNmFMR0JCcWxaZjZ4Z0tDNjRMbw?oc=5",
+      "source": "bostonherald.com",
+      "published": "2026-09-08T20:54:38+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran-backed Houthis attack four Saudi cities in expansion of Middle East war, 73 hurt - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT2RnNWprQ01ScjN2Q05RSHRWdmRqVzh2U01LUVVPVmhiRDVYNER3anQxQlNWV24wS3RZR2ZqS1FxNnFKWFRqSmlYbnQwSFk1eU5Cbnh1SVpxbTZCWUwtelFqbFV6LTNLVHZZbGRaYTVucy1VT1JwNDZPM3gydkZRU2VCWHFoVnpTVU9ILXlfRHpKMnBsT3RJOUlkejRzT1FJa25YekFnMVl6dUJnbERxeXo1UnpOZTVaQ281aFJrbjFEWmN3T2c?oc=5",
+      "source": "Reuters",
+      "published": "2026-09-08T20:21:44+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "U.S. downplays Iran's seizure of unmanned sub in Hormuz Strait - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uY0c0aHNlR2NIZ1hQWHRnUHVqUngzS0g0VHRmZWt0WWRJd0pvcjQyX25YMlBfd1JudzVyUEdTNHA3ZzFXMmNlMHBQd1FqRTdwSHg3VkVLdGNYNUJseFdWclJGUF9tQmgtVUR2azVrVdIBdEFVX3lxTFBjY0E0dzVIRXhqSlp4LTlJMXVKcDhPQ1Y3YlJ3VjhKWm1fLWdQMXZFM1NWYkhVd3hPMUZZQVRXeldQQ1VlcDBqUnEzeTJDY0hjRTZYUzdibmVpY3dJYVFlSVBRVGg2RENYWXpuNFRTU2VXNDdG?oc=5",
+      "source": "CNBC",
+      "published": "2026-09-08T19:14:45+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran Captures U.S. Underwater Drone In The Strait Of Hormuz - telesurenglish.net",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVXl1MXRzWnE4MF9PX2FZMUM2b2k0QnZ1NW84aDAwTF9mYVdjMkFZZUpjalVhZE03QW8tcnhOQkw4TWpiZ0N5UVZBbmRTa0tYbVBmMnRxVENsNUdGYjNPZ1Nsd3NJV2NuX1pSNjk0ZkRLXzlOUXA2ekluNF9HT0FMeU5YelJoZmVTTk16YmVJNzE4Y3RR?oc=5",
-      "source": "teleSUR English",
+      "source": "telesurenglish.net",
       "published": "2026-09-08T16:32:47+00:00",
       "score": 3.0,
       "tags": [
@@ -77,50 +117,10 @@
       ]
     },
     {
-      "title": "Oman Evacuates 16 Crew From Saudi Oil Tanker Attacked By Iran In Strait Of Hormuz - Marine Insight",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSEtRWEI1MmFQLXZ2cFdHZXdETllmaUs1OHBLcnZwRjBPeEpZY0dIUjRUTlRrQ3NCQXk5ZHpnUWNydnNBZWdYTTFCbkt2clZ5bmZNTExCeF8xSTVqTmdJUHVpbnVvUnlidFZjWXRQTzlDRUdQQ0V3N3hRaXpQU3Z5Vk02OE1od01Jckt3UlpXTDByTTM1ZDZpa2xMb2xBd2JGc1pWZzNld2ZCSGJlc2VhV1dn?oc=5",
-      "source": "Marine Insight",
-      "published": "2026-09-08T12:08:08+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Two Tankers Attacked on Midnight Run Through Hormuz - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU216RVctUnZQZ1dYaGNlcC1VU0VITlNZNHRhWE5HcUo3ZDZLaFBpNHQwdWNBVS10c2R6ekV6QzlQR0RkYWdoTFhCdGE1TnpZaUs0VHJuOE52WXZlU1pxT2RsX181Z05Kd0ljY08yME55b2pDQkt5SEZoWEV2R2FaN1BkNWxTOWdoYzdNNC1VQ296SHpxUnFxRHBnZHh3dTQ?oc=5",
-      "source": "WSJ",
-      "published": "2026-09-08T10:20:09+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Hormuz traffic slows after Iran threatens retaliation for US attacks - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50elZ3TkxCcGFRNDZWUEtCcmo4bG1ZbzFudEZ1TVRUWkp1YWs3YlVUOFpNeG9mZGNyMGdxU1JQeWQ3dUFVMzQ5blJNWTJaYjNPU3FNY25HQnVFZTBPNkpJNFJ1Q2xDQTFNTmc?oc=5",
-      "source": "The Jerusalem Post",
-      "published": "2026-09-08T06:32:32+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Hormuz traffic slows after Iran threatens retaliation for US attacks - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLVZqbU1CYlBIcWpOcEhmWWNHbk1PaUxMa1REWVpsUnpHcEgySUVnWDZ5cFJJbG9tZ1IyV1A1UXFocFEzQkRZVmNNWVNkVlEzZWc4TExyVnNvdWJ2Tjg3a0swQUlKbXo3VzlncDNqZ2w2MUJVLVpJRVBFcXdlR3lpSW5CMVZneGtYcG51MWJZSkpLZmhpSzlrLUNoUXFXTlhQSm8xS25kdEhKM1VOa2pFdV85dnBRNENqWXc?oc=5",
-      "source": "Reuters",
-      "published": "2026-09-08T02:53:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcDlzUXFCcVJvUER3Ym1FeE9mREQ1a3FuaGV6T2hOdlV4WHU1bkRTN3V0eFVfNDJvYTRrSHFoMW9uSlBtaXNoQVJ2Sk42d1BNRmFjejAwaXg4a2swdTR4WFFnaVRBMFkzZUdjQmhfRnZIcGR3Qm9SYVZ5YkZQSDhJcUZOcDE3TlUyZTFaUnkwcWV5dWJOMXEwUGlTOFJhaGE5RXZHOW5qZDV2S0dM0gGyAUFVX3lxTE1xQXhqajhaRnRSRklMaUlJeWFCdU5Gb01qSXd6VmVNLUdaY0w5TTA2Rjk0bk9mdDgyZ0F2QTU4TkRXTzF3OUNnc3NxY2M5ZEVscXZBVXR5YXd4Z0hfVmtDMWQ5YThhMm5yY1RfcTFrTDFJaWFNalEybjk4SE1GRU1WTG5vdDNETEN6U0ZabThTQVdnNFpxR1dWM0VhYVJHSy1WMXo2Z0p1MkMwX1paQ0dpR3c?oc=5",
-      "source": "Al Jazeera",
-      "published": "2026-09-07T21:33:45+00:00",
+      "title": "US MQ-1 drone downed by Iran over Strait of Hormuz: Report - Anadolu Ajans\u0131",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTy1aYmljRzRJNUh4RWN0SUV4Vl9TVWdvVFh6YjJJNE9WVzN4M3NveFBwdWVlQnRiVWNrdHpBV05HNGo0MDhzNWg0SDdBVHFjOHA4RHgwN3dKR1QtWG1wLTk5ZWNIOHlRM2tjV2JMcTYwbmZhQ0x1T2NwWC1PMVp0THQ0YWVxUTAzWlhvc2pVTi00V1cwcFdyb2xBNA?oc=5",
+      "source": "Anadolu Ajans\u0131",
+      "published": "2026-09-08T14:19:34+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -128,7 +128,7 @@
     }
   ],
   "brent": {
-    "price": 97.24,
-    "change_pct": 1.0
+    "price": 99.31,
+    "change_pct": 3.15
   }
 }
