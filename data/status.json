@@ -1,17 +1,17 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 185.5,
-  "closure_signals": 5,
-  "articles_scanned": 241,
-  "updated": "2026-09-09T21:32:19.912910+00:00",
+  "tension_index": 192.2,
+  "closure_signals": 6,
+  "articles_scanned": 239,
+  "updated": "2026-09-09T23:44:07.906443+00:00",
   "headlines": [
     {
       "title": "Strait of Hormuz Is Closed Due to American Brutality - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTEZKdWZscFlKbmlPcmd1amUzbE9NeFJfYndyM2tnX053MkhHemZCWlVZXzFRYWgyOEtWNGl6OFJOMGQ4d1gxMUJ1Y1JtSEhUTzQwSUN0SjZmeWlqZzVwSnBnRjNJYkl3QXBUUU1YckZVeVFkVEhSbVFkT2h2SG9GQnYzMkROenI1Vkl1Sy1Ta0o?oc=5",
       "source": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
       "published": "2026-09-07T07:01:52+00:00",
-      "score": 7.86,
+      "score": 7.74,
       "tags": [
         "closure"
       ]
@@ -21,27 +21,37 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSkVIb3lWa3B4Rk5aSTNPNGhJbDA3NHRCX01KNEtxVDJrOW9Oamo3YUVMSW11NEpYVDZmYmRJR2hiaFNqRTJCX0ZWcFhaV1hCak1BQ3UycWRBYjVyZ2tUX1E3cDBySV9ObWg4ckh1VTltMG9iSkI3TGFqRm5OMFZrNnQwd1dHNjJjQ2tqMkVjT0xKNFl1NmloeU1QM3FNdw?oc=5",
       "source": "open.kg",
       "published": "2026-09-08T02:37:57+00:00",
-      "score": 7.16,
+      "score": 7.06,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iran announces complete closure of the Strait of Hormuz - 1news.az",
+      "title": "Iran announces complete closure of the Strait of Hormuz - 1News.az",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN1ZWMUI4N1F3NkZuaEJFXzBEVUtmVHpsbjloLThNemd2RVRSaE1xTFlMa25WRzNFTExNM1pwX2JUcHJDS2p6NEotRExyb3lDSWR4UzN2eGtwX2xQNXl2enV2X05wYXpwUzNnbUJ1MlRoOTF5S0szZlotd1RwaDBUanB0V2gwcFlNNi1Kd0ZNMEpySk9BMDI2cEVGTy1hME0?oc=5",
-      "source": "1news.az",
+      "source": "1News.az",
       "published": "2026-09-07T04:30:14+00:00",
-      "score": 6.18,
+      "score": 6.08,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "US targets mine-laying vessels in the Strait of Hormuz amid blockade disrupting global oil markets - ABC News - Breaking News, Latest News and Videos",
+      "title": "Navy SEALs used robot boats, night dives to clear mines from Strait of Hormuz - newsnationnow.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX0xQZWk5T05ESFB0b0tDWjZjR3BOUHV3MEpod2MxdTQ5c0I1ZU9FOHdyQWtHRk9rb2ZrYzdmaXZNVmdzN2RaUFZDblk4SXFzcWtqdFA4ZFVsakpZRzRISk9qb2NzY01RU09mTkc2SzBNemE3dkxFSUpMMlZ3UXJ4UTRTRENnMHVRa2RNWGMwUHZ0aFFO0gGaAUFVX3lxTFAyZm94bTluUkdMaVJub2JSUmoxb3pOTC13OG9oMllqemRtOF9kc09GWEM2VU1VZi1KcjYzZUZiRnJudXNGeXdLbTNGSmtuQUxIQ3c2SGtnRkNJYzlOdGZYWHdhRlo0Q01Rb2F2em5mUG1XV1l0d2dpbTNmQTQ5WmFBYllobnZlLVVwbWN4RDNOMEF5c3lLOVh2WlE?oc=5",
+      "source": "newsnationnow.com",
+      "published": "2026-09-09T09:27:50+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "US targets mine-laying vessels in the Strait of Hormuz amid blockade disrupting global oil markets - abcnews.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzRPSjlIQTd4QndKdm9CUHk1ZWxIaktfOERjc1A3VHpYMHV0Z1Zkd3dGNURqMFJFR3l4LXo3OU5scG96QXhMd0F5TGthdlVzbmg0QVVHbnktU096TkFWUnc5QU9UV0xvTk1jbDY3eGFJaWZXN19UOEJvbTF6eFdFcW13cWxwdWRDVzU1OEl6c2ctT3ltYVJZN0d1a3hvQdIBowFBVV95cUxPUktnalZhVFFxNkhBTHFVS0tOSVBzVE5rZWFhcHhQUVk5dnlocFVZQWdNeHlNQ2pwY0ctTHp6dkQ1WFh1djJsUkQxZ3RZR3NkbVVJOWNCNTFqdFl5eUpMc044SVlwQVMyeldla2VYZ2FxVG5ud1RvTVlKNVc1d0FMNjZSemNubmdydW5BRE1peGVjdmJNSFF5QVZ2OGtNMTVHY09B?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "published": "2026-09-08T17:32:08+00:00",
-      "score": 5.87,
+      "source": "abcnews.com",
+      "published": "2026-09-09T07:58:18+00:00",
+      "score": 6.0,
       "tags": [
         "closure"
       ]
@@ -51,7 +61,7 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XX2hUckpfY01TaUtBYUQ3Rm1GUU56SW5tMC1ZS1ZSMGVBMHNncjctbS1lY05DcTEtUmF6ZFk1U0E3dTdvMkFfQVN0RGpJZXFYTE0wdGZB?oc=5",
       "source": "Fox News",
       "published": "2026-09-07T21:08:32+00:00",
-      "score": 5.19,
+      "score": 5.11,
       "tags": [
         "closure"
       ]
@@ -61,7 +71,17 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjbUxEOU5iX3kzbDlrSlR2X1pra3p3U2pQRWt1REhtVFdpNm8xeGQ1Y2Jaa0pjRUt6UnpDd3BNbmUtaHZmNnJwMTA2VXh6WDNnVWs5LW1BcTlMbjVGTzBFSG5VYUZERUd1MXc?oc=5",
       "source": "The Jerusalem Post",
       "published": "2026-09-07T10:21:03+00:00",
-      "score": 4.83,
+      "score": 4.75,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "US Conducted Secret Four-month Mission To Clear Iranian Mines From Strait Of Hormuz - Report - i24NEWS",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOFFkNU82SF9zdmdsSm1LZ1NSUTd5Y0wyS09aeE1KZHExQlhEREZhaDBWOG45ay05eGtvUU9TUmluTWYzaE5DelVMQVp2RE5ocUpoUjFPaEhfVXhXMUFMSGJyYlp5dkdjVWwzN3A5SGhOalBKYWVxelFNRUFTYlEwTm1Jei14TURpMGp3enVtbkFfMkp1bGIyWGRyNU9iZ1VNdGlSSEFXNzFxTEZHRkdYWGY0YUVOUmk1YVROMFFzV3FoZlVpMXhQQmRzMW8wdVgxRk9mNUtZV0h2dXB3OHdxWGJIZw?oc=5",
+      "source": "i24NEWS",
+      "published": "2026-09-07T07:52:00+00:00",
+      "score": 4.67,
       "tags": [
         "closure"
       ]
@@ -71,15 +91,25 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNUp3aDJkX0lnZHJLRXVaSFdDS0hyX29JcWN2RzZuWkpzRlF2TWpDTmkwTEI1cklabXlXUllTWFhnQnRJRlhZbHBManBJOXRUU1B5U3FmcVlPMkF0VnJwV0tBaGJ0SE0tZ05fQTRTNk92RmhWZGZoTW1mbkJ5UzI1VzRTX1Y?oc=5",
       "source": "Financial Times",
       "published": "2026-09-06T18:33:07+00:00",
-      "score": 4.3,
+      "score": 4.23,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iran Launches Massive Attack on Global Shipping - Foreign Policy",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSlBmY251N0p6TDd4RTBwSXNBSGVKdUVpRURZRWhBN3V3Um1oNGhMOW9maU1EZDR5WW5FckpxMTNYanlkZDYybVNDSUJJSlM0TWxwX2RGMUlKX0oyWXplTlBfdm40UDF5T0dySnExc29leEl6ckNKRU94aEtveUdCV0t2aUhIR1B6eEJyajI1M0laMVFubS1GU2JOeDN6aEt2UVlsT0NqQ2Z1bVczTVN2SGMzd1BuVDZZdkhv?oc=5",
-      "source": "Foreign Policy",
+      "title": "Iran and US hit tankers in biggest wave of attacks on shipping since war began - Al-Monitor",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZUY1OWZPa1JDUVFxaVdZVm85UmdSQmprTHlfRUt0cTBCSHl5dWVUN0dVUkt1RXFET1k2WHF4blREcXJncVlwVVB6UVJBOTU5VW9MTTJhcEhBQmFRY3ZIMThTOGc3YWF4SU1WZVNBZEdJVXd5c0RLTnpYcm9sWlpPa2F4LUxQS0FoUWdpY1FyYjdzYllIMWNydnBTeG9hN3RpVmJULWpUcG1TSnZW?oc=5",
+      "source": "Al-Monitor",
+      "published": "2026-09-09T22:41:15+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran Launches Massive Attack on Global Shipping - foreignpolicy.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTzZhTndacEt2akVXYmk1S2pOYW1xMDVZQTRhc0JaYllQT3gyUXR5OTlXVUtJQjJoU1RibGlSZ3RZSE02d2JSVDQ5Q3dMcE1TM1pqQ3RlU1RsbVpPQzBMa1FtR093bGRTTzJzSDRBX3o4RVRZNndKWDIzeTdHbm5nSFBhUUp4MGhscVk1S3drYjFGcURfQXpNTDJR?oc=5",
+      "source": "foreignpolicy.com",
       "published": "2026-09-09T21:20:05+00:00",
       "score": 3.0,
       "tags": [
@@ -87,40 +117,10 @@
       ]
     },
     {
-      "title": "US-Iran Strikes Push Oil Above $100 as Hormuz Traffic Remains Sluggish - wwd.com",
+      "title": "US-Iran Strikes Push Oil Above $100 as Hormuz Traffic Remains Sluggish - WWD",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaU16QTlfYlFpWVkwSVBVTnM0WmRWb0tXamZfbGxnYmV4UTltME9fd2ZQWnZiamlGSTJIY3pmb3F1MUMxUGtxdXRLdkRnRzRsUml1T3FCYWNPVkJMRnFfTTl1RGZ4d0YzNmk3Wi00NDR5ZlZMTkQ5ZU05ZUIwV2k2TUNqRmZGbkxraWN3bFNIT3JGcDd0X2l3VVU4c1l2aVZPMG91ZkZMVGVrQ3lvN1JycEViX1F1OFdKdmcyQ20yQXJzRENkNGNV?oc=5",
-      "source": "wwd.com",
+      "source": "WWD",
       "published": "2026-09-09T20:51:57+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran and US strike tankers in biggest shipping attack since war began - France 24",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONjV3S05rUzF1TDFqaVVmTkJIT3FnX1I3RUhwVVVWQmdnSUM0d08tWUxlUy1JSW1zMnJFdUY3eGxFT1JyTVBaaFNYdFB4dy1MVjZPYXlwbnV3UEdOUV9wUmh2WW9ZMk5tZkhmSnYzUFcya3VhOURyaUVzaUIyRUVSblRmWUNvMXZhTklJcmpNdk44VlQxNWhRa2RjLXFuZml3aF9DV1UxT0JVY2RRR3FNNVdSUlNYaGVxQ1E?oc=5",
-      "source": "France 24",
-      "published": "2026-09-09T20:31:31+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Oil rises past $100 a barrel after the latest wave of Middle East attacks - PBS",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM3JZQWtVSHoyUFQ2SFFYYjlnM2k5c1NCd2xaYjIyeVV0bzlxa1QycWpLOGxkclFZWWlnUlNycEtOR3pXSnd2N2NydTExNlBzNExWTk1TQ29BNkNCNElLUGNuWU5FeWxjeUNEQWdpSVQ1dGpRUU1SMFZieEhYd0FOSExrQjVzZ0VhZER4VUhhZGdTbmlqcGhWOElFWkRTeUI1RzB3RlFqZEdVSGc5b0VLNGR0MNIBswFBVV95cUxNM3JZQWtVSHoyUFQ2SFFYYjlnM2k5c1NCd2xaYjIyeVV0bzlxa1QycWpLOGxkclFZWWlnUlNycEtOR3pXSnd2N2NydTExNlBzNExWTk1TQ29BNkNCNElLUGNuWU5FeWxjeUNEQWdpSVQ1dGpRUU1SMFZieEhYd0FOSExrQjVzZ0VhZER4VUhhZGdTbmlqcGhWOElFWkRTeUI1RzB3RlFqZEdVSGc5b0VLNGR0MA?oc=5",
-      "source": "PBS",
-      "published": "2026-09-09T19:35:19+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YNWJtUDJmUXdQb2JLMUZpVFNTU3llRTdfSHkzQWVPMjdfb3lJM0RhaTJBWk51RDY4QWlQS3IzemgyeU1EcXBVMkRlVXlySHZzQWFRcFZ0eVFXdw?oc=5",
-      "source": "BBC",
-      "published": "2026-09-09T16:46:53+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -128,7 +128,7 @@
     }
   ],
   "brent": {
-    "price": 101.63,
-    "change_pct": 3.79
+    "price": 102.05,
+    "change_pct": 0.83
   }
 }
