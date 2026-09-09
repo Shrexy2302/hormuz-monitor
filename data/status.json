@@ -1,27 +1,27 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 161.3,
+  "tension_index": 160.1,
   "closure_signals": 5,
-  "articles_scanned": 245,
-  "updated": "2026-09-09T01:24:43.343650+00:00",
+  "articles_scanned": 240,
+  "updated": "2026-09-09T06:15:23.089931+00:00",
   "headlines": [
     {
       "title": "Strait of Hormuz Is Closed Due to American Brutality - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTEZKdWZscFlKbmlPcmd1amUzbE9NeFJfYndyM2tnX053MkhHemZCWlVZXzFRYWgyOEtWNGl6OFJOMGQ4d1gxMUJ1Y1JtSEhUTzQwSUN0SjZmeWlqZzVwSnBnRjNJYkl3QXBUUU1YckZVeVFkVEhSbVFkT2h2SG9GQnYzMkROenI1Vkl1Sy1Ta0o?oc=5",
       "source": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
       "published": "2026-09-07T07:01:52+00:00",
-      "score": 8.98,
+      "score": 8.71,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iran announces complete closure of the Strait of Hormuz - 1news.az",
+      "title": "Iran announces complete closure of the Strait of Hormuz - 1News.az",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN1ZWMUI4N1F3NkZuaEJFXzBEVUtmVHpsbjloLThNemd2RVRSaE1xTFlMa25WRzNFTExNM1pwX2JUcHJDS2p6NEotRExyb3lDSWR4UzN2eGtwX2xQNXl2enV2X05wYXpwUzNnbUJ1MlRoOTF5S0szZlotd1RwaDBUanB0V2gwcFlNNi1Kd0ZNMEpySk9BMDI2cEVGTy1hME0?oc=5",
-      "source": "1news.az",
+      "source": "1News.az",
       "published": "2026-09-07T04:30:14+00:00",
-      "score": 7.07,
+      "score": 6.86,
       "tags": [
         "closure"
       ]
@@ -41,7 +41,7 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjbUxEOU5iX3kzbDlrSlR2X1pra3p3U2pQRWt1REhtVFdpNm8xeGQ1Y2Jaa0pjRUt6UnpDd3BNbmUtaHZmNnJwMTA2VXh6WDNnVWs5LW1BcTlMbjVGTzBFSG5VYUZERUd1MXc?oc=5",
       "source": "The Jerusalem Post",
       "published": "2026-09-07T10:21:03+00:00",
-      "score": 5.5,
+      "score": 5.34,
       "tags": [
         "closure"
       ]
@@ -51,7 +51,7 @@
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOFFkNU82SF9zdmdsSm1LZ1NSUTd5Y0wyS09aeE1KZHExQlhEREZhaDBWOG45ay05eGtvUU9TUmluTWYzaE5DelVMQVp2RE5ocUpoUjFPaEhfVXhXMUFMSGJyYlp5dkdjVWwzN3A5SGhOalBKYWVxelFNRUFTYlEwTm1Jei14TURpMGp3enVtbkFfMkp1bGIyWGRyNU9iZ1VNdGlSSEFXNzFxTEZHRkdYWGY0YUVOUmk1YVROMFFzV3FoZlVpMXhQQmRzMW8wdVgxRk9mNUtZV0h2dXB3OHdxWGJIZw?oc=5",
       "source": "i24NEWS",
       "published": "2026-09-07T07:52:00+00:00",
-      "score": 5.42,
+      "score": 5.25,
       "tags": [
         "closure"
       ]
@@ -61,7 +61,7 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNUp3aDJkX0lnZHJLRXVaSFdDS0hyX29JcWN2RzZuWkpzRlF2TWpDTmkwTEI1cklabXlXUllTWFhnQnRJRlhZbHBManBJOXRUU1B5U3FmcVlPMkF0VnJwV0tBaGJ0SE0tZ05fQTRTNk92RmhWZGZoTW1mbkJ5UzI1VzRTX1Y?oc=5",
       "source": "Financial Times",
       "published": "2026-09-06T18:33:07+00:00",
-      "score": 4.97,
+      "score": 4.81,
       "tags": [
         "closure"
       ]
@@ -71,7 +71,37 @@
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9feERoTWRsT3hscm03TDhZa0k2WG96M1JucTh1ZG1HbjFHZTYtblJqRkE5MTRxNnR5cmljTDVmNnNtcHZHYjVDaWMtLTdidkRQeXl4Rks4eTlsWVFCdG1SQkVlbzNmRnhnajVEVUYyYUZjUQ?oc=5",
       "source": "eciks.org",
       "published": "2026-09-07T04:25:10+00:00",
-      "score": 3.53,
+      "score": 3.43,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "U.S. military says it destroyed 5 Iranian oil tankers after attacks on Navy warship - NPR",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUXVLR3ZpOTNWZWpyaVpnSkVfTWZ2bERWZ3NfM21rcFJzcjRjWmlHaG9KeVNaalNwSnR1cDZHSG5IZFotS2dtcXpLZjVrSjJEYTBpZHNsMjY2eTlsVklQaUFGSVhHOC1lZUZmMHVfZGJvcEJrZ3psNU90WldXQnhiSg?oc=5",
+      "source": "NPR",
+      "published": "2026-09-09T05:20:45+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran says it captured US submarine drone in Strait of Hormuz - al-monitor.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcDdZUm9oaWtyNFluTnVBbFRzNVRJeXBBVnh2VnJkcEhpLUNhUEl3ajY4LVVrdU51Z01NQ0VxR3NNM1hSejBDRHlZZXlDNDR4TzdfbWxPRGpqc0NMZEtDUjFialEtZ2VlS0Z0LUFJRWhtX0dZVjNaT2dlZm5sUmZmUVJuMFliSUVjZVBQUFJtSGdNdzdISWRKMHJuc0FvdUdU?oc=5",
+      "source": "al-monitor.com",
+      "published": "2026-09-09T04:07:22+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran attacks US base in Jordan, ships near Hormuz after tankers sunk - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ2FPaUNRYjRBWnd2cmxkT044cmZYbENZYnhTWXAzUGxadUpEZ3N3aHpVSEtodVVsWUt6djBaeFhjUm5JOGVrNEE1SXlaUkxoSzBVaUpaWjZTdkdXZzItRTFOaGtMZWVtbEhpdUFSUWgwczNXa2VqZ3ktdzVhajBmYllFNVJIaUxnMDBLazE4S0VSTzZSbVFxMDZSUVY4aHIxVmhkcUpZeF85TzZYV2tqWkE5bVNWM29qWlE?oc=5",
+      "source": "Reuters",
+      "published": "2026-09-09T04:07:00+00:00",
+      "score": 3.0,
       "tags": [
         "tension"
       ]
@@ -80,47 +110,17 @@
       "title": "Iran says it captured a U.S. sea drone in the Strait of Hormuz - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQajlSSF9Fbl8zMXZYTzEzeEJqUldqY2dtcFFuVW9QZFppYmNZS0FNSUJTUGpPZlRRam1QckVxanRhRHBHMzJDWUcza3lNcnV0c0xpRmxwcS1FbHJ3QXRLS2dKOXdERVpNTTdlaFBzYmZUSThmNjNraFk5WXY3NVE1ZzJaVXhTb1Y4d01nVUh3RW5KdTZDb3dtQ3Nkc3FjQQ?oc=5",
       "source": "The Washington Post",
-      "published": "2026-09-09T01:08:01+00:00",
+      "published": "2026-09-09T03:34:55+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "War expands as Houthis attack Saudi cities and US strikes Iranian tankers - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT2RnNWprQ01ScjN2Q05RSHRWdmRqVzh2U01LUVVPVmhiRDVYNER3anQxQlNWV24wS3RZR2ZqS1FxNnFKWFRqSmlYbnQwSFk1eU5Cbnh1SVpxbTZCWUwtelFqbFV6LTNLVHZZbGRaYTVucy1VT1JwNDZPM3gydkZRU2VCWHFoVnpTVU9ILXlfRHpKMnBsT3RJOUlkejRzT1FJa25YekFnMVl6dUJnbERxeXo1UnpOZTVaQ281aFJrbjFEWmN3T2c?oc=5",
-      "source": "Reuters",
-      "published": "2026-09-08T23:09:18+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "US military says it has destroyed 5 Iranian oil tankers after missile attacks on Navy warship - Boston Herald",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZY0dHNnpjME1IMG5jeHlCM2pXYlVETEFMaFlZUGdzSEhobTI2T0ZBVXM4MEE1UjhzUzhZUUgwSThWWVo0RVU4ZzdoSFNDR016d0FuU1hLTjhMQmRsNmFMR0JCcWxaZjZ4Z0tDNjRMbw?oc=5",
-      "source": "Boston Herald",
-      "published": "2026-09-08T22:57:44+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "U.S. strikes five Iranian tankers after attempted attacks on Navy warship, CENTCOM says - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMldfZlUwY0FCWmkxTF9kZmlRak9fai1nQlpjUC01bmxabUZzaGV3N2NNN1J1aVZIa0Ftc0l3RS1mc2pkeTJxSVNiLU5EaGNBTkN6NG9ZRWJmTWFOY1JhS3A5elZTbjA2dzRlRE9VUTktdjk0MWZMVTFNWUp5NmhVYXpqeWZCQ0l3a3Y5T2x4aDNud2ZuWmdwdDRZeUEyWGtTRGtzRXFWRW83NWRQR3Jncw?oc=5",
-      "source": "NBC News",
-      "published": "2026-09-08T22:42:44+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "US strikes Iranian oil tankers in Strait of Hormuz - dw.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OV3VIY1NYS2o1UXRSbzFnbk5CRFpfb1ZYWjZXMF9YWEk5a0U4V0hZS3A1X2NuVW85eVBLcXY4SFpxbUxhMlF2VDJFMDRHeWtSbzNlUGxFUDhNaEJueDVjMk9XVUR1clZxZER4ZUhLOFhiMzZ3YnfSAXZBVV95cUxQbGlJUDdhbkI5YzdMWmp4SHFZcmtCdVhpUWFaNEZwalNLOUhqeUZ4eFBCeUEyZURkUzFkWHQ4cXVZa3FmVUdkSnNIRm5aZ09jSWNjR0xTeW5xRi1FOGVET3BJREs2b2tWWHducXJnZEFKdS1PU2dR?oc=5",
-      "source": "dw.com",
-      "published": "2026-09-08T22:07:30+00:00",
+      "title": "US attacks 5 Iranian oil tankers, Tehran retaliates with strikes on Jordan - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSVZkSGpmVEVQUWxwTVJzMktrLWQ1R0RESXZqbktnZlo3SmJGM0prNEs3dVg0UUp3WWlzQVdZaUdONHQwOWFwVFU0R19hbm1zZGIyVVFqWkJ3S2c2dEpQQUJ4SHd4VE52UXBwa2pHSGZjWFd3U0xQeTFLQVIzZFBQdS11Y1VoY3NzVGlsTF9WYTduYVVZaUhlV05ob3c0RWFWY3M2Q19zSnlYdkpOTW13LUZrdFpKclnSAbwBQVVfeXFMT3pFYTcwbEJBMkxXWEEya3hZRFhRbzV0dTg4SkFIay1nWkthZFlEY3pFTUNVMnhuRnpTdTZkSzcwT0tmNjBncmpaNzk1akNsUldnWEZkVXNrejB6UEUtMXRpTXhQbHVQYkRiSDZxclQ0S1BUdVc0d1lUT0FmNGdfdzVLLU80czBXSHIwSXJCT3lqTXBCc29qaE9KZk5xM3JjSXBCSm1XX0JEd0VqNjNnY19DMHo3S2M0aWZQWU8?oc=5",
+      "source": "Al Jazeera",
+      "published": "2026-09-09T03:21:53+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -128,7 +128,7 @@
     }
   ],
   "brent": {
-    "price": 99.23,
-    "change_pct": 1.34
+    "price": 98.96,
+    "change_pct": 1.06
   }
 }
