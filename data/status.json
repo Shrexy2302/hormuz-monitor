@@ -1,17 +1,27 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 200.4,
-  "closure_signals": 6,
-  "articles_scanned": 242,
-  "updated": "2026-09-10T02:30:59.960761+00:00",
+  "tension_index": 217.4,
+  "closure_signals": 7,
+  "articles_scanned": 247,
+  "updated": "2026-09-10T07:44:30.238634+00:00",
   "headlines": [
     {
       "title": "Strait of Hormuz Is Closed Due to American Brutality - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTEZKdWZscFlKbmlPcmd1amUzbE9NeFJfYndyM2tnX053MkhHemZCWlVZXzFRYWgyOEtWNGl6OFJOMGQ4d1gxMUJ1Y1JtSEhUTzQwSUN0SjZmeWlqZzVwSnBnRjNJYkl3QXBUUU1YckZVeVFkVEhSbVFkT2h2SG9GQnYzMkROenI1Vkl1Sy1Ta0o?oc=5",
       "source": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
       "published": "2026-09-07T07:01:52+00:00",
-      "score": 7.58,
+      "score": 7.29,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iran declares Strait of Hormuz closed as \u2018unauthorized\u2019 vessel hit - Arab News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR19JOFh5UndMaHl5UVV0Yjhrb2w2MmxxSVY0R2VGRFdHTEViM24wVVFPNGRRU1R2bUROQ2JNdlhGdG92eVQzRlRjZWE5eU9oSlRJbHJvMzRBWVJ3UVpmQ0F1R00tZzhwcktKbHRGUkhVZks0MkJsN1FsV0M0c0YzSE1wNG9sd0tsSEtOQmMxYUZUdHBKZzE1QzducnZMc3hEUEh3b01RaVV0emstSXc?oc=5",
+      "source": "Arab News",
+      "published": "2026-09-07T05:48:25+00:00",
+      "score": 7.23,
       "tags": [
         "closure"
       ]
@@ -21,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSkVIb3lWa3B4Rk5aSTNPNGhJbDA3NHRCX01KNEtxVDJrOW9Oamo3YUVMSW11NEpYVDZmYmRJR2hiaFNqRTJCX0ZWcFhaV1hCak1BQ3UycWRBYjVyZ2tUX1E3cDBySV9ObWg4ckh1VTltMG9iSkI3TGFqRm5OMFZrNnQwd1dHNjJjQ2tqMkVjT0xKNFl1NmloeU1QM3FNdw?oc=5",
       "source": "open.kg",
       "published": "2026-09-08T02:37:57+00:00",
-      "score": 6.94,
+      "score": 6.71,
       "tags": [
         "closure"
       ]
@@ -51,9 +61,29 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN1ZWMUI4N1F3NkZuaEJFXzBEVUtmVHpsbjloLThNemd2RVRSaE1xTFlMa25WRzNFTExNM1pwX2JUcHJDS2p6NEotRExyb3lDSWR4UzN2eGtwX2xQNXl2enV2X05wYXpwUzNnbUJ1MlRoOTF5S0szZlotd1RwaDBUanB0V2gwcFlNNi1Kd0ZNMEpySk9BMDI2cEVGTy1hME0?oc=5",
       "source": "1News.az",
       "published": "2026-09-07T04:30:14+00:00",
-      "score": 5.95,
+      "score": 5.72,
       "tags": [
         "closure"
+      ]
+    },
+    {
+      "title": "Iran declares complete closure of the Strait of Hormuz, establishes new restrictive zone - Laodong.vn",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb2sxVmhjS3UwT3g0LXhaTHVaZFNrNWZnNHVDSFl6YUtPNWxHdHR1MEJFSW1nZ19LcXFLYlBkLW53TC14dUpQbFY0VVFOelRpTm5DMEhtdHBibk5rVkctdWp4eEpXWWxkZ0s4YnhkWkp3QVFjS0taRWg5bGFxaUdMLWJlS2wzMWhmU1A2VFpMVVZUUzNYVkpsaTFfQkcyRDlKem1yU1JRWTVweDFEZ2xmblpLSQ?oc=5",
+      "source": "Laodong.vn",
+      "published": "2026-09-07T00:30:29+00:00",
+      "score": 5.55,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iran Tightens Hormuz Restrictions as U.S. Tanker Strikes, AUV Seizure Raise the Stakes - NIAC Action",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZzktS0hzSjY2U05JUS02dDlETlFRdkV6M0RKS3FCVzc2NnI5Tl9nM18td3hZeGxzVFBmUDhpczBTZ3VhZ0NZaWRGelJ0WlJITHhqbzlpS1IyM2RrRkVpck55ZVhYNFhBYzJORDJubENVeEYxMDd4ZEVneFhmbUFwVTF5QmlOSDd6MGdic21Rb1I0a1pjRXpxVU5vWHJUVElnRUVzcnREa2RXN3hK?oc=5",
+      "source": "NIAC Action",
+      "published": "2026-09-08T07:00:00+00:00",
+      "score": 5.18,
+      "tags": [
+        "tension"
       ]
     },
     {
@@ -61,7 +91,7 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XX2hUckpfY01TaUtBYUQ3Rm1GUU56SW5tMC1ZS1ZSMGVBMHNncjctbS1lY05DcTEtUmF6ZFk1U0E3dTdvMkFfQVN0RGpJZXFYTE0wdGZB?oc=5",
       "source": "Fox News",
       "published": "2026-09-07T21:08:32+00:00",
-      "score": 5.02,
+      "score": 4.85,
       "tags": [
         "closure"
       ]
@@ -71,7 +101,7 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjbUxEOU5iX3kzbDlrSlR2X1pra3p3U2pQRWt1REhtVFdpNm8xeGQ1Y2Jaa0pjRUt6UnpDd3BNbmUtaHZmNnJwMTA2VXh6WDNnVWs5LW1BcTlMbjVGTzBFSG5VYUZERUd1MXc?oc=5",
       "source": "The Jerusalem Post",
       "published": "2026-09-07T10:21:03+00:00",
-      "score": 4.66,
+      "score": 4.49,
       "tags": [
         "closure"
       ]
@@ -81,7 +111,7 @@
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOFFkNU82SF9zdmdsSm1LZ1NSUTd5Y0wyS09aeE1KZHExQlhEREZhaDBWOG45ay05eGtvUU9TUmluTWYzaE5DelVMQVp2RE5ocUpoUjFPaEhfVXhXMUFMSGJyYlp5dkdjVWwzN3A5SGhOalBKYWVxelFNRUFTYlEwTm1Jei14TURpMGp3enVtbkFfMkp1bGIyWGRyNU9iZ1VNdGlSSEFXNzFxTEZHRkdYWGY0YUVOUmk1YVROMFFzV3FoZlVpMXhQQmRzMW8wdVgxRk9mNUtZV0h2dXB3OHdxWGJIZw?oc=5",
       "source": "i24NEWS",
       "published": "2026-09-07T07:52:00+00:00",
-      "score": 4.58,
+      "score": 4.4,
       "tags": [
         "closure"
       ]
@@ -91,44 +121,14 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNUp3aDJkX0lnZHJLRXVaSFdDS0hyX29JcWN2RzZuWkpzRlF2TWpDTmkwTEI1cklabXlXUllTWFhnQnRJRlhZbHBManBJOXRUU1B5U3FmcVlPMkF0VnJwV0tBaGJ0SE0tZ05fQTRTNk92RmhWZGZoTW1mbkJ5UzI1VzRTX1Y?oc=5",
       "source": "Financial Times",
       "published": "2026-09-06T18:33:07+00:00",
-      "score": 4.13,
+      "score": 3.96,
       "tags": [
         "closure"
-      ]
-    },
-    {
-      "title": "Iran Launches Massive Attack on Global Shipping - Foreign Policy",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTzZhTndacEt2akVXYmk1S2pOYW1xMDVZQTRhc0JaYllQT3gyUXR5OTlXVUtJQjJoU1RibGlSZ3RZSE02d2JSVDQ5Q3dMcE1TM1pqQ3RlU1RsbVpPQzBMa1FtR093bGRTTzJzSDRBX3o4RVRZNndKWDIzeTdHbm5nSFBhUUp4MGhscVk1S3drYjFGcURfQXpNTDJR?oc=5",
-      "source": "Foreign Policy",
-      "published": "2026-09-10T02:01:28+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran strikes ships, expands no-go zone outside Strait of Hormuz - Inquirer.net",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUzRYYTlOdFhEQnA4X2RyblFGTUtDbFR6N0ZKM1hkS1dsWjNDeVdNaU1zaWl0aGEzNkk3M0VVVkxGNWVGRWx3aUhFTE5NQW94RWhKbWV4cWR1dEVrd3ZFSXphRGR5WDYtMVBMaVpDalFRekt0eS1ibkN6My1RQlJJQ1h4cXVac0tWWk1wUVhySkFYOWZrZW9VSjhPbTdPWHlXMUlnaFRn0gGrAUFVX3lxTE1xZVowQkZ2WWRaSy1PU1lZWTg4dTBRR05mZFA5endCcWxibEpwbmpVZFY1V01WX0MyVnFxQzF3eVlFSWdXSHdQSUxhdG5wQml5QTVrTFBORHQ5bG1maEg3Q3N4c0hZVEdfSzNkbXFFUnNlRFJuWEVRMElaLTljMnNEQ255R1RtekZIdUxJM3VXQnZZWWNYaDR5S3JVU005QkJnOE9pT192X09Gcw?oc=5",
-      "source": "Inquirer.net",
-      "published": "2026-09-10T01:40:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran and US hit tankers in biggest wave of attacks on shipping since war began - Al-Monitor",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZUY1OWZPa1JDUVFxaVdZVm85UmdSQmprTHlfRUt0cTBCSHl5dWVUN0dVUkt1RXFET1k2WHF4blREcXJncVlwVVB6UVJBOTU5VW9MTTJhcEhBQmFRY3ZIMThTOGc3YWF4SU1WZVNBZEdJVXd5c0RLTnpYcm9sWlpPa2F4LUxQS0FoUWdpY1FyYjdzYllIMWNydnBTeG9hN3RpVmJULWpUcG1TSnZW?oc=5",
-      "source": "Al-Monitor",
-      "published": "2026-09-09T22:41:15+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
       ]
     }
   ],
   "brent": {
-    "price": 101.27,
-    "change_pct": 0.06
+    "price": 101.46,
+    "change_pct": 0.25
   }
 }
