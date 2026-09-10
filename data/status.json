@@ -1,17 +1,28 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 184.5,
-  "closure_signals": 4,
+  "tension_index": 197.6,
+  "closure_signals": 5,
   "articles_scanned": 239,
-  "updated": "2026-09-10T21:43:40.185976+00:00",
+  "updated": "2026-09-10T23:36:21.642995+00:00",
   "headlines": [
+    {
+      "title": "Oil Prices Surge as United States-Iran Conflict Closes Strait of Hormuz, Lifting Borrowing Costs: 12 outlets compared - NewsCord",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOM2JJRVRCVUU0SEZYUUV0ekVoeUhYUVdKUFNzUDBSa1pvZUxBbkJxYnN3d05FeDVHVEdsNUlfMVZpZ3VZWEt3bGVYcWtuWTRHaTVOd1hJXy0yUV9SZFRpVVFObnFNZUhsUHR6dGFDbEZPaklXUnlwN2tiSEJQdVE0aHMyT2JLWFBPQlRURHlmb0NaS2h6R0lGLVdMSE4wNEJrWnVXazhxSWh4REN2V0V4aVFxU2lSUHVZdGRGY25Yd01DNTVTd1ZVbE45WHRHQU13cHQ3RUtTRUJwdERvcmJaZGJ4LUN1QTN0?oc=5",
+      "source": "NewsCord",
+      "published": "2026-09-10T20:16:47+00:00",
+      "score": 9.0,
+      "tags": [
+        "closure",
+        "tension"
+      ]
+    },
     {
       "title": "Strait of Hormuz Is Closed Due to American Brutality - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTEZKdWZscFlKbmlPcmd1amUzbE9NeFJfYndyM2tnX053MkhHemZCWlVZXzFRYWgyOEtWNGl6OFJOMGQ4d1gxMUJ1Y1JtSEhUTzQwSUN0SjZmeWlqZzVwSnBnRjNJYkl3QXBUUU1YckZVeVFkVEhSbVFkT2h2SG9GQnYzMkROenI1Vkl1Sy1Ta0o?oc=5",
       "source": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
       "published": "2026-09-07T07:01:52+00:00",
-      "score": 6.52,
+      "score": 6.41,
       "tags": [
         "closure"
       ]
@@ -21,7 +32,7 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR19JOFh5UndMaHl5UVV0Yjhrb2w2MmxxSVY0R2VGRFdHTEViM24wVVFPNGRRU1R2bUROQ2JNdlhGdG92eVQzRlRjZWE5eU9oSlRJbHJvMzRBWVJ3UVpmQ0F1R00tZzhwcktKbHRGUkhVZks0MkJsN1FsV0M0c0YzSE1wNG9sd0tsSEtOQmMxYUZUdHBKZzE1QzducnZMc3hEUEh3b01RaVV0emstSXc?oc=5",
       "source": "Arab News",
       "published": "2026-09-07T05:48:25+00:00",
-      "score": 6.45,
+      "score": 6.34,
       "tags": [
         "closure"
       ]
@@ -31,7 +42,7 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX0xQZWk5T05ESFB0b0tDWjZjR3BOUHV3MEpod2MxdTQ5c0I1ZU9FOHdyQWtHRk9rb2ZrYzdmaXZNVmdzN2RaUFZDblk4SXFzcWtqdFA4ZFVsakpZRzRISk9qb2NzY01RU09mTkc2SzBNemE3dkxFSUpMMlZ3UXJ4UTRTRENnMHVRa2RNWGMwUHZ0aFFO0gGaAUFVX3lxTFAyZm94bTluUkdMaVJub2JSUmoxb3pOTC13OG9oMllqemRtOF9kc09GWEM2VU1VZi1KcjYzZUZiRnJudXNGeXdLbTNGSmtuQUxIQ3c2SGtnRkNJYzlOdGZYWHdhRlo0Q01Rb2F2em5mUG1XV1l0d2dpbTNmQTQ5WmFBYllobnZlLVVwbWN4RDNOMEF5c3lLOVh2WlE?oc=5",
       "source": "NewsNation",
       "published": "2026-09-09T15:40:45+00:00",
-      "score": 5.8,
+      "score": 5.74,
       "tags": [
         "closure"
       ]
@@ -41,17 +52,17 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN1ZWMUI4N1F3NkZuaEJFXzBEVUtmVHpsbjloLThNemd2RVRSaE1xTFlMa25WRzNFTExNM1pwX2JUcHJDS2p6NEotRExyb3lDSWR4UzN2eGtwX2xQNXl2enV2X05wYXpwUzNnbUJ1MlRoOTF5S0szZlotd1RwaDBUanB0V2gwcFlNNi1Kd0ZNMEpySk9BMDI2cEVGTy1hME0?oc=5",
       "source": "1News.az",
       "published": "2026-09-07T04:15:00+00:00",
-      "score": 5.09,
+      "score": 5.01,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iran Tightens Hormuz Restrictions as U.S. Tanker Strikes, AUV Seizure Raise the Stakes - NIAC Action",
+      "title": "Iran Tightens Hormuz Restrictions as U.S. Tanker Strikes, AUV Seizure Raise the Stakes - niacouncil.org",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZzktS0hzSjY2U05JUS02dDlETlFRdkV6M0RKS3FCVzc2NnI5Tl9nM18td3hZeGxzVFBmUDhpczBTZ3VhZ0NZaWRGelJ0WlJITHhqbzlpS1IyM2RrRkVpck55ZVhYNFhBYzJORDJubENVeEYxMDd4ZEVneFhmbUFwVTF5QmlOSDd6MGdic21Rb1I0a1pjRXpxVU5vWHJUVElnRUVzcnREa2RXN3hK?oc=5",
-      "source": "NIAC Action",
+      "source": "niacouncil.org",
       "published": "2026-09-08T07:00:00+00:00",
-      "score": 4.71,
+      "score": 4.65,
       "tags": [
         "tension"
       ]
@@ -61,17 +72,17 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XX2hUckpfY01TaUtBYUQ3Rm1GUU56SW5tMC1ZS1ZSMGVBMHNncjctbS1lY05DcTEtUmF6ZFk1U0E3dTdvMkFfQVN0RGpJZXFYTE0wdGZB?oc=5",
       "source": "Fox News",
       "published": "2026-09-07T21:08:32+00:00",
-      "score": 4.38,
+      "score": 4.32,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "US Navy SEALs conducted covert four-month mission to clear Strait of Hormuz mines - report - jpost.com",
+      "title": "US Navy SEALs conducted covert four-month mission to clear Strait of Hormuz mines - report - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjbUxEOU5iX3kzbDlrSlR2X1pra3p3U2pQRWt1REhtVFdpNm8xeGQ1Y2Jaa0pjRUt6UnpDd3BNbmUtaHZmNnJwMTA2VXh6WDNnVWs5LW1BcTlMbjVGTzBFSG5VYUZERUd1MXc?oc=5",
-      "source": "jpost.com",
+      "source": "The Jerusalem Post",
       "published": "2026-09-07T10:21:03+00:00",
-      "score": 4.02,
+      "score": 3.96,
       "tags": [
         "closure"
       ]
@@ -81,19 +92,29 @@
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOFFkNU82SF9zdmdsSm1LZ1NSUTd5Y0wyS09aeE1KZHExQlhEREZhaDBWOG45ay05eGtvUU9TUmluTWYzaE5DelVMQVp2RE5ocUpoUjFPaEhfVXhXMUFMSGJyYlp5dkdjVWwzN3A5SGhOalBKYWVxelFNRUFTYlEwTm1Jei14TURpMGp3enVtbkFfMkp1bGIyWGRyNU9iZ1VNdGlSSEFXNzFxTEZHRkdYWGY0YUVOUmk1YVROMFFzV3FoZlVpMXhQQmRzMW8wdVgxRk9mNUtZV0h2dXB3OHdxWGJIZw?oc=5",
       "source": "i24NEWS",
       "published": "2026-09-07T07:52:00+00:00",
-      "score": 3.94,
+      "score": 3.88,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "The risky mission to de-mine the Strait of Hormuz - ft.com",
+      "title": "The risky mission to de-mine the Strait of Hormuz - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNUp3aDJkX0lnZHJLRXVaSFdDS0hyX29JcWN2RzZuWkpzRlF2TWpDTmkwTEI1cklabXlXUllTWFhnQnRJRlhZbHBManBJOXRUU1B5U3FmcVlPMkF0VnJwV0tBaGJ0SE0tZ05fQTRTNk92RmhWZGZoTW1mbkJ5UzI1VzRTX1Y?oc=5",
-      "source": "ft.com",
+      "source": "Financial Times",
       "published": "2026-09-06T18:33:07+00:00",
-      "score": 3.49,
+      "score": 3.43,
       "tags": [
         "closure"
+      ]
+    },
+    {
+      "title": "Two Tankers Carrying Saudi Oil Attacked in Strait of Hormuz - EnergyNow.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc1RZenJuTHRESkRiYzhIMkFyUDktdjQzLTRjZlZrMUt4TVBkOFVsZVZ0NnZwRzQzend4WjFTS2h5ZHNFMTNhUExzaDNZYTV1RlY5QVo3XzRkVGMwYndmWkVHN1VaNkdzdTJFWmtxN0V0Sng5Wm1vaXZDelhoNFVoQTNDRjU5RllSMVZjSzFiX2swQlBP?oc=5",
+      "source": "EnergyNow.com",
+      "published": "2026-09-10T20:48:00+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
       ]
     },
     {
@@ -105,30 +126,10 @@
       "tags": [
         "tension"
       ]
-    },
-    {
-      "title": "Iran claims it struck US unmanned surveillance vessel in Strait of Hormuz - Anadolu Ajans\u0131",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRXBwTGVZYWZCOHAxVjVvVzB6YmU5YjRlRmg4SWdscGwwRzBFZ3RFYUExUGoyb2NrV0F1dEFjS2liczBzN2R4WEZmVlFIN2Y3YzhOVndFOURsTWRfTmZpOUxTTEdCTTZtQ211RkRnbnQwU1FwV19vTFI4Uzk1MmZoa2NneENrY3VoX082bFNjbm9RTnpmVHhSZlM5eWNleDEtMDhHY0pHcXFTUEpWQjhtX1U5YnJpYVUxUUE?oc=5",
-      "source": "Anadolu Ajans\u0131",
-      "published": "2026-09-10T17:28:43+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran and US hit tankers in biggest wave of attacks on shipping since war began - Al-Monitor",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZUY1OWZPa1JDUVFxaVdZVm85UmdSQmprTHlfRUt0cTBCSHl5dWVUN0dVUkt1RXFET1k2WHF4blREcXJncVlwVVB6UVJBOTU5VW9MTTJhcEhBQmFRY3ZIMThTOGc3YWF4SU1WZVNBZEdJVXd5c0RLTnpYcm9sWlpPa2F4LUxQS0FoUWdpY1FyYjdzYllIMWNydnBTeG9hN3RpVmJULWpUcG1TSnZW?oc=5",
-      "source": "Al-Monitor",
-      "published": "2026-09-10T10:34:38+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
     }
   ],
   "brent": {
-    "price": 108.95,
-    "change_pct": 7.65
+    "price": 108.88,
+    "change_pct": 1.16
   }
 }
