@@ -1,17 +1,17 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 195.4,
-  "closure_signals": 6,
-  "articles_scanned": 245,
-  "updated": "2026-09-10T12:35:07.828091+00:00",
+  "tension_index": 194.0,
+  "closure_signals": 5,
+  "articles_scanned": 240,
+  "updated": "2026-09-10T16:49:07.270456+00:00",
   "headlines": [
     {
       "title": "Strait of Hormuz Is Closed Due to American Brutality - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTEZKdWZscFlKbmlPcmd1amUzbE9NeFJfYndyM2tnX053MkhHemZCWlVZXzFRYWgyOEtWNGl6OFJOMGQ4d1gxMUJ1Y1JtSEhUTzQwSUN0SjZmeWlqZzVwSnBnRjNJYkl3QXBUUU1YckZVeVFkVEhSbVFkT2h2SG9GQnYzMkROenI1Vkl1Sy1Ta0o?oc=5",
       "source": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
       "published": "2026-09-07T07:01:52+00:00",
-      "score": 7.02,
+      "score": 6.79,
       "tags": [
         "closure"
       ]
@@ -21,17 +21,17 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSkVIb3lWa3B4Rk5aSTNPNGhJbDA3NHRCX01KNEtxVDJrOW9Oamo3YUVMSW11NEpYVDZmYmRJR2hiaFNqRTJCX0ZWcFhaV1hCak1BQ3UycWRBYjVyZ2tUX1E3cDBySV9ObWg4ckh1VTltMG9iSkI3TGFqRm5OMFZrNnQwd1dHNjJjQ2tqMkVjT0xKNFl1NmloeU1QM3FNdw?oc=5",
       "source": "open.kg",
       "published": "2026-09-08T02:37:57+00:00",
-      "score": 6.49,
+      "score": 6.3,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Navy SEALs used robot boats, night dives to clear mines from Strait of Hormuz - NewsNation",
+      "title": "Navy SEALs used robot boats, night dives to clear mines from Strait of Hormuz - newsnationnow.com",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX0xQZWk5T05ESFB0b0tDWjZjR3BOUHV3MEpod2MxdTQ5c0I1ZU9FOHdyQWtHRk9rb2ZrYzdmaXZNVmdzN2RaUFZDblk4SXFzcWtqdFA4ZFVsakpZRzRISk9qb2NzY01RU09mTkc2SzBNemE3dkxFSUpMMlZ3UXJ4UTRTRENnMHVRa2RNWGMwUHZ0aFFO0gGaAUFVX3lxTFAyZm94bTluUkdMaVJub2JSUmoxb3pOTC13OG9oMllqemRtOF9kc09GWEM2VU1VZi1KcjYzZUZiRnJudXNGeXdLbTNGSmtuQUxIQ3c2SGtnRkNJYzlOdGZYWHdhRlo0Q01Rb2F2em5mUG1XV1l0d2dpbTNmQTQ5WmFBYllobnZlLVVwbWN4RDNOMEF5c3lLOVh2WlE?oc=5",
-      "source": "NewsNation",
+      "source": "newsnationnow.com",
       "published": "2026-09-09T15:40:45+00:00",
-      "score": 6.0,
+      "score": 5.96,
       "tags": [
         "closure"
       ]
@@ -41,7 +41,7 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzRPSjlIQTd4QndKdm9CUHk1ZWxIaktfOERjc1A3VHpYMHV0Z1Zkd3dGNURqMFJFR3l4LXo3OU5scG96QXhMd0F5TGthdlVzbmg0QVVHbnktU096TkFWUnc5QU9UV0xvTk1jbDY3eGFJaWZXN19UOEJvbTF6eFdFcW13cWxwdWRDVzU1OEl6c2ctT3ltYVJZN0d1a3hvQdIBowFBVV95cUxPUktnalZhVFFxNkhBTHFVS0tOSVBzVE5rZWFhcHhQUVk5dnlocFVZQWdNeHlNQ2pwY0ctTHp6dkQ1WFh1djJsUkQxZ3RZR3NkbVVJOWNCNTFqdFl5eUpMc044SVlwQVMyeldla2VYZ2FxVG5ud1RvTVlKNVc1d0FMNjZSemNubmdydW5BRE1peGVjdmJNSFF5QVZ2OGtNMTVHY09B?oc=5",
       "source": "ABC News - Breaking News, Latest News and Videos",
       "published": "2026-09-09T07:58:18+00:00",
-      "score": 5.85,
+      "score": 5.71,
       "tags": [
         "closure"
       ]
@@ -50,18 +50,8 @@
       "title": "Iran announces complete closure of the Strait of Hormuz - 1News.az",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN1ZWMUI4N1F3NkZuaEJFXzBEVUtmVHpsbjloLThNemd2RVRSaE1xTFlMa25WRzNFTExNM1pwX2JUcHJDS2p6NEotRExyb3lDSWR4UzN2eGtwX2xQNXl2enV2X05wYXpwUzNnbUJ1MlRoOTF5S0szZlotd1RwaDBUanB0V2gwcFlNNi1Kd0ZNMEpySk9BMDI2cEVGTy1hME0?oc=5",
       "source": "1News.az",
-      "published": "2026-09-07T04:30:14+00:00",
-      "score": 5.51,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Iran declares complete closure of the Strait of Hormuz, establishes new restrictive zone - Laodong.vn",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb2sxVmhjS3UwT3g0LXhaTHVaZFNrNWZnNHVDSFl6YUtPNWxHdHR1MEJFSW1nZ19LcXFLYlBkLW53TC14dUpQbFY0VVFOelRpTm5DMEhtdHBibk5rVkctdWp4eEpXWWxkZ0s4YnhkWkp3QVFjS0taRWg5bGFxaUdMLWJlS2wzMWhmU1A2VFpMVVZUUzNYVkpsaTFfQkcyRDlKem1yU1JRWTVweDFEZ2xmblpLSQ?oc=5",
-      "source": "Laodong.vn",
-      "published": "2026-09-07T00:30:29+00:00",
-      "score": 5.33,
+      "published": "2026-09-07T04:15:00+00:00",
+      "score": 5.31,
       "tags": [
         "closure"
       ]
@@ -71,7 +61,7 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZzktS0hzSjY2U05JUS02dDlETlFRdkV6M0RKS3FCVzc2NnI5Tl9nM18td3hZeGxzVFBmUDhpczBTZ3VhZ0NZaWRGelJ0WlJITHhqbzlpS1IyM2RrRkVpck55ZVhYNFhBYzJORDJubENVeEYxMDd4ZEVneFhmbUFwVTF5QmlOSDd6MGdic21Rb1I0a1pjRXpxVU5vWHJUVElnRUVzcnREa2RXN3hK?oc=5",
       "source": "NIAC Action",
       "published": "2026-09-08T07:00:00+00:00",
-      "score": 5.01,
+      "score": 4.87,
       "tags": [
         "tension"
       ]
@@ -81,7 +71,7 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XX2hUckpfY01TaUtBYUQ3Rm1GUU56SW5tMC1ZS1ZSMGVBMHNncjctbS1lY05DcTEtUmF6ZFk1U0E3dTdvMkFfQVN0RGpJZXFYTE0wdGZB?oc=5",
       "source": "Fox News",
       "published": "2026-09-07T21:08:32+00:00",
-      "score": 4.69,
+      "score": 4.54,
       "tags": [
         "closure"
       ]
@@ -91,19 +81,39 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjbUxEOU5iX3kzbDlrSlR2X1pra3p3U2pQRWt1REhtVFdpNm8xeGQ1Y2Jaa0pjRUt6UnpDd3BNbmUtaHZmNnJwMTA2VXh6WDNnVWs5LW1BcTlMbjVGTzBFSG5VYUZERUd1MXc?oc=5",
       "source": "The Jerusalem Post",
       "published": "2026-09-07T10:21:03+00:00",
-      "score": 4.33,
+      "score": 4.18,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "The risky mission to de-mine the Strait of Hormuz - ft.com",
+      "title": "The risky mission to de-mine the Strait of Hormuz - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNUp3aDJkX0lnZHJLRXVaSFdDS0hyX29JcWN2RzZuWkpzRlF2TWpDTmkwTEI1cklabXlXUllTWFhnQnRJRlhZbHBManBJOXRUU1B5U3FmcVlPMkF0VnJwV0tBaGJ0SE0tZ05fQTRTNk92RmhWZGZoTW1mbkJ5UzI1VzRTX1Y?oc=5",
-      "source": "ft.com",
+      "source": "Financial Times",
       "published": "2026-09-06T18:33:07+00:00",
-      "score": 3.8,
+      "score": 3.66,
       "tags": [
         "closure"
+      ]
+    },
+    {
+      "title": "Trump predicts Iran war will end after midterms amid record attacks - newsnationnow.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSGNPaktKOWRKVnlSZEdyUWhVcHY2a1VFMm1UT1I4dWRVNjFMSV9wcHE1amE1Q0ptUUFNeGF2NWJDSEllQW1rMm02QTNaTktPdFNsc0pZd1ZtY3J3V3RqLWdzQW83VFVINW9hd2xhODluc2ZlQlRaS1ZUMDJqS3drWDlvU21sT0XSAYwBQVVfeXFMT1o3YWdHYVh4T0RLdTRacTZmOWtFY3Q4cWhtVW1UZ20wSEMxNmZFdHdVUGh0dzV3UXJZQ2Jkcll3TjFXRFZoVjFFMm16a1hZRmtNeWRuQVlxUjVBYmhOTEZIV1ZwNjFHd1Y4aTFIZjVEUGRnNkh0c2RCb3cyc3BMOEpvQkY1a1RlUW1sbmY?oc=5",
+      "source": "newsnationnow.com",
+      "published": "2026-09-10T13:12:48+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran Launches Massive Attack on Global Shipping - Foreign Policy",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTzZhTndacEt2akVXYmk1S2pOYW1xMDVZQTRhc0JaYllQT3gyUXR5OTlXVUtJQjJoU1RibGlSZ3RZSE02d2JSVDQ5Q3dMcE1TM1pqQ3RlU1RsbVpPQzBMa1FtR093bGRTTzJzSDRBX3o4RVRZNndKWDIzeTdHbm5nSFBhUUp4MGhscVk1S3drYjFGcURfQXpNTDJR?oc=5",
+      "source": "Foreign Policy",
+      "published": "2026-09-10T10:20:17+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
       ]
     },
     {
@@ -115,20 +125,10 @@
       "tags": [
         "tension"
       ]
-    },
-    {
-      "title": "US destroys 5 more Iranian tankers as attacks widen across the Gulf - NewsNation",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUFktUFQxdXBPaGtGa2plOExWYjZhUUhWMTlieXl6NjlfSHA1LUZubmlmM1FjZmJtRmNrV2kwVUI3Q29UZ1B4MWpXVXpEWHVqeEN1MkhFV2kwWWRPRGYxclg5ZnBHeHVJN2c5S2ZjUUlVd2p2dWtGc0dycV93Z0QyQUUwcHPSAYoBQVVfeXFMUFBycHlhRGp6NEJMTExWZHpfbU5SVVJ1UnZGLTJEaThLa0kzVU90cjFPSFVqWnZrS1M0Zm1lNXBhcjV5U1R0UzNIZEVUYU1kRDB4cEU5bVV1cVpJWndpcGdZVDFZeTlUdUpuWHpFNHprblNEbERNeXpPSjZmaGc5bGxEdEt3QU5YZG1R?oc=5",
-      "source": "NewsNation",
-      "published": "2026-09-10T03:49:16+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
     }
   ],
   "brent": {
-    "price": 104.53,
-    "change_pct": 3.28
+    "price": 106.95,
+    "change_pct": 5.67
   }
 }
