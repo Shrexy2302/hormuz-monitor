@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 194.8,
+  "tension_index": 187.4,
   "closure_signals": 4,
-  "articles_scanned": 238,
-  "updated": "2026-09-11T02:25:12.743249+00:00",
+  "articles_scanned": 236,
+  "updated": "2026-09-11T07:23:19.499139+00:00",
   "headlines": [
     {
       "title": "Oil Prices Surge as United States-Iran Conflict Closes Strait of Hormuz, Lifting Borrowing Costs: 12 outlets compared - NewsCord",
@@ -22,17 +22,17 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTEZKdWZscFlKbmlPcmd1amUzbE9NeFJfYndyM2tnX053MkhHemZCWlVZXzFRYWgyOEtWNGl6OFJOMGQ4d1gxMUJ1Y1JtSEhUTzQwSUN0SjZmeWlqZzVwSnBnRjNJYkl3QXBUUU1YckZVeVFkVEhSbVFkT2h2SG9GQnYzMkROenI1Vkl1Sy1Ta0o?oc=5",
       "source": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
       "published": "2026-09-07T07:01:52+00:00",
-      "score": 6.26,
+      "score": 5.98,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iran declares Strait of Hormuz closed as \u2018unauthorized\u2019 vessel hit - arabnews.com",
+      "title": "Iran declares Strait of Hormuz closed as \u2018unauthorized\u2019 vessel hit - Arab News",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR19JOFh5UndMaHl5UVV0Yjhrb2w2MmxxSVY0R2VGRFdHTEViM24wVVFPNGRRU1R2bUROQ2JNdlhGdG92eVQzRlRjZWE5eU9oSlRJbHJvMzRBWVJ3UVpmQ0F1R00tZzhwcktKbHRGUkhVZks0MkJsN1FsV0M0c0YzSE1wNG9sd0tsSEtOQmMxYUZUdHBKZzE1QzducnZMc3hEUEh3b01RaVV0emstSXc?oc=5",
-      "source": "arabnews.com",
+      "source": "Arab News",
       "published": "2026-09-07T05:48:25+00:00",
-      "score": 6.19,
+      "score": 5.91,
       "tags": [
         "closure"
       ]
@@ -42,7 +42,7 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX0xQZWk5T05ESFB0b0tDWjZjR3BOUHV3MEpod2MxdTQ5c0I1ZU9FOHdyQWtHRk9rb2ZrYzdmaXZNVmdzN2RaUFZDblk4SXFzcWtqdFA4ZFVsakpZRzRISk9qb2NzY01RU09mTkc2SzBNemE3dkxFSUpMMlZ3UXJ4UTRTRENnMHVRa2RNWGMwUHZ0aFFO0gGaAUFVX3lxTFAyZm94bTluUkdMaVJub2JSUmoxb3pOTC13OG9oMllqemRtOF9kc09GWEM2VU1VZi1KcjYzZUZiRnJudXNGeXdLbTNGSmtuQUxIQ3c2SGtnRkNJYzlOdGZYWHdhRlo0Q01Rb2F2em5mUG1XV1l0d2dpbTNmQTQ5WmFBYllobnZlLVVwbWN4RDNOMEF5c3lLOVh2WlE?oc=5",
       "source": "NewsNation",
       "published": "2026-09-09T15:40:45+00:00",
-      "score": 5.64,
+      "score": 5.48,
       "tags": [
         "closure"
       ]
@@ -52,7 +52,7 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN1ZWMUI4N1F3NkZuaEJFXzBEVUtmVHpsbjloLThNemd2RVRSaE1xTFlMa25WRzNFTExNM1pwX2JUcHJDS2p6NEotRExyb3lDSWR4UzN2eGtwX2xQNXl2enV2X05wYXpwUzNnbUJ1MlRoOTF5S0szZlotd1RwaDBUanB0V2gwcFlNNi1Kd0ZNMEpySk9BMDI2cEVGTy1hME0?oc=5",
       "source": "1News.az",
       "published": "2026-09-07T04:15:00+00:00",
-      "score": 4.88,
+      "score": 4.66,
       "tags": [
         "closure"
       ]
@@ -62,7 +62,7 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZzktS0hzSjY2U05JUS02dDlETlFRdkV6M0RKS3FCVzc2NnI5Tl9nM18td3hZeGxzVFBmUDhpczBTZ3VhZ0NZaWRGelJ0WlJITHhqbzlpS1IyM2RrRkVpck55ZVhYNFhBYzJORDJubENVeEYxMDd4ZEVneFhmbUFwVTF5QmlOSDd6MGdic21Rb1I0a1pjRXpxVU5vWHJUVElnRUVzcnREa2RXN3hK?oc=5",
       "source": "NIAC Action",
       "published": "2026-09-08T07:00:00+00:00",
-      "score": 4.55,
+      "score": 4.39,
       "tags": [
         "tension"
       ]
@@ -72,7 +72,7 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XX2hUckpfY01TaUtBYUQ3Rm1GUU56SW5tMC1ZS1ZSMGVBMHNncjctbS1lY05DcTEtUmF6ZFk1U0E3dTdvMkFfQVN0RGpJZXFYTE0wdGZB?oc=5",
       "source": "Fox News",
       "published": "2026-09-07T21:08:32+00:00",
-      "score": 4.22,
+      "score": 4.06,
       "tags": [
         "closure"
       ]
@@ -82,7 +82,7 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjbUxEOU5iX3kzbDlrSlR2X1pra3p3U2pQRWt1REhtVFdpNm8xeGQ1Y2Jaa0pjRUt6UnpDd3BNbmUtaHZmNnJwMTA2VXh6WDNnVWs5LW1BcTlMbjVGTzBFSG5VYUZERUd1MXc?oc=5",
       "source": "The Jerusalem Post",
       "published": "2026-09-07T10:21:03+00:00",
-      "score": 3.86,
+      "score": 3.7,
       "tags": [
         "closure"
       ]
@@ -92,7 +92,7 @@
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOFFkNU82SF9zdmdsSm1LZ1NSUTd5Y0wyS09aeE1KZHExQlhEREZhaDBWOG45ay05eGtvUU9TUmluTWYzaE5DelVMQVp2RE5ocUpoUjFPaEhfVXhXMUFMSGJyYlp5dkdjVWwzN3A5SGhOalBKYWVxelFNRUFTYlEwTm1Jei14TURpMGp3enVtbkFfMkp1bGIyWGRyNU9iZ1VNdGlSSEFXNzFxTEZHRkdYWGY0YUVOUmk1YVROMFFzV3FoZlVpMXhQQmRzMW8wdVgxRk9mNUtZV0h2dXB3OHdxWGJIZw?oc=5",
       "source": "i24NEWS",
       "published": "2026-09-07T07:52:00+00:00",
-      "score": 3.78,
+      "score": 3.62,
       "tags": [
         "closure"
       ]
@@ -102,26 +102,26 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNUp3aDJkX0lnZHJLRXVaSFdDS0hyX29JcWN2RzZuWkpzRlF2TWpDTmkwTEI1cklabXlXUllTWFhnQnRJRlhZbHBManBJOXRUU1B5U3FmcVlPMkF0VnJwV0tBaGJ0SE0tZ05fQTRTNk92RmhWZGZoTW1mbkJ5UzI1VzRTX1Y?oc=5",
       "source": "Financial Times",
       "published": "2026-09-06T18:33:07+00:00",
-      "score": 3.34,
+      "score": 3.17,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Two Tankers Carrying Saudi Oil Attacked in Strait of Hormuz - EnergyNow.com",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc1RZenJuTHRESkRiYzhIMkFyUDktdjQzLTRjZlZrMUt4TVBkOFVsZVZ0NnZwRzQzend4WjFTS2h5ZHNFMTNhUExzaDNZYTV1RlY5QVo3XzRkVGMwYndmWkVHN1VaNkdzdTJFWmtxN0V0Sng5Wm1vaXZDelhoNFVoQTNDRjU5RllSMVZjSzFiX2swQlBP?oc=5",
-      "source": "EnergyNow.com",
-      "published": "2026-09-10T20:48:00+00:00",
+      "title": "Iran says it struck US drone in Strait of Hormuz - VIDEO - Caliber.Az",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbkxyWF9Ja3hOZDNST1FXWF9Td0RCdWNwWlctUmhfNm41bUpVeDBXRlZ3Rm4za2o5Q2ZkX19XejQ3OE1sOWRWRmU1RlRuSEJaRU5JaEVlelRLc190RlBxWU1uSHBVdFVLSTJDR2VXaEV3bTZsaGlPWE9GSUppVGRfQQ?oc=5",
+      "source": "Caliber.Az",
+      "published": "2026-09-11T05:15:43+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Iran claims it struck US unmanned surveillance vessel in Strait of Hormuz - A News",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOR2NKQTNfU1FvdkROdjViaGk0S29jNWZPMmRKNTBFbGMzWTU0UlFLOUtfVWpuSFJSSC1aV24yNFFNcHFQMGttX2RUZTcyY1pBbWtQNmxqS3kxeDVMYzhlLTRsRzBNdHhhMENpRWJVMXNHVkMzclcxbUhEaktwM2VIRXhYMXhZa1ZQN0k1bUs4alYwLTNaQWhrWldpajZOcHlHaWxLR0g2MERpTmFqMFZfU0JsMDYzVzlfeXJJSDFOVkRXYnfSAcMBQVVfeXFMTkdjSkEzX1NRb3ZETnY1YmhpNEtvYzVmTzJkSjUwRWxjM1k1NFJRSzlLX1VqbkhSUkgtWlduMjRRTXBxUDBrbV9kVGU3MmNaQW1rUDZsakt5MXg1TGM4ZS00bEcwTXR4YTBDaUViVTFzR1ZDM3JXMW1IRGpLcDNlSEV4WDF4WWtWUDdJNW1LOGpWMC0zWkFoa1pXaWo2TnB5R2lsS0dINjBEaU5hajBWX1NCbDA2M1c5X3lySUgxTlZEV2J3?oc=5",
-      "source": "A News",
-      "published": "2026-09-10T18:29:00+00:00",
+      "title": "Iran\u2019s IRGC claims strike on US sea drone at Hormuz entrance, warns \u2018hostile presence\u2019 will be targeted - The Statesman",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZUN5WEhaTGt0b3ZGMWpfTDIyNWpXTEQ4R0JQYkY4YlRHS185TGFNX2hIcTJicDBlal9MSlcxMUszYk4tNEdvV3FtU2oxXzdqb3U3REJwNlZvQ3hUbTI5cHZ6WUtuWW5uYUJsUEwyT3l6WTRsYmhtSDUtTzM1N1NST3NzVHBBZ2x2c29KUEpHWEhxUTNRWWc0UXRMQVljdkMzeHRJR09VejJqMTRpRzdGZmwzUTJ1MklmQXRlU2UyR1VySkNWdlZaMkgtNTFiOXcza3ZrUFpGbGpmWFd1WTVQZ3owLUXSAeoBQVVfeXFMT3dVeER1T0Nzbm9Td2lvTWF0d2RZVG9MT1NudUF2M29ubTBKRTJMTnNyLXByVUEwTklIVl8zV3I1bUhpYzdRaFVIN2ZwY0RQR3VYRmppcmp5aGwxLXphOHZXYXlXeGc2YVJ0RVZXUzgybExBWE9CelBJZzhYOVFFS2trazByX1BDNmZjVHJ6MFRIZHlVRmRjX05YQ2lvbmlFUHkwTG9UWUppeGg0Um5zRElOY1RJUDVLQVNBU0ZKZlVoR2JBU2Y3QTNaTlZRYUZhdDdmbm9wU0ozR3JBS2sxaUhvdzR0bGV0YzJn?oc=5",
+      "source": "The Statesman",
+      "published": "2026-09-11T02:24:00+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -129,7 +129,7 @@
     }
   ],
   "brent": {
-    "price": 107.96,
-    "change_pct": 0.31
+    "price": 105.14,
+    "change_pct": -2.31
   }
 }
