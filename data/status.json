@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 197.6,
-  "closure_signals": 5,
-  "articles_scanned": 239,
-  "updated": "2026-09-10T23:36:21.642995+00:00",
+  "tension_index": 194.8,
+  "closure_signals": 4,
+  "articles_scanned": 238,
+  "updated": "2026-09-11T02:25:12.743249+00:00",
   "headlines": [
     {
       "title": "Oil Prices Surge as United States-Iran Conflict Closes Strait of Hormuz, Lifting Borrowing Costs: 12 outlets compared - NewsCord",
@@ -22,17 +22,17 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTEZKdWZscFlKbmlPcmd1amUzbE9NeFJfYndyM2tnX053MkhHemZCWlVZXzFRYWgyOEtWNGl6OFJOMGQ4d1gxMUJ1Y1JtSEhUTzQwSUN0SjZmeWlqZzVwSnBnRjNJYkl3QXBUUU1YckZVeVFkVEhSbVFkT2h2SG9GQnYzMkROenI1Vkl1Sy1Ta0o?oc=5",
       "source": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0641\u0627\u0639 \u0645\u0642\u062f\u0633",
       "published": "2026-09-07T07:01:52+00:00",
-      "score": 6.41,
+      "score": 6.26,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iran declares Strait of Hormuz closed as \u2018unauthorized\u2019 vessel hit - Arab News",
+      "title": "Iran declares Strait of Hormuz closed as \u2018unauthorized\u2019 vessel hit - arabnews.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR19JOFh5UndMaHl5UVV0Yjhrb2w2MmxxSVY0R2VGRFdHTEViM24wVVFPNGRRU1R2bUROQ2JNdlhGdG92eVQzRlRjZWE5eU9oSlRJbHJvMzRBWVJ3UVpmQ0F1R00tZzhwcktKbHRGUkhVZks0MkJsN1FsV0M0c0YzSE1wNG9sd0tsSEtOQmMxYUZUdHBKZzE1QzducnZMc3hEUEh3b01RaVV0emstSXc?oc=5",
-      "source": "Arab News",
+      "source": "arabnews.com",
       "published": "2026-09-07T05:48:25+00:00",
-      "score": 6.34,
+      "score": 6.19,
       "tags": [
         "closure"
       ]
@@ -42,7 +42,7 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX0xQZWk5T05ESFB0b0tDWjZjR3BOUHV3MEpod2MxdTQ5c0I1ZU9FOHdyQWtHRk9rb2ZrYzdmaXZNVmdzN2RaUFZDblk4SXFzcWtqdFA4ZFVsakpZRzRISk9qb2NzY01RU09mTkc2SzBNemE3dkxFSUpMMlZ3UXJ4UTRTRENnMHVRa2RNWGMwUHZ0aFFO0gGaAUFVX3lxTFAyZm94bTluUkdMaVJub2JSUmoxb3pOTC13OG9oMllqemRtOF9kc09GWEM2VU1VZi1KcjYzZUZiRnJudXNGeXdLbTNGSmtuQUxIQ3c2SGtnRkNJYzlOdGZYWHdhRlo0Q01Rb2F2em5mUG1XV1l0d2dpbTNmQTQ5WmFBYllobnZlLVVwbWN4RDNOMEF5c3lLOVh2WlE?oc=5",
       "source": "NewsNation",
       "published": "2026-09-09T15:40:45+00:00",
-      "score": 5.74,
+      "score": 5.64,
       "tags": [
         "closure"
       ]
@@ -52,17 +52,17 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN1ZWMUI4N1F3NkZuaEJFXzBEVUtmVHpsbjloLThNemd2RVRSaE1xTFlMa25WRzNFTExNM1pwX2JUcHJDS2p6NEotRExyb3lDSWR4UzN2eGtwX2xQNXl2enV2X05wYXpwUzNnbUJ1MlRoOTF5S0szZlotd1RwaDBUanB0V2gwcFlNNi1Kd0ZNMEpySk9BMDI2cEVGTy1hME0?oc=5",
       "source": "1News.az",
       "published": "2026-09-07T04:15:00+00:00",
-      "score": 5.01,
+      "score": 4.88,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iran Tightens Hormuz Restrictions as U.S. Tanker Strikes, AUV Seizure Raise the Stakes - niacouncil.org",
+      "title": "Iran Tightens Hormuz Restrictions as U.S. Tanker Strikes, AUV Seizure Raise the Stakes - NIAC Action",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZzktS0hzSjY2U05JUS02dDlETlFRdkV6M0RKS3FCVzc2NnI5Tl9nM18td3hZeGxzVFBmUDhpczBTZ3VhZ0NZaWRGelJ0WlJITHhqbzlpS1IyM2RrRkVpck55ZVhYNFhBYzJORDJubENVeEYxMDd4ZEVneFhmbUFwVTF5QmlOSDd6MGdic21Rb1I0a1pjRXpxVU5vWHJUVElnRUVzcnREa2RXN3hK?oc=5",
-      "source": "niacouncil.org",
+      "source": "NIAC Action",
       "published": "2026-09-08T07:00:00+00:00",
-      "score": 4.65,
+      "score": 4.55,
       "tags": [
         "tension"
       ]
@@ -72,7 +72,7 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XX2hUckpfY01TaUtBYUQ3Rm1GUU56SW5tMC1ZS1ZSMGVBMHNncjctbS1lY05DcTEtUmF6ZFk1U0E3dTdvMkFfQVN0RGpJZXFYTE0wdGZB?oc=5",
       "source": "Fox News",
       "published": "2026-09-07T21:08:32+00:00",
-      "score": 4.32,
+      "score": 4.22,
       "tags": [
         "closure"
       ]
@@ -82,7 +82,7 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjbUxEOU5iX3kzbDlrSlR2X1pra3p3U2pQRWt1REhtVFdpNm8xeGQ1Y2Jaa0pjRUt6UnpDd3BNbmUtaHZmNnJwMTA2VXh6WDNnVWs5LW1BcTlMbjVGTzBFSG5VYUZERUd1MXc?oc=5",
       "source": "The Jerusalem Post",
       "published": "2026-09-07T10:21:03+00:00",
-      "score": 3.96,
+      "score": 3.86,
       "tags": [
         "closure"
       ]
@@ -92,7 +92,7 @@
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOFFkNU82SF9zdmdsSm1LZ1NSUTd5Y0wyS09aeE1KZHExQlhEREZhaDBWOG45ay05eGtvUU9TUmluTWYzaE5DelVMQVp2RE5ocUpoUjFPaEhfVXhXMUFMSGJyYlp5dkdjVWwzN3A5SGhOalBKYWVxelFNRUFTYlEwTm1Jei14TURpMGp3enVtbkFfMkp1bGIyWGRyNU9iZ1VNdGlSSEFXNzFxTEZHRkdYWGY0YUVOUmk1YVROMFFzV3FoZlVpMXhQQmRzMW8wdVgxRk9mNUtZV0h2dXB3OHdxWGJIZw?oc=5",
       "source": "i24NEWS",
       "published": "2026-09-07T07:52:00+00:00",
-      "score": 3.88,
+      "score": 3.78,
       "tags": [
         "closure"
       ]
@@ -102,7 +102,7 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNUp3aDJkX0lnZHJLRXVaSFdDS0hyX29JcWN2RzZuWkpzRlF2TWpDTmkwTEI1cklabXlXUllTWFhnQnRJRlhZbHBManBJOXRUU1B5U3FmcVlPMkF0VnJwV0tBaGJ0SE0tZ05fQTRTNk92RmhWZGZoTW1mbkJ5UzI1VzRTX1Y?oc=5",
       "source": "Financial Times",
       "published": "2026-09-06T18:33:07+00:00",
-      "score": 3.43,
+      "score": 3.34,
       "tags": [
         "closure"
       ]
@@ -129,7 +129,7 @@
     }
   ],
   "brent": {
-    "price": 108.88,
-    "change_pct": 1.16
+    "price": 107.96,
+    "change_pct": 0.31
   }
 }
