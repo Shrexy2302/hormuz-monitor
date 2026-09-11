@@ -1,17 +1,17 @@
 {
-  "status": "CLOSED",
-  "label": "Closure reported",
-  "tension_index": 131.5,
-  "closure_signals": 3,
+  "status": "DISRUPTED",
+  "label": "Major disruption reported",
+  "tension_index": 122.7,
+  "closure_signals": 2,
   "articles_scanned": 237,
-  "updated": "2026-09-11T21:48:54.578548+00:00",
+  "updated": "2026-09-11T23:45:53.019142+00:00",
   "headlines": [
     {
       "title": "Oil Prices Surge as United States-Iran Conflict Closes Strait of Hormuz, Lifting Borrowing Costs: 12 outlets compared - NewsCord",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOM2JJRVRCVUU0SEZYUUV0ekVoeUhYUVdKUFNzUDBSa1pvZUxBbkJxYnN3d05FeDVHVEdsNUlfMVZpZ3VZWEt3bGVYcWtuWTRHaTVOd1hJXy0yUV9SZFRpVVFObnFNZUhsUHR6dGFDbEZPaklXUnlwN2tiSEJQdVE0aHMyT2JLWFBPQlRURHlmb0NaS2h6R0lGLVdMSE4wNEJrWnVXazhxSWh4REN2V0V4aVFxU2lSUHVZdGRGY25Yd01DNTVTd1ZVbE45WHRHQU13cHQ3RUtTRUJwdERvcmJaZGJ4LUN1QTN0?oc=5",
       "source": "NewsCord",
       "published": "2026-09-10T20:16:47+00:00",
-      "score": 8.92,
+      "score": 8.83,
       "tags": [
         "closure",
         "tension"
@@ -22,7 +22,17 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR19JOFh5UndMaHl5UVV0Yjhrb2w2MmxxSVY0R2VGRFdHTEViM24wVVFPNGRRU1R2bUROQ2JNdlhGdG92eVQzRlRjZWE5eU9oSlRJbHJvMzRBWVJ3UVpmQ0F1R00tZzhwcktKbHRGUkhVZks0MkJsN1FsV0M0c0YzSE1wNG9sd0tsSEtOQmMxYUZUdHBKZzE1QzducnZMc3hEUEh3b01RaVV0emstSXc?oc=5",
       "source": "Arab News",
       "published": "2026-09-07T05:48:25+00:00",
-      "score": 5.11,
+      "score": 5.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Navy SEALs used robot boats, night dives to clear mines from Strait of Hormuz - newsnationnow.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX0xQZWk5T05ESFB0b0tDWjZjR3BOUHV3MEpod2MxdTQ5c0I1ZU9FOHdyQWtHRk9rb2ZrYzdmaXZNVmdzN2RaUFZDblk4SXFzcWtqdFA4ZFVsakpZRzRISk9qb2NzY01RU09mTkc2SzBNemE3dkxFSUpMMlZ3UXJ4UTRTRENnMHVRa2RNWGMwUHZ0aFFO0gGaAUFVX3lxTFAyZm94bTluUkdMaVJub2JSUmoxb3pOTC13OG9oMllqemRtOF9kc09GWEM2VU1VZi1KcjYzZUZiRnJudXNGeXdLbTNGSmtuQUxIQ3c2SGtnRkNJYzlOdGZYWHdhRlo0Q01Rb2F2em5mUG1XV1l0d2dpbTNmQTQ5WmFBYllobnZlLVVwbWN4RDNOMEF5c3lLOVh2WlE?oc=5",
+      "source": "newsnationnow.com",
+      "published": "2026-09-09T15:40:45+00:00",
+      "score": 4.93,
       "tags": [
         "closure"
       ]
@@ -32,17 +42,7 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSkVIb3lWa3B4Rk5aSTNPNGhJbDA3NHRCX01KNEtxVDJrOW9Oamo3YUVMSW11NEpYVDZmYmRJR2hiaFNqRTJCX0ZWcFhaV1hCak1BQ3UycWRBYjVyZ2tUX1E3cDBySV9ObWg4ckh1VTltMG9iSkI3TGFqRm5OMFZrNnQwd1dHNjJjQ2tqMkVjT0xKNFl1NmloeU1QM3FNdw?oc=5",
       "source": "open.kg",
       "published": "2026-09-08T02:37:57+00:00",
-      "score": 5.01,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Navy SEALs used robot boats, night dives to clear mines from Strait of Hormuz - NewsNation",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX0xQZWk5T05ESFB0b0tDWjZjR3BOUHV3MEpod2MxdTQ5c0I1ZU9FOHdyQWtHRk9rb2ZrYzdmaXZNVmdzN2RaUFZDblk4SXFzcWtqdFA4ZFVsakpZRzRISk9qb2NzY01RU09mTkc2SzBNemE3dkxFSUpMMlZ3UXJ4UTRTRENnMHVRa2RNWGMwUHZ0aFFO0gGaAUFVX3lxTFAyZm94bTluUkdMaVJub2JSUmoxb3pOTC13OG9oMllqemRtOF9kc09GWEM2VU1VZi1KcjYzZUZiRnJudXNGeXdLbTNGSmtuQUxIQ3c2SGtnRkNJYzlOdGZYWHdhRlo0Q01Rb2F2em5mUG1XV1l0d2dpbTNmQTQ5WmFBYllobnZlLVVwbWN4RDNOMEF5c3lLOVh2WlE?oc=5",
-      "source": "NewsNation",
-      "published": "2026-09-09T15:40:45+00:00",
-      "score": 5.0,
+      "score": 4.93,
       "tags": [
         "closure"
       ]
@@ -52,7 +52,7 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZzktS0hzSjY2U05JUS02dDlETlFRdkV6M0RKS3FCVzc2NnI5Tl9nM18td3hZeGxzVFBmUDhpczBTZ3VhZ0NZaWRGelJ0WlJITHhqbzlpS1IyM2RrRkVpck55ZVhYNFhBYzJORDJubENVeEYxMDd4ZEVneFhmbUFwVTF5QmlOSDd6MGdic21Rb1I0a1pjRXpxVU5vWHJUVElnRUVzcnREa2RXN3hK?oc=5",
       "source": "NIAC Action",
       "published": "2026-09-08T07:00:00+00:00",
-      "score": 3.91,
+      "score": 3.84,
       "tags": [
         "tension"
       ]
@@ -62,7 +62,7 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XX2hUckpfY01TaUtBYUQ3Rm1GUU56SW5tMC1ZS1ZSMGVBMHNncjctbS1lY05DcTEtUmF6ZFk1U0E3dTdvMkFfQVN0RGpJZXFYTE0wdGZB?oc=5",
       "source": "Fox News",
       "published": "2026-09-07T21:08:32+00:00",
-      "score": 3.58,
+      "score": 3.51,
       "tags": [
         "closure"
       ]
@@ -72,7 +72,7 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjbUxEOU5iX3kzbDlrSlR2X1pra3p3U2pQRWt1REhtVFdpNm8xeGQ1Y2Jaa0pjRUt6UnpDd3BNbmUtaHZmNnJwMTA2VXh6WDNnVWs5LW1BcTlMbjVGTzBFSG5VYUZERUd1MXc?oc=5",
       "source": "The Jerusalem Post",
       "published": "2026-09-07T10:21:03+00:00",
-      "score": 3.22,
+      "score": 3.15,
       "tags": [
         "closure"
       ]
@@ -82,9 +82,19 @@
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOFFkNU82SF9zdmdsSm1LZ1NSUTd5Y0wyS09aeE1KZHExQlhEREZhaDBWOG45ay05eGtvUU9TUmluTWYzaE5DelVMQVp2RE5ocUpoUjFPaEhfVXhXMUFMSGJyYlp5dkdjVWwzN3A5SGhOalBKYWVxelFNRUFTYlEwTm1Jei14TURpMGp3enVtbkFfMkp1bGIyWGRyNU9iZ1VNdGlSSEFXNzFxTEZHRkdYWGY0YUVOUmk1YVROMFFzV3FoZlVpMXhQQmRzMW8wdVgxRk9mNUtZV0h2dXB3OHdxWGJIZw?oc=5",
       "source": "i24NEWS",
       "published": "2026-09-07T07:52:00+00:00",
-      "score": 3.14,
+      "score": 3.07,
       "tags": [
         "closure"
+      ]
+    },
+    {
+      "title": "Saudi Shuts Oil Pipeline That Bypasses Hormuz After Attacks - bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU2Y0Q1NrVV83eFZoaHJNQ0EtNHRpQXkzd1ZBNUlkdkRRcjZmZ0REVk1SZlowTlVUUEhOLU1fNWx3OHBwR1RUNlVaUWswVTUzdU92OENNQldSLW4wRXBUWkd1T3czaExNQXd3ZENRNEtGMkF6TS0xakM0Q2xtUnlqVmt4ajNZVmZqVVA0LU0zUjBHVFQ4bXRfc1M0ZzlmT2xlY3lzZHFtSThzYm13cWc?oc=5",
+      "source": "bloomberg.com",
+      "published": "2026-09-11T18:46:50+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
       ]
     },
     {
@@ -112,16 +122,6 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZzAteGp4VHRIUWtQTkp1Q1RwY1ZpVThPRGZQUWZKMUpWdXpKd0ZQLVZGMFBudEtzdzA3TXNsV3RQd2ZDaG9lWS1XSVdnUktVcGZpVi12WXVISmhqYnB1anc3NkhyNW5CUmxEb2x5STk4dWx4ekFhNEpBVUpJSTczTUNLeXRqY0VvOF9tY1FjZGRtMXVu?oc=5",
       "source": "Seatrade Maritime News",
       "published": "2026-09-11T11:51:39+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Trump says war to end \"immediately\" after midterms as Iran damages U.S. jets in strikes - cbsnews.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUVJuX1liNlV4OVBFUUZrMUQ4QWNZV0R3enp2b0pzN0gwVVVKeW9xUmdKejFueWVCM3Z3RXI2TldvbVYzWXNPRlRNNmFSd3ZxVERxem0wX3R6YjFwcERxa1ZjUDhKbU93RGFPVG5rU3dqUVZkS2dlQU1qcmhsM21HY29Ea1MxdmNDYWVFZThvcGx0M0ZuUUFGdVl4Qmd4QUpaLWc?oc=5",
-      "source": "cbsnews.com",
-      "published": "2026-09-11T10:43:19+00:00",
       "score": 3.0,
       "tags": [
         "tension"
