@@ -1,26 +1,26 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 124.6,
+  "tension_index": 125.5,
   "closure_signals": 2,
-  "articles_scanned": 241,
-  "updated": "2026-09-12T11:52:13.664281+00:00",
+  "articles_scanned": 236,
+  "updated": "2026-09-12T14:46:35.600065+00:00",
   "headlines": [
     {
       "title": "Oil Prices Surge as United States-Iran Conflict Closes Strait of Hormuz, Lifting Borrowing Costs: 12 outlets compared - NewsCord",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOM2JJRVRCVUU0SEZYUUV0ekVoeUhYUVdKUFNzUDBSa1pvZUxBbkJxYnN3d05FeDVHVEdsNUlfMVZpZ3VZWEt3bGVYcWtuWTRHaTVOd1hJXy0yUV9SZFRpVVFObnFNZUhsUHR6dGFDbEZPaklXUnlwN2tiSEJQdVE0aHMyT2JLWFBPQlRURHlmb0NaS2h6R0lGLVdMSE4wNEJrWnVXazhxSWh4REN2V0V4aVFxU2lSUHVZdGRGY25Yd01DNTVTd1ZVbE45WHRHQU13cHQ3RUtTRUJwdERvcmJaZGJ4LUN1QTN0?oc=5",
       "source": "NewsCord",
       "published": "2026-09-10T20:16:47+00:00",
-      "score": 8.22,
+      "score": 8.08,
       "tags": [
         "closure",
         "tension"
       ]
     },
     {
-      "title": "Bagaei named the reason for Iran's blockade of the Strait of Hormuz - Baku.ws",
+      "title": "Bagaei named the reason for Iran's blockade of the Strait of Hormuz - baku.ws",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZm9zVzNaMWNmR3B3dXpZNC1BYWcxNGFoU3BkejBuNEtGbWhET0RzTEJhLW9RZi1nMWVfNlVCdUpsb3BvMGVURDVPNUNReTB3N0dMU1JQTlY1dTlzTTRyX1JRWU0zQVRrc3hBMnNZOXRfUmhUX0w0dHlQdGV3N0JwMkw5YU1pQ0ZhalVBTU9JWUs2Ym9PY1E?oc=5",
-      "source": "Baku.ws",
+      "source": "baku.ws",
       "published": "2026-09-12T05:55:00+00:00",
       "score": 8.0,
       "tags": [
@@ -32,19 +32,19 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX0xQZWk5T05ESFB0b0tDWjZjR3BOUHV3MEpod2MxdTQ5c0I1ZU9FOHdyQWtHRk9rb2ZrYzdmaXZNVmdzN2RaUFZDblk4SXFzcWtqdFA4ZFVsakpZRzRISk9qb2NzY01RU09mTkc2SzBNemE3dkxFSUpMMlZ3UXJ4UTRTRENnMHVRa2RNWGMwUHZ0aFFO0gGaAUFVX3lxTFAyZm94bTluUkdMaVJub2JSUmoxb3pOTC13OG9oMllqemRtOF9kc09GWEM2VU1VZi1KcjYzZUZiRnJudXNGeXdLbTNGSmtuQUxIQ3c2SGtnRkNJYzlOdGZYWHdhRlo0Q01Rb2F2em5mUG1XV1l0d2dpbTNmQTQ5WmFBYllobnZlLVVwbWN4RDNOMEF5c3lLOVh2WlE?oc=5",
       "source": "NewsNation",
       "published": "2026-09-09T15:40:45+00:00",
-      "score": 4.53,
+      "score": 4.43,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Navy SEALs detonated Iranian mines in Strait of Hormuz: Report - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XX2hUckpfY01TaUtBYUQ3Rm1GUU56SW5tMC1ZS1ZSMGVBMHNncjctbS1lY05DcTEtUmF6ZFk1U0E3dTdvMkFfQVN0RGpJZXFYTE0wdGZB?oc=5",
-      "source": "Fox News",
-      "published": "2026-09-07T21:08:32+00:00",
-      "score": 3.11,
+      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WYkFDZzd0RXNwRTVPRHhYcTlPRG12WmJXWU9fYVZ6YjBjOUFUMXNoZEhYMjRpcEF4WGNhNmVnQzZ4eDl5Y0d3dDZQTVZnd0xNWExUY2JvSWhxdw?oc=5",
+      "source": "BBC",
+      "published": "2026-09-12T12:15:50+00:00",
+      "score": 3.0,
       "tags": [
-        "closure"
+        "tension"
       ]
     },
     {
@@ -58,20 +58,20 @@
       ]
     },
     {
-      "title": "Saudi Arabia halted a key oil pipeline after the attacks, allowing it to bypass the blocked Strait of Hormuz - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcmxtdHdzRUZQWERaTGhUSUg1TTlXLVVJa1VfZmMwUG16VHN6MjNTLU1NS2NnZFI2aHIzMnNITWY1YXdsZ055S0pSeUY5Q2RreUNtSE9GREprR2RyWWlKOEQzWXZhWnB4ajNvZ2FjdXdIc1BmSTNFNWJWdXlfMVNMclFmbXE0OWxWNmh2NVlXU1BsR2VDSExvMTl3Y3dleUZhRktvN0RPSkxjRzdCZWN0eXZ5MFdWSDVRVmc3RTlWdDVMWUs2OTJjZU5R0gHIAUFVX3lxTE1Rd2hvWlRxcUg1TmpoZUk4cVBDbkpaOWN1VUFUZ1RDdUdJQXZ5ajctRm1GQmdQNnA5NDNpSzcxX0d5c0hoV19xMUw1Y21CWnJ5TVJoRTVUNFRlak5heVphR19PNHRlYTZoU1N0d1NnaThuNndLOHFNWE4waWRWeUFqSzBDTlhmNlBGYUZLN1Z2V0FtQzlaQzR4QXZrMk13S2NUUk1CWFpjRzRrWlNOOERkUzBkaVlwbTZkRy1VcUtmaEZCXzl4RmJw?oc=5",
-      "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
-      "published": "2026-09-12T05:12:32+00:00",
+      "title": "Live - Trump says Iran likely behind Saudi pipeline attack, sees war ending 'very soon' - Iran International",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWUkFCaXFNOVJFN2ZucUJZTEIyTW1YS2owX21jVGhhS2V4VFlLVXRvdkR5aURSZmlTX0hSRFRQeGlrNlZqWGRnb0hMb2JJdklBQzIzdlctdERIc2RPSUE?oc=5",
+      "source": "Iran International",
+      "published": "2026-09-12T10:20:54+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WYkFDZzd0RXNwRTVPRHhYcTlPRG12WmJXWU9fYVZ6YjBjOUFUMXNoZEhYMjRpcEF4WGNhNmVnQzZ4eDl5Y0d3dDZQTVZnd0xNWExUY2JvSWhxdw?oc=5",
-      "source": "BBC",
-      "published": "2026-09-12T04:43:10+00:00",
+      "title": "Saudi Arabia halted a key oil pipeline after the attacks, allowing it to bypass the blocked Strait of Hormuz - unn.ua",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcmxtdHdzRUZQWERaTGhUSUg1TTlXLVVJa1VfZmMwUG16VHN6MjNTLU1NS2NnZFI2aHIzMnNITWY1YXdsZ055S0pSeUY5Q2RreUNtSE9GREprR2RyWWlKOEQzWXZhWnB4ajNvZ2FjdXdIc1BmSTNFNWJWdXlfMVNMclFmbXE0OWxWNmh2NVlXU1BsR2VDSExvMTl3Y3dleUZhRktvN0RPSkxjRzdCZWN0eXZ5MFdWSDVRVmc3RTlWdDVMWUs2OTJjZU5R0gHIAUFVX3lxTE1Rd2hvWlRxcUg1TmpoZUk4cVBDbkpaOWN1VUFUZ1RDdUdJQXZ5ajctRm1GQmdQNnA5NDNpSzcxX0d5c0hoV19xMUw1Y21CWnJ5TVJoRTVUNFRlak5heVphR19PNHRlYTZoU1N0d1NnaThuNndLOHFNWE4waWRWeUFqSzBDTlhmNlBGYUZLN1Z2V0FtQzlaQzR4QXZrMk13S2NUUk1CWFpjRzRrWlNOOERkUzBkaVlwbTZkRy1VcUtmaEZCXzl4RmJw?oc=5",
+      "source": "unn.ua",
+      "published": "2026-09-12T05:12:32+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -88,20 +88,20 @@
       ]
     },
     {
-      "title": "Saudi Arabia closes oil pipeline after drone attack launched from Iraq - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdTM2NHI2eGVCalZ4N25vQ0tKaC1XVXhXR0pkVVRVeUNHb0J5cjZpc2lvR2hSVUhzRjd2ay1nc01idFNra2YtTWtLaEdmSG9NR3V2WXQzbktPS0JPN3hua2xtenhVa2RWRGtWSE01SnRtNXJBRjIxYTYwNHhIUDY2d2RIRTMwV3V2YnJ0M05nYW15OEFDR2llSA?oc=5",
-      "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-      "published": "2026-09-11T23:53:16+00:00",
+      "title": "Saudi Arabia shuts oil pipeline after drone attack: Pipeline carried 5 million barrels daily after Strait of Hormuz closure - Bhaskar English",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORzBYRWtOc1QxcGs2UDlvZXpveUdLZFlITEpHaWZ3aDhkbmdXdldDQjV1aThRRlZYX2otREN6QTZHWTVVMDJUcFdBZmNUV29jLXNUVTN2RWpOd184eElsVXJDakV5bElmQVoxSnJPanY2Vk8wWDBObi1ITExtRTVTejBrUVh5Z243R0wyRWlWaGowQ1FGRkxXUzdNM2tEYVNwOXQ5Wk5abjJuRkRZRVpaOGpXM0lKMjZGRUhpQXRINkxyWDA?oc=5",
+      "source": "Bhaskar English",
+      "published": "2026-09-12T03:21:41+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Saudi Shuts Oil Pipeline That Bypasses Hormuz After Attacks - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU2Y0Q1NrVV83eFZoaHJNQ0EtNHRpQXkzd1ZBNUlkdkRRcjZmZ0REVk1SZlowTlVUUEhOLU1fNWx3OHBwR1RUNlVaUWswVTUzdU92OENNQldSLW4wRXBUWkd1T3czaExNQXd3ZENRNEtGMkF6TS0xakM0Q2xtUnlqVmt4ajNZVmZqVVA0LU0zUjBHVFQ4bXRfc1M0ZzlmT2xlY3lzZHFtSThzYm13cWc?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-09-11T21:09:52+00:00",
+      "title": "Saudi Arabia closes oil pipeline after drone attack launched from Iraq - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdTM2NHI2eGVCalZ4N25vQ0tKaC1XVXhXR0pkVVRVeUNHb0J5cjZpc2lvR2hSVUhzRjd2ay1nc01idFNra2YtTWtLaEdmSG9NR3V2WXQzbktPS0JPN3hua2xtenhVa2RWRGtWSE01SnRtNXJBRjIxYTYwNHhIUDY2d2RIRTMwV3V2YnJ0M05nYW15OEFDR2llSA?oc=5",
+      "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+      "published": "2026-09-11T23:53:16+00:00",
       "score": 3.0,
       "tags": [
         "tension"
