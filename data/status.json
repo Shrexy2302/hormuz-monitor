@@ -1,17 +1,17 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 103.5,
+  "tension_index": 96.0,
   "closure_signals": 1,
   "articles_scanned": 232,
-  "updated": "2026-09-12T19:58:57.719827+00:00",
+  "updated": "2026-09-12T22:01:10.319638+00:00",
   "headlines": [
     {
-      "title": "Oil Prices Surge as United States-Iran Conflict Closes Strait of Hormuz, Lifting Borrowing Costs: 12 outlets compared - newscord.org",
+      "title": "Oil Prices Surge as United States-Iran Conflict Closes Strait of Hormuz, Lifting Borrowing Costs: 12 outlets compared - NewsCord",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOM2JJRVRCVUU0SEZYUUV0ekVoeUhYUVdKUFNzUDBSa1pvZUxBbkJxYnN3d05FeDVHVEdsNUlfMVZpZ3VZWEt3bGVYcWtuWTRHaTVOd1hJXy0yUV9SZFRpVVFObnFNZUhsUHR6dGFDbEZPaklXUnlwN2tiSEJQdVE0aHMyT2JLWFBPQlRURHlmb0NaS2h6R0lGLVdMSE4wNEJrWnVXazhxSWh4REN2V0V4aVFxU2lSUHVZdGRGY25Yd01DNTVTd1ZVbE45WHRHQU13cHQ3RUtTRUJwdERvcmJaZGJ4LUN1QTN0?oc=5",
-      "source": "newscord.org",
+      "source": "NewsCord",
       "published": "2026-09-10T20:16:47+00:00",
-      "score": 7.81,
+      "score": 7.71,
       "tags": [
         "closure",
         "tension"
@@ -22,9 +22,29 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX0xQZWk5T05ESFB0b0tDWjZjR3BOUHV3MEpod2MxdTQ5c0I1ZU9FOHdyQWtHRk9rb2ZrYzdmaXZNVmdzN2RaUFZDblk4SXFzcWtqdFA4ZFVsakpZRzRISk9qb2NzY01RU09mTkc2SzBNemE3dkxFSUpMMlZ3UXJ4UTRTRENnMHVRa2RNWGMwUHZ0aFFO0gGaAUFVX3lxTFAyZm94bTluUkdMaVJub2JSUmoxb3pOTC13OG9oMllqemRtOF9kc09GWEM2VU1VZi1KcjYzZUZiRnJudXNGeXdLbTNGSmtuQUxIQ3c2SGtnRkNJYzlOdGZYWHdhRlo0Q01Rb2F2em5mUG1XV1l0d2dpbTNmQTQ5WmFBYllobnZlLVVwbWN4RDNOMEF5c3lLOVh2WlE?oc=5",
       "source": "NewsNation",
       "published": "2026-09-09T15:40:45+00:00",
-      "score": 4.26,
+      "score": 4.19,
       "tags": [
         "closure"
+      ]
+    },
+    {
+      "title": "Iraq Launches Drone Attack From Iraqi Territory, Saudi Arabia Shuts Critical Oil Pipeline: who 21 outlets blamed - NewsCord",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOY2VJNkFTRndRcll5cDl3QmRtYmFBUFZoYXg0d0R0RlF1UzZOeHVENkdlMUljY2xPcTNXZ1hmYktFYjcwSWtqV0FBa2tNeVJKRFVmUkhybE1ULXM2WF9Td1BCNTVya3dMM3c3STN2NlFNeGtjS0lMb1Jacm05a1FEX0R3V0Z2Y0wwdk1JeDlPTHg4QklTaEFNSTVTWWhIVjEycmxxTTFJQ3FHbGVkSFd0NTRSRHYzZXJVU0tmak9BNjhHV054aHNPckRSUFE1dllYR2VpU0RETzV4cW5JVTdMSGFDeHU0TzJl?oc=5",
+      "source": "NewsCord",
+      "published": "2026-09-12T19:32:12+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iraq probes drone strikes on Saudi Arabia, shuts three crossings to Iran - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSEVTcUVKTUpBQnAwT0wzS3EwYlhlQ1VEZzhiaUEyc0czQ1NIOWRXVWZoVDIxQXV0Y1ZFWnc1ZXFhdERrMGVhZS1ER3JsWG5nOG0zM195SzBsTmNJSWlDNlJVNW9kTDFvVURkOVdFUDVpLUVGYnhqR2tHaTVjNkFibzJ4emhjbWoyTnNiZVN2Y256ZElLODBTOHVaVDluMlFTNEdZallKVnNXVlhxVml3Ykt30gG3AUFVX3lxTE9wdDJScDJXV3F4bFV0STZfd3NhcTAxYmdxQ2ZrazlvUGZlYmN0WnNpYmdXMm9VTmc5N3d6bkVRa1l0WDVUTjJGR3g0WHJ3R2pNMXV3XzBtTDd0LVNGUlZfNTZmZ216dThzWURDcm1iU05DaFlVdVEwMlhMZFA5d0twQTRJNklkVU9qNzNXc0dtRi03SHN0RDhhUHBNZmVtTjN4Ul9YTnktOHF6eGdMUDI1QW9GQWVsSQ?oc=5",
+      "source": "Al Jazeera",
+      "published": "2026-09-12T18:57:36+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
       ]
     },
     {
@@ -38,9 +58,9 @@
       ]
     },
     {
-      "title": "Attack that closed key Saudi pipeline is blamed on Iran-backed militias in Iraq - abcnews.com",
+      "title": "Attack that closed key Saudi pipeline is blamed on Iran-backed militias in Iraq - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaW54Z3JsUjZyUTVNWTdCajdaVVQxS2xlSUpyZ3l0Rl9PWGNneUtfQ2dqbVhqSk9NN1ZCdEN0NFJKUENjb29LTTM5THk4UG5ITm5yZGpuZGNCcjRWaGd3RF9MSndqcy13MUJ2LTVXTzVDTFJYSlRKVloxSUh0bDYwY1NuVVVOX1hDTVZobGNfS3VtdEtLa3FSSEg0TWxPaE9kMUhuN2w0MkLSAa4BQVVfeXFMTVZBcjFhUmdJd0JtVUpMbDJqOU1qbXZkejdmSkRjNHFCTFRDdTU5MklyanYzSldoaExESnZaYkNocmpycmswTnk3bjZKbFZkbmFvTUhQMHh0MHNocDY3czQ4aUx4YU52a3JZYUhaRTAwcGx3V3g4NWstVEh0NUpmbXFpU3hRUG1OTEFldzViY1d1TE9rRFA1dGZkTGxza1RIaFFwQWZ4cnVPZGhObGFR?oc=5",
-      "source": "abcnews.com",
+      "source": "ABC News - Breaking News, Latest News and Videos",
       "published": "2026-09-12T10:59:56+00:00",
       "score": 3.0,
       "tags": [
@@ -49,7 +69,7 @@
     },
     {
       "title": "Saudi Arabia shuts critical oil pipeline after drone attack: What it means - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORUJVdmZzRjhhZXFCWHhYMXhRSlJQRGdySlNwQW41dkJaRXd1ZnBlbE5ZR2c5Wk5xYTNRRzJNRzUxTF9oN095Mi0taGRZaXpOZVNtYlJVSjFpNkV5NjBuQXBmb1dTWUs3RmNsQlVPWEh5WnFFc0plcDNnUDNjUVpiZUN2M0VrX0xQVXVoLXNoa2hQelVfa19LX3F2R3BwTExwV0JkLWJKNFRMd1BJX1k0VFJVUkI?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORUJVdmZzRjhhZXFCWHhYMXhRSlJQRGdySlNwQW41dkJaRXd1ZnBlbE5ZR2c5Wk5xYTNRRzJNRzUxTF9oN095Mi0taGRZaXpOZVNtYlJVSjFpNkV5NjBuQXBmb1dTWUs3RmNsQlVPWEh5WnFFc0plcDNnUDNjUVpiZUN2M0VrX0xQVXVoLXNoa2hQelVfa19LX3F2R3BwTExwV0JkLWJKNFRMd1BJX1k0VFJVUkLSAboBQVVfeXFMTktuU3M2eUZqUkt0aVBWRGpUQVQxZGNRRHVfTG9CMXlGbTljTm43SkFYVWR3UzBxSGRyR2tOQUx6M0lvdzVYcWNsNnBVNVhJR3FwRUJKRmszaE5CUUE2UWk4dDJySHcxTWpsdjJZbnVYYjRzOFpOQU0wZHVvT1BlS2V6VXpQWTUyYmhfRHJyWkFfdS1JSUlUQU5WNnQwNDYzSTdXSGV5S0xCaTNqTE83YjF4aXViNnVtMk53?oc=5",
       "source": "Al Jazeera",
       "published": "2026-09-12T10:48:08+00:00",
       "score": 3.0,
@@ -58,9 +78,9 @@
       ]
     },
     {
-      "title": "Saudi Arabia halted a key oil pipeline after the attacks, allowing it to bypass the blocked Strait of Hormuz - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+      "title": "Saudi Arabia halted a key oil pipeline after the attacks, allowing it to bypass the blocked Strait of Hormuz - unn.ua",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcmxtdHdzRUZQWERaTGhUSUg1TTlXLVVJa1VfZmMwUG16VHN6MjNTLU1NS2NnZFI2aHIzMnNITWY1YXdsZ055S0pSeUY5Q2RreUNtSE9GREprR2RyWWlKOEQzWXZhWnB4ajNvZ2FjdXdIc1BmSTNFNWJWdXlfMVNMclFmbXE0OWxWNmh2NVlXU1BsR2VDSExvMTl3Y3dleUZhRktvN0RPSkxjRzdCZWN0eXZ5MFdWSDVRVmc3RTlWdDVMWUs2OTJjZU5R0gHIAUFVX3lxTE1Rd2hvWlRxcUg1TmpoZUk4cVBDbkpaOWN1VUFUZ1RDdUdJQXZ5ajctRm1GQmdQNnA5NDNpSzcxX0d5c0hoV19xMUw1Y21CWnJ5TVJoRTVUNFRlak5heVphR19PNHRlYTZoU1N0d1NnaThuNndLOHFNWE4waWRWeUFqSzBDTlhmNlBGYUZLN1Z2V0FtQzlaQzR4QXZrMk13S2NUUk1CWFpjRzRrWlNOOERkUzBkaVlwbTZkRy1VcUtmaEZCXzl4RmJw?oc=5",
-      "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+      "source": "unn.ua",
       "published": "2026-09-12T05:12:32+00:00",
       "score": 3.0,
       "tags": [
@@ -98,31 +118,11 @@
       ]
     },
     {
-      "title": "Saudi Shuts Oil Pipeline That Bypasses Hormuz After Attacks - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU2Y0Q1NrVV83eFZoaHJNQ0EtNHRpQXkzd1ZBNUlkdkRRcjZmZ0REVk1SZlowTlVUUEhOLU1fNWx3OHBwR1RUNlVaUWswVTUzdU92OENNQldSLW4wRXBUWkd1T3czaExNQXd3ZENRNEtGMkF6TS0xakM0Q2xtUnlqVmt4ajNZVmZqVVA0LU0zUjBHVFQ4bXRfc1M0ZzlmT2xlY3lzZHFtSThzYm13cWc?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-09-11T21:09:52+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Oil Tanker Rates Hit Record Highs Following Iran, US Shipping Attacks - gCaptain",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVUpuX2dNMzNYMEZ3VXAwNTMyQndLVWJUMTFBTk9fbDRUM1N0NVFXaHBsdzRzcU1maWtrMVNZYmNjNlh0RHpuMmZzOFZwdGpIeUhNYTZKWEp3a280M2ZFemloQ1lNY2hrSHBQTUlFbjd6SzBTaVZobTB3YkpvZ3cxMExwdV85TGJQU2d3WkJOOGY2MVF2?oc=5",
-      "source": "gCaptain",
-      "published": "2026-09-11T18:21:06+00:00",
-      "score": 2.97,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "U.S. attacks on southern Iran envelop families in grief and fear, as civilian deaths mount - nbcnews.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcU1kaDdOZGExX2pHZ0piWTU4YU5pUGlhNTI0eWdoczhTcHIwLVVrSVlVRDhqZXkxTkdFaDVMb09FS2x1MXJlMGpCVzI1Z2E5MXBMLW5rODhzQnotRGdMRG1mRjV6QTNYTXFCTTJWdnB1WEF0R2d2ckNvVFVSN0VzWUZvd2hUeWNsYlJWN01VeGVUTnFRMlpERmZiN3FvOVFjZ0pWYnlzeWRCdw?oc=5",
-      "source": "nbcnews.com",
-      "published": "2026-09-11T18:07:23+00:00",
-      "score": 2.97,
+      "title": "Saudi Arabia says it closed vital East-West Pipeline after attack - middleeasteye.net",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTUt0OE9IVTFUTXg4ZVRHUlpTN2tiUlVUN2RXZEdwd2hMeEcxOWVwQVN1V3VtcWdEMDdwQUgzTWJSNlNwV2lsRjk0cG14Zy1mWlYzOUNUeXRWRDlEbHIzR01QbEdFYl9HSjE0UzA3RVE2RDNRcWhrLTdhNmRvU25UaVpBTVFQWm55c08zVnYwSVFrWDNBZlFWYTFzZ1RGcXAtbkl3?oc=5",
+      "source": "middleeasteye.net",
+      "published": "2026-09-11T19:50:08+00:00",
+      "score": 2.96,
       "tags": [
         "tension"
       ]
