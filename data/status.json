@@ -1,17 +1,17 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 125.3,
+  "tension_index": 116.8,
   "closure_signals": 1,
-  "articles_scanned": 237,
-  "updated": "2026-09-12T02:33:05.885146+00:00",
+  "articles_scanned": 238,
+  "updated": "2026-09-12T07:32:45.279242+00:00",
   "headlines": [
     {
       "title": "Oil Prices Surge as United States-Iran Conflict Closes Strait of Hormuz, Lifting Borrowing Costs: 12 outlets compared - NewsCord",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOM2JJRVRCVUU0SEZYUUV0ekVoeUhYUVdKUFNzUDBSa1pvZUxBbkJxYnN3d05FeDVHVEdsNUlfMVZpZ3VZWEt3bGVYcWtuWTRHaTVOd1hJXy0yUV9SZFRpVVFObnFNZUhsUHR6dGFDbEZPaklXUnlwN2tiSEJQdVE0aHMyT2JLWFBPQlRURHlmb0NaS2h6R0lGLVdMSE4wNEJrWnVXazhxSWh4REN2V0V4aVFxU2lSUHVZdGRGY25Yd01DNTVTd1ZVbE45WHRHQU13cHQ3RUtTRUJwdERvcmJaZGJ4LUN1QTN0?oc=5",
       "source": "NewsCord",
       "published": "2026-09-10T20:16:47+00:00",
-      "score": 8.69,
+      "score": 8.44,
       "tags": [
         "closure",
         "tension"
@@ -22,27 +22,17 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX0xQZWk5T05ESFB0b0tDWjZjR3BOUHV3MEpod2MxdTQ5c0I1ZU9FOHdyQWtHRk9rb2ZrYzdmaXZNVmdzN2RaUFZDblk4SXFzcWtqdFA4ZFVsakpZRzRISk9qb2NzY01RU09mTkc2SzBNemE3dkxFSUpMMlZ3UXJ4UTRTRENnMHVRa2RNWGMwUHZ0aFFO0gGaAUFVX3lxTFAyZm94bTluUkdMaVJub2JSUmoxb3pOTC13OG9oMllqemRtOF9kc09GWEM2VU1VZi1KcjYzZUZiRnJudXNGeXdLbTNGSmtuQUxIQ3c2SGtnRkNJYzlOdGZYWHdhRlo0Q01Rb2F2em5mUG1XV1l0d2dpbTNmQTQ5WmFBYllobnZlLVVwbWN4RDNOMEF5c3lLOVh2WlE?oc=5",
       "source": "NewsNation",
       "published": "2026-09-09T15:40:45+00:00",
-      "score": 4.84,
+      "score": 4.67,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iran announced the closure of the Strait of Hormuz \u00bb News of Kyrgyzstan, Bishkek and Osh \u2014 latest events today - open.kg",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSkVIb3lWa3B4Rk5aSTNPNGhJbDA3NHRCX01KNEtxVDJrOW9Oamo3YUVMSW11NEpYVDZmYmRJR2hiaFNqRTJCX0ZWcFhaV1hCak1BQ3UycWRBYjVyZ2tUX1E3cDBySV9ObWg4ckh1VTltMG9iSkI3TGFqRm5OMFZrNnQwd1dHNjJjQ2tqMkVjT0xKNFl1NmloeU1QM3FNdw?oc=5",
-      "source": "open.kg",
-      "published": "2026-09-08T02:37:57+00:00",
-      "score": 4.8,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Iran Tightens Hormuz Restrictions as U.S. Tanker Strikes, AUV Seizure Raise the Stakes - niacouncil.org",
+      "title": "Iran Tightens Hormuz Restrictions as U.S. Tanker Strikes, AUV Seizure Raise the Stakes - NIAC Action",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZzktS0hzSjY2U05JUS02dDlETlFRdkV6M0RKS3FCVzc2NnI5Tl9nM18td3hZeGxzVFBmUDhpczBTZ3VhZ0NZaWRGelJ0WlJITHhqbzlpS1IyM2RrRkVpck55ZVhYNFhBYzJORDJubENVeEYxMDd4ZEVneFhmbUFwVTF5QmlOSDd6MGdic21Rb1I0a1pjRXpxVU5vWHJUVElnRUVzcnREa2RXN3hK?oc=5",
-      "source": "niacouncil.org",
+      "source": "NIAC Action",
       "published": "2026-09-08T07:00:00+00:00",
-      "score": 3.75,
+      "score": 3.58,
       "tags": [
         "tension"
       ]
@@ -52,26 +42,36 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XX2hUckpfY01TaUtBYUQ3Rm1GUU56SW5tMC1ZS1ZSMGVBMHNncjctbS1lY05DcTEtUmF6ZFk1U0E3dTdvMkFfQVN0RGpJZXFYTE0wdGZB?oc=5",
       "source": "Fox News",
       "published": "2026-09-07T21:08:32+00:00",
-      "score": 3.42,
+      "score": 3.25,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "US Navy SEALs conducted covert four-month mission to clear Strait of Hormuz mines - report - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjbUxEOU5iX3kzbDlrSlR2X1pra3p3U2pQRWt1REhtVFdpNm8xeGQ1Y2Jaa0pjRUt6UnpDd3BNbmUtaHZmNnJwMTA2VXh6WDNnVWs5LW1BcTlMbjVGTzBFSG5VYUZERUd1MXc?oc=5",
-      "source": "The Jerusalem Post",
-      "published": "2026-09-07T10:21:03+00:00",
-      "score": 3.06,
+      "title": "Saudi Arabia halted a key oil pipeline after the attacks, allowing it to bypass the blocked Strait of Hormuz - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcmxtdHdzRUZQWERaTGhUSUg1TTlXLVVJa1VfZmMwUG16VHN6MjNTLU1NS2NnZFI2aHIzMnNITWY1YXdsZ055S0pSeUY5Q2RreUNtSE9GREprR2RyWWlKOEQzWXZhWnB4ajNvZ2FjdXdIc1BmSTNFNWJWdXlfMVNMclFmbXE0OWxWNmh2NVlXU1BsR2VDSExvMTl3Y3dleUZhRktvN0RPSkxjRzdCZWN0eXZ5MFdWSDVRVmc3RTlWdDVMWUs2OTJjZU5R0gHIAUFVX3lxTE1Rd2hvWlRxcUg1TmpoZUk4cVBDbkpaOWN1VUFUZ1RDdUdJQXZ5ajctRm1GQmdQNnA5NDNpSzcxX0d5c0hoV19xMUw1Y21CWnJ5TVJoRTVUNFRlak5heVphR19PNHRlYTZoU1N0d1NnaThuNndLOHFNWE4waWRWeUFqSzBDTlhmNlBGYUZLN1Z2V0FtQzlaQzR4QXZrMk13S2NUUk1CWFpjRzRrWlNOOERkUzBkaVlwbTZkRy1VcUtmaEZCXzl4RmJw?oc=5",
+      "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+      "published": "2026-09-12T05:12:32+00:00",
+      "score": 3.0,
       "tags": [
-        "closure"
+        "tension"
       ]
     },
     {
-      "title": "Saudi Oil Exports Face Heightened Threats After Attacks on Pipeline - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFByYjJ4ZE5yM1dTaDdycGR4bHBPV2U1NG1zWnlJeTQ4d0I2dk5WNTVXWnhXUEhId1JjMy1UYUo0cUZZMzZFUHRYSThQdXdTSndpRFVsaEhreV9nLVQzdjJwa1U0ZHNCLXNkOC1tRzBYajV0bFAwWkQ2ZFZKc0k?oc=5",
-      "source": "The New York Times",
-      "published": "2026-09-12T00:50:20+00:00",
+      "title": "Saudi Arabia shuts oil pipeline after drone attack: Pipeline carried 5 million barrels daily after Strait o... - Bhaskar English",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQejgtWlA5cHlKRE9OeU13SWp5S3lKbjhYYUI1UE9ZRGctbm0zbjlfM2oxTUJjMzZQQzgzd1ZRajgtTmZpZXJpNm5vbjZkSXdNMDAyOG9xZDBHQVZfa1ppcXlGN0wxUnhBeG81WllrYkxPSEMyWUFFd3A3bXU2RDRPVzA5T1dzYXA3QjJlRkxCZ09XZ1N0MjM2UTJqZ2xRa3llbXVqcW8wMkVRV1BpSkFwcmFFbFlYSGpYbnR4UkMybzVWd9IBxwFBVV95cUxOZUJTY3FOM3FCYk4wN0NhQVVGT0VlaDdiTVJzeFlFUS1kWjRWcEYzRWhpaGlMVFRvUWl6aDJWVlc4Njhob2tsNlk3ajhISGdiRkVPWnZRX0lubzV1a1hKTUhmdVhSNHNHelYwU2pNTUZSUFVZd0pIUmxtbDRZQU1hMy05Z0RSUEd3LU42SkV2NDdTQndVVnZIMVlkQnY0azVsX2Z4anhqM0NvTzBZMDNDZGUwdTZ5d0VzSEtqZkdVSkJxSmYzRUxV?oc=5",
+      "source": "Bhaskar English",
+      "published": "2026-09-12T03:21:41+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Saudi Arabia closes oil pipeline after drone attack launched from Iraq - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdTM2NHI2eGVCalZ4N25vQ0tKaC1XVXhXR0pkVVRVeUNHb0J5cjZpc2lvR2hSVUhzRjd2ay1nc01idFNra2YtTWtLaEdmSG9NR3V2WXQzbktPS0JPN3hua2xtenhVa2RWRGtWSE01SnRtNXJBRjIxYTYwNHhIUDY2d2RIRTMwV3V2YnJ0M05nYW15OEFDR2llSA?oc=5",
+      "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+      "published": "2026-09-11T23:53:16+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -81,7 +81,7 @@
       "title": "Saudi Shuts Oil Pipeline That Bypasses Hormuz After Attacks - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU2Y0Q1NrVV83eFZoaHJNQ0EtNHRpQXkzd1ZBNUlkdkRRcjZmZ0REVk1SZlowTlVUUEhOLU1fNWx3OHBwR1RUNlVaUWswVTUzdU92OENNQldSLW4wRXBUWkd1T3czaExNQXd3ZENRNEtGMkF6TS0xakM0Q2xtUnlqVmt4ajNZVmZqVVA0LU0zUjBHVFQ4bXRfc1M0ZzlmT2xlY3lzZHFtSThzYm13cWc?oc=5",
       "source": "Bloomberg.com",
-      "published": "2026-09-11T18:46:50+00:00",
+      "published": "2026-09-11T21:09:52+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -129,7 +129,7 @@
     }
   ],
   "brent": {
-    "price": 104.42,
-    "change_pct": -2.98
+    "price": 104.61,
+    "change_pct": -2.81
   }
 }
