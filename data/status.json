@@ -1,38 +1,28 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 125.5,
-  "closure_signals": 2,
-  "articles_scanned": 236,
-  "updated": "2026-09-12T14:46:35.600065+00:00",
+  "tension_index": 101.7,
+  "closure_signals": 1,
+  "articles_scanned": 235,
+  "updated": "2026-09-12T17:36:11.584735+00:00",
   "headlines": [
     {
       "title": "Oil Prices Surge as United States-Iran Conflict Closes Strait of Hormuz, Lifting Borrowing Costs: 12 outlets compared - NewsCord",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOM2JJRVRCVUU0SEZYUUV0ekVoeUhYUVdKUFNzUDBSa1pvZUxBbkJxYnN3d05FeDVHVEdsNUlfMVZpZ3VZWEt3bGVYcWtuWTRHaTVOd1hJXy0yUV9SZFRpVVFObnFNZUhsUHR6dGFDbEZPaklXUnlwN2tiSEJQdVE0aHMyT2JLWFBPQlRURHlmb0NaS2h6R0lGLVdMSE4wNEJrWnVXazhxSWh4REN2V0V4aVFxU2lSUHVZdGRGY25Yd01DNTVTd1ZVbE45WHRHQU13cHQ3RUtTRUJwdERvcmJaZGJ4LUN1QTN0?oc=5",
       "source": "NewsCord",
       "published": "2026-09-10T20:16:47+00:00",
-      "score": 8.08,
+      "score": 7.93,
       "tags": [
         "closure",
         "tension"
       ]
     },
     {
-      "title": "Bagaei named the reason for Iran's blockade of the Strait of Hormuz - baku.ws",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZm9zVzNaMWNmR3B3dXpZNC1BYWcxNGFoU3BkejBuNEtGbWhET0RzTEJhLW9RZi1nMWVfNlVCdUpsb3BvMGVURDVPNUNReTB3N0dMU1JQTlY1dTlzTTRyX1JRWU0zQVRrc3hBMnNZOXRfUmhUX0w0dHlQdGV3N0JwMkw5YU1pQ0ZhalVBTU9JWUs2Ym9PY1E?oc=5",
-      "source": "baku.ws",
-      "published": "2026-09-12T05:55:00+00:00",
-      "score": 8.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Navy SEALs used robot boats, night dives to clear mines from Strait of Hormuz - NewsNation",
+      "title": "Navy SEALs used robot boats, night dives to clear mines from Strait of Hormuz - newsnationnow.com",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX0xQZWk5T05ESFB0b0tDWjZjR3BOUHV3MEpod2MxdTQ5c0I1ZU9FOHdyQWtHRk9rb2ZrYzdmaXZNVmdzN2RaUFZDblk4SXFzcWtqdFA4ZFVsakpZRzRISk9qb2NzY01RU09mTkc2SzBNemE3dkxFSUpMMlZ3UXJ4UTRTRENnMHVRa2RNWGMwUHZ0aFFO0gGaAUFVX3lxTFAyZm94bTluUkdMaVJub2JSUmoxb3pOTC13OG9oMllqemRtOF9kc09GWEM2VU1VZi1KcjYzZUZiRnJudXNGeXdLbTNGSmtuQUxIQ3c2SGtnRkNJYzlOdGZYWHdhRlo0Q01Rb2F2em5mUG1XV1l0d2dpbTNmQTQ5WmFBYllobnZlLVVwbWN4RDNOMEF5c3lLOVh2WlE?oc=5",
-      "source": "NewsNation",
+      "source": "newsnationnow.com",
       "published": "2026-09-09T15:40:45+00:00",
-      "score": 4.43,
+      "score": 4.34,
       "tags": [
         "closure"
       ]
@@ -49,7 +39,7 @@
     },
     {
       "title": "Saudi Arabia shuts critical oil pipeline after drone attack: What it means - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORUJVdmZzRjhhZXFCWHhYMXhRSlJQRGdySlNwQW41dkJaRXd1ZnBlbE5ZR2c5Wk5xYTNRRzJNRzUxTF9oN095Mi0taGRZaXpOZVNtYlJVSjFpNkV5NjBuQXBmb1dTWUs3RmNsQlVPWEh5WnFFc0plcDNnUDNjUVpiZUN2M0VrX0xQVXVoLXNoa2hQelVfa19LX3F2R3BwTExwV0JkLWJKNFRMd1BJX1k0VFJVUkLSAboBQVVfeXFMTktuU3M2eUZqUkt0aVBWRGpUQVQxZGNRRHVfTG9CMXlGbTljTm43SkFYVWR3UzBxSGRyR2tOQUx6M0lvdzVYcWNsNnBVNVhJR3FwRUJKRmszaE5CUUE2UWk4dDJySHcxTWpsdjJZbnVYYjRzOFpOQU0wZHVvT1BlS2V6VXpQWTUyYmhfRHJyWkFfdS1JSUlUQU5WNnQwNDYzSTdXSGV5S0xCaTNqTE83YjF4aXViNnVtMk53?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORUJVdmZzRjhhZXFCWHhYMXhRSlJQRGdySlNwQW41dkJaRXd1ZnBlbE5ZR2c5Wk5xYTNRRzJNRzUxTF9oN095Mi0taGRZaXpOZVNtYlJVSjFpNkV5NjBuQXBmb1dTWUs3RmNsQlVPWEh5WnFFc0plcDNnUDNjUVpiZUN2M0VrX0xQVXVoLXNoa2hQelVfa19LX3F2R3BwTExwV0JkLWJKNFRMd1BJX1k0VFJVUkI?oc=5",
       "source": "Al Jazeera",
       "published": "2026-09-12T10:48:08+00:00",
       "score": 3.0,
@@ -58,19 +48,9 @@
       ]
     },
     {
-      "title": "Live - Trump says Iran likely behind Saudi pipeline attack, sees war ending 'very soon' - Iran International",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWUkFCaXFNOVJFN2ZucUJZTEIyTW1YS2owX21jVGhhS2V4VFlLVXRvdkR5aURSZmlTX0hSRFRQeGlrNlZqWGRnb0hMb2JJdklBQzIzdlctdERIc2RPSUE?oc=5",
-      "source": "Iran International",
-      "published": "2026-09-12T10:20:54+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Saudi Arabia halted a key oil pipeline after the attacks, allowing it to bypass the blocked Strait of Hormuz - unn.ua",
+      "title": "Saudi Arabia halted a key oil pipeline after the attacks, allowing it to bypass the blocked Strait of Hormuz - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcmxtdHdzRUZQWERaTGhUSUg1TTlXLVVJa1VfZmMwUG16VHN6MjNTLU1NS2NnZFI2aHIzMnNITWY1YXdsZ055S0pSeUY5Q2RreUNtSE9GREprR2RyWWlKOEQzWXZhWnB4ajNvZ2FjdXdIc1BmSTNFNWJWdXlfMVNMclFmbXE0OWxWNmh2NVlXU1BsR2VDSExvMTl3Y3dleUZhRktvN0RPSkxjRzdCZWN0eXZ5MFdWSDVRVmc3RTlWdDVMWUs2OTJjZU5R0gHIAUFVX3lxTE1Rd2hvWlRxcUg1TmpoZUk4cVBDbkpaOWN1VUFUZ1RDdUdJQXZ5ajctRm1GQmdQNnA5NDNpSzcxX0d5c0hoV19xMUw1Y21CWnJ5TVJoRTVUNFRlak5heVphR19PNHRlYTZoU1N0d1NnaThuNndLOHFNWE4waWRWeUFqSzBDTlhmNlBGYUZLN1Z2V0FtQzlaQzR4QXZrMk13S2NUUk1CWFpjRzRrWlNOOERkUzBkaVlwbTZkRy1VcUtmaEZCXzl4RmJw?oc=5",
-      "source": "unn.ua",
+      "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
       "published": "2026-09-12T05:12:32+00:00",
       "score": 3.0,
       "tags": [
@@ -123,6 +103,26 @@
       "source": "NBC News",
       "published": "2026-09-11T18:07:23+00:00",
       "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Oil tanker rates hit record highs following Iran, US shipping attacks - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMm5mMEFxdUdWVkQ3Q3J0WlJnN1J1Ti01OEZiMjlKMjRPT0JMRnF6OTJrbjA1TFJ4dzVveUoxX0NsbUNyMUtYX040QzNOSWlfcWhiMEc5WWZVUEtGS1VaRDF2b3NCTzNPLXRRN2JYSzZXYURPZTdWNDA4c1hoRW1mZ3B1SGFiXzltQldPUTlKSERIeXpIQk5RaDU3Z2otUXZXV2NZMGhCanNFcWJLZ3B4aXk4X0xTS0FsV0Vteg?oc=5",
+      "source": "Reuters",
+      "published": "2026-09-11T14:37:33+00:00",
+      "score": 2.95,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Two vessels struck in Strait of Hormuz off Oman - Seatrade Maritime News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZzAteGp4VHRIUWtQTkp1Q1RwY1ZpVThPRGZQUWZKMUpWdXpKd0ZQLVZGMFBudEtzdzA3TXNsV3RQd2ZDaG9lWS1XSVdnUktVcGZpVi12WXVISmhqYnB1anc3NkhyNW5CUmxEb2x5STk4dWx4ekFhNEpBVUpJSTczTUNLeXRqY0VvOF9tY1FjZGRtMXVu?oc=5",
+      "source": "Seatrade Maritime News",
+      "published": "2026-09-11T11:51:39+00:00",
+      "score": 2.9,
       "tags": [
         "tension"
       ]
