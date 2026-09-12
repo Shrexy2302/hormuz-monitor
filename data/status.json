@@ -1,28 +1,28 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 101.7,
+  "tension_index": 103.5,
   "closure_signals": 1,
-  "articles_scanned": 235,
-  "updated": "2026-09-12T17:36:11.584735+00:00",
+  "articles_scanned": 232,
+  "updated": "2026-09-12T19:58:57.719827+00:00",
   "headlines": [
     {
-      "title": "Oil Prices Surge as United States-Iran Conflict Closes Strait of Hormuz, Lifting Borrowing Costs: 12 outlets compared - NewsCord",
+      "title": "Oil Prices Surge as United States-Iran Conflict Closes Strait of Hormuz, Lifting Borrowing Costs: 12 outlets compared - newscord.org",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOM2JJRVRCVUU0SEZYUUV0ekVoeUhYUVdKUFNzUDBSa1pvZUxBbkJxYnN3d05FeDVHVEdsNUlfMVZpZ3VZWEt3bGVYcWtuWTRHaTVOd1hJXy0yUV9SZFRpVVFObnFNZUhsUHR6dGFDbEZPaklXUnlwN2tiSEJQdVE0aHMyT2JLWFBPQlRURHlmb0NaS2h6R0lGLVdMSE4wNEJrWnVXazhxSWh4REN2V0V4aVFxU2lSUHVZdGRGY25Yd01DNTVTd1ZVbE45WHRHQU13cHQ3RUtTRUJwdERvcmJaZGJ4LUN1QTN0?oc=5",
-      "source": "NewsCord",
+      "source": "newscord.org",
       "published": "2026-09-10T20:16:47+00:00",
-      "score": 7.93,
+      "score": 7.81,
       "tags": [
         "closure",
         "tension"
       ]
     },
     {
-      "title": "Navy SEALs used robot boats, night dives to clear mines from Strait of Hormuz - newsnationnow.com",
+      "title": "Navy SEALs used robot boats, night dives to clear mines from Strait of Hormuz - NewsNation",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX0xQZWk5T05ESFB0b0tDWjZjR3BOUHV3MEpod2MxdTQ5c0I1ZU9FOHdyQWtHRk9rb2ZrYzdmaXZNVmdzN2RaUFZDblk4SXFzcWtqdFA4ZFVsakpZRzRISk9qb2NzY01RU09mTkc2SzBNemE3dkxFSUpMMlZ3UXJ4UTRTRENnMHVRa2RNWGMwUHZ0aFFO0gGaAUFVX3lxTFAyZm94bTluUkdMaVJub2JSUmoxb3pOTC13OG9oMllqemRtOF9kc09GWEM2VU1VZi1KcjYzZUZiRnJudXNGeXdLbTNGSmtuQUxIQ3c2SGtnRkNJYzlOdGZYWHdhRlo0Q01Rb2F2em5mUG1XV1l0d2dpbTNmQTQ5WmFBYllobnZlLVVwbWN4RDNOMEF5c3lLOVh2WlE?oc=5",
-      "source": "newsnationnow.com",
+      "source": "NewsNation",
       "published": "2026-09-09T15:40:45+00:00",
-      "score": 4.34,
+      "score": 4.26,
       "tags": [
         "closure"
       ]
@@ -32,6 +32,16 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WYkFDZzd0RXNwRTVPRHhYcTlPRG12WmJXWU9fYVZ6YjBjOUFUMXNoZEhYMjRpcEF4WGNhNmVnQzZ4eDl5Y0d3dDZQTVZnd0xNWExUY2JvSWhxdw?oc=5",
       "source": "BBC",
       "published": "2026-09-12T12:15:50+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Attack that closed key Saudi pipeline is blamed on Iran-backed militias in Iraq - abcnews.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaW54Z3JsUjZyUTVNWTdCajdaVVQxS2xlSUpyZ3l0Rl9PWGNneUtfQ2dqbVhqSk9NN1ZCdEN0NFJKUENjb29LTTM5THk4UG5ITm5yZGpuZGNCcjRWaGd3RF9MSndqcy13MUJ2LTVXTzVDTFJYSlRKVloxSUh0bDYwY1NuVVVOX1hDTVZobGNfS3VtdEtLa3FSSEg0TWxPaE9kMUhuN2w0MkLSAa4BQVVfeXFMTVZBcjFhUmdJd0JtVUpMbDJqOU1qbXZkejdmSkRjNHFCTFRDdTU5MklyanYzSldoaExESnZaYkNocmpycmswTnk3bjZKbFZkbmFvTUhQMHh0MHNocDY3czQ4aUx4YU52a3JZYUhaRTAwcGx3V3g4NWstVEh0NUpmbXFpU3hRUG1OTEFldzViY1d1TE9rRFA1dGZkTGxza1RIaFFwQWZ4cnVPZGhObGFR?oc=5",
+      "source": "abcnews.com",
+      "published": "2026-09-12T10:59:56+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -88,41 +98,31 @@
       ]
     },
     {
+      "title": "Saudi Shuts Oil Pipeline That Bypasses Hormuz After Attacks - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU2Y0Q1NrVV83eFZoaHJNQ0EtNHRpQXkzd1ZBNUlkdkRRcjZmZ0REVk1SZlowTlVUUEhOLU1fNWx3OHBwR1RUNlVaUWswVTUzdU92OENNQldSLW4wRXBUWkd1T3czaExNQXd3ZENRNEtGMkF6TS0xakM0Q2xtUnlqVmt4ajNZVmZqVVA0LU0zUjBHVFQ4bXRfc1M0ZzlmT2xlY3lzZHFtSThzYm13cWc?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-09-11T21:09:52+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
       "title": "Oil Tanker Rates Hit Record Highs Following Iran, US Shipping Attacks - gCaptain",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVUpuX2dNMzNYMEZ3VXAwNTMyQndLVWJUMTFBTk9fbDRUM1N0NVFXaHBsdzRzcU1maWtrMVNZYmNjNlh0RHpuMmZzOFZwdGpIeUhNYTZKWEp3a280M2ZFemloQ1lNY2hrSHBQTUlFbjd6SzBTaVZobTB3YkpvZ3cxMExwdV85TGJQU2d3WkJOOGY2MVF2?oc=5",
       "source": "gCaptain",
       "published": "2026-09-11T18:21:06+00:00",
-      "score": 3.0,
+      "score": 2.97,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "U.S. attacks on southern Iran envelop families in grief and fear, as civilian deaths mount - NBC News",
+      "title": "U.S. attacks on southern Iran envelop families in grief and fear, as civilian deaths mount - nbcnews.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcU1kaDdOZGExX2pHZ0piWTU4YU5pUGlhNTI0eWdoczhTcHIwLVVrSVlVRDhqZXkxTkdFaDVMb09FS2x1MXJlMGpCVzI1Z2E5MXBMLW5rODhzQnotRGdMRG1mRjV6QTNYTXFCTTJWdnB1WEF0R2d2ckNvVFVSN0VzWUZvd2hUeWNsYlJWN01VeGVUTnFRMlpERmZiN3FvOVFjZ0pWYnlzeWRCdw?oc=5",
-      "source": "NBC News",
+      "source": "nbcnews.com",
       "published": "2026-09-11T18:07:23+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Oil tanker rates hit record highs following Iran, US shipping attacks - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMm5mMEFxdUdWVkQ3Q3J0WlJnN1J1Ti01OEZiMjlKMjRPT0JMRnF6OTJrbjA1TFJ4dzVveUoxX0NsbUNyMUtYX040QzNOSWlfcWhiMEc5WWZVUEtGS1VaRDF2b3NCTzNPLXRRN2JYSzZXYURPZTdWNDA4c1hoRW1mZ3B1SGFiXzltQldPUTlKSERIeXpIQk5RaDU3Z2otUXZXV2NZMGhCanNFcWJLZ3B4aXk4X0xTS0FsV0Vteg?oc=5",
-      "source": "Reuters",
-      "published": "2026-09-11T14:37:33+00:00",
-      "score": 2.95,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Two vessels struck in Strait of Hormuz off Oman - Seatrade Maritime News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZzAteGp4VHRIUWtQTkp1Q1RwY1ZpVThPRGZQUWZKMUpWdXpKd0ZQLVZGMFBudEtzdzA3TXNsV3RQd2ZDaG9lWS1XSVdnUktVcGZpVi12WXVISmhqYnB1anc3NkhyNW5CUmxEb2x5STk4dWx4ekFhNEpBVUpJSTczTUNLeXRqY0VvOF9tY1FjZGRtMXVu?oc=5",
-      "source": "Seatrade Maritime News",
-      "published": "2026-09-11T11:51:39+00:00",
-      "score": 2.9,
+      "score": 2.97,
       "tags": [
         "tension"
       ]
