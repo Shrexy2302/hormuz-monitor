@@ -1,127 +1,126 @@
 {
-  "status": "DISRUPTED",
-  "label": "Major disruption reported",
-  "tension_index": 146.2,
-  "closure_signals": 1,
-  "articles_scanned": 237,
-  "updated": "2026-09-13T10:25:21.975974+00:00",
+  "status": "ELEVATED",
+  "label": "Elevated tension",
+  "tension_index": 175.9,
+  "closure_signals": 0,
+  "articles_scanned": 242,
+  "updated": "2026-09-13T14:31:01.289313+00:00",
   "headlines": [
-    {
-      "title": "Oil Prices Surge as United States-Iran Conflict Closes Strait of Hormuz, Lifting Borrowing Costs: 12 outlets compared - NewsCord",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOM2JJRVRCVUU0SEZYUUV0ekVoeUhYUVdKUFNzUDBSa1pvZUxBbkJxYnN3d05FeDVHVEdsNUlfMVZpZ3VZWEt3bGVYcWtuWTRHaTVOd1hJXy0yUV9SZFRpVVFObnFNZUhsUHR6dGFDbEZPaklXUnlwN2tiSEJQdVE0aHMyT2JLWFBPQlRURHlmb0NaS2h6R0lGLVdMSE4wNEJrWnVXazhxSWh4REN2V0V4aVFxU2lSUHVZdGRGY25Yd01DNTVTd1ZVbE45WHRHQU13cHQ3RUtTRUJwdERvcmJaZGJ4LUN1QTN0?oc=5",
-      "source": "NewsCord",
-      "published": "2026-09-10T20:16:47+00:00",
-      "score": 7.09,
-      "tags": [
-        "closure",
-        "tension"
-      ]
-    },
     {
       "title": "Navy SEALs used robot boats, night dives to clear mines from Strait of Hormuz - NewsNation",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX0xQZWk5T05ESFB0b0tDWjZjR3BOUHV3MEpod2MxdTQ5c0I1ZU9FOHdyQWtHRk9rb2ZrYzdmaXZNVmdzN2RaUFZDblk4SXFzcWtqdFA4ZFVsakpZRzRISk9qb2NzY01RU09mTkc2SzBNemE3dkxFSUpMMlZ3UXJ4UTRTRENnMHVRa2RNWGMwUHZ0aFFO0gGaAUFVX3lxTFAyZm94bTluUkdMaVJub2JSUmoxb3pOTC13OG9oMllqemRtOF9kc09GWEM2VU1VZi1KcjYzZUZiRnJudXNGeXdLbTNGSmtuQUxIQ3c2SGtnRkNJYzlOdGZYWHdhRlo0Q01Rb2F2em5mUG1XV1l0d2dpbTNmQTQ5WmFBYllobnZlLVVwbWN4RDNOMEF5c3lLOVh2WlE?oc=5",
       "source": "NewsNation",
       "published": "2026-09-09T15:40:45+00:00",
-      "score": 3.78,
+      "score": 3.64,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "live Fresh attack on Strait of Hormuz shipping raising fears of oil supplies - AnewZ",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYndpVHZpNkdXQWpuUk9zeTVUbmFLRnlrRkpVWjNqdGlsZHBhckR2d2hUM29sMk9uTDRLZWVBWkhhZ1BHVVhhTkE3RDFZRG5wcHEteXNtTXBlNUNIakwwcng4OFE3Nl9WRFNnVDVnZzhVN3dLXzRYMVNpbmQxY2RzbUpqQV9mM1hKWldxV0d4Uk14UVJ5am8yRk11ZExWMmZRdjZOWm1IZWdYQQ?oc=5",
-      "source": "AnewZ",
-      "published": "2026-09-13T10:15:00+00:00",
+      "title": "Vessel struck in Strait of Hormuz, UKMTO says, as prospects for U.S.-Iran diplomacy appear elusive - cnbc.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwTGlJOEZRVUpiWERhUm51WWZwRDRWVXlnVXczV2pQOGFnY01GUklBZTg2MHc0SU8xbzlYWjlRWFdxMFBKYkxPVy1TRUdXcmdBS3RxZmtsZnpGRG5rSjRobU9BNVY3cUlHNEMtOFZaVTFMRldydlcwSEZHbTJZUdIBgwFBVV95cUxOeF9MeDRhaEhUVXdqZ2ZJdWhkVVFTSlRNWDFoSllFMno3bE5lVXVnaDhGZnA2RDRFSnI3SzRTdF9yNXB5SVp2d2hacVdHS1IteWZkUk5PQ0EwNDhwTEViYUVCQXpGaHg3YXQ4TlhoRnpZMHprOHhkTDNXNDJUSmNnY2xiaw?oc=5",
+      "source": "cnbc.com",
+      "published": "2026-09-13T13:38:23+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "New report of attack on Strait of Hormuz shipping fans fears of threats to oil supplies - L'Orient Today",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUl9jNTcwQl8zbHJ5cHVvY3NjcVdrSTNoOS0wSU9ROG5jenZaRUVlbHE1cjRWdXhXbGFHcS1BLTR5TDFzd3dtM2tTalJqQ1JyVWlsTWsyRDBEVGtVWjJHMzZ5a2FNYVhOdWQ5MDhDeDRxVHNSdjE1aG5zUDd2X2FfUVNRYU54SjlJdTdrdWlMWng4TnlXVkFBb2tmdmpfbUFVaUFOMUpzaGprLXN0cFhKUXRWU25xNGthTFBTWDJYWDRFdnh1SGtxbnVYc0Z1QnhsQlNWUUFxVQ?oc=5",
-      "source": "L'Orient Today",
-      "published": "2026-09-13T08:30:31+00:00",
+      "title": "Strike on Iranian cargo ship in the Strait of Hormuz kills 1, Iranian media say - washingtonpost.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSlcwWnFPR0p3Z3ZMZW8xN1ZhQUxfaVE5UmdRTm5nWDRLNDlYLTV0cl9QRXRyMlF6VEdVc1VmcDBjMWRrTmh5WkdZdm5BaWJjRUVyY2JkZGhNeTJrTGpGYWtIeDhHY2hYdTZJQmZPaHFuam1kTHZtT081ZTJwQjN3eTdocGJFUW1KY1pjSVpTRzlTbm56UFJNZGkzTU1BcWJaRi04UG4zYTF1QmZsTkFPTll4N2JZT184Mk1CcDVyeDRDdXNy?oc=5",
+      "source": "washingtonpost.com",
+      "published": "2026-09-13T13:35:51+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Tanker on fire after Hormuz attack - Seatrade Maritime News",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbnFscm8zZUZHRnVMUE5rS0hfQUwwVmRhQXpqX0Q3SlN1M0REbHBBTFREUExBMC1GQnhJZkluNC1zLXZqTTZMNktCSmZSdzVYdTVWSmliUEFKOWdiRWNzd2k4QWFzeUFvRlowYi1lWm1KWUZfTVd4eEFWSG9fTnhJeXBodw?oc=5",
-      "source": "Seatrade Maritime News",
-      "published": "2026-09-13T08:24:25+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Live - Iranian vessel struck near Qeshm Island, killing one and wounding three - Iran International",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWUkFCaXFNOVJFN2ZucUJZTEIyTW1YS2owX21jVGhhS2V4VFlLVXRvdkR5aURSZmlTX0hSRFRQeGlrNlZqWGRnb0hMb2JJdklBQzIzdlctdERIc2RPSUE?oc=5",
-      "source": "Iran International",
-      "published": "2026-09-13T08:24:04+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "An Iranian commercial ship is struck near Strait of Hormuz with 1 dead, Iranian media say | National News | 2news.com - KTVN",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWjB4V040dDhpeVVlNTR2WHlneXFHY0h0a1MzZFd6bWdpd3daRERka2FLcVBzdGZCSkF1eS1IOW56VlFrRWVoZ3NCd2oxMlJJNTMyUXM1WXhubGV6R3k3VzVUYkYyRVZJOWFtbWVrczZ0LWFjQTg1TlFvMlhuVVRIWm11TjdKaGpMUkJQWW0tYWlxWDVyd291UGxuazhZR1BSeldidHdrN1hmeTNWWFQwSHJjSnNHSTB0c2ZvOTlGMzY3X0pXWnlvQmxrYk5seWdGZTlxN2hkWEpHejNWazdPRDRZZ2pCNTQzMzdqcXZnVDBtVnVCU19FcjQtaXQ?oc=5",
+      "title": "Strike on Iranian cargo ship in the Strait of Hormuz kills 1, Iranian media say | National News | 2news.com - KTVN",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdVRFdUZBLW9VNTQyNk5aT21McU95bmdZSnBJcUhfX1NKUXFGNEVqTEN3UTdMMHU3QUtOS3ZaRndkM1Bvc3o3MGg1aldzX3NPZGZhYU9oOEo4UjdCTVQ4N0EtajBGQlVWT3RheFo3U0hQVGRUYzAwXzhZYzBlMjlpV3lJSkhKQURCT3dmT1N2MGRMZDIwdUV6dmpSdkwtU3dLel9LaDFmLTJIZGxCX25jYUg4Nkh4ZmR2ZzZaLWlvUHhBRlFMLWF2U0RLT01kdDRodUtqNXZCVVdFaUtlUFdkN2N2Sk1CSjNpNF9QMWkxelQ5UUJG?oc=5",
       "source": "KTVN",
-      "published": "2026-09-13T08:20:37+00:00",
+      "published": "2026-09-13T13:22:58+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "An Iranian commercial ship is struck near Strait of Hormuz with 1 dead, Iranian media say - AP News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMG04XzJlaFg3N0hjVGVucURCODFNSFJKYkdZaHY0aWZxMWJCXzlPY1pGOUNrWHRhWkc3NnJXQms3X1ZxaHBxOTBHTUZVNUFWWXBJV0hLcG9PaEg0Nm9VaTQxbVNfallyV0ZhVzlfMGpqaWMwLTV2ZmYwRGZYNm9EUzFLMnMzZkREbzRlR1JqR0tBd1Fs?oc=5",
-      "source": "AP News",
-      "published": "2026-09-13T08:20:00+00:00",
+      "title": "Iran Says US Strike on Commercial Vessel Near Qeshm Kills One - Kurdistan24",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaEVDS045WkotM0JkYkFXSzFXUkthNzVTUkxXSjdGTWpJQnBkeHhILU1ubTc5TzJCd0wzQ3NjVlR2X2cxNk8tQVFiSlRkX211cmZPYlZWaVpQa2NBM1h5QUxzbU53Z2lUYUQ4cDNzZjNOcnR3b3dreS1ZR3NFemFGX29HLVUySXBZV1IxcWRTV2paQk1KWUNEUmxaWDZHTktEOGFMRkVZVHQ?oc=5",
+      "source": "Kurdistan24",
+      "published": "2026-09-13T12:57:00+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "An Iranian commercial ship is struck near Strait of Hormuz with 1 dead, Iranian media say - Audacy",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMUxGSEJOWHpXSW1WTzVmYnN1TzdrM2VZOURaem5nMW5nbmtnWElIOEZaU3ZXdWJfV2xxYlpqNDloSTZmT3ZzNWdhb2IzR3h5MjJJRXczRnNRUzRjQVdGUFlsNVMxU19FQlg2RDhtcDJmTjRHZ0dsRWFDREZHVnpFV2RqckloQmVuWDdxc3Z2SWRnYUhrTHRyTjg5dFJ0VFNtWk9kTXJ3QVVxc0U?oc=5",
-      "source": "Audacy",
-      "published": "2026-09-13T08:20:00+00:00",
+      "title": "Iran reports commercial vessel struck in Strait of Hormuz - kpax.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRGtZcnFQRjJMb2l3TTBVU0x2NjhaRnYzV2t4ekFaV3d4MjI4MS15ZjVPYlZLUEUwSGVKM05xRVk0MEhLX0FucXpsdkhlZkFnVVZzODFkSDU0VW4yWE9PM2xCVklqZnlvVnFuaG1JQm4wWDVxN2pTcE9iMmNPa3BYb3M0dUVLeFpxN3hkLXpEQjdPenBiRkVFeDZEbw?oc=5",
+      "source": "kpax.com",
+      "published": "2026-09-13T12:48:58+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Iranian Ship Struck Near Strait of Hormuz, Killing One, Iranian Media Report - Haaretz",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPRVk1UU5FbVZoLWJOYjZrdGVBN2RBX2Mxd2pUQnpIRXBoNFVlSWNSWW03MFdsUllDSVhfV1B4aTBPQ2RobTZzMndWWU9hZVBNV0RtUThkRkwyV3B0Nk1DNTkzaUVkZTdGYmFQRGlpTFIwMUFsWTRONmh4b0huQ2xtS0w1Tndkemh3M2VuRmFMOE5CSU5LYnZ3bEdDaXlZLUs0dU1nWHM2VEpVWG0xX2RCb1NmQ0tnX0xRQ2Q1aE9VcWxjRHMtSXdrYjdpZ1NFNG52N0dUUi1RWjhCZm9TbE84ejM5WUJ2THB2VGRLalNrQl9LU3Y3Rlg4aWYwVUI1Z09tVTAxbUdCdmwzMHM?oc=5",
-      "source": "Haaretz",
-      "published": "2026-09-13T08:18:00+00:00",
+      "title": "An Iranian commercial ship is struck near Strait of Hormuz with 1 dead, Iranian media say - riverbender.com",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yRGo5YV9qX3N6Qm5mRWJXOUtKQWVxcTJlWHFtalJUZFNrNXV1Ym9tenRycG5acXQwVFpCMHEyWDBIVjMzbVByNGpWWnBSMEhXYWszbUVXUGxraDUteWphbmd2RmFHQQ?oc=5",
+      "source": "riverbender.com",
+      "published": "2026-09-13T12:33:45+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "One dead after commercial ship is struck near Strait of Hormuz, according to Iranian media - NBC4 Washington",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQelFIUWZUZGJ6eXZjMFljV0o5QWk3S0FzY0Y2RWNyQnZRRV9iYmdLaVhaV0VxWVJmNkp6UlRSMFZaTG8zMjJJUURIdGtJV0llSGxkTE9yUU1QQVFMRF9uTDlnaUtRMFNuaXJYd01rTGY0TjNZbHY1Rzh2c1hDaE5YcHRqaXlPUDRBOUVqSjVHZzJPaDU3RWQ5ck9MYXFSVTlaV3ZtcHlaaHJvUVpDRHBqeU9PYXo0REFxTk5jdkl6ZG9samw0S2E00gHPAUFVX3lxTE1iWUw4d25TdFZJTVdGWmJmUWZnalgzZkU0WFRScWdYSUR3dVotWU9tWnFZdWRpLVE2NjRVbUVJSkZnb2FyUEtfV0RjLXdBVTN0aGNiNFJzWEsxdDd0M0JzMDRSX0RpbnJvamh1N2tZQkY4OG02QUxrQ201VDFIRVBjNUE2T2kzSU90Vl9WSmFvS3FBeHI1R3Y4V1V1cmlRY3Z2WFdfSjdzRHdjYzdIZHFXNDkzdVFkTGFRZ1dFWm5nVVV2RXJ3NDMxYnc2dnpNVQ?oc=5",
-      "source": "NBC4 Washington",
-      "published": "2026-09-13T08:10:31+00:00",
+      "title": "An Iranian commercial ship is struck near Strait of Hormuz with 1 dead, Iranian media say - The Courier of Montgomery County",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaFNNMlRGVnNZRml3WmE2TllveVZqRDM2LVpsdDdOd2F0NWJyd3dNUFFoaDF6QlE2cVIzZXY3cEdNT0tIaG5TbjdmOWRTb2hXZldqajR5WVpkMm1sTEh4eWFNV0ZySUdCQjU2T2ZMNzFocmtsLVRpQ2hpbEE5aWw1anV0dlJjX0I2OExzeWM3aDQ5azc2UGkycUd6QmQ0WnlxaklpbW5OWTRyYWwxOFBmMA?oc=5",
+      "source": "The Courier of Montgomery County",
+      "published": "2026-09-13T12:33:30+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "An Iranian commercial ship is struck near Strait of Hormuz with 1 dead, Iranian media say - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd0pCWW9XSXdwYWZBOUtnUFNfMDZOV1o5MmM5S3ZyWkl1eWVQRDBtUTdpWEZSWHNPdWtkQlMybngtV0lDN1lyNk5UaldDSjdYZWhuTm5BQlkyb0VxZVcxU0VQNXZWUFNGRHJ6VDgzUkNFdlNkOEZPNzIyRDB6amtlbVNHQ3BCLVBuYzdpcWJkMzZ4b1E1bGVyZ1R30gGfAUFVX3lxTE5jckwyX2ZaLTkzbG5Yem41RnNxbXdHYkpWVTh1TjVjdFB5MmRnNU54UjZ4aHRlVVBGMjJpMWJHQXRaeUNtWmc3Qk9reXZQbWZyWmIxUkNxWXJlSjBJeXg3cGJPRzJOcFdjc2o3UVhzdkRMNm5xRkN1dE5MdTNGT21YTTNhM2QwM19xWHRZN0d0OE16NGV3RXo4U3NqS3JMaw?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "published": "2026-09-13T07:55:16+00:00",
+      "title": "Merchant Ship Attacked in Strait of Hormuz, One Dead, Three Injured - Ratopati",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZUMtVFdLUFBaSUVvaUo1dlQ2NHZ6WmJ2eXpKTWhEMWJPRjBKUGRELXItVmllWWNIVDRTNW5Fc2hIbGM1V3l2VTFIS1l5VXJmMGw5X19mN3dDOWlyVF9LZGx6NVlsWHNwZ3l0Q21NV0Zkbm1kMG1TSXdQN20wdFhNUg?oc=5",
+      "source": "Ratopati",
+      "published": "2026-09-13T12:26:45+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Strait of Hormuz shipping attacks fuel oil supply fears - The Canberra Times",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWGl3TExtNDhYaVRWTWlhS1RmS25qYkxzb0lWc1d1d0RwaURqMkJGOFJYWm44Rnk1Uzl1YUlKVjVITVhjS0ZYbmpDRmtkVlJMMUhXWjg4UkVDT3NNVVFoMHpqLWtld19sdENHWFNVSldhNjY5OWlUN1BkX3RTNTR1eTFWMTlIRm1Tc1dlYlplaC13ZUN3RTd0LXR6UjJ4dE5RQnNtemlR?oc=5",
+      "source": "The Canberra Times",
+      "published": "2026-09-13T12:22:30+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iranian commercial ship struck near Strait of Hormuz, 1 dead, Iranian media say - The Boston Globe",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYWVneXhpUFZGVVZGVjZsMHhaSXB3eEFqM3lfWjU0eDZ5UnNtZXg0aXgzQm1YdDVmZkJFWGk4R3RTRGNlb0k4RDY5OFdGUFFCc1NoV3l6MWphRmlQem80ZWVzQXFPaUp4OTFKMDVIRjg0cFNadjBQNlM1Wk1EMGZWc29lcG9Va1pUVXVHZUhKVTBvNEVrLTZYeUdtbXI1MFZmeTJ0WDJQd2U?oc=5",
+      "source": "The Boston Globe",
+      "published": "2026-09-13T12:11:15+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iranian ship attacked near Strait of Hormuz: Iranian state media - thehill.com",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTTRXQkJYVGtQWlNfRGFWSHNoeWdDamdLTndGRENXclhCendBeTVGYVZlWHVXbWo4YWxwSFJ6VHlQOFlIbHl4Slhha2dOdFBSeF9PQ1Vobi15Y0RQcHdIREdOT2tWTkUtSkFaeW1iejIxa0ZwSzBHREF2aUNBQXgyWm8tQ2NDdDlRTlHSAY8BQVVfeXFMTi1pZUNYX3J5bGIydm1xSFJKbXZpdF9uYTI1X20wcEswcVVYSUNaQ1JKamlMUFIwSTBSRER2QmpxcFIteXdWR3M3TE9iVjRWbFdPaG1QcU43RlVCRVpwa3ZiSmhxM18ybjNZSm9OMWhBaUtQM0dUWXI3NjEwSzlLVEg2VWRiTkVHMS1URGhWMXM?oc=5",
+      "source": "thehill.com",
+      "published": "2026-09-13T12:09:00+00:00",
       "score": 3.0,
       "tags": [
         "tension"
