@@ -1,26 +1,56 @@
 {
   "status": "ELEVATED",
   "label": "Elevated tension",
-  "tension_index": 165.7,
+  "tension_index": 173.3,
   "closure_signals": 0,
-  "articles_scanned": 235,
-  "updated": "2026-09-13T17:48:51.161152+00:00",
+  "articles_scanned": 236,
+  "updated": "2026-09-13T20:05:25.526967+00:00",
   "headlines": [
     {
       "title": "Navy SEALs used robot boats, night dives to clear mines from Strait of Hormuz - NewsNation",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX0xQZWk5T05ESFB0b0tDWjZjR3BOUHV3MEpod2MxdTQ5c0I1ZU9FOHdyQWtHRk9rb2ZrYzdmaXZNVmdzN2RaUFZDblk4SXFzcWtqdFA4ZFVsakpZRzRISk9qb2NzY01RU09mTkc2SzBNemE3dkxFSUpMMlZ3UXJ4UTRTRENnMHVRa2RNWGMwUHZ0aFFO0gGaAUFVX3lxTFAyZm94bTluUkdMaVJub2JSUmoxb3pOTC13OG9oMllqemRtOF9kc09GWEM2VU1VZi1KcjYzZUZiRnJudXNGeXdLbTNGSmtuQUxIQ3c2SGtnRkNJYzlOdGZYWHdhRlo0Q01Rb2F2em5mUG1XV1l0d2dpbTNmQTQ5WmFBYllobnZlLVVwbWN4RDNOMEF5c3lLOVh2WlE?oc=5",
       "source": "NewsNation",
       "published": "2026-09-09T15:40:45+00:00",
-      "score": 3.53,
+      "score": 3.45,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Strike on Iranian cargo ship in the Strait of Hormuz kills 1, Iranian media say - WHEC.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaTZfMU5HTElEb3ZUejllUEUtQ25RUzdheGltRTd2eTJVdXVHdUJ6ZkkyYUZCOXliZFdQZkNnaDhDc3EwVmVJQ2tqVExmMG9tSjE4ZFFzV083eE93ejNDc1B4aU5DUG5zZk83X242bEVnSndfVWViNjdOZnItRTNwcmFrRkx3dkFiempfNmRQWWQ2VWNOWTZYekVJM1lGZEM0cGx4elBGNnpFV3N2b2w5SHpB?oc=5",
-      "source": "WHEC.com",
-      "published": "2026-09-13T17:15:00+00:00",
+      "title": "Iranian cargo ship is struck, and talks between Tehran and its neighbors are postponed - AP News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMG04XzJlaFg3N0hjVGVucURCODFNSFJKYkdZaHY0aWZxMWJCXzlPY1pGOUNrWHRhWkc3NnJXQms3X1ZxaHBxOTBHTUZVNUFWWXBJV0hLcG9PaEg0Nm9VaTQxbVNfallyV0ZhVzlfMGpqaWMwLTV2ZmYwRGZYNm9EUzFLMnMzZkREbzRlR1JqR0tBd1Fs?oc=5",
+      "source": "AP News",
+      "published": "2026-09-13T19:40:00+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iranian media say 1 killed in ship strike on the Strait of Hormuz, and other Mideast developments - AP News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcjNIT1RidThMRGRHRnBoLTVUM2RPd2dtdm81a1N6cW9SNlB2SFlnaXhYMU5LTVluWnc2TlZfcXlmX2JBM21MdWFVQjl4YTF1WUhJeXBYdWxHSm5tRWtWbzEtQnE2aVdpWXFib0FaRFJycmdmc3RBOTk3V2pRWnVJQkdsWDAwSkJzOFMzcjRDSWIzdDhMU0FqWkxUOVVKNVBUSzRNVzRVUQ?oc=5",
+      "source": "AP News",
+      "published": "2026-09-13T19:32:00+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Strike on Iranian cargo ship in the Strait of Hormuz kills 1, Iranian media say - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLTVzZzRZMzZfdmszZTl1VC1WYjNEZ2Q4MnlUSEVkUDZ4aE1xMVVkOHlNWkRvcDFtc3JyenMwTFMzRUhlVUtybUpvMTJyWVQ2SmU3VGtlTUZybW9JRklydWFGMVN2SnJJM2ROa044MEdmQnV1aXBabUdfcnNiMGsyeFRqVzlXSmNOSUUyUTRySGR2aW5vVnFva2hQMUl0cUxIaVI4aThBRURzX3MzcU1Vdm95X21WVkJNM2J1WXg4azJBRV9uMmtn?oc=5",
+      "source": "Los Angeles Times",
+      "published": "2026-09-13T18:14:10+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Strike on Iranian cargo ship in the Strait of Hormuz kills 1, Iranian media say - PBS",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU2hYWmdva2V3NEk1N3dkZjZJRTNnR0stWDJaVzlfMHB3enRFZU82cUtpc1M2eVdicU0zb2ZmdHNKU2YzZ0RZbjZRNTJiM2V3Njc4ZzJnbHpOWFhWb09pNmdxT3lyY1d1QUVBSVN4TmIxVXZ2RUZUY1ItRjVDbnNrZXRCSjdWR0V3VDJZSWc1ZUF2MXBzSEJFWmdSNnVGNDdDZXdBNjlicU93YTRrRHZNbUdfONIBuAFBVV95cUxNSXhjaUlrblFqYXZhR2VCYTJ3RFdRbVkybkhZNko2dnptZmM5MjljbzNnY1ZlVUhhemNKZ2tNalgwWVM2Q2dVamduSlJnQ2lhVEo1RUY0TG9TYlFNUlp3Sm85WmJkYlh4OWQ1TFNEQXFZTkZxM3JQREtTdElxWkxJZ3Q4V3BzeDN5bURNcnVYM0RjMUVnQUxtOHNabWEyNG96WXBtdU1fcDFqMGpuOUdpQVBjNnFibzNT?oc=5",
+      "source": "PBS",
+      "published": "2026-09-13T17:58:51+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -37,20 +67,30 @@
       ]
     },
     {
-      "title": "Strike on Iranian cargo ship in the Strait of Hormuz kills 1, Iranian media say - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSlcwWnFPR0p3Z3ZMZW8xN1ZhQUxfaVE5UmdRTm5nWDRLNDlYLTV0cl9QRXRyMlF6VEdVc1VmcDBjMWRrTmh5WkdZdm5BaWJjRUVyY2JkZGhNeTJrTGpGYWtIeDhHY2hYdTZJQmZPaHFuam1kTHZtT081ZTJwQjN3eTdocGJFUW1KY1pjSVpTRzlTbm56UFJNZGkzTU1BcWJaRi04UG4zYTF1QmZsTkFPTll4N2JZT184Mk1CcDVyeDRDdXNy?oc=5",
-      "source": "The Washington Post",
-      "published": "2026-09-13T16:35:51+00:00",
+      "title": "Iran hardliners launched Hormuz attacks in defiance of leaders, undermining US deal \u2014 report - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdlkzMURJenNLaHJ2UjNTM0luS29zdXgxNnBDbVdQTDV5djNSd216SllwNU1TU1ZJVlhNT3hjSnVna2FDdVRIYVlPZHdvY1hlbUg4dDZkUUh0SzcycjBYZE1waXNYeDhCUmV5U0JGTVZBdklkcEpzVjNfYm5zT0VIQnVEN3BvSDRXb2tMeXhhRVVzdk44MllaVnR0b2pPT2NBTVQwUExfMVl6bHVWZEV6R3g3OWtLcWlySEpsbNIBwgFBVV95cUxQNnhDYm04b3RlNzlqZTVROWRfUHd0V3huMVVmMUZyMXRFMVhWcFFuSEtHcFA0SHplY0ZVeGZJODJpVU01cnRtbnBsZkowSGtocnRVUnk2eFhQdUZnV0pNYUtMNHdmeDUxamVoR0VIMHdvTFVqYkpiZjFZUElBRnNURW8tclJ1RWZleTRJRGhqTnlMYmVVdnludm9SbHl4MnhFNUx0UmY3YVNFUUtmT043emtaT0pfMy1aWlJJb0xyVGVHdw?oc=5",
+      "source": "The Times of Israel",
+      "published": "2026-09-13T16:16:09+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Iran hardliners launched Hormuz attacks in defiance of leaders, undermining US deal \u2014 report - The Times of Israel",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdlkzMURJenNLaHJ2UjNTM0luS29zdXgxNnBDbVdQTDV5djNSd216SllwNU1TU1ZJVlhNT3hjSnVna2FDdVRIYVlPZHdvY1hlbUg4dDZkUUh0SzcycjBYZE1waXNYeDhCUmV5U0JGTVZBdklkcEpzVjNfYm5zT0VIQnVEN3BvSDRXb2tMeXhhRVVzdk44MllaVnR0b2pPT2NBTVQwUExfMVl6bHVWZEV6R3g3OWtLcWlySEpsbNIBwgFBVV95cUxQNnhDYm04b3RlNzlqZTVROWRfUHd0V3huMVVmMUZyMXRFMVhWcFFuSEtHcFA0SHplY0ZVeGZJODJpVU01cnRtbnBsZkowSGtocnRVUnk2eFhQdUZnV0pNYUtMNHdmeDUxamVoR0VIMHdvTFVqYkpiZjFZUElBRnNURW8tclJ1RWZleTRJRGhqTnlMYmVVdnludm9SbHl4MnhFNUx0UmY3YVNFUUtmT043emtaT0pfMy1aWlJJb0xyVGVHdw?oc=5",
-      "source": "The Times of Israel",
-      "published": "2026-09-13T16:16:09+00:00",
+      "title": "Iran reports commercial vessel struck in Strait of Hormuz - KOMU 8",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQTYyS1Q3RmJyWmt5ZjlELURwUG1BaS1XYnJUU1VQX28ydXRnaUI4YkxzM1ZBYmhDbHFId3BLOE1EcTJ2LWZUQUc0Z0d3SmVodi13OVRoWHhuSGNxNmNtdjVvd0RRNElQSW14bXRjS1NyMHdyTU0wSmprMGQ4VVU0dlU3OWxNRWxUM1l5bXp1QmU1MFNKTnl1ZHdsRXBaOUt5My04d05LWl9ia3pVbnlyQ21UZVRaV0Q5MEhkRjJjSmRFTzFKYmdrSTNGU1k2ZWlsNU00aVBDVk80Z3RnUGpYdkU1UdIB4wFBVV95cUxPQTYyS1Q3RmJyWmt5ZjlELURwUG1BaS1XYnJUU1VQX28ydXRnaUI4YkxzM1ZBYmhDbHFId3BLOE1EcTJ2LWZUQUc0Z0d3SmVodi13OVRoWHhuSGNxNmNtdjVvd0RRNElQSW14bXRjS1NyMHdyTU0wSmprMGQ4VVU0dlU3OWxNRWxUM1l5bXp1QmU1MFNKTnl1ZHdsRXBaOUt5My04d05LWl9ia3pVbnlyQ21UZVRaV0Q5MEhkRjJjSmRFTzFKYmdrSTNGU1k2ZWlsNU00aVBDVk80Z3RnUGpYdkU1UQ?oc=5",
+      "source": "KOMU 8",
+      "published": "2026-09-13T16:00:00+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Live - Trump says Iran war could end around midterms as Iranian vessel struck near Qeshm Island - Iran International",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWUkFCaXFNOVJFN2ZucUJZTEIyTW1YS2owX21jVGhhS2V4VFlLVXRvdkR5aURSZmlTX0hSRFRQeGlrNlZqWGRnb0hMb2JJdklBQzIzdlctdERIc2RPSUE?oc=5",
+      "source": "Iran International",
+      "published": "2026-09-13T15:40:05+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -67,6 +107,16 @@
       ]
     },
     {
+      "title": "Container ship attacked in Strait of Hormuz; 1 dead, Iran says - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVWNsS09WNTg2OEZEdTZsTG12VXZ1RjZ4M0lBd0ZFM25Ka1dqUUJWRUVOYWJ0UTF1TDZHaWlJazJxaEdIdTdZOHN2ZDBoYkx4TFRRZmJHVnREcHNLTmtoNE1fQVpJVHFTQmJVd2o3dnZ4UEtMZ21zMkw3RmxoMWVRVTREZnJVcFZBWTZEZ3Z4NVU5Vms0YVpaV2RB?oc=5",
+      "source": "Yahoo",
+      "published": "2026-09-13T14:25:29+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
       "title": "Strait of Hormuz strike kills one as West Asia violence flares - India Today",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOX0wxdFFFVVZpQTVBVWluZHh1ZGVCZ1F3bU9VNURhLU1rTEktbmFRQV80MTFYcV9VTURKTE9WMkMyX19OZXc3VkloOE9IY0tndU5xSTlfWUdHRTNvNmpnb2VTTXlBWndKd3FySERvUnpQakFKNUdyMDB6YkVHY2o1dlNLcUdLWnhKcjJPWE4yVVhZd0Z3M2dDeVpXVUJ0WFZSLXVwODl3VUpCQlJkWFRlY01XaUx3TFMwM0ctd3o1MHBJR0I1clJtWDlIcUI1N1NiOGR1WlRiTEJJeVF3S1HSAd4BQVVfeXFMTl9MMXRRRVVWaUE1QVVpbmR4dWRlQmdRd21PVTVEYS1Na0xJLW5hUUFfNDExWHFfVU1ESkxPVjJDMl9fTmV3N1ZJaDhPSGNLZ3VOcUk5X1lHR0UzbzZqZ29lU015QVp3SndxckhEb1J6UGpBSjVHcjAwemJFR2NqNXZTS3FHS1p4SnIyT1hOMlVYWXdGdzNnQ3laV1VCdFhWUi11cDg5d1VKQkJSZFhUZWNNV2lMd0xTMDNHLXd6NTBwSUdCNXJSbVg5SHFCNTdTYjhkdVpUYkxCSXlRd0tR?oc=5",
       "source": "India Today",
@@ -75,60 +125,10 @@
       "tags": [
         "tension"
       ]
-    },
-    {
-      "title": "Vessel struck in Strait of Hormuz, UKMTO says, as prospects for U.S.-Iran diplomacy appear elusive - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwTGlJOEZRVUpiWERhUm51WWZwRDRWVXlnVXczV2pQOGFnY01GUklBZTg2MHc0SU8xbzlYWjlRWFdxMFBKYkxPVy1TRUdXcmdBS3RxZmtsZnpGRG5rSjRobU9BNVY3cUlHNEMtOFZaVTFMRldydlcwSEZHbTJZUdIBgwFBVV95cUxOeF9MeDRhaEhUVXdqZ2ZJdWhkVVFTSlRNWDFoSllFMno3bE5lVXVnaDhGZnA2RDRFSnI3SzRTdF9yNXB5SVp2d2hacVdHS1IteWZkUk5PQ0EwNDhwTEViYUVCQXpGaHg3YXQ4TlhoRnpZMHprOHhkTDNXNDJUSmNnY2xiaw?oc=5",
-      "source": "CNBC",
-      "published": "2026-09-13T13:38:23+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Strike on Iranian cargo ship in the Strait of Hormuz kills 1, Iranian media say | National News | 2news.com - KTVN",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdVRFdUZBLW9VNTQyNk5aT21McU95bmdZSnBJcUhfX1NKUXFGNEVqTEN3UTdMMHU3QUtOS3ZaRndkM1Bvc3o3MGg1aldzX3NPZGZhYU9oOEo4UjdCTVQ4N0EtajBGQlVWT3RheFo3U0hQVGRUYzAwXzhZYzBlMjlpV3lJSkhKQURCT3dmT1N2MGRMZDIwdUV6dmpSdkwtU3dLel9LaDFmLTJIZGxCX25jYUg4Nkh4ZmR2ZzZaLWlvUHhBRlFMLWF2U0RLT01kdDRodUtqNXZCVVdFaUtlUFdkN2N2Sk1CSjNpNF9QMWkxelQ5UUJG?oc=5",
-      "source": "KTVN",
-      "published": "2026-09-13T13:22:58+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Strike on Iranian cargo ship in the Strait of Hormuz kills 1, Iranian media say - Ottumwa Courier",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOUVdnWUJQd2MxNGF0ZUtOekhUWExnV2twYU05R0JiVWFueXA2d0hmaDA0ckRoV0xTVEdGdHR0bVpaWGh0dnAwVFpmOEFZZUJ3bUduYWNJVmlVMnhyWnJHZjM3bDdqakNJWEt2UGY2MmpYUVJZcGtwMk04eVJwemdFVE5EajJlZEZjWTdSVWdoWVluYkJPSXhXTUlLUVJCR0ZjR1VXM1luTV9lUks0YXNheWxzalZhYXVuZ2xhODZyNTFKNWZRaDhwOXoyc3l6MWdfeUU2TjYtR19kYmhUR3hrLVZPT0J6bzNMZnpvZDVldTFaaWlwcmRUSTBSLU9yVU5HWG80ZUxFRE9nZw?oc=5",
-      "source": "Ottumwa Courier",
-      "published": "2026-09-13T13:22:58+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iranian media say 1 killed in ship strike on the Strait of Hormuz, and other Mideast developments - AP News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcjNIT1RidThMRGRHRnBoLTVUM2RPd2dtdm81a1N6cW9SNlB2SFlnaXhYMU5LTVluWnc2TlZfcXlmX2JBM21MdWFVQjl4YTF1WUhJeXBYdWxHSm5tRWtWbzEtQnE2aVdpWXFib0FaRFJycmdmc3RBOTk3V2pRWnVJQkdsWDAwSkJzOFMzcjRDSWIzdDhMU0FqWkxUOVVKNVBUSzRNVzRVUQ?oc=5",
-      "source": "AP News",
-      "published": "2026-09-13T13:22:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran Says US Strike on Commercial Vessel Near Qeshm Kills One - Kurdistan24",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaEVDS045WkotM0JkYkFXSzFXUkthNzVTUkxXSjdGTWpJQnBkeHhILU1ubTc5TzJCd0wzQ3NjVlR2X2cxNk8tQVFiSlRkX211cmZPYlZWaVpQa2NBM1h5QUxzbU53Z2lUYUQ4cDNzZjNOcnR3b3dreS1ZR3NFemFGX29HLVUySXBZV1IxcWRTV2paQk1KWUNEUmxaWDZHTktEOGFMRkVZVHQ?oc=5",
-      "source": "Kurdistan24",
-      "published": "2026-09-13T12:57:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
     }
   ],
   "brent": {
     "price": 104.61,
-    "change_pct": -2.81
+    "change_pct": 0.0
   }
 }
