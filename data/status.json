@@ -1,17 +1,37 @@
 {
-  "status": "DISRUPTED",
-  "label": "Major disruption reported",
-  "tension_index": 186.0,
-  "closure_signals": 2,
-  "articles_scanned": 231,
-  "updated": "2026-09-14T20:42:19.681344+00:00",
+  "status": "CLOSED",
+  "label": "Closure reported",
+  "tension_index": 176.8,
+  "closure_signals": 4,
+  "articles_scanned": 228,
+  "updated": "2026-09-14T23:38:43.092178+00:00",
   "headlines": [
     {
       "title": "Breaking: Iran Sets Seven Conditions Through Mediators | Strait of Hormuz Closed | Middle East | GTV - YouTube",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQRHVyNFpZb3JlSThDVU52MS1FM2czMU13MW9YTUUtS2hIRWczSmVJQ0g0aHNHMTJ6NlNIMWdhUjBaR0VwNlJ3QlFwVENzQ2VpV2JCVnNPV19vTW1R?oc=5",
       "source": "YouTube",
       "published": "2026-09-13T04:57:41+00:00",
-      "score": 9.13,
+      "score": 8.96,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iran's IRGC says oil tanker explodes after hitting naval mines in Hormuz Strait - Xinhua",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTTTlFZngwdTdXb0hBNExsNFRuS2t0Y3h5SzhaWDNReE9OUldJOHZuRHZLckFRR0xJc3dDZlNCMVNhQ093NHFZVnR3VzQxVDk3dzZhV3pRcXBFTDRCLVdaci1PUFEyRm9LOF9ISUxwOWRHUU9UM2NRTHJJei0?oc=5",
+      "source": "Xinhua",
+      "published": "2026-09-14T21:09:15+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "SuperTanker Algaya Hits Naval Mines in Southern Strait of Hormuz - WANA News Agency",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYzJmenlaNkh1VWI2RmdteUtLMDdDOHNWVWJOakp2X3FEblVTTmJGOHQ4RUNhdkhiZ0Jsd3pzR2o4SnJiRmZ6dHdOS24yNHdfTTc1UU5LVF9YSnZkSzFWeGdISUNPVlVXNVFneHBEUFNQVlhteTdzSkgyT3h6SnN0NnFfZEo4Z1A5b1FuNw?oc=5",
+      "source": "WANA News Agency",
+      "published": "2026-09-14T19:48:10+00:00",
+      "score": 6.0,
       "tags": [
         "closure"
       ]
@@ -27,11 +47,21 @@
       ]
     },
     {
-      "title": "Iran says it destroyed U.S. advanced drone over Hormuz as Middle East conflict intensifies - cnbc.com",
+      "title": "Iran says it destroyed U.S. advanced drone over Hormuz as Middle East conflict intensifies - CNBC",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVFU1OERQaW5PLWR6STV5TEE2NjZqaXhsZmItQy1yUXlFNnBtam9sM09EbTFzUmYwVEpqLXhYNHZyWThheWNUb1ZJbFB3Z1JhY3ppNElYNFRtbnVxcVJWRFIyb1RwMUVhTDRZdlRLRmw3UHNORHRjVHJndE4tN3E2VndXbE5CZ9IBiwFBVV95cUxNQUxLdTB2b0RST1RCQUx6Zk84Q3psbDctNV9tT2x2SEMxZ3lVVUo5QWpneEhUaXU5UWNoNHVlOUlLampoOWwxN3lvVXlwbVY5b2hEdC1HalF5SlRNWi1ZVVRXQ1pGWkhGaXMwWFVnLTdXbUtVdFFtLXdxdjVUVGdqYTlqUWw4TFpFVzZF?oc=5",
-      "source": "cnbc.com",
+      "source": "CNBC",
       "published": "2026-09-14T03:01:00+00:00",
       "score": 4.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Houthis attack Saudi Arabia as Gulf-Iran talks are postponed - Al-Monitor",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOam1oR3lJUzU5R2VwNENQbHFIX1J4QlduNDhJcGsybW5HSy1rQkZaQlFPa1NjbVkyWDV2OFBVVUdTUnplYnIzYzhSdDA4YUh1MzM2NmFjc1JsLVBQV0NSOVBsbnVBci1WM015QUdHcEZMQ0hKWFlpX2kzalJseTk5cS0xX0l2WDA0REhzUER5YkNvbDhFOGVYTFpqMkZKdWtPY1J4eA?oc=5",
+      "source": "Al-Monitor",
+      "published": "2026-09-14T20:47:31+00:00",
+      "score": 3.0,
       "tags": [
         "tension"
       ]
@@ -47,10 +77,20 @@
       ]
     },
     {
-      "title": "Yemen's Houthis attack Saudis, seize crucial Red Sea islands - dw.com",
+      "title": "Trump says Iran wants deal as Gulf talks delayed, Houthis strike Saudi Arabia - Al-Monitor",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWnVHVFdaVlczaVBoVkY0b3NHTU1lV1hteDlBeU1wc1RlMjRqdGY1NWNRUHp6b3FiUElQVnZGOVJYY3psUEZqTXhXUjZPNnpfNDkzcmpvMDgyNUQzQzZkTkNQNU9LNnA3WHVjX2xKNmRHSTRGeDIwSlJ6MXVBUHoyVDJGdEZocGZPTWFMeUtKdzc3NVpTWXEwWXZjQTNsdGNkRGtiZU14eGVUcEdMczYyWlBEMkFwNkVQM2c?oc=5",
+      "source": "Al-Monitor",
+      "published": "2026-09-14T17:02:11+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Yemen's Houthis attack Saudis, seize crucial Red Sea islands - DW.com",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNakxzRnUyZzZ5dkJiNFlseXNIdFo3SnlPekp5RkJKUmdTWFNzYkxQLWJyNzFuOGlmWEgzc2lmNXM4a3JWb2J1ckRvUEgxbXlfcnFkcV9oLXY0bXNYQnRKeVlXNEZkckY0NkNFRDVKM0ZUeHZkUERFUFA0UVBxak1maGNSRWJrSFNESnVGaWgxWVREQmZVbWfSAZYBQVVfeXFMT0xiX1h4ZFZnZjBGQ3JtOXpJalNYeGhJTGVORTdGY2RqUlZmcmtDVkZGdVM2anhGQ1JTMTBPYTZOdHZKdFpjTnZjYW9LT1dtUm03Zklkc29mS09fdFZEQS1WeFdBZ2Qxd0tQWWo3eUc2QkZYc3RWWmw1d2xramtETjE1NGVJcGJpNGNodFgzVmV6Z1BFcGV3?oc=5",
-      "source": "dw.com",
-      "published": "2026-09-14T16:08:14+00:00",
+      "source": "DW.com",
+      "published": "2026-09-14T15:30:44+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -67,9 +107,9 @@
       ]
     },
     {
-      "title": "How Iran's regional allies' attacks in Yemen are compounding the war's impact on oil prices - cbsnews.com",
+      "title": "How Iran's regional allies' attacks in Yemen are compounding the war's impact on oil prices - CBS News",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSHhya01Ob2EwaVdodUgtaFRpWTBnOHlrWnNwTnF0bXdQMVJaVEx4T203SktTSzVkYzRRei1ZZFI2MnZvM2l3MkRBNmFya0QwS0NuNVVnaEk4U3l5TEYySG1yYkVSWGxEUnBBbllnZGpkYkc1Q3Y4cGhGcklYNjNlSkhZMGszQWg2STVRMkFLcUlMS2lVeFYxV3hFbw?oc=5",
-      "source": "cbsnews.com",
+      "source": "CBS News",
       "published": "2026-09-14T15:12:13+00:00",
       "score": 3.0,
       "tags": [
@@ -85,50 +125,10 @@
       "tags": [
         "tension"
       ]
-    },
-    {
-      "title": "Oil prices up over 3% following new strikes on Saudi, Strait of Hormuz - The Express Tribune",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTHNKZnBPYjlsclZUVUttWVBBeEdsWEJrbzlGOGZvUVN2c0JPREJrOG9KMkVZbVZ5UzYyUTJGYXIyem9YcjFWdGNRTWVwY2x2ZTlzb3BKaDdrbnpMMWNZbWk2Y2o2ZEo2NHpHX0Q0ZENOWE9kTGJTUUNvdkd3S24wQmREalBENnZremQzcjJaek92cHFmNVM3eXJBRmdFdTU1cG92c0xxNDnSAbABQVVfeXFMUEROOEVUZXNpME03RXhnSmM5MHpBUHk2ZDVOd29OQ0hRNmRFRkJ6RFhleVAzSkJBTmlILUFSSXhJTXl5aEtVbVlZM3RDU2JhZ1VUWlJIVjNtQ0U3ZXYwSVV2ZWhWNERIRkxROXhqcVNBOVk1dDY5bHhadTJ1NVF2Uy1Da1hMTEFRT3hkN25UVG44aHloTkoxVHBtSUVmcWxzLXh2THUxRnBfZnRKSTFOWFE?oc=5",
-      "source": "The Express Tribune",
-      "published": "2026-09-14T09:22:30+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran\u2019s IRGC says advanced MQ-1 drone \u2018destroyed\u2019 over Strait of Hormuz - Anadolu Ajans\u0131",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZmhvd2dMT0FxcWlmYmhjS3BNb0RjUmxXZVEtblRKMmc0MWRkUXItVUFWUFdVSjhUYUxIUjJuMVZKSVpPMWR2TDZtT2E4c253Rm4xeHk2cDhIaDhmcTljQlZzS2RKTlFhTlZ1VUpMMmY3RFNfUFdaS1QyTU9LaXlER01FRG1TNVJGdzBTa2xOc0VrSzVDajJBZk5GQzNvNTlYQ3NJRzVhYldyWHJDb2dqQWxTdw?oc=5",
-      "source": "Anadolu Ajans\u0131",
-      "published": "2026-09-14T06:23:06+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iranian cargo vessel struck near Qeshm Island as Oman delays Tehran-Gulf talks - France 24",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb09PUDRnSWJpUVZucHJRWFpDdkVVNnBBSXdtLTlxVm5nSTk2amhzQzRyako1WmxlX1RUYTNYZEpOUVJyX1pyT2ZTU2pUQlphR2FnZjdRQXFOTEJacFpmelEzNm5aU3VZRmdBalpTZ0p4QXpsMmdLWnZVMDB2M3YyUTdTWV85bjRaZUthS2pteVpTQQ?oc=5",
-      "source": "France 24",
-      "published": "2026-09-14T02:35:36+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iranian vessel struck on Strait of Hormuz, as Houthis expand control of oil shipping lane - cbsnews.com",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeUpPLURuUGtNWW5MdUstN2NHalFnV1d0bFN5bl9MbHJHa0l0RGQ1X1UzWm85X0lVcmxKT2I2V01NdTlOWmtYcE1ESTFFNTQ5Z1FVVmFncXlZWUVtcFNENmlsTFUzMmE0LU12QTZlMlp1cDdtN042UUJhS0Z3TkcxYU5tUW9fRXdLMUE?oc=5",
-      "source": "cbsnews.com",
-      "published": "2026-09-14T02:15:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
     }
   ],
   "brent": {
-    "price": 106.28,
-    "change_pct": 1.6
+    "price": 106.57,
+    "change_pct": 0.84
   }
 }
