@@ -1,17 +1,17 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 182.3,
+  "tension_index": 176.0,
   "closure_signals": 1,
-  "articles_scanned": 236,
-  "updated": "2026-09-14T00:21:27.259565+00:00",
+  "articles_scanned": 241,
+  "updated": "2026-09-14T05:13:21.232174+00:00",
   "headlines": [
     {
-      "title": "Breaking: Iran Sets Seven Conditions Through Mediators | Strait of Hormuz Closed | Middle East | GTV - youtu.be",
+      "title": "Breaking: Iran Sets Seven Conditions Through Mediators | Strait of Hormuz Closed | Middle East | GTV - YouTube",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQRHVyNFpZb3JlSThDVU52MS1FM2czMU13MW9YTUUtS2hIRWczSmVJQ0g0aHNHMTJ6NlNIMWdhUjBaR0VwNlJ3QlFwVENzQ2VpV2JCVnNPV19vTW1R?oc=5",
-      "source": "youtu.be",
+      "source": "YouTube",
       "published": "2026-09-13T04:57:41+00:00",
-      "score": 10.0,
+      "score": 9.99,
       "tags": [
         "closure"
       ]
@@ -21,46 +21,56 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX0xQZWk5T05ESFB0b0tDWjZjR3BOUHV3MEpod2MxdTQ5c0I1ZU9FOHdyQWtHRk9rb2ZrYzdmaXZNVmdzN2RaUFZDblk4SXFzcWtqdFA4ZFVsakpZRzRISk9qb2NzY01RU09mTkc2SzBNemE3dkxFSUpMMlZ3UXJ4UTRTRENnMHVRa2RNWGMwUHZ0aFFO0gGaAUFVX3lxTFAyZm94bTluUkdMaVJub2JSUmoxb3pOTC13OG9oMllqemRtOF9kc09GWEM2VU1VZi1KcjYzZUZiRnJudXNGeXdLbTNGSmtuQUxIQ3c2SGtnRkNJYzlOdGZYWHdhRlo0Q01Rb2F2em5mUG1XV1l0d2dpbTNmQTQ5WmFBYllobnZlLVVwbWN4RDNOMEF5c3lLOVh2WlE?oc=5",
       "source": "NewsNation",
       "published": "2026-09-09T15:40:45+00:00",
-      "score": 3.31,
+      "score": 3.15,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iranian cargo ship is struck, and talks between Tehran and its neighbors are postponed - PBS",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU2hYWmdva2V3NEk1N3dkZjZJRTNnR0stWDJaVzlfMHB3enRFZU82cUtpc1M2eVdicU0zb2ZmdHNKU2YzZ0RZbjZRNTJiM2V3Njc4ZzJnbHpOWFhWb09pNmdxT3lyY1d1QUVBSVN4TmIxVXZ2RUZUY1ItRjVDbnNrZXRCSjdWR0V3VDJZSWc1ZUF2MXBzSEJFWmdSNnVGNDdDZXdBNjlicU93YTRrRHZNbUdfONIBuAFBVV95cUxNSXhjaUlrblFqYXZhR2VCYTJ3RFdRbVkybkhZNko2dnptZmM5MjljbzNnY1ZlVUhhemNKZ2tNalgwWVM2Q2dVamduSlJnQ2lhVEo1RUY0TG9TYlFNUlp3Sm85WmJkYlh4OWQ1TFNEQXFZTkZxM3JQREtTdElxWkxJZ3Q4V3BzeDN5bURNcnVYM0RjMUVnQUxtOHNabWEyNG96WXBtdU1fcDFqMGpuOUdpQVBjNnFibzNT?oc=5",
-      "source": "PBS",
-      "published": "2026-09-13T21:52:00+00:00",
+      "title": "Fighting in Yemen intensifies, and Houthis launch more attacks on Saudi Arabia - AP News",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYmtucHBpX1JrQVh4ZVl5UDVCMER5bjYtb2NPcUVPZzFrZlZSZERNTjN3YTVKTDhxc3BzbkdMRS05YllDZ3VJeW03c2pRSHNmYkxKTnBWNE1IVm9VYndFdjZlQS0zck1zeUM0QTA4S0p5cUM5MTYxRjNxX052S2xOaXE1Ql9zYXBpc19SZThRR1VwVWpEbkFoNE1YMA?oc=5",
+      "source": "AP News",
+      "published": "2026-09-14T04:41:00+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Iranian cargo ship is struck, and talks between Tehran and its neighbors are postponed - apnews.com",
+      "title": "Iranian cargo vessel struck near Qeshm Island as Oman delays Tehran-Gulf talks - France 24",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb09PUDRnSWJpUVZucHJRWFpDdkVVNnBBSXdtLTlxVm5nSTk2amhzQzRyako1WmxlX1RUYTNYZEpOUVJyX1pyT2ZTU2pUQlphR2FnZjdRQXFOTEJacFpmelEzNm5aU3VZRmdBalpTZ0p4QXpsMmdLWnZVMDB2M3YyUTdTWV85bjRaZUthS2pteVpTQQ?oc=5",
+      "source": "France 24",
+      "published": "2026-09-14T02:35:36+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iranian cargo ship is struck, and talks between Tehran and its neighbors are postponed - AP News",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMG04XzJlaFg3N0hjVGVucURCODFNSFJKYkdZaHY0aWZxMWJCXzlPY1pGOUNrWHRhWkc3NnJXQms3X1ZxaHBxOTBHTUZVNUFWWXBJV0hLcG9PaEg0Nm9VaTQxbVNfallyV0ZhVzlfMGpqaWMwLTV2ZmYwRGZYNm9EUzFLMnMzZkREbzRlR1JqR0tBd1Fs?oc=5",
-      "source": "apnews.com",
-      "published": "2026-09-13T20:36:00+00:00",
+      "source": "AP News",
+      "published": "2026-09-14T01:17:00+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Iranian media say 1 killed in ship strike on the Strait of Hormuz, and other Mideast developments - apnews.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcjNIT1RidThMRGRHRnBoLTVUM2RPd2dtdm81a1N6cW9SNlB2SFlnaXhYMU5LTVluWnc2TlZfcXlmX2JBM21MdWFVQjl4YTF1WUhJeXBYdWxHSm5tRWtWbzEtQnE2aVdpWXFib0FaRFJycmdmc3RBOTk3V2pRWnVJQkdsWDAwSkJzOFMzcjRDSWIzdDhMU0FqWkxUOVVKNVBUSzRNVzRVUQ?oc=5",
-      "source": "apnews.com",
-      "published": "2026-09-13T19:32:00+00:00",
+      "title": "Oil prices up over 3% following new strikes on Saudi, Strait of Hormuz - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcXNvWlpHUEh2bzNITUYtX04zUG1vclFCeDZ1NVdQTkNXUk5OTmRESElsUXUyQjNsYVU1d2tEMFlNRjB1VXVnenR4UHZzd3F3dEZWR2tWSVZMREFiZXF6NjR5SlB5VmdaNXpTWHQ3UF9POFRGanpoR0NxZUV3ZUU4alAycW9mcGdLak5lQ2NXdlpHQ3I3eDVRM3JDWmI3SGdYUjZsbnJSaUVySHk3UFl4Y3AxVGFZbmg5?oc=5",
+      "source": "Reuters",
+      "published": "2026-09-13T22:23:00+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Live - Trump says Iran war could end around midterms as Iranian vessel struck near Qeshm Island - Iran International",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWUkFCaXFNOVJFN2ZucUJZTEIyTW1YS2owX21jVGhhS2V4VFlLVXRvdkR5aURSZmlTX0hSRFRQeGlrNlZqWGRnb0hMb2JJdklBQzIzdlctdERIc2RPSUE?oc=5",
-      "source": "Iran International",
-      "published": "2026-09-13T18:30:45+00:00",
+      "title": "One dead after Iranian cargo ship struck in Strait of Hormuz, Tehran says - washingtonexaminer.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTTktejdPZ0V4ZjQ0dDVLRW9Ka2g1WVdBUDN0cWZHSVlBM0NtbE04aHhPNGdvMjVuLTQ5ZEEwWjdobFMzY3ZZeGlhcjh4Yi1qUGNnWld3c0V5QTdBc09fZDA5aGR1TFBhOEVWWnpLaV84SXo0aHR4QmMyT245dlpESDl4d2FvY2tGVGVuallXUVZfVENqMjBzanotM0UwTVhpRWNJTm5n?oc=5",
+      "source": "washingtonexaminer.com",
+      "published": "2026-09-13T19:52:00+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -97,30 +107,20 @@
       ]
     },
     {
-      "title": "Iran says 1 dead, 4 injured after commercial ship struck in Strait of Hormuz - san.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYzNsTkZRYlBtTUVrUURjMWg3Y2VqeU5YVHljT296VUVueWZGaS1SRWdzbnI2MmJOUkFkTmZRbVBJYUlPMTVFM3h3NHRJUXEtMDNheXZOZzhvMW0ycnlhSDlaLXk3QjlwcDlkOWwzYlBvenZvM3hoZFBJc0JZNURmemdqQmJpSE1TMjJfR2ZCd3Y5MnlzT2Z5dFl0Zw?oc=5",
-      "source": "san.com",
-      "published": "2026-09-13T16:09:43+00:00",
+      "title": "Iranian cargo ship is struck, and talks between Tehran and its neighbors are postponed - PBS",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU2hYWmdva2V3NEk1N3dkZjZJRTNnR0stWDJaVzlfMHB3enRFZU82cUtpc1M2eVdicU0zb2ZmdHNKU2YzZ0RZbjZRNTJiM2V3Njc4ZzJnbHpOWFhWb09pNmdxT3lyY1d1QUVBSVN4TmIxVXZ2RUZUY1ItRjVDbnNrZXRCSjdWR0V3VDJZSWc1ZUF2MXBzSEJFWmdSNnVGNDdDZXdBNjlicU93YTRrRHZNbUdfONIBuAFBVV95cUxNSXhjaUlrblFqYXZhR2VCYTJ3RFdRbVkybkhZNko2dnptZmM5MjljbzNnY1ZlVUhhemNKZ2tNalgwWVM2Q2dVamduSlJnQ2lhVEo1RUY0TG9TYlFNUlp3Sm85WmJkYlh4OWQ1TFNEQXFZTkZxM3JQREtTdElxWkxJZ3Q4V3BzeDN5bURNcnVYM0RjMUVnQUxtOHNabWEyNG96WXBtdU1fcDFqMGpuOUdpQVBjNnFibzNT?oc=5",
+      "source": "PBS",
+      "published": "2026-09-13T17:58:51+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Iran hardliners launched Hormuz attacks in defiance of leaders, undermining US deal \u2014 report - The Times of Israel",
+      "title": "Iran hardliners launched Hormuz attacks in defiance of leaders, undermining US deal \u2014 report - timesofisrael.com",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdlkzMURJenNLaHJ2UjNTM0luS29zdXgxNnBDbVdQTDV5djNSd216SllwNU1TU1ZJVlhNT3hjSnVna2FDdVRIYVlPZHdvY1hlbUg4dDZkUUh0SzcycjBYZE1waXNYeDhCUmV5U0JGTVZBdklkcEpzVjNfYm5zT0VIQnVEN3BvSDRXb2tMeXhhRVVzdk44MllaVnR0b2pPT2NBTVQwUExfMVl6bHVWZEV6R3g3OWtLcWlySEpsbNIBwgFBVV95cUxQNnhDYm04b3RlNzlqZTVROWRfUHd0V3huMVVmMUZyMXRFMVhWcFFuSEtHcFA0SHplY0ZVeGZJODJpVU01cnRtbnBsZkowSGtocnRVUnk2eFhQdUZnV0pNYUtMNHdmeDUxamVoR0VIMHdvTFVqYkpiZjFZUElBRnNURW8tclJ1RWZleTRJRGhqTnlMYmVVdnludm9SbHl4MnhFNUx0UmY3YVNFUUtmT043emtaT0pfMy1aWlJJb0xyVGVHdw?oc=5",
-      "source": "The Times of Israel",
+      "source": "timesofisrael.com",
       "published": "2026-09-13T16:03:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran reports commercial vessel struck in Strait of Hormuz - KOMU 8",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQTYyS1Q3RmJyWmt5ZjlELURwUG1BaS1XYnJUU1VQX28ydXRnaUI4YkxzM1ZBYmhDbHFId3BLOE1EcTJ2LWZUQUc0Z0d3SmVodi13OVRoWHhuSGNxNmNtdjVvd0RRNElQSW14bXRjS1NyMHdyTU0wSmprMGQ4VVU0dlU3OWxNRWxUM1l5bXp1QmU1MFNKTnl1ZHdsRXBaOUt5My04d05LWl9ia3pVbnlyQ21UZVRaV0Q5MEhkRjJjSmRFTzFKYmdrSTNGU1k2ZWlsNU00aVBDVk80Z3RnUGpYdkU1UdIB4wFBVV95cUxPQTYyS1Q3RmJyWmt5ZjlELURwUG1BaS1XYnJUU1VQX28ydXRnaUI4YkxzM1ZBYmhDbHFId3BLOE1EcTJ2LWZUQUc0Z0d3SmVodi13OVRoWHhuSGNxNmNtdjVvd0RRNElQSW14bXRjS1NyMHdyTU0wSmprMGQ4VVU0dlU3OWxNRWxUM1l5bXp1QmU1MFNKTnl1ZHdsRXBaOUt5My04d05LWl9ia3pVbnlyQ21UZVRaV0Q5MEhkRjJjSmRFTzFKYmdrSTNGU1k2ZWlsNU00aVBDVk80Z3RnUGpYdkU1UQ?oc=5",
-      "source": "KOMU 8",
-      "published": "2026-09-13T16:00:00+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -128,7 +128,7 @@
     }
   ],
   "brent": {
-    "price": 107.37,
-    "change_pct": 2.64
+    "price": 107.34,
+    "change_pct": 2.61
   }
 }
