@@ -1,25 +1,25 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 168.8,
+  "tension_index": 178.4,
   "closure_signals": 1,
-  "articles_scanned": 240,
-  "updated": "2026-09-14T10:50:53.581432+00:00",
+  "articles_scanned": 235,
+  "updated": "2026-09-14T16:43:26.404672+00:00",
   "headlines": [
     {
       "title": "Breaking: Iran Sets Seven Conditions Through Mediators | Strait of Hormuz Closed | Middle East | GTV - YouTube",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQRHVyNFpZb3JlSThDVU52MS1FM2czMU13MW9YTUUtS2hIRWczSmVJQ0g0aHNHMTJ6NlNIMWdhUjBaR0VwNlJ3QlFwVENzQ2VpV2JCVnNPV19vTW1R?oc=5",
       "source": "YouTube",
       "published": "2026-09-13T04:57:41+00:00",
-      "score": 9.67,
+      "score": 9.35,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iran says it destroys U.S. advanced drone over Hormuz as Middle East conflict intensifies - cnbc.com",
+      "title": "Iran says it destroyed U.S. advanced drone over Hormuz as Middle East conflict intensifies - CNBC",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVFU1OERQaW5PLWR6STV5TEE2NjZqaXhsZmItQy1yUXlFNnBtam9sM09EbTFzUmYwVEpqLXhYNHZyWThheWNUb1ZJbFB3Z1JhY3ppNElYNFRtbnVxcVJWRFIyb1RwMUVhTDRZdlRLRmw3UHNORHRjVHJndE4tN3E2VndXbE5CZ9IBiwFBVV95cUxNQUxLdTB2b0RST1RCQUx6Zk84Q3psbDctNV9tT2x2SEMxZ3lVVUo5QWpneEhUaXU5UWNoNHVlOUlLampoOWwxN3lvVXlwbVY5b2hEdC1HalF5SlRNWi1ZVVRXQ1pGWkhGaXMwWFVnLTdXbUtVdFFtLXdxdjVUVGdqYTlqUWw4TFpFVzZF?oc=5",
-      "source": "cnbc.com",
+      "source": "CNBC",
       "published": "2026-09-14T03:01:00+00:00",
       "score": 4.0,
       "tags": [
@@ -27,29 +27,49 @@
       ]
     },
     {
-      "title": "Live - Iran says Israel only winner of regional tensions as Houthis claim attack on Saudi - Iran International",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWUkFCaXFNOVJFN2ZucUJZTEIyTW1YS2owX21jVGhhS2V4VFlLVXRvdkR5aURSZmlTX0hSRFRQeGlrNlZqWGRnb0hMb2JJdklBQzIzdlctdERIc2RPSUE?oc=5",
-      "source": "Iran International",
-      "published": "2026-09-12T05:14:52+00:00",
-      "score": 3.34,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Oil prices up over 2% following new strikes on Saudi, Strait of Hormuz - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNa2otdmw3UllpNnlRX3ZCWmlxZnZZeE5kNXE2c1p0d3lIZUxYQ2ZfT3pVZmhlcUFzUXFUaWNfRV8wZ2VYS1NhcHc5eTBkcDd1eEFxOUtIdndFUzBvendCa1M5NFZiQVdVQlJRZk9Sa0hTajlTSV9zR1ZnaWRKeGRMbjJrNWxnQQ?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-09-14T06:36:34+00:00",
+      "title": "Vessel Struck in Strait of Hormuz as Oman-Backed Talks Between U.S. and Iran Postponed: how 11 outlets framed it - NewsCord",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVTM2bFZTcHI3eGp5ZmswOFNtNmt6c2F5UWc4anNGYld5ZUpldURRbTg1eFVMSnp1WjczaXR2clZzcFFfazIzYTRfMzl4Z1ItVzA0RUxiU3dhYUJBTWlMYklTT3diOVlmM3doNnpSZ2JpaDR0TkUtVXZTNWgxQmpESC1GeVA4NnBzYVNXdDRhMlNrdWJTelRqX2p6bDJ6dDY2WmctUWg0TE1rSzdsUTNzdzNReklqWWlkS0pzN21UWHdIdzRwZUNsUTJCM1l6MEk?oc=5",
+      "source": "NewsCord",
+      "published": "2026-09-14T11:08:43+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Iran\u2019s IRGC says advanced MQ-1 drone \u2018destroyed\u2019 over Strait of Hormuz - Anadolu Ajans\u0131",
+      "title": "Gulf states call off meeting with Iran, Houthis launch new attack on Saudi - Al-Monitor",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbGNFMjJkY013c3N2ZDZjbXVoRTQtVG02dUJrazlMVGVLMllHRlRGQ2FiaTlQOHAxUlJQWUxzZERXYUJoX3I0OTk5NS13c3VJZEJhRzJwcUgydFFXV3gtM0wwYWhubnlJOFFhTG52SGpCUnVoSHptMk5kd09oZzF5UkxvcE1XUG9vWnhIbnRiRnB6V0dpMG15cnRBa3ZJY0RKRm1jWEF6akFSQQ?oc=5",
+      "source": "Al-Monitor",
+      "published": "2026-09-14T10:52:09+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "New Report of Attack on Strait of Hormuz Shipping Fans Fears of Threats to Oil Supplies - ASHARQ AL-AWSAT English",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcnZkWUdUczlqb29BRDNzeDdhMDlYbXJxamJyd0h4RTZOUG9iUV9mdzFHRVRVZnA3bHVfbkl4d2hMNjF1bGdUSzRxb2xhUDctUEgzanFSdHlpUjhFQmdwSnZWaW00UE5nU0lMS1VTdGhmeTFPSVFENkFNRVppNDJXZ19JT1JrY2ZIaTlfcGxRN0ZSeENRZEU3WGJvQTBRTnlrMElLa3B3TEp6cTBpWTdOWnZ4WQ?oc=5",
+      "source": "ASHARQ AL-AWSAT English",
+      "published": "2026-09-14T10:08:39+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Oil prices up over 3% following new strikes on Saudi, Strait of Hormuz - tribune.com.pk",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTHNKZnBPYjlsclZUVUttWVBBeEdsWEJrbzlGOGZvUVN2c0JPREJrOG9KMkVZbVZ5UzYyUTJGYXIyem9YcjFWdGNRTWVwY2x2ZTlzb3BKaDdrbnpMMWNZbWk2Y2o2ZEo2NHpHX0Q0ZENOWE9kTGJTUUNvdkd3S24wQmREalBENnZremQzcjJaek92cHFmNVM3eXJBRmdFdTU1cG92c0xxNDnSAbABQVVfeXFMUEROOEVUZXNpME03RXhnSmM5MHpBUHk2ZDVOd29OQ0hRNmRFRkJ6RFhleVAzSkJBTmlILUFSSXhJTXl5aEtVbVlZM3RDU2JhZ1VUWlJIVjNtQ0U3ZXYwSVV2ZWhWNERIRkxROXhqcVNBOVk1dDY5bHhadTJ1NVF2Uy1Da1hMTEFRT3hkN25UVG44aHloTkoxVHBtSUVmcWxzLXh2THUxRnBfZnRKSTFOWFE?oc=5",
+      "source": "tribune.com.pk",
+      "published": "2026-09-14T09:22:30+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran\u2019s IRGC says advanced MQ-1 drone \u2018destroyed\u2019 over Strait of Hormuz - aa.com.tr",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZmhvd2dMT0FxcWlmYmhjS3BNb0RjUmxXZVEtblRKMmc0MWRkUXItVUFWUFdVSjhUYUxIUjJuMVZKSVpPMWR2TDZtT2E4c253Rm4xeHk2cDhIaDhmcTljQlZzS2RKTlFhTlZ1VUpMMmY3RFNfUFdaS1QyTU9LaXlER01FRG1TNVJGdzBTa2xOc0VrSzVDajJBZk5GQzNvNTlYQ3NJRzVhYldyWHJDb2dqQWxTdw?oc=5",
-      "source": "Anadolu Ajans\u0131",
+      "source": "aa.com.tr",
       "published": "2026-09-14T06:23:06+00:00",
       "score": 3.0,
       "tags": [
@@ -57,9 +77,9 @@
       ]
     },
     {
-      "title": "Iranian cargo vessel struck near Qeshm Island as Oman delays Tehran-Gulf talks - France 24",
+      "title": "Iranian cargo vessel struck near Qeshm Island as Oman delays Tehran-Gulf talks - france24.com",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb09PUDRnSWJpUVZucHJRWFpDdkVVNnBBSXdtLTlxVm5nSTk2amhzQzRyako1WmxlX1RUYTNYZEpOUVJyX1pyT2ZTU2pUQlphR2FnZjdRQXFOTEJacFpmelEzNm5aU3VZRmdBalpTZ0p4QXpsMmdLWnZVMDB2M3YyUTdTWV85bjRaZUthS2pteVpTQQ?oc=5",
-      "source": "France 24",
+      "source": "france24.com",
       "published": "2026-09-14T02:35:36+00:00",
       "score": 3.0,
       "tags": [
@@ -67,9 +87,9 @@
       ]
     },
     {
-      "title": "Iranian vessel struck on Strait of Hormuz, as Houthis expand control of oil shipping lane - CBS News",
+      "title": "Iranian vessel struck on Strait of Hormuz, as Houthis expand control of oil shipping lane - cbsnews.com",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeUpPLURuUGtNWW5MdUstN2NHalFnV1d0bFN5bl9MbHJHa0l0RGQ1X1UzWm85X0lVcmxKT2I2V01NdTlOWmtYcE1ESTFFNTQ5Z1FVVmFncXlZWUVtcFNENmlsTFUzMmE0LU12QTZlMlp1cDdtN042UUJhS0Z3TkcxYU5tUW9fRXdLMUE?oc=5",
-      "source": "CBS News",
+      "source": "cbsnews.com",
       "published": "2026-09-14T02:15:00+00:00",
       "score": 3.0,
       "tags": [
@@ -87,40 +107,20 @@
       ]
     },
     {
-      "title": "One dead after Iranian cargo ship struck in Strait of Hormuz, Tehran says - Washington Examiner",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTTktejdPZ0V4ZjQ0dDVLRW9Ka2g1WVdBUDN0cWZHSVlBM0NtbE04aHhPNGdvMjVuLTQ5ZEEwWjdobFMzY3ZZeGlhcjh4Yi1qUGNnWld3c0V5QTdBc09fZDA5aGR1TFBhOEVWWnpLaV84SXo0aHR4QmMyT245dlpESDl4d2FvY2tGVGVuallXUVZfVENqMjBzanotM0UwTVhpRWNJTm5n?oc=5",
-      "source": "Washington Examiner",
-      "published": "2026-09-13T19:52:00+00:00",
+      "title": "Crude Oil Prices Jump 3% After Fresh Strikes On Strait of Hormuz; Brent Above $107 A Barrel - ndtvprofit.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZVZVQkZkYjZIbTIzZ0o5bWJnTFctWUJObmlxN0JwOERrMnV4QTllcmJNSWJsaUE5YnFzalREekxOWG5hdmNRcmtQN2poS3VlY1Bud1hPWDRla0puZF9FWjVoWEVkZmExb2pDWkk4dDlGd3RfV1E5RlhkRG1DX0xuY1Z2YlNHODk5TS1yRTRpYllRZFRwS0pZcE5lU0tlNmRPMDhveUpNTWZzMEw4Z0lvbDUtSGRkTnhQLUE2TDh3elFCX2xpWk5VdkI5THfSAdQBQVVfeXFMT3NYNGloZFlkYklwVFN3QXZwWTRtcFFwQ011RTNMWWFaWVlTQWxoYjBPN2xITVRibkRiUGpVaGUyVUgxMDBnOHd5NGJmR2UzT3JOMVI3VFAyWERqVmVhWWdMTGRaa0pQbXdjYUNJY1RlZ0p1SUwyWEwzY2FjYlU5Sk81bWQ0bFFrUGxmRVk2eWRCQUVzZ3ZrYzMtVXk0YUJQZjZpZEVCWlZ3a1dBOUtSb2lSaWtsR2NlbHlWeGtXclVuTkpBUG1kYkdfTmMwV3Y5elFYTW8?oc=5",
+      "source": "ndtvprofit.com",
+      "published": "2026-09-14T01:08:28+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Iranian media say 1 killed in ship strike on the Strait of Hormuz, and other Mideast developments - WTOP News",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTl9aZWNaTldFTzdLdFF3b2h1OWIyV2Z5alZQbm12RGctbXNLOTNGeXdSOVNwOVVMMjFFdFhOZEsxalVVX296U3dzVjIxQjY4dE40WEY0d0dXTU52SHNYWm5UWjhzNm9JWUE2YUJzQm9kam4ta090aEIyeXMwNFVwaWFCdWhzR0ZWY3VSa3hLSEw4Z0ZlZHJSd2JOZ3hMQWdsbmxqOEJHSjlVM19FLWJsenZaSEdNTC04c2lqR1V0M2dsRXp2WFBtR0JSTQ?oc=5",
-      "source": "WTOP News",
-      "published": "2026-09-13T19:32:42+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran Says US Strike on Commercial Vessel Near Qeshm Kills One - Kurdistan24",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaEVDS045WkotM0JkYkFXSzFXUkthNzVTUkxXSjdGTWpJQnBkeHhILU1ubTc5TzJCd0wzQ3NjVlR2X2cxNk8tQVFiSlRkX211cmZPYlZWaVpQa2NBM1h5QUxzbU53Z2lUYUQ4cDNzZjNOcnR3b3dreS1ZR3NFemFGX29HLVUySXBZV1IxcWRTV2paQk1KWUNEUmxaWDZHTktEOGFMRkVZVHQ?oc=5",
-      "source": "Kurdistan24",
-      "published": "2026-09-13T18:21:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Strike on Iranian cargo ship in the Strait of Hormuz kills 1, Iranian media say - PBS",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSXhjaUlrblFqYXZhR2VCYTJ3RFdRbVkybkhZNko2dnptZmM5MjljbzNnY1ZlVUhhemNKZ2tNalgwWVM2Q2dVamduSlJnQ2lhVEo1RUY0TG9TYlFNUlp3Sm85WmJkYlh4OWQ1TFNEQXFZTkZxM3JQREtTdElxWkxJZ3Q4V3BzeDN5bURNcnVYM0RjMUVnQUxtOHNabWEyNG96WXBtdU1fcDFqMGpuOUdpQVBjNnFibzNT0gG4AUFVX3lxTE1JeGNpSWtuUWphdmFHZUJhMndEV1FtWTJuSFk2SjZ2em1mYzkyOWNvM2djVmVVSGF6Y0pna01qWDBZUzZDZ1VqZ25KUmdDaWFUSjVFRjRMb1NiUU1SWndKbzlaYmRiWHg5ZDVMU0RBcVlORnEzclBES1N0SXFaTElndDhXcHN4M3ltRE1ydVgzRGMxRWdBTG04c1ptYTI0b3pZcG11TV9wMWowam45R2lBUGM2cWJvM1M?oc=5",
-      "source": "PBS",
-      "published": "2026-09-13T17:58:51+00:00",
+      "title": "Gulf states call off meeting with Iran, Houthis launch new attack on Saudi - The Straits Times",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ3RZNkJnWHdTa2Y1SXVVdTFhZFZVLWtQbm5hWEFLcHBqTDhVTDdOVDJSQkhHeDI0RzdKazdWTHhmZmtmbW0zeFlIbVd1cFppejVDY3gtMlZuckQyc3VBeHBJdkhLZ19FZUFFZjVrQllEbjdabXlPZFliR0UySThsU1p4Nm9fVnVvYzUxWTBVcDZTNGhPOFZFRW5NRjFzNzVadVNUeVZNR0FEV0V0UXp2MjRvWE15bGV6Mk1nTldRZE8?oc=5",
+      "source": "The Straits Times",
+      "published": "2026-09-13T23:06:00+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -128,7 +128,7 @@
     }
   ],
   "brent": {
-    "price": 107.34,
-    "change_pct": 2.61
+    "price": 107.28,
+    "change_pct": 2.55
   }
 }
