@@ -1,26 +1,36 @@
 {
-  "status": "ELEVATED",
-  "label": "Elevated tension",
-  "tension_index": 171.1,
-  "closure_signals": 0,
-  "articles_scanned": 235,
-  "updated": "2026-09-13T22:30:04.949024+00:00",
+  "status": "DISRUPTED",
+  "label": "Major disruption reported",
+  "tension_index": 182.3,
+  "closure_signals": 1,
+  "articles_scanned": 236,
+  "updated": "2026-09-14T00:21:27.259565+00:00",
   "headlines": [
     {
-      "title": "Navy SEALs used robot boats, night dives to clear mines from Strait of Hormuz - NewsNation",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX0xQZWk5T05ESFB0b0tDWjZjR3BOUHV3MEpod2MxdTQ5c0I1ZU9FOHdyQWtHRk9rb2ZrYzdmaXZNVmdzN2RaUFZDblk4SXFzcWtqdFA4ZFVsakpZRzRISk9qb2NzY01RU09mTkc2SzBNemE3dkxFSUpMMlZ3UXJ4UTRTRENnMHVRa2RNWGMwUHZ0aFFO0gGaAUFVX3lxTFAyZm94bTluUkdMaVJub2JSUmoxb3pOTC13OG9oMllqemRtOF9kc09GWEM2VU1VZi1KcjYzZUZiRnJudXNGeXdLbTNGSmtuQUxIQ3c2SGtnRkNJYzlOdGZYWHdhRlo0Q01Rb2F2em5mUG1XV1l0d2dpbTNmQTQ5WmFBYllobnZlLVVwbWN4RDNOMEF5c3lLOVh2WlE?oc=5",
-      "source": "NewsNation",
-      "published": "2026-09-09T15:40:45+00:00",
-      "score": 3.37,
+      "title": "Breaking: Iran Sets Seven Conditions Through Mediators | Strait of Hormuz Closed | Middle East | GTV - youtu.be",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQRHVyNFpZb3JlSThDVU52MS1FM2czMU13MW9YTUUtS2hIRWczSmVJQ0g0aHNHMTJ6NlNIMWdhUjBaR0VwNlJ3QlFwVENzQ2VpV2JCVnNPV19vTW1R?oc=5",
+      "source": "youtu.be",
+      "published": "2026-09-13T04:57:41+00:00",
+      "score": 10.0,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Tehran postpones regional talks; Iran media says cargo ship struck near Strait of Hormuz - CBC",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWxlRTJCWlNVeGU3bnRCLVFyOHFrZTNtY3dXZWdZMzhSSEJmekZxN3JRM3lkZ19lN0JDLWxscWdDNldJRFRlN29EdHBVSjJvckpCNkFjaHZaYlBRVU41RExNcWVRdjV2Wm9zVzJrX3h0eERCVWRsbVpPNk5TSFFKQU5MNG1lT2ZkeEhNcUw5Q191X1lFWjk4?oc=5",
-      "source": "CBC",
-      "published": "2026-09-13T20:50:27+00:00",
+      "title": "Navy SEALs used robot boats, night dives to clear mines from Strait of Hormuz - NewsNation",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX0xQZWk5T05ESFB0b0tDWjZjR3BOUHV3MEpod2MxdTQ5c0I1ZU9FOHdyQWtHRk9rb2ZrYzdmaXZNVmdzN2RaUFZDblk4SXFzcWtqdFA4ZFVsakpZRzRISk9qb2NzY01RU09mTkc2SzBNemE3dkxFSUpMMlZ3UXJ4UTRTRENnMHVRa2RNWGMwUHZ0aFFO0gGaAUFVX3lxTFAyZm94bTluUkdMaVJub2JSUmoxb3pOTC13OG9oMllqemRtOF9kc09GWEM2VU1VZi1KcjYzZUZiRnJudXNGeXdLbTNGSmtuQUxIQ3c2SGtnRkNJYzlOdGZYWHdhRlo0Q01Rb2F2em5mUG1XV1l0d2dpbTNmQTQ5WmFBYllobnZlLVVwbWN4RDNOMEF5c3lLOVh2WlE?oc=5",
+      "source": "NewsNation",
+      "published": "2026-09-09T15:40:45+00:00",
+      "score": 3.31,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iranian cargo ship is struck, and talks between Tehran and its neighbors are postponed - PBS",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU2hYWmdva2V3NEk1N3dkZjZJRTNnR0stWDJaVzlfMHB3enRFZU82cUtpc1M2eVdicU0zb2ZmdHNKU2YzZ0RZbjZRNTJiM2V3Njc4ZzJnbHpOWFhWb09pNmdxT3lyY1d1QUVBSVN4TmIxVXZ2RUZUY1ItRjVDbnNrZXRCSjdWR0V3VDJZSWc1ZUF2MXBzSEJFWmdSNnVGNDdDZXdBNjlicU93YTRrRHZNbUdfONIBuAFBVV95cUxNSXhjaUlrblFqYXZhR2VCYTJ3RFdRbVkybkhZNko2dnptZmM5MjljbzNnY1ZlVUhhemNKZ2tNalgwWVM2Q2dVamduSlJnQ2lhVEo1RUY0TG9TYlFNUlp3Sm85WmJkYlh4OWQ1TFNEQXFZTkZxM3JQREtTdElxWkxJZ3Q4V3BzeDN5bURNcnVYM0RjMUVnQUxtOHNabWEyNG96WXBtdU1fcDFqMGpuOUdpQVBjNnFibzNT?oc=5",
+      "source": "PBS",
+      "published": "2026-09-13T21:52:00+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -37,16 +47,6 @@
       ]
     },
     {
-      "title": "Live - Trump says Iran war could end around midterms as Iranian vessel struck near Qeshm Island - Iran International",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWUkFCaXFNOVJFN2ZucUJZTEIyTW1YS2owX21jVGhhS2V4VFlLVXRvdkR5aURSZmlTX0hSRFRQeGlrNlZqWGRnb0hMb2JJdklBQzIzdlctdERIc2RPSUE?oc=5",
-      "source": "Iran International",
-      "published": "2026-09-13T20:28:12+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
       "title": "Iranian media say 1 killed in ship strike on the Strait of Hormuz, and other Mideast developments - apnews.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcjNIT1RidThMRGRHRnBoLTVUM2RPd2dtdm81a1N6cW9SNlB2SFlnaXhYMU5LTVluWnc2TlZfcXlmX2JBM21MdWFVQjl4YTF1WUhJeXBYdWxHSm5tRWtWbzEtQnE2aVdpWXFib0FaRFJycmdmc3RBOTk3V2pRWnVJQkdsWDAwSkJzOFMzcjRDSWIzdDhMU0FqWkxUOVVKNVBUSzRNVzRVUQ?oc=5",
       "source": "apnews.com",
@@ -57,20 +57,20 @@
       ]
     },
     {
-      "title": "Iran Says US Strike on Commercial Vessel Near Qeshm Kills One - Kurdistan24",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaEVDS045WkotM0JkYkFXSzFXUkthNzVTUkxXSjdGTWpJQnBkeHhILU1ubTc5TzJCd0wzQ3NjVlR2X2cxNk8tQVFiSlRkX211cmZPYlZWaVpQa2NBM1h5QUxzbU53Z2lUYUQ4cDNzZjNOcnR3b3dreS1ZR3NFemFGX29HLVUySXBZV1IxcWRTV2paQk1KWUNEUmxaWDZHTktEOGFMRkVZVHQ?oc=5",
-      "source": "Kurdistan24",
-      "published": "2026-09-13T18:21:00+00:00",
+      "title": "Live - Trump says Iran war could end around midterms as Iranian vessel struck near Qeshm Island - Iran International",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWUkFCaXFNOVJFN2ZucUJZTEIyTW1YS2owX21jVGhhS2V4VFlLVXRvdkR5aURSZmlTX0hSRFRQeGlrNlZqWGRnb0hMb2JJdklBQzIzdlctdERIc2RPSUE?oc=5",
+      "source": "Iran International",
+      "published": "2026-09-13T18:30:45+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Strike on Iranian cargo ship in the Strait of Hormuz kills 1, Iranian media say - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLTVzZzRZMzZfdmszZTl1VC1WYjNEZ2Q4MnlUSEVkUDZ4aE1xMVVkOHlNWkRvcDFtc3JyenMwTFMzRUhlVUtybUpvMTJyWVQ2SmU3VGtlTUZybW9JRklydWFGMVN2SnJJM2ROa044MEdmQnV1aXBabUdfcnNiMGsyeFRqVzlXSmNOSUUyUTRySGR2aW5vVnFva2hQMUl0cUxIaVI4aThBRURzX3MzcU1Vdm95X21WVkJNM2J1WXg4azJBRV9uMmtn?oc=5",
-      "source": "Los Angeles Times",
-      "published": "2026-09-13T18:14:10+00:00",
+      "title": "Iran Says US Strike on Commercial Vessel Near Qeshm Kills One - Kurdistan24",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaEVDS045WkotM0JkYkFXSzFXUkthNzVTUkxXSjdGTWpJQnBkeHhILU1ubTc5TzJCd0wzQ3NjVlR2X2cxNk8tQVFiSlRkX211cmZPYlZWaVpQa2NBM1h5QUxzbU53Z2lUYUQ4cDNzZjNOcnR3b3dreS1ZR3NFemFGX29HLVUySXBZV1IxcWRTV2paQk1KWUNEUmxaWDZHTktEOGFMRkVZVHQ?oc=5",
+      "source": "Kurdistan24",
+      "published": "2026-09-13T18:21:00+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -97,9 +97,9 @@
       ]
     },
     {
-      "title": "Iran says 1 dead, 4 injured after commercial ship struck in Strait of Hormuz - Straight Arrow",
+      "title": "Iran says 1 dead, 4 injured after commercial ship struck in Strait of Hormuz - san.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYzNsTkZRYlBtTUVrUURjMWg3Y2VqeU5YVHljT296VUVueWZGaS1SRWdzbnI2MmJOUkFkTmZRbVBJYUlPMTVFM3h3NHRJUXEtMDNheXZOZzhvMW0ycnlhSDlaLXk3QjlwcDlkOWwzYlBvenZvM3hoZFBJc0JZNURmemdqQmJpSE1TMjJfR2ZCd3Y5MnlzT2Z5dFl0Zw?oc=5",
-      "source": "Straight Arrow",
+      "source": "san.com",
       "published": "2026-09-13T16:09:43+00:00",
       "score": 3.0,
       "tags": [
@@ -128,7 +128,7 @@
     }
   ],
   "brent": {
-    "price": 107.87,
-    "change_pct": 3.12
+    "price": 107.37,
+    "change_pct": 2.64
   }
 }
