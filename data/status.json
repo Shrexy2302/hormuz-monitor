@@ -1,25 +1,25 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 161.1,
+  "tension_index": 153.8,
   "closure_signals": 5,
-  "articles_scanned": 229,
-  "updated": "2026-09-15T08:16:44.333747+00:00",
+  "articles_scanned": 227,
+  "updated": "2026-09-15T13:43:42.422108+00:00",
   "headlines": [
     {
       "title": "Breaking: Iran Sets Seven Conditions Through Mediators | Strait of Hormuz Closed | Middle East | GTV - YouTube",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQRHVyNFpZb3JlSThDVU52MS1FM2czMU13MW9YTUUtS2hIRWczSmVJQ0g0aHNHMTJ6NlNIMWdhUjBaR0VwNlJ3QlFwVENzQ2VpV2JCVnNPV19vTW1R?oc=5",
       "source": "YouTube",
       "published": "2026-09-13T04:57:41+00:00",
-      "score": 8.48,
+      "score": 8.18,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Oil tanker explodes after striking naval mines in Strait of Hormuz, says IRGC - nationalheraldindia.com",
+      "title": "Oil tanker explodes after striking naval mines in Strait of Hormuz, says IRGC - National Herald",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWm9UeUxkX29DdEd0Vy0wUUFXcXFqRHBaSENHMUpMc0FkNjdBbHhPUUljMXVaeFpkSXp0ajJ0VkZnSVBET3dpclFOaWt5VVhWT2N1MWNUYUN5b2lvQzZIWGpuMmFxaXNaVHdEWGZTMTFVY1Joc1FtbjZ0OER4U2lxMlZXZWhTY1RoMTV5RFNzMlZIWE1rVnBubmp1RXBRRWV1ZDFpSUFMTFVaa2g3Z1JGSWw3X0FKMHZ5MGJKc2h5WnpyR18yQl9hS3ZubmRLNUZOdmfSAdIBQVVfeXFMTlpvVHlMZF9vQ3RHdFctMFFBV3FxakRwWkhDRzFKTHNBZDY3QWx4T1FJYzF1WnhaZEl6dGoydFZGZ0lQRE93aXJRTmlreVVYVk9jdTFjVGFDeW9pb0M2SFhqbjJhcWlzWlR3RFhmUzExVWNSaHNRbW42dDhEeFNpcTJWV2VoU2NUaDE1eURTczJWSFhNa1Zwbm5qdUVwUUVldWQxaUlBTExVWmtoN2dSRklsN19BSjB2eTBiSnNoeVp6ckdfMkJfYUt2bm5kSzVGTnZn?oc=5",
-      "source": "nationalheraldindia.com",
+      "source": "National Herald",
       "published": "2026-09-15T04:27:24+00:00",
       "score": 6.0,
       "tags": [
@@ -57,70 +57,70 @@
       ]
     },
     {
+      "title": "Conflicting Reports on Tanker \u201cEl Gaya\u201d Attack in Strait of Hormuz - IranWire",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ1FCNmYyd0lzTFg0U1E5eUJTZGExUkNpVXowZlpmTVlfcWdoWTVoN1k4SGVXbHBaZHRNMzdaWEdwQVRuTXdJMGdHUEtWNVl0a09KX0o5ZHVaNW5XaDBxOTNIWmdSZGZob00tR3ZNTy1XY1VnT2YxN0hmWWpMaV9ZQzhrWVhiUnNObW9uNmZaTDBSaENjU043UUFVTy12dXZidmww?oc=5",
+      "source": "IranWire",
+      "published": "2026-09-15T10:05:34+00:00",
+      "score": 4.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
       "title": "Iran says it destroyed U.S. advanced drone over Hormuz as Middle East conflict intensifies - CNBC",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVFU1OERQaW5PLWR6STV5TEE2NjZqaXhsZmItQy1yUXlFNnBtam9sM09EbTFzUmYwVEpqLXhYNHZyWThheWNUb1ZJbFB3Z1JhY3ppNElYNFRtbnVxcVJWRFIyb1RwMUVhTDRZdlRLRmw3UHNORHRjVHJndE4tN3E2VndXbE5CZ9IBiwFBVV95cUxNQUxLdTB2b0RST1RCQUx6Zk84Q3psbDctNV9tT2x2SEMxZ3lVVUo5QWpneEhUaXU5UWNoNHVlOUlLampoOWwxN3lvVXlwbVY5b2hEdC1HalF5SlRNWi1ZVVRXQ1pGWkhGaXMwWFVnLTdXbUtVdFFtLXdxdjVUVGdqYTlqUWw4TFpFVzZF?oc=5",
       "source": "CNBC",
       "published": "2026-09-14T03:01:00+00:00",
-      "score": 3.88,
+      "score": 3.76,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Hormuz traffic dwindles after Middle East attacks intensify - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUTFPRnZDMlUxdmU3RmpseHVGS2laWk4tZU0ySUhOSUdDMGlfQ3loQTBQZktUdW96ck0yNlctUWxVV2NYSHpDclc2YnI4cVFISWZXbjdlM1BDSC1vejJmR2Qtc0NjTTlxLVpxRmZXck5nQU9US1JUalB2cTNZd1Z4Y1Q1QkVQUkEySXNqZUxYV1VWLV8wbVJYTU85X3U0bmk3SXFnNm1uMDQ4TkYwMjV3a3ItZw?oc=5",
-      "source": "Reuters",
-      "published": "2026-09-15T02:59:00+00:00",
+      "title": "Scoop: U.S. attacked Iranian boats trying to seize Navy drone - Axios",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vLVZubFlnN2hCMlQ0WkFLWHVCTXlwbVpIUjRNNEt3blp2WGFDT1d5THl1QU1yc1diS1RwT29WeEJjMlFlalBpZlRhQmw2VUJhYmhjREVkT0JNTmVmWk91U2FpQUVHSlJrb25fbllGWEdBSFVvVmhERkZjOA?oc=5",
+      "source": "Axios",
+      "published": "2026-09-15T13:07:33+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Houthis strike Saudi targets anew as talks over Strait of Hormuz stall - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYjU2YnlvRExQZkwtRGlRN2ljVC10RTVQRGI4NUhLSEladjEzeGltZlcxWXByODRyZDlyM3pvWGdSYVBIZXctNVZvQ2ZOX09PZ2ZsN0pWU216ZFUwUDRRS0RjQXV2QVpMWkVXRFJiZGRaVVZENkFMN3hmUlBSWWxWVENnWnFYVEFHMGVMeWYyX2V0b09TMU9Bb2M4ZmZDWTU2YVVpYUFFOUJCcmVTeHhtdEVla2hMbGR1UGc?oc=5",
-      "source": "Reuters",
-      "published": "2026-09-15T00:04:00+00:00",
+      "title": "Oman tows oil tanker attacked off its coast, two crew missing - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TZVBlYlpWWWNxMzR1RDFDZWltaU90M1d5QUFVNTh2NlJvZGJHa09zLXFZbTU2UjhsUnpkdkdiOWs2NUdmTnUyR1Q2TEQxMFdjbVZsbG9JYUpnbDZC?oc=5",
+      "source": "The Jerusalem Post",
+      "published": "2026-09-15T10:50:42+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "CENTCOM Refutes Iran Claim; New Strait of Hormuz Attack Reported Amid Pipeline Closure - Forth.News",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUWUcwWHVkWmFWRnk3bHladm5xOHNTTkNjeVcxNGxsVzhMQ19UV3BHc0hGZXhUc3JPYU5SNGU3YnM3ZWpCZHM3WW1MSTRkRDgyQzh2T0J5OElHSnJqR2lkcmpB?oc=5",
-      "source": "Forth.News",
-      "published": "2026-09-14T20:09:25+00:00",
+      "title": "Iran Downs Second MQ-1 Drone in 24 Hours over Strait of Hormuz - Palestine Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa0RMdXE5MlNia19IRUphUjN1WmVieHQyaG5CeU5FQTFuak5GNXVybjBHeHhaaEZ5M0phZUtkWEFjTV9vWUtPNk9YeEh0RGNmLXpoU1BCTURlWHQ4Vnc2d1AxVGdpVUMtOG5zaEI1c2J0YlpRb1Nkb2hGdFJqQXFubEFtLUxfeHEzUUNFMGZzbl93VmlJT3owdExQTnk2LXc?oc=5",
+      "source": "Palestine Chronicle",
+      "published": "2026-09-15T08:21:09+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Yemen's Houthis attack Saudis, seize crucial Red Sea islands - DW.com",
+      "title": "Houthis strike Saudi targets anew as talks over Strait of Hormuz stall - The Jakarta Post",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdWtnU29wOElTMGxhcWlTcVIxazUwY2dsM05rN0NtRGUya29wX1BjbGZ2NXJ6enktMlpBZFBUYV93Sm5makJGMUM4YVNqZmdsd1dOVDFRNEJocUxvTklEWG5QWkVXRHBVSHZsWC01WHh1Y3R0Uk52UWg4S0stdHNJQ29xM19BWXNzQ0doT0JnQWVWY0NfVVJLLUdHUVBOUkFzVGV6QndNbEpzVUFaSHZDRl9nS0lSV295RWc?oc=5",
+      "source": "The Jakarta Post",
+      "published": "2026-09-15T06:35:51+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Yemen's Houthis attack Saudis, seize crucial Red Sea islands - dw.com",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNakxzRnUyZzZ5dkJiNFlseXNIdFo3SnlPekp5RkJKUmdTWFNzYkxQLWJyNzFuOGlmWEgzc2lmNXM4a3JWb2J1ckRvUEgxbXlfcnFkcV9oLXY0bXNYQnRKeVlXNEZkckY0NkNFRDVKM0ZUeHZkUERFUFA0UVBxak1maGNSRWJrSFNESnVGaWgxWVREQmZVbWfSAZYBQVVfeXFMT0xiX1h4ZFZnZjBGQ3JtOXpJalNYeGhJTGVORTdGY2RqUlZmcmtDVkZGdVM2anhGQ1JTMTBPYTZOdHZKdFpjTnZjYW9LT1dtUm03Zklkc29mS09fdFZEQS1WeFdBZ2Qxd0tQWWo3eUc2QkZYc3RWWmw1d2xramtETjE1NGVJcGJpNGNodFgzVmV6Z1BFcGV3?oc=5",
-      "source": "DW.com",
-      "published": "2026-09-14T16:16:02+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Oil prices soar over four per cent to 16-week high after Saudi strikes - Baird Maritime",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdldWWWt4YVhBSi1MbGhBSEhnOVR1NUYzaFJJUlVUZDFfVTFPTjRPbEZ1dEZmTmVjSk56a3dJYWRSWDJIdXZ4WlJPeGQ5VjVoVWdycmtsR1hkcnRSQ0lvYjl3Tk9nUTg1dXdPaXBBRlk4a1VTWHRIaklQanJVLUhOUm5jZHFrdm0wQi0wVWsyRi1fV1oxMWZMNGlrYUJoVmRkdzR3ZVFFWXpfOFRBdjJCU0hraGtPNVp00gHGAUFVX3lxTE5KUnhubUZ6RlE1dmhVVmRhaWdfVnpENTJlNkowblh4dTBzVzk2NUFWV294LTFtaDVlX2pTZm83eFlkb0dqa09CZEcwWlJDZERmR29NcmNDa3l3MTEyZndlOHlqRVNBNm5GeEtYWGpMeW9ERFJ6TkJjU2NzLVBzSU1lLTVoWnp1aU5rTkk1SlRfSE1wNzZoTUhOdWlJZDZSWTI4R0c5NVJQWkh3dy12N2hncGdSMWhiVmQzOGd5NU1RRW5KRVZuZw?oc=5",
-      "source": "Baird Maritime",
-      "published": "2026-09-14T15:17:22+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "How Iran's regional allies' attacks in Yemen are compounding the war's impact on oil prices - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSHhya01Ob2EwaVdodUgtaFRpWTBnOHlrWnNwTnF0bXdQMVJaVEx4T203SktTSzVkYzRRei1ZZFI2MnZvM2l3MkRBNmFya0QwS0NuNVVnaEk4U3l5TEYySG1yYkVSWGxEUnBBbllnZGpkYkc1Q3Y4cGhGcklYNjNlSkhZMGszQWg2STVRMkFLcUlMS2lVeFYxV3hFbw?oc=5",
-      "source": "CBS News",
-      "published": "2026-09-14T15:12:13+00:00",
+      "source": "dw.com",
+      "published": "2026-09-15T05:20:11+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -128,7 +128,7 @@
     }
   ],
   "brent": {
-    "price": 102.81,
-    "change_pct": 1.8
+    "price": 102.3,
+    "change_pct": 1.3
   }
 }
