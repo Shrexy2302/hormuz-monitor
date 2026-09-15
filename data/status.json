@@ -1,17 +1,27 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 166.2,
-  "closure_signals": 5,
-  "articles_scanned": 231,
-  "updated": "2026-09-15T20:43:55.758825+00:00",
+  "tension_index": 176.5,
+  "closure_signals": 6,
+  "articles_scanned": 229,
+  "updated": "2026-09-15T23:20:37.893122+00:00",
   "headlines": [
+    {
+      "title": "Global Oil Market Enters a Fuel Crisis as the Strait of Hormuz Is Blocked - SFG Media",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UZVNHVHF0TTZYRFpudG5hMHRmSzV6eTN0Mno4YnFjdktDcHViVE1MRl9TWDJBN2hJc2hySFNUbUFMVHVLZUU3RVlHdkZlRnZpYjJxOWFGMWVlNkZVb2g4X1JrREE5RUlp?oc=5",
+      "source": "SFG Media",
+      "published": "2026-09-15T11:18:28+00:00",
+      "score": 10.0,
+      "tags": [
+        "closure"
+      ]
+    },
     {
       "title": "Breaking: Iran Sets Seven Conditions Through Mediators | Strait of Hormuz Closed | Middle East | GTV - YouTube",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQRHVyNFpZb3JlSThDVU52MS1FM2czMU13MW9YTUUtS2hIRWczSmVJQ0g0aHNHMTJ6NlNIMWdhUjBaR0VwNlJ3QlFwVENzQ2VpV2JCVnNPV19vTW1R?oc=5",
       "source": "YouTube",
       "published": "2026-09-13T04:57:41+00:00",
-      "score": 7.79,
+      "score": 7.65,
       "tags": [
         "closure"
       ]
@@ -41,7 +51,7 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYzJmenlaNkh1VWI2RmdteUtLMDdDOHNWVWJOakp2X3FEblVTTmJGOHQ4RUNhdkhiZ0Jsd3pzR2o4SnJiRmZ6dHdOS24yNHdfTTc1UU5LVF9YSnZkSzFWeGdISUNPVlVXNVFneHBEUFNQVlhteTdzSkgyT3h6SnN0NnFfZEo4Z1A5b1FuNw?oc=5",
       "source": "WANA News Agency",
       "published": "2026-09-14T19:48:10+00:00",
-      "score": 5.97,
+      "score": 5.88,
       "tags": [
         "closure"
       ]
@@ -51,15 +61,15 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfNm0tYmNpckdMZ0w2UGN3SmtNUHJBRTdnQlF2c1NQRFhrb1F1T2c5Zko5Nmw2d2J5bDQzbExJZW9pZ25mMDQ4MTVOX0ZMOHFyZnc1TDdn?oc=5",
       "source": "Ynetnews",
       "published": "2026-09-14T19:17:35+00:00",
-      "score": 5.95,
+      "score": 5.86,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Conflicting Reports on Tanker \u201cEl Gaya\u201d Attack in Strait of Hormuz - iranwire.com",
+      "title": "Conflicting Reports on Tanker \u201cEl Gaya\u201d Attack in Strait of Hormuz - IranWire",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ1FCNmYyd0lzTFg0U1E5eUJTZGExUkNpVXowZlpmTVlfcWdoWTVoN1k4SGVXbHBaZHRNMzdaWEdwQVRuTXdJMGdHUEtWNVl0a09KX0o5ZHVaNW5XaDBxOTNIWmdSZGZob00tR3ZNTy1XY1VnT2YxN0hmWWpMaV9ZQzhrWVhiUnNObW9uNmZaTDBSaENjU043UUFVTy12dXZidmww?oc=5",
-      "source": "iranwire.com",
+      "source": "IranWire",
       "published": "2026-09-15T10:13:57+00:00",
       "score": 4.0,
       "tags": [
@@ -71,15 +81,25 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVFU1OERQaW5PLWR6STV5TEE2NjZqaXhsZmItQy1yUXlFNnBtam9sM09EbTFzUmYwVEpqLXhYNHZyWThheWNUb1ZJbFB3Z1JhY3ppNElYNFRtbnVxcVJWRFIyb1RwMUVhTDRZdlRLRmw3UHNORHRjVHJndE4tN3E2VndXbE5CZ9IBiwFBVV95cUxNQUxLdTB2b0RST1RCQUx6Zk84Q3psbDctNV9tT2x2SEMxZ3lVVUo5QWpneEhUaXU5UWNoNHVlOUlLampoOWwxN3lvVXlwbVY5b2hEdC1HalF5SlRNWi1ZVVRXQ1pGWkhGaXMwWFVnLTdXbUtVdFFtLXdxdjVUVGdqYTlqUWw4TFpFVzZF?oc=5",
       "source": "CNBC",
       "published": "2026-09-14T03:01:00+00:00",
-      "score": 3.61,
+      "score": 3.55,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Iranian air defense shoots down third US drone over Strait of Hormuz, regime claims - report - The Jerusalem Post",
+      "title": "Oman Conducts SAR as US and Iran Argue Over Circumstances of Tanker Attack - maritime-executive.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOEJDQTMxblJDYVphd2F2VjBBVEN6bVl3Njg4SWExZmdfRGYwU3UxTHJ4YVF1VEk3dS1wMktmWjA5b2NvUnU2dG5vaEVDUDl6VmJwTWR4QTRBVkdaZVlOamNtVndHNlNhTlBrOHpaVy05d0h1Z3V3b09ZU2VZclcyRHNxczh5YW1hLXVmNnFKMTVsT3VJQVVHanFDWWN5bVptVnFicURacUpkVlRvc0FRa1ljcw?oc=5",
+      "source": "maritime-executive.com",
+      "published": "2026-09-15T16:44:58+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iranian air defense shoots down third US drone over Strait of Hormuz, regime claims - report - jpost.com",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkR0phZFZ4WWFQeWI5WmRPYTZaVHhtbi12ZEx1ZnBYMk9EWmIzd3RjLUtfVUEtbHhLaVNzbmViNTdCQmd1Q0w1UldjRG5KSkYwbUxIdVZZSlYyNm5KenRReGUzSDlPbUUxdmc?oc=5",
-      "source": "The Jerusalem Post",
+      "source": "jpost.com",
       "published": "2026-09-15T16:20:58+00:00",
       "score": 3.0,
       "tags": [
@@ -87,40 +107,20 @@
       ]
     },
     {
-      "title": "Scoop: U.S. attacked Iranian boats trying to seize Navy drone - Axios",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vLVZubFlnN2hCMlQ0WkFLWHVCTXlwbVpIUjRNNEt3blp2WGFDT1d5THl1QU1yc1diS1RwT29WeEJjMlFlalBpZlRhQmw2VUJhYmhjREVkT0JNTmVmWk91U2FpQUVHSlJrb25fbllGWEdBSFVvVmhERkZjOA?oc=5",
-      "source": "Axios",
-      "published": "2026-09-15T13:11:24+00:00",
+      "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhVXY0Z01uOWU3bjVROUVDc3c3RmpWZ3VRZmVWRmRQR1JCY2NfN04xRDJIeUpkWVhKdlBaU2M2MWYza2VfVVpkZWtQNFdyVzRfRFdDcDdiTEpWalE?oc=5",
+      "source": "BBC",
+      "published": "2026-09-15T16:13:41+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "BREAKING: Another vessel struck in Strait of Hormuz - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwLTY4TVFua1VLWHk5RFR0b0lBTW5CT0c0SkptOHIwSGthMTVGZC1oNElsaVh2QnN2MjJqY3pVXzBWcTZzZkR4b3lPSHFxdUFmN3h2ekdB?oc=5",
-      "source": "Fox News",
-      "published": "2026-09-15T12:26:39+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Oman tows oil tanker attacked off its coast, two crew missing - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TZVBlYlpWWWNxMzR1RDFDZWltaU90M1d5QUFVNTh2NlJvZGJHa09zLXFZbTU2UjhsUnpkdkdiOWs2NUdmTnUyR1Q2TEQxMFdjbVZsbG9JYUpnbDZC?oc=5",
-      "source": "The Jerusalem Post",
-      "published": "2026-09-15T10:50:42+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Vessel struck by unknown projectile in Strait of Hormuz: UKMTO - Anadolu Ajans\u0131",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUThtd2FRdy1UZi1lWGVEQWVjQnV6QXdfUFpFX2hSX2s4cUp1MU1nbTNCYnlyZU8yc0Y1NXRfRGY0ZFF5SXFDREN6QjFlN05YcTZWbkh0QVV6bWRYaGxWMFVtOHJfNTR5Q1dFRU5mVndmYlpBWVRZNEdyRkxOYnNfYll1WjZrSmNjMDNWeGZ0aERkUllhZU1RYmxVcWJUU1c2REYtOW9xRm9QUQ?oc=5",
-      "source": "Anadolu Ajans\u0131",
-      "published": "2026-09-15T09:51:47+00:00",
+      "title": "Yemen's Houthis attack Saudis, seize crucial Red Sea islands - dw.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNakxzRnUyZzZ5dkJiNFlseXNIdFo3SnlPekp5RkJKUmdTWFNzYkxQLWJyNzFuOGlmWEgzc2lmNXM4a3JWb2J1ckRvUEgxbXlfcnFkcV9oLXY0bXNYQnRKeVlXNEZkckY0NkNFRDVKM0ZUeHZkUERFUFA0UVBxak1maGNSRWJrSFNESnVGaWgxWVREQmZVbWfSAZYBQVVfeXFMT0xiX1h4ZFZnZjBGQ3JtOXpJalNYeGhJTGVORTdGY2RqUlZmcmtDVkZGdVM2anhGQ1JTMTBPYTZOdHZKdFpjTnZjYW9LT1dtUm03Zklkc29mS09fdFZEQS1WeFdBZ2Qxd0tQWWo3eUc2QkZYc3RWWmw1d2xramtETjE1NGVJcGJpNGNodFgzVmV6Z1BFcGV3?oc=5",
+      "source": "dw.com",
+      "published": "2026-09-15T13:01:06+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -128,7 +128,7 @@
     }
   ],
   "brent": {
-    "price": 108.37,
-    "change_pct": 2.55
+    "price": 108.3,
+    "change_pct": -0.41
   }
 }
