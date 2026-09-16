@@ -1,17 +1,17 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 148.7,
-  "closure_signals": 6,
-  "articles_scanned": 228,
-  "updated": "2026-09-16T12:20:53.833672+00:00",
+  "tension_index": 148.2,
+  "closure_signals": 7,
+  "articles_scanned": 229,
+  "updated": "2026-09-16T17:11:01.081163+00:00",
   "headlines": [
     {
       "title": "Global Oil Market Enters a Fuel Crisis as the Strait of Hormuz Is Blocked - SFG Media",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UZVNHVHF0TTZYRFpudG5hMHRmSzV6eTN0Mno4YnFjdktDcHViVE1MRl9TWDJBN2hJc2hySFNUbUFMVHVLZUU3RVlHdkZlRnZpYjJxOWFGMWVlNkZVb2g4X1JrREE5RUlp?oc=5",
       "source": "SFG Media",
       "published": "2026-09-15T11:18:28+00:00",
-      "score": 9.94,
+      "score": 9.67,
       "tags": [
         "closure"
       ]
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQRHVyNFpZb3JlSThDVU52MS1FM2czMU13MW9YTUUtS2hIRWczSmVJQ0g0aHNHMTJ6NlNIMWdhUjBaR0VwNlJ3QlFwVENzQ2VpV2JCVnNPV19vTW1R?oc=5",
       "source": "YouTube",
       "published": "2026-09-13T04:57:41+00:00",
-      "score": 6.92,
+      "score": 6.65,
       "tags": [
         "closure"
       ]
@@ -31,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWm9UeUxkX29DdEd0Vy0wUUFXcXFqRHBaSENHMUpMc0FkNjdBbHhPUUljMXVaeFpkSXp0ajJ0VkZnSVBET3dpclFOaWt5VVhWT2N1MWNUYUN5b2lvQzZIWGpuMmFxaXNaVHdEWGZTMTFVY1Joc1FtbjZ0OER4U2lxMlZXZWhTY1RoMTV5RFNzMlZIWE1rVnBubmp1RXBRRWV1ZDFpSUFMTFVaa2g3Z1JGSWw3X0FKMHZ5MGJKc2h5WnpyR18yQl9hS3ZubmRLNUZOdmfSAdIBQVVfeXFMTlpvVHlMZF9vQ3RHdFctMFFBV3FxakRwWkhDRzFKTHNBZDY3QWx4T1FJYzF1WnhaZEl6dGoydFZGZ0lQRE93aXJRTmlreVVYVk9jdTFjVGFDeW9pb0M2SFhqbjJhcWlzWlR3RFhmUzExVWNSaHNRbW42dDhEeFNpcTJWV2VoU2NUaDE1eURTczJWSFhNa1Zwbm5qdUVwUUVldWQxaUlBTExVWmtoN2dSRklsN19BSjB2eTBiSnNoeVp6ckdfMkJfYUt2bm5kSzVGTnZn?oc=5",
       "source": "National Herald",
       "published": "2026-09-15T04:27:24+00:00",
-      "score": 5.74,
+      "score": 5.58,
       "tags": [
         "closure"
       ]
@@ -41,17 +41,27 @@
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UcHRpMHNjNFZFcXA5QkFjci14U2VyUllINzF3ZXo1dTFiYl9DXzk3bnBJc0plUTlVaGxzcExLZjNtbzhvc2lrRWN3ZWhpVHh1SnI3WVdQcEpnWmJmN2pMWXVB?oc=5",
       "source": "Global Times",
       "published": "2026-09-15T00:01:00+00:00",
-      "score": 5.59,
+      "score": 5.43,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "SuperTanker El Gaia Hits Naval Mines in Southern Strait of Hormuz - WANA News Agency",
+      "title": "Iran's IRGC Says EL GAIA Oil Tanker Exploded After Hitting Naval Mines in Strait of Hormuz: who 88 outlets blamed - NewsCord",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOS3p2RndWTkxFQmk4LTdxOTVEU0FwelJWQnN2Vkk4SHVaQVNCNG5Zc0dXdS10MmlwTHloOUlUYUZOenpnTE5fNzhiM2Viblk5WTlOV1JpUnZtaHg2RjZOcVJKUkpEcTlRU0lfU0pEbVlISG9MeV81YllpMzVUcFlPamQxTlYzUldtX2tjLWxvY2dkVTNRQ2VEMVBRX1RnSVc5VjByRXJ6LXhyV2F6ancyYllxeWxfY1Bxcy1rc2ZzSkt5M0xPeGhwWkJnV05WUllaZ002UUx3MlB0WFFMZEE?oc=5",
+      "source": "NewsCord",
+      "published": "2026-09-14T21:26:15+00:00",
+      "score": 5.34,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "SuperTanker El Gaia Hits Naval Mines in Southern Strait of Hormuz - wanaen.com",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYzJmenlaNkh1VWI2RmdteUtLMDdDOHNWVWJOakp2X3FEblVTTmJGOHQ4RUNhdkhiZ0Jsd3pzR2o4SnJiRmZ6dHdOS24yNHdfTTc1UU5LVF9YSnZkSzFWeGdISUNPVlVXNVFneHBEUFNQVlhteTdzSkgyT3h6SnN0NnFfZEo4Z1A5b1FuNw?oc=5",
-      "source": "WANA News Agency",
+      "source": "wanaen.com",
       "published": "2026-09-14T19:48:10+00:00",
-      "score": 5.45,
+      "score": 5.29,
       "tags": [
         "closure"
       ]
@@ -61,17 +71,17 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfNm0tYmNpckdMZ0w2UGN3SmtNUHJBRTdnQlF2c1NQRFhrb1F1T2c5Zko5Nmw2d2J5bDQzbExJZW9pZ25mMDQ4MTVOX0ZMOHFyZnc1TDdn?oc=5",
       "source": "Ynetnews",
       "published": "2026-09-14T19:17:35+00:00",
-      "score": 5.43,
+      "score": 5.27,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Conflicting Reports on Tanker \u201cEl Gaya\u201d Attack in Strait of Hormuz - iranwire.com",
+      "title": "Conflicting Reports on Tanker \u201cEl Gaya\u201d Attack in Strait of Hormuz - IranWire",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ1FCNmYyd0lzTFg0U1E5eUJTZGExUkNpVXowZlpmTVlfcWdoWTVoN1k4SGVXbHBaZHRNMzdaWEdwQVRuTXdJMGdHUEtWNVl0a09KX0o5ZHVaNW5XaDBxOTNIWmdSZGZob00tR3ZNTy1XY1VnT2YxN0hmWWpMaV9ZQzhrWVhiUnNObW9uNmZaTDBSaENjU043UUFVTy12dXZidmww?oc=5",
-      "source": "iranwire.com",
+      "source": "IranWire",
       "published": "2026-09-15T10:13:57+00:00",
-      "score": 3.95,
+      "score": 3.85,
       "tags": [
         "tension"
       ]
@@ -81,7 +91,27 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVFU1OERQaW5PLWR6STV5TEE2NjZqaXhsZmItQy1yUXlFNnBtam9sM09EbTFzUmYwVEpqLXhYNHZyWThheWNUb1ZJbFB3Z1JhY3ppNElYNFRtbnVxcVJWRFIyb1RwMUVhTDRZdlRLRmw3UHNORHRjVHJndE4tN3E2VndXbE5CZ9IBiwFBVV95cUxNQUxLdTB2b0RST1RCQUx6Zk84Q3psbDctNV9tT2x2SEMxZ3lVVUo5QWpneEhUaXU5UWNoNHVlOUlLampoOWwxN3lvVXlwbVY5b2hEdC1HalF5SlRNWi1ZVVRXQ1pGWkhGaXMwWFVnLTdXbUtVdFFtLXdxdjVUVGdqYTlqUWw4TFpFVzZF?oc=5",
       "source": "CNBC",
       "published": "2026-09-14T03:01:00+00:00",
-      "score": 3.26,
+      "score": 3.15,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "US-contracted vessel struck in Iranian attack near Strait of Hormuz: Report - Anadolu Ajans\u0131",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSG9nbEd1c3Z0VWd0bUNSN1hOWURrNENNcjZ3eEN0UGpORWV6R0UzX21pOEZYTzFkdjdMaUQ1UmFzWDNTZnU4V05VeEFaU0k3MUVRbG1mOHF0cFVkeE16bHNSNFQ5dlJSWm16NnhyMlpJVVlzSW8zd2pNY05WXzY5V3NhTC00Wk9VdTFqWWl5b045SjdkZy16MUU1dTBmbWRZU3NMM1J0ckpVc1pSQnk3elFONFpJRUk?oc=5",
+      "source": "Anadolu Ajans\u0131",
+      "published": "2026-09-16T14:23:51+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iranian strikes caused widespread damage to US bases across Middle East: report - The Express Tribune",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOazA3dTIyOFA5alB2M3hTdUZ0dU1JamxvOGhwN2VHbEoxeExrZmZsN0N1dFZMck9MZHhuanE3dGpFWjVnYnhRRTkxQzFfMm1Ha19kS2tQN0puZmgwWEJDbEZEdkthU3U2SnZ5UFVHTDNtWmc4R1NjQklsbVZTSjFjSlVOSlgycFBoV1o1LUk4aW4tV0tqa25LendNX2JfcFBzSnkzdjM1SHBPOEpnR0U3U2x6SXlmZw?oc=5",
+      "source": "The Express Tribune",
+      "published": "2026-09-16T11:23:29+00:00",
+      "score": 3.0,
       "tags": [
         "tension"
       ]
@@ -90,37 +120,7 @@
       "title": "Scoop: U.S. attacked Iranian boats trying to seize Navy drone - Axios",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vLVZubFlnN2hCMlQ0WkFLWHVCTXlwbVpIUjRNNEt3blp2WGFDT1d5THl1QU1yc1diS1RwT29WeEJjMlFlalBpZlRhQmw2VUJhYmhjREVkT0JNTmVmWk91U2FpQUVHSlJrb25fbllGWEdBSFVvVmhERkZjOA?oc=5",
       "source": "Axios",
-      "published": "2026-09-15T23:15:30+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Oman Conducts SAR as US and Iran Argue Over Circumstances of Tanker Attack - The Maritime Executive",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOEJDQTMxblJDYVphd2F2VjBBVEN6bVl3Njg4SWExZmdfRGYwU3UxTHJ4YVF1VEk3dS1wMktmWjA5b2NvUnU2dG5vaEVDUDl6VmJwTWR4QTRBVkdaZVlOamNtVndHNlNhTlBrOHpaVy05d0h1Z3V3b09ZU2VZclcyRHNxczh5YW1hLXVmNnFKMTVsT3VJQVVHanFDWWN5bVptVnFicURacUpkVlRvc0FRa1ljcw?oc=5",
-      "source": "The Maritime Executive",
-      "published": "2026-09-15T16:44:58+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Report: Iran shoots down US military drone over Strait of Hormuz - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkR0phZFZ4WWFQeWI5WmRPYTZaVHhtbi12ZEx1ZnBYMk9EWmIzd3RjLUtfVUEtbHhLaVNzbmViNTdCQmd1Q0w1UldjRG5KSkYwbUxIdVZZSlYyNm5KenRReGUzSDlPbUUxdmc?oc=5",
-      "source": "The Jerusalem Post",
-      "published": "2026-09-15T16:20:58+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhVXY0Z01uOWU3bjVROUVDc3c3RmpWZ3VRZmVWRmRQR1JCY2NfN04xRDJIeUpkWVhKdlBaU2M2MWYza2VfVVpkZWtQNFdyVzRfRFdDcDdiTEpWalE?oc=5",
-      "source": "BBC",
-      "published": "2026-09-15T16:13:41+00:00",
+      "published": "2026-09-16T05:17:23+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -128,7 +128,7 @@
     }
   ],
   "brent": {
-    "price": 107.14,
-    "change_pct": -1.48
+    "price": 105.79,
+    "change_pct": -2.72
   }
 }
