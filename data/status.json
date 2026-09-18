@@ -1,17 +1,17 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 120.0,
+  "tension_index": 150.3,
   "closure_signals": 2,
-  "articles_scanned": 229,
-  "updated": "2026-09-18T11:33:41.029008+00:00",
+  "articles_scanned": 222,
+  "updated": "2026-09-18T15:35:09.704506+00:00",
   "headlines": [
     {
       "title": "Global Oil Market Enters a Fuel Crisis as the Strait of Hormuz Is Blocked - SFG Media",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UZVNHVHF0TTZYRFpudG5hMHRmSzV6eTN0Mno4YnFjdktDcHViVE1MRl9TWDJBN2hJc2hySFNUbUFMVHVLZUU3RVlHdkZlRnZpYjJxOWFGMWVlNkZVb2g4X1JrREE5RUlp?oc=5",
       "source": "SFG Media",
       "published": "2026-09-15T11:18:28+00:00",
-      "score": 7.32,
+      "score": 7.1,
       "tags": [
         "closure"
       ]
@@ -21,7 +21,17 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzRPSjlIQTd4QndKdm9CUHk1ZWxIaktfOERjc1A3VHpYMHV0Z1Zkd3dGNURqMFJFR3l4LXo3OU5scG96QXhMd0F5TGthdlVzbmg0QVVHbnktU096TkFWUnc5QU9UV0xvTk1jbDY3eGFJaWZXN19UOEJvbTF6eFdFcW13cWxwdWRDVzU1OEl6c2ctT3ltYVJZN0d1a3hvQdIBowFBVV95cUxPUktnalZhVFFxNkhBTHFVS0tOSVBzVE5rZWFhcHhQUVk5dnlocFVZQWdNeHlNQ2pwY0ctTHp6dkQ1WFh1djJsUkQxZ3RZR3NkbVVJOWNCNTFqdFl5eUpMc044SVlwQVMyeldla2VYZ2FxVG5ud1RvTVlKNVc1d0FMNjZSemNubmdydW5BRE1peGVjdmJNSFF5QVZ2OGtNMTVHY09B?oc=5",
       "source": "ABC News - Breaking News, Latest News and Videos",
       "published": "2026-09-16T19:24:40+00:00",
-      "score": 5.46,
+      "score": 5.33,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Breaking: Iran Sets Seven Conditions Through Mediators | Strait of Hormuz Closed | Middle East | GTV - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQRHVyNFpZb3JlSThDVU52MS1FM2czMU13MW9YTUUtS2hIRWczSmVJQ0g0aHNHMTJ6NlNIMWdhUjBaR0VwNlJ3QlFwVENzQ2VpV2JCVnNPV19vTW1R?oc=5",
+      "source": "YouTube",
+      "published": "2026-09-13T04:57:41+00:00",
+      "score": 4.08,
       "tags": [
         "closure"
       ]
@@ -31,17 +41,17 @@
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UcHRpMHNjNFZFcXA5QkFjci14U2VyUllINzF3ZXo1dTFiYl9DXzk3bnBJc0plUTlVaGxzcExLZjNtbzhvc2lrRWN3ZWhpVHh1SnI3WVdQcEpnWmJmN2pMWXVB?oc=5",
       "source": "Global Times",
       "published": "2026-09-15T00:01:00+00:00",
-      "score": 4.02,
+      "score": 3.88,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iran's IRGC Says EL GAIA Oil Tanker Exploded After Hitting Naval Mines in Strait of Hormuz: who 88 outlets blamed - NewsCord",
+      "title": "Iran's IRGC Says EL GAIA Oil Tanker Exploded After Hitting Naval Mines in Strait of Hormuz: who 88 outlets blamed - newscord.org",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOS3p2RndWTkxFQmk4LTdxOTVEU0FwelJWQnN2Vkk4SHVaQVNCNG5Zc0dXdS10MmlwTHloOUlUYUZOenpnTE5fNzhiM2Viblk5WTlOV1JpUnZtaHg2RjZOcVJKUkpEcTlRU0lfU0pEbVlISG9MeV81YllpMzVUcFlPamQxTlYzUldtX2tjLWxvY2dkVTNRQ2VEMVBRX1RnSVc5VjByRXJ6LXhyV2F6ancyYllxeWxfY1Bxcy1rc2ZzSkt5M0xPeGhwWkJnV05WUllaZ002UUx3MlB0WFFMZEE?oc=5",
-      "source": "NewsCord",
+      "source": "newscord.org",
       "published": "2026-09-14T21:26:15+00:00",
-      "score": 3.93,
+      "score": 3.8,
       "tags": [
         "closure"
       ]
@@ -51,7 +61,7 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYzJmenlaNkh1VWI2RmdteUtLMDdDOHNWVWJOakp2X3FEblVTTmJGOHQ4RUNhdkhiZ0Jsd3pzR2o4SnJiRmZ6dHdOS24yNHdfTTc1UU5LVF9YSnZkSzFWeGdISUNPVlVXNVFneHBEUFNQVlhteTdzSkgyT3h6SnN0NnFfZEo4Z1A5b1FuNw?oc=5",
       "source": "WANA News Agency",
       "published": "2026-09-14T19:48:10+00:00",
-      "score": 3.87,
+      "score": 3.74,
       "tags": [
         "closure"
       ]
@@ -61,66 +71,56 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfNm0tYmNpckdMZ0w2UGN3SmtNUHJBRTdnQlF2c1NQRFhrb1F1T2c5Zko5Nmw2d2J5bDQzbExJZW9pZ25mMDQ4MTVOX0ZMOHFyZnc1TDdn?oc=5",
       "source": "Ynetnews",
       "published": "2026-09-14T19:17:35+00:00",
-      "score": 3.86,
+      "score": 3.72,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iran Says it Struck Togo-Flagged Oil Tanker in Strait of Hormuz - Kurdistan24",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaFRXUWhJMzNucHFsV1lyeFlGUlZSSzA3S2RpQWtpSW85V0hwbDEwQkdYcXotVnRVZ3JraVVZbHctdE0tVy1KMk5GNkFXWjRsZnNtdjc3WG83Q080dnhUVGNtanFyVFhKdEtoQTdVdlhONlpfSHItMFVMYjFTbk1xbFlhRVA3Y1BNa2h0WTluN0xRcUtOQXNObDRtN0ZZMW1KNzhzQUpzdzB0VUE?oc=5",
-      "source": "Kurdistan24",
-      "published": "2026-09-18T10:49:00+00:00",
+      "title": "Iran claims it struck an oil tanker in the Strait of Hormuz, and other Mideast developments - Ottumwa Courier",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOTE4tRmc0SjVTTVRYZl93NFRQbkJmTVdlOXludXBpejF3V0Q3S0JWNWpIMWdxV0g4THFHLXNjLVBSWDh4TFlnY1FabmZzeUZDQWdzbklhd2F1TzhscDh4a1M4VFkwZWZtU0tlN3RBOWhUNlJzV2NhcG96bXFUVTZ5MlVBZ1hJck0yLXpMSHJvTFp2bEhxT2xOZjVUckVWdmlsOWN1UV9NY2VVcmc3bDBIWTZRc3JsdkdOT21JZEtHYmpIN1VGakstSjNqNDhOeThXdXFpTFZ6REJnMW1kbVVGRHRBR1k3cWlRSVoxS1BKUGpqaTNVY01yR2Z6MUlMbFVnbzBoNkdMNGo?oc=5",
+      "source": "Ottumwa Courier",
+      "published": "2026-09-18T14:33:02+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Iran says it strikes an oil tanker, and other Mideast developments - WSB-TV",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOXB5dEZKbVloSEstenFVZ3dkUGVBZFdXajkxU29IMXkyUHNHTGJEZE5naGotR1ZrMFBScHctVk5sY2diaUFxaGlEUDhiQU5EZ29fRW0zOXptWUtBbEpQanVYcDRTdTVfUWNHZHFRUzJhUXhTNTJzTjltRzZld2NKNVo5NmpwYWJJ0gGcAUFVX3lxTE5ReDExZUxIaUZBRk9LellZUzk0YVNaRk5yejBDc1BSUDJEVzBfYVM3Vl9nNFRBaUxxMFhteVNvNEoya2tLdnBpbVZMMVdvRnpMbUtjUGZFUEhndmd6WFYwOEdXRk0tUFhLM25OTjhLeGEtNGdmWTRvV0ZnWkxmOEM3ckkxZTBlelYwSlJvbUtPemxjZjlmc2IyVWY5bQ?oc=5",
-      "source": "WSB-TV",
-      "published": "2026-09-18T09:06:46+00:00",
+      "title": "Iran claims it struck an oil tanker in the Strait of Hormuz, and other Mideast developments - Cherokee Tribune",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOUDZ3TEZkSDFqWUFQbVg3LVZERG5IaVdwdHRuLTk4ekl0SXZwQ01rSWRQM0duRkwzLVZaVVlpQ29OMjVLSzRFOGxjbzBscVM0QWItRl9TdU45VDdaMjZoci15b2NNUFlfMjR1UkNkbnJrUl90Y1VhLWVOblNuNGlrQk5UZmFqekwteVpIYU9BM0I2aU9JVE9uSlNDR3doTWs4R1FvTWxBQzJVNDFTSndGRFdMWVpXRUVTcm8zdEFtQ2U2Y0drVk1oUE9ST1BFRHJ6YUkxU3c3a3dablNwSVd3ZWtDZDBGTEhsSmJhaEY1SkxUbmYtdEdmVmNjV3F1b25paXdtZ3dVRUR4QndLUG9RS2VDVkNhQVRpVEtZ?oc=5",
+      "source": "Cherokee Tribune",
+      "published": "2026-09-18T14:33:02+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Iran says it strikes an oil tanker, and other Mideast developments - WHIO TV",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTWg3eDd6bENaS0V5aGN4bzd5R20xQzA2MjR1aUZETHdjZXdZVE82LWE4ejlHdkFUaWZQdGsyMGlUZjlHal9LNjVxd2NaTWZ3ZFk2Nm9wbEtOVzljWWViUlNxWTg3Nk82MlZ2bms2a25MREZOdUpMaXkxSnNIbERwOTZEbWVQYTDSAZsBQVVfeXFMT1lLcmdfMWc2bnlaNllrUjVNNkMwdEdiMVpVUHpTV1pjRkhuNW1zMlprSE9HQkRFVU9TRm95b3VSZXRBc2FTaG5ESmdwY21aMDZQUl9adHVEQUdMRzJrX3IxbjRvTEZJYjJxY0JPQ0xkZElTa3hPY1h4SkRfV2k4M2s0R0lEd09IbUN2dk9NZ3MyYmNoY2lIVXh6ams?oc=5",
-      "source": "WHIO TV",
-      "published": "2026-09-18T09:06:46+00:00",
+      "title": "Iran says it struck oil tanker; rally held in support of Tehran - spectrumlocalnews.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMkNVM2xMVS1nZFFKS196dmRVNlpveVpka2JOZWlfdjBlT1NBSVR5M0VvenVFLVgxN084cUI0OWFXUnNoUW5jLU02NUt5WmpSc0xuWjlXWXlrcDI0U3NuWXIzWmNhalBLQ0x2cWsxOUxSTHJsc1htU1VoWEVXN3JLMDUwV3VlV0hDWW0xT2NhWnJRMVZjZUFXazZpQ0U5bGlONnh0TkxsOGFuekd0djdlRVpB?oc=5",
+      "source": "spectrumlocalnews.com",
+      "published": "2026-09-18T14:21:00+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Iran says it strikes an oil tanker, and other Mideast developments - AP News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeWdlRjU5QTRNU0tfUUpTVW1iYUNBQ3hWejBlMVBaWTFEbFh1MkVtM1QzamhsY240NFQ3aW1vTUdMb0JaVUk2QWY1WE9SZWNqLUpzWVI4OFpyWlN1b0pXTW5vZzNEc3ZqZV9wdVowMGpzeHJub1ZFTWtoZGRyRklIbnR2d19mOVhhWG5GdkxTdTB1bktBRHFMSlVGbEZ5Mk0?oc=5",
-      "source": "AP News",
-      "published": "2026-09-18T09:06:00+00:00",
+      "title": "Freedom of navigation under fire as Iran strikes tanker in Hormuz - Lloyd's List",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZC11cGtEd0Znb28zQjNBcWxYMWY0NXQyV0RFOG43RkZ1M1dzX2J6Z25WZm82ZXozYl9kZ2VpRUY2SDBnNFVzRDNnX2FlTGJpUXBNOEM5TkNndUw4MHRBOXdpbEdJUXJvOGsxaE9pSmpSTVZNeTB5Wkk2bXQ2NGVvOUU0TUl1eWRVbUgySHFPMmpkVGo2OFJraVFqNnRKcnRNMjREYw?oc=5",
+      "source": "Lloyd's List",
+      "published": "2026-09-18T13:25:15+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Fresh tanker strikes hit Strait of Hormuz as seafarer death toll rises - safety4sea",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcjZuZ1lEdHQ2dUh6eTZYMll4OHV1NXJ3ckFXMHd6clVCMmpJMlZxTWlKU3N5clNxdWpQMjlpc0xidGVIZWp4ZklfQTdMUzVub3h5bGFZM1JGWkNVNkFMRGUwSTJjTjhIRE1vaXlpSEM1S09TejhSNUNnMUlKaXBBaVJ2bV9xVGl6WFJQUjJHSXdqMmd5aTJaS1hn?oc=5",
-      "source": "safety4sea",
-      "published": "2026-09-18T08:59:28+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran says it struck oil tanker in Strait of Hormuz - CNA",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOVhDM0tYaTdXRUhzRmlWVDFDUklNdE9RYlZydXc1Ry1sNkZjVEJLcnJlUXNEMURHdVNYcVp0Q2xJYzlSRmdpbGRHaWxDbXVhbGVfYXZlVjFpWTZJeFdRSUI2Qm44Sk5MOV9zRFJtSmpOT1hoRVdzSHFWbWR5QzZRZVp5MzZyNkRVY1E?oc=5",
-      "source": "CNA",
-      "published": "2026-09-18T08:43:00+00:00",
+      "title": "Trump weighs 'annihilating' Iranian regime as tanker attacks hit Strait of Hormuz - KHGI",
+      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxNQ2g0YVBsQ01zUlppU3FTdXJqM05sbjNrd3QzNXRtQTNDN1NfUzZvQ3lzcy1XUmpXcjdRZWhlUUhyRVl3RThiWndxdk1sSVRlWmstRTQzUkZka3hDWjRTWklZZjN4TWVvX2tITGp2UWM3S1QwYUREQ2ltZE9RLWtJcko5Q2ZNQUlXai1zWjRHSVQyM0hTRTFvaDA2RDBPdVZVTEQ1cFdwdEFyUGdXTVpjVUVwcmlpRXMtY2xSTlNhTUwySE9vYmdIV0FRaDMxRHlPTXZTMFJGdnR2bmxTVG9kY3hqdURHM3pmWEF3cHVhbHpJb3Z0RmdxekRFVndoN1FjSUtYNk9fNFVYVjA2S2trMzJxT1dUU2o0TEFRNGppQlZCWWxfbndaRUVLNTl1QUM4YUdZZ2hPaEhVemszUExXMWhuN1dQYWo0Z0hKZm9mbEJiYlNfRUpOLXhFMUxrb2xSZVRyMC14Qkh0WVZWOEVJSk9TR2E5eEdsUldRaF84NlYwUUE2c1U1Tld1TQ?oc=5",
+      "source": "KHGI",
+      "published": "2026-09-18T13:15:37+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -128,7 +128,7 @@
     }
   ],
   "brent": {
-    "price": 98.75,
-    "change_pct": -1.18
+    "price": 99.91,
+    "change_pct": -0.02
   }
 }
