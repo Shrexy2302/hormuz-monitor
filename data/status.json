@@ -1,27 +1,27 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 108.6,
+  "tension_index": 112.7,
   "closure_signals": 2,
   "articles_scanned": 230,
-  "updated": "2026-09-18T01:04:23.582669+00:00",
+  "updated": "2026-09-18T06:11:48.951504+00:00",
   "headlines": [
     {
       "title": "Global Oil Market Enters a Fuel Crisis as the Strait of Hormuz Is Blocked - SFG Media",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UZVNHVHF0TTZYRFpudG5hMHRmSzV6eTN0Mno4YnFjdktDcHViVE1MRl9TWDJBN2hJc2hySFNUbUFMVHVLZUU3RVlHdkZlRnZpYjJxOWFGMWVlNkZVb2g4X1JrREE5RUlp?oc=5",
       "source": "SFG Media",
       "published": "2026-09-15T11:18:28+00:00",
-      "score": 7.9,
+      "score": 7.62,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "US targets mine-laying vessels in the Strait of Hormuz amid blockade disrupting global oil markets - abcnews.com",
+      "title": "US targets mine-laying vessels in the Strait of Hormuz amid blockade disrupting global oil markets - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzRPSjlIQTd4QndKdm9CUHk1ZWxIaktfOERjc1A3VHpYMHV0Z1Zkd3dGNURqMFJFR3l4LXo3OU5scG96QXhMd0F5TGthdlVzbmg0QVVHbnktU096TkFWUnc5QU9UV0xvTk1jbDY3eGFJaWZXN19UOEJvbTF6eFdFcW13cWxwdWRDVzU1OEl6c2ctT3ltYVJZN0d1a3hvQdIBowFBVV95cUxPUktnalZhVFFxNkhBTHFVS0tOSVBzVE5rZWFhcHhQUVk5dnlocFVZQWdNeHlNQ2pwY0ctTHp6dkQ1WFh1djJsUkQxZ3RZR3NkbVVJOWNCNTFqdFl5eUpMc044SVlwQVMyeldla2VYZ2FxVG5ud1RvTVlKNVc1d0FMNjZSemNubmdydW5BRE1peGVjdmJNSFF5QVZ2OGtNMTVHY09B?oc=5",
-      "source": "abcnews.com",
+      "source": "ABC News - Breaking News, Latest News and Videos",
       "published": "2026-09-16T19:24:40+00:00",
-      "score": 5.81,
+      "score": 5.64,
       "tags": [
         "closure"
       ]
@@ -31,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQRHVyNFpZb3JlSThDVU52MS1FM2czMU13MW9YTUUtS2hIRWczSmVJQ0g0aHNHMTJ6NlNIMWdhUjBaR0VwNlJ3QlFwVENzQ2VpV2JCVnNPV19vTW1R?oc=5",
       "source": "YouTube",
       "published": "2026-09-13T04:57:41+00:00",
-      "score": 4.88,
+      "score": 4.6,
       "tags": [
         "closure"
       ]
@@ -41,7 +41,7 @@
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UcHRpMHNjNFZFcXA5QkFjci14U2VyUllINzF3ZXo1dTFiYl9DXzk3bnBJc0plUTlVaGxzcExLZjNtbzhvc2lrRWN3ZWhpVHh1SnI3WVdQcEpnWmJmN2pMWXVB?oc=5",
       "source": "Global Times",
       "published": "2026-09-15T00:01:00+00:00",
-      "score": 4.36,
+      "score": 4.19,
       "tags": [
         "closure"
       ]
@@ -51,17 +51,17 @@
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOS3p2RndWTkxFQmk4LTdxOTVEU0FwelJWQnN2Vkk4SHVaQVNCNG5Zc0dXdS10MmlwTHloOUlUYUZOenpnTE5fNzhiM2Viblk5WTlOV1JpUnZtaHg2RjZOcVJKUkpEcTlRU0lfU0pEbVlISG9MeV81YllpMzVUcFlPamQxTlYzUldtX2tjLWxvY2dkVTNRQ2VEMVBRX1RnSVc5VjByRXJ6LXhyV2F6ancyYllxeWxfY1Bxcy1rc2ZzSkt5M0xPeGhwWkJnV05WUllaZ002UUx3MlB0WFFMZEE?oc=5",
       "source": "NewsCord",
       "published": "2026-09-14T21:26:15+00:00",
-      "score": 4.28,
+      "score": 4.11,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "SuperTanker El Gaia Hits Naval Mines in Southern Strait of Hormuz - WANA News Agency",
+      "title": "SuperTanker El Gaia Hits Naval Mines in Southern Strait of Hormuz - wanaen.com",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYzJmenlaNkh1VWI2RmdteUtLMDdDOHNWVWJOakp2X3FEblVTTmJGOHQ4RUNhdkhiZ0Jsd3pzR2o4SnJiRmZ6dHdOS24yNHdfTTc1UU5LVF9YSnZkSzFWeGdISUNPVlVXNVFneHBEUFNQVlhteTdzSkgyT3h6SnN0NnFfZEo4Z1A5b1FuNw?oc=5",
-      "source": "WANA News Agency",
+      "source": "wanaen.com",
       "published": "2026-09-14T19:48:10+00:00",
-      "score": 4.22,
+      "score": 4.05,
       "tags": [
         "closure"
       ]
@@ -71,7 +71,7 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfNm0tYmNpckdMZ0w2UGN3SmtNUHJBRTdnQlF2c1NQRFhrb1F1T2c5Zko5Nmw2d2J5bDQzbExJZW9pZ25mMDQ4MTVOX0ZMOHFyZnc1TDdn?oc=5",
       "source": "Ynetnews",
       "published": "2026-09-14T19:17:35+00:00",
-      "score": 4.21,
+      "score": 4.04,
       "tags": [
         "closure"
       ]
@@ -81,46 +81,46 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ1FCNmYyd0lzTFg0U1E5eUJTZGExUkNpVXowZlpmTVlfcWdoWTVoN1k4SGVXbHBaZHRNMzdaWEdwQVRuTXdJMGdHUEtWNVl0a09KX0o5ZHVaNW5XaDBxOTNIWmdSZGZob00tR3ZNTy1XY1VnT2YxN0hmWWpMaV9ZQzhrWVhiUnNObW9uNmZaTDBSaENjU043UUFVTy12dXZidmww?oc=5",
       "source": "IranWire",
       "published": "2026-09-15T10:13:57+00:00",
-      "score": 3.14,
+      "score": 3.02,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Iran says struck oil tanker in Strait of Hormuz - The Korea Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNajJ1c0FYbjd6WGVENVpLdFQ5MFUwWHc2cUNNOXd2T1VGZkNqQWt2NlFna1g2R3RJM0JQYUx5blU3N1AwYkFjVzdFS1VWcklSNmhsOVdfUVJWYWxLV1VyemxkcW5TbGNyYmJudVhWLTBsZVJlaGd5MlgtYU5pMUZzSFBkbTVLVUppakVVRjZPVk9WWVFzMmfSAZsBQVVfeXFMUDh5MWFqY2hjSC1xLXFFSFU3eEd3Qng4ZW1BX0VfZ2xNbC1pbm1FQmpkOUlEN0s2Zmw1SmlObWdHRnhzSEJOLXRXUFFZaUIwdEczbzR1YnZ5R2VOalNCbnRfSkVEcW1tOXZMOEJEdVBVQjQ2ZTFRbVFPUVVtTDVSTkdrOElwbzRiamN1Q19wLWlCVkNfZXlYQXJMb0E?oc=5",
-      "source": "The Korea Times",
-      "published": "2026-09-18T00:56:02+00:00",
+      "title": "Iran says it struck Togo-flagged tanker in Strait of Hormuz - turkiyetoday.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOXV4aDhxc0VTUEo5NEd2YzN1N01ISm8zX1hncFN5aEhWSTh0QU9sZHNMTWdjWkZjZnQwWnh5bGV6akRnN0tmNzQ5cWkyWFlySEhkUjFkaGRSc1IzaVpHTzlVU3VraGRSTUE3cUhsVlhzeEx1RnJpc096dnJGeTdZbDdLVmNHQjZfd3E3a0VnbmtCMzFRZ3dzUmthVFJXbGxlZmc5cnBR?oc=5",
+      "source": "turkiyetoday.com",
+      "published": "2026-09-18T05:23:06+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Iran says struck oil tanker in Strait of Hormuz: state news agency - news.cgtn.com",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHazlNbnNqZEo2cGNFNl8xRGtCT25lc0M4b0xFQWk2Q2g0ZC11OTNjWi1pMkRiOEFZT3ZicDhZUUp1cEZZT1BvMnpGaEwzdm0ydUlBOVNzR3NHQmtITVpiQWh6Rk95YmxOUVRkWjdn?oc=5",
-      "source": "news.cgtn.com",
-      "published": "2026-09-17T23:56:33+00:00",
+      "title": "Iran\u2019s IRGC says it struck Togo-flagged tanker in Strait of Hormuz - \u30a2\u30e9\u30d6\u30cb\u30e5\u30fc\u30b9",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUU1uNzZyZjBUczgycjFOTWlyWWRXUDVNVm5XZE1MVTVzc1RaZk5hNEktdFVlMHpkSWhVWlpsTnhnZXJ1S09PSlR0MnUwV1Z0TlNUQzBOelVhaWstT3pPYzZKeDR2RkctZXE0NEJSMy1fNW94SG51bjI4akRkMjhMV3lOVFByS3k3TUxma1hYNmg5TjhGa3dIam1EeWo2WWJrVm9oeDROT2FWY0d3M3YtbXdR?oc=5",
+      "source": "\u30a2\u30e9\u30d6\u30cb\u30e5\u30fc\u30b9",
+      "published": "2026-09-18T05:17:43+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Iran\u2019s IRGC says it struck Togo-flagged tanker in Strait of Hormuz - arabnews.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTFlyRGktY0tYTGlrek55Q1pEZ055dWJyY2IxYktITjhqZWhrZWxQVjBGa0ZIT3paMEhMUDgtamlZWWxjejkyalJ4ZVJsNlBQT29ZdHZTTDljOFZJcENSaC1uOFBabU1qVzN4NWdpSGR2ZUV4eEkxR19vNlp2RnpfMDBtbWFabGctWGk5ZThxSkF2dDNzWlRSbGRsVEhRS1puSl9mdzM4ZFNUNW1JLXZR?oc=5",
-      "source": "arabnews.com",
-      "published": "2026-09-17T23:13:57+00:00",
+      "title": "Iran says it struck Togo-flagged tanker in Strait of Hormuz \u2014 Anadolu Agency - ua.news",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWk5tOHJULWc2dmFFMWtOQVdqTjhzX3J2dnY1U2RQRGp4R1BJV3Q5MDFwSTlOU21JOUVyTHFoS2NweDRMZzJ4UklOZHJwRE8xZXUzdF9MVVJrbFpQQkExZVBFNFE2NE9XNlJCQnl3bTdac0h3Qlc2enJvWm5zczlrMnlfeXBFLWk4QktSSklTMTFHdF94VFNOam9QTWdnVnE2dXBVT3BOOWVoTXJWcGY4?oc=5",
+      "source": "ua.news",
+      "published": "2026-09-18T03:26:15+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "IRGC claims to have struck tanker during attempted Hormuz crossing - Israel National News",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ocjB4TUsxZHA2LUlLa3duTmp6ZFZJQ1FxOE1WNV9xeEoxMjBCMU5PSExETEs5cTNUYWR3Z2Z2UDhxY19FU2hoQnVxbGZ1MkFFQVpoRkZVSGQ4Zw?oc=5",
-      "source": "Israel National News",
-      "published": "2026-09-17T22:10:11+00:00",
+      "title": "Iran says it struck Togo-flagged tanker in Strait of Hormuz - Anadolu Ajans\u0131",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSi1abzhIYlluaDBLZmJDM2pPWWRHNTBUTF9sMXJYdzBXZW1SWmN0NE1zZDRtVUdPbEk2Wmlqb1V0aEo1M1RSZVo0RW1sRlUtSURubkl5ZExCUTdfc1lCREdZcW1NVlFBOGd0UFFqQTFZaWx1TnZLS1p5aFBmaWdZdHJWYVJEeWMxZHNtSVoxV1BjRDNXRzVsUXlyYzJYcVdfSWo0MnhuMA?oc=5",
+      "source": "Anadolu Ajans\u0131",
+      "published": "2026-09-18T03:18:56+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -128,7 +128,7 @@
     }
   ],
   "brent": {
-    "price": 103.78,
-    "change_pct": -0.99
+    "price": 103.42,
+    "change_pct": -1.34
   }
 }
