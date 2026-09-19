@@ -1,11 +1,132 @@
 {
-  "status": "OPEN",
-  "label": "Normal traffic",
-  "tension_index": 0.0,
-  "closure_signals": 0,
-  "articles_scanned": 0,
-  "updated": "2026-09-19T06:10:49.050031+00:00",
-  "headlines": [],
+  "status": "DISRUPTED",
+  "label": "Major disruption reported",
+  "tension_index": 192.8,
+  "closure_signals": 2,
+  "articles_scanned": 225,
+  "updated": "2026-09-19T11:16:58.398408+00:00",
+  "headlines": [
+    {
+      "title": "How are fertilizer markets coping with the continued closure of the Strait of Hormuz? - IFPRI",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU3h3SWlJVDE0d196TE5zcHBaRE04N0x5MXJxVmpETGZMZUFiaUdZaWUyMU5UN2dibDEtbnBQM2JEZGZzMURhZEJFRWN6TjlJRjlXVGNua0RhZmhCenRxWmtIZ08xV3FxYXRRaUpPTHg4Z0RXcEMyVXdoaW5SRFRycFEzOGNrMm9PRGJMUFZJM1E4b21XVk1jd2ZyRndpbFRCM3JDS2J3a2xHOFRvSlJVS2J3?oc=5",
+      "source": "IFPRI",
+      "published": "2026-09-18T15:47:01+00:00",
+      "score": 8.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Global Oil Market Enters a Fuel Crisis as the Strait of Hormuz Is Blocked - SFG Media",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UZVNHVHF0TTZYRFpudG5hMHRmSzV6eTN0Mno4YnFjdktDcHViVE1MRl9TWDJBN2hJc2hySFNUbUFMVHVLZUU3RVlHdkZlRnZpYjJxOWFGMWVlNkZVb2g4X1JrREE5RUlp?oc=5",
+      "source": "SFG Media",
+      "published": "2026-09-15T11:18:28+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "US targets mine-laying vessels in the Strait of Hormuz amid blockade disrupting global oil markets - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzRPSjlIQTd4QndKdm9CUHk1ZWxIaktfOERjc1A3VHpYMHV0Z1Zkd3dGNURqMFJFR3l4LXo3OU5scG96QXhMd0F5TGthdlVzbmg0QVVHbnktU096TkFWUnc5QU9UV0xvTk1jbDY3eGFJaWZXN19UOEJvbTF6eFdFcW13cWxwdWRDVzU1OEl6c2ctT3ltYVJZN0d1a3hvQdIBowFBVV95cUxPUktnalZhVFFxNkhBTHFVS0tOSVBzVE5rZWFhcHhQUVk5dnlocFVZQWdNeHlNQ2pwY0ctTHp6dkQ1WFh1djJsUkQxZ3RZR3NkbVVJOWNCNTFqdFl5eUpMc044SVlwQVMyeldla2VYZ2FxVG5ud1RvTVlKNVc1d0FMNjZSemNubmdydW5BRE1peGVjdmJNSFF5QVZ2OGtNMTVHY09B?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published": "2026-09-16T19:24:40+00:00",
+      "score": 4.67,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iran's IRGC says oil tanker explodes after hitting naval mines in Hormuz Strait - Global Times",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UcHRpMHNjNFZFcXA5QkFjci14U2VyUllINzF3ZXo1dTFiYl9DXzk3bnBJc0plUTlVaGxzcExLZjNtbzhvc2lrRWN3ZWhpVHh1SnI3WVdQcEpnWmJmN2pMWXVB?oc=5",
+      "source": "Global Times",
+      "published": "2026-09-15T00:01:00+00:00",
+      "score": 3.22,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iran's IRGC Says EL GAIA Oil Tanker Exploded After Hitting Naval Mines in Strait of Hormuz: who 88 outlets blamed - NewsCord",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOS3p2RndWTkxFQmk4LTdxOTVEU0FwelJWQnN2Vkk4SHVaQVNCNG5Zc0dXdS10MmlwTHloOUlUYUZOenpnTE5fNzhiM2Viblk5WTlOV1JpUnZtaHg2RjZOcVJKUkpEcTlRU0lfU0pEbVlISG9MeV81YllpMzVUcFlPamQxTlYzUldtX2tjLWxvY2dkVTNRQ2VEMVBRX1RnSVc5VjByRXJ6LXhyV2F6ancyYllxeWxfY1Bxcy1rc2ZzSkt5M0xPeGhwWkJnV05WUllaZ002UUx3MlB0WFFMZEE?oc=5",
+      "source": "NewsCord",
+      "published": "2026-09-14T21:26:15+00:00",
+      "score": 3.14,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iran says oil tanker EL GAIA hit mines near Strait of Hormuz - Ynetnews",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfNm0tYmNpckdMZ0w2UGN3SmtNUHJBRTdnQlF2c1NQRFhrb1F1T2c5Zko5Nmw2d2J5bDQzbExJZW9pZ25mMDQ4MTVOX0ZMOHFyZnc1TDdn?oc=5",
+      "source": "Ynetnews",
+      "published": "2026-09-14T19:17:35+00:00",
+      "score": 3.07,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iran claims strike on tanker; US reports casualties - The Arkansas Democrat-Gazette",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMGlBM3NWLV8yNHJIM3dMNGdJaXgyRHV4TU11cFB2RmUtTzFIRTg0U3hnS2hIMkFGOVUxdTBtNmw4QUhvNzBiMmplX0FSN3ZpWnp2RUxYSEdvc3gtV0ZQNnczM3ZMV3A2Unp6WDRCZFdueUdLNU05NHd3Tk0wNkRqSHRQNWxqMTNMT2M4djNtb2lydE1tWXNuZGV1SW1pOFpN?oc=5",
+      "source": "The Arkansas Democrat-Gazette",
+      "published": "2026-09-19T08:34:00+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran Says it Struck Togo-Flagged Oil Tanker in Strait of Hormuz - Kurdistan24",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FcVNZMWJwRlp0b3hzMEJaUTM5cmozTzU5NE9ibWtxb05yMzFzTlBZMFZIdjY0TkdlYmxmMm1vRFZLTHlqRWRGZTRRUFp5WTJrOVFFX2tn?oc=5",
+      "source": "Kurdistan24",
+      "published": "2026-09-19T07:37:00+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Trump weighs 'annihilating' Iranian regime as tanker attacks hit Strait of Hormuz - fox56.com",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQTWdkRVV3ZTNPNlZIYUR5ZDJNN0lmTm9QZURmamtlSmpaTHBtZnRoWE1rbjh5eXIwblpCLUMwOVNtVEFUVWRnbTg0eXNSbG5YQ0RmeV9hNTFMdGJDOU9kdnRNR3FLbGtFakt1RFNlX0hSd0s2R0RVdl85ODc1S3c5RjY5UmpJZGV3cE5MVjNDY3NIVXNVSmtySWFpMVgyV0ZHTkN5U1d1VWQ0N19GMHNsc0VCdVMzUHBtUkpGNC1kZFpJM1BuNlR2S1VlY0lTaEo0alBSc3FmVXJoZEJzZFlaamNSZHh1Zm82WnJVaDQ1Zy1xU2Q1eUxObWxmVzRxel9NTTUxZTZWTzhnczZSbkVmeVhhX2lJZDFjSTBHZktYUml4dnpyNkYxck1wUWFha2pOMFB4c1FoU1ZEc2N5LUZLVHF5Z0RlRE56NGxTUmNacW9RV1Q5WnFYaEh6M2N1Y2VnVVplYWN5TVhKdzRqQ3drVzNjQVdseThwQVdEaVk2OGpCbFJZb3V3?oc=5",
+      "source": "fox56.com",
+      "published": "2026-09-19T06:28:35+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran claims it struck an oil tanker in the Strait of Hormuz, and other Mideast developments - TelegraphHerald.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYlZUd0JkNWlDYzZxLWd6Tm5WU2pJbEUxRTdtaGdrSGpVaDdoajJrUEtqbnJBWHNZWXF5ZUZiazFjRFdxY3lDbXkxbm4weWlOREpSeTZSdUlmWDZ0cmgzZFR3aENxSFFxVWZwNE1GZUdFY1pmaGV2bFhSazNPeHNqdEViSFFYaXktdWVoV29Ld1hNb3lSTi1ORg?oc=5",
+      "source": "TelegraphHerald.com",
+      "published": "2026-09-19T05:30:00+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Strait of Hormuz attacks spill oil into Persian Gulf - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS3IyeDNQSkZUVFJmVHlDS1pSYlVma2QwUmdXNUdtWlQ5YmxBRXI3LUprMlJ6TVFFeDMyV0d5VWRxN01TRjNDVlp3VnNWWVFJY012UVlMeTRUODR5STlRNlpvdHRrTmxnUThMWERaa0lrY3JKUExRVVR4ZFdYcDVOTTVkY19zUDFSZWJwWmJxcU10Umk3a05ndE5PM1d4b25OWWtodGI2NnNJLUQzYXZkd3FpMWJBejNQQXZrZnFQUzfSAcABQVVfeXFMTlFYTzZSSm1KYlp2b0tsM1QzOXNvLTBxcFVia0UtTG1UcHk0ajlaakRKZXhIenVrYk1MZ2ZVNUdiNmN4NTN4WWlHRWpxbGc5eU5tZGloZjlIOW9CelQtVWJxeGphZ2Jqd203NC1NQjljWkR2MHBQbV8zQzkzYWFRYXlGbUlySm1PS3lDbGxJQ1Q1UlNWckZ5bm1BRjhJbFNYdTBQMXkwTmpjNjFBa0E3bE1RLUpEcjZsZHozVGRqdzlF?oc=5",
+      "source": "DW.com",
+      "published": "2026-09-19T03:17:24+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran claims it struck an oil tanker in the Strait of Hormuz, and other Mideast developments - The Killeen Daily Herald",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYklvRXExMUdCTGZKQ2I1dVRjQVBJMm83TzBkRDVpb0JjNklkTjgwUWFBeHUyd0k5MUZXTjAxYVN5RmdtU3BKQkExOWlUYXRZblZLci12XzRBSGpmb1N0bll5ZHY5SThzWHpsamVvcGVXdXJBRm1HZlQwbUNTUWJZVWV2Yk84b3hoVXlXemVha1pIUUZLeXloS210UFY0dHNLZ2ppTExPbDAydE9UMnhqNDQzVG9xS09xZFdwNEhRNzdsWVJlT2ItcVNwYkYyRnBGYjZRT01SSmxGbDc1eG1WazZYTENOSEYzejRSUWpDOXA?oc=5",
+      "source": "The Killeen Daily Herald",
+      "published": "2026-09-19T02:28:04+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    }
+  ],
   "brent": {
     "price": 99.29,
     "change_pct": -0.64
