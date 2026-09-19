@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 192.9,
-  "closure_signals": 4,
-  "articles_scanned": 221,
-  "updated": "2026-09-19T19:51:42.600875+00:00",
+  "tension_index": 187.0,
+  "closure_signals": 3,
+  "articles_scanned": 220,
+  "updated": "2026-09-19T22:00:10.376668+00:00",
   "headlines": [
     {
       "title": "Macron Acknowledges Closure of the Strait of Hormuz - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0635\u062f\u0627\u06cc \u0627\u0641\u063a\u0627\u0646(\u0622\u0648\u0627)",
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU3h3SWlJVDE0d196TE5zcHBaRE04N0x5MXJxVmpETGZMZUFiaUdZaWUyMU5UN2dibDEtbnBQM2JEZGZzMURhZEJFRWN6TjlJRjlXVGNua0RhZmhCenRxWmtIZ08xV3FxYXRRaUpPTHg4Z0RXcEMyVXdoaW5SRFRycFEzOGNrMm9PRGJMUFZJM1E4b21XVk1jd2ZyRndpbFRCM3JDS2J3a2xHOFRvSlJVS2J3?oc=5",
       "source": "IFPRI",
       "published": "2026-09-18T15:47:01+00:00",
-      "score": 7.82,
+      "score": 7.72,
       "tags": [
         "closure"
       ]
@@ -37,30 +37,20 @@
       ]
     },
     {
-      "title": "Global Oil Market Enters a Fuel Crisis as the Strait of Hormuz Is Blocked - SFG Media",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UZVNHVHF0TTZYRFpudG5hMHRmSzV6eTN0Mno4YnFjdktDcHViVE1MRl9TWDJBN2hJc2hySFNUbUFMVHVLZUU3RVlHdkZlRnZpYjJxOWFGMWVlNkZVb2g4X1JrREE5RUlp?oc=5",
-      "source": "SFG Media",
-      "published": "2026-09-15T11:18:28+00:00",
-      "score": 5.52,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Iran Says Struck Oil Tanker in Strait of Hormuz - english.aawsat.com",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUDFRYnpTSW9MVzNHWW9oMkhMNnhsMkhDUU00MjRGelpfVFBBdkw0cWNHVjVlZlRZUnY2OTU4RGVERHdWX3NRMzloektGQlRhY3pTM3MxVmRkcGIxVTNrWmY1SGlyYkFTbWlsenpIRTZVS2c3cFpiRkFrdzNQY3NLQUM3MkFxU01DVlE?oc=5",
-      "source": "english.aawsat.com",
-      "published": "2026-09-19T13:07:30+00:00",
+      "title": "Strait of Hormuz attacks spill oil into Persian Gulf - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS3IyeDNQSkZUVFJmVHlDS1pSYlVma2QwUmdXNUdtWlQ5YmxBRXI3LUprMlJ6TVFFeDMyV0d5VWRxN01TRjNDVlp3VnNWWVFJY012UVlMeTRUODR5STlRNlpvdHRrTmxnUThMWERaa0lrY3JKUExRVVR4ZFdYcDVOTTVkY19zUDFSZWJwWmJxcU10Umk3a05ndE5PM1d4b25OWWtodGI2NnNJLUQzYXZkd3FpMWJBejNQQXZrZnFQUzfSAcABQVVfeXFMTlFYTzZSSm1KYlp2b0tsM1QzOXNvLTBxcFVia0UtTG1UcHk0ajlaakRKZXhIenVrYk1MZ2ZVNUdiNmN4NTN4WWlHRWpxbGc5eU5tZGloZjlIOW9CelQtVWJxeGphZ2Jqd203NC1NQjljWkR2MHBQbV8zQzkzYWFRYXlGbUlySm1PS3lDbGxJQ1Q1UlNWckZ5bm1BRjhJbFNYdTBQMXkwTmpjNjFBa0E3bE1RLUpEcjZsZHozVGRqdzlF?oc=5",
+      "source": "DW.com",
+      "published": "2026-09-19T15:23:51+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Strait of Hormuz attacks spill oil into Persian Gulf - dw.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS3IyeDNQSkZUVFJmVHlDS1pSYlVma2QwUmdXNUdtWlQ5YmxBRXI3LUprMlJ6TVFFeDMyV0d5VWRxN01TRjNDVlp3VnNWWVFJY012UVlMeTRUODR5STlRNlpvdHRrTmxnUThMWERaa0lrY3JKUExRVVR4ZFdYcDVOTTVkY19zUDFSZWJwWmJxcU10Umk3a05ndE5PM1d4b25OWWtodGI2NnNJLUQzYXZkd3FpMWJBejNQQXZrZnFQUzfSAcABQVVfeXFMTlFYTzZSSm1KYlp2b0tsM1QzOXNvLTBxcFVia0UtTG1UcHk0ajlaakRKZXhIenVrYk1MZ2ZVNUdiNmN4NTN4WWlHRWpxbGc5eU5tZGloZjlIOW9CelQtVWJxeGphZ2Jqd203NC1NQjljWkR2MHBQbV8zQzkzYWFRYXlGbUlySm1PS3lDbGxJQ1Q1UlNWckZ5bm1BRjhJbFNYdTBQMXkwTmpjNjFBa0E3bE1RLUpEcjZsZHozVGRqdzlF?oc=5",
-      "source": "dw.com",
-      "published": "2026-09-19T12:24:31+00:00",
+      "title": "Iran Says Struck Oil Tanker in Strait of Hormuz - ASHARQ AL-AWSAT English",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUDFRYnpTSW9MVzNHWW9oMkhMNnhsMkhDUU00MjRGelpfVFBBdkw0cWNHVjVlZlRZUnY2OTU4RGVERHdWX3NRMzloektGQlRhY3pTM3MxVmRkcGIxVTNrWmY1SGlyYkFTbWlsenpIRTZVS2c3cFpiRkFrdzNQY3NLQUM3MkFxU01DVlE?oc=5",
+      "source": "ASHARQ AL-AWSAT English",
+      "published": "2026-09-19T13:07:30+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -121,6 +111,16 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeWdlRjU5QTRNU0tfUUpTVW1iYUNBQ3hWejBlMVBaWTFEbFh1MkVtM1QzamhsY240NFQ3aW1vTUdMb0JaVUk2QWY1WE9SZWNqLUpzWVI4OFpyWlN1b0pXTW5vZzNEc3ZqZV9wdVowMGpzeHJub1ZFTWtoZGRyRklIbnR2d19mOVhhWG5GdkxTdTB1bktBRHFMSlVGbEZ5Mk0?oc=5",
       "source": "AP News",
       "published": "2026-09-19T02:09:00+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran claims it struck an oil tanker in the Strait of Hormuz, and other Mideast developments - The Northern Virginia Daily",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMnJ5WVdtU2pFdjJuS0dkMW14ZTNNamRvcm1VRXQ3Tlk3VnBfcEtyZkJqdWpwbENLdElELWR3S20zX0hBbGY0S0RYbEY2NnFZUElSQTVsdWNxUlp1cVNrM2pJRnBSMEx1TWpQSW45Z0xrcGR5a0lZeV94TkRfMnpkNzBZaU1YRF80NnJDRDgzUXhZMzNQRDZhbFFmOTJOZnlsMGJuX2hEM3Fva3VDQ280NVVpdkpuUHRLZjh5RHJuVlJXZXl4dVE3SndBcmExdTIyWEs0X095dDcyR043Z1VYLU1aUWV5aS1sXzF0VG0yWHVLN2RhVkF5dThEWXhjRWJ1UVVxUnZSR0Y?oc=5",
+      "source": "The Northern Virginia Daily",
+      "published": "2026-09-19T00:44:35+00:00",
       "score": 3.0,
       "tags": [
         "tension"
