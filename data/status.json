@@ -1,17 +1,17 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 144.9,
-  "closure_signals": 4,
-  "articles_scanned": 220,
-  "updated": "2026-09-21T10:55:00.813824+00:00",
+  "tension_index": 116.1,
+  "closure_signals": 5,
+  "articles_scanned": 222,
+  "updated": "2026-09-21T16:43:32.534341+00:00",
   "headlines": [
     {
-      "title": "Iran live updates: Strait of Hormuz shut until Tehran's conditions met, Ghalibaf says - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTjhjRzJZSzR3WWxvNzVNQ2taejl1MTNDcG4zV0E4ZktCUW0wQUlyejREZ21uUmZhOG9jTmFhdWNNUHpDV1VPXzIzRC1kQzJnazJUdG8yMlpUSng1cG5GT2cwVVVlZV9JRkt0dHFiSEV5SkI3MkZKdFZKQy1OYng1SzBSeHd3VjYwM3hnWDZwT29HUQ?oc=5",
-      "source": "Yahoo",
-      "published": "2026-09-20T09:18:08+00:00",
-      "score": 9.91,
+      "title": "Iran President Pezeshkian to visit US for UNGA as Tehran keeps Strait of Hormuz shut - Firstpost",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObS01a21sRTBMN2ptZ01ZemZ5NV9nTzg3M3Y4VTJuVVYwSnR5VEFETWRidU9SQ3ZrQS10NGhIX0Y4MzZJZ3h5aktQQ0x3Ui1SZDQ4VE80S0tRV1pvbjg3eU1WM1V6YldhcUNSQzB1bjJBXzJiSy1Xa2tHZXlmNGZOUEJ6cGVxdVhpVk9mQlh0cnlPMU82TDltRGtHTzVmcG9rNUY4N0VVeGx1VFdyZFNlZk9GbjNuRGpiVVJ6eFB2anlFQ1dTZlNBdWtB0gHPAUFVX3lxTE5RU3JxUWpiU1BHaGhmcGxxTWZvcFVVZWhDV0hQY3JMM3FQTjFVUFdJdnhTV2RxeXJqVGJXYk81TF9YM3JVUjFxRjdvcFBzNTk5NjV3TURMaDJVb0pMYkIzZGFycEw3cGZGRnh2QVltOGUycWxLbmJnQmlLNE05Tko3NGRuLWpqelZkOGZtUm4zZjdpS1NHbXZtcmZLLUlaRWZaOXFIcC1DNWN6VWg0U08zd3dSYWg4dDBUMWZyU2lYenVCMGN4dDBCaEQ1TWZkVQ?oc=5",
+      "source": "Firstpost",
+      "published": "2026-09-20T13:29:06+00:00",
+      "score": 9.82,
       "tags": [
         "closure"
       ]
@@ -21,17 +21,27 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc3dWeUtXYm9LdnRlUGlrQXVLQ1FUUDJwNTFYQmJ1OUhjRFdlM0VBNXhyV2JUQU5sU3JoOW1MMldBWk1MSlVxeWEwS2JQNjBhcV9tUm1xOTNxdlJSQmk5ejh4amEyWHN5YUtPd3lUcmU4WGZLd2o3bHJwY09TakU0U1lLaTNsUUpvZ1ZMM0NFUms3d3FKX2ZnbjhpTDFwZzlLTmc?oc=5",
       "source": "Yeni Safak English",
       "published": "2026-09-20T09:13:18+00:00",
-      "score": 9.91,
+      "score": 9.58,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "How are fertilizer markets coping with the continued closure of the Strait of Hormuz? - IFPRI",
+      "title": "Qalibaf: Closure of the Strait of Hormuz to continue until Iran\u2019s conditions are fully met - \u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNek43Nk56UDBZQWRjUDRWQXNLTzBHSUpGQ2dzM3FyUDE4cjhmcG1LUHpTQmNDYjR0MFI2VnVxV01hbnRHWFJDYVEzeTFDOFZVVFRUS3pGSXBFeURVaTVJZ3d3QVlVNEd4OFVqMGl0SFRabkpyZWY5Q0dtMElzOFFHaHVWWEk0TV9Ra2dVem1MeTBreFExS1Z3eEMzSEoxUThLeDY3VlIxT0NiWThNMWh0WmpWdDdnYlRGNzNxaGJQMVpObnVQcG1mZHRtSElfWGYwWW1OMk9Ba1BMYnVu?oc=5",
+      "source": "\u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
+      "published": "2026-09-20T08:09:11+00:00",
+      "score": 7.62,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "How are fertilizer markets coping with the continued closure of the Strait of Hormuz? - ifpri.org",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU3h3SWlJVDE0d196TE5zcHBaRE04N0x5MXJxVmpETGZMZUFiaUdZaWUyMU5UN2dibDEtbnBQM2JEZGZzMURhZEJFRWN6TjlJRjlXVGNua0RhZmhCenRxWmtIZ08xV3FxYXRRaUpPTHg4Z0RXcEMyVXdoaW5SRFRycFEzOGNrMm9PRGJMUFZJM1E4b21XVk1jd2ZyRndpbFRCM3JDS2J3a2xHOFRvSlJVS2J3?oc=5",
-      "source": "IFPRI",
+      "source": "ifpri.org",
       "published": "2026-09-18T15:47:01+00:00",
-      "score": 6.08,
+      "score": 5.82,
       "tags": [
         "closure"
       ]
@@ -41,86 +51,76 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzRPSjlIQTd4QndKdm9CUHk1ZWxIaktfOERjc1A3VHpYMHV0Z1Zkd3dGNURqMFJFR3l4LXo3OU5scG96QXhMd0F5TGthdlVzbmg0QVVHbnktU096TkFWUnc5QU9UV0xvTk1jbDY3eGFJaWZXN19UOEJvbTF6eFdFcW13cWxwdWRDVzU1OEl6c2ctT3ltYVJZN0d1a3hvQdIBowFBVV95cUxPUktnalZhVFFxNkhBTHFVS0tOSVBzVE5rZWFhcHhQUVk5dnlocFVZQWdNeHlNQ2pwY0ctTHp6dkQ1WFh1djJsUkQxZ3RZR3NkbVVJOWNCNTFqdFl5eUpMc044SVlwQVMyeldla2VYZ2FxVG5ud1RvTVlKNVc1d0FMNjZSemNubmdydW5BRE1peGVjdmJNSFF5QVZ2OGtNMTVHY09B?oc=5",
       "source": "ABC News - Breaking News, Latest News and Videos",
       "published": "2026-09-20T09:29:40+00:00",
-      "score": 5.95,
+      "score": 5.76,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iran Says It Struck And Detained An Oil Tanker In Strait Of Hormuz Over \u2018Illegal\u2019 Passage - Marine Insight",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONXFjb0RGMVkxNWxsZGkxMFA0SlkyeDRHd1dTVHNZUTlnM3pRVlhIVnJHcWlEY1hFWmR6MlNmbXVpQ1VPZkVaaXVuMkxuUllvWXBqZDVBTWUzQ1F0QzlwaGVYZzZKV2x6RWdZTlRxVjFDcXNEN0tGMDRpWHFLQmJXcU01MTVvWldxX0pFT3pJazBieFU2NlVfcXl2UjFfWXk0U0thaF9PUFM4OWh6S0FwYTIxd1VaZC1fS0E?oc=5",
-      "source": "Marine Insight",
-      "published": "2026-09-19T07:16:39+00:00",
-      "score": 5.08,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "A projectile strikes a tanker as it sails into the Strait of Hormuz, and other Mideast developments - ctpost.com",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdzZrTkhDdTdKY2NyVkl2WDZyTmZzOWxXNmxRbXFVLUFfOUF4Ul81Sm5JMEgwWmpMRGp0YTlUN19ONEM3dVFEYzJVTE1ENmtaRm12dkxheTQzNnhaOTJwY2pWYUgyQWJmZ1I4MEpYTUlpemVEUmZkWXN6OXR5b1dCcEUzWmp5TUtHWWt4dWxmTU1wdkN2MXRHcnN4TGZIRVNY?oc=5",
-      "source": "ctpost.com",
-      "published": "2026-09-21T10:50:44+00:00",
+      "title": "Two More Tankers Hit in Strait of Hormuz as Attacks Mount - gCaptain",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUUo3NXJIMGpNY2Nnbkg0dkxtbWRvZ2w3MkpSZUF5ZFZpTUl4UWVCeEZWUHhHbXhvNnBYRnR6VkxNVzBYSUFNaTlyM2h1eXRkS3luLTB6Wk04OVRQZmhnaGxIRUZMb1BzSy1nMEZUYXd5SHV0b3Y4R1BCRTFOUnBIMjB1NUZCZw?oc=5",
+      "source": "gCaptain",
+      "published": "2026-09-21T16:06:53+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "A projectile strikes a tanker as it sails into the Strait of Hormuz, and other Mideast developments - WTOP News",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM0tsNjB4d1NYWlJ1N1d5RVdqeEdOLWdYbHA5dXpJSkt2Z0ZXUU85QnlKQmIxLXFfWlRhNmp0Nko3QVBkaTc4NERkSjdSMkxxaVRKVmlxMHFoVHU2RUNTaFJ2eXR5NnIxN2FOUHplT0x6V0E4S01BcnlXaVZTQjd2XzE3Y1ZEQlMyZWVGb2cwOHNtZWxfVVJDc25KY2pNUTRQbmllVEVuVDcxdE5lZ19uTmVZZDRCSHJvcFcwSmRzd3g0Y0FnUVM2dHV2SnZPUQ?oc=5",
-      "source": "WTOP News",
-      "published": "2026-09-21T10:47:32+00:00",
+      "title": "Two tankers attacked in Hormuz, two crew injured - Seatrade Maritime News",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU0djbjFiVmJOWmFjdDY5ajB5QUFzbU9vVlVtdmRKbGZELWptVThfZWFzOWcydnRMSzZnRURzbEJFMzdLc1RoaFhRMngwMTdtbFdlMExSclhKX3RCNWUxQndDSXNtLVBVNTl1RWhxU2ZJeVlaMGNwTFNzeXFJNE5rV1ZqajZsLVQtMldn?oc=5",
+      "source": "Seatrade Maritime News",
+      "published": "2026-09-21T16:04:49+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Iran updates: Tanker reportedly struck by projectile in Strait of Hormuz - newsnationnow.com",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQVctWjR5amVoTUpKY1d6ZkVJQi1XRzVrWElrM2NWcWNTV0pVcmdoYkhocHhiQjB3Qjl4OXZPb2c5dkYwS2tiUG1MZFphbDZkTENyQmFyTGNMZ1R1cXlaRXg1RzRfY2pSVHV2RTRNQkktd1lDanczU1ZDenFtUm9reUFOMXPSAYoBQVVfeXFMUE9LS3Y4WDdCQnRlczlYaHVINXhPWV9KQmFWUFVFWVotOTg4ZTBRMFpQQl9aR2JhaWZPVjFRTTV5cmNDUEFiTlBqdTFnQzA4aFVKdUNuTVIxazhJTTYzSzFwMnZ1SUdOeDNVTnk2Q05OMERseVNLOWt2Q1dVNjRCQS1lUVVPTGJFNDBB?oc=5",
-      "source": "newsnationnow.com",
-      "published": "2026-09-21T10:29:29+00:00",
+      "title": "An oil tanker was attacked in the Strait of Hormuz, which Iran has closed - UA.NEWS",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYV9SVEJvMmNZd2x0ek01cGowMC1PM1pzeE1IbVlYbE5RcW5ZUGs2S2VZNlBISXVqczJQTXUzeUFVVWVmZVp3T0dkYUE3UENsUDZlcHBWUDNZdS1HWk94Y05POGFvdGJRODQ5eWZSdEZ3TW1INUVRdWRTdHoyc0FSS3drYkh4TE9PaTJ3c0pVdw?oc=5",
+      "source": "UA.NEWS",
+      "published": "2026-09-21T13:36:10+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Tanker struck by unknown projectile in Strait of Hormuz, 2 crew members injured - Anadolu Ajans\u0131",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNekdmYVctZFk2UFIzNVJhOFRvdkt4Z254MjFQWEU2MFlYMml3ak5icXNDM0MwbjcxQWZ5X0ZxUWFESTZWVkg1T3lJOVpvbWtLYU9mVWo2MlpUcTR5djBsUVBPcDNSbUhPQnNsaV9oNFFxNWdiaTgtMFduQlBBWDFBNm1VcFg4WjJ3R1lMNFk5SGFJeGx1MXlmNnhUQThCNk9nNkJPZ29hTHRpVVZaWmN6MVJaMEYxZHE3VWRF?oc=5",
-      "source": "Anadolu Ajans\u0131",
-      "published": "2026-09-21T10:08:50+00:00",
+      "title": "Tanker struck in Strait of Hormuz as Iran vows to keep key oil route closed - Firstpost",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNVNGU3NlaWtBZTFDOXpYMGdNV1daN2VYZWdST0FLaXRsRlMtNVV0NXBTUmNpYmh0OEhkTEp3VmRKTjNJS1dvY0IzejBFVDhBWlBuU1hWSzhMMGo2Y0FvNzZhSGtwbkFkdFRXdkZZVXVrZlk1QndYaUpPN1R3MUtraTI0VnU1NUVwRm1aM1FnUlF0NW1FYVZvMXJEZWNjS0NybDRyS3R6QnEyVllSMm81WkFhTWg2dHhEcTBTNF9n0gHDAUFVX3lxTFB5d1FWYWx1anRPczlvbl9razZnODRWZmNPOVZoX3BXUExQS0RzMVdmU1ZUTnRVU0dzNDFsRllMdUtrX1E4NUkxbGRIbHpFZnQyeGc5QjFuVjB0UEo5X3RQQ3RMWXlPdWt0aGVDc1BJZkpnR3VoNGd4MVk2SkVsMEZicEZpblQ4OTBjTnpWQ3pJazFiNkMyYWFjdG9VZTRkdUVYSEJSaFZUeTMyVVdLT0MzTGMtZU9zeV9ITnNjeWE2RU5pcw?oc=5",
+      "source": "Firstpost",
+      "published": "2026-09-21T12:38:11+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "UK: Tanker struck in Strait of Hormuz - Breakingthenews.net",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa0s4RGk4ZzFfZTk4NFc4T3UxMHNwRHI5RFRNeW1EdHA0aDJ2N3ZaeC1CQ21idU02eEQ3QmdwSHh0a0M3X29JTExWS2xPRVhQLVVvZVRNdE44NWRGYy1vbE1kV1NfNk9FbWpvWXlGNkZLak1pWHhXZExRY3VmbkE5X002UFlNakN5alE?oc=5",
-      "source": "Breakingthenews.net",
-      "published": "2026-09-21T09:50:00+00:00",
+      "title": "A projectile strikes a tanker as it sails into the Strait of Hormuz, and other Mideast developments - myMotherLode.com",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWGJYajF5dmJFYnZzeUQ3ejJaQmNWalJybVhpT25LN3F4aHR5NnZnOHE5QnB4LVRWYWZPZUtFc01hSGVJWkkyUU5sWlBfZFVfdVA5X2o4RFNSZl9CSHZXTnRQUGdaaUlvQ194WE5MYVFpcjhXNldRb281c1FxSmdQb0NnUmxFOF9BZWxZbmgycVBab1dteXh3dTEwMzE4VkFwbEE0QUxqQ0RPTzZ5cm81NjJKc2hKaFpsMHBDaTFFRFJHR1FZUUtpVEg5Um5ERWpRSEFHNnVrVUpWRzR4VENCSzV30gHnAUFVX3lxTFBiODh5N2kwdDZBXzdMdjN5bTA1RFVOTkRyYnpRUnJtdlZaZ21EX0xTUkFTRHhBb0ZDVGVGSTFzel96Rzg2aGR0cmZMdlBmZmhIM0k4d2QxaEtXSTQ3RVZVVTFUVGFYSDVNSHBCQ1ZPdDlkRTdhZUxvUzJpb1M5QkNieWx5OTUxNXdwRERabGlBLVdnOVlFUVBaUUtTQnd3dFpRNE9zNHpRTlU5N0xJOVhjYUpCWFhHUnhhbUV2NkVsa3BCLU1Tc29hdjI3Q3dDdHN4TlVTTGZsZXZTT3BxU015VTNzb0N2OA?oc=5",
+      "source": "myMotherLode.com",
+      "published": "2026-09-21T11:25:40+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Iran says it downed US MQ-1 drone over Strait of Hormuz: Report - Anadolu Ajans\u0131",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcW96aWhkX0tMVVF1aHBPVXREVzRjWl85TWpHOU1mMFlIck8yNEJ6WFE2dVExQ3YxSTYxbTRfblV1Vlo5MHdVclFheWo4SlFkejF6ZGoxUVpFaTZjdVJ4YVg4VV9zckRnXzlUSWpZVGwzWG9XMENUbnp4V1ZCcG1sQUFJSDZtUDNWY2hxc1NfZTlNb2h2dHZzX2NRYWRYVmVfNWY1aWNhQWh4MHc?oc=5",
-      "source": "Anadolu Ajans\u0131",
-      "published": "2026-09-21T06:29:57+00:00",
+      "title": "A projectile strikes a tanker as it sails into the Strait of Hormuz, and other Mideast developments - Manistee News Advocate",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUlhqMXBhMkpnM0dKTjNTSTZvS2RzWURIbTZJbVpJX1dCU2dvUDhWSmg4UHc5cXBDbC1raWVSTzdpcWtucmx3R00wNjVzTjFVSmxsTEE1Nnc3ZFBtbm5DYno4TERodUFnYjZRN1lMSWE3OVFmS3J0SGFRWkE5M1ZWdG5QNDdNMTA0NjdkY3lrTjRoVmlBTjFkUUw2ZlFDMmdqYXpTZVB2aUY?oc=5",
+      "source": "Manistee News Advocate",
+      "published": "2026-09-21T10:50:59+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Iran\u2019s military says US preparing to resume strikes - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ2o4VlNDVWc4MFhvY3laajdhME4yZkZZVXM0TFlkV0ZVYzFReURGWFhCYXdZWTJQdEhFMDNocnRiUTl6Zk42YnZQdjc2ZjFnQnJTRG1Del95SnYwa1p6RElQMXYtTkpyN2NUeF93d2ppMm12c0NiQTlmVUhmUk1VZ3ZJcU5OTnBHR2FDMDlVTXA0YngxQ2fSAZsBQVVfeXFMUDRVWWpxUVFOVzctel93SGhwQ05TN3ZaX0cxazZXdDlacE1EQ0NMNmpoN3VDOWpyQ3hBSE9oUWlGb0t1ekVEVl8tbTExbG1XWjRvOWUyWndrVTBUbWk3SHhCT0tEVy0yR3N1UGwwSEpYX3BKZFlreXNpWE1kMXZUQUY4Sl91UmFJNnEwSjJUOE1Qd3R6TGZVRDVCb1U?oc=5",
-      "source": "Al Jazeera",
-      "published": "2026-09-21T05:30:52+00:00",
+      "title": "A projectile strikes a tanker as it sails into the Strait of Hormuz, and other Mideast developments - KTVN",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNN3B6RDBtdFg1bWVSYlVuYVdTWWl0aWxpUXhaREF0NERXeFlFblpVYU81ZklfWEhidkJIanUza2VUb2ZhUFJsUE5YWmIxQm1VNTBtdDZNSktqU0d2Y3U3WmhjczBHRGtQX18ta3otcjZqMFMyaHJmc1otbWY3NzN2b2xZakhfcjRscXpSSk0yMXB3NVd4S3pfWTAwRUxIdDdEMlJjbjFRNVZZN3Zrdm9kamtYZlRxdUYwRjlJbFVXNkNOeTY5WjZhNkpqMFlKTmFJWWxEVEQzOHRBWnpSSlF2R0ctYVpDZkJfZFFESF9Ia0NEOTQ?oc=5",
+      "source": "KTVN",
+      "published": "2026-09-21T10:44:04+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -128,7 +128,7 @@
     }
   ],
   "brent": {
-    "price": 96.54,
-    "change_pct": -2.77
+    "price": 95.4,
+    "change_pct": -3.92
   }
 }
