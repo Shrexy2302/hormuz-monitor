@@ -1,17 +1,17 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 103.2,
+  "tension_index": 108.3,
   "closure_signals": 5,
-  "articles_scanned": 226,
-  "updated": "2026-09-21T23:45:01.827663+00:00",
+  "articles_scanned": 227,
+  "updated": "2026-09-22T02:45:52.730845+00:00",
   "headlines": [
     {
-      "title": "Iran President Pezeshkian to visit US for UNGA as Tehran keeps Strait of Hormuz shut - Firstpost",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObS01a21sRTBMN2ptZ01ZemZ5NV9nTzg3M3Y4VTJuVVYwSnR5VEFETWRidU9SQ3ZrQS10NGhIX0Y4MzZJZ3h5aktQQ0x3Ui1SZDQ4VE80S0tRV1pvbjg3eU1WM1V6YldhcUNSQzB1bjJBXzJiSy1Xa2tHZXlmNGZOUEJ6cGVxdVhpVk9mQlh0cnlPMU82TDltRGtHTzVmcG9rNUY4N0VVeGx1VFdyZFNlZk9GbjNuRGpiVVJ6eFB2anlFQ1dTZlNBdWtB0gHPAUFVX3lxTE5RU3JxUWpiU1BHaGhmcGxxTWZvcFVVZWhDV0hQY3JMM3FQTjFVUFdJdnhTV2RxeXJqVGJXYk81TF9YM3JVUjFxRjdvcFBzNTk5NjV3TURMaDJVb0pMYkIzZGFycEw3cGZGRnh2QVltOGUycWxLbmJnQmlLNE05Tko3NGRuLWpqelZkOGZtUm4zZjdpS1NHbXZtcmZLLUlaRWZaOXFIcC1DNWN6VWg0U08zd3dSYWg4dDBUMWZyU2lYenVCMGN4dDBCaEQ1TWZkVQ?oc=5",
-      "source": "Firstpost",
-      "published": "2026-09-20T13:29:06+00:00",
-      "score": 9.43,
+      "title": "Iran live updates: Strait of Hormuz shut until Tehran's conditions met, Ghalibaf says - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOGc0ZXNqemJjTEJlVHMydm1PeXZ3bXZITG03TjI1eHluM05NWFJVYVBGXzYxMG9JWklhUVg1cnJLVlRUU1lhdGRnaXdIa2FTN3lYTUFhc3BZczlSVHVyd0FBdkxWTjJDT1JaNjlndGtRTS10bTIyUTNVT1BqSFlWWUFLcnQxRlBDTkVrazlkMHNQQQ?oc=5",
+      "source": "Yahoo",
+      "published": "2026-09-20T09:18:08+00:00",
+      "score": 9.03,
       "tags": [
         "closure"
       ]
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc3dWeUtXYm9LdnRlUGlrQXVLQ1FUUDJwNTFYQmJ1OUhjRFdlM0VBNXhyV2JUQU5sU3JoOW1MMldBWk1MSlVxeWEwS2JQNjBhcV9tUm1xOTNxdlJSQmk5ejh4amEyWHN5YUtPd3lUcmU4WGZLd2o3bHJwY09TakU0U1lLaTNsUUpvZ1ZMM0NFUms3d3FKX2ZnbjhpTDFwZzlLTmc?oc=5",
       "source": "Yeni Safak English",
       "published": "2026-09-20T09:13:18+00:00",
-      "score": 9.19,
+      "score": 9.03,
       "tags": [
         "closure"
       ]
@@ -31,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNek43Nk56UDBZQWRjUDRWQXNLTzBHSUpGQ2dzM3FyUDE4cjhmcG1LUHpTQmNDYjR0MFI2VnVxV01hbnRHWFJDYVEzeTFDOFZVVFRUS3pGSXBFeURVaTVJZ3d3QVlVNEd4OFVqMGl0SFRabkpyZWY5Q0dtMElzOFFHaHVWWEk0TV9Ra2dVem1MeTBreFExS1Z3eEMzSEoxUThLeDY3VlIxT0NiWThNMWh0WmpWdDdnYlRGNzNxaGJQMVpObnVQcG1mZHRtSElfWGYwWW1OMk9Ba1BMYnVu?oc=5",
       "source": "\u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
       "published": "2026-09-20T08:09:11+00:00",
-      "score": 7.31,
+      "score": 7.17,
       "tags": [
         "closure"
       ]
@@ -41,7 +41,7 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzRPSjlIQTd4QndKdm9CUHk1ZWxIaktfOERjc1A3VHpYMHV0Z1Zkd3dGNURqMFJFR3l4LXo3OU5scG96QXhMd0F5TGthdlVzbmg0QVVHbnktU096TkFWUnc5QU9UV0xvTk1jbDY3eGFJaWZXN19UOEJvbTF6eFdFcW13cWxwdWRDVzU1OEl6c2ctT3ltYVJZN0d1a3hvQdIBowFBVV95cUxPUktnalZhVFFxNkhBTHFVS0tOSVBzVE5rZWFhcHhQUVk5dnlocFVZQWdNeHlNQ2pwY0ctTHp6dkQ1WFh1djJsUkQxZ3RZR3NkbVVJOWNCNTFqdFl5eUpMc044SVlwQVMyeldla2VYZ2FxVG5ud1RvTVlKNVc1d0FMNjZSemNubmdydW5BRE1peGVjdmJNSFF5QVZ2OGtNMTVHY09B?oc=5",
       "source": "ABC News - Breaking News, Latest News and Videos",
       "published": "2026-09-20T09:29:40+00:00",
-      "score": 5.52,
+      "score": 5.42,
       "tags": [
         "closure"
       ]
@@ -51,9 +51,19 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU3h3SWlJVDE0d196TE5zcHBaRE04N0x5MXJxVmpETGZMZUFiaUdZaWUyMU5UN2dibDEtbnBQM2JEZGZzMURhZEJFRWN6TjlJRjlXVGNua0RhZmhCenRxWmtIZ08xV3FxYXRRaUpPTHg4Z0RXcEMyVXdoaW5SRFRycFEzOGNrMm9PRGJMUFZJM1E4b21XVk1jd2ZyRndpbFRCM3JDS2J3a2xHOFRvSlJVS2J3?oc=5",
       "source": "IFPRI",
       "published": "2026-09-18T15:47:01+00:00",
-      "score": 5.51,
+      "score": 5.38,
       "tags": [
         "closure"
+      ]
+    },
+    {
+      "title": "News Content Hub - Two seafarers injured as more tankers reportedly attacked in the Strait of Hormuz - rivieramm.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNEdZTDlYdDV1M1p6WUlUeDhaX281ak1nZjY5LWZJeWlsMWJROG5tZkx4dmphaE5yaXhMMTdtckdSOFNzektRX2M1MDFmbHIxY0VTVWkwRGN6YmZYekZpempFUnItdzJKZDlmTGhaQk1mY0d5S1REdTJBSnR3SGdsbE9HUFpPcC1HWTNxREtSUEJGcWprLUt1SzJrNzBtSi1WS0tZVnJ4T1dZVFpQVzd3YTJaYlRURlJkX2VkYTZCWlE2c2UxMjFlQzJB?oc=5",
+      "source": "rivieramm.com",
+      "published": "2026-09-21T22:52:30+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
       ]
     },
     {
@@ -115,20 +125,10 @@
       "tags": [
         "tension"
       ]
-    },
-    {
-      "title": "A projectile strikes a tanker as it sails into the Strait of Hormuz, and other Mideast developments - myMotherLode.com",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYjg4eTdpMHQ2QV83THYzeW0wNURVTk5EcmJ6UVJybXZWWmdtRF9MU1JBU0R4QW9GQ1RlRkkxc3pfekc4NmhkdHJmTHZQZmZoSDNJOHdkMWhLV0k0N0VWVVUxVFRhWEg1TUhwQkNWT3Q5ZEU3YWVMb1MyaW9TOUJDYnlseTk1MTV3cEREWmxpQS1XZzlZRVFQWlFLU0J3d3RaUTRPczR6UU5VOTdMSTlYY2FKQlhYR1J4YW1FdjZFbGtwQi1NU3NvYXYyN0N3Q3RzeE5VU0xmbGV2U09wcVNNeVUzc29DdjjSAecBQVVfeXFMUGI4OHk3aTB0NkFfN0x2M3ltMDVEVU5ORHJielFScm12VlpnbURfTFNSQVNEeEFvRkNUZUZJMXN6X3pHODZoZHRyZkx2UGZmaEgzSTh3ZDFoS1dJNDdFVlVVMVRUYVhINU1IcEJDVk90OWRFN2FlTG9TMmlvUzlCQ2J5bHk5NTE1d3BERFpsaUEtV2c5WUVRUFpRS1NCd3d0WlE0T3M0elFOVTk3TEk5WGNhSkJYWEdSeGFtRXY2RWxrcEItTVNzb2F2MjdDd0N0c3hOVVNMZmxldlNPcHFTTXlVM3NvQ3Y4?oc=5",
-      "source": "myMotherLode.com",
-      "published": "2026-09-21T11:45:31+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
     }
   ],
   "brent": {
-    "price": 96.28,
-    "change_pct": 0.04
+    "price": 96.99,
+    "change_pct": 0.78
   }
 }
