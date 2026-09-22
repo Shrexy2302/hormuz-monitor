@@ -1,17 +1,27 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 108.3,
-  "closure_signals": 5,
-  "articles_scanned": 227,
-  "updated": "2026-09-22T02:45:52.730845+00:00",
+  "tension_index": 114.5,
+  "closure_signals": 6,
+  "articles_scanned": 221,
+  "updated": "2026-09-22T08:08:02.352550+00:00",
   "headlines": [
+    {
+      "title": "Iran President Pezeshkian to visit US for UNGA as Tehran keeps Strait of Hormuz shut - Firstpost",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObS01a21sRTBMN2ptZ01ZemZ5NV9nTzg3M3Y4VTJuVVYwSnR5VEFETWRidU9SQ3ZrQS10NGhIX0Y4MzZJZ3h5aktQQ0x3Ui1SZDQ4VE80S0tRV1pvbjg3eU1WM1V6YldhcUNSQzB1bjJBXzJiSy1Xa2tHZXlmNGZOUEJ6cGVxdVhpVk9mQlh0cnlPMU82TDltRGtHTzVmcG9rNUY4N0VVeGx1VFdyZFNlZk9GbjNuRGpiVVJ6eFB2anlFQ1dTZlNBdWtB0gHPAUFVX3lxTE5RU3JxUWpiU1BHaGhmcGxxTWZvcFVVZWhDV0hQY3JMM3FQTjFVUFdJdnhTV2RxeXJqVGJXYk81TF9YM3JVUjFxRjdvcFBzNTk5NjV3TURMaDJVb0pMYkIzZGFycEw3cGZGRnh2QVltOGUycWxLbmJnQmlLNE05Tko3NGRuLWpqelZkOGZtUm4zZjdpS1NHbXZtcmZLLUlaRWZaOXFIcC1DNWN6VWg0U08zd3dSYWg4dDBUMWZyU2lYenVCMGN4dDBCaEQ1TWZkVQ?oc=5",
+      "source": "Firstpost",
+      "published": "2026-09-20T13:29:06+00:00",
+      "score": 8.96,
+      "tags": [
+        "closure"
+      ]
+    },
     {
       "title": "Iran live updates: Strait of Hormuz shut until Tehran's conditions met, Ghalibaf says - Yahoo",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOGc0ZXNqemJjTEJlVHMydm1PeXZ3bXZITG03TjI1eHluM05NWFJVYVBGXzYxMG9JWklhUVg1cnJLVlRUU1lhdGRnaXdIa2FTN3lYTUFhc3BZczlSVHVyd0FBdkxWTjJDT1JaNjlndGtRTS10bTIyUTNVT1BqSFlWWUFLcnQxRlBDTkVrazlkMHNQQQ?oc=5",
       "source": "Yahoo",
       "published": "2026-09-20T09:18:08+00:00",
-      "score": 9.03,
+      "score": 8.73,
       "tags": [
         "closure"
       ]
@@ -21,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc3dWeUtXYm9LdnRlUGlrQXVLQ1FUUDJwNTFYQmJ1OUhjRFdlM0VBNXhyV2JUQU5sU3JoOW1MMldBWk1MSlVxeWEwS2JQNjBhcV9tUm1xOTNxdlJSQmk5ejh4amEyWHN5YUtPd3lUcmU4WGZLd2o3bHJwY09TakU0U1lLaTNsUUpvZ1ZMM0NFUms3d3FKX2ZnbjhpTDFwZzlLTmc?oc=5",
       "source": "Yeni Safak English",
       "published": "2026-09-20T09:13:18+00:00",
-      "score": 9.03,
+      "score": 8.73,
       "tags": [
         "closure"
       ]
@@ -31,7 +41,7 @@
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNek43Nk56UDBZQWRjUDRWQXNLTzBHSUpGQ2dzM3FyUDE4cjhmcG1LUHpTQmNDYjR0MFI2VnVxV01hbnRHWFJDYVEzeTFDOFZVVFRUS3pGSXBFeURVaTVJZ3d3QVlVNEd4OFVqMGl0SFRabkpyZWY5Q0dtMElzOFFHaHVWWEk0TV9Ra2dVem1MeTBreFExS1Z3eEMzSEoxUThLeDY3VlIxT0NiWThNMWh0WmpWdDdnYlRGNzNxaGJQMVpObnVQcG1mZHRtSElfWGYwWW1OMk9Ba1BMYnVu?oc=5",
       "source": "\u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
       "published": "2026-09-20T08:09:11+00:00",
-      "score": 7.17,
+      "score": 6.93,
       "tags": [
         "closure"
       ]
@@ -41,7 +51,7 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzRPSjlIQTd4QndKdm9CUHk1ZWxIaktfOERjc1A3VHpYMHV0Z1Zkd3dGNURqMFJFR3l4LXo3OU5scG96QXhMd0F5TGthdlVzbmg0QVVHbnktU096TkFWUnc5QU9UV0xvTk1jbDY3eGFJaWZXN19UOEJvbTF6eFdFcW13cWxwdWRDVzU1OEl6c2ctT3ltYVJZN0d1a3hvQdIBowFBVV95cUxPUktnalZhVFFxNkhBTHFVS0tOSVBzVE5rZWFhcHhQUVk5dnlocFVZQWdNeHlNQ2pwY0ctTHp6dkQ1WFh1djJsUkQxZ3RZR3NkbVVJOWNCNTFqdFl5eUpMc044SVlwQVMyeldla2VYZ2FxVG5ud1RvTVlKNVc1d0FMNjZSemNubmdydW5BRE1peGVjdmJNSFF5QVZ2OGtNMTVHY09B?oc=5",
       "source": "ABC News - Breaking News, Latest News and Videos",
       "published": "2026-09-20T09:29:40+00:00",
-      "score": 5.42,
+      "score": 5.25,
       "tags": [
         "closure"
       ]
@@ -51,17 +61,17 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU3h3SWlJVDE0d196TE5zcHBaRE04N0x5MXJxVmpETGZMZUFiaUdZaWUyMU5UN2dibDEtbnBQM2JEZGZzMURhZEJFRWN6TjlJRjlXVGNua0RhZmhCenRxWmtIZ08xV3FxYXRRaUpPTHg4Z0RXcEMyVXdoaW5SRFRycFEzOGNrMm9PRGJMUFZJM1E4b21XVk1jd2ZyRndpbFRCM3JDS2J3a2xHOFRvSlJVS2J3?oc=5",
       "source": "IFPRI",
       "published": "2026-09-18T15:47:01+00:00",
-      "score": 5.38,
+      "score": 5.14,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "News Content Hub - Two seafarers injured as more tankers reportedly attacked in the Strait of Hormuz - rivieramm.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNEdZTDlYdDV1M1p6WUlUeDhaX281ak1nZjY5LWZJeWlsMWJROG5tZkx4dmphaE5yaXhMMTdtckdSOFNzektRX2M1MDFmbHIxY0VTVWkwRGN6YmZYekZpempFUnItdzJKZDlmTGhaQk1mY0d5S1REdTJBSnR3SGdsbE9HUFpPcC1HWTNxREtSUEJGcWprLUt1SzJrNzBtSi1WS0tZVnJ4T1dZVFpQVzd3YTJaYlRURlJkX2VkYTZCWlE2c2UxMjFlQzJB?oc=5",
-      "source": "rivieramm.com",
-      "published": "2026-09-21T22:52:30+00:00",
-      "score": 3.0,
+      "title": "A new strike in the Strait of Hormuz hits an oil tanker and raises navigation warnings - \u0627\u0644\u0645\u062a\u062f\u0627\u0648\u0644 \u0627\u0644\u0639\u0631\u0628\u064a",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcS1STFlTRVhSdUtVZ1VESDZacGtyQk5SWWVyRktrcWIwSUhaMVNBLTIxVzk4YjdJTXEyQUFLczdzS3k4RW9LYXF5dDVDQ01jZFJvR2pmMHlaY1paT2FVcE9NVW95QldWazZvbF81emdCOG9ZazMwS0dUay1yU1hEekd0TTREdlNycmNvNE5iRDhUa25JNGEzN0RCN0RqQmpMYU5Ya1BkWHUtaXNkbjlpVktYay04SkdyQm5maVNBQ1hrRDFrZTF3VnVsWWFwTGJCR0JjN2ZZNW5XQQ?oc=5",
+      "source": "\u0627\u0644\u0645\u062a\u062f\u0627\u0648\u0644 \u0627\u0644\u0639\u0631\u0628\u064a",
+      "published": "2026-09-21T11:28:45+00:00",
+      "score": 4.0,
       "tags": [
         "tension"
       ]
@@ -115,20 +125,10 @@
       "tags": [
         "tension"
       ]
-    },
-    {
-      "title": "Tanker struck in Strait of Hormuz as Iran vows to keep key oil route closed - Firstpost",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNVNGU3NlaWtBZTFDOXpYMGdNV1daN2VYZWdST0FLaXRsRlMtNVV0NXBTUmNpYmh0OEhkTEp3VmRKTjNJS1dvY0IzejBFVDhBWlBuU1hWSzhMMGo2Y0FvNzZhSGtwbkFkdFRXdkZZVXVrZlk1QndYaUpPN1R3MUtraTI0VnU1NUVwRm1aM1FnUlF0NW1FYVZvMXJEZWNjS0NybDRyS3R6QnEyVllSMm81WkFhTWg2dHhEcTBTNF9n0gHDAUFVX3lxTFB5d1FWYWx1anRPczlvbl9razZnODRWZmNPOVZoX3BXUExQS0RzMVdmU1ZUTnRVU0dzNDFsRllMdUtrX1E4NUkxbGRIbHpFZnQyeGc5QjFuVjB0UEo5X3RQQ3RMWXlPdWt0aGVDc1BJZkpnR3VoNGd4MVk2SkVsMEZicEZpblQ4OTBjTnpWQ3pJazFiNkMyYWFjdG9VZTRkdUVYSEJSaFZUeTMyVVdLT0MzTGMtZU9zeV9ITnNjeWE2RU5pcw?oc=5",
-      "source": "Firstpost",
-      "published": "2026-09-21T12:38:11+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
     }
   ],
   "brent": {
-    "price": 96.99,
-    "change_pct": 0.78
+    "price": 101.61,
+    "change_pct": 1.27
   }
 }
