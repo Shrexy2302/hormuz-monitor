@@ -1,17 +1,27 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 114.5,
+  "tension_index": 77.5,
   "closure_signals": 6,
-  "articles_scanned": 221,
-  "updated": "2026-09-22T08:08:02.352550+00:00",
+  "articles_scanned": 225,
+  "updated": "2026-09-22T13:32:06.709894+00:00",
   "headlines": [
+    {
+      "title": "With Strait of Hormuz blocked, Iran turns to Caspian Sea - Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcXpVT1RLMlBSQ2JWenVJOHBpNEZkY2FGcVk2X2FCbEZhbzRhamxvUENUVlZiaHF2VDJrVFJBV3I4NTZHN0E2ZTN3aW95T2k3NGdqbFZibk1qNVVKR3NETl9oem1YSmgwZUVPWnF0R3A3cDFjN3ZfRzZzM2tZMDRfSVl3MXZmWEdQZm1ZLU4ySWVxNk1HX0MtUjI5YWVYeFk4UmltOHV3b2FQV1U1OEZVa0FQbmVpZFpRWDlDNWd3bDFRQQ?oc=5",
+      "source": "Le Monde.fr",
+      "published": "2026-09-22T09:06:06+00:00",
+      "score": 10.0,
+      "tags": [
+        "closure"
+      ]
+    },
     {
       "title": "Iran President Pezeshkian to visit US for UNGA as Tehran keeps Strait of Hormuz shut - Firstpost",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObS01a21sRTBMN2ptZ01ZemZ5NV9nTzg3M3Y4VTJuVVYwSnR5VEFETWRidU9SQ3ZrQS10NGhIX0Y4MzZJZ3h5aktQQ0x3Ui1SZDQ4VE80S0tRV1pvbjg3eU1WM1V6YldhcUNSQzB1bjJBXzJiSy1Xa2tHZXlmNGZOUEJ6cGVxdVhpVk9mQlh0cnlPMU82TDltRGtHTzVmcG9rNUY4N0VVeGx1VFdyZFNlZk9GbjNuRGpiVVJ6eFB2anlFQ1dTZlNBdWtB0gHPAUFVX3lxTE5RU3JxUWpiU1BHaGhmcGxxTWZvcFVVZWhDV0hQY3JMM3FQTjFVUFdJdnhTV2RxeXJqVGJXYk81TF9YM3JVUjFxRjdvcFBzNTk5NjV3TURMaDJVb0pMYkIzZGFycEw3cGZGRnh2QVltOGUycWxLbmJnQmlLNE05Tko3NGRuLWpqelZkOGZtUm4zZjdpS1NHbXZtcmZLLUlaRWZaOXFIcC1DNWN6VWg0U08zd3dSYWg4dDBUMWZyU2lYenVCMGN4dDBCaEQ1TWZkVQ?oc=5",
       "source": "Firstpost",
       "published": "2026-09-20T13:29:06+00:00",
-      "score": 8.96,
+      "score": 8.66,
       "tags": [
         "closure"
       ]
@@ -21,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOGc0ZXNqemJjTEJlVHMydm1PeXZ3bXZITG03TjI1eHluM05NWFJVYVBGXzYxMG9JWklhUVg1cnJLVlRUU1lhdGRnaXdIa2FTN3lYTUFhc3BZczlSVHVyd0FBdkxWTjJDT1JaNjlndGtRTS10bTIyUTNVT1BqSFlWWUFLcnQxRlBDTkVrazlkMHNQQQ?oc=5",
       "source": "Yahoo",
       "published": "2026-09-20T09:18:08+00:00",
-      "score": 8.73,
+      "score": 8.43,
       "tags": [
         "closure"
       ]
@@ -31,7 +41,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc3dWeUtXYm9LdnRlUGlrQXVLQ1FUUDJwNTFYQmJ1OUhjRFdlM0VBNXhyV2JUQU5sU3JoOW1MMldBWk1MSlVxeWEwS2JQNjBhcV9tUm1xOTNxdlJSQmk5ejh4amEyWHN5YUtPd3lUcmU4WGZLd2o3bHJwY09TakU0U1lLaTNsUUpvZ1ZMM0NFUms3d3FKX2ZnbjhpTDFwZzlLTmc?oc=5",
       "source": "Yeni Safak English",
       "published": "2026-09-20T09:13:18+00:00",
-      "score": 8.73,
+      "score": 8.43,
       "tags": [
         "closure"
       ]
@@ -41,7 +51,7 @@
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNek43Nk56UDBZQWRjUDRWQXNLTzBHSUpGQ2dzM3FyUDE4cjhmcG1LUHpTQmNDYjR0MFI2VnVxV01hbnRHWFJDYVEzeTFDOFZVVFRUS3pGSXBFeURVaTVJZ3d3QVlVNEd4OFVqMGl0SFRabkpyZWY5Q0dtMElzOFFHaHVWWEk0TV9Ra2dVem1MeTBreFExS1Z3eEMzSEoxUThLeDY3VlIxT0NiWThNMWh0WmpWdDdnYlRGNzNxaGJQMVpObnVQcG1mZHRtSElfWGYwWW1OMk9Ba1BMYnVu?oc=5",
       "source": "\u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
       "published": "2026-09-20T08:09:11+00:00",
-      "score": 6.93,
+      "score": 6.69,
       "tags": [
         "closure"
       ]
@@ -51,27 +61,17 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzRPSjlIQTd4QndKdm9CUHk1ZWxIaktfOERjc1A3VHpYMHV0Z1Zkd3dGNURqMFJFR3l4LXo3OU5scG96QXhMd0F5TGthdlVzbmg0QVVHbnktU096TkFWUnc5QU9UV0xvTk1jbDY3eGFJaWZXN19UOEJvbTF6eFdFcW13cWxwdWRDVzU1OEl6c2ctT3ltYVJZN0d1a3hvQdIBowFBVV95cUxPUktnalZhVFFxNkhBTHFVS0tOSVBzVE5rZWFhcHhQUVk5dnlocFVZQWdNeHlNQ2pwY0ctTHp6dkQ1WFh1djJsUkQxZ3RZR3NkbVVJOWNCNTFqdFl5eUpMc044SVlwQVMyeldla2VYZ2FxVG5ud1RvTVlKNVc1d0FMNjZSemNubmdydW5BRE1peGVjdmJNSFF5QVZ2OGtNMTVHY09B?oc=5",
       "source": "ABC News - Breaking News, Latest News and Videos",
       "published": "2026-09-20T09:29:40+00:00",
-      "score": 5.25,
+      "score": 5.07,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "How are fertilizer markets coping with the continued closure of the Strait of Hormuz? - IFPRI",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU3h3SWlJVDE0d196TE5zcHBaRE04N0x5MXJxVmpETGZMZUFiaUdZaWUyMU5UN2dibDEtbnBQM2JEZGZzMURhZEJFRWN6TjlJRjlXVGNua0RhZmhCenRxWmtIZ08xV3FxYXRRaUpPTHg4Z0RXcEMyVXdoaW5SRFRycFEzOGNrMm9PRGJMUFZJM1E4b21XVk1jd2ZyRndpbFRCM3JDS2J3a2xHOFRvSlJVS2J3?oc=5",
-      "source": "IFPRI",
-      "published": "2026-09-18T15:47:01+00:00",
-      "score": 5.14,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "A new strike in the Strait of Hormuz hits an oil tanker and raises navigation warnings - \u0627\u0644\u0645\u062a\u062f\u0627\u0648\u0644 \u0627\u0644\u0639\u0631\u0628\u064a",
+      "title": "A new strike in the Strait of Hormuz hits an oil tanker and raises navigation warnings - arabictrader.com",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcS1STFlTRVhSdUtVZ1VESDZacGtyQk5SWWVyRktrcWIwSUhaMVNBLTIxVzk4YjdJTXEyQUFLczdzS3k4RW9LYXF5dDVDQ01jZFJvR2pmMHlaY1paT2FVcE9NVW95QldWazZvbF81emdCOG9ZazMwS0dUay1yU1hEekd0TTREdlNycmNvNE5iRDhUa25JNGEzN0RCN0RqQmpMYU5Ya1BkWHUtaXNkbjlpVktYay04SkdyQm5maVNBQ1hrRDFrZTF3VnVsWWFwTGJCR0JjN2ZZNW5XQQ?oc=5",
-      "source": "\u0627\u0644\u0645\u062a\u062f\u0627\u0648\u0644 \u0627\u0644\u0639\u0631\u0628\u064a",
+      "source": "arabictrader.com",
       "published": "2026-09-21T11:28:45+00:00",
-      "score": 4.0,
+      "score": 3.95,
       "tags": [
         "tension"
       ]
@@ -87,9 +87,9 @@
       ]
     },
     {
-      "title": "Two More Tankers Hit in Strait of Hormuz as Attacks Mount - gCaptain",
+      "title": "Two More Tankers Hit in Strait of Hormuz as Attacks Mount - gcaptain.com",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUUo3NXJIMGpNY2Nnbkg0dkxtbWRvZ2w3MkpSZUF5ZFZpTUl4UWVCeEZWUHhHbXhvNnBYRnR6VkxNVzBYSUFNaTlyM2h1eXRkS3luLTB6Wk04OVRQZmhnaGxIRUZMb1BzSy1nMEZUYXd5SHV0b3Y4R1BCRTFOUnBIMjB1NUZCZw?oc=5",
-      "source": "gCaptain",
+      "source": "gcaptain.com",
       "published": "2026-09-21T16:06:53+00:00",
       "score": 3.0,
       "tags": [
@@ -128,7 +128,7 @@
     }
   ],
   "brent": {
-    "price": 101.61,
-    "change_pct": 1.27
+    "price": 98.14,
+    "change_pct": -2.19
   }
 }
