@@ -1,17 +1,17 @@
 {
   "status": "ELEVATED",
   "label": "Elevated tension",
-  "tension_index": 12.0,
-  "closure_signals": 4,
-  "articles_scanned": 230,
-  "updated": "2026-09-23T12:51:02.765199+00:00",
+  "tension_index": 14.1,
+  "closure_signals": 2,
+  "articles_scanned": 234,
+  "updated": "2026-09-23T17:37:55.926271+00:00",
   "headlines": [
     {
       "title": "With Strait of Hormuz blocked, Iran turns to Caspian Sea - Le Monde.fr",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcXpVT1RLMlBSQ2JWenVJOHBpNEZkY2FGcVk2X2FCbEZhbzRhamxvUENUVlZiaHF2VDJrVFJBV3I4NTZHN0E2ZTN3aW95T2k3NGdqbFZibk1qNVVKR3NETl9oem1YSmgwZUVPWnF0R3A3cDFjN3ZfRzZzM2tZMDRfSVl3MXZmWEdQZm1ZLU4ySWVxNk1HX0MtUjI5YWVYeFk4UmltOHV3b2FQV1U1OEZVa0FQbmVpZFpRWDlDNWd3bDFRQQ?oc=5",
       "source": "Le Monde.fr",
       "published": "2026-09-22T09:06:06+00:00",
-      "score": 9.79,
+      "score": 9.53,
       "tags": [
         "closure"
       ]
@@ -21,27 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObS01a21sRTBMN2ptZ01ZemZ5NV9nTzg3M3Y4VTJuVVYwSnR5VEFETWRidU9SQ3ZrQS10NGhIX0Y4MzZJZ3h5aktQQ0x3Ui1SZDQ4VE80S0tRV1pvbjg3eU1WM1V6YldhcUNSQzB1bjJBXzJiSy1Xa2tHZXlmNGZOUEJ6cGVxdVhpVk9mQlh0cnlPMU82TDltRGtHTzVmcG9rNUY4N0VVeGx1VFdyZFNlZk9GbjNuRGpiVVJ6eFB2anlFQ1dTZlNBdWtB0gHPAUFVX3lxTE5RU3JxUWpiU1BHaGhmcGxxTWZvcFVVZWhDV0hQY3JMM3FQTjFVUFdJdnhTV2RxeXJqVGJXYk81TF9YM3JVUjFxRjdvcFBzNTk5NjV3TURMaDJVb0pMYkIzZGFycEw3cGZGRnh2QVltOGUycWxLbmJnQmlLNE05Tko3NGRuLWpqelZkOGZtUm4zZjdpS1NHbXZtcmZLLUlaRWZaOXFIcC1DNWN6VWg0U08zd3dSYWg4dDBUMWZyU2lYenVCMGN4dDBCaEQ1TWZkVQ?oc=5",
       "source": "Firstpost",
       "published": "2026-09-20T13:29:06+00:00",
-      "score": 7.37,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Iran live updates: Strait of Hormuz shut until Tehran's conditions met, Ghalibaf says - yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOGc0ZXNqemJjTEJlVHMydm1PeXZ3bXZITG03TjI1eHluM05NWFJVYVBGXzYxMG9JWklhUVg1cnJLVlRUU1lhdGRnaXdIa2FTN3lYTUFhc3BZczlSVHVyd0FBdkxWTjJDT1JaNjlndGtRTS10bTIyUTNVT1BqSFlWWUFLcnQxRlBDTkVrazlkMHNQQQ?oc=5",
-      "source": "yahoo.com",
-      "published": "2026-09-20T09:18:08+00:00",
-      "score": 7.14,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Qalibaf: Closure of the Strait of Hormuz to continue until Iran\u2019s conditions are fully met - \u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNek43Nk56UDBZQWRjUDRWQXNLTzBHSUpGQ2dzM3FyUDE4cjhmcG1LUHpTQmNDYjR0MFI2VnVxV01hbnRHWFJDYVEzeTFDOFZVVFRUS3pGSXBFeURVaTVJZ3d3QVlVNEd4OFVqMGl0SFRabkpyZWY5Q0dtMElzOFFHaHVWWEk0TV9Ra2dVem1MeTBreFExS1Z3eEMzSEoxUThLeDY3VlIxT0NiWThNMWh0WmpWdDdnYlRGNzNxaGJQMVpObnVQcG1mZHRtSElfWGYwWW1OMk9Ba1BMYnVu?oc=5",
-      "source": "\u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
-      "published": "2026-09-20T08:09:11+00:00",
-      "score": 5.66,
+      "score": 7.1,
       "tags": [
         "closure"
       ]
@@ -51,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzRPSjlIQTd4QndKdm9CUHk1ZWxIaktfOERjc1A3VHpYMHV0Z1Zkd3dGNURqMFJFR3l4LXo3OU5scG96QXhMd0F5TGthdlVzbmg0QVVHbnktU096TkFWUnc5QU9UV0xvTk1jbDY3eGFJaWZXN19UOEJvbTF6eFdFcW13cWxwdWRDVzU1OEl6c2ctT3ltYVJZN0d1a3hvQQ?oc=5",
       "source": "ABC News - Breaking News, Latest News and Videos",
       "published": "2026-09-21T03:18:50+00:00",
-      "score": 4.88,
+      "score": 4.72,
       "tags": [
         "closure"
       ]
@@ -61,9 +41,69 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcmFadUJjNUxDVmMxdzNEM1h3eWVodjByQ3A3aXUwWUVGRWY3ZWJwQ3VFcTktVUNkb1hpbUxkMWNBQWwtM1FxUk85Vl9BbUhKUVNRakxRMGYxV00yU2UwN05aT3Y3YjVBWHIyUmNfWnRjNS1LbXlHeXM5S1FoWlNYZDlXUFdOMmxOV2hLWnBlMGEwY28?oc=5",
       "source": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0635\u062f\u0627\u06cc \u0627\u0641\u063a\u0627\u0646(\u0622\u0648\u0627)",
       "published": "2026-09-19T06:01:07+00:00",
-      "score": 4.5,
+      "score": 4.28,
       "tags": [
         "closure"
+      ]
+    },
+    {
+      "title": "IRGC strikes cargo vessel in Strait of Hormuz as tensions rise - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nRkI3TUxnWHpQUm0xX2hKZkFMbEd6dHdDa1phbUlKZWdDLXJSU0s2d1V3anlHOE5jVThkbTduX2gwYlVtS2dISm1vaXFHV3Z1dFZCSFBn?oc=5",
+      "source": "Fox News",
+      "published": "2026-09-23T12:49:36+00:00",
+      "score": 4.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "A new strike in the Strait of Hormuz hits an oil tanker and raises navigation warnings - \u0627\u0644\u0645\u062a\u062f\u0627\u0648\u0644 \u0627\u0644\u0639\u0631\u0628\u064a",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcS1STFlTRVhSdUtVZ1VESDZacGtyQk5SWWVyRktrcWIwSUhaMVNBLTIxVzk4YjdJTXEyQUFLczdzS3k4RW9LYXF5dDVDQ01jZFJvR2pmMHlaY1paT2FVcE9NVW95QldWazZvbF81emdCOG9ZazMwS0dUay1yU1hEekd0TTREdlNycmNvNE5iRDhUa25JNGEzN0RCN0RqQmpMYU5Ya1BkWHUtaXNkbjlpVktYay04SkdyQm5maVNBQ1hrRDFrZTF3VnVsWWFwTGJCR0JjN2ZZNW5XQQ?oc=5",
+      "source": "\u0627\u0644\u0645\u062a\u062f\u0627\u0648\u0644 \u0627\u0644\u0639\u0631\u0628\u064a",
+      "published": "2026-09-21T11:28:45+00:00",
+      "score": 3.33,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Seafarer Killed in Hormuz Attack as Trump Pushes Iran Deal at UN - gcaptain.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMDB2bGZpNmw3SnBOY1p6MVF3NGJxdlpVUGZnMm1ZMllmakMtb1AtVkU2STlqU1FlbVRwNWhJOTRLaExuZDZzaHFNMVM1QVhJRW9EdEc2ajR5UFFRNGY5aUJsbV9MN1VzR0dJdGVBVUVDRTcwWGN3aUJ0QVhZaVE5X3ZhNDBHdEw3cHV6S2RRYw?oc=5",
+      "source": "gcaptain.com",
+      "published": "2026-09-23T14:47:51+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Two hurt, cargo ship ablaze in Strait of Hormuz attack, watchdog says - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR2g0cWxBZXFoQVZRd0tRdTA5UmIyQVNxRWRsNlppc2RPc3VBazd2ejJlbFc3UXpIb0hfRnJPY3RrTWJJcG1jRWVJc1FpNm9nclJJTDJHRlltMlhKRDZ4YkMySzJ6LXpXRkNqQ2FNc0tuR1djQ3pQRWx2UnNQMGdUMWJ5QTFmNUtUalI3RUgzV3RwLWRxazVTUnhJN2U3dmQ2Q2hXNkg2Ykx4eUc1Qzc0TkNXSQ?oc=5",
+      "source": "The Times of Israel",
+      "published": "2026-09-23T12:04:47+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Vessel catches fire after projectile strike in Strait of Hormuz, UKMTO reports - T\u00fcrkiye Today",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObnplTTEtdTN1TkxvY0VBSUdTVkJjWGs0NExyNUcxZm1TZkZVLWRZTnBOcFBGbDBsejBDR0steUk0QnViNDNLTUhieVNhR3NIR1VzSlJNNjJlOU94NWtWRV9ycGdXek1keVRDMXpWcjIxWmtSNW1zcnY5SmZxaUIzazBuVS1ERzdDT3VyVTRNd2tXQlhXX3FlajhKaTRBNW42X1RMR1Nqa01ZX05oQk80RWpfLVFOMk92dndWNVV3?oc=5",
+      "source": "T\u00fcrkiye Today",
+      "published": "2026-09-23T12:01:51+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "A 23-foot American drone sailboat that rides the wind on a 15-foot rigid wing turned up burning in an Iranian video at the mouth of the Strait of Hormuz, and four days later a US drone put two missiles into boats grabbing at another Navy surface drone - autonocion.com",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oZlR6cWJxMmF6cXZOdzBIMnczQ0hpelpJSzlNTHhrdkh5M0YzYkVyb2ExVDFTS1lwY05LZ3ByOWlvWWVXOFQySGZMSUFvd2MtWGpBZ0lUUGlsM042VHlyVEdzMUtoNGZuMXhoWGprWFdOVEdMZy1PZg?oc=5",
+      "source": "autonocion.com",
+      "published": "2026-09-23T10:30:38+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
       ]
     },
     {
@@ -71,64 +111,24 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzdnRHSXdFOUJzR0F4UjZXVW5ISjRVeExLbFZsRzRpVmdLS0Nsd1laakpWcXJpbFp6S0RuNllfSlI5bGdLaHl5SlZnbEEtcDdTbVE?oc=5",
       "source": "Iran International",
       "published": "2026-09-22T16:38:24+00:00",
-      "score": 3.0,
+      "score": 2.98,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Iran plans to sell US, Israeli vessels seized in Hormuz - Middle East Monitor",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZVBvNDJicnJxb05kOEpZU3hxRUZ2WG1fTGo1NlFjbnN6RDBGUVJ5TUNLQjg4X1hNNjFXRXRYRTM3MFgzQU1wWHRhdkYzQ1F6a0JkT2l6Y2NZMUR5Qkw0eVJhdWFjSTFJa2ZDaGJRUUdqWDlMM3V0V3NHaXM3NnVidXZpTDFmQm9zOWN2MVBhWVdHYnF3cWxHdUpNZHRFc3PSAaQBQVVfeXFMTTJMMnhlbktJSlZOQ2FUQ2Mxa2xkMXlDTnV6anRiVlRyMEs2YlV3dVlHcDJHVHBBRnl0NHJEYTFlYm9BUnhITnhLV2JSOXNaTndhakNVWWdvUUEyZTVrR0ZBVjgweUotMmhrcTB3OEtOTndoeHo0SklPM01KQzFKeWFSREJnVTM3NjdsMFBiTm1nSlNHbEllX2NDR0Z1NFc0bmI3VWc?oc=5",
-      "source": "Middle East Monitor",
-      "published": "2026-09-22T15:29:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran downs another US drone over Strait of Hormuz, brings total American drone losses to 53 - Tehran Times",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNmlQMVBBWlh5Mk1lWlItQkhuVm5LNk1IazBLNlFLcWxaNWJHc1V5ZzFkdEUyNjFXTWYzMFBhTVNObmFrMEFxS0FteDM4dUVBdjAxNXNDS3BHQklzZlBtdndjemtPSm5NcGM0RUFiN3o1a3JBTWh2d1Yzd3BxMUV2Q1B5MGk5cnZiLVhNTzY0SEZOT0EzMVlSay1YUkpNV3V2anpjMA?oc=5",
-      "source": "Tehran Times",
-      "published": "2026-09-21T17:41:54+00:00",
-      "score": 2.68,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Two More Tankers Hit in Strait of Hormuz as Attacks Mount - gCaptain",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUUo3NXJIMGpNY2Nnbkg0dkxtbWRvZ2w3MkpSZUF5ZFZpTUl4UWVCeEZWUHhHbXhvNnBYRnR6VkxNVzBYSUFNaTlyM2h1eXRkS3luLTB6Wk04OVRQZmhnaGxIRUZMb1BzSy1nMEZUYXd5SHV0b3Y4R1BCRTFOUnBIMjB1NUZCZw?oc=5",
-      "source": "gCaptain",
-      "published": "2026-09-21T16:06:53+00:00",
-      "score": 2.65,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Two tankers attacked in Hormuz, two crew injured - Seatrade Maritime News",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU0djbjFiVmJOWmFjdDY5ajB5QUFzbU9vVlVtdmRKbGZELWptVThfZWFzOWcydnRMSzZnRURzbEJFMzdLc1RoaFhRMngwMTdtbFdlMExSclhKX3RCNWUxQndDSXNtLVBVNTl1RWhxU2ZJeVlaMGNwTFNzeXFJNE5rV1ZqajZsLVQtMldn?oc=5",
-      "source": "Seatrade Maritime News",
-      "published": "2026-09-21T16:04:49+00:00",
-      "score": 2.65,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Two attacks on tankers reported in Strait of Hormuz - yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORG1RNXllYW02Q2FuVWM2bzd4SEVra0JCRmFxeTBrVjlnY0pHeEEwQXVNNUdIUEpjSTZ3SUxweXJ2MWZwMVNPRnJkWGVPZ3Bfd1V6eFNEQnlJZnJ5UFQ2Vk1QZmhGMVlqU0dzaEhWaW1tckxYRU9vcGVFMWdBejVuSHBYczhrdzBPRU9RQVhRcVBYalBrRWZF?oc=5",
-      "source": "yahoo.com",
-      "published": "2026-09-21T15:33:34+00:00",
-      "score": 2.65,
+      "title": "Iran offers Strait of Hormuz deal as Trump calls off Houthi strikes at last minute - The Telegraph",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRzhlMjd1RnpTQXh6TjZvY0xLSUpzT3RuYzNOcEd6a1N4aGEtRTI5T01JSUJKSEdSeEpQWUdMdF9qVFRnRlBFSE1hcFN1ZHhPaXM2ZVFvNVJiaVV0MW41WlhXWkhXeUxOY2hleTNqTjQwYjdpeEJkeENVN1pFNHViNVRVRDliaTI0X2Nfd2RjTEdscENmMFZod3l2aEJBZTNuczY3MmdxTQ?oc=5",
+      "source": "The Telegraph",
+      "published": "2026-09-22T15:54:00+00:00",
+      "score": 2.97,
       "tags": [
         "tension"
       ]
     }
   ],
   "brent": {
-    "price": 96.32,
-    "change_pct": 0.95
+    "price": 97.71,
+    "change_pct": 2.41
   }
 }
