@@ -1,27 +1,27 @@
 {
-  "status": "ELEVATED",
-  "label": "Elevated tension",
-  "tension_index": 14.1,
+  "status": "OPEN",
+  "label": "Normal traffic",
+  "tension_index": 7.9,
   "closure_signals": 2,
-  "articles_scanned": 234,
-  "updated": "2026-09-23T17:37:55.926271+00:00",
+  "articles_scanned": 236,
+  "updated": "2026-09-23T20:55:54.926976+00:00",
   "headlines": [
     {
       "title": "With Strait of Hormuz blocked, Iran turns to Caspian Sea - Le Monde.fr",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcXpVT1RLMlBSQ2JWenVJOHBpNEZkY2FGcVk2X2FCbEZhbzRhamxvUENUVlZiaHF2VDJrVFJBV3I4NTZHN0E2ZTN3aW95T2k3NGdqbFZibk1qNVVKR3NETl9oem1YSmgwZUVPWnF0R3A3cDFjN3ZfRzZzM2tZMDRfSVl3MXZmWEdQZm1ZLU4ySWVxNk1HX0MtUjI5YWVYeFk4UmltOHV3b2FQV1U1OEZVa0FQbmVpZFpRWDlDNWd3bDFRQQ?oc=5",
       "source": "Le Monde.fr",
       "published": "2026-09-22T09:06:06+00:00",
-      "score": 9.53,
+      "score": 9.34,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iran President Pezeshkian to visit US for UNGA as Tehran keeps Strait of Hormuz shut - Firstpost",
+      "title": "Iran President Pezeshkian to visit US for UNGA as Tehran keeps Strait of Hormuz shut - firstpost.com",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObS01a21sRTBMN2ptZ01ZemZ5NV9nTzg3M3Y4VTJuVVYwSnR5VEFETWRidU9SQ3ZrQS10NGhIX0Y4MzZJZ3h5aktQQ0x3Ui1SZDQ4VE80S0tRV1pvbjg3eU1WM1V6YldhcUNSQzB1bjJBXzJiSy1Xa2tHZXlmNGZOUEJ6cGVxdVhpVk9mQlh0cnlPMU82TDltRGtHTzVmcG9rNUY4N0VVeGx1VFdyZFNlZk9GbjNuRGpiVVJ6eFB2anlFQ1dTZlNBdWtB0gHPAUFVX3lxTE5RU3JxUWpiU1BHaGhmcGxxTWZvcFVVZWhDV0hQY3JMM3FQTjFVUFdJdnhTV2RxeXJqVGJXYk81TF9YM3JVUjFxRjdvcFBzNTk5NjV3TURMaDJVb0pMYkIzZGFycEw3cGZGRnh2QVltOGUycWxLbmJnQmlLNE05Tko3NGRuLWpqelZkOGZtUm4zZjdpS1NHbXZtcmZLLUlaRWZaOXFIcC1DNWN6VWg0U08zd3dSYWg4dDBUMWZyU2lYenVCMGN4dDBCaEQ1TWZkVQ?oc=5",
-      "source": "Firstpost",
+      "source": "firstpost.com",
       "published": "2026-09-20T13:29:06+00:00",
-      "score": 7.1,
+      "score": 6.92,
       "tags": [
         "closure"
       ]
@@ -31,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzRPSjlIQTd4QndKdm9CUHk1ZWxIaktfOERjc1A3VHpYMHV0Z1Zkd3dGNURqMFJFR3l4LXo3OU5scG96QXhMd0F5TGthdlVzbmg0QVVHbnktU096TkFWUnc5QU9UV0xvTk1jbDY3eGFJaWZXN19UOEJvbTF6eFdFcW13cWxwdWRDVzU1OEl6c2ctT3ltYVJZN0d1a3hvQQ?oc=5",
       "source": "ABC News - Breaking News, Latest News and Videos",
       "published": "2026-09-21T03:18:50+00:00",
-      "score": 4.72,
+      "score": 4.61,
       "tags": [
         "closure"
       ]
@@ -41,7 +41,7 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcmFadUJjNUxDVmMxdzNEM1h3eWVodjByQ3A3aXUwWUVGRWY3ZWJwQ3VFcTktVUNkb1hpbUxkMWNBQWwtM1FxUk85Vl9BbUhKUVNRakxRMGYxV00yU2UwN05aT3Y3YjVBWHIyUmNfWnRjNS1LbXlHeXM5S1FoWlNYZDlXUFdOMmxOV2hLWnBlMGEwY28?oc=5",
       "source": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0635\u062f\u0627\u06cc \u0627\u0641\u063a\u0627\u0646(\u0622\u0648\u0627)",
       "published": "2026-09-19T06:01:07+00:00",
-      "score": 4.28,
+      "score": 4.14,
       "tags": [
         "closure"
       ]
@@ -61,17 +61,7 @@
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcS1STFlTRVhSdUtVZ1VESDZacGtyQk5SWWVyRktrcWIwSUhaMVNBLTIxVzk4YjdJTXEyQUFLczdzS3k4RW9LYXF5dDVDQ01jZFJvR2pmMHlaY1paT2FVcE9NVW95QldWazZvbF81emdCOG9ZazMwS0dUay1yU1hEekd0TTREdlNycmNvNE5iRDhUa25JNGEzN0RCN0RqQmpMYU5Ya1BkWHUtaXNkbjlpVktYay04SkdyQm5maVNBQ1hrRDFrZTF3VnVsWWFwTGJCR0JjN2ZZNW5XQQ?oc=5",
       "source": "\u0627\u0644\u0645\u062a\u062f\u0627\u0648\u0644 \u0627\u0644\u0639\u0631\u0628\u064a",
       "published": "2026-09-21T11:28:45+00:00",
-      "score": 3.33,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Seafarer Killed in Hormuz Attack as Trump Pushes Iran Deal at UN - gcaptain.com",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMDB2bGZpNmw3SnBOY1p6MVF3NGJxdlpVUGZnMm1ZMllmakMtb1AtVkU2STlqU1FlbVRwNWhJOTRLaExuZDZzaHFNMVM1QVhJRW9EdEc2ajR5UFFRNGY5aUJsbV9MN1VzR0dJdGVBVUVDRTcwWGN3aUJ0QVhZaVE5X3ZhNDBHdEw3cHV6S2RRYw?oc=5",
-      "source": "gcaptain.com",
-      "published": "2026-09-23T14:47:51+00:00",
-      "score": 3.0,
+      "score": 3.26,
       "tags": [
         "tension"
       ]
@@ -97,9 +87,19 @@
       ]
     },
     {
-      "title": "A 23-foot American drone sailboat that rides the wind on a 15-foot rigid wing turned up burning in an Iranian video at the mouth of the Strait of Hormuz, and four days later a US drone put two missiles into boats grabbing at another Navy surface drone - autonocion.com",
+      "title": "Iran To Sell U.S & Israeli Vessels Seized In Strait Of Hormuz & Persian Gulf To Compensate War Victims - Marine Insight",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaWRPVUlXZW1Gc19zeTR3cVVYRVYydWhjclhUM0prX3pOZ1dGLXFqZ0xhR0pIYVlwVDluMFNoVmV4WkpPZEViYjJ4Z1FMM0tsaUlEeU1oYnFZNXJqckVpd2MxbHZkUElnSG05SXRZODBwSGJwakhxSjJuZUJzUEJLS3BOMDBYVXo4bjlSYXlEQVA1dDRlQ0VhVURfRWZJc3NpQ09wNDAwOFdYWHZHdk04djM2Nk9NU3V5NWh4Q0diRzVvYnM3cGRr?oc=5",
+      "source": "Marine Insight",
+      "published": "2026-09-23T11:42:57+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "A 23-foot American drone sailboat that rides the wind on a 15-foot rigid wing turned up burning in an Iranian video at the mouth of the Strait of Hormuz, and four days later a US drone put two missiles into boats grabbing at another Navy surface drone - Autonocion.com",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oZlR6cWJxMmF6cXZOdzBIMnczQ0hpelpJSzlNTHhrdkh5M0YzYkVyb2ExVDFTS1lwY05LZ3ByOWlvWWVXOFQySGZMSUFvd2MtWGpBZ0lUUGlsM042VHlyVEdzMUtoNGZuMXhoWGprWFdOVEdMZy1PZg?oc=5",
-      "source": "autonocion.com",
+      "source": "Autonocion.com",
       "published": "2026-09-23T10:30:38+00:00",
       "score": 3.0,
       "tags": [
@@ -111,7 +111,7 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzdnRHSXdFOUJzR0F4UjZXVW5ISjRVeExLbFZsRzRpVmdLS0Nsd1laakpWcXJpbFp6S0RuNllfSlI5bGdLaHl5SlZnbEEtcDdTbVE?oc=5",
       "source": "Iran International",
       "published": "2026-09-22T16:38:24+00:00",
-      "score": 2.98,
+      "score": 2.93,
       "tags": [
         "tension"
       ]
@@ -121,14 +121,14 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRzhlMjd1RnpTQXh6TjZvY0xLSUpzT3RuYzNOcEd6a1N4aGEtRTI5T01JSUJKSEdSeEpQWUdMdF9qVFRnRlBFSE1hcFN1ZHhPaXM2ZVFvNVJiaVV0MW41WlhXWkhXeUxOY2hleTNqTjQwYjdpeEJkeENVN1pFNHViNVRVRDliaTI0X2Nfd2RjTEdscENmMFZod3l2aEJBZTNuczY3MmdxTQ?oc=5",
       "source": "The Telegraph",
       "published": "2026-09-22T15:54:00+00:00",
-      "score": 2.97,
+      "score": 2.92,
       "tags": [
         "tension"
       ]
     }
   ],
   "brent": {
-    "price": 97.71,
-    "change_pct": 2.41
+    "price": 98.68,
+    "change_pct": 3.43
   }
 }
