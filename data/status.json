@@ -1,17 +1,17 @@
 {
   "status": "OPEN",
   "label": "Normal traffic",
-  "tension_index": -22.4,
-  "closure_signals": 5,
-  "articles_scanned": 243,
-  "updated": "2026-09-25T02:53:41.362679+00:00",
+  "tension_index": -46.3,
+  "closure_signals": 2,
+  "articles_scanned": 240,
+  "updated": "2026-09-25T08:25:55.062526+00:00",
   "headlines": [
     {
       "title": "With Strait of Hormuz blocked, Iran turns to Caspian Sea - Le Monde.fr",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcXpVT1RLMlBSQ2JWenVJOHBpNEZkY2FGcVk2X2FCbEZhbzRhamxvUENUVlZiaHF2VDJrVFJBV3I4NTZHN0E2ZTN3aW95T2k3NGdqbFZibk1qNVVKR3NETl9oem1YSmgwZUVPWnF0R3A3cDFjN3ZfRzZzM2tZMDRfSVl3MXZmWEdQZm1ZLU4ySWVxNk1HX0MtUjI5YWVYeFk4UmltOHV3b2FQV1U1OEZVa0FQbmVpZFpRWDlDNWd3bDFRQQ?oc=5",
       "source": "Le Monde.fr",
       "published": "2026-09-22T09:06:06+00:00",
-      "score": 7.68,
+      "score": 7.37,
       "tags": [
         "closure"
       ]
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzRPSjlIQTd4QndKdm9CUHk1ZWxIaktfOERjc1A3VHpYMHV0Z1Zkd3dGNURqMFJFR3l4LXo3OU5scG96QXhMd0F5TGthdlVzbmg0QVVHbnktU096TkFWUnc5QU9UV0xvTk1jbDY3eGFJaWZXN19UOEJvbTF6eFdFcW13cWxwdWRDVzU1OEl6c2ctT3ltYVJZN0d1a3hvQdIBowFBVV95cUxPUktnalZhVFFxNkhBTHFVS0tOSVBzVE5rZWFhcHhQUVk5dnlocFVZQWdNeHlNQ2pwY0ctTHp6dkQ1WFh1djJsUkQxZ3RZR3NkbVVJOWNCNTFqdFl5eUpMc044SVlwQVMyeldla2VYZ2FxVG5ud1RvTVlKNVc1d0FMNjZSemNubmdydW5BRE1peGVjdmJNSFF5QVZ2OGtNMTVHY09B?oc=5",
       "source": "ABC News - Breaking News, Latest News and Videos",
       "published": "2026-09-23T17:54:52+00:00",
-      "score": 5.7,
+      "score": 5.52,
       "tags": [
         "closure"
       ]
@@ -31,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObS01a21sRTBMN2ptZ01ZemZ5NV9nTzg3M3Y4VTJuVVYwSnR5VEFETWRidU9SQ3ZrQS10NGhIX0Y4MzZJZ3h5aktQQ0x3Ui1SZDQ4VE80S0tRV1pvbjg3eU1WM1V6YldhcUNSQzB1bjJBXzJiSy1Xa2tHZXlmNGZOUEJ6cGVxdVhpVk9mQlh0cnlPMU82TDltRGtHTzVmcG9rNUY4N0VVeGx1VFdyZFNlZk9GbjNuRGpiVVJ6eFB2anlFQ1dTZlNBdWtB0gHPAUFVX3lxTE5RU3JxUWpiU1BHaGhmcGxxTWZvcFVVZWhDV0hQY3JMM3FQTjFVUFdJdnhTV2RxeXJqVGJXYk81TF9YM3JVUjFxRjdvcFBzNTk5NjV3TURMaDJVb0pMYkIzZGFycEw3cGZGRnh2QVltOGUycWxLbmJnQmlLNE05Tko3NGRuLWpqelZkOGZtUm4zZjdpS1NHbXZtcmZLLUlaRWZaOXFIcC1DNWN6VWg0U08zd3dSYWg4dDBUMWZyU2lYenVCMGN4dDBCaEQ1TWZkVQ?oc=5",
       "source": "Firstpost",
       "published": "2026-09-20T13:29:06+00:00",
-      "score": 5.26,
+      "score": 4.95,
       "tags": [
         "closure"
       ]
@@ -41,17 +41,7 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNalU3bU1pMG1OaG9BS0hPQnhWLXNCV05SSnd2Z2VlbUpqMEtzMmt6OEpZaTNhU2xmLV9qRzlDQ0lyUHhqdUFsQXRhVWJQRGt4QkJLaUxFQ2hUSW9FNFcxTFFyWGJUQWNHRHBwcUtSa0R5WlVzTi1xWUdzdEZXWkhwd2R5QUNlb1dFZEduYUJvTnFjV0R1XzlrUFF3RFVkN0tZVVZUcEZRUmZielVvckVmLUxkVGNzUdIBuwFBVV95cUxNSVNqYWwwNEpkbkNXajdsZFR6YnJIUXhhWmZkSkJUQXZzeDlucC1OZ1BZOTRONlNaZldoSnZSNHJ3YzhsN0VrOGlxbGhMOTF0Tlh5WXRMbzB4YzZWVFBydFYxemZHdklxblRDQ2NWN1lHT1FOd3JiT0RkaHIwUEhDTG85M0JrcHRldWVxR2JLOTJpQXQ5Rm01dTItZUFNMWRiWjZ0RE5DV2ZJNFltQnp6V0p0clNmc0V4V1ZN?oc=5",
       "source": "Report.az",
       "published": "2026-09-20T12:10:37+00:00",
-      "score": 5.18,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Iran live updates: Strait of Hormuz shut until Tehran's conditions met, Ghalibaf says - yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOGc0ZXNqemJjTEJlVHMydm1PeXZ3bXZITG03TjI1eHluM05NWFJVYVBGXzYxMG9JWklhUVg1cnJLVlRUU1lhdGRnaXdIa2FTN3lYTUFhc3BZczlSVHVyd0FBdkxWTjJDT1JaNjlndGtRTS10bTIyUTNVT1BqSFlWWUFLcnQxRlBDTkVrazlkMHNQQQ?oc=5",
-      "source": "yahoo.com",
-      "published": "2026-09-20T09:18:08+00:00",
-      "score": 5.02,
+      "score": 4.87,
       "tags": [
         "closure"
       ]
@@ -61,7 +51,7 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nRkI3TUxnWHpQUm0xX2hKZkFMbEd6dHdDa1phbUlKZWdDLXJSU0s2d1V3anlHOE5jVThkbTduX2gwYlVtS2dISm1vaXFHV3Z1dFZCSFBn?oc=5",
       "source": "Fox News",
       "published": "2026-09-23T12:49:36+00:00",
-      "score": 3.69,
+      "score": 3.56,
       "tags": [
         "tension"
       ]
@@ -71,7 +61,7 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZVVncnZlTGp6aFJ0NXdvMkkwUDhmcHE2MkZIb1BESWwyTkdhWmZFcDl3YWk0RUxnaGVYdGo5bEN3QmYwSy1LN3JZZUwxUTl3MG1DX054UEwzc0x0VzhkTDhJaEIzTi1XYWJ1T3VzaU1aZEVzVW5ZWk5WN09ma2JCRV9KMXhBZGh5NzRSeHU3Y1JSQjBDUUNiN01fQ05OSXdHREF0T2ZTaHdJZk40UU9zNlY4YU9TSjY5dlluVVJwT2VfQ3hhWEszZF80VHXSAcwBQVVfeXFMTTZRWk4yZ3BnUlQ1SDYxcWxKa2ZqZThCblduQ19qY1ZZaXIwR1BGLWFRNXdWSVBuTUc1ekJZSXZNMFMzMmdlMG85dWxpNmJ2Wmt4ay1CdTdZcUJLZ1RibDd3RFd5SXNIM0lXck5Ca0NKcmJLNXd5akFyUEl0VXlncHIzdWpLaU9OcWJKMDg3STFXaGZrQkN0ZXZMQXN6dnBCQVo1UHQxSUpjZEp4SnBrMXZRbUJGWExEQUJQVTB2OURCTUVIRWxWN2FBbk45?oc=5",
       "source": "South China Morning Post",
       "published": "2026-09-23T19:20:43+00:00",
-      "score": 2.87,
+      "score": 2.78,
       "tags": [
         "tension"
       ]
@@ -81,19 +71,9 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcWViLWc1c1E5QWJrM0VqMHpzaGc5eExsYk5pbURIcEJtSGlfaVZtNjc5S051d2dnSVNXVHQwNzUtbUZXeHV5ZHlhNG4xeWpnYV9fMW5zT3lEUnZ0UjRRUENtc2lvb3djdXp4NjV6TjYzR1UxQjNYUFZzMGdHbm5acUdVQ095cTBaR1d1SlJ4RnNXRWZVT3dCZ2xKamZrTHRzXzY0VkJRT3hlN0lPQk5YeUJMOU1kOWZwYVQtWHRsWTBMMEdFakFrcXloQQ?oc=5",
       "source": "The Times of Israel",
       "published": "2026-09-23T17:49:13+00:00",
-      "score": 2.85,
+      "score": 2.76,
       "tags": [
         "tension"
-      ]
-    },
-    {
-      "title": "Macron Acknowledges Closure of the Strait of Hormuz - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0635\u062f\u0627\u06cc \u0627\u0641\u063a\u0627\u0646(\u0622\u0648\u0627)",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcmFadUJjNUxDVmMxdzNEM1h3eWVodjByQ3A3aXUwWUVGRWY3ZWJwQ3VFcTktVUNkb1hpbUxkMWNBQWwtM1FxUk85Vl9BbUhKUVNRakxRMGYxV00yU2UwN05aT3Y3YjVBWHIyUmNfWnRjNS1LbXlHeXM5S1FoWlNYZDlXUFdOMmxOV2hLWnBlMGEwY28?oc=5",
-      "source": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0635\u062f\u0627\u06cc \u0627\u0641\u063a\u0627\u0646(\u0622\u0648\u0627)",
-      "published": "2026-09-19T06:01:07+00:00",
-      "score": 2.81,
-      "tags": [
-        "closure"
       ]
     },
     {
@@ -101,7 +81,7 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMDB2bGZpNmw3SnBOY1p6MVF3NGJxdlpVUGZnMm1ZMllmakMtb1AtVkU2STlqU1FlbVRwNWhJOTRLaExuZDZzaHFNMVM1QVhJRW9EdEc2ajR5UFFRNGY5aUJsbV9MN1VzR0dJdGVBVUVDRTcwWGN3aUJ0QVhZaVE5X3ZhNDBHdEw3cHV6S2RRYw?oc=5",
       "source": "gCaptain",
       "published": "2026-09-23T14:47:51+00:00",
-      "score": 2.8,
+      "score": 2.71,
       "tags": [
         "tension"
       ]
@@ -111,7 +91,7 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObnplTTEtdTN1TkxvY0VBSUdTVkJjWGs0NExyNUcxZm1TZkZVLWRZTnBOcFBGbDBsejBDR0steUk0QnViNDNLTUhieVNhR3NIR1VzSlJNNjJlOU94NWtWRV9ycGdXek1keVRDMXpWcjIxWmtSNW1zcnY5SmZxaUIzazBuVS1ERzdDT3VyVTRNd2tXQlhXX3FlajhKaTRBNW42X1RMR1Nqa01ZX05oQk80RWpfLVFOMk92dndWNVV3?oc=5",
       "source": "T\u00fcrkiye Today",
       "published": "2026-09-23T12:01:51+00:00",
-      "score": 2.75,
+      "score": 2.66,
       "tags": [
         "tension"
       ]
@@ -121,14 +101,34 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR2g0cWxBZXFoQVZRd0tRdTA5UmIyQVNxRWRsNlppc2RPc3VBazd2ejJlbFc3UXpIb0hfRnJPY3RrTWJJcG1jRWVJc1FpNm9nclJJTDJHRlltMlhKRDZ4YkMySzJ6LXpXRkNqQ2FNc0tuR1djQ3pQRWx2UnNQMGdUMWJ5QTFmNUtUalI3RUgzV3RwLWRxazVTUnhJN2U3dmQ2Q2hXNkg2Ykx4eUc1Qzc0TkNXSQ?oc=5",
       "source": "The Times of Israel",
       "published": "2026-09-23T12:01:00+00:00",
-      "score": 2.75,
+      "score": 2.66,
       "tags": [
         "tension"
+      ]
+    },
+    {
+      "title": "A 23-foot American drone sailboat that rides the wind on a 15-foot rigid wing turned up burning in an Iranian video at the mouth of the Strait of Hormuz, and four days later a US drone put two missiles into boats grabbing at another Navy surface drone - Autonocion.com",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oZlR6cWJxMmF6cXZOdzBIMnczQ0hpelpJSzlNTHhrdkh5M0YzYkVyb2ExVDFTS1lwY05LZ3ByOWlvWWVXOFQySGZMSUFvd2MtWGpBZ0lUUGlsM042VHlyVEdzMUtoNGZuMXhoWGprWFdOVEdMZy1PZg?oc=5",
+      "source": "Autonocion.com",
+      "published": "2026-09-23T10:30:38+00:00",
+      "score": 2.63,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Macron Acknowledges Closure of the Strait of Hormuz - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0635\u062f\u0627\u06cc \u0627\u0641\u063a\u0627\u0646(\u0622\u0648\u0627)",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcmFadUJjNUxDVmMxdzNEM1h3eWVodjByQ3A3aXUwWUVGRWY3ZWJwQ3VFcTktVUNkb1hpbUxkMWNBQWwtM1FxUk85Vl9BbUhKUVNRakxRMGYxV00yU2UwN05aT3Y3YjVBWHIyUmNfWnRjNS1LbXlHeXM5S1FoWlNYZDlXUFdOMmxOV2hLWnBlMGEwY28?oc=5",
+      "source": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0635\u062f\u0627\u06cc \u0627\u0641\u063a\u0627\u0646(\u0622\u0648\u0627)",
+      "published": "2026-09-19T06:01:07+00:00",
+      "score": 2.56,
+      "tags": [
+        "closure"
       ]
     }
   ],
   "brent": {
-    "price": 105.77,
-    "change_pct": -0.78
+    "price": 99.35,
+    "change_pct": -0.87
   }
 }
