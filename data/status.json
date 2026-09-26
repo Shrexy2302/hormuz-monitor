@@ -1,17 +1,27 @@
 {
   "status": "OPEN",
   "label": "Normal traffic",
-  "tension_index": -175.9,
-  "closure_signals": 1,
-  "articles_scanned": 243,
-  "updated": "2026-09-26T05:15:08.612526+00:00",
+  "tension_index": -187.5,
+  "closure_signals": 2,
+  "articles_scanned": 249,
+  "updated": "2026-09-26T10:01:55.450030+00:00",
   "headlines": [
     {
-      "title": "With Strait of Hormuz blocked, Iran turns to Caspian Sea - lemonde.fr",
+      "title": "US Speaker of the House Acknowledges Closure of the Strait of Hormuz - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0635\u062f\u0627\u06cc \u0627\u0641\u063a\u0627\u0646(\u0622\u0648\u0627)",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQkMxSGw0eWNyMDFrakxlV0xrelVPS0N5X1FUbTNsY3UybzRLcFVOeEFxWTFmdlg5ZE1FcW1GS0pfMFhHUl83TjRMVFZVdmEyVDVDbVZyMDk0RnNkQWRRd0UtYVZKanZ1Z2pfTGxfcmtiNVFfNmd4X2t4R09odTVZcW5MSnJFMTY1UE5fN0tXc00tRTNNN214Q0lUTGtJVk0?oc=5",
+      "source": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0635\u062f\u0627\u06cc \u0627\u0641\u063a\u0627\u0646(\u0622\u0648\u0627)",
+      "published": "2026-09-24T07:07:10+00:00",
+      "score": 6.8,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "With Strait of Hormuz blocked, Iran turns to Caspian Sea - Le Monde.fr",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcXpVT1RLMlBSQ2JWenVJOHBpNEZkY2FGcVk2X2FCbEZhbzRhamxvUENUVlZiaHF2VDJrVFJBV3I4NTZHN0E2ZTN3aW95T2k3NGdqbFZibk1qNVVKR3NETl9oem1YSmgwZUVPWnF0R3A3cDFjN3ZfRzZzM2tZMDRfSVl3MXZmWEdQZm1ZLU4ySWVxNk1HX0MtUjI5YWVYeFk4UmltOHV3b2FQV1U1OEZVa0FQbmVpZFpRWDlDNWd3bDFRQQ?oc=5",
-      "source": "lemonde.fr",
+      "source": "Le Monde.fr",
       "published": "2026-09-22T09:06:06+00:00",
-      "score": 6.21,
+      "score": 5.95,
       "tags": [
         "closure"
       ]
@@ -21,37 +31,17 @@
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObS01a21sRTBMN2ptZ01ZemZ5NV9nTzg3M3Y4VTJuVVYwSnR5VEFETWRidU9SQ3ZrQS10NGhIX0Y4MzZJZ3h5aktQQ0x3Ui1SZDQ4VE80S0tRV1pvbjg3eU1WM1V6YldhcUNSQzB1bjJBXzJiSy1Xa2tHZXlmNGZOUEJ6cGVxdVhpVk9mQlh0cnlPMU82TDltRGtHTzVmcG9rNUY4N0VVeGx1VFdyZFNlZk9GbjNuRGpiVVJ6eFB2anlFQ1dTZlNBdWtB0gHPAUFVX3lxTE5RU3JxUWpiU1BHaGhmcGxxTWZvcFVVZWhDV0hQY3JMM3FQTjFVUFdJdnhTV2RxeXJqVGJXYk81TF9YM3JVUjFxRjdvcFBzNTk5NjV3TURMaDJVb0pMYkIzZGFycEw3cGZGRnh2QVltOGUycWxLbmJnQmlLNE05Tko3NGRuLWpqelZkOGZtUm4zZjdpS1NHbXZtcmZLLUlaRWZaOXFIcC1DNWN6VWg0U08zd3dSYWg4dDBUMWZyU2lYenVCMGN4dDBCaEQ1TWZkVQ?oc=5",
       "source": "Firstpost",
       "published": "2026-09-20T13:29:06+00:00",
-      "score": 3.79,
+      "score": 3.53,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iran says Strait of Hormuz shut until US fulfills commitments - Yeni \u015eafak English",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc3dWeUtXYm9LdnRlUGlrQXVLQ1FUUDJwNTFYQmJ1OUhjRFdlM0VBNXhyV2JUQU5sU3JoOW1MMldBWk1MSlVxeWEwS2JQNjBhcV9tUm1xOTNxdlJSQmk5ejh4amEyWHN5YUtPd3lUcmU4WGZLd2o3bHJwY09TakU0U1lLaTNsUUpvZ1ZMM0NFUms3d3FKX2ZnbjhpTDFwZzlLTmc?oc=5",
-      "source": "Yeni \u015eafak English",
-      "published": "2026-09-20T09:13:18+00:00",
-      "score": 3.55,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "IRGC strikes cargo vessel in Strait of Hormuz as tensions rise - foxnews.com",
+      "title": "IRGC strikes cargo vessel in Strait of Hormuz as tensions rise - Fox News",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nRkI3TUxnWHpQUm0xX2hKZkFMbEd6dHdDa1phbUlKZWdDLXJSU0s2d1V3anlHOE5jVThkbTduX2gwYlVtS2dISm1vaXFHV3Z1dFZCSFBn?oc=5",
-      "source": "foxnews.com",
+      "source": "Fox News",
       "published": "2026-09-23T12:49:36+00:00",
-      "score": 3.1,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "World Maritime Day 2026: IMO Warns Shipping Rules Are Under Strain as Seafarers Face Deadly Attacks - gCaptain",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR1JUN0h6SUpULU5sTm5teDVHdXI3LUgxV01OZm5qTjN2NU1MQ1NwRktxZlo1X1NLaXN0cjhzZktjSDFSNnd3YkhENTg4ZEFzRno0ZC1UV3RLUzQyZkdmbGdaRUVVQXZOZjc2Ukd1UVNVeUhuS1N5c1pHUTdaZ0I1Vnhyb3lPY2hIOFVkZnJBR2gtRng0NDI3RE9faGVoTlJ3VThQanhjQkVUb1E2S1N5dmpkeVRmX1NnbjVJMA?oc=5",
-      "source": "gCaptain",
-      "published": "2026-09-24T16:17:50+00:00",
-      "score": 2.78,
+      "score": 3.0,
       "tags": [
         "tension"
       ]
@@ -61,17 +51,17 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdjYwd25aUUxuaEU3SnVBcFc2MzZKaG1TN2tvMlRPZDFNUUZ0OEdjQnk2WnlJaEc4Q0R0aFV3THA2eEVFa0tSU3hrRXhXQmFMcWw5bmtHSTBXaE4xTmhtdHV1bzhGVmE3dFhyZ1lMMzVqR1hTUXRNb0FSUlRBMmVfVFA0NWhqTGxQNGtTaXhJcnRtLTE3cHFjRjFMT1F4MHpSYUs1QUhlM0pxOEJZdGNaMDU2RU13cXMxTUxwLVh1T1dOWjYyRkE?oc=5",
       "source": "Pipeline Technology Journal",
       "published": "2026-09-24T14:08:23+00:00",
-      "score": 2.75,
+      "score": 2.67,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Indian sailor killed in attack on vessel in Hormuz, India and Oman authorities say - South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZVVncnZlTGp6aFJ0NXdvMkkwUDhmcHE2MkZIb1BESWwyTkdhWmZFcDl3YWk0RUxnaGVYdGo5bEN3QmYwSy1LN3JZZUwxUTl3MG1DX054UEwzc0x0VzhkTDhJaEIzTi1XYWJ1T3VzaU1aZEVzVW5ZWk5WN09ma2JCRV9KMXhBZGh5NzRSeHU3Y1JSQjBDUUNiN01fQ05OSXdHREF0T2ZTaHdJZk40UU9zNlY4YU9TSjY5dlluVVJwT2VfQ3hhWEszZF80VHU?oc=5",
-      "source": "South China Morning Post",
-      "published": "2026-09-23T19:20:43+00:00",
-      "score": 2.43,
+      "title": "US Receives Nearly $600 Million Worth of Seized Iranian Crude Oil - IranWire",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMlIxODdvYld4WTBQdzJYemFSbW5lbUdPTkc0c2RWSllkTVhSVGUyQVJYd0N1LWVMTDZETFhtY1UxRlc0R01CMDI2dERGbWlvZUFWMHJpZzlia1lHNkNSU0xUc2N0TXItME43dGRpQmVCRVFvTFMtQ0JRVjNJclYtYXZ1VWRyLVFVZVRlT2Nlb0NJbWZZYVJDQjFURHpnaDNoNV8w?oc=5",
+      "source": "IranWire",
+      "published": "2026-09-24T14:02:38+00:00",
+      "score": 2.67,
       "tags": [
         "tension"
       ]
@@ -81,7 +71,7 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcWViLWc1c1E5QWJrM0VqMHpzaGc5eExsYk5pbURIcEJtSGlfaVZtNjc5S051d2dnSVNXVHQwNzUtbUZXeHV5ZHlhNG4xeWpnYV9fMW5zT3lEUnZ0UjRRUENtc2lvb3djdXp4NjV6TjYzR1UxQjNYUFZzMGdHbm5acUdVQ095cTBaR1d1SlJ4RnNXRWZVT3dCZ2xKamZrTHRzXzY0VkJRT3hlN0lPQk5YeUJMOU1kOWZwYVQtWHRsWTBMMEdFakFrcXloQQ?oc=5",
       "source": "The Times of Israel",
       "published": "2026-09-23T17:49:13+00:00",
-      "score": 2.41,
+      "score": 2.33,
       "tags": [
         "tension"
       ]
@@ -91,7 +81,7 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMDB2bGZpNmw3SnBOY1p6MVF3NGJxdlpVUGZnMm1ZMllmakMtb1AtVkU2STlqU1FlbVRwNWhJOTRLaExuZDZzaHFNMVM1QVhJRW9EdEc2ajR5UFFRNGY5aUJsbV9MN1VzR0dJdGVBVUVDRTcwWGN3aUJ0QVhZaVE5X3ZhNDBHdEw3cHV6S2RRYw?oc=5",
       "source": "gCaptain",
       "published": "2026-09-23T14:47:51+00:00",
-      "score": 2.36,
+      "score": 2.28,
       "tags": [
         "tension"
       ]
@@ -101,7 +91,7 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR2g0cWxBZXFoQVZRd0tRdTA5UmIyQVNxRWRsNlppc2RPc3VBazd2ejJlbFc3UXpIb0hfRnJPY3RrTWJJcG1jRWVJc1FpNm9nclJJTDJHRlltMlhKRDZ4YkMySzJ6LXpXRkNqQ2FNc0tuR1djQ3pQRWx2UnNQMGdUMWJ5QTFmNUtUalI3RUgzV3RwLWRxazVTUnhJN2U3dmQ2Q2hXNkg2Ykx4eUc1Qzc0TkNXSQ?oc=5",
       "source": "The Times of Israel",
       "published": "2026-09-23T12:01:00+00:00",
-      "score": 2.31,
+      "score": 2.23,
       "tags": [
         "tension"
       ]
@@ -111,7 +101,7 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzdnRHSXdFOUJzR0F4UjZXVW5ISjRVeExLbFZsRzRpVmdLS0Nsd1laakpWcXJpbFp6S0RuNllfSlI5bGdLaHl5SlZnbEEtcDdTbVE?oc=5",
       "source": "Iran International",
       "published": "2026-09-22T16:38:24+00:00",
-      "score": 1.99,
+      "score": 1.91,
       "tags": [
         "tension"
       ]
@@ -121,7 +111,17 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZVBvNDJicnJxb05kOEpZU3hxRUZ2WG1fTGo1NlFjbnN6RDBGUVJ5TUNLQjg4X1hNNjFXRXRYRTM3MFgzQU1wWHRhdkYzQ1F6a0JkT2l6Y2NZMUR5Qkw0eVJhdWFjSTFJa2ZDaGJRUUdqWDlMM3V0V3NHaXM3NnVidXZpTDFmQm9zOWN2MVBhWVdHYnF3cWxHdUpNZHRFc3PSAaQBQVVfeXFMTTJMMnhlbktJSlZOQ2FUQ2Mxa2xkMXlDTnV6anRiVlRyMEs2YlV3dVlHcDJHVHBBRnl0NHJEYTFlYm9BUnhITnhLV2JSOXNaTndhakNVWWdvUUEyZTVrR0ZBVjgweUotMmhrcTB3OEtOTndoeHo0SklPM01KQzFKeWFSREJnVTM3NjdsMFBiTm1nSlNHbEllX2NDR0Z1NFc0bmI3VWc?oc=5",
       "source": "Middle East Monitor",
       "published": "2026-09-22T15:29:00+00:00",
-      "score": 1.97,
+      "score": 1.89,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Journalist ties tanker attacks to oil middlemen, drawing treason accusations - Iran International",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BSGdSM09yZXR6WVlYT1E0U2JlZzYxRmRDa001dnlDem5xWGFOeG5NNnBPVW1Ud1NaRHg3Z2NIY25zUlZkRlRaWDdCUzhyQkJ0SEE?oc=5",
+      "source": "Iran International",
+      "published": "2026-09-22T09:24:18+00:00",
+      "score": 1.79,
       "tags": [
         "tension"
       ]
