@@ -1,17 +1,17 @@
 {
   "status": "OPEN",
   "label": "Normal traffic",
-  "tension_index": -265.6,
-  "closure_signals": 2,
-  "articles_scanned": 248,
-  "updated": "2026-09-27T02:59:32.925621+00:00",
+  "tension_index": -267.2,
+  "closure_signals": 1,
+  "articles_scanned": 246,
+  "updated": "2026-09-27T09:07:29.510139+00:00",
   "headlines": [
     {
       "title": "US Speaker of the House Acknowledges Closure of the Strait of Hormuz - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0635\u062f\u0627\u06cc \u0627\u0641\u063a\u0627\u0646(\u0622\u0648\u0627)",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQkMxSGw0eWNyMDFrakxlV0xrelVPS0N5X1FUbTNsY3UybzRLcFVOeEFxWTFmdlg5ZE1FcW1GS0pfMFhHUl83TjRMVFZVdmEyVDVDbVZyMDk0RnNkQWRRd0UtYVZKanZ1Z2pfTGxfcmtiNVFfNmd4X2t4R09odTVZcW5MSnJFMTY1UE5fN0tXc00tRTNNN214Q0lUTGtJVk0?oc=5",
       "source": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0635\u062f\u0627\u06cc \u0627\u0641\u063a\u0627\u0646(\u0622\u0648\u0627)",
       "published": "2026-09-24T07:07:10+00:00",
-      "score": 6.05,
+      "score": 5.78,
       "tags": [
         "closure"
       ]
@@ -21,9 +21,19 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcXpVT1RLMlBSQ2JWenVJOHBpNEZkY2FGcVk2X2FCbEZhbzRhamxvUENUVlZiaHF2VDJrVFJBV3I4NTZHN0E2ZTN3aW95T2k3NGdqbFZibk1qNVVKR3NETl9oem1YSmgwZUVPWnF0R3A3cDFjN3ZfRzZzM2tZMDRfSVl3MXZmWEdQZm1ZLU4ySWVxNk1HX0MtUjI5YWVYeFk4UmltOHV3b2FQV1U1OEZVa0FQbmVpZFpRWDlDNWd3bDFRQQ?oc=5",
       "source": "Le Monde.fr",
       "published": "2026-09-22T09:06:06+00:00",
-      "score": 5.01,
+      "score": 4.67,
       "tags": [
         "closure"
+      ]
+    },
+    {
+      "title": "Seized Iranian Oil Tankers Head Toward U.S. With $600 Million Cargo - gCaptain",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZlBDYW9lS3lCRk9Ba0JXYmNiWldERzRIMkVmM05SLTZVRG1VVGp2THNMaTFDazhuNWJZMVBYbkJmQUJ3RHJqUy1uWFQySF92eVNnOUtEUHdTX0ctYm5ZRXU3VDRUd3VmNHBlY090aldXdEVoZHZLQ250dlY1bW01QktXY21iaUdwZXlWX1RJaWo?oc=5",
+      "source": "gCaptain",
+      "published": "2026-09-25T16:45:36+00:00",
+      "score": 2.73,
+      "tags": [
+        "tension"
       ]
     },
     {
@@ -31,17 +41,17 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nRkI3TUxnWHpQUm0xX2hKZkFMbEd6dHdDa1phbUlKZWdDLXJSU0s2d1V3anlHOE5jVThkbTduX2gwYlVtS2dISm1vaXFHV3Z1dFZCSFBn?oc=5",
       "source": "Fox News",
       "published": "2026-09-23T12:49:36+00:00",
-      "score": 2.62,
+      "score": 2.48,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "World Maritime Day 2026: IMO Warns Shipping Rules Are Under Strain as Seafarers Face Deadly Attacks - gcaptain.com",
+      "title": "World Maritime Day 2026: IMO Warns Shipping Rules Are Under Strain as Seafarers Face Deadly Attacks - gCaptain",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR1JUN0h6SUpULU5sTm5teDVHdXI3LUgxV01OZm5qTjN2NU1MQ1NwRktxZlo1X1NLaXN0cjhzZktjSDFSNnd3YkhENTg4ZEFzRno0ZC1UV3RLUzQyZkdmbGdaRUVVQXZOZjc2Ukd1UVNVeUhuS1N5c1pHUTdaZ0I1Vnhyb3lPY2hIOFVkZnJBR2gtRng0NDI3RE9faGVoTlJ3VThQanhjQkVUb1E2S1N5dmpkeVRmX1NnbjVJMA?oc=5",
-      "source": "gcaptain.com",
+      "source": "gCaptain",
       "published": "2026-09-24T16:17:50+00:00",
-      "score": 2.42,
+      "score": 2.32,
       "tags": [
         "tension"
       ]
@@ -51,37 +61,37 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdjYwd25aUUxuaEU3SnVBcFc2MzZKaG1TN2tvMlRPZDFNUUZ0OEdjQnk2WnlJaEc4Q0R0aFV3THA2eEVFa0tSU3hrRXhXQmFMcWw5bmtHSTBXaE4xTmhtdHV1bzhGVmE3dFhyZ1lMMzVqR1hTUXRNb0FSUlRBMmVfVFA0NWhqTGxQNGtTaXhJcnRtLTE3cHFjRjFMT1F4MHpSYUs1QUhlM0pxOEJZdGNaMDU2RU13cXMxTUxwLVh1T1dOWjYyRkE?oc=5",
       "source": "Pipeline Technology Journal",
       "published": "2026-09-24T14:08:23+00:00",
-      "score": 2.39,
+      "score": 2.28,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Indian sailor killed in attack on vessel in Strait of Hormuz \u2014 Indian, Omani authorities - timesofisrael.com",
+      "title": "Indian sailor killed in attack on vessel in Strait of Hormuz \u2014 Indian, Omani authorities - The Times of Israel",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcWViLWc1c1E5QWJrM0VqMHpzaGc5eExsYk5pbURIcEJtSGlfaVZtNjc5S051d2dnSVNXVHQwNzUtbUZXeHV5ZHlhNG4xeWpnYV9fMW5zT3lEUnZ0UjRRUENtc2lvb3djdXp4NjV6TjYzR1UxQjNYUFZzMGdHbm5acUdVQ095cTBaR1d1SlJ4RnNXRWZVT3dCZ2xKamZrTHRzXzY0VkJRT3hlN0lPQk5YeUJMOU1kOWZwYVQtWHRsWTBMMEdFakFrcXloQQ?oc=5",
-      "source": "timesofisrael.com",
+      "source": "The Times of Israel",
       "published": "2026-09-23T17:49:13+00:00",
-      "score": 2.05,
+      "score": 1.94,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Seafarer Killed in Hormuz Attack as Trump Pushes Iran Deal at UN - gcaptain.com",
+      "title": "Seafarer Killed in Hormuz Attack as Trump Pushes Iran Deal at UN - gCaptain",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMDB2bGZpNmw3SnBOY1p6MVF3NGJxdlpVUGZnMm1ZMllmakMtb1AtVkU2STlqU1FlbVRwNWhJOTRLaExuZDZzaHFNMVM1QVhJRW9EdEc2ajR5UFFRNGY5aUJsbV9MN1VzR0dJdGVBVUVDRTcwWGN3aUJ0QVhZaVE5X3ZhNDBHdEw3cHV6S2RRYw?oc=5",
-      "source": "gcaptain.com",
+      "source": "gCaptain",
       "published": "2026-09-23T14:47:51+00:00",
-      "score": 2.0,
+      "score": 1.89,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Two hurt, cargo ship ablaze in Strait of Hormuz attack, watchdog says - timesofisrael.com",
+      "title": "Two hurt, cargo ship ablaze in Strait of Hormuz attack, watchdog says - The Times of Israel",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR2g0cWxBZXFoQVZRd0tRdTA5UmIyQVNxRWRsNlppc2RPc3VBazd2ejJlbFc3UXpIb0hfRnJPY3RrTWJJcG1jRWVJc1FpNm9nclJJTDJHRlltMlhKRDZ4YkMySzJ6LXpXRkNqQ2FNc0tuR1djQ3pQRWx2UnNQMGdUMWJ5QTFmNUtUalI3RUgzV3RwLWRxazVTUnhJN2U3dmQ2Q2hXNkg2Ykx4eUc1Qzc0TkNXSQ?oc=5",
-      "source": "timesofisrael.com",
+      "source": "The Times of Israel",
       "published": "2026-09-23T12:01:00+00:00",
-      "score": 1.95,
+      "score": 1.85,
       "tags": [
         "tension"
       ]
@@ -91,7 +101,7 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzdnRHSXdFOUJzR0F4UjZXVW5ISjRVeExLbFZsRzRpVmdLS0Nsd1laakpWcXJpbFp6S0RuNllfSlI5bGdLaHl5SlZnbEEtcDdTbVE?oc=5",
       "source": "Iran International",
       "published": "2026-09-22T16:38:24+00:00",
-      "score": 1.63,
+      "score": 1.53,
       "tags": [
         "tension"
       ]
@@ -101,7 +111,7 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZVBvNDJicnJxb05kOEpZU3hxRUZ2WG1fTGo1NlFjbnN6RDBGUVJ5TUNLQjg4X1hNNjFXRXRYRTM3MFgzQU1wWHRhdkYzQ1F6a0JkT2l6Y2NZMUR5Qkw0eVJhdWFjSTFJa2ZDaGJRUUdqWDlMM3V0V3NHaXM3NnVidXZpTDFmQm9zOWN2MVBhWVdHYnF3cWxHdUpNZHRFc3PSAaQBQVVfeXFMTTJMMnhlbktJSlZOQ2FUQ2Mxa2xkMXlDTnV6anRiVlRyMEs2YlV3dVlHcDJHVHBBRnl0NHJEYTFlYm9BUnhITnhLV2JSOXNaTndhakNVWWdvUUEyZTVrR0ZBVjgweUotMmhrcTB3OEtOTndoeHo0SklPM01KQzFKeWFSREJnVTM3NjdsMFBiTm1nSlNHbEllX2NDR0Z1NFc0bmI3VWc?oc=5",
       "source": "Middle East Monitor",
       "published": "2026-09-22T15:29:00+00:00",
-      "score": 1.61,
+      "score": 1.51,
       "tags": [
         "tension"
       ]
@@ -111,17 +121,7 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNmlQMVBBWlh5Mk1lWlItQkhuVm5LNk1IazBLNlFLcWxaNWJHc1V5ZzFkdEUyNjFXTWYzMFBhTVNObmFrMEFxS0FteDM4dUVBdjAxNXNDS3BHQklzZlBtdndjemtPSm5NcGM0RUFiN3o1a3JBTWh2d1Yzd3BxMUV2Q1B5MGk5cnZiLVhNTzY0SEZOT0EzMVlSay1YUkpNV3V2anpjMA?oc=5",
       "source": "Tehran Times",
       "published": "2026-09-21T17:41:54+00:00",
-      "score": 1.25,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Two More Tankers Hit in Strait of Hormuz as Attacks Mount - gcaptain.com",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUUo3NXJIMGpNY2Nnbkg0dkxtbWRvZ2w3MkpSZUF5ZFZpTUl4UWVCeEZWUHhHbXhvNnBYRnR6VkxNVzBYSUFNaTlyM2h1eXRkS3luLTB6Wk04OVRQZmhnaGxIRUZMb1BzSy1nMEZUYXd5SHV0b3Y4R1BCRTFOUnBIMjB1NUZCZw?oc=5",
-      "source": "gcaptain.com",
-      "published": "2026-09-21T16:06:53+00:00",
-      "score": 1.22,
+      "score": 1.14,
       "tags": [
         "tension"
       ]
