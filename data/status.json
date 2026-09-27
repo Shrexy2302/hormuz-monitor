@@ -1,10 +1,10 @@
 {
   "status": "OPEN",
   "label": "Normal traffic",
-  "tension_index": -205.1,
+  "tension_index": -181.8,
   "closure_signals": 2,
-  "articles_scanned": 244,
-  "updated": "2026-09-27T18:49:43.893596+00:00",
+  "articles_scanned": 248,
+  "updated": "2026-09-27T21:47:12.128807+00:00",
   "headlines": [
     {
       "title": "Iran Says It Seized U.S. REMUS 600 Drone in Strait of Hormuz, Raising Mine-Warfare Stakes - Defence Security Asia",
@@ -28,9 +28,9 @@
       ]
     },
     {
-      "title": "IRGC claims, US denies seizure of underwater US drone in Hormuz - Euronews.com",
+      "title": "IRGC claims, US denies seizure of underwater US drone in Hormuz - euronews.com",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN2NlS2NUZ1AwZ2tZbEUyUEZRUlc4cjVXR1B5TUJseFpfcUlZdlRRc1h2UDVhSkNXaEU1ZFA4VXM4NG14ZXRmemR0Q1RCM3AxclBsd3NPZXVURk10bnFOd1lKekZlWWpuZGlPT1VYdHUwRF9paHMtWElJWTk2Ri1lTGpnbmRpaWM1ZDFWWmtfVjk3VDMxMVlkMkZ6dWtTMks1eWNFZE1KZF8wdERVcWhnWHBsZGNWOGE3eFJkQkYtRGxzZjN6?oc=5",
-      "source": "Euronews.com",
+      "source": "euronews.com",
       "published": "2026-09-27T15:01:14+00:00",
       "score": 6.0,
       "tags": [
@@ -68,23 +68,43 @@
       ]
     },
     {
+      "title": "IRGC Navy Seizes Second US Military Underwater Drone - \u062a\u0633\u0646\u06cc\u0645",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUEg0ZUtRclZ2QTZvREI1WlBfRTUwTFliaE9ESkcwNjZ3ZGRMenJMcDd0RmI3WmotdTJxVldQODZHRGV1R0FZXzh6TG5GYnRWbGYwMDhiU3hCZjV0bDhGNkRUdzAxT1l4N1dpVUZsQklsRmZ0SkowVTJnRGNXTGpRSTNKd0VBOEsyNE93RXlfNGpRSERqUUFQSGozMloxTFppWUZOdzN1TEPSAa4BQVVfeXFMUFo3cE9jODhMa0Foc2NNTEprTjVUeXBGdTVzQVdQbGxoaWJhTDhIQV9mYmdObkRwSXRpZzFkOGk5eU1yY1VMLXd0WnV3VGg1dkotUno2Mld0NElIcjIzTUtjZXJoZWRJYzBnaFc3S2h1alE0MHJ3U25uWnZsOG1NaU5iRkRPS3I3SExOLVI2elBWdFZMWG9sZHpHcGlSWnFvYVN0YVlOajh5cVdNTDZ3?oc=5",
+      "source": "\u062a\u0633\u0646\u06cc\u0645",
+      "published": "2026-09-27T11:35:03+00:00",
+      "score": 6.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
       "title": "US Speaker of the House Acknowledges Closure of the Strait of Hormuz - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0635\u062f\u0627\u06cc \u0627\u0641\u063a\u0627\u0646(\u0622\u0648\u0627)",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQkMxSGw0eWNyMDFrakxlV0xrelVPS0N5X1FUbTNsY3UybzRLcFVOeEFxWTFmdlg5ZE1FcW1GS0pfMFhHUl83TjRMVFZVdmEyVDVDbVZyMDk0RnNkQWRRd0UtYVZKanZ1Z2pfTGxfcmtiNVFfNmd4X2t4R09odTVZcW5MSnJFMTY1UE5fN0tXc00tRTNNN214Q0lUTGtJVk0?oc=5",
       "source": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0635\u062f\u0627\u06cc \u0627\u0641\u063a\u0627\u0646(\u0622\u0648\u0627)",
       "published": "2026-09-24T07:07:10+00:00",
-      "score": 5.35,
+      "score": 5.21,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "With Strait of Hormuz blocked, Iran turns to Caspian Sea - Le Monde.fr",
+      "title": "With Strait of Hormuz blocked, Iran turns to Caspian Sea - lemonde.fr",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcXpVT1RLMlBSQ2JWenVJOHBpNEZkY2FGcVk2X2FCbEZhbzRhamxvUENUVlZiaHF2VDJrVFJBV3I4NTZHN0E2ZTN3aW95T2k3NGdqbFZibk1qNVVKR3NETl9oem1YSmgwZUVPWnF0R3A3cDFjN3ZfRzZzM2tZMDRfSVl3MXZmWEdQZm1ZLU4ySWVxNk1HX0MtUjI5YWVYeFk4UmltOHV3b2FQV1U1OEZVa0FQbmVpZFpRWDlDNWd3bDFRQQ?oc=5",
-      "source": "Le Monde.fr",
+      "source": "lemonde.fr",
       "published": "2026-09-22T09:06:06+00:00",
-      "score": 4.13,
+      "score": 3.96,
       "tags": [
         "closure"
+      ]
+    },
+    {
+      "title": "Iran says it\u2019s ready for renewed strikes after Trump rejects deal - NewsNation",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rVnNkRWFSSTJHWEJrdlU3V1FUYzhweXg4WTJPUmFLZ2p5bGpqOG84OUdsRkI1NGQwRFNhX0ZqZXhrcGJSVnBnMU9Jclh2bEtWWGZ3UkJ1WkFIVzhuYThqU2d4Q0RyNU5WWFVrRVA3aXloYXFhNVRR0gF8QVVfeXFMUGNEVEJQT0hjU1lEZlktU2FONy1YSFFWWjk0TkVhUlVvNExBNkRmdUgxeW5mZVBsR3ltVWV1NVNKa0VBS2dEclpvSjJRb01lWElIUEF4RFZMQlJVMDByUTE4aUJLcGlpdGE4ZUpMTmNPN1ByUjNxbHk1dlRHYQ?oc=5",
+      "source": "NewsNation",
+      "published": "2026-09-27T19:09:12+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
       ]
     },
     {
@@ -98,31 +118,11 @@
       ]
     },
     {
-      "title": "Iran's IRGC claims to have seized US autonomous underwater vehicle in Strait of Hormuz - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FYkJjTWJfYnUybzBFSEdpelpSa0xrdUI0S1BIdTZzZXVIcmpXLXpKb3FsRUpaWXdHMzJvcHlFQjJ6VW10Y003WHRIMVVMbkNuejVUUEhyMTBfOFdJWFZhSnA4cWR0Zlh2X0E?oc=5",
-      "source": "The Jerusalem Post",
-      "published": "2026-09-27T08:52:40+00:00",
+      "title": "IRGC says it seized US unmanned submarine in Strait of Hormuz - saba.ye",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14S3BqeDR2WURnTkw3NlZUdk95OFcwRjFlRnRJbldsVzFaRkRZR3lRbzE3em1TWFZlQnBvc3VTc0Q2UlNaWG0yMDJHNHctbU0?oc=5",
+      "source": "saba.ye",
+      "published": "2026-09-27T12:41:10+00:00",
       "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Seized Iranian Oil Tankers Head Toward U.S. With $600 Million Cargo - gCaptain",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZlBDYW9lS3lCRk9Ba0JXYmNiWldERzRIMkVmM05SLTZVRG1VVGp2THNMaTFDazhuNWJZMVBYbkJmQUJ3RHJqUy1uWFQySF92eVNnOUtEUHdTX0ctYm5ZRXU3VDRUd3VmNHBlY090aldXdEVoZHZLQ250dlY1bW01QktXY21iaUdwZXlWX1RJaWo?oc=5",
-      "source": "gCaptain",
-      "published": "2026-09-25T16:45:36+00:00",
-      "score": 2.57,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "IRGC strikes cargo vessel in Strait of Hormuz as tensions rise - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nRkI3TUxnWHpQUm0xX2hKZkFMbEd6dHdDa1phbUlKZWdDLXJSU0s2d1V3anlHOE5jVThkbTduX2gwYlVtS2dISm1vaXFHV3Z1dFZCSFBn?oc=5",
-      "source": "Fox News",
-      "published": "2026-09-23T12:49:36+00:00",
-      "score": 2.27,
       "tags": [
         "tension"
       ]
@@ -130,6 +130,6 @@
   ],
   "brent": {
     "price": 97.44,
-    "change_pct": -2.77
+    "change_pct": 0.0
   }
 }
