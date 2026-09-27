@@ -1,11 +1,52 @@
 {
   "status": "OPEN",
   "label": "Normal traffic",
-  "tension_index": -246.4,
-  "closure_signals": 1,
+  "tension_index": -205.1,
+  "closure_signals": 2,
   "articles_scanned": 244,
-  "updated": "2026-09-27T14:45:49.761704+00:00",
+  "updated": "2026-09-27T18:49:43.893596+00:00",
   "headlines": [
+    {
+      "title": "Iran Says It Seized U.S. REMUS 600 Drone in Strait of Hormuz, Raising Mine-Warfare Stakes - Defence Security Asia",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcnBYU24zdURyR2s1b1YtTUVzMTNUeHVLNVZJNktjaklESUtpQ2hmcnVpVHRiTUZsM0h2QXVwWW1xXzBua1hvNnRfZy1na1FmV0NRUGZ3RFRfcnZDcEtSVUM3d2R0bjRjaU5uaGNfaTJnMmJsLVZ0Z1o5OWxES2xzQWljUjZDbmFldTQtV1VGX1RtNW1Sdnc0MGdHajBXOTRFbEJj?oc=5",
+      "source": "Defence Security Asia",
+      "published": "2026-09-27T16:25:28+00:00",
+      "score": 12.0,
+      "tags": [
+        "closure",
+        "tension"
+      ]
+    },
+    {
+      "title": "IRGC Navy Seizes US Remus 600 Underwater Drone in Strait of Hormuz: who 14 outlets blamed - NewsCord",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYnBLZWNkMFkwU19zdnlVU29HRGhlZEtsUXNScWdvUFZ4aTZYQzREMjNOZFFQWHd0bVh2Q3BjYlNaLUNENTlrQ0ZZbi1RU0RoRGY4REl5eF9uUEh2MEp6eGRfOWRRMUlVazRORnVPaHpYcW5rSHRpbUNwR0JNMTRmU0g4LW5wM3B5b2ZQOGtBRkI0blRxSW9JV1ZhSFdQWjR3YUJWdkpUVHI0Rkh0Vk1DbW53YWdTUkE5dndwWElvNEpRRDU2c3pJbmdIbHV5Sk1FMnlBMEhodw?oc=5",
+      "source": "NewsCord",
+      "published": "2026-09-27T16:14:51+00:00",
+      "score": 6.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "IRGC claims, US denies seizure of underwater US drone in Hormuz - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN2NlS2NUZ1AwZ2tZbEUyUEZRUlc4cjVXR1B5TUJseFpfcUlZdlRRc1h2UDVhSkNXaEU1ZFA4VXM4NG14ZXRmemR0Q1RCM3AxclBsd3NPZXVURk10bnFOd1lKekZlWWpuZGlPT1VYdHUwRF9paHMtWElJWTk2Ri1lTGpnbmRpaWM1ZDFWWmtfVjk3VDMxMVlkMkZ6dWtTMks1eWNFZE1KZF8wdERVcWhnWHBsZGNWOGE3eFJkQkYtRGxzZjN6?oc=5",
+      "source": "Euronews.com",
+      "published": "2026-09-27T15:01:14+00:00",
+      "score": 6.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran Seizes US Remus 600 Underwater Drone in Hormuz, Releases Footage - Palestine Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb2hWV204cS00eXVTcDIwTVUzcjAwUzVaWW1YcGVaZmZzaHQxc2tWa29kTUNCU1A3MDd1X01DZUFQMF9JclNHZEpQaWdFSzFWYkw0Z050ai1JbzBjeWQtX3RuTUNjWGlFS3JtTEozbTh0dUs2Und4SHYtZUZneFl1bzI0dlRUTDQtS1h0bDRZb1VYTWswMGFzZU1LNzdtZXlBeHI2ek9vZw?oc=5",
+      "source": "Palestine Chronicle",
+      "published": "2026-09-27T14:31:22+00:00",
+      "score": 6.0,
+      "tags": [
+        "tension"
+      ]
+    },
     {
       "title": "Iran says it seized US underwater drone in Strait of Hormuz \u2014 Anadolu Agency - UA.NEWS",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVWdsT18wRUFmMmY5SEhfZWJhUmdoVV9EdEtkSHpHWWM1M052eGNwWExmS0c3SzZNMzNzRFVEcDlYUjVodldGZnMxR1Jib1VsUHhfZmFfc3lSZE85b1BpLWtlLWNvWWNid3BmaTRzRW5RdDlqY1o0dzl0Z2xmR09fem9NQkNyRFVpclBqeEQyMVBIMnl0eVdqbVI3akhhSUFuWFFJLWNlTDlYU2J0aFc1UVFXbnYtdGpvdUloNw?oc=5",
@@ -31,7 +72,7 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQkMxSGw0eWNyMDFrakxlV0xrelVPS0N5X1FUbTNsY3UybzRLcFVOeEFxWTFmdlg5ZE1FcW1GS0pfMFhHUl83TjRMVFZVdmEyVDVDbVZyMDk0RnNkQWRRd0UtYVZKanZ1Z2pfTGxfcmtiNVFfNmd4X2t4R09odTVZcW5MSnJFMTY1UE5fN0tXc00tRTNNN214Q0lUTGtJVk0?oc=5",
       "source": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0635\u062f\u0627\u06cc \u0627\u0641\u063a\u0627\u0646(\u0622\u0648\u0627)",
       "published": "2026-09-24T07:07:10+00:00",
-      "score": 5.53,
+      "score": 5.35,
       "tags": [
         "closure"
       ]
@@ -41,7 +82,7 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcXpVT1RLMlBSQ2JWenVJOHBpNEZkY2FGcVk2X2FCbEZhbzRhamxvUENUVlZiaHF2VDJrVFJBV3I4NTZHN0E2ZTN3aW95T2k3NGdqbFZibk1qNVVKR3NETl9oem1YSmgwZUVPWnF0R3A3cDFjN3ZfRzZzM2tZMDRfSVl3MXZmWEdQZm1ZLU4ySWVxNk1HX0MtUjI5YWVYeFk4UmltOHV3b2FQV1U1OEZVa0FQbmVpZFpRWDlDNWd3bDFRQQ?oc=5",
       "source": "Le Monde.fr",
       "published": "2026-09-22T09:06:06+00:00",
-      "score": 4.35,
+      "score": 4.13,
       "tags": [
         "closure"
       ]
@@ -50,7 +91,7 @@
       "title": "IRGC Says It Captures Second U.S. Underwater Drone in Strait of Hormuz - WANA News Agency",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbTdLcmtsRGlnNmMtU2t4Ymh6dmtiYXZoQmIxQkhaekhCdHZoRUpocXMtZnh6dXRaN3g1dDc5T2YyNUJPMFBDLXhNc0hfZkEwWGNWSklCcDktTUhvTk9xRGVoeC01VjRBbkFCSkZwWjlLclQ4SFJnVzRvWGh3M0h6bUtCbWxtUTk2ejZiZDgwd0k3M3M?oc=5",
       "source": "WANA News Agency",
-      "published": "2026-09-27T10:51:10+00:00",
+      "published": "2026-09-27T13:16:58+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -71,57 +112,17 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZlBDYW9lS3lCRk9Ba0JXYmNiWldERzRIMkVmM05SLTZVRG1VVGp2THNMaTFDazhuNWJZMVBYbkJmQUJ3RHJqUy1uWFQySF92eVNnOUtEUHdTX0ctYm5ZRXU3VDRUd3VmNHBlY090aldXdEVoZHZLQ250dlY1bW01QktXY21iaUdwZXlWX1RJaWo?oc=5",
       "source": "gCaptain",
       "published": "2026-09-25T16:45:36+00:00",
-      "score": 2.63,
+      "score": 2.57,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "IRGC strikes cargo vessel in Strait of Hormuz as tensions rise - foxnews.com",
+      "title": "IRGC strikes cargo vessel in Strait of Hormuz as tensions rise - Fox News",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nRkI3TUxnWHpQUm0xX2hKZkFMbEd6dHdDa1phbUlKZWdDLXJSU0s2d1V3anlHOE5jVThkbTduX2gwYlVtS2dISm1vaXFHV3Z1dFZCSFBn?oc=5",
-      "source": "foxnews.com",
+      "source": "Fox News",
       "published": "2026-09-23T12:49:36+00:00",
-      "score": 2.36,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "World Maritime Day 2026: IMO Warns Shipping Rules Are Under Strain as Seafarers Face Deadly Attacks - gCaptain",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR1JUN0h6SUpULU5sTm5teDVHdXI3LUgxV01OZm5qTjN2NU1MQ1NwRktxZlo1X1NLaXN0cjhzZktjSDFSNnd3YkhENTg4ZEFzRno0ZC1UV3RLUzQyZkdmbGdaRUVVQXZOZjc2Ukd1UVNVeUhuS1N5c1pHUTdaZ0I1Vnhyb3lPY2hIOFVkZnJBR2gtRng0NDI3RE9faGVoTlJ3VThQanhjQkVUb1E2S1N5dmpkeVRmX1NnbjVJMA?oc=5",
-      "source": "gCaptain",
-      "published": "2026-09-24T16:17:50+00:00",
-      "score": 2.23,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "[Analysis] Beyond Hormuz: Saudi Pipeline Attack Proves No Middle East Crude Artery Is Out of Reach - Pipeline Technology Journal",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdjYwd25aUUxuaEU3SnVBcFc2MzZKaG1TN2tvMlRPZDFNUUZ0OEdjQnk2WnlJaEc4Q0R0aFV3THA2eEVFa0tSU3hrRXhXQmFMcWw5bmtHSTBXaE4xTmhtdHV1bzhGVmE3dFhyZ1lMMzVqR1hTUXRNb0FSUlRBMmVfVFA0NWhqTGxQNGtTaXhJcnRtLTE3cHFjRjFMT1F4MHpSYUs1QUhlM0pxOEJZdGNaMDU2RU13cXMxTUxwLVh1T1dOWjYyRkE?oc=5",
-      "source": "Pipeline Technology Journal",
-      "published": "2026-09-24T14:08:23+00:00",
-      "score": 2.19,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Indian sailor killed in attack on vessel in Strait of Hormuz \u2014 Indian, Omani authorities - The Times of Israel",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcWViLWc1c1E5QWJrM0VqMHpzaGc5eExsYk5pbURIcEJtSGlfaVZtNjc5S051d2dnSVNXVHQwNzUtbUZXeHV5ZHlhNG4xeWpnYV9fMW5zT3lEUnZ0UjRRUENtc2lvb3djdXp4NjV6TjYzR1UxQjNYUFZzMGdHbm5acUdVQ095cTBaR1d1SlJ4RnNXRWZVT3dCZ2xKamZrTHRzXzY0VkJRT3hlN0lPQk5YeUJMOU1kOWZwYVQtWHRsWTBMMEdFakFrcXloQQ?oc=5",
-      "source": "The Times of Israel",
-      "published": "2026-09-23T17:49:13+00:00",
-      "score": 1.85,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Seafarer Killed in Hormuz Attack as Trump Pushes Iran Deal at UN - gCaptain",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMDB2bGZpNmw3SnBOY1p6MVF3NGJxdlpVUGZnMm1ZMllmakMtb1AtVkU2STlqU1FlbVRwNWhJOTRLaExuZDZzaHFNMVM1QVhJRW9EdEc2ajR5UFFRNGY5aUJsbV9MN1VzR0dJdGVBVUVDRTcwWGN3aUJ0QVhZaVE5X3ZhNDBHdEw3cHV6S2RRYw?oc=5",
-      "source": "gCaptain",
-      "published": "2026-09-23T14:47:51+00:00",
-      "score": 1.8,
+      "score": 2.27,
       "tags": [
         "tension"
       ]
