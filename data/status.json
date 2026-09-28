@@ -1,10 +1,10 @@
 {
   "status": "OPEN",
   "label": "Normal traffic",
-  "tension_index": -182.3,
+  "tension_index": -168.5,
   "closure_signals": 2,
-  "articles_scanned": 247,
-  "updated": "2026-09-28T00:12:39.404255+00:00",
+  "articles_scanned": 252,
+  "updated": "2026-09-28T05:39:53.645785+00:00",
   "headlines": [
     {
       "title": "Iran Says It Seized U.S. REMUS 600 Drone in Strait of Hormuz, Raising Mine-Warfare Stakes - Defence Security Asia",
@@ -14,6 +14,37 @@
       "score": 12.0,
       "tags": [
         "closure",
+        "tension"
+      ]
+    },
+    {
+      "title": "International Action at the United Nations Against Houthi Attacks and the Closure of the Strait of Hormuz - alquds.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWXNYcjdrYzVxcF9kLW0zTnRmajB1OHp3SmdOcGVuTlNKNHRZRmQ0T0xaWVdRUnRDekxwZ0s0NDFsRjVFdXFDTjBRZGVxOFZrRmwteGI0emozMEl2TFFUNi1PUHN5NTFDcUFCRUtYVXFxSXdwN2NOUHJYMFlSUVc4Z2dqWmhfSjB5cWdjN1FoNkszQ194SDZqdF9jOHMzelhZdEtBcVRibUMteThN?oc=5",
+      "source": "alquds.com",
+      "published": "2026-09-25T05:18:14+00:00",
+      "score": 8.04,
+      "tags": [
+        "closure",
+        "tension"
+      ]
+    },
+    {
+      "title": "IRGC repeats US drone seizure claim in Strait of Hormuz; labels earlier 'REMUS 600' as 'Mk 18 Kingfish' - Gulf News",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMWdVN0RCQXlKVmpuQTE3SXRnRmJ2cnJPNTdWVXhZTzROWHV0NGVsSUJjNG94N00yR25jZ0t5dnVHUldmUUYyMS1uOUFCRGV5aF9Sb3AwQnphRmJLWkFFWDlGRmVjQVBjODNrZHNtMUtNVUMwMEYyZGlxeHBRelB2R3QwNHJVQjlueVcwa292aU4waHNKaU9wNUp0SFZyRE9sYXRYdk1DV1JiZ2JySUdNUXVtLWtWcjY4XzRqV3llUW9fVDdiY1hDZWVreUMwWmRmR21ubkF3R0Vfdw?oc=5",
+      "source": "Gulf News",
+      "published": "2026-09-28T00:07:14+00:00",
+      "score": 6.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran claims second US drone seized in Strait of Hormuz, identifies it as Mk 18 Kingfish - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdE9TRk93QmZvdm51UEhxVFZFNmpGcmFUblcxV0ZfLUdRTldnVUhHeWhJaDlSRko3Wk5heXNRZ3Z2NHg1ZFRuVkhDLUNvcDNrNEJNa2E1bjhlZUdnRXVOSjJ1WXgtVV9KdWYxUEV0UUt2bUprLUwyMFJuOTZaTm9sdUdYTFV4YWdVaUFQNmFLTjVvMUdYXzNRZlZGU3lhbnZaUkg2a1lUT3JhYkcxMmNjT0Z5N1oxNl9oLThteE1EODhtY3pZYXQxTmJQVnFTTXhybzNIblduVUdUYVVuaW90czNvamJ1RkMzcmtJdUdMWGVnOVFDNDNMNFFR0gH_AUFVX3lxTE4zYzZjcmlPY2RudVFJcWtYNmI3d1FKQWl6UFJtZDRNSHlMMDZOeVlYM2JPcEhfT1F1VVlzeXlIM0UwTmY1bjB1bWdzYUlCNVVxUURfcm9ITGlxSjk5LVp5QnUxRFg2d3JzV1JsTzVobjdyVFRKcEhjdUdZVXJ5ekV4LW12bHp6ZXVDeEp0Wkk2ZDJWd05QMnlvZTh0YWJwMDJCaXRmSGtqaEc1ejRxNk5sQVJ4SlFLWjBFbkQ0ajdiS1hBR0Q4cDdMRDJRTHBnaXVyd291VG8tRUgzSHdWdUpQTHBRM1dUVXFsM2xNSDdOaWR4RzNXM3BlRndMYlhDSQ?oc=5",
+      "source": "The Times of India",
+      "published": "2026-09-27T23:45:00+00:00",
+      "score": 6.0,
+      "tags": [
         "tension"
       ]
     },
@@ -32,16 +63,6 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN2NlS2NUZ1AwZ2tZbEUyUEZRUlc4cjVXR1B5TUJseFpfcUlZdlRRc1h2UDVhSkNXaEU1ZFA4VXM4NG14ZXRmemR0Q1RCM3AxclBsd3NPZXVURk10bnFOd1lKekZlWWpuZGlPT1VYdHUwRF9paHMtWElJWTk2Ri1lTGpnbmRpaWM1ZDFWWmtfVjk3VDMxMVlkMkZ6dWtTMks1eWNFZE1KZF8wdERVcWhnWHBsZGNWOGE3eFJkQkYtRGxzZjN6?oc=5",
       "source": "Euronews.com",
       "published": "2026-09-27T15:01:14+00:00",
-      "score": 6.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran Seizes US Remus 600 Underwater Drone in Hormuz, Releases Footage - Palestine Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb2hWV204cS00eXVTcDIwTVUzcjAwUzVaWW1YcGVaZmZzaHQxc2tWa29kTUNCU1A3MDd1X01DZUFQMF9JclNHZEpQaWdFSzFWYkw0Z050ai1JbzBjeWQtX3RuTUNjWGlFS3JtTEozbTh0dUs2Und4SHYtZUZneFl1bzI0dlRUTDQtS1h0bDRZb1VYTWswMGFzZU1LNzdtZXlBeHI2ek9vZw?oc=5",
-      "source": "Palestine Chronicle",
-      "published": "2026-09-27T14:31:22+00:00",
       "score": 6.0,
       "tags": [
         "tension"
@@ -68,68 +89,48 @@
       ]
     },
     {
-      "title": "IRGC Navy Seizes Second US Military Underwater Drone - tasnimnews.ir",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUEg0ZUtRclZ2QTZvREI1WlBfRTUwTFliaE9ESkcwNjZ3ZGRMenJMcDd0RmI3WmotdTJxVldQODZHRGV1R0FZXzh6TG5GYnRWbGYwMDhiU3hCZjV0bDhGNkRUdzAxT1l4N1dpVUZsQklsRmZ0SkowVTJnRGNXTGpRSTNKd0VBOEsyNE93RXlfNGpRSERqUUFQSGozMloxTFppWUZOdzN1TEPSAa4BQVVfeXFMUFo3cE9jODhMa0Foc2NNTEprTjVUeXBGdTVzQVdQbGxoaWJhTDhIQV9mYmdObkRwSXRpZzFkOGk5eU1yY1VMLXd0WnV3VGg1dkotUno2Mld0NElIcjIzTUtjZXJoZWRJYzBnaFc3S2h1alE0MHJ3U25uWnZsOG1NaU5iRkRPS3I3SExOLVI2elBWdFZMWG9sZHpHcGlSWnFvYVN0YVlOajh5cVdNTDZ3?oc=5",
-      "source": "tasnimnews.ir",
-      "published": "2026-09-27T11:35:03+00:00",
-      "score": 6.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
       "title": "US Speaker of the House Acknowledges Closure of the Strait of Hormuz - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0635\u062f\u0627\u06cc \u0627\u0641\u063a\u0627\u0646(\u0622\u0648\u0627)",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQkMxSGw0eWNyMDFrakxlV0xrelVPS0N5X1FUbTNsY3UybzRLcFVOeEFxWTFmdlg5ZE1FcW1GS0pfMFhHUl83TjRMVFZVdmEyVDVDbVZyMDk0RnNkQWRRd0UtYVZKanZ1Z2pfTGxfcmtiNVFfNmd4X2t4R09odTVZcW5MSnJFMTY1UE5fN0tXc00tRTNNN214Q0lUTGtJVk0?oc=5",
       "source": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0635\u062f\u0627\u06cc \u0627\u0641\u063a\u0627\u0646(\u0622\u0648\u0627)",
       "published": "2026-09-24T07:07:10+00:00",
-      "score": 5.11,
+      "score": 4.86,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "With Strait of Hormuz blocked, Iran turns to Caspian Sea - Le Monde.fr",
+      "title": "With Strait of Hormuz blocked, Iran turns to Caspian Sea - lemonde.fr",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcXpVT1RLMlBSQ2JWenVJOHBpNEZkY2FGcVk2X2FCbEZhbzRhamxvUENUVlZiaHF2VDJrVFJBV3I4NTZHN0E2ZTN3aW95T2k3NGdqbFZibk1qNVVKR3NETl9oem1YSmgwZUVPWnF0R3A3cDFjN3ZfRzZzM2tZMDRfSVl3MXZmWEdQZm1ZLU4ySWVxNk1HX0MtUjI5YWVYeFk4UmltOHV3b2FQV1U1OEZVa0FQbmVpZFpRWDlDNWd3bDFRQQ?oc=5",
-      "source": "Le Monde.fr",
+      "source": "lemonde.fr",
       "published": "2026-09-22T09:06:06+00:00",
-      "score": 3.83,
+      "score": 3.52,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "IRGC Says It Captures Second U.S. Underwater Drone in Strait of Hormuz - wanaen.com",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbTdLcmtsRGlnNmMtU2t4Ymh6dmtiYXZoQmIxQkhaekhCdHZoRUpocXMtZnh6dXRaN3g1dDc5T2YyNUJPMFBDLXhNc0hfZkEwWGNWSklCcDktTUhvTk9xRGVoeC01VjRBbkFCSkZwWjlLclQ4SFJnVzRvWGh3M0h6bUtCbWxtUTk2ejZiZDgwd0k3M3M?oc=5",
-      "source": "wanaen.com",
-      "published": "2026-09-27T13:16:58+00:00",
+      "title": "\"Clearly desperate\": US military refutes Iran's claim of seizing underwater drone in Strait of Hormuz - India Shipping News",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLUJWaTZTZWNjM19sMFBKS1lJYkhjX09lSFFUeVdweGxZZHY1TUR1Z3RrMk1DQkFWYk5FNXJpUWZLTjBpVHpFZGt2dGVScU1EX0k3azBRekpyS25HSHZlYXdoTUFGM25lRW1HUGdNSk9FQ0pQN0xfRU9SUWtJOE5fRzBiZi1WeU0zSGktODQ1ZVN1UUFHM09yZktwbXhKVHRlT2l1UkxkS1RpQkNlMUpZWk0wN0lsTVdDcEY3YmxtTml4Y2hJT19EQl9TRXVqWmZheHpLTDNEYXVWdVZ5YnZJbkNGdmNXQQ?oc=5",
+      "source": "India Shipping News",
+      "published": "2026-09-28T03:43:01+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Iran's IRGC claims to have seized US autonomous underwater vehicle in Strait of Hormuz - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FYkJjTWJfYnUybzBFSEdpelpSa0xrdUI0S1BIdTZzZXVIcmpXLXpKb3FsRUpaWXdHMzJvcHlFQjJ6VW10Y003WHRIMVVMbkNuejVUUEhyMTBfOFdJWFZhSnA4cWR0Zlh2X0E?oc=5",
-      "source": "The Jerusalem Post",
-      "published": "2026-09-27T08:52:40+00:00",
+      "title": "8 US Marines injured in Iranian missile attack in Strait of Hormuz: Report - Anadolu Ajans\u0131",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd2FueFRqdlF5RkVVdmVlbGNMLTJia1BhZG16N2xxalo1WFFWRTgwd0REaU96dHNTVTZxZzJnQV9hSlVXb3BEOU1FU09lZXJLMXpVM2otNXNTazhFUEdPZGNlRXBvTG9wS3JrOWtYODlDR3MyejNfekV4X1FnczdKaWVvQ3BMck4ydmhKVjJjbnUzbWEyTGtzcUJieWltRTNsQmRRSUo0d1haNVBKM00zTA?oc=5",
+      "source": "Anadolu Ajans\u0131",
+      "published": "2026-09-28T03:28:04+00:00",
       "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Live - Trump says Iran strikes \u2018possible\u2019 as Tehran says no talks planned - Iran International",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00SFhOZE1Ianp1LU5DX1dHamFfQ3k3dFptZGNNdHFSSkRvT29nQ0IzMm4zYllYWW5yUm5ES05KM2otN19XMERhZ0l0d1FyR3VyM2QxWE01WDhYWEdEX2c?oc=5",
-      "source": "Iran International",
-      "published": "2026-09-26T05:01:50+00:00",
-      "score": 2.68,
       "tags": [
         "tension"
       ]
     }
   ],
   "brent": {
-    "price": 98.41,
-    "change_pct": 1.0
+    "price": 99.26,
+    "change_pct": 1.87
   }
 }
