@@ -1,10 +1,10 @@
 {
   "status": "OPEN",
   "label": "Normal traffic",
-  "tension_index": -168.5,
-  "closure_signals": 2,
-  "articles_scanned": 252,
-  "updated": "2026-09-28T05:39:53.645785+00:00",
+  "tension_index": -137.4,
+  "closure_signals": 3,
+  "articles_scanned": 247,
+  "updated": "2026-09-28T12:34:55.603867+00:00",
   "headlines": [
     {
       "title": "Iran Says It Seized U.S. REMUS 600 Drone in Strait of Hormuz, Raising Mine-Warfare Stakes - Defence Security Asia",
@@ -18,11 +18,21 @@
       ]
     },
     {
+      "title": "Strait of Hormuz Blocked for Six Months \u2014 Why Haven't Oil Prices Surged as Expected? - finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBraC03bXZWOW4tMmF2anpEUnBHeFZvcXFKdmpnN2s5VkdoQ1VRM1FLYkdjM0F6QTRtdjAxemxTeERTemdJaTBPTy02QWZLa28xSGFrMjVqZFlhRUNHOXkxcjJTcWpxcXJTeExPSUJhMWFZM0NJaVE?oc=5",
+      "source": "finance.biggo.com",
+      "published": "2026-09-28T01:56:00+00:00",
+      "score": 10.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
       "title": "International Action at the United Nations Against Houthi Attacks and the Closure of the Strait of Hormuz - alquds.com",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWXNYcjdrYzVxcF9kLW0zTnRmajB1OHp3SmdOcGVuTlNKNHRZRmQ0T0xaWVdRUnRDekxwZ0s0NDFsRjVFdXFDTjBRZGVxOFZrRmwteGI0emozMEl2TFFUNi1PUHN5NTFDcUFCRUtYVXFxSXdwN2NOUHJYMFlSUVc4Z2dqWmhfSjB5cWdjN1FoNkszQ194SDZqdF9jOHMzelhZdEtBcVRibUMteThN?oc=5",
       "source": "alquds.com",
       "published": "2026-09-25T05:18:14+00:00",
-      "score": 8.04,
+      "score": 7.62,
       "tags": [
         "closure",
         "tension"
@@ -69,6 +79,16 @@
       ]
     },
     {
+      "title": "Iran Seizes US Remus 600 Underwater Drone in Hormuz, Releases Footage - Palestine Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb2hWV204cS00eXVTcDIwTVUzcjAwUzVaWW1YcGVaZmZzaHQxc2tWa29kTUNCU1A3MDd1X01DZUFQMF9JclNHZEpQaWdFSzFWYkw0Z050ai1JbzBjeWQtX3RuTUNjWGlFS3JtTEozbTh0dUs2Und4SHYtZUZneFl1bzI0dlRUTDQtS1h0bDRZb1VYTWswMGFzZU1LNzdtZXlBeHI2ek9vZw?oc=5",
+      "source": "Palestine Chronicle",
+      "published": "2026-09-27T14:31:22+00:00",
+      "score": 6.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
       "title": "Iran says it seized US underwater drone in Strait of Hormuz \u2014 Anadolu Agency - UA.NEWS",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVWdsT18wRUFmMmY5SEhfZWJhUmdoVV9EdEtkSHpHWWM1M052eGNwWExmS0c3SzZNMzNzRFVEcDlYUjVodldGZnMxR1Jib1VsUHhfZmFfc3lSZE85b1BpLWtlLWNvWWNid3BmaTRzRW5RdDlqY1o0dzl0Z2xmR09fem9NQkNyRFVpclBqeEQyMVBIMnl0eVdqbVI3akhhSUFuWFFJLWNlTDlYU2J0aFc1UVFXbnYtdGpvdUloNw?oc=5",
       "source": "UA.NEWS",
@@ -89,48 +109,28 @@
       ]
     },
     {
+      "title": "Iran Guards say seized US underwater drone in Hormuz - Arab News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOXE2NWU4bXpTMjM3dWVDR01TaDFXUlhuRmlxQy1nOThWcWNpSGFfUTNZWnY5ekl4T3pER1lFSWNBcERxT1QwTzgyMnhmS1VrUFd1UjdxN1NHTjNmVGtRa2hCT3ZxQTFKQ1pvbTNkdFVfSTJFVm8xU3pRc0pTNnBoc3JndVZCSzZqaEl6eWNzaFBMQktwS1NIdEZYeVF5QQ?oc=5",
+      "source": "Arab News",
+      "published": "2026-09-27T10:49:09+00:00",
+      "score": 5.94,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
       "title": "US Speaker of the House Acknowledges Closure of the Strait of Hormuz - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0635\u062f\u0627\u06cc \u0627\u0641\u063a\u0627\u0646(\u0622\u0648\u0627)",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQkMxSGw0eWNyMDFrakxlV0xrelVPS0N5X1FUbTNsY3UybzRLcFVOeEFxWTFmdlg5ZE1FcW1GS0pfMFhHUl83TjRMVFZVdmEyVDVDbVZyMDk0RnNkQWRRd0UtYVZKanZ1Z2pfTGxfcmtiNVFfNmd4X2t4R09odTVZcW5MSnJFMTY1UE5fN0tXc00tRTNNN214Q0lUTGtJVk0?oc=5",
       "source": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0635\u062f\u0627\u06cc \u0627\u0641\u063a\u0627\u0646(\u0622\u0648\u0627)",
       "published": "2026-09-24T07:07:10+00:00",
-      "score": 4.86,
+      "score": 4.56,
       "tags": [
         "closure"
-      ]
-    },
-    {
-      "title": "With Strait of Hormuz blocked, Iran turns to Caspian Sea - lemonde.fr",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcXpVT1RLMlBSQ2JWenVJOHBpNEZkY2FGcVk2X2FCbEZhbzRhamxvUENUVlZiaHF2VDJrVFJBV3I4NTZHN0E2ZTN3aW95T2k3NGdqbFZibk1qNVVKR3NETl9oem1YSmgwZUVPWnF0R3A3cDFjN3ZfRzZzM2tZMDRfSVl3MXZmWEdQZm1ZLU4ySWVxNk1HX0MtUjI5YWVYeFk4UmltOHV3b2FQV1U1OEZVa0FQbmVpZFpRWDlDNWd3bDFRQQ?oc=5",
-      "source": "lemonde.fr",
-      "published": "2026-09-22T09:06:06+00:00",
-      "score": 3.52,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "\"Clearly desperate\": US military refutes Iran's claim of seizing underwater drone in Strait of Hormuz - India Shipping News",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLUJWaTZTZWNjM19sMFBKS1lJYkhjX09lSFFUeVdweGxZZHY1TUR1Z3RrMk1DQkFWYk5FNXJpUWZLTjBpVHpFZGt2dGVScU1EX0k3azBRekpyS25HSHZlYXdoTUFGM25lRW1HUGdNSk9FQ0pQN0xfRU9SUWtJOE5fRzBiZi1WeU0zSGktODQ1ZVN1UUFHM09yZktwbXhKVHRlT2l1UkxkS1RpQkNlMUpZWk0wN0lsTVdDcEY3YmxtTml4Y2hJT19EQl9TRXVqWmZheHpLTDNEYXVWdVZ5YnZJbkNGdmNXQQ?oc=5",
-      "source": "India Shipping News",
-      "published": "2026-09-28T03:43:01+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "8 US Marines injured in Iranian missile attack in Strait of Hormuz: Report - Anadolu Ajans\u0131",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd2FueFRqdlF5RkVVdmVlbGNMLTJia1BhZG16N2xxalo1WFFWRTgwd0REaU96dHNTVTZxZzJnQV9hSlVXb3BEOU1FU09lZXJLMXpVM2otNXNTazhFUEdPZGNlRXBvTG9wS3JrOWtYODlDR3MyejNfekV4X1FnczdKaWVvQ3BMck4ydmhKVjJjbnUzbWEyTGtzcUJieWltRTNsQmRRSUo0d1haNVBKM00zTA?oc=5",
-      "source": "Anadolu Ajans\u0131",
-      "published": "2026-09-28T03:28:04+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
       ]
     }
   ],
   "brent": {
-    "price": 99.26,
-    "change_pct": 1.87
+    "price": 99.85,
+    "change_pct": 2.47
   }
 }
