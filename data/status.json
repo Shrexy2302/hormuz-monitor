@@ -1,20 +1,30 @@
 {
   "status": "OPEN",
   "label": "Normal traffic",
-  "tension_index": -97.3,
+  "tension_index": -98.4,
   "closure_signals": 3,
-  "articles_scanned": 246,
-  "updated": "2026-09-28T19:56:27.893199+00:00",
+  "articles_scanned": 244,
+  "updated": "2026-09-29T00:09:45.142638+00:00",
   "headlines": [
     {
       "title": "Iran Says It Seized U.S. REMUS 600 Drone in Strait of Hormuz, Raising Mine-Warfare Stakes - Defence Security Asia",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcnBYU24zdURyR2s1b1YtTUVzMTNUeHVLNVZJNktjaklESUtpQ2hmcnVpVHRiTUZsM0h2QXVwWW1xXzBua1hvNnRfZy1na1FmV0NRUGZ3RFRfcnZDcEtSVUM3d2R0bjRjaU5uaGNfaTJnMmJsLVZ0Z1o5OWxES2xzQWljUjZDbmFldTQtV1VGX1RtNW1Sdnc0MGdHajBXOTRFbEJj?oc=5",
       "source": "Defence Security Asia",
       "published": "2026-09-27T16:25:28+00:00",
-      "score": 11.77,
+      "score": 11.48,
       "tags": [
         "closure",
         "tension"
+      ]
+    },
+    {
+      "title": "Iranian Army: Strait of Hormuz is closed, enemy's statements about it remaining open are hollow slogans - saba.ye",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Wa1R0YXlISW54NnJiUjJfdEtzcndiQkJKN1otbjFGY2Fmcjd5WjFCel9sSG85bTNCaWtycXp4bDlhY3RmejFBemNESHg0OVk?oc=5",
+      "source": "saba.ye",
+      "published": "2026-09-28T20:59:26+00:00",
+      "score": 10.0,
+      "tags": [
+        "closure"
       ]
     },
     {
@@ -25,27 +35,6 @@
       "score": 10.0,
       "tags": [
         "closure"
-      ]
-    },
-    {
-      "title": "International Action at the United Nations Against Houthi Attacks and the Closure of the Strait of Hormuz - \u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0642\u062f\u0633",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWXNYcjdrYzVxcF9kLW0zTnRmajB1OHp3SmdOcGVuTlNKNHRZRmQ0T0xaWVdRUnRDekxwZ0s0NDFsRjVFdXFDTjBRZGVxOFZrRmwteGI0emozMEl2TFFUNi1PUHN5NTFDcUFCRUtYVXFxSXdwN2NOUHJYMFlSUVc4Z2dqWmhfSjB5cWdjN1FoNkszQ194SDZqdF9jOHMzelhZdEtBcVRibUMteThN?oc=5",
-      "source": "\u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0642\u062f\u0633",
-      "published": "2026-09-25T05:18:14+00:00",
-      "score": 7.17,
-      "tags": [
-        "closure",
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran\u2019s IRGC Navy Claims Second US Military Underwater Drone Seized In Strait Of Hormuz - Marine Insight",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ1ROTmZzMnZTUWxkYnF2aXJDT3Vya3JWSG5IbnZtLWxNVFBKY1RfaFdldkZLMW5mZTFDTGsyT2dpM1pJYnowVEN2UUd1MmpHWG5tSlpTSjlSME5vaEtCdUw2Tk13eDdqdmQ1SXNTS0l6aUZBMGxIUGh1bUZLRGMzdFRnVEQ3N1FOcVBoZ0pmLUIwMTFGdUdUek1aX2pFNzl6Qlk2eEY0dF9UNjlXTHNwMjhJUlJVQWs?oc=5",
-      "source": "Marine Insight",
-      "published": "2026-09-28T13:31:56+00:00",
-      "score": 6.0,
-      "tags": [
-        "tension"
       ]
     },
     {
@@ -63,7 +52,7 @@
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdE9TRk93QmZvdm51UEhxVFZFNmpGcmFUblcxV0ZfLUdRTldnVUhHeWhJaDlSRko3Wk5heXNRZ3Z2NHg1ZFRuVkhDLUNvcDNrNEJNa2E1bjhlZUdnRXVOSjJ1WXgtVV9KdWYxUEV0UUt2bUprLUwyMFJuOTZaTm9sdUdYTFV4YWdVaUFQNmFLTjVvMUdYXzNRZlZGU3lhbnZaUkg2a1lUT3JhYkcxMmNjT0Z5N1oxNl9oLThteE1EODhtY3pZYXQxTmJQVnFTTXhybzNIblduVUdUYVVuaW90czNvamJ1RkMzcmtJdUdMWGVnOVFDNDNMNFFR0gH_AUFVX3lxTE4zYzZjcmlPY2RudVFJcWtYNmI3d1FKQWl6UFJtZDRNSHlMMDZOeVlYM2JPcEhfT1F1VVlzeXlIM0UwTmY1bjB1bWdzYUlCNVVxUURfcm9ITGlxSjk5LVp5QnUxRFg2d3JzV1JsTzVobjdyVFRKcEhjdUdZVXJ5ekV4LW12bHp6ZXVDeEp0Wkk2ZDJWd05QMnlvZTh0YWJwMDJCaXRmSGtqaEc1ejRxNk5sQVJ4SlFLWjBFbkQ0ajdiS1hBR0Q4cDdMRDJRTHBnaXVyd291VG8tRUgzSHdWdUpQTHBRM1dUVXFsM2xNSDdOaWR4RzNXM3BlRndMYlhDSQ?oc=5",
       "source": "The Times of India",
       "published": "2026-09-27T23:45:00+00:00",
-      "score": 6.0,
+      "score": 5.99,
       "tags": [
         "tension"
       ]
@@ -73,7 +62,7 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTU1hRzhyZEt4ZGVxa2RlRVhKQ1JRMU1xTGNnZzNZUktCOXgxckYwNWxncUw5Z21uTzhZaVhMblVnVWVvdHFoLS1YUlo5cU5US0pfbHFMVG91LXQ4NXYwdUk0SzdEaFZoWUxuZjN0aUdjQkUzT0VvN2pBeXZDMXhwTFJxSlhDRlY3Q3NHeHRjUUVubUkyMUpLZWlUdUFrbi05OVdPdHJnVmdEeGdZcTJGVFc2U3Z6SDI3SnkwU3pBa3RIbDhXOXFiSVJuaFl0SW1BR2NfVkhR0gHaAUFVX3lxTE5yNlAxb0dKOGRyWnN1WUM3Z3h5VDNCR0VSVlpvSkxKQS0yaEtBWEo4NXFBYkg4S3h4SVRMZS1wSFNBM2dfNFI3VVp6bVBhQ0lGS3FaTkM3ekdidzktcE1BVXZZb2syblpWeXAybnBldW94MGtUSnV3a2ZzS2hObTZvb1BWUWMtOXRRdFFwMHhtOGVYdk9VaWUtMUpDQWxlNGdNTUNfb3h6QXJ4WHRacGlmM0VId01yS2tWRmQtalQ3NFRNSkMxQWRMWWlWZWtoT3pSX1VGd29DMWZR?oc=5",
       "source": "The Tribune",
       "published": "2026-09-27T23:32:15+00:00",
-      "score": 6.0,
+      "score": 5.98,
       "tags": [
         "tension"
       ]
@@ -83,7 +72,7 @@
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYnBLZWNkMFkwU19zdnlVU29HRGhlZEtsUXNScWdvUFZ4aTZYQzREMjNOZFFQWHd0bVh2Q3BjYlNaLUNENTlrQ0ZZbi1RU0RoRGY4REl5eF9uUEh2MEp6eGRfOWRRMUlVazRORnVPaHpYcW5rSHRpbUNwR0JNMTRmU0g4LW5wM3B5b2ZQOGtBRkI0blRxSW9JV1ZhSFdQWjR3YUJWdkpUVHI0Rkh0Vk1DbW53YWdTUkE5dndwWElvNEpRRDU2c3pJbmdIbHV5Sk1FMnlBMEhodw?oc=5",
       "source": "NewsCord",
       "published": "2026-09-27T16:14:51+00:00",
-      "score": 5.88,
+      "score": 5.74,
       "tags": [
         "tension"
       ]
@@ -93,7 +82,7 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN2NlS2NUZ1AwZ2tZbEUyUEZRUlc4cjVXR1B5TUJseFpfcUlZdlRRc1h2UDVhSkNXaEU1ZFA4VXM4NG14ZXRmemR0Q1RCM3AxclBsd3NPZXVURk10bnFOd1lKekZlWWpuZGlPT1VYdHUwRF9paHMtWElJWTk2Ri1lTGpnbmRpaWM1ZDFWWmtfVjk3VDMxMVlkMkZ6dWtTMks1eWNFZE1KZF8wdERVcWhnWHBsZGNWOGE3eFJkQkYtRGxzZjN6?oc=5",
       "source": "Euronews.com",
       "published": "2026-09-27T15:01:14+00:00",
-      "score": 5.84,
+      "score": 5.7,
       "tags": [
         "tension"
       ]
@@ -103,34 +92,44 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb2hWV204cS00eXVTcDIwTVUzcjAwUzVaWW1YcGVaZmZzaHQxc2tWa29kTUNCU1A3MDd1X01DZUFQMF9JclNHZEpQaWdFSzFWYkw0Z050ai1JbzBjeWQtX3RuTUNjWGlFS3JtTEozbTh0dUs2Und4SHYtZUZneFl1bzI0dlRUTDQtS1h0bDRZb1VYTWswMGFzZU1LNzdtZXlBeHI2ek9vZw?oc=5",
       "source": "Palestine Chronicle",
       "published": "2026-09-27T14:31:22+00:00",
-      "score": 5.82,
+      "score": 5.68,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Iran says it seized US underwater drone in Strait of Hormuz \u2014 Anadolu Agency - UA.NEWS",
+      "title": "Iran says it seized US underwater drone in Strait of Hormuz \u2014 Anadolu Agency - ua.news",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVWdsT18wRUFmMmY5SEhfZWJhUmdoVV9EdEtkSHpHWWM1M052eGNwWExmS0c3SzZNMzNzRFVEcDlYUjVodldGZnMxR1Jib1VsUHhfZmFfc3lSZE85b1BpLWtlLWNvWWNid3BmaTRzRW5RdDlqY1o0dzl0Z2xmR09fem9NQkNyRFVpclBqeEQyMVBIMnl0eVdqbVI3akhhSUFuWFFJLWNlTDlYU2J0aFc1UVFXbnYtdGpvdUloNw?oc=5",
-      "source": "UA.NEWS",
+      "source": "ua.news",
       "published": "2026-09-27T13:31:34+00:00",
-      "score": 5.79,
+      "score": 5.65,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Iran says it seized US underwater drone in Strait of Hormuz - aa.com.tr",
+      "title": "Iran says it seized US underwater drone in Strait of Hormuz - Anadolu Ajans\u0131",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYzdTalZwamJyLTFubU52UjR5WEdYYWdoMC1PS1lWZ2o5ODB1LXRoMXBMQi1VbjBQYjROYm5IM1FGVGNjdGNWM0JKV0hwbW5LR0JVdlpqMVFVaDlnZjMyMFdiTDBBT284cHNMQVlCM09oc2NOMVFlalZNWGpfM2FtUk1lQ3lYVHB3SlM5d0hOdW1pWERkMFhtbHFqb0h2MFJER3J0dmtlSQ?oc=5",
-      "source": "aa.com.tr",
+      "source": "Anadolu Ajans\u0131",
       "published": "2026-09-27T13:27:32+00:00",
-      "score": 5.78,
+      "score": 5.64,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran Guards say seized US underwater drone in Hormuz - Arab News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOXE2NWU4bXpTMjM3dWVDR01TaDFXUlhuRmlxQy1nOThWcWNpSGFfUTNZWnY5ekl4T3pER1lFSWNBcERxT1QwTzgyMnhmS1VrUFd1UjdxN1NHTjNmVGtRa2hCT3ZxQTFKQ1pvbTNkdFVfSTJFVm8xU3pRc0pTNnBoc3JndVZCSzZqaEl6eWNzaFBMQktwS1NIdEZYeVF5QQ?oc=5",
+      "source": "Arab News",
+      "published": "2026-09-27T10:49:09+00:00",
+      "score": 5.56,
       "tags": [
         "tension"
       ]
     }
   ],
   "brent": {
-    "price": 98.07,
-    "change_pct": 0.65
+    "price": 98.6,
+    "change_pct": 0.79
   }
 }
