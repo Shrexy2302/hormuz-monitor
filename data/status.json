@@ -1,17 +1,17 @@
 {
-  "status": "OPEN",
-  "label": "Normal traffic",
-  "tension_index": 7.3,
+  "status": "DISRUPTED",
+  "label": "Major disruption reported",
+  "tension_index": 16.7,
   "closure_signals": 3,
-  "articles_scanned": 229,
-  "updated": "2026-09-30T19:32:04.075812+00:00",
+  "articles_scanned": 230,
+  "updated": "2026-09-30T23:22:12.836782+00:00",
   "headlines": [
     {
-      "title": "Iran Says It Seized U.S. REMUS 600 Drone in Strait of Hormuz, Raising Mine-Warfare Stakes - defencesecurityasia.com",
+      "title": "Iran Says It Seized U.S. REMUS 600 Drone in Strait of Hormuz, Raising Mine-Warfare Stakes - Defence Security Asia",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcnBYU24zdURyR2s1b1YtTUVzMTNUeHVLNVZJNktjaklESUtpQ2hmcnVpVHRiTUZsM0h2QXVwWW1xXzBua1hvNnRfZy1na1FmV0NRUGZ3RFRfcnZDcEtSVUM3d2R0bjRjaU5uaGNfaTJnMmJsLVZ0Z1o5OWxES2xzQWljUjZDbmFldTQtV1VGX1RtNW1Sdnc0MGdHajBXOTRFbEJj?oc=5",
-      "source": "defencesecurityasia.com",
+      "source": "Defence Security Asia",
       "published": "2026-09-27T16:25:28+00:00",
-      "score": 8.59,
+      "score": 8.34,
       "tags": [
         "closure",
         "tension"
@@ -22,15 +22,15 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBraC03bXZWOW4tMmF2anpEUnBHeFZvcXFKdmpnN2s5VkdoQ1VRM1FLYkdjM0F6QTRtdjAxemxTeERTemdJaTBPTy02QWZLa28xSGFrMjVqZFlhRUNHOXkxcjJTcWpxcXJTeExPSUJhMWFZM0NJaVE?oc=5",
       "source": "finance.biggo.com",
       "published": "2026-09-28T01:56:00+00:00",
-      "score": 7.69,
+      "score": 7.48,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "US targets mine-laying vessels in the Strait of Hormuz amid blockade disrupting global oil markets - abcnews.com",
+      "title": "US targets mine-laying vessels in the Strait of Hormuz amid blockade disrupting global oil markets - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzRPSjlIQTd4QndKdm9CUHk1ZWxIaktfOERjc1A3VHpYMHV0Z1Zkd3dGNURqMFJFR3l4LXo3OU5scG96QXhMd0F5TGthdlVzbmg0QVVHbnktU096TkFWUnc5QU9UV0xvTk1jbDY3eGFJaWZXN19UOEJvbTF6eFdFcW13cWxwdWRDVzU1OEl6c2ctT3ltYVJZN0d1a3hvQdIBowFBVV95cUxPUktnalZhVFFxNkhBTHFVS0tOSVBzVE5rZWFhcHhQUVk5dnlocFVZQWdNeHlNQ2pwY0ctTHp6dkQ1WFh1djJsUkQxZ3RZR3NkbVVJOWNCNTFqdFl5eUpMc044SVlwQVMyeldla2VYZ2FxVG5ud1RvTVlKNVc1d0FMNjZSemNubmdydW5BRE1peGVjdmJNSFF5QVZ2OGtNMTVHY09B?oc=5",
-      "source": "abcnews.com",
+      "source": "ABC News - Breaking News, Latest News and Videos",
       "published": "2026-09-30T09:23:33+00:00",
       "score": 6.0,
       "tags": [
@@ -38,31 +38,41 @@
       ]
     },
     {
+      "title": "News Content Hub - VLCC reportedly struck during Hormuz transit, causing fire on board - rivieramm.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSkRyZnpTb3JkWnhfMDg4U1paNWViZm9obTdLS2gyOGZyYW5ITXdKSG9wd2Jtem9CVVVKQzg1MWpSeGFJQTJlVXFTTEFEREl1Q3ZBRndjLVQ4VkVLc1BneFNtOTFsWmhQcjFvOGlCQVN1Wkg2TWtkaFpXZjNVVFgxSFVqd055aXhoeGdHV0FnLVF6SlpMbC0tenJZZDRGVDZLVkItYkQ2cFp5SG1BNlBWb3ZrSjBieUFNalBnNg?oc=5",
+      "source": "rivieramm.com",
+      "published": "2026-09-29T23:01:20+00:00",
+      "score": 5.99,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
       "title": "Iran\u2019s IRGC Navy Claims Second US Military Underwater Drone Seized In Strait Of Hormuz - Marine Insight",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ1ROTmZzMnZTUWxkYnF2aXJDT3Vya3JWSG5IbnZtLWxNVFBKY1RfaFdldkZLMW5mZTFDTGsyT2dpM1pJYnowVEN2UUd1MmpHWG5tSlpTSjlSME5vaEtCdUw2Tk13eDdqdmQ1SXNTS0l6aUZBMGxIUGh1bUZLRGMzdFRnVEQ3N1FOcVBoZ0pmLUIwMTFGdUdUek1aX2pFNzl6Qlk2eEY0dF9UNjlXTHNwMjhJUlJVQWs?oc=5",
       "source": "Marine Insight",
       "published": "2026-09-28T13:31:56+00:00",
-      "score": 5.0,
+      "score": 4.87,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Iran claims second US drone seized in Strait of Hormuz, identifies it as Mk 18 Kingfish - The Times of India",
+      "title": "Iran claims second US drone seized in Strait of Hormuz, identifies it as Mk 18 Kingfish - timesofindia.indiatimes.com",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdE9TRk93QmZvdm51UEhxVFZFNmpGcmFUblcxV0ZfLUdRTldnVUhHeWhJaDlSRko3Wk5heXNRZ3Z2NHg1ZFRuVkhDLUNvcDNrNEJNa2E1bjhlZUdnRXVOSjJ1WXgtVV9KdWYxUEV0UUt2bUprLUwyMFJuOTZaTm9sdUdYTFV4YWdVaUFQNmFLTjVvMUdYXzNRZlZGU3lhbnZaUkg2a1lUT3JhYkcxMmNjT0Z5N1oxNl9oLThteE1EODhtY3pZYXQxTmJQVnFTTXhybzNIblduVUdUYVVuaW90czNvamJ1RkMzcmtJdUdMWGVnOVFDNDNMNFFR0gH_AUFVX3lxTE4zYzZjcmlPY2RudVFJcWtYNmI3d1FKQWl6UFJtZDRNSHlMMDZOeVlYM2JPcEhfT1F1VVlzeXlIM0UwTmY1bjB1bWdzYUlCNVVxUURfcm9ITGlxSjk5LVp5QnUxRFg2d3JzV1JsTzVobjdyVFRKcEhjdUdZVXJ5ekV4LW12bHp6ZXVDeEp0Wkk2ZDJWd05QMnlvZTh0YWJwMDJCaXRmSGtqaEc1ejRxNk5sQVJ4SlFLWjBFbkQ0ajdiS1hBR0Q4cDdMRDJRTHBnaXVyd291VG8tRUgzSHdWdUpQTHBRM1dUVXFsM2xNSDdOaWR4RzNXM3BlRndMYlhDSQ?oc=5",
-      "source": "The Times of India",
+      "source": "timesofindia.indiatimes.com",
       "published": "2026-09-27T23:45:00+00:00",
-      "score": 4.54,
+      "score": 4.41,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "IRGC Navy Seizes US Remus 600 Underwater Drone in Strait of Hormuz: who 14 outlets blamed - newscord.org",
+      "title": "IRGC Navy Seizes US Remus 600 Underwater Drone in Strait of Hormuz: who 14 outlets blamed - NewsCord",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYnBLZWNkMFkwU19zdnlVU29HRGhlZEtsUXNScWdvUFZ4aTZYQzREMjNOZFFQWHd0bVh2Q3BjYlNaLUNENTlrQ0ZZbi1RU0RoRGY4REl5eF9uUEh2MEp6eGRfOWRRMUlVazRORnVPaHpYcW5rSHRpbUNwR0JNMTRmU0g4LW5wM3B5b2ZQOGtBRkI0blRxSW9JV1ZhSFdQWjR3YUJWdkpUVHI0Rkh0Vk1DbW53YWdTUkE5dndwWElvNEpRRDU2c3pJbmdIbHV5Sk1FMnlBMEhodw?oc=5",
-      "source": "newscord.org",
+      "source": "NewsCord",
       "published": "2026-09-27T16:14:51+00:00",
-      "score": 4.29,
+      "score": 4.16,
       "tags": [
         "tension"
       ]
@@ -72,7 +82,7 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN2NlS2NUZ1AwZ2tZbEUyUEZRUlc4cjVXR1B5TUJseFpfcUlZdlRRc1h2UDVhSkNXaEU1ZFA4VXM4NG14ZXRmemR0Q1RCM3AxclBsd3NPZXVURk10bnFOd1lKekZlWWpuZGlPT1VYdHUwRF9paHMtWElJWTk2Ri1lTGpnbmRpaWM1ZDFWWmtfVjk3VDMxMVlkMkZ6dWtTMks1eWNFZE1KZF8wdERVcWhnWHBsZGNWOGE3eFJkQkYtRGxzZjN6?oc=5",
       "source": "Euronews.com",
       "published": "2026-09-27T15:01:14+00:00",
-      "score": 4.25,
+      "score": 4.12,
       "tags": [
         "tension"
       ]
@@ -82,7 +92,7 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb2hWV204cS00eXVTcDIwTVUzcjAwUzVaWW1YcGVaZmZzaHQxc2tWa29kTUNCU1A3MDd1X01DZUFQMF9JclNHZEpQaWdFSzFWYkw0Z050ai1JbzBjeWQtX3RuTUNjWGlFS3JtTEozbTh0dUs2Und4SHYtZUZneFl1bzI0dlRUTDQtS1h0bDRZb1VYTWswMGFzZU1LNzdtZXlBeHI2ek9vZw?oc=5",
       "source": "Palestine Chronicle",
       "published": "2026-09-27T14:31:22+00:00",
-      "score": 4.23,
+      "score": 4.11,
       "tags": [
         "tension"
       ]
@@ -92,7 +102,7 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVWdsT18wRUFmMmY5SEhfZWJhUmdoVV9EdEtkSHpHWWM1M052eGNwWExmS0c3SzZNMzNzRFVEcDlYUjVodldGZnMxR1Jib1VsUHhfZmFfc3lSZE85b1BpLWtlLWNvWWNid3BmaTRzRW5RdDlqY1o0dzl0Z2xmR09fem9NQkNyRFVpclBqeEQyMVBIMnl0eVdqbVI3akhhSUFuWFFJLWNlTDlYU2J0aFc1UVFXbnYtdGpvdUloNw?oc=5",
       "source": "UA.NEWS",
       "published": "2026-09-27T13:31:34+00:00",
-      "score": 4.2,
+      "score": 4.07,
       "tags": [
         "tension"
       ]
@@ -102,7 +112,7 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYzdTalZwamJyLTFubU52UjR5WEdYYWdoMC1PS1lWZ2o5ODB1LXRoMXBMQi1VbjBQYjROYm5IM1FGVGNjdGNWM0JKV0hwbW5LR0JVdlpqMVFVaDlnZjMyMFdiTDBBT284cHNMQVlCM09oc2NOMVFlalZNWGpfM2FtUk1lQ3lYVHB3SlM5d0hOdW1pWERkMFhtbHFqb0h2MFJER3J0dmtlSQ?oc=5",
       "source": "Anadolu Ajans\u0131",
       "published": "2026-09-27T13:27:32+00:00",
-      "score": 4.2,
+      "score": 4.07,
       "tags": [
         "tension"
       ]
@@ -112,24 +122,14 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOXE2NWU4bXpTMjM3dWVDR01TaDFXUlhuRmlxQy1nOThWcWNpSGFfUTNZWnY5ekl4T3pER1lFSWNBcERxT1QwTzgyMnhmS1VrUFd1UjdxN1NHTjNmVGtRa2hCT3ZxQTFKQ1pvbTNkdFVfSTJFVm8xU3pRc0pTNnBoc3JndVZCSzZqaEl6eWNzaFBMQktwS1NIdEZYeVF5QQ?oc=5",
       "source": "Arab News",
       "published": "2026-09-27T10:49:09+00:00",
-      "score": 4.11,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran touts Hormuz attacks as oil flows increase despite tensions - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcHFndWVQUVpiSnAwM0EtTUdVSVZvSERZZnZkQUswTVRETVpIdWJtU1VrRFpzdUxWNUplbUI3Z2F6UEFZdk43NWN4R1llRVJOMjNDV1oxNTF3dTJOOUdEQVVDT0JLdVpwa1J2UU9mMm5iczcwaEpubnR1WEIzdnBUWE9xVlJtdlIwZTc2YXpGWW5RU1RWdnUxa1B4ODB1RFNUd2lXdlZVazbSAa4BQVVfeXFMT3hIUnlIQUNRSU9pbnFSNTh4cnc0LXRiV3M2OE9VeFNab2FneWpIMUVoaTJvd1dpYnhfUkRRODJRcDNmcmZrRHpFcVhKWHlzTUYtdk0yaGc4YWxOQzVRQlhDOUJXLXdmQjNiMkhyaWZMM0lKZzY0QlRWeGlsMUFtQUt3T0lPNk42bmxnNFhjNWRmc3NUYTI0VGs2N2RjanVvNVZUek5uV0Y1c2dOdDhB?oc=5",
-      "source": "Al Jazeera",
-      "published": "2026-09-28T17:46:06+00:00",
-      "score": 3.43,
+      "score": 3.98,
       "tags": [
         "tension"
       ]
     }
   ],
   "brent": {
-    "price": 97.96,
-    "change_pct": 1.87
+    "price": 97.7,
+    "change_pct": -0.34
   }
 }
