@@ -1,27 +1,27 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 86.4,
-  "closure_signals": 4,
-  "articles_scanned": 234,
-  "updated": "2026-10-02T19:03:51.163542+00:00",
+  "tension_index": 97.6,
+  "closure_signals": 3,
+  "articles_scanned": 229,
+  "updated": "2026-10-02T23:07:00.222543+00:00",
   "headlines": [
-    {
-      "title": "Iranian Army: Strait of Hormuz is closed, enemy's statements about it remaining open are hollow slogans - saba.ye",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Wa1R0YXlISW54NnJiUjJfdEtzcndiQkJKN1otbjFGY2Fmcjd5WjFCel9sSG85bTNCaWtycXp4bDlhY3RmejFBemNESHg0OVk?oc=5",
-      "source": "saba.ye",
-      "published": "2026-09-28T20:59:26+00:00",
-      "score": 6.11,
-      "tags": [
-        "closure"
-      ]
-    },
     {
       "title": "US targets mine-laying vessels in the Strait of Hormuz amid blockade disrupting global oil markets - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzRPSjlIQTd4QndKdm9CUHk1ZWxIaktfOERjc1A3VHpYMHV0Z1Zkd3dGNURqMFJFR3l4LXo3OU5scG96QXhMd0F5TGthdlVzbmg0QVVHbnktU096TkFWUnc5QU9UV0xvTk1jbDY3eGFJaWZXN19UOEJvbTF6eFdFcW13cWxwdWRDVzU1OEl6c2ctT3ltYVJZN0d1a3hvQdIBowFBVV95cUxPUktnalZhVFFxNkhBTHFVS0tOSVBzVE5rZWFhcHhQUVk5dnlocFVZQWdNeHlNQ2pwY0ctTHp6dkQ1WFh1djJsUkQxZ3RZR3NkbVVJOWNCNTFqdFl5eUpMc044SVlwQVMyeldla2VYZ2FxVG5ud1RvTVlKNVc1d0FMNjZSemNubmdydW5BRE1peGVjdmJNSFF5QVZ2OGtNMTVHY09B?oc=5",
       "source": "ABC News - Breaking News, Latest News and Videos",
       "published": "2026-10-01T20:25:47+00:00",
-      "score": 6.0,
+      "score": 5.91,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iranian Army: Strait of Hormuz is closed, enemy's statements about it remaining open are hollow slogans - saba.ye",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Wa1R0YXlISW54NnJiUjJfdEtzcndiQkJKN1otbjFGY2Fmcjd5WjFCel9sSG85bTNCaWtycXp4bDlhY3RmejFBemNESHg0OVk?oc=5",
+      "source": "saba.ye",
+      "published": "2026-09-28T20:59:26+00:00",
+      "score": 5.88,
       "tags": [
         "closure"
       ]
@@ -31,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcnBYU24zdURyR2s1b1YtTUVzMTNUeHVLNVZJNktjaklESUtpQ2hmcnVpVHRiTUZsM0h2QXVwWW1xXzBua1hvNnRfZy1na1FmV0NRUGZ3RFRfcnZDcEtSVUM3d2R0bjRjaU5uaGNfaTJnMmJsLVZ0Z1o5OWxES2xzQWljUjZDbmFldTQtV1VGX1RtNW1Sdnc0MGdHajBXOTRFbEJj?oc=5",
       "source": "Defence Security Asia",
       "published": "2026-09-27T16:25:28+00:00",
-      "score": 5.42,
+      "score": 5.15,
       "tags": [
         "closure",
         "tension"
@@ -42,7 +42,7 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBraC03bXZWOW4tMmF2anpEUnBHeFZvcXFKdmpnN2s5VkdoQ1VRM1FLYkdjM0F6QTRtdjAxemxTeERTemdJaTBPTy02QWZLa28xSGFrMjVqZFlhRUNHOXkxcjJTcWpxcXJTeExPSUJhMWFZM0NJaVE?oc=5",
       "source": "finance.biggo.com",
       "published": "2026-09-28T01:56:00+00:00",
-      "score": 5.05,
+      "score": 4.82,
       "tags": [
         "closure"
       ]
@@ -52,7 +52,7 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ1ROTmZzMnZTUWxkYnF2aXJDT3Vya3JWSG5IbnZtLWxNVFBKY1RfaFdldkZLMW5mZTFDTGsyT2dpM1pJYnowVEN2UUd1MmpHWG5tSlpTSjlSME5vaEtCdUw2Tk13eDdqdmQ1SXNTS0l6aUZBMGxIUGh1bUZLRGMzdFRnVEQ3N1FOcVBoZ0pmLUIwMTFGdUdUek1aX2pFNzl6Qlk2eEY0dF9UNjlXTHNwMjhJUlJVQWs?oc=5",
       "source": "Marine Insight",
       "published": "2026-09-28T13:31:56+00:00",
-      "score": 3.42,
+      "score": 3.28,
       "tags": [
         "tension"
       ]
@@ -62,16 +62,26 @@
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQN3RBMTJSbElIYnZIWDVWWjY3R0ZxNGNkNnRiLTcwakMwVXhRUDZLSmoyYWMwaHZXd2V4MW5qejJ0N0s0UF9VeHlTNFNXaFFXTzJkbHNqSU01akN6X1hpZjF0U1ZHa0QtQ0R1M3E5NHBvYmtWOEVsRERNYzhhd3ZiVWJhNzVHNUNnMk0zYU5SV3FZRHhvZVc5MG9LQkRFLW1MbEI1R3diUnhOWi1ORUVQTWhYckhrRzF4c1k5ZUc3bGJIbmdpZDJoRkFSem9Lb1I1c1NuMzhpcHJ1Z1NRc1E?oc=5",
       "source": "\u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
       "published": "2026-09-28T07:31:41+00:00",
-      "score": 3.22,
+      "score": 3.08,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Kuwait-flagged VLCC, Panama-flagged tanker reported hit in Strait of Hormuz, with fires on board - rivieramm.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbWtvSVo0TFBvRjBGUGVkT3loOUhIeU9oNGVkdGxrbjN5Z3RwWlpKajQwUGQxeGdNSjZscVFCVDVXUWU5MEFCbzNKbm5jUEIyYlVYWS1iWm1GSDRuTVBXVVFwRjZVdGR2dXhqSGM4YXVfQVBMdnZ1TkU0WEYweXNEVXlLZEZxdHlaMGxRbXRtUkN3b2doai1JRWFXMVFZckk0LUZmZnhMaG9Ya3RmSVpvNVA0aThYSmUxNWtMWDM5Tmw4Y2FRT0xYMUtn?oc=5",
-      "source": "rivieramm.com",
-      "published": "2026-10-02T14:04:50+00:00",
+      "title": "Two More Tankers in Hormuz Report Strikes, Bringing Total to Six in a Week - The Maritime Executive",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdDdpWVIxQVR3YUwwU2VJelFEeExoTHJwb0pwRWhRa0NEVnBPeGtTZHhacUVTVTVROGQ3WlNGOURmUW1SeU1YZ0NoSzBEcW5iaGJPeFIwSWxpd0oxMWk1MkJtY2VvYWVZcm1USFBWR2oyR2NTZzk3cjNRbmRvc1Bac0MxRU5yZGdxcVJQMGladUdydk9Lck1HTFg2aHI0WUtpNVFsVHllVjNVYVpzci0wNmd3?oc=5",
+      "source": "The Maritime Executive",
+      "published": "2026-10-02T21:40:25+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Tanker struck in the Strait of Hormuz - Arab News",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTmcwQWVndXloQUhJSnVWSTgzUWZJaS1GLUlpaWl0RVl3eHhMaHVRMl95TVVfSWJNUTJONy1MNUVRTzFUZThGSnYzTk9FalpqcU50NWNDTGpNQnFFOUtwZFIyQVFIOFlzek43QlVIOXpybVdub2JXQy1OOEo4SnZmdjZ6WWlaUG1HVHc?oc=5",
+      "source": "Arab News",
+      "published": "2026-10-02T19:17:00+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -98,9 +108,9 @@
       ]
     },
     {
-      "title": "Tanker catches fire after first Hormuz attack in October - Seatrade Maritime News",
+      "title": "Tanker catches fire after first Hormuz attack in October - seatrade-maritime.com",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd2l6bnM5VmpUSGFFRjhsa0UyREFZcEtlSHpGX2wyVEU2NnI5bEo2QjM3UDU4R1ljQXc3TDlIamJ3Uk1JT1YxS0tJa2dERUpOc2liTGVxQV9kc184X0xaQlF1QTEzekZTbUtySy1WbUdHVU56eXlGUzdtSF9XTGpMbFVUZVpzNE55ZlVKUjNJRE03WnBST2MxMW1vMUp2M0w4?oc=5",
-      "source": "Seatrade Maritime News",
+      "source": "seatrade-maritime.com",
       "published": "2026-10-02T07:53:58+00:00",
       "score": 3.0,
       "tags": [
@@ -108,20 +118,10 @@
       ]
     },
     {
-      "title": "Trump says Iran \"ready to fold up,\" after threatening post-midterm attacks - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaXNwVUhFZkZrZmxLRFd1QVZwZFFWVjFLcEgxWmNJWnJCMlNnOExuY3BsdWlLaG9HYzF1VjJKYnB6eHlfU1NLZWlUcWhDMmpCVFI1eGczV19kR3kycThHd0ducEtLejdicmJXanhmWWFUcWRJeVVDb28xUlRmTWxPSWRwbXBfRU1uSW1N?oc=5",
-      "source": "CBS News",
-      "published": "2026-10-02T06:19:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Fire ignites on tanker in Hormuz after strike by unknown projectile - TradeWinds News",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc2JwaURZc1lBNFBsWE5pemRpeWRkLTg0YWZSeHRmSWhRYmhSUHB3NTZHWnNDS2R3eUptXzJkX2MwSDhvbnFKeGQ5TzJJQmthd1UwZUhfdmJaVFdqSlRtNXRmS2JaYkZZazV5RjZ6cmtJenFyeUZheHBzSUZ6VGNfaHFadVBXb0ZaMHY4SFVQV0xQalBHLWU4SFd2UWxqMDE3d21LekV2bnRvdVc0SGJfUXVhU0REY185U3hBUmZ6UGhRMmZ5?oc=5",
-      "source": "TradeWinds News",
-      "published": "2026-10-02T06:11:05+00:00",
+      "title": "Iran launching about 40 drone, missile attacks a week on Hormuz shipping: Report - T\u00fcrkiye Today",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZzJOa0xuOEJBQlIwc08tXzlzbnJTYzBEWTlYYWNXVDYzUDNCQ3NvWElaWEN1QS1QRW1BdVdybHV0SGZEUU9WWnRodWV2UzFBOExIYXhOY254NE5zUWxHcXRiWU9UV0lzVkk3R0JBMmQ2XzhaWDRIcXR1U3pnTnpQMl9OaHk3bTdjeXJEWVI5aFlCUXdPemUwclA1TzFOMVpnczlzajFSVnlMcHcwZUNrQUotREQ3eGdNV1VwMkpJNA?oc=5",
+      "source": "T\u00fcrkiye Today",
+      "published": "2026-10-02T06:26:05+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -129,7 +129,7 @@
     }
   ],
   "brent": {
-    "price": 102.3,
-    "change_pct": -0.01
+    "price": 102.7,
+    "change_pct": 0.38
   }
 }
