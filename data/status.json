@@ -1,27 +1,17 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 88.0,
-  "closure_signals": 5,
-  "articles_scanned": 235,
-  "updated": "2026-10-02T13:59:15.571169+00:00",
+  "tension_index": 86.4,
+  "closure_signals": 4,
+  "articles_scanned": 234,
+  "updated": "2026-10-02T19:03:51.163542+00:00",
   "headlines": [
     {
-      "title": "Iran Declares Strait of Hormuz Closed as \u2018Unauthorised\u2019 Vessel Hit - EnergyNow.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU3BGdU5KMkwwNVNINnRuYnZBdWZpYUNjSHlXSGh2MWJWck1INVRtbXNyS2t5WXZPRGxlVEpGcnM5NUkyQnlmNEtLazBSM2dFcDROdVJ1RC1Bd1haYUlXbnphM2tzenhjNm1PQUNnRkNRYi1SNVBxX2RsNTJhY19vVUU4ejhtRlRlUkdpcmxvd1YtRXZ1dVBuaVBLWQ?oc=5",
-      "source": "EnergyNow.com",
-      "published": "2026-10-01T22:09:28+00:00",
-      "score": 10.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Shipping Slows After Iran Says it Has Again Shut the Strait of Hormuz - EnergyNow.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONTF5MXhpYXJ5YldtMW1FSDhMX0VjWkZjNVVPN1ZsMGdieUlCSlB2cnFhUS1TVHR2SzRHamZROFZLQmhZSVkwSUxBTjJMakVYNS1xXzJMaVZwYU9hZ0NOX0NwQWllbTZ6aXhoRUk2SHhody1GLThuMF9acGtsTFVENXZmWFZhQlhMNnowVjkxYmhEUUVCV1Q1OHE3OVJLQUc5SUE?oc=5",
-      "source": "EnergyNow.com",
-      "published": "2026-10-01T22:29:00+00:00",
-      "score": 8.0,
+      "title": "Iranian Army: Strait of Hormuz is closed, enemy's statements about it remaining open are hollow slogans - saba.ye",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Wa1R0YXlISW54NnJiUjJfdEtzcndiQkJKN1otbjFGY2Fmcjd5WjFCel9sSG85bTNCaWtycXp4bDlhY3RmejFBemNESHg0OVk?oc=5",
+      "source": "saba.ye",
+      "published": "2026-09-28T20:59:26+00:00",
+      "score": 6.11,
       "tags": [
         "closure"
       ]
@@ -41,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcnBYU24zdURyR2s1b1YtTUVzMTNUeHVLNVZJNktjaklESUtpQ2hmcnVpVHRiTUZsM0h2QXVwWW1xXzBua1hvNnRfZy1na1FmV0NRUGZ3RFRfcnZDcEtSVUM3d2R0bjRjaU5uaGNfaTJnMmJsLVZ0Z1o5OWxES2xzQWljUjZDbmFldTQtV1VGX1RtNW1Sdnc0MGdHajBXOTRFbEJj?oc=5",
       "source": "Defence Security Asia",
       "published": "2026-09-27T16:25:28+00:00",
-      "score": 5.76,
+      "score": 5.42,
       "tags": [
         "closure",
         "tension"
@@ -52,27 +42,17 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBraC03bXZWOW4tMmF2anpEUnBHeFZvcXFKdmpnN2s5VkdoQ1VRM1FLYkdjM0F6QTRtdjAxemxTeERTemdJaTBPTy02QWZLa28xSGFrMjVqZFlhRUNHOXkxcjJTcWpxcXJTeExPSUJhMWFZM0NJaVE?oc=5",
       "source": "finance.biggo.com",
       "published": "2026-09-28T01:56:00+00:00",
-      "score": 5.33,
+      "score": 5.05,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "News Content Hub - VLCC reportedly struck during Hormuz transit, causing fire on board - rivieramm.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSkRyZnpTb3JkWnhfMDg4U1paNWViZm9obTdLS2gyOGZyYW5ITXdKSG9wd2Jtem9CVVVKQzg1MWpSeGFJQTJlVXFTTEFEREl1Q3ZBRndjLVQ4VkVLc1BneFNtOTFsWmhQcjFvOGlCQVN1Wkg2TWtkaFpXZjNVVFgxSFVqd055aXhoeGdHV0FnLVF6SlpMbC0tenJZZDRGVDZLVkItYkQ2cFp5SG1BNlBWb3ZrSjBieUFNalBnNg?oc=5",
-      "source": "rivieramm.com",
-      "published": "2026-09-29T23:01:20+00:00",
-      "score": 4.7,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran\u2019s IRGC Navy Claims Second US Military Underwater Drone Seized In Strait Of Hormuz - marineinsight.com",
+      "title": "Iran\u2019s IRGC Navy Claims Second US Military Underwater Drone Seized In Strait Of Hormuz - Marine Insight",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ1ROTmZzMnZTUWxkYnF2aXJDT3Vya3JWSG5IbnZtLWxNVFBKY1RfaFdldkZLMW5mZTFDTGsyT2dpM1pJYnowVEN2UUd1MmpHWG5tSlpTSjlSME5vaEtCdUw2Tk13eDdqdmQ1SXNTS0l6aUZBMGxIUGh1bUZLRGMzdFRnVEQ3N1FOcVBoZ0pmLUIwMTFGdUdUek1aX2pFNzl6Qlk2eEY0dF9UNjlXTHNwMjhJUlJVQWs?oc=5",
-      "source": "marineinsight.com",
+      "source": "Marine Insight",
       "published": "2026-09-28T13:31:56+00:00",
-      "score": 3.58,
+      "score": 3.42,
       "tags": [
         "tension"
       ]
@@ -82,17 +62,17 @@
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQN3RBMTJSbElIYnZIWDVWWjY3R0ZxNGNkNnRiLTcwakMwVXhRUDZLSmoyYWMwaHZXd2V4MW5qejJ0N0s0UF9VeHlTNFNXaFFXTzJkbHNqSU01akN6X1hpZjF0U1ZHa0QtQ0R1M3E5NHBvYmtWOEVsRERNYzhhd3ZiVWJhNzVHNUNnMk0zYU5SV3FZRHhvZVc5MG9LQkRFLW1MbEI1R3diUnhOWi1ORUVQTWhYckhrRzF4c1k5ZUc3bGJIbmdpZDJoRkFSem9Lb1I1c1NuMzhpcHJ1Z1NRc1E?oc=5",
       "source": "\u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
       "published": "2026-09-28T07:31:41+00:00",
-      "score": 3.38,
+      "score": 3.22,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Iran claims second US drone seized in Strait of Hormuz, identifies it as Mk 18 Kingfish - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdE9TRk93QmZvdm51UEhxVFZFNmpGcmFUblcxV0ZfLUdRTldnVUhHeWhJaDlSRko3Wk5heXNRZ3Z2NHg1ZFRuVkhDLUNvcDNrNEJNa2E1bjhlZUdnRXVOSjJ1WXgtVV9KdWYxUEV0UUt2bUprLUwyMFJuOTZaTm9sdUdYTFV4YWdVaUFQNmFLTjVvMUdYXzNRZlZGU3lhbnZaUkg2a1lUT3JhYkcxMmNjT0Z5N1oxNl9oLThteE1EODhtY3pZYXQxTmJQVnFTTXhybzNIblduVUdUYVVuaW90czNvamJ1RkMzcmtJdUdMWGVnOVFDNDNMNFFR0gH_AUFVX3lxTE4zYzZjcmlPY2RudVFJcWtYNmI3d1FKQWl6UFJtZDRNSHlMMDZOeVlYM2JPcEhfT1F1VVlzeXlIM0UwTmY1bjB1bWdzYUlCNVVxUURfcm9ITGlxSjk5LVp5QnUxRFg2d3JzV1JsTzVobjdyVFRKcEhjdUdZVXJ5ekV4LW12bHp6ZXVDeEp0Wkk2ZDJWd05QMnlvZTh0YWJwMDJCaXRmSGtqaEc1ejRxNk5sQVJ4SlFLWjBFbkQ0ajdiS1hBR0Q4cDdMRDJRTHBnaXVyd291VG8tRUgzSHdWdUpQTHBRM1dUVXFsM2xNSDdOaWR4RzNXM3BlRndMYlhDSQ?oc=5",
-      "source": "The Times of India",
-      "published": "2026-09-27T23:45:00+00:00",
-      "score": 3.13,
+      "title": "Kuwait-flagged VLCC, Panama-flagged tanker reported hit in Strait of Hormuz, with fires on board - rivieramm.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbWtvSVo0TFBvRjBGUGVkT3loOUhIeU9oNGVkdGxrbjN5Z3RwWlpKajQwUGQxeGdNSjZscVFCVDVXUWU5MEFCbzNKbm5jUEIyYlVYWS1iWm1GSDRuTVBXVVFwRjZVdGR2dXhqSGM4YXVfQVBMdnZ1TkU0WEYweXNEVXlLZEZxdHlaMGxRbXRtUkN3b2doai1JRWFXMVFZckk0LUZmZnhMaG9Ya3RmSVpvNVA0aThYSmUxNWtMWDM5Tmw4Y2FRT0xYMUtn?oc=5",
+      "source": "rivieramm.com",
+      "published": "2026-10-02T14:04:50+00:00",
+      "score": 3.0,
       "tags": [
         "tension"
       ]
@@ -118,10 +98,30 @@
       ]
     },
     {
-      "title": "Tanker catches fire after first Hormuz attack in October - seatrade-maritime.com",
+      "title": "Tanker catches fire after first Hormuz attack in October - Seatrade Maritime News",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd2l6bnM5VmpUSGFFRjhsa0UyREFZcEtlSHpGX2wyVEU2NnI5bEo2QjM3UDU4R1ljQXc3TDlIamJ3Uk1JT1YxS0tJa2dERUpOc2liTGVxQV9kc184X0xaQlF1QTEzekZTbUtySy1WbUdHVU56eXlGUzdtSF9XTGpMbFVUZVpzNE55ZlVKUjNJRE03WnBST2MxMW1vMUp2M0w4?oc=5",
-      "source": "seatrade-maritime.com",
+      "source": "Seatrade Maritime News",
       "published": "2026-10-02T07:53:58+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Trump says Iran \"ready to fold up,\" after threatening post-midterm attacks - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaXNwVUhFZkZrZmxLRFd1QVZwZFFWVjFLcEgxWmNJWnJCMlNnOExuY3BsdWlLaG9HYzF1VjJKYnB6eHlfU1NLZWlUcWhDMmpCVFI1eGczV19kR3kycThHd0ducEtLejdicmJXanhmWWFUcWRJeVVDb28xUlRmTWxPSWRwbXBfRU1uSW1N?oc=5",
+      "source": "CBS News",
+      "published": "2026-10-02T06:19:00+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Fire ignites on tanker in Hormuz after strike by unknown projectile - TradeWinds News",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc2JwaURZc1lBNFBsWE5pemRpeWRkLTg0YWZSeHRmSWhRYmhSUHB3NTZHWnNDS2R3eUptXzJkX2MwSDhvbnFKeGQ5TzJJQmthd1UwZUhfdmJaVFdqSlRtNXRmS2JaYkZZazV5RjZ6cmtJenFyeUZheHBzSUZ6VGNfaHFadVBXb0ZaMHY4SFVQV0xQalBHLWU4SFd2UWxqMDE3d21LekV2bnRvdVc0SGJfUXVhU0REY185U3hBUmZ6UGhRMmZ5?oc=5",
+      "source": "TradeWinds News",
+      "published": "2026-10-02T06:11:05+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -129,7 +129,7 @@
     }
   ],
   "brent": {
-    "price": 99.77,
-    "change_pct": -2.48
+    "price": 102.3,
+    "change_pct": -0.01
   }
 }
