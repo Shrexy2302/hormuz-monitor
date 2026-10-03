@@ -1,17 +1,17 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 90.2,
+  "tension_index": 95.8,
   "closure_signals": 1,
-  "articles_scanned": 235,
-  "updated": "2026-10-03T20:26:27.532384+00:00",
+  "articles_scanned": 228,
+  "updated": "2026-10-03T23:14:20.997746+00:00",
   "headlines": [
     {
       "title": "US targets mine-laying vessels in the Strait of Hormuz amid blockade disrupting global oil markets - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzRPSjlIQTd4QndKdm9CUHk1ZWxIaktfOERjc1A3VHpYMHV0Z1Zkd3dGNURqMFJFR3l4LXo3OU5scG96QXhMd0F5TGthdlVzbmg0QVVHbnktU096TkFWUnc5QU9UV0xvTk1jbDY3eGFJaWZXN19UOEJvbTF6eFdFcW13cWxwdWRDVzU1OEl6c2ctT3ltYVJZN0d1a3hvQdIBowFBVV95cUxPUktnalZhVFFxNkhBTHFVS0tOSVBzVE5rZWFhcHhQUVk5dnlocFVZQWdNeHlNQ2pwY0ctTHp6dkQ1WFh1djJsUkQxZ3RZR3NkbVVJOWNCNTFqdFl5eUpMc044SVlwQVMyeldla2VYZ2FxVG5ud1RvTVlKNVc1d0FMNjZSemNubmdydW5BRE1peGVjdmJNSFF5QVZ2OGtNMTVHY09B?oc=5",
       "source": "ABC News - Breaking News, Latest News and Videos",
       "published": "2026-10-02T09:30:47+00:00",
-      "score": 5.64,
+      "score": 5.54,
       "tags": [
         "closure"
       ]
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Wa1R0YXlISW54NnJiUjJfdEtzcndiQkJKN1otbjFGY2Fmcjd5WjFCel9sSG85bTNCaWtycXp4bDlhY3RmejFBemNESHg0OVk?oc=5",
       "source": "saba.ye",
       "published": "2026-09-28T20:59:26+00:00",
-      "score": 4.7,
+      "score": 4.54,
       "tags": [
         "closure"
       ]
@@ -31,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT0x3Z09lM29LRkZIdU44djFBS1pOYUk5cUVkMHdtNExnZEpiakpfYzVFNnI3VzVkS3dZVDdVZEVFZWpRSHZTcWYyb05Rc3VFWENJcXNTRHE4TnhLa25kVk5aWnpPTEMzNjNKR1lWZGd4Z1dLV3VoUWY0TWtQd1A2U1BQa25WbWJURnFldEVQYUc3VERyaUJv?oc=5",
       "source": "Vietnam.vn",
       "published": "2026-09-29T01:21:21+00:00",
-      "score": 3.95,
+      "score": 3.83,
       "tags": [
         "closure"
       ]
@@ -41,7 +41,7 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcnBYU24zdURyR2s1b1YtTUVzMTNUeHVLNVZJNktjaklESUtpQ2hmcnVpVHRiTUZsM0h2QXVwWW1xXzBua1hvNnRfZy1na1FmV0NRUGZ3RFRfcnZDcEtSVUM3d2R0bjRjaU5uaGNfaTJnMmJsLVZ0Z1o5OWxES2xzQWljUjZDbmFldTQtV1VGX1RtNW1Sdnc0MGdHajBXOTRFbEJj?oc=5",
       "source": "Defence Security Asia",
       "published": "2026-09-27T16:25:28+00:00",
-      "score": 3.73,
+      "score": 3.55,
       "tags": [
         "closure",
         "tension"
@@ -52,15 +52,15 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBraC03bXZWOW4tMmF2anpEUnBHeFZvcXFKdmpnN2s5VkdoQ1VRM1FLYkdjM0F6QTRtdjAxemxTeERTemdJaTBPTy02QWZLa28xSGFrMjVqZFlhRUNHOXkxcjJTcWpxcXJTeExPSUJhMWFZM0NJaVE?oc=5",
       "source": "finance.biggo.com",
       "published": "2026-09-28T01:56:00+00:00",
-      "score": 3.64,
+      "score": 3.48,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Oil tankers attacked in Hormuz strait: UK maritime agency - gulfnews.com",
+      "title": "Oil tankers attacked in Hormuz strait: UK maritime agency - Gulf News",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVFVWaTFVdUE4N2oySEhXLW56RDZYcFBrajBrQmVQXzVUZW5HLVVoZWlqa2IwWkRsaWNlMGxIYjlMblFqYTc1cXBJNDhjdXlhU1lCcWJLT2paQ1AzYVRzZ2xSM0JLSzk4Y0tlcXl6TTNnMUlCSkdlZ0FFNFBfNHMwdGFZQ1psSGx6QWVHSEdjYVFvdEhadEFESVVsTnNSbThtUXfSAbQBQVVfeXFMTV9LTUtEZXkycnIzcVhVVlI1ZE9mSjl2ZjVDQ1FDZXBNUFQ2M0Q2eXU4ZXN0Z3FrTlJjb3BxckRhTVdsa1NTSjJXcWRiMUtvOXFQNHAyUnRuLUZ3MjR4ZlZWTGg0WW9YbFhMN3ZIOUE5OFdkdGhfVGFyZnk1ekNyX05yVUJDdE5LZjFDU3NTc3dIZVhqV3R2MTFzSkNWZlhDMDk4S21wTDc3dW5EWkJnaTBPd3BD?oc=5",
-      "source": "gulfnews.com",
+      "source": "Gulf News",
       "published": "2026-10-03T02:23:25+00:00",
       "score": 3.0,
       "tags": [
@@ -72,7 +72,7 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdDdpWVIxQVR3YUwwU2VJelFEeExoTHJwb0pwRWhRa0NEVnBPeGtTZHhacUVTVTVROGQ3WlNGOURmUW1SeU1YZ0NoSzBEcW5iaGJPeFIwSWxpd0oxMWk1MkJtY2VvYWVZcm1USFBWR2oyR2NTZzk3cjNRbmRvc1Bac0MxRU5yZGdxcVJQMGladUdydk9Lck1HTFg2aHI0WUtpNVFsVHllVjNVYVpzci0wNmd3?oc=5",
       "source": "The Maritime Executive",
       "published": "2026-10-02T21:40:25+00:00",
-      "score": 3.0,
+      "score": 2.97,
       "tags": [
         "tension"
       ]
@@ -82,7 +82,7 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTmcwQWVndXloQUhJSnVWSTgzUWZJaS1GLUlpaWl0RVl3eHhMaHVRMl95TVVfSWJNUTJONy1MNUVRTzFUZThGSnYzTk9FalpqcU50NWNDTGpNQnFFOUtwZFIyQVFIOFlzek43QlVIOXpybVdub2JXQy1OOEo4SnZmdjZ6WWlaUG1HVHc?oc=5",
       "source": "Arab News",
       "published": "2026-10-02T19:17:00+00:00",
-      "score": 2.98,
+      "score": 2.93,
       "tags": [
         "tension"
       ]
@@ -92,7 +92,7 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOWJQSXJTSWY4MTF0MjN6ZTlmN3p4UURzNS0tdFNlM0k0RmFDdnNCdzgtelgzOG5MOU10aHcxRzNCS09wTjhfbElxTmx4dWVkM0ZSU2dWU0FYelhaVFg4djNnX1ZtUG9oMFR6bkFBMDFFSlV1NFN1c2VLOTVBR1FjdHpMN3ZxT25wcXVHSF9CZnYtRVBoVWVaZ3puaVBZcDN4S1lUNmQzME5sVjFLRTdtTmN6SDdqQQ?oc=5",
       "source": "Anadolu Ajans\u0131",
       "published": "2026-10-02T16:14:39+00:00",
-      "score": 2.93,
+      "score": 2.88,
       "tags": [
         "tension"
       ]
@@ -102,7 +102,7 @@
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRExzX0lIX2otMm1aTk93dVpKNlZELUpOblp3b25lbXprNGF5MWhqZFFjVXcxS3VzeVY2QW9HWWxOLXRqSjE5LTdTZGU5eUZkb25JNHoyQmdpN3RjbFNlU2NEYWtLN3U3a25qS2tzS3dYMmNIaFp5aFJvQWhGMnVLbnU5LWhOa0VmeUh6aFIzZG1YSkZrWDljemEyM1BFcWt1YUFwM1o5T0dMd1NPQTNnNVhpWUxMM0VSUkRHMmh3YlJpTjV6RWR3ZjA3TmhfaVQtV0YxUzAwMUZDaUZKcU92ag?oc=5",
       "source": "rivieramm.com",
       "published": "2026-10-02T15:40:39+00:00",
-      "score": 2.92,
+      "score": 2.87,
       "tags": [
         "tension"
       ]
@@ -112,7 +112,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOXhVcndvOGZpOFpEWHkzNzJLdlhUUUpOMlIwN1BKNS1NZTRSMTlsRGtOeEdldFdoODMzS19VYi14R0EwNmJFTnVwbENwOXVHQUJTMkFkb1FDNVFPMncxcF9zVm56ZGVEcFRud3hHZHNhdGhPT2Z5eHE5bXg1UlVLcmhuUWdFY3p6RTRtTlBIa19GWVBoaGdGbnB6a1lvamtaOEVjb2E1eVBadjg?oc=5",
       "source": "energynews.pro",
       "published": "2026-10-02T15:19:03+00:00",
-      "score": 2.91,
+      "score": 2.87,
       "tags": [
         "tension"
       ]
@@ -122,7 +122,7 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUmJNUzZJS3RZUzR1WE9obU1iWDRqY3hhaWd6dnRNdjZpNFVNdEdJSEM5cEYwRkY4TW1kZ29MQllsYkcza1JtLXV6eGRac1p5YTBuSVNGTTduMFJpZUpnNWt3TlNueXptTDR5eXpyMGxtYUN6LTdKa0t0S0RDWHNaNGhFRy03dXZIWEZRZDlkQ0x4TUZSWERDRERqQmprbWZHQzlRVzZQXzRQbEQtb0E?oc=5",
       "source": "Investing.com",
       "published": "2026-10-02T09:26:57+00:00",
-      "score": 2.82,
+      "score": 2.77,
       "tags": [
         "tension"
       ]
