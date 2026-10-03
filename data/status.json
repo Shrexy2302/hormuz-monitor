@@ -1,10 +1,10 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 91.4,
+  "tension_index": 95.4,
   "closure_signals": 2,
-  "articles_scanned": 230,
-  "updated": "2026-10-03T02:10:10.795255+00:00",
+  "articles_scanned": 231,
+  "updated": "2026-10-03T08:23:15.432594+00:00",
   "headlines": [
     {
       "title": "US targets mine-laying vessels in the Strait of Hormuz amid blockade disrupting global oil markets - ABC News - Breaking News, Latest News and Videos",
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Wa1R0YXlISW54NnJiUjJfdEtzcndiQkJKN1otbjFGY2Fmcjd5WjFCel9sSG85bTNCaWtycXp4bDlhY3RmejFBemNESHg0OVk?oc=5",
       "source": "saba.ye",
       "published": "2026-09-28T20:59:26+00:00",
-      "score": 5.71,
+      "score": 5.37,
       "tags": [
         "closure"
       ]
@@ -31,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcnBYU24zdURyR2s1b1YtTUVzMTNUeHVLNVZJNktjaklESUtpQ2hmcnVpVHRiTUZsM0h2QXVwWW1xXzBua1hvNnRfZy1na1FmV0NRUGZ3RFRfcnZDcEtSVUM3d2R0bjRjaU5uaGNfaTJnMmJsLVZ0Z1o5OWxES2xzQWljUjZDbmFldTQtV1VGX1RtNW1Sdnc0MGdHajBXOTRFbEJj?oc=5",
       "source": "Defence Security Asia",
       "published": "2026-09-27T16:25:28+00:00",
-      "score": 4.95,
+      "score": 4.54,
       "tags": [
         "closure",
         "tension"
@@ -42,17 +42,17 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBraC03bXZWOW4tMmF2anpEUnBHeFZvcXFKdmpnN2s5VkdoQ1VRM1FLYkdjM0F6QTRtdjAxemxTeERTemdJaTBPTy02QWZLa28xSGFrMjVqZFlhRUNHOXkxcjJTcWpxcXJTeExPSUJhMWFZM0NJaVE?oc=5",
       "source": "finance.biggo.com",
       "published": "2026-09-28T01:56:00+00:00",
-      "score": 4.65,
+      "score": 4.31,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iran\u2019s IRGC Navy Claims Second US Military Underwater Drone Seized In Strait Of Hormuz - Marine Insight",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ1ROTmZzMnZTUWxkYnF2aXJDT3Vya3JWSG5IbnZtLWxNVFBKY1RfaFdldkZLMW5mZTFDTGsyT2dpM1pJYnowVEN2UUd1MmpHWG5tSlpTSjlSME5vaEtCdUw2Tk13eDdqdmQ1SXNTS0l6aUZBMGxIUGh1bUZLRGMzdFRnVEQ3N1FOcVBoZ0pmLUIwMTFGdUdUek1aX2pFNzl6Qlk2eEY0dF9UNjlXTHNwMjhJUlJVQWs?oc=5",
-      "source": "Marine Insight",
-      "published": "2026-09-28T13:31:56+00:00",
-      "score": 3.18,
+      "title": "Oil tankers attacked in Hormuz strait: UK maritime agency - Gulf News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVFVWaTFVdUE4N2oySEhXLW56RDZYcFBrajBrQmVQXzVUZW5HLVVoZWlqa2IwWkRsaWNlMGxIYjlMblFqYTc1cXBJNDhjdXlhU1lCcWJLT2paQ1AzYVRzZ2xSM0JLSzk4Y0tlcXl6TTNnMUlCSkdlZ0FFNFBfNHMwdGFZQ1psSGx6QWVHSEdjYVFvdEhadEFESVVsTnNSbThtUXfSAbQBQVVfeXFMTV9LTUtEZXkycnIzcVhVVlI1ZE9mSjl2ZjVDQ1FDZXBNUFQ2M0Q2eXU4ZXN0Z3FrTlJjb3BxckRhTVdsa1NTSjJXcWRiMUtvOXFQNHAyUnRuLUZ3MjR4ZlZWTGg0WW9YbFhMN3ZIOUE5OFdkdGhfVGFyZnk1ekNyX05yVUJDdE5LZjFDU3NTc3dIZVhqV3R2MTFzSkNWZlhDMDk4S21wTDc3dW5EWkJnaTBPd3BD?oc=5",
+      "source": "Gulf News",
+      "published": "2026-10-03T02:23:25+00:00",
+      "score": 3.0,
       "tags": [
         "tension"
       ]
@@ -112,7 +112,7 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYWV2UGpVU0djbk9LYXRTZldoU3VzWGVKSnhPWGk1dGhkQmtoZ1liT2t5NWg0bkl3Qk5VRWpBdl9veFhLbFlseWJuQmwzdTc1MnhQZExfQXFYNmM1ZnZYN2xJTTN2aXNuelU0dzh1cEpveXc0eDhLcUlxSjRyYlNXaEVB?oc=5",
       "source": "Splash 24/7",
       "published": "2026-10-02T07:55:42+00:00",
-      "score": 3.0,
+      "score": 2.99,
       "tags": [
         "tension"
       ]
@@ -122,14 +122,14 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd2l6bnM5VmpUSGFFRjhsa0UyREFZcEtlSHpGX2wyVEU2NnI5bEo2QjM3UDU4R1ljQXc3TDlIamJ3Uk1JT1YxS0tJa2dERUpOc2liTGVxQV9kc184X0xaQlF1QTEzekZTbUtySy1WbUdHVU56eXlGUzdtSF9XTGpMbFVUZVpzNE55ZlVKUjNJRE03WnBST2MxMW1vMUp2M0w4?oc=5",
       "source": "Seatrade Maritime News",
       "published": "2026-10-02T07:53:58+00:00",
-      "score": 3.0,
+      "score": 2.99,
       "tags": [
         "tension"
       ]
     }
   ],
   "brent": {
-    "price": 102.7,
-    "change_pct": 0.38
+    "price": 102.25,
+    "change_pct": -0.06
   }
 }
