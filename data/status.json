@@ -1,17 +1,17 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 102.0,
-  "closure_signals": 2,
-  "articles_scanned": 231,
-  "updated": "2026-10-03T13:34:28.788140+00:00",
+  "tension_index": 99.7,
+  "closure_signals": 1,
+  "articles_scanned": 234,
+  "updated": "2026-10-03T17:42:15.631180+00:00",
   "headlines": [
     {
       "title": "US targets mine-laying vessels in the Strait of Hormuz amid blockade disrupting global oil markets - abcnews.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzRPSjlIQTd4QndKdm9CUHk1ZWxIaktfOERjc1A3VHpYMHV0Z1Zkd3dGNURqMFJFR3l4LXo3OU5scG96QXhMd0F5TGthdlVzbmg0QVVHbnktU096TkFWUnc5QU9UV0xvTk1jbDY3eGFJaWZXN19UOEJvbTF6eFdFcW13cWxwdWRDVzU1OEl6c2ctT3ltYVJZN0d1a3hvQdIBowFBVV95cUxPUktnalZhVFFxNkhBTHFVS0tOSVBzVE5rZWFhcHhQUVk5dnlocFVZQWdNeHlNQ2pwY0ctTHp6dkQ1WFh1djJsUkQxZ3RZR3NkbVVJOWNCNTFqdFl5eUpMc044SVlwQVMyeldla2VYZ2FxVG5ud1RvTVlKNVc1d0FMNjZSemNubmdydW5BRE1peGVjdmJNSFF5QVZ2OGtNMTVHY09B?oc=5",
       "source": "abcnews.com",
       "published": "2026-10-02T09:30:47+00:00",
-      "score": 5.86,
+      "score": 5.73,
       "tags": [
         "closure"
       ]
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Wa1R0YXlISW54NnJiUjJfdEtzcndiQkJKN1otbjFGY2Fmcjd5WjFCel9sSG85bTNCaWtycXp4bDlhY3RmejFBemNESHg0OVk?oc=5",
       "source": "saba.ye",
       "published": "2026-09-28T20:59:26+00:00",
-      "score": 5.08,
+      "score": 4.85,
       "tags": [
         "closure"
       ]
@@ -31,17 +31,17 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT0x3Z09lM29LRkZIdU44djFBS1pOYUk5cUVkMHdtNExnZEpiakpfYzVFNnI3VzVkS3dZVDdVZEVFZWpRSHZTcWYyb05Rc3VFWENJcXNTRHE4TnhLa25kVk5aWnpPTEMzNjNKR1lWZGd4Z1dLV3VoUWY0TWtQd1A2U1BQa25WbWJURnFldEVQYUc3VERyaUJv?oc=5",
       "source": "Vietnam.vn",
       "published": "2026-09-29T01:21:21+00:00",
-      "score": 4.26,
+      "score": 4.07,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iran Says It Seized U.S. REMUS 600 Drone in Strait of Hormuz, Raising Mine-Warfare Stakes - Defence Security Asia",
+      "title": "Iran Says It Seized U.S. REMUS 600 Drone in Strait of Hormuz, Raising Mine-Warfare Stakes - defencesecurityasia.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcnBYU24zdURyR2s1b1YtTUVzMTNUeHVLNVZJNktjaklESUtpQ2hmcnVpVHRiTUZsM0h2QXVwWW1xXzBua1hvNnRfZy1na1FmV0NRUGZ3RFRfcnZDcEtSVUM3d2R0bjRjaU5uaGNfaTJnMmJsLVZ0Z1o5OWxES2xzQWljUjZDbmFldTQtV1VGX1RtNW1Sdnc0MGdHajBXOTRFbEJj?oc=5",
-      "source": "Defence Security Asia",
+      "source": "defencesecurityasia.com",
       "published": "2026-09-27T16:25:28+00:00",
-      "score": 4.19,
+      "score": 3.91,
       "tags": [
         "closure",
         "tension"
@@ -52,7 +52,7 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBraC03bXZWOW4tMmF2anpEUnBHeFZvcXFKdmpnN2s5VkdoQ1VRM1FLYkdjM0F6QTRtdjAxemxTeERTemdJaTBPTy02QWZLa28xSGFrMjVqZFlhRUNHOXkxcjJTcWpxcXJTeExPSUJhMWFZM0NJaVE?oc=5",
       "source": "finance.biggo.com",
       "published": "2026-09-28T01:56:00+00:00",
-      "score": 4.02,
+      "score": 3.79,
       "tags": [
         "closure"
       ]
@@ -88,11 +88,21 @@
       ]
     },
     {
+      "title": "Tanker struck by unknown projectile in Strait of Hormuz: UK maritime agency - Anadolu Ajans\u0131",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOWJQSXJTSWY4MTF0MjN6ZTlmN3p4UURzNS0tdFNlM0k0RmFDdnNCdzgtelgzOG5MOU10aHcxRzNCS09wTjhfbElxTmx4dWVkM0ZSU2dWU0FYelhaVFg4djNnX1ZtUG9oMFR6bkFBMDFFSlV1NFN1c2VLOTVBR1FjdHpMN3ZxT25wcXVHSF9CZnYtRVBoVWVaZ3puaVBZcDN4S1lUNmQzME5sVjFLRTdtTmN6SDdqQQ?oc=5",
+      "source": "Anadolu Ajans\u0131",
+      "published": "2026-10-02T16:14:39+00:00",
+      "score": 2.98,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
       "title": "Kuwait-flagged VLCC, Panama-flagged tanker reported hit in Strait of Hormuz, with fires on board - rivieramm.com",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRExzX0lIX2otMm1aTk93dVpKNlZELUpOblp3b25lbXprNGF5MWhqZFFjVXcxS3VzeVY2QW9HWWxOLXRqSjE5LTdTZGU5eUZkb25JNHoyQmdpN3RjbFNlU2NEYWtLN3U3a25qS2tzS3dYMmNIaFp5aFJvQWhGMnVLbnU5LWhOa0VmeUh6aFIzZG1YSkZrWDljemEyM1BFcWt1YUFwM1o5T0dMd1NPQTNnNVhpWUxMM0VSUkRHMmh3YlJpTjV6RWR3ZjA3TmhfaVQtV0YxUzAwMUZDaUZKcU92ag?oc=5",
       "source": "rivieramm.com",
       "published": "2026-10-02T15:40:39+00:00",
-      "score": 3.0,
+      "score": 2.97,
       "tags": [
         "tension"
       ]
@@ -102,7 +112,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOXhVcndvOGZpOFpEWHkzNzJLdlhUUUpOMlIwN1BKNS1NZTRSMTlsRGtOeEdldFdoODMzS19VYi14R0EwNmJFTnVwbENwOXVHQUJTMkFkb1FDNVFPMncxcF9zVm56ZGVEcFRud3hHZHNhdGhPT2Z5eHE5bXg1UlVLcmhuUWdFY3p6RTRtTlBIa19GWVBoaGdGbnB6a1lvamtaOEVjb2E1eVBadjg?oc=5",
       "source": "energynews.pro",
       "published": "2026-10-02T15:19:03+00:00",
-      "score": 3.0,
+      "score": 2.96,
       "tags": [
         "tension"
       ]
@@ -112,17 +122,7 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUmJNUzZJS3RZUzR1WE9obU1iWDRqY3hhaWd6dnRNdjZpNFVNdEdJSEM5cEYwRkY4TW1kZ29MQllsYkcza1JtLXV6eGRac1p5YTBuSVNGTTduMFJpZUpnNWt3TlNueXptTDR5eXpyMGxtYUN6LTdKa0t0S0RDWHNaNGhFRy03dXZIWEZRZDlkQ0x4TUZSWERDRERqQmprbWZHQzlRVzZQXzRQbEQtb0E?oc=5",
       "source": "Investing.com",
       "published": "2026-10-02T09:26:57+00:00",
-      "score": 2.93,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Fresh attacks hit Hormuz tanker and Saudi oil gateway - Splash 24/7",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYWV2UGpVU0djbk9LYXRTZldoU3VzWGVKSnhPWGk1dGhkQmtoZ1liT2t5NWg0bkl3Qk5VRWpBdl9veFhLbFlseWJuQmwzdTc1MnhQZExfQXFYNmM1ZnZYN2xJTTN2aXNuelU0dzh1cEpveXc0eDhLcUlxSjRyYlNXaEVB?oc=5",
-      "source": "Splash 24/7",
-      "published": "2026-10-02T07:55:42+00:00",
-      "score": 2.91,
+      "score": 2.86,
       "tags": [
         "tension"
       ]
