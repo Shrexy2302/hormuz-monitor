@@ -1,10 +1,10 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 101.9,
-  "closure_signals": 2,
-  "articles_scanned": 231,
-  "updated": "2026-10-04T09:12:13.098544+00:00",
+  "tension_index": 57.0,
+  "closure_signals": 1,
+  "articles_scanned": 232,
+  "updated": "2026-10-04T14:54:15.585177+00:00",
   "headlines": [
     {
       "title": "Hegseth says US blockade of Strait of Hormuz \u2018ironclad\u2019 - The Times of Israel",
@@ -17,13 +17,13 @@
       ]
     },
     {
-      "title": "US targets mine-laying vessels in the Strait of Hormuz amid blockade disrupting global oil markets - abcnews.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzRPSjlIQTd4QndKdm9CUHk1ZWxIaktfOERjc1A3VHpYMHV0Z1Zkd3dGNURqMFJFR3l4LXo3OU5scG96QXhMd0F5TGthdlVzbmg0QVVHbnktU096TkFWUnc5QU9UV0xvTk1jbDY3eGFJaWZXN19UOEJvbTF6eFdFcW13cWxwdWRDVzU1OEl6c2ctT3ltYVJZN0d1a3hvQdIBowFBVV95cUxPUktnalZhVFFxNkhBTHFVS0tOSVBzVE5rZWFhcHhQUVk5dnlocFVZQWdNeHlNQ2pwY0ctTHp6dkQ1WFh1djJsUkQxZ3RZR3NkbVVJOWNCNTFqdFl5eUpMc044SVlwQVMyeldla2VYZ2FxVG5ud1RvTVlKNVc1d0FMNjZSemNubmdydW5BRE1peGVjdmJNSFF5QVZ2OGtNMTVHY09B?oc=5",
-      "source": "abcnews.com",
-      "published": "2026-10-02T09:30:47+00:00",
-      "score": 5.21,
+      "title": "Iran is increasing its missile range as conflict with US, Israel drags on - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNVdvQWNydDREWUJqdGtUT2pJanFnSXUxaXhIVTNoV0VBUmt0bXNEZ0F1Yjl3YWVVak5PY0dlaUZjUDN2ZzFZVWhiRGhpVWFUeDZQdGN3Ynp6MGdDZjhVS1ZwWTVvbTlHYVVqUlhqWUpzWUp6Sm82Wlczb1dkWFd1dGNlX3dfMURweGJBVWxBbEROWlZ0bVFub3Z0SEdzc3g3a3NwMklaX3NINVhhYzM4bnRSUkRxenBnY3hIaXF0TGk2bDFnU1NBNDgtUnlnQjNTR194Y2RCTklBSnF0MWRGQTlPakdtb2tVaGxr0gHrAUFVX3lxTE81V29BY3J0NERZQmp0a1RPaklqcWdJdTFpeEhVM2hXRUFSa3Rtc0RnQXViOXdhZVVqTk9jR2VpRmNQM3ZnMVlVaGJEaGlVYVR4NlB0Y3dienowZ0NmOFVLVnBZNW9tOUdhVWpSWGpZSnNZSnpKbzZaVzNvV2RYV3V0Y2Vfd18xRHB4YkFVbEFsRE5aVnRtUW5vdnRIR3NzeDdrc3AySVpfc0g1WGFjMzhudFJSRHF6cGdjeEhpcXRMaTZsMWdTU0E0OC1SeWdCM1NHX3hjZEJOSUFKcXQxZEZBOU9qR21va1VobGs?oc=5",
+      "source": "India Today",
+      "published": "2026-10-04T12:47:16+00:00",
+      "score": 4.0,
       "tags": [
-        "closure"
+        "tension"
       ]
     },
     {
@@ -31,39 +31,49 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Wa1R0YXlISW54NnJiUjJfdEtzcndiQkJKN1otbjFGY2Fmcjd5WjFCel9sSG85bTNCaWtycXp4bDlhY3RmejFBemNESHg0OVk?oc=5",
       "source": "saba.ye",
       "published": "2026-09-28T20:59:26+00:00",
-      "score": 3.99,
+      "score": 3.67,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "How Gulf states are circumventing Iran's blockade of the Strait of Hormuz. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT0x3Z09lM29LRkZIdU44djFBS1pOYUk5cUVkMHdtNExnZEpiakpfYzVFNnI3VzVkS3dZVDdVZEVFZWpRSHZTcWYyb05Rc3VFWENJcXNTRHE4TnhLa25kVk5aWnpPTEMzNjNKR1lWZGd4Z1dLV3VoUWY0TWtQd1A2U1BQa25WbWJURnFldEVQYUc3VERyaUJv?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-09-29T01:21:21+00:00",
-      "score": 3.38,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Tanker in Strait of Hormuz struck by projectile but crew reportedly safe, British maritime agency says - The Times of Israel",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObWVVSlprQ0F4YjZCRGFKRTFCdXp1Tk9rdHJXMWFXaUhnZ0JVM3VlVjdFZERHRks3RF9GM1h6RDkwZ2ZWS3lPSWZHOVJIWFR3dVQ0aWROMjFlNWlpSWFoWlM1ZTNmLTBLYkJJRTcwV1MyaFN6N1dac044TGJaSnFZTEROVDJEZWZ0Uy1UZXRkVHl0VzZYZDQ4X1l0eUIyTjR3Y0Qyb3VBeTVlRXB2NmpUb1FBWEE1SXZjUGJCUGZkYkpmc0lIQktqeGU0MDBIQUZ5TmdVUGpHYVRxUjd6VkpMVQ?oc=5",
-      "source": "The Times of Israel",
-      "published": "2026-10-04T08:58:59+00:00",
+      "title": "Iran vows to keep Strait of Hormuz closed until the US meets 7 demands in new warning - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE00c0QyMG05UWg4a2xzblVMMm9ON3JHZ1Zid0tYM0FTcDBvQ2NJOVVmMG5MeTFvREo0VHJOTW9lQzYzWW5WMFIzVXJlVXBWQlRGeEQxWExzcHh4SkZQM2QyQWpocFZQazhXZ1ljNEhHR3dYV0pMbVRwTEhwMm8?oc=5",
+      "source": "AOL.com",
+      "published": "2026-10-04T13:17:04+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Strait of Hormuz Blocked for Six Months \u2014 Why Haven't Oil Prices Surged as Expected? - finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBraC03bXZWOW4tMmF2anpEUnBHeFZvcXFKdmpnN2s5VkdoQ1VRM1FLYkdjM0F6QTRtdjAxemxTeERTemdJaTBPTy02QWZLa28xSGFrMjVqZFlhRUNHOXkxcjJTcWpxcXJTeExPSUJhMWFZM0NJaVE?oc=5",
-      "source": "finance.biggo.com",
-      "published": "2026-09-28T01:56:00+00:00",
-      "score": 2.93,
+      "title": "Tanker damaged after attack in Strait of Hormuz: Maritime agency - Al Arabiya English",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd0k3LTBqcmZ5QWlsbG5EWXU3UDFpdFdJTzRmUVhoWVFfVW5mb3pvWENlcDdVWnZXaXM1ZENGa2pMR19OQm5kRmZTbFUtNG9HeUE5RTZyMmpCRDZraE1LRU5wLTRrUTRVcEtXVUg0YXZsV0xBVWYwb2p2Qm9Rc2hzTmF5WDlmRzNmVTNyLUh6cXZhTEsyQ205MHpnQzlaZGJ1MHNud3pzck9RSjRHcW8tM2pQZVlaYnJ2NmZTYTliUWxQZ2PSAcMBQVVfeXFMT3dJNy0wanJmeUFpbGxuRFl1N1AxaXRXSU80ZlFYaFlRX1VuZm96b1hDZXA3VVp2V2lzNWRDRmtqTEdfTkJuZEZmU2xVLTRvR3lBOUU2cjJqQkQ2a2hNS0VOcC00a1E0VXBLV1VINGF2bFdMQVVmMG9qdkJvUXNoc05heVg5ZkczZlUzci1IenF2YUxLMkNtOTB6Z0M5WmRidTBzbnd6c3JPUUo0R3FvLTNqUGVZWmJydjZmU2E5YlFsUGdj?oc=5",
+      "source": "Al Arabiya English",
+      "published": "2026-10-04T12:46:00+00:00",
+      "score": 3.0,
       "tags": [
-        "closure"
+        "tension"
+      ]
+    },
+    {
+      "title": "Tanker in Strait of Hormuz struck by projectile but crew reportedly safe, British maritime agency says - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObWVVSlprQ0F4YjZCRGFKRTFCdXp1Tk9rdHJXMWFXaUhnZ0JVM3VlVjdFZERHRks3RF9GM1h6RDkwZ2ZWS3lPSWZHOVJIWFR3dVQ0aWROMjFlNWlpSWFoWlM1ZTNmLTBLYkJJRTcwV1MyaFN6N1dac044TGJaSnFZTEROVDJEZWZ0Uy1UZXRkVHl0VzZYZDQ4X1l0eUIyTjR3Y0Qyb3VBeTVlRXB2NmpUb1FBWEE1SXZjUGJCUGZkYkpmc0lIQktqeGU0MDBIQUZ5TmdVUGpHYVRxUjd6VkpMVQ?oc=5",
+      "source": "The Times of Israel",
+      "published": "2026-10-04T10:17:46+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Tanker damaged after attack in Hormuz: maritime agency - Arab News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMmxpc2RieUhldGZnZ1RsdjBjWkpBVmdzS1M5U3JBZ3B1WWQxbWh6UEpFMF8zbEhlSXkxNVRrQTg4QmZCQ1J0cnFlTjNabHJySjd1ZlB1RnAzX2lKSFdxaGdSYlJtMFFpRFNSczN2SjF1YlVGemN2SUtuNTJPVDQ2MlBvU2FJSHZYdlBydklTZHRvaU1COE1JekgtaE1PaWc?oc=5",
+      "source": "Arab News",
+      "published": "2026-10-04T09:21:44+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
       ]
     },
     {
@@ -71,7 +81,7 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWUZQaVpXXzlJMzlpTW9XLTl0OGhmYmV1UzI4b3lqM2VpY3Y0OEMwYzY3RWx1OHBCQXZfSlVqdUNXTXk5cE9NQzhaaVdJeGRpYXhxVkNkOTNlRzFpd3hBSVZ3ZTZlcFZSNl9fcFE3VmdJQ1dURlNOX3R3Nk1hZC11b1AzWEdabjd4dXpHbkJya21pZmZtcmF2Tlc3OG91NEdjTnQ3ay1USHlIekNTQ0xVOFVyMNIBuwFBVV95cUxPOGl6N3NDSFlickFaYXZmSFdua2tuSnNJOVBDVTIyVW5BaVJBNnJ1TnhLU0IxbXhfMDJMSnAzRnFoTTNsbk5PaHdXRGlTLW0tR25jYnZoZnBjRmxrZ2hFTXVoQkExQWtwWHQ5cjF4QVBFcG5CWHRGRkNSNW9KNnhoaklZSkdCLTBTaHBlYmNnSS1FZjIxc0VOUjJaOHRhVEM4dnQwS0dPN3B1YUFWRWxCYlk3Rkx1Z291NDB3?oc=5",
       "source": "NDTV",
       "published": "2026-10-03T02:34:41+00:00",
-      "score": 2.89,
+      "score": 2.79,
       "tags": [
         "tension"
       ]
@@ -81,19 +91,8 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVFVWaTFVdUE4N2oySEhXLW56RDZYcFBrajBrQmVQXzVUZW5HLVVoZWlqa2IwWkRsaWNlMGxIYjlMblFqYTc1cXBJNDhjdXlhU1lCcWJLT2paQ1AzYVRzZ2xSM0JLSzk4Y0tlcXl6TTNnMUlCSkdlZ0FFNFBfNHMwdGFZQ1psSGx6QWVHSEdjYVFvdEhadEFESVVsTnNSbThtUXfSAbQBQVVfeXFMTV9LTUtEZXkycnIzcVhVVlI1ZE9mSjl2ZjVDQ1FDZXBNUFQ2M0Q2eXU4ZXN0Z3FrTlJjb3BxckRhTVdsa1NTSjJXcWRiMUtvOXFQNHAyUnRuLUZ3MjR4ZlZWTGg0WW9YbFhMN3ZIOUE5OFdkdGhfVGFyZnk1ekNyX05yVUJDdE5LZjFDU3NTc3dIZVhqV3R2MTFzSkNWZlhDMDk4S21wTDc3dW5EWkJnaTBPd3BD?oc=5",
       "source": "Gulf News",
       "published": "2026-10-03T02:23:25+00:00",
-      "score": 2.89,
+      "score": 2.79,
       "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran Says It Seized U.S. REMUS 600 Drone in Strait of Hormuz, Raising Mine-Warfare Stakes - Defence Security Asia",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcnBYU24zdURyR2s1b1YtTUVzMTNUeHVLNVZJNktjaklESUtpQ2hmcnVpVHRiTUZsM0h2QXVwWW1xXzBua1hvNnRfZy1na1FmV0NRUGZ3RFRfcnZDcEtSVUM3d2R0bjRjaU5uaGNfaTJnMmJsLVZ0Z1o5OWxES2xzQWljUjZDbmFldTQtV1VGX1RtNW1Sdnc0MGdHajBXOTRFbEJj?oc=5",
-      "source": "Defence Security Asia",
-      "published": "2026-09-27T16:25:28+00:00",
-      "score": 2.88,
-      "tags": [
-        "closure",
         "tension"
       ]
     },
@@ -102,7 +101,7 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdDdpWVIxQVR3YUwwU2VJelFEeExoTHJwb0pwRWhRa0NEVnBPeGtTZHhacUVTVTVROGQ3WlNGOURmUW1SeU1YZ0NoSzBEcW5iaGJPeFIwSWxpd0oxMWk1MkJtY2VvYWVZcm1USFBWR2oyR2NTZzk3cjNRbmRvc1Bac0MxRU5yZGdxcVJQMGladUdydk9Lck1HTFg2aHI0WUtpNVFsVHllVjNVYVpzci0wNmd3?oc=5",
       "source": "The Maritime Executive",
       "published": "2026-10-02T21:40:25+00:00",
-      "score": 2.81,
+      "score": 2.71,
       "tags": [
         "tension"
       ]
@@ -112,17 +111,17 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTmcwQWVndXloQUhJSnVWSTgzUWZJaS1GLUlpaWl0RVl3eHhMaHVRMl95TVVfSWJNUTJONy1MNUVRTzFUZThGSnYzTk9FalpqcU50NWNDTGpNQnFFOUtwZFIyQVFIOFlzek43QlVIOXpybVdub2JXQy1OOEo4SnZmdjZ6WWlaUG1HVHc?oc=5",
       "source": "Arab News",
       "published": "2026-10-02T19:17:00+00:00",
-      "score": 2.77,
+      "score": 2.67,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Tanker attacked in Strait of Hormuz, says UK maritime agency - The Straits Times",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLWZtV2lteFJTYlVuenRkVU9BbnRXNjR1MWdBczVFdTZMQmsweTkyd0tjcGVyWW5sclNNbnZXMThhSkoxTDI5bDJrMFVyRmNSNjk5TlhSYmVEak1oR3h4OUp5MzZRZ2VBWmtXeGZKZHpfSTB3VHVueTR0TFRpM2JKZ1liSE5Nb0dwLTI3VENUaTBGWEJ6VFBPR2dmZk9OV0tlU0xjSDN4ZmFqdw?oc=5",
-      "source": "The Straits Times",
-      "published": "2026-10-02T18:17:00+00:00",
-      "score": 2.75,
+      "title": "Kuwait-flagged VLCC, Panama-flagged tanker reported hit in Strait of Hormuz, with fires on board - rivieramm.com",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRExzX0lIX2otMm1aTk93dVpKNlZELUpOblp3b25lbXprNGF5MWhqZFFjVXcxS3VzeVY2QW9HWWxOLXRqSjE5LTdTZGU5eUZkb25JNHoyQmdpN3RjbFNlU2NEYWtLN3U3a25qS2tzS3dYMmNIaFp5aFJvQWhGMnVLbnU5LWhOa0VmeUh6aFIzZG1YSkZrWDljemEyM1BFcWt1YUFwM1o5T0dMd1NPQTNnNVhpWUxMM0VSUkRHMmh3YlJpTjV6RWR3ZjA3TmhfaVQtV0YxUzAwMUZDaUZKcU92ag?oc=5",
+      "source": "rivieramm.com",
+      "published": "2026-10-02T15:40:39+00:00",
+      "score": 2.61,
       "tags": [
         "tension"
       ]
