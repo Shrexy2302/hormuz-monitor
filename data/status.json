@@ -1,10 +1,10 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 57.0,
+  "tension_index": 40.3,
   "closure_signals": 1,
-  "articles_scanned": 232,
-  "updated": "2026-10-04T14:54:15.585177+00:00",
+  "articles_scanned": 235,
+  "updated": "2026-10-04T18:29:20.889952+00:00",
   "headlines": [
     {
       "title": "Hegseth says US blockade of Strait of Hormuz \u2018ironclad\u2019 - The Times of Israel",
@@ -31,16 +31,16 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Wa1R0YXlISW54NnJiUjJfdEtzcndiQkJKN1otbjFGY2Fmcjd5WjFCel9sSG85bTNCaWtycXp4bDlhY3RmejFBemNESHg0OVk?oc=5",
       "source": "saba.ye",
       "published": "2026-09-28T20:59:26+00:00",
-      "score": 3.67,
+      "score": 3.47,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iran vows to keep Strait of Hormuz closed until the US meets 7 demands in new warning - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE00c0QyMG05UWg4a2xzblVMMm9ON3JHZ1Zid0tYM0FTcDBvQ2NJOVVmMG5MeTFvREo0VHJOTW9lQzYzWW5WMFIzVXJlVXBWQlRGeEQxWExzcHh4SkZQM2QyQWpocFZQazhXZ1ljNEhHR3dYV0pMbVRwTEhwMm8?oc=5",
-      "source": "AOL.com",
-      "published": "2026-10-04T13:17:04+00:00",
+      "title": "Oil Was Pouring Through the Strait of Hormuz Again. Then Attacks on Shipping Resurged. - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTjJfTkxZb2p6amNPb0RqQndLX19NdjRCVGVoTjlPbl9Dd256T3R4ZkgwRUwxU1UxLVNNZEsyRnJQcXJGWXotdDAyZWlGR09IWkg0UHhQRDc3eHphNXpnZWdaNGN6Y29COVFZWXZUUU1sS3YtMmpzVngtQjg5NW1zczBMYUhPclB3czBlOUtTcXU0RmJUY21uZ3diOWJNRkVtamVGX1pQbUVPRFFDNmxBQWRDMUhRUGVmbTdDdW1MeFdvb1I3QzNpZHZCSQ?oc=5",
+      "source": "WSJ",
+      "published": "2026-10-04T17:08:00+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -81,7 +81,7 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWUZQaVpXXzlJMzlpTW9XLTl0OGhmYmV1UzI4b3lqM2VpY3Y0OEMwYzY3RWx1OHBCQXZfSlVqdUNXTXk5cE9NQzhaaVdJeGRpYXhxVkNkOTNlRzFpd3hBSVZ3ZTZlcFZSNl9fcFE3VmdJQ1dURlNOX3R3Nk1hZC11b1AzWEdabjd4dXpHbkJya21pZmZtcmF2Tlc3OG91NEdjTnQ3ay1USHlIekNTQ0xVOFVyMNIBuwFBVV95cUxPOGl6N3NDSFlickFaYXZmSFdua2tuSnNJOVBDVTIyVW5BaVJBNnJ1TnhLU0IxbXhfMDJMSnAzRnFoTTNsbk5PaHdXRGlTLW0tR25jYnZoZnBjRmxrZ2hFTXVoQkExQWtwWHQ5cjF4QVBFcG5CWHRGRkNSNW9KNnhoaklZSkdCLTBTaHBlYmNnSS1FZjIxc0VOUjJaOHRhVEM4dnQwS0dPN3B1YUFWRWxCYlk3Rkx1Z291NDB3?oc=5",
       "source": "NDTV",
       "published": "2026-10-03T02:34:41+00:00",
-      "score": 2.79,
+      "score": 2.73,
       "tags": [
         "tension"
       ]
@@ -91,7 +91,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVFVWaTFVdUE4N2oySEhXLW56RDZYcFBrajBrQmVQXzVUZW5HLVVoZWlqa2IwWkRsaWNlMGxIYjlMblFqYTc1cXBJNDhjdXlhU1lCcWJLT2paQ1AzYVRzZ2xSM0JLSzk4Y0tlcXl6TTNnMUlCSkdlZ0FFNFBfNHMwdGFZQ1psSGx6QWVHSEdjYVFvdEhadEFESVVsTnNSbThtUXfSAbQBQVVfeXFMTV9LTUtEZXkycnIzcVhVVlI1ZE9mSjl2ZjVDQ1FDZXBNUFQ2M0Q2eXU4ZXN0Z3FrTlJjb3BxckRhTVdsa1NTSjJXcWRiMUtvOXFQNHAyUnRuLUZ3MjR4ZlZWTGg0WW9YbFhMN3ZIOUE5OFdkdGhfVGFyZnk1ekNyX05yVUJDdE5LZjFDU3NTc3dIZVhqV3R2MTFzSkNWZlhDMDk4S21wTDc3dW5EWkJnaTBPd3BD?oc=5",
       "source": "Gulf News",
       "published": "2026-10-03T02:23:25+00:00",
-      "score": 2.79,
+      "score": 2.73,
       "tags": [
         "tension"
       ]
@@ -101,7 +101,7 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdDdpWVIxQVR3YUwwU2VJelFEeExoTHJwb0pwRWhRa0NEVnBPeGtTZHhacUVTVTVROGQ3WlNGOURmUW1SeU1YZ0NoSzBEcW5iaGJPeFIwSWxpd0oxMWk1MkJtY2VvYWVZcm1USFBWR2oyR2NTZzk3cjNRbmRvc1Bac0MxRU5yZGdxcVJQMGladUdydk9Lck1HTFg2aHI0WUtpNVFsVHllVjNVYVpzci0wNmd3?oc=5",
       "source": "The Maritime Executive",
       "published": "2026-10-02T21:40:25+00:00",
-      "score": 2.71,
+      "score": 2.65,
       "tags": [
         "tension"
       ]
@@ -111,7 +111,7 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTmcwQWVndXloQUhJSnVWSTgzUWZJaS1GLUlpaWl0RVl3eHhMaHVRMl95TVVfSWJNUTJONy1MNUVRTzFUZThGSnYzTk9FalpqcU50NWNDTGpNQnFFOUtwZFIyQVFIOFlzek43QlVIOXpybVdub2JXQy1OOEo4SnZmdjZ6WWlaUG1HVHc?oc=5",
       "source": "Arab News",
       "published": "2026-10-02T19:17:00+00:00",
-      "score": 2.67,
+      "score": 2.61,
       "tags": [
         "tension"
       ]
@@ -121,7 +121,7 @@
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRExzX0lIX2otMm1aTk93dVpKNlZELUpOblp3b25lbXprNGF5MWhqZFFjVXcxS3VzeVY2QW9HWWxOLXRqSjE5LTdTZGU5eUZkb25JNHoyQmdpN3RjbFNlU2NEYWtLN3U3a25qS2tzS3dYMmNIaFp5aFJvQWhGMnVLbnU5LWhOa0VmeUh6aFIzZG1YSkZrWDljemEyM1BFcWt1YUFwM1o5T0dMd1NPQTNnNVhpWUxMM0VSUkRHMmh3YlJpTjV6RWR3ZjA3TmhfaVQtV0YxUzAwMUZDaUZKcU92ag?oc=5",
       "source": "rivieramm.com",
       "published": "2026-10-02T15:40:39+00:00",
-      "score": 2.61,
+      "score": 2.55,
       "tags": [
         "tension"
       ]
