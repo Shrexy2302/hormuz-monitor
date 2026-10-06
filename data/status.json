@@ -1,17 +1,17 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 99.7,
+  "tension_index": 108.0,
   "closure_signals": 2,
-  "articles_scanned": 227,
-  "updated": "2026-10-06T16:05:17.589353+00:00",
+  "articles_scanned": 225,
+  "updated": "2026-10-06T21:05:23.761147+00:00",
   "headlines": [
     {
       "title": "Iran Says Strait of Hormuz Is Closed, But Oil Flows Tell a Different Story | Dawn News English - Dawn",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE05R2ZWY2RsaFB6VWNoVFIzTFVwUS1qZkhqc2pibnJtekJySG5NaGxCNVd2eXF2X29qYmFRb1FocVJmREU1OWhN?oc=5",
       "source": "Dawn",
       "published": "2026-10-05T13:10:14+00:00",
-      "score": 9.84,
+      "score": 9.56,
       "tags": [
         "closure"
       ]
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVGU4NnBiNEotamlDUDlDZXBiLXBsWnF5S2hxb3RadWxiTjFvWTYtUVJXalI5Wmk2RS0xM3FuRXMxQ2liNy11XzhiN0c3SU5TZDVDUzZrZTJWUEdVU0dKb21kR2tUMkpvcUZBLXp3bEo4MnhzYjJraUthNU5Nb3A3Yk1xQWVsbWx6VnRqWGlILXpkVEFPZ0ZLWUVORjhyVXVE?oc=5",
       "source": "The Times of Israel",
       "published": "2026-10-04T15:12:12+00:00",
-      "score": 6.89,
+      "score": 6.67,
       "tags": [
         "closure"
       ]
@@ -41,7 +41,7 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnJteHI2dzRpcmRpS3dyTEJ5aFdnR1hMT0dWLVBWY2l5WVRwWnZxaGV5M1Z1ZHZKN1pOY2UyTk5sT0FIOVozWUE3MnRRVnJLQXdvZ011TThPQlNJblRjN3J0R0pGTnVJYllXTlIzQncyai1HYWVxNS1kVEwzOTJ6T1paUGN3c0FHQkptZnZuNGZJdnJmN3c?oc=5",
       "source": "NBC News",
       "published": "2026-10-05T13:32:38+00:00",
-      "score": 3.94,
+      "score": 3.83,
       "tags": [
         "tension"
       ]
@@ -51,7 +51,67 @@
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNVdvQWNydDREWUJqdGtUT2pJanFnSXUxaXhIVTNoV0VBUmt0bXNEZ0F1Yjl3YWVVak5PY0dlaUZjUDN2ZzFZVWhiRGhpVWFUeDZQdGN3Ynp6MGdDZjhVS1ZwWTVvbTlHYVVqUlhqWUpzWUp6Sm82Wlczb1dkWFd1dGNlX3dfMURweGJBVWxBbEROWlZ0bVFub3Z0SEdzc3g3a3NwMklaX3NINVhhYzM4bnRSUkRxenBnY3hIaXF0TGk2bDFnU1NBNDgtUnlnQjNTR194Y2RCTklBSnF0MWRGQTlPakdtb2tVaGxr0gHrAUFVX3lxTE81V29BY3J0NERZQmp0a1RPaklqcWdJdTFpeEhVM2hXRUFSa3Rtc0RnQXViOXdhZVVqTk9jR2VpRmNQM3ZnMVlVaGJEaGlVYVR4NlB0Y3dienowZ0NmOFVLVnBZNW9tOUdhVWpSWGpZSnNZSnpKbzZaVzNvV2RYV3V0Y2Vfd18xRHB4YkFVbEFsRE5aVnRtUW5vdnRIR3NzeDdrc3AySVpfc0g1WGFjMzhudFJSRHF6cGdjeEhpcXRMaTZsMWdTU0E0OC1SeWdCM1NHX3hjZEJOSUFKcXQxZEZBOU9qR21va1VobGs?oc=5",
       "source": "India Today",
       "published": "2026-10-04T12:47:16+00:00",
-      "score": 3.39,
+      "score": 3.28,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Energy briefs\u2013Ships still struck in Strait of Hormuz - Oklahoma Energy Today",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbjF2N1R5VDJibU5YS0ZEeDFfekc5cDY5SC1RUWRCaGQ1UThoTmoyZjZvUTVTdkZfQ2lYdDFoNTBHeDdHWUdnanhOUTZ5U2wwVktCeFhqeVB6UU9Fc1JudzBtWUFpaUIwSWEyTHR1SGZNZnlkeHJjLXM5UDlpYnlKYnMtckVoMDJCZmpIc090R2I?oc=5",
+      "source": "Oklahoma Energy Today",
+      "published": "2026-10-06T19:27:33+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "12 Seafarers Injured in Attack on LR2 Tanker in Strait of Hormuz - The Maritime Executive",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNmtqRG9GZG1iTkJ6M0hRMTNUbGc4SUdWVjBGM3Y1UG9UcDYzbDg0c3EzMzc5NlpXWHUyeFFnUG5OcGlzd0RSQXFhMHN0UXFzZTNMUjRPemtpMmpYZ3RrSC1QZnBnOFVYTGJINUhQX25iYVp3cU5scERUbEIydFJnQW5iLW5yLUY4TFlwSC1vc0I5M2FzREk1eHhaZWRYZmsyaE9UVzhn?oc=5",
+      "source": "The Maritime Executive",
+      "published": "2026-10-06T18:27:03+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Twelve injured in attack on oil tanker passing through Hormuz Strait - The Arab Weekly",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMWFSTlU1ZGF1cGZMMHdNOUF1cFczVWpPLXB0YjlFVlpPdndiazJjYXFnTnF4RTZUR0tEOHhSZW5iNFcyNlpMRWNqUzEtaUpJYjZVbGtMUDByc3dhV3Z6ak9NVmFyQVlMSlYtcHJWUkRaSmZuMmd6cDdoZGZKUEV4aDV5UTJ6SUhtUDZlOEtTZlYxdw?oc=5",
+      "source": "The Arab Weekly",
+      "published": "2026-10-06T17:32:31+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran Ramps Up Ship Attacks in Hormuz as Oil, Gas Flows Climb - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaldhaVNSd1pLZW5wZEhJZTk0YXhjdlg2SWhuN2VFcEZiREMxOENpSG5SSnZlOUUwZ21xZ1lMOU5OZ3pBRWh1YkR2b2hYVVhNdDZ1Mjc2UmNhZWZOS29EV000NWRiTFY5ekVTN0dKMFk1VHpfQmZkTjFCRFRYc0d3QVhVeHFNMzQwZ1gtem9xUU03cTZZQ09JZV9nc1o5b3k0ZjRzX29ueHFuTzVzNmU2RDdPcHA?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-10-06T16:18:10+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks - CNBC Africa",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWE04Vjc4aENGTV8tR0dpSS1aTEJTZ2hpUzdIRDZ2RXlFNzZXOVY3NGwtczlaeEUwdEpGWW5MOGtKT05YTzc3LV9JRDAwQ1h0MFNOc1IyYmNab1l1Y2hyM3hTak8wY3p4SE8tYkkxMlIwczVnT0U4bjY5ejRVWldJRmdSYnJwQV96R3dtQzM1NjJ3N3AtYmxUT0MzOEw0dTYtZ3I2Rm4yR0hpMjJQak5YR0w4cTNkMWRaVWRkM25SR0tGb0stdUktZlhKOA?oc=5",
+      "source": "CNBC Africa",
+      "published": "2026-10-06T15:51:29+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "A Dozen Seafarers Injured in Strait of Hormuz Tanker Attack, India Says - gCaptain",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTjh2M0d4TkoxV0lxVC1GX2NheUMxNzljSXNqRWdJUElIaVFra21BRC1YeVF4bktyRC1nQ0VHR19uZDVIeXhYdFlmMmtTUDU3OUMxYXN3eTI2UWZvbWhma3M2UnNPTzE5cTkwWW56VzBQdXJZNWtYWUlWRzFxWC1pM0U2TGhBSWZIMXozbHpORFFyWlBCZjA0?oc=5",
+      "source": "gCaptain",
+      "published": "2026-10-06T15:14:14+00:00",
+      "score": 3.0,
       "tags": [
         "tension"
       ]
@@ -65,70 +125,10 @@
       "tags": [
         "tension"
       ]
-    },
-    {
-      "title": "Twelve injured in attack on oil tanker passing through Hormuz Strait - The Arab Weekly",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMWFSTlU1ZGF1cGZMMHdNOUF1cFczVWpPLXB0YjlFVlpPdndiazJjYXFnTnF4RTZUR0tEOHhSZW5iNFcyNlpMRWNqUzEtaUpJYjZVbGtMUDByc3dhV3Z6ak9NVmFyQVlMSlYtcHJWUkRaSmZuMmd6cDdoZGZKUEV4aDV5UTJ6SUhtUDZlOEtTZlYxdw?oc=5",
-      "source": "The Arab Weekly",
-      "published": "2026-10-06T13:16:30+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRU02M2w1QndQQ1VSVURCTjFoSjl6VmpLcEtWWUlwNDJXdGNmMUpob2tmNTlmNWd2Ni1yQ0d1Vzk2Q2wwTGZkZ25UZjZEbnJhc1ZsRjZIQ3FWWHJLMkFSVlNRbjh4VDNveklHTGpWaElibl9mZ193YVJmV2tZakJJN1diejdsZ9IBiwFBVV95cUxPeVJPUmdsUGNyX3duY21oRG8zUEdOOE9VZzYzNTl3N3I0YlZhT2JzaGpWNXB6UW9uOUdPRnNxMjJCZS1yRmp2RFJyOUs0LUdCQy1rSUNVaGYtQ0tlV0dOLThZTEpIdjdJX2FDY1kyZ2M2VDhwSExhZU9PTnNCcjBWajBZNmxIVVBVNldF?oc=5",
-      "source": "CNBC",
-      "published": "2026-10-06T12:46:04+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Oil tanker struck by unknown projectile in Strait of Hormuz: UKMTO - Anadolu Ajans\u0131",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUGdNeDVYVUMwaVBnZVRMX0hVRVlPNkZhMmM2YTcxTm9zZEdmVVM1NDk3VFlWb0dzeXRDd0xnUU5rT3ZId2dJS3FYb3lPWXNUWVQ5Yy03Y2F3aVE1d21lNnRGNU04c0tQMHd3SlYyc0w3cVgxcVRzMElSN010N3dLTVlJTmUxemhVUE9neGZpYVRHV0dDLUl0MmNKcjhhcG1NTE9PVl8wV18xZw?oc=5",
-      "source": "Anadolu Ajans\u0131",
-      "published": "2026-10-06T12:30:06+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Sinokor, Maran Gas, and Sinogas ships hit in spate of Hormuz attacks - Seatrade Maritime News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON1NURk1abFV0dXpSTlJQd3dzaS1yRzBFckxoSS1aQnFHYUpuMnpQcnZyWWpEaG1qZjB2eTdwU01QVDM1VFphTThJc2t5anpTeGZwSXJ2bWVSYUtfRFQ3TTZRaW9zUmpaSk1DSXJ6TjV6QXdDNUFBcWJYVHVJVXRtcnZQbHhSSERYQlhULTc1MmIydFJySkFUWEUxSWoxc29tWXFzZzZfUEwtSFlr?oc=5",
-      "source": "Seatrade Maritime News",
-      "published": "2026-10-06T10:32:40+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Greek-Owned Tanker Struck by Unidentified Projectile Near the Strait of Hormuz - The National Herald",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdmlPOXVkcXNsN2EwMHFESnFPSlZMMkJmazM5XzhLQmNjRlF3Vy1BV2d4WXBzdmphcFBDWEJPNXpKYllGaGw4dUtMcldERVUwbmNpVUk2VWlsMXZLYkxGOXBCcnFnOEp0Mkk3UGpldlJRUW56cUxFYkV0cV9wS3JEYzgyVjl5c2xfOFI4ZlZXVjlDWHY4bVZnMklDelUzVmdRaVN4RnFFMkNaSUppdVpPVFBfSQ?oc=5",
-      "source": "The National Herald",
-      "published": "2026-10-06T10:28:45+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Hormuz security further deteriorates as attacks hit multiple tankers - safety4sea",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcGswQWpXNGZObFhRQzI2S3htd0VnLXJpQVNab2RyWE50MTRrU3JFZWxoNmxMOGo4MVBkS3JNQU9lcHdpZVRnZzRGVkxBRC03alFtOUt4aDBlRkgwYXhfQ0o4bG5NVmM2Sk91RVg1d2FPdFhBRGpjOWNJQ0c2WEVIckVGNmtOcjM4NVlfaVk1SzU4YmdlMkYw?oc=5",
-      "source": "safety4sea",
-      "published": "2026-10-06T09:21:28+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
     }
   ],
   "brent": {
-    "price": 99.1,
-    "change_pct": -1.22
+    "price": 101.18,
+    "change_pct": 0.86
   }
 }
