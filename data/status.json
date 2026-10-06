@@ -1,10 +1,10 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 45.8,
+  "tension_index": 60.8,
   "closure_signals": 2,
-  "articles_scanned": 218,
-  "updated": "2026-10-05T21:32:41.938681+00:00",
+  "articles_scanned": 217,
+  "updated": "2026-10-06T02:00:15.347797+00:00",
   "headlines": [
     {
       "title": "Iran Says Strait of Hormuz Is Closed, But Oil Flows Tell a Different Story | Dawn News English - Dawn",
@@ -20,10 +20,20 @@
       "title": "Hegseth says US blockade of Strait of Hormuz \u2018ironclad\u2019 - The Times of Israel",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVGU4NnBiNEotamlDUDlDZXBiLXBsWnF5S2hxb3RadWxiTjFvWTYtUVJXalI5Wmk2RS0xM3FuRXMxQ2liNy11XzhiN0c3SU5TZDVDUzZrZTJWUEdVU0dKb21kR2tUMkpvcUZBLXp3bEo4MnhzYjJraUthNU5Nb3A3Yk1xQWVsbWx6VnRqWGlILXpkVEFPZ0ZLWUVORjhyVXVE?oc=5",
       "source": "The Times of Israel",
-      "published": "2026-10-05T04:41:15+00:00",
-      "score": 8.0,
+      "published": "2026-10-03T23:33:14+00:00",
+      "score": 6.82,
       "tags": [
         "closure"
+      ]
+    },
+    {
+      "title": "Tanker attacks are escalating in the Strait of Hormuz, even as oil exports rise - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnJteHI2dzRpcmRpS3dyTEJ5aFdnR1hMT0dWLVBWY2l5WVRwWnZxaGV5M1Z1ZHZKN1pOY2UyTk5sT0FIOVozWUE3MnRRVnJLQXdvZ011TThPQlNJblRjN3J0R0pGTnVJYllXTlIzQncyai1HYWVxNS1kVEwzOTJ6T1paUGN3c0FHQkptZnZuNGZJdnJmN3c?oc=5",
+      "source": "NBC News",
+      "published": "2026-10-05T13:32:38+00:00",
+      "score": 4.0,
+      "tags": [
+        "tension"
       ]
     },
     {
@@ -31,17 +41,7 @@
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNVdvQWNydDREWUJqdGtUT2pJanFnSXUxaXhIVTNoV0VBUmt0bXNEZ0F1Yjl3YWVVak5PY0dlaUZjUDN2ZzFZVWhiRGhpVWFUeDZQdGN3Ynp6MGdDZjhVS1ZwWTVvbTlHYVVqUlhqWUpzWUp6Sm82Wlczb1dkWFd1dGNlX3dfMURweGJBVWxBbEROWlZ0bVFub3Z0SEdzc3g3a3NwMklaX3NINVhhYzM4bnRSUkRxenBnY3hIaXF0TGk2bDFnU1NBNDgtUnlnQjNTR194Y2RCTklBSnF0MWRGQTlPakdtb2tVaGxr0gHrAUFVX3lxTE81V29BY3J0NERZQmp0a1RPaklqcWdJdTFpeEhVM2hXRUFSa3Rtc0RnQXViOXdhZVVqTk9jR2VpRmNQM3ZnMVlVaGJEaGlVYVR4NlB0Y3dienowZ0NmOFVLVnBZNW9tOUdhVWpSWGpZSnNZSnpKbzZaVzNvV2RYV3V0Y2Vfd18xRHB4YkFVbEFsRE5aVnRtUW5vdnRIR3NzeDdrc3AySVpfc0g1WGFjMzhudFJSRHF6cGdjeEhpcXRMaTZsMWdTU0E0OC1SeWdCM1NHX3hjZEJOSUFKcXQxZEZBOU9qR21va1VobGs?oc=5",
       "source": "India Today",
       "published": "2026-10-04T12:47:16+00:00",
-      "score": 3.81,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Burst of Attacks in Gulf Heightens Fears Over Fragile Energy Trade - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4ajBtams1a2R0aEhOYkdTOGcwbGU0Vm9vTDQ4Q0ZrU2tFRFdQN2FSdHBNWlJUTEw5SHg4WS1BbHk2VTRlUlFMcFJ0aFFjSFZzcElxaWJyRURFQnhrZE5ZY2t3UTA5VU9mZVc5S3NZcVh2VmNiTVM0Z0JlR3k2U2M?oc=5",
-      "source": "The New York Times",
-      "published": "2026-10-05T19:27:06+00:00",
-      "score": 3.0,
+      "score": 3.71,
       "tags": [
         "tension"
       ]
@@ -50,7 +50,27 @@
       "title": "Iran ramps up Strait of Hormuz attacks with 11 ships hit in a week - TradeWinds News",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS0NjSWNxaFV1ZF9aSUk0bmdwTU9VTWZrQWlJYkd1a1kyTDdQNzFqT2Nxbjh1d0ZvT2Q5YlVlWkp1c1BhQ2NFcDVZSlA4d0I1cDhCNWxMcFZ3blYwdXRWY01PSEo3RlhrQzNUaWQ1U2NFcVlFWGY1VmtabW1NSHpGSUxDQUVQZnRpeE9vcm40bkRoR3RTZlEtdWc4Y2tEbjlya0lvV2ZPSnRvdzBkZDFzeE9YNjNKdkZWblFNYw?oc=5",
       "source": "TradeWinds News",
-      "published": "2026-10-05T18:33:46+00:00",
+      "published": "2026-10-05T22:30:00+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Five Hormuz Incidents Reported Monday as Tanker Attacks Mount - gCaptain",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTHQwemZncXR3dzBhRU5GZGg0R212ZzA0VF9Ub0xPREpqLWZ3c1ExUWwyUUx5RnZHVGgyUVc3V25VLWt3WU9WWmhKdDVFdEdXNE5MMVBXOTdfOVRKUEF2M2hsWl9ialdWQXZWSG5QTjdIUUlNMnR4dXpFTXRWYXFjM2wzVDRRbDg3dmRJ?oc=5",
+      "source": "gCaptain",
+      "published": "2026-10-05T22:28:14+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Burst of Attacks in Gulf Heightens Fears Over Fragile Energy Trade - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4ajBtams1a2R0aEhOYkdTOGcwbGU0Vm9vTDQ4Q0ZrU2tFRFdQN2FSdHBNWlJUTEw5SHg4WS1BbHk2VTRlUlFMcFJ0aFFjSFZzcElxaWJyRURFQnhrZE5ZY2t3UTA5VU9mZVc5S3NZcVh2VmNiTVM0Z0JlR3k2U2M?oc=5",
+      "source": "The New York Times",
+      "published": "2026-10-05T21:45:02+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -77,9 +97,9 @@
       ]
     },
     {
-      "title": "7 Oil Tankers Attacked In Strait Of Hormuz, As U.S. Official Admits Iran's Targeting Abilities Keep Improving - Jalopnik",
+      "title": "7 Oil Tankers Attacked In Strait Of Hormuz, As U.S. Official Admits Iran's Targeting Abilities Keep Improving - jalopnik.com",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWXUyTUhoTTB0SVdRd1BYVUg4SXM0eUYwdjVDb04xemZ3UUlreVAtM3RiRUkyLTRhWmN2VW5UalRFd2RIcWdzS0M5UlRLcjlHNnByRTJSTm14bnpaV09rNXRxT2lQYU9ScEFGR0JXWU5ybHRQVm9KTUJ2QmdFaThHVGpQd196WGViejZGMVBsUW1WdnpTZ3Zn?oc=5",
-      "source": "Jalopnik",
+      "source": "jalopnik.com",
       "published": "2026-10-05T16:33:14+00:00",
       "score": 3.0,
       "tags": [
@@ -87,9 +107,9 @@
       ]
     },
     {
-      "title": "Middle East oil exports recover to pre-Iran war levels despite Hormuz attacks - DW.com",
+      "title": "Middle East oil exports recover to pre-Iran war levels despite Hormuz attacks - dw.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRDhKSHVGN2g3eUkyRUNPMnBxV1cyZlR6X3VnZG9xS3R0WDJXTHBoMmtRY0JvMzd2OWpKTXppU1VaZHlfQ3dCR3Z3MHRaZlNVOHEyYXZuUzREUG9IOFRIX3ZSOUVlTDViOVVMenRxZl8zUHl1dDRtWkQwdUt4NFZnM2tDdk1Zejdqak0tOURVUFg3SjVmZ2pYQkxBTHFBR29tRGpMRV9ucFl5YXR5SV9N0gGvAUFVX3lxTFBZR3F6Y2ozRXM1TE54c3QzajhjWWZhV0kzTTFNcVhTODR2RTNZVll0QlNoUS1zQTJMMkt0RmRJNTNJaURVNUpKZmZMWXBJblk2ODUzSnRGN3pBazNyOEdGeTE4djhiUWh6ZVhwTzZqVHQ5UVNkLU1iTlpPczlITU50eTZLU3c1SnZ5NHRpTTBhX1pGUkhXOWFkLV95MEZ5eXY4ZlR6RWxLNExIdmtTbmM?oc=5",
-      "source": "DW.com",
+      "source": "dw.com",
       "published": "2026-10-05T06:11:54+00:00",
       "score": 3.0,
       "tags": [
@@ -105,30 +125,10 @@
       "tags": [
         "tension"
       ]
-    },
-    {
-      "title": "Middle East crude oil exports exceed pre-war levels but tanker attacks increase - Fresno Bee",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ONU5CT2VtTlJuZEI5Um0xVFZmN005NEZQNFlVV0Z2dEpvQ0g1dHphSzdIMm5ZTGNaMnVZRTgwczBDVEFPajU0bE9FcndEOXlpX1NZRmRlWW1FY2NLWTc3MDdRVGFfa29BX2daUnRR?oc=5",
-      "source": "Fresno Bee",
-      "published": "2026-10-05T01:21:06+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Middle East crude oil exports exceed pre-war levels but tanker attacks increase - Bellingham Herald",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5yY1BETjhiQk5fUnY4TmlxVF9Jam5jSlc5eVJqd3J4Yk5HLWhxbmExZHZTOHM0SjU4OThDcFRvdGp4ZGpwbkw3SDJISzBKUmQtMEdjc1h0SGVBMFZxa3Fid01vV2p4WThKcHZCeHJvelA2dDdDM0NV?oc=5",
-      "source": "Bellingham Herald",
-      "published": "2026-10-05T01:21:06+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
     }
   ],
   "brent": {
-    "price": 100.32,
-    "change_pct": -1.89
+    "price": 100.49,
+    "change_pct": 0.17
   }
 }
