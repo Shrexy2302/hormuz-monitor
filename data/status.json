@@ -1,17 +1,17 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 105.8,
+  "tension_index": 117.9,
   "closure_signals": 2,
   "articles_scanned": 222,
-  "updated": "2026-10-07T00:52:26.075695+00:00",
+  "updated": "2026-10-07T06:45:38.332813+00:00",
   "headlines": [
     {
       "title": "Iran Says Strait of Hormuz Is Closed, But Oil Flows Tell a Different Story | Dawn News English - Dawn",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE05R2ZWY2RsaFB6VWNoVFIzTFVwUS1qZkhqc2pibnJtekJySG5NaGxCNVd2eXF2X29qYmFRb1FocVJmREU1OWhN?oc=5",
       "source": "Dawn",
       "published": "2026-10-05T13:10:14+00:00",
-      "score": 9.35,
+      "score": 9.02,
       "tags": [
         "closure"
       ]
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVGU4NnBiNEotamlDUDlDZXBiLXBsWnF5S2hxb3RadWxiTjFvWTYtUVJXalI5Wmk2RS0xM3FuRXMxQ2liNy11XzhiN0c3SU5TZDVDUzZrZTJWUEdVU0dKb21kR2tUMkpvcUZBLXp3bEo4MnhzYjJraUthNU5Nb3A3Yk1xQWVsbWx6VnRqWGlILXpkVEFPZ0ZLWUVORjhyVXVE?oc=5",
       "source": "The Times of Israel",
       "published": "2026-10-04T15:12:12+00:00",
-      "score": 6.5,
+      "score": 6.24,
       "tags": [
         "closure"
       ]
@@ -31,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOGZGcGw3WEhWMXJiS0RBZ3ZHYlloRFZNUTQzSjJCd2p1WVZ2amNZTlFYSFJlRmlPT3RuR2hqTWFFejJlb25aNGpacmQxQlJzeEpDeXZGUWZQQ283NjJqY05uZGRQM0RGQzZmUVFuU1N5ODYzc1hhdzJVRzVqSEdvUHFyTDUyTmpPblFIeUY5LWQzb2lGWXlVMTZCdGlHZw?oc=5",
       "source": "Seatrade Maritime News",
       "published": "2026-10-06T03:06:03+00:00",
-      "score": 4.0,
+      "score": 3.92,
       "tags": [
         "tension"
       ]
@@ -41,7 +41,7 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnJteHI2dzRpcmRpS3dyTEJ5aFdnR1hMT0dWLVBWY2l5WVRwWnZxaGV5M1Z1ZHZKN1pOY2UyTk5sT0FIOVozWUE3MnRRVnJLQXdvZ011TThPQlNJblRjN3J0R0pGTnVJYllXTlIzQncyai1HYWVxNS1kVEwzOTJ6T1paUGN3c0FHQkptZnZuNGZJdnJmN3c?oc=5",
       "source": "NBC News",
       "published": "2026-10-05T13:32:38+00:00",
-      "score": 3.75,
+      "score": 3.62,
       "tags": [
         "tension"
       ]
@@ -51,7 +51,37 @@
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNVdvQWNydDREWUJqdGtUT2pJanFnSXUxaXhIVTNoV0VBUmt0bXNEZ0F1Yjl3YWVVak5PY0dlaUZjUDN2ZzFZVWhiRGhpVWFUeDZQdGN3Ynp6MGdDZjhVS1ZwWTVvbTlHYVVqUlhqWUpzWUp6Sm82Wlczb1dkWFd1dGNlX3dfMURweGJBVWxBbEROWlZ0bVFub3Z0SEdzc3g3a3NwMklaX3NINVhhYzM4bnRSUkRxenBnY3hIaXF0TGk2bDFnU1NBNDgtUnlnQjNTR194Y2RCTklBSnF0MWRGQTlPakdtb2tVaGxr0gHrAUFVX3lxTE81V29BY3J0NERZQmp0a1RPaklqcWdJdTFpeEhVM2hXRUFSa3Rtc0RnQXViOXdhZVVqTk9jR2VpRmNQM3ZnMVlVaGJEaGlVYVR4NlB0Y3dienowZ0NmOFVLVnBZNW9tOUdhVWpSWGpZSnNZSnpKbzZaVzNvV2RYV3V0Y2Vfd18xRHB4YkFVbEFsRE5aVnRtUW5vdnRIR3NzeDdrc3AySVpfc0g1WGFjMzhudFJSRHF6cGdjeEhpcXRMaTZsMWdTU0E0OC1SeWdCM1NHX3hjZEJOSUFKcXQxZEZBOU9qR21va1VobGs?oc=5",
       "source": "India Today",
       "published": "2026-10-04T12:47:16+00:00",
-      "score": 3.2,
+      "score": 3.07,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "12 injured in attack on tanker in Strait of Hormuz - Baird Maritime",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaUxsQ25PN2ptVFdyb0ptbGFPOGhrR0hrODRCWHltS2YyTkhiVkgydkhabXR0aHJjOUFaVXVlcVpMQWNEY1VrLWN5NkM3MmJyaTE2ak52OFVlVUVCQ0RxcDJhb18wUHRHdkNndFNSNU9LZ3VPLWtQa0VtbVk0YVIwT1EzNGfSAZIBQVVfeXFMTWJWV3lESWlJeUtrLXF2OEJLMlVYcnQxbTlLcDBmalZMMFdOelZ5RllmYXpFcVNPamhJRTdZeVNPMENZcDV4azlFUTdUMjV2TndVQU9pNHZQU21ucDAwTjVCSXBXTTU2YnMwXzhwY2NvWlRJc25qTVpFUlhJNENtTS1nU21rbW5zOEo2bWNVOEhraVE?oc=5",
+      "source": "Baird Maritime",
+      "published": "2026-10-07T06:33:11+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Oman evacuates injured crew from attacked tanker in Strait of Hormuz - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZWtvNFJvczBTblE5eGRWUzBIUTlINnREWXQ2TWVXR3dzQ05uLUdVZ2JEUDRSZjFhc3FzYlF6cU5LVWR3OWN4X3ZKRGM0ZUdSNjQ1UnBFQzdGYmowQ3laQlc5aEZpV0pIeTFMTlppQUVmejFXb0M1akxpSTVvcGJaQTNSRTNGUmZNWl9Yd2FCVTB2TDRMdlB6U0g3Tk41TW5sOGJwbFZTb2hHZGNqR3fSAbMBQVVfeXFMT2FKTm9vN2pFbG1rLUZPdnVZNFloUVNuU0ZxZFJPZzBPMjA4T3lWVEJEX3QzZXd3RjVlY09SUXBVX0JMRndvNl82VkpnOWhDVzAyWjktSzhuc003bi01MXBEWTFqZjBXamlNTXpXRGZDOHlPSnNpbUdCVzlfRVFWTTg4bVl0TDg3Rzg2czZTdldZRWVnc2NqY1NqZnlBSC1tNm94ZUFRWDVOUVk5c291dkhKS2s?oc=5",
+      "source": "Al Jazeera",
+      "published": "2026-10-07T03:22:30+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "At least 12 seafarers injured in Hormuz tanker attack - Seatrade Maritime News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNzBWMGN6bjIwc1RWTzFpZVpJcGduckpBMFVLTDlRNW1oWUpCclZObW5oRl9IYmhpU05OMGY0WURQdkZwZVVHYnUwUmc5TVZRWFp4dlFIamlCd2RkTjZxdUdsUmZSaWZhY1BDN2ZLSEVJZE80endpdFdjS0RickdhMDdtTVJNSjNGbVNqX25Db1hibXVoVXlBcGx3S2M?oc=5",
+      "source": "Seatrade Maritime News",
+      "published": "2026-10-07T00:57:59+00:00",
+      "score": 3.0,
       "tags": [
         "tension"
       ]
@@ -77,6 +107,16 @@
       ]
     },
     {
+      "title": "12 wounded in Hormuz tanker strike as Oman evacuates crew - Iran International",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MY1VZMjNVMkxpcHZDSC1VV0hqT3JuTkNaak4tNjZfb1VlOF9tRkI4YTFDakhsOTAtb0R3RTlKNWFfTTFCejYxM1k4YkhEVHZvMHc?oc=5",
+      "source": "Iran International",
+      "published": "2026-10-06T18:53:12+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
       "title": "12 Seafarers Injured in Attack on LR2 Tanker in Strait of Hormuz - The Maritime Executive",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNmtqRG9GZG1iTkJ6M0hRMTNUbGc4SUdWVjBGM3Y1UG9UcDYzbDg0c3EzMzc5NlpXWHUyeFFnUG5OcGlzd0RSQXFhMHN0UXFzZTNMUjRPemtpMmpYZ3RrSC1QZnBnOFVYTGJINUhQX25iYVp3cU5scERUbEIydFJnQW5iLW5yLUY4TFlwSC1vc0I5M2FzREk1eHhaZWRYZmsyaE9UVzhn?oc=5",
       "source": "The Maritime Executive",
@@ -85,50 +125,10 @@
       "tags": [
         "tension"
       ]
-    },
-    {
-      "title": "Twelve injured in attack on oil tanker passing through Hormuz Strait - The Arab Weekly",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMWFSTlU1ZGF1cGZMMHdNOUF1cFczVWpPLXB0YjlFVlpPdndiazJjYXFnTnF4RTZUR0tEOHhSZW5iNFcyNlpMRWNqUzEtaUpJYjZVbGtMUDByc3dhV3Z6ak9NVmFyQVlMSlYtcHJWUkRaSmZuMmd6cDdoZGZKUEV4aDV5UTJ6SUhtUDZlOEtTZlYxdw?oc=5",
-      "source": "The Arab Weekly",
-      "published": "2026-10-06T17:32:31+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran Ramps Up Ship Attacks in Hormuz as Oil, Gas Flows Climb - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaldhaVNSd1pLZW5wZEhJZTk0YXhjdlg2SWhuN2VFcEZiREMxOENpSG5SSnZlOUUwZ21xZ1lMOU5OZ3pBRWh1YkR2b2hYVVhNdDZ1Mjc2UmNhZWZOS29EV000NWRiTFY5ekVTN0dKMFk1VHpfQmZkTjFCRFRYc0d3QVhVeHFNMzQwZ1gtem9xUU03cTZZQ09JZV9nc1o5b3k0ZjRzX29ueHFuTzVzNmU2RDdPcHA?oc=5",
-      "source": "Bloomberg.com",
-      "published": "2026-10-06T16:18:10+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks - CNBC Africa",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWE04Vjc4aENGTV8tR0dpSS1aTEJTZ2hpUzdIRDZ2RXlFNzZXOVY3NGwtczlaeEUwdEpGWW5MOGtKT05YTzc3LV9JRDAwQ1h0MFNOc1IyYmNab1l1Y2hyM3hTak8wY3p4SE8tYkkxMlIwczVnT0U4bjY5ejRVWldJRmdSYnJwQV96R3dtQzM1NjJ3N3AtYmxUT0MzOEw0dTYtZ3I2Rm4yR0hpMjJQak5YR0w4cTNkMWRaVWRkM25SR0tGb0stdUktZlhKOA?oc=5",
-      "source": "CNBC Africa",
-      "published": "2026-10-06T15:51:29+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "A Dozen Seafarers Injured in Strait of Hormuz Tanker Attack, India Says - gCaptain",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTjh2M0d4TkoxV0lxVC1GX2NheUMxNzljSXNqRWdJUElIaVFra21BRC1YeVF4bktyRC1nQ0VHR19uZDVIeXhYdFlmMmtTUDU3OUMxYXN3eTI2UWZvbWhma3M2UnNPTzE5cTkwWW56VzBQdXJZNWtYWUlWRzFxWC1pM0U2TGhBSWZIMXozbHpORFFyWlBCZjA0?oc=5",
-      "source": "gCaptain",
-      "published": "2026-10-06T15:14:14+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
     }
   ],
   "brent": {
-    "price": 101.17,
-    "change_pct": 0.59
+    "price": 101.38,
+    "change_pct": 0.8
   }
 }
