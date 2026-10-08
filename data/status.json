@@ -1,11 +1,21 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 148.3,
-  "closure_signals": 3,
+  "tension_index": 171.2,
+  "closure_signals": 4,
   "articles_scanned": 227,
-  "updated": "2026-10-08T06:24:33.874459+00:00",
+  "updated": "2026-10-08T13:48:56.968912+00:00",
   "headlines": [
+    {
+      "title": "CENTCOM: Claims by the Revolutionary Guard that the Strait of Hormuz is Closed or Under Its Control Are False - \u0648\u0643\u0627\u0644\u0629 \u0635\u062f\u0649 \u0646\u064a\u0648\u0632",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oc1pDRFcwWGhlY3pvWGpkTGJLOXZKZmpPMW9LVjBROGZRd3AxVWh1UU05M2ZjQkJ6VFU2cW1UTTk5bEU4V05WdnlCNUFqQm90bl9HTTBR?oc=5",
+      "source": "\u0648\u0643\u0627\u0644\u0629 \u0635\u062f\u0649 \u0646\u064a\u0648\u0632",
+      "published": "2026-10-08T06:07:26+00:00",
+      "score": 10.0,
+      "tags": [
+        "closure"
+      ]
+    },
     {
       "title": "US CENTCOM Rejects Iran\u2019s Claim That Strait of Hormuz Is Closed as Tanker Hit off Qatar - \u06a9\u0648\u0631\u062f\u0633\u062a\u0627\u0646 24",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSEVNcXI4QjZTWUtUc0thVzNZT0trd2h1NjlRaFh1aGhTWU83WmJ4U2lnZmpXVS1PMEN2alRQMk12TkJ1TWtaZDVxTEgzY3FacWFGQ2U0d0ZLUkh6ZUNvOGN0QVIzRmVseDJuUmhzNnFKdVpYVUpWbFJoYkJrX014czVzTnZXT1NxekJHeV9BTWVMSkdDVlJnVnFWbnlncmZlZ0prWVV6SVQ4TnZoUnFqaXJrTjdpZDhDRi1ndGhTVmg3NUtDeHREXzR3?oc=5",
@@ -17,11 +27,21 @@
       ]
     },
     {
+      "title": "Advisor to the Commander-in-Chief of the IRGC:The Strait of Hormuz is closed, and the armed forces have complete control over it. This situation will continue until Iran's legitimate demands are met. We will block illegal routes in the Strait of Hormuz. - Iranian - CGTN",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1maW14dWthbGRiRnQ4NWxpTE1MVk05OTM4ZldmR2NKeGJKbnU0YUY2Rk9pakpXa3d4VHdVbmxaUHRCaGVjY2kwUjUwZXZZeGZTSFEteHA3WmwyUTExSFQ2ZlgzTU9GTS1tTE5sMnBB?oc=5",
+      "source": "CGTN",
+      "published": "2026-10-07T10:36:12+00:00",
+      "score": 9.82,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
       "title": "Iran Says Strait of Hormuz Is Closed, But Oil Flows Tell a Different Story | Dawn News English - Dawn",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE05R2ZWY2RsaFB6VWNoVFIzTFVwUS1qZkhqc2pibnJtekJySG5NaGxCNVd2eXF2X29qYmFRb1FocVJmREU1OWhN?oc=5",
       "source": "Dawn",
       "published": "2026-10-05T13:10:14+00:00",
-      "score": 7.71,
+      "score": 7.3,
       "tags": [
         "closure"
       ]
@@ -31,9 +51,19 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVGU4NnBiNEotamlDUDlDZXBiLXBsWnF5S2hxb3RadWxiTjFvWTYtUVJXalI5Wmk2RS0xM3FuRXMxQ2liNy11XzhiN0c3SU5TZDVDUzZrZTJWUEdVU0dKb21kR2tUMkpvcUZBLXp3bEo4MnhzYjJraUthNU5Nb3A3Yk1xQWVsbWx6VnRqWGlILXpkVEFPZ0ZLWUVORjhyVXVE?oc=5",
       "source": "The Times of Israel",
       "published": "2026-10-04T15:12:12+00:00",
-      "score": 5.19,
+      "score": 4.86,
       "tags": [
         "closure"
+      ]
+    },
+    {
+      "title": "Ship Traffic Through the Strait of Hormuz Falls to Two-Month Low Amid Escalating Attacks on Oil Tankers - \u0634\u0628\u0643\u0629 \u064a\u0627\u0641\u0627 \u0627\u0644\u0625\u062e\u0628\u0627\u0631\u064a\u0629",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9QeE1vMlBzS0FfNDVOR2gybDZ5U1R5YTN0Ym9MSlJXb2oxVENFRnpCM0NpbnhUc2h6ZVRHWmxjTF9IcHhKbU9vbkNveEc1bjBV?oc=5",
+      "source": "\u0634\u0628\u0643\u0629 \u064a\u0627\u0641\u0627 \u0627\u0644\u0625\u062e\u0628\u0627\u0631\u064a\u0629",
+      "published": "2026-10-08T09:38:02+00:00",
+      "score": 4.0,
+      "tags": [
+        "tension"
       ]
     },
     {
@@ -51,76 +81,46 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOGZGcGw3WEhWMXJiS0RBZ3ZHYlloRFZNUTQzSjJCd2p1WVZ2amNZTlFYSFJlRmlPT3RuR2hqTWFFejJlb25aNGpacmQxQlJzeEpDeXZGUWZQQ283NjJqY05uZGRQM0RGQzZmUVFuU1N5ODYzc1hhdzJVRzVqSEdvUHFyTDUyTmpPblFIeUY5LWQzb2lGWXlVMTZCdGlHZw?oc=5",
       "source": "Seatrade Maritime News",
       "published": "2026-10-06T03:06:03+00:00",
-      "score": 3.39,
+      "score": 3.23,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Tanker attacks are escalating in the Strait of Hormuz, even as oil exports rise - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnJteHI2dzRpcmRpS3dyTEJ5aFdnR1hMT0dWLVBWY2l5WVRwWnZxaGV5M1Z1ZHZKN1pOY2UyTk5sT0FIOVozWUE3MnRRVnJLQXdvZ011TThPQlNJblRjN3J0R0pGTnVJYllXTlIzQncyai1HYWVxNS1kVEwzOTJ6T1paUGN3c0FHQkptZnZuNGZJdnJmN3c?oc=5",
-      "source": "NBC News",
-      "published": "2026-10-05T13:32:38+00:00",
-      "score": 3.09,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Hormuz traffic hits lowest level in two months as tanker attacks surge - www.thenationalnews.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSG5KR1BQWHViYnM5R1l4cEhuWFJacHNsSkRwSEtPY0pRNnl2aDBZWlZHZElKLTk5TVRPbEZTcnlqUE5MTUtHYk5MZk5tbFZLMmF5RVUxeHZUMW12WFhmU05DUGIzT3Jrb0IzSFJqRnZnRDlGbUJiekdEUUtNZzdCLWxkNE05Ykl4VEpxSmJVanlYTk10Z3Vfb1Y5MjhLYkxOOE1TaV9DMWF0OE1iOFR3U2lDdGNRNnhnRWRPSTN3bi0?oc=5",
-      "source": "www.thenationalnews.com",
-      "published": "2026-10-08T04:59:21+00:00",
+      "title": "Tanker Attack Risks Surge as Iran Threatens Strait of Hormuz Routes - Global Banking & Finance Review",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT3Z0T2NCY1BsVEE1VUpoSVNkSkh1SWVXbUwzcEY5QThmdUxEQ3V2ZnNhODRncm1iVTBHVUVoWHZpU0xvZzhfXzhGY3BtamVpZ3NqOTRTbVF2WXNFUnRqSk1wWnJCNDRPeUxhRzMydVRnYWUwY2FKUk5wY2lVdTFjQW1TcmpCWVNUUkNldU52ak1jeWJ2Y1RubGk0LS0?oc=5",
+      "source": "Global Banking & Finance Review",
+      "published": "2026-10-08T13:24:18+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Hormuz transits at lowest in over two months after attacks, data shows - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdnAtMmE4Vi10TWlqTFQ0MkFXdzJCNlQzYlFSbXBkOVg5YW9Qd0YwcG5vZnVQS21ETGdLVnllV2RxRFZmZUZyaV8xZWtzVXNLMUxVV1BhQXc3Qm4wVjFaOTB4US1mR0MwWmxoTzdvSV9tUmxvbkx6cWppUkZPMnpHaXNPWjBTMmhBN1p5NDhmSkI1VWtiNEJQcjJLbEJPa2Jhc1VqLWNhR19JcEFkZk5kTmRjaEFnUQ?oc=5",
-      "source": "Reuters",
-      "published": "2026-10-08T03:39:00+00:00",
+      "title": "Oil prices jump amid record tanker attacks in Hormuz - WJRT ABC12",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRnFhRmgwbUxRV3hJMk9SeTdtblc4WVdycFFMaldtbkhBWU5lVEFERmVSejZYeWFBMVAwQlNlU3g0a1FQSnJ5NjlmSTBPVmtOSjRSdHlNdGFkVC1PSEczMm8yelVYX3RucWx3cGo0SWROSW50LThYM1h1UDdJdWJJTW5DOTNOR0JVdFU5ckxadlFLSzhoN2p0NTh2Uy1oSGRDWjFPd0QweUphME1UanpVYVhfY1ZqRG1Dclkwc0MzN0NkVlhHNVk2b2xHTDFqU3VXMDc1WnM2NnAxdlE?oc=5",
+      "source": "WJRT ABC12",
+      "published": "2026-10-08T12:44:39+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "US Rejects Iran's Claim of Hormuz Closure As Pentagon Preps For Possible New Strikes - Open Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRDBFQlIyVlo4Z0YyNlQzNmI1RjhtRHdtUEU4aHdvTWtqYllyWFVrOW5CcmRXOEtDZWhWRnZBY2MyMzlFMGo3eWZNcUp5YjZ3cE45ZDRqSS1lT0Y0VEh4dEM5aHJ2ODBKRmdxN1g5amFHN0hPaVZSQlhZVjVqeV9DcG5UdEJKdU50UGFweF8xYjQ2S1hQQ2VzaFRKMWxvU2EzdnZmVEdsRFpSZjBSb0tMLWhoZVpYRDJo?oc=5",
-      "source": "Open Magazine",
-      "published": "2026-10-08T03:22:27+00:00",
+      "title": "Tanker Attacks Spread Beyond the Strait of Hormuz as Gulf Freight Costs Soar - Windward",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcE80d095T2RTaFdUcDlCNElYa2QzenVpajBUTEtsTklZdmZ5Z0xtQzBlZU9IZWlNRWExMnY1TWlPbm55RjM5eVRfWmY0YTdmU3BOTXNRVGRXQUJTU2VCR0lGZlVWcHEyYVRyaDZNSkxKNS1MY0tJMUdtVXhFTjduT2RuSVJFaUhOQjFLM1pxaHh4eVpmTG9WYmE3Wk9WSkl1bWRKbg?oc=5",
+      "source": "Windward",
+      "published": "2026-10-08T12:13:10+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Tanker attacked off Qatar as Iran claims route transporting oil through strait of Hormuz will be \u2018closed\u2019 - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWGpBZ3dHeE0yV0pvMTR0VTBMdHpZQUZoWjdneXNyV0d3RWVoZm1TWFJ5cS16Y0lCRk5PM2dEdVp1dlp2ZEJwTkQ5SlR4dVVoYzVwa0pEdjd5OUJCUTZmaVdRTUk4alo5TTJFRlVVV2lkSzl3MU5PMER5WkR1T2tlYVdNNU15cGQxMVViendna1NZRjBxdnUxb2dMZHFua2ZzVFZ4YTJ4cUg?oc=5",
-      "source": "The Guardian",
-      "published": "2026-10-08T03:15:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Oil rises as Middle East supply concerns persist amid shipping attacks - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZlloTmR5SkZfME9kcjlVcENtQzFrdmc2cnJfTWthWWJYcFIwZFFGNUs5Y2Y2TkR0MjE2STZ3WXktSXJRRmRiXzZYTnQ4clNNZlNQempZRzFPTERYUXpFM1d0SUJoUzFyN3FLRTg0d3UtckZWbWpWM01DNVJIUEdBTTkyd0dFaDgwX0llWXBtMXV1dVROdXUwVUF6VG9Ca3BReDdJTzNhT0d3RjcwUVF5TS12N1ZWNzJXdlRz?oc=5",
-      "source": "Reuters",
-      "published": "2026-10-08T01:25:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Oil rises as Middle East supply concerns persist amid shipping attacks - San Luis Obispo Tribune",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWGUxSGthVVEzS3hsc3FTTEtIQWpfcTFOXzg3T1B0RHRVSlpqZUlUQWNNd1ZxdDBjdnpuMi1fRVhoQ1FubFB6cGE5Q1BiMWM2RW0ycHV4LTdtM1pDSXpqOThJVGlsVktEOUhsZmZ2QWdDemRWczZSZ2RoX2ktcFhVR2hjRGo?oc=5",
-      "source": "San Luis Obispo Tribune",
-      "published": "2026-10-08T01:25:00+00:00",
+      "title": "Oil prices jump on tanker attacks and slowing flows through Strait of Hormuz - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObGR0SVVFQU9OSU5CX1gzN0x4dnBWUklqeTZtdG54VDZDVXNzNVNGZ1lSRXZTeW1oeUZSMnMwZ1laMkx5VTA0U0xub0JIcVdGQVFYYXkxUEcxaXNWOVFtV0lGOTNKZFJieDlvZU5lYVMzaERaZm02QS13bXhrejZpcEtrbC0?oc=5",
+      "source": "Financial Times",
+      "published": "2026-10-08T10:46:10+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -128,7 +128,7 @@
     }
   ],
   "brent": {
-    "price": 102.75,
-    "change_pct": 2.54
+    "price": 104.46,
+    "change_pct": 4.25
   }
 }
