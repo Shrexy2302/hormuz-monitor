@@ -1,17 +1,17 @@
 {
   "status": "DISRUPTED",
   "label": "Major disruption reported",
-  "tension_index": 137.6,
+  "tension_index": 139.8,
   "closure_signals": 2,
-  "articles_scanned": 231,
-  "updated": "2026-10-07T20:02:24.755645+00:00",
+  "articles_scanned": 225,
+  "updated": "2026-10-08T00:17:26.684930+00:00",
   "headlines": [
     {
       "title": "Iran Says Strait of Hormuz Is Closed, But Oil Flows Tell a Different Story | Dawn News English - Dawn",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE05R2ZWY2RsaFB6VWNoVFIzTFVwUS1qZkhqc2pibnJtekJySG5NaGxCNVd2eXF2X29qYmFRb1FocVJmREU1OWhN?oc=5",
       "source": "Dawn",
       "published": "2026-10-05T13:10:14+00:00",
-      "score": 8.29,
+      "score": 8.05,
       "tags": [
         "closure"
       ]
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVGU4NnBiNEotamlDUDlDZXBiLXBsWnF5S2hxb3RadWxiTjFvWTYtUVJXalI5Wmk2RS0xM3FuRXMxQ2liNy11XzhiN0c3SU5TZDVDUzZrZTJWUEdVU0dKb21kR2tUMkpvcUZBLXp3bEo4MnhzYjJraUthNU5Nb3A3Yk1xQWVsbWx6VnRqWGlILXpkVEFPZ0ZLWUVORjhyVXVE?oc=5",
       "source": "The Times of Israel",
       "published": "2026-10-04T15:12:12+00:00",
-      "score": 5.65,
+      "score": 5.46,
       "tags": [
         "closure"
       ]
@@ -31,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOGZGcGw3WEhWMXJiS0RBZ3ZHYlloRFZNUTQzSjJCd2p1WVZ2amNZTlFYSFJlRmlPT3RuR2hqTWFFejJlb25aNGpacmQxQlJzeEpDeXZGUWZQQ283NjJqY05uZGRQM0RGQzZmUVFuU1N5ODYzc1hhdzJVRzVqSEdvUHFyTDUyTmpPblFIeUY5LWQzb2lGWXlVMTZCdGlHZw?oc=5",
       "source": "Seatrade Maritime News",
       "published": "2026-10-06T03:06:03+00:00",
-      "score": 3.62,
+      "score": 3.53,
       "tags": [
         "tension"
       ]
@@ -41,7 +41,37 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnJteHI2dzRpcmRpS3dyTEJ5aFdnR1hMT0dWLVBWY2l5WVRwWnZxaGV5M1Z1ZHZKN1pOY2UyTk5sT0FIOVozWUE3MnRRVnJLQXdvZ011TThPQlNJblRjN3J0R0pGTnVJYllXTlIzQncyai1HYWVxNS1kVEwzOTJ6T1paUGN3c0FHQkptZnZuNGZJdnJmN3c?oc=5",
       "source": "NBC News",
       "published": "2026-10-05T13:32:38+00:00",
-      "score": 3.32,
+      "score": 3.23,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Attacks on tankers in Hormuz hit highest of any week since start of Iran war, sources say - Arab News",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPV3p0RkZYdjdETzhvdS1WMC1xUkQwYm1JdllLWHBCM01lczVhY3BYMjFRamxob2RQalVFZk05Q19KZmtyLWI5VGFJLTdpQWZWbzB0cUYyT0dGUXpxZjlzSHZrWndRZWZEak1NNGlZRzVYNTdER01yYmVOU2RwS2VlY19fVGllY05sUnpLNjBWdzJ6VTNITEFjaXdyVnJCSTFpekVuemZsUGJzNlJVdmdwT1lmTkFjYjByTkUzdXBnb29tNWtKZm5laENQTFpZQQ?oc=5",
+      "source": "Arab News",
+      "published": "2026-10-07T20:24:02+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Tanker traffic faces growing peril in Strait of Hormuz as weekly attacks surge - Baird Maritime",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV3VCT0N5UDVaaXRMUVR4SXh2ZjlKaXZwbzBldnR5YTI3d2ZlT1hlWHZYcEFudWpMRjNQRi0xSUNhLXNOVnU4bFFONnpvVmdIbDVBVTZ6bkNxeWJIWmRLNHd6czkwT1JmUEdJQTdnZzQyZXhVeVd0d3E1RUEybTU1Ny04blJXdEl1ZXdKQUZXeEdnZDJJRGFGS2JaWXdEODFac05GV240SjM2amY1d2UyZDNFUE1LU1A1d1k2bzYtQVlReFVKUUlYRE1rUVlIc2xp0gHQAUFVX3lxTE9XdUJPQ3lQNVppdExRVHhJeHZmOUppdnBvMGV2dHlhMjd3ZmVPWGVYdlhwQW51akxGM1BGLTFJQ2Etc05WdThsUU42em9WZ0hsNUFVNnpuQ3F5YkhaZEs0d3pzOTBPUmZQR0lBN2dnNDJleFV5V3R3cTVFQTJtNTU3LThuUld0SXVld0pBRld4R2dkMklEYUZLYlpZd0Q4MVpzTkZXbjRKMzZqZjV3ZTJkM0VQTUtTUDV3WTZvNi1BWVF4VUpRSVhETWtRWUhzbGk?oc=5",
+      "source": "Baird Maritime",
+      "published": "2026-10-07T19:11:27+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Gulf crude exports recover to pre-war levels despite Hormuz attacks - Shipping Telegraph",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPckVUdkdpeFlEMHJ4SG5la1NObmJSSy1HdnpOUWpiT1RBWTBDUTQycXFUeDNHdVhyYWlmdUFGVGVQbjhEbHc4LVJKTHJHUHNLcWxxUWRPbzVlQzBpNm1QLXVkR0w5VlU1UnhveW5ncmRXajF2MlVvNVg3Skd2b08weFFnQXZSa18tQUp4dEV1WTJnQlVCQkZJc0lFYUQzZERsLVhIZk91a1ZoZw?oc=5",
+      "source": "Shipping Telegraph",
+      "published": "2026-10-07T18:51:15+00:00",
+      "score": 3.0,
       "tags": [
         "tension"
       ]
@@ -95,40 +125,10 @@
       "tags": [
         "tension"
       ]
-    },
-    {
-      "title": "Iran threatens pre-emptive strikes as US questions who runs Tehran - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeS1nclpELWE4LW5GUF9uZEFrZkVsSmU2TDNxTkFNeUF4OXNSU1QtQ1FhTDFzSWpzNFZINmJFV0hGRk1HZHMxcktxZzV1OEpPRFlfSFBGV2Z6ZGY5QWRhYzFmTkR4SnZXYWtNVDNYdEdXVms1bks5SmVkcVYxdjlGdXM3SGI?oc=5",
-      "source": "AOL.com",
-      "published": "2026-10-07T14:04:19+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Oil prices climb above $100 on Strait of Hormuz attacks, Gulf storm threat - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZHV1MkUxaGpvYzQ3U0hXZ1BwdFZxM3ZBTDA1aEFfd1ZadkdxNG9GcWJ2RUVtX1BNcm9KcWlRV1NDRGpqbmJBQXJyQndqMkpmakI4SUtIYTNpUnUyMlpqVWZUNFkyM3ljRUE1R2t1LUd6LS1uUHJvWnVycGlCRW82Sko3YmFSc2JRZy1GUTJKVEh5SHlXZXdYSTJCYVBFUDhaZ0NadVJOcG9XZVB6TG45Sm9LQ2dYblZ6QllBVi1WSjhkeGhKM3NnMQ?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-10-07T12:26:12+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Secretary of State Rubio: Iran has lost control of Strait of Hormuz despite increasing attacks - Washington Times",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMjYtM3J4YXFqYkF2R2o4ZHVRX09fY01TT09zSGtsMkVqY0hGRGtlNUJzVjhUNEI1ekhjMVdzRmtmRTVMSG43Q1NRdWhBdlFYZmpWcWUzSWxyM2tDRTluM2VNcktRLWRpc3ZYZzBFMVhXX0ZwVnNQOWJTU3RYS255LWdnVGtXYVc1TVhNOXd3V2h1YjJkYzRVX3pqQjhDNU95ZHcxWG51SU5QMHJHT2M3eDN1YVBNdDA?oc=5",
-      "source": "Washington Times",
-      "published": "2026-10-07T12:24:50+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
     }
   ],
   "brent": {
-    "price": 100.96,
-    "change_pct": 0.38
+    "price": 101.22,
+    "change_pct": 1.02
   }
 }
