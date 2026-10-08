@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 171.2,
+  "tension_index": 178.7,
   "closure_signals": 4,
-  "articles_scanned": 227,
-  "updated": "2026-10-08T13:48:56.968912+00:00",
+  "articles_scanned": 229,
+  "updated": "2026-10-08T19:35:59.851564+00:00",
   "headlines": [
     {
       "title": "CENTCOM: Claims by the Revolutionary Guard that the Strait of Hormuz is Closed or Under Its Control Are False - \u0648\u0643\u0627\u0644\u0629 \u0635\u062f\u0649 \u0646\u064a\u0648\u0632",
@@ -31,9 +31,19 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1maW14dWthbGRiRnQ4NWxpTE1MVk05OTM4ZldmR2NKeGJKbnU0YUY2Rk9pakpXa3d4VHdVbmxaUHRCaGVjY2kwUjUwZXZZeGZTSFEteHA3WmwyUTExSFQ2ZlgzTU9GTS1tTE5sMnBB?oc=5",
       "source": "CGTN",
       "published": "2026-10-07T10:36:12+00:00",
-      "score": 9.82,
+      "score": 9.5,
       "tags": [
         "closure"
+      ]
+    },
+    {
+      "title": "Attack risks rise for tankers as Iran vows to block more Hormuz routes - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU2tXTF9qRnZpZjVabUdpX3Q5UVBCR18tb2JrR3dJUVVacUhyUURRQ05uZ2dKOVBMbHJLQmRmejB3TjhPSGpxUnFZOEdJNFJ0Q2k1aXNVQTZNVFYwV21YdUhmd2g0MnZqZm9ycGVfM21VLURfY1ZzOENSTUpxVTcxRmdpeS1ka1JhUU4tczc5RGpycmx5NWt6NjRJLThhc0VlRFRTS0p0X0N5bHFwbl9PaDQyZ25xdw?oc=5",
+      "source": "Reuters",
+      "published": "2026-10-08T13:17:53+00:00",
+      "score": 7.0,
+      "tags": [
+        "tension"
       ]
     },
     {
@@ -41,7 +51,7 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE05R2ZWY2RsaFB6VWNoVFIzTFVwUS1qZkhqc2pibnJtekJySG5NaGxCNVd2eXF2X29qYmFRb1FocVJmREU1OWhN?oc=5",
       "source": "Dawn",
       "published": "2026-10-05T13:10:14+00:00",
-      "score": 7.3,
+      "score": 6.98,
       "tags": [
         "closure"
       ]
@@ -51,9 +61,19 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVGU4NnBiNEotamlDUDlDZXBiLXBsWnF5S2hxb3RadWxiTjFvWTYtUVJXalI5Wmk2RS0xM3FuRXMxQ2liNy11XzhiN0c3SU5TZDVDUzZrZTJWUEdVU0dKb21kR2tUMkpvcUZBLXp3bEo4MnhzYjJraUthNU5Nb3A3Yk1xQWVsbWx6VnRqWGlILXpkVEFPZ0ZLWUVORjhyVXVE?oc=5",
       "source": "The Times of Israel",
       "published": "2026-10-04T15:12:12+00:00",
-      "score": 4.86,
+      "score": 4.6,
       "tags": [
         "closure"
+      ]
+    },
+    {
+      "title": "Oil jumps 5% as Hormuz tanker attacks escalate, US Gulf hurricane shuts in production - Oil & Gas Journal",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZWE4MDk0OC16dUFpdERsSlVkNTFVbHNKTGZUY1RFRFRFd2E4UUlWUXNSN1hWaGJQbjh3X0NpM2ZtOFd6ZG1pa3BUa1JMVF9KNWVoaXNTOG16eUhxcnZPaC0xbjlPUVJSTkc4QmpBdXFyUm9fQzNiTE5tQmZhYkhSUmJ1V05xOGVSTU5KNmpJb0hzcEJhaE5QNFMzTmNrcElQa255ZWVxWjBUdWtlMDRCdjVfY2hTS2tsNXN3a1NvZkRWNjUtTzdCb2xJcXhNWWdQSDNlZ0lmejBTRUNlS0l4VWJaVXhDQVk?oc=5",
+      "source": "Oil & Gas Journal",
+      "published": "2026-10-08T17:38:25+00:00",
+      "score": 4.0,
+      "tags": [
+        "tension"
       ]
     },
     {
@@ -67,60 +87,40 @@
       ]
     },
     {
-      "title": "Iran threatens to block illegal routes through Strait of Hormuz - www.indiagazette.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbkJWUm16NkFKZVAzM3dnbGM5eGR0TkFlZkNvQkQ2eTZDVGNfY25Ra2Fpb0Rzay1WeE8tZGdWTnpPSW9RVnBlclZuSWlFT2F4Sk50RUI4bE1HcE9RMkpka2lJT0pvNnlpQ0ZaOFB4ZW1kTFo0Y0o1YUhhVGpLYzdDd0xVdVhBcGVqeDk5aXBSN1VUeVQ4SndDMVc2LTl1WXZpeEtjX1Z0NlZiRHM?oc=5",
-      "source": "www.indiagazette.com",
-      "published": "2026-10-07T17:52:00+00:00",
-      "score": 4.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
       "title": "UKMTO issues four Hormuz attack warnings in four hours - Seatrade Maritime News",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOGZGcGw3WEhWMXJiS0RBZ3ZHYlloRFZNUTQzSjJCd2p1WVZ2amNZTlFYSFJlRmlPT3RuR2hqTWFFejJlb25aNGpacmQxQlJzeEpDeXZGUWZQQ283NjJqY05uZGRQM0RGQzZmUVFuU1N5ODYzc1hhdzJVRzVqSEdvUHFyTDUyTmpPblFIeUY5LWQzb2lGWXlVMTZCdGlHZw?oc=5",
       "source": "Seatrade Maritime News",
       "published": "2026-10-06T03:06:03+00:00",
-      "score": 3.23,
+      "score": 3.1,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Tanker Attack Risks Surge as Iran Threatens Strait of Hormuz Routes - Global Banking & Finance Review",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT3Z0T2NCY1BsVEE1VUpoSVNkSkh1SWVXbUwzcEY5QThmdUxEQ3V2ZnNhODRncm1iVTBHVUVoWHZpU0xvZzhfXzhGY3BtamVpZ3NqOTRTbVF2WXNFUnRqSk1wWnJCNDRPeUxhRzMydVRnYWUwY2FKUk5wY2lVdTFjQW1TcmpCWVNUUkNldU52ak1jeWJ2Y1RubGk0LS0?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published": "2026-10-08T13:24:18+00:00",
+      "title": "Iran scales up Hormuz attacks, raising pressure on Trump as midterms near - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRlR3UHNEMFo0Zkt2RUV0S2VYUXh6RDY1MTBVQ3hjeTRXLTh2TlpZaUFoejFjMDM1WjVOYTRpYTZvNjBNUEprY3psWmxaOVgwNHJpZjZsVDZ4eXlSX3kzOFZ0czFIUlJKazJSSW5mNmxPcXJTQjlKX19teGVpOXBGSVhGTF94cXpfOVRrU2dWdXZRYmpVRmxzSDAyaXFlLU55UWtReVR2ZWs3bXE2RDAxdGVJQWhHUQ?oc=5",
+      "source": "The Washington Post",
+      "published": "2026-10-08T19:09:22+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Oil prices jump amid record tanker attacks in Hormuz - WJRT ABC12",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRnFhRmgwbUxRV3hJMk9SeTdtblc4WVdycFFMaldtbkhBWU5lVEFERmVSejZYeWFBMVAwQlNlU3g0a1FQSnJ5NjlmSTBPVmtOSjRSdHlNdGFkVC1PSEczMm8yelVYX3RucWx3cGo0SWROSW50LThYM1h1UDdJdWJJTW5DOTNOR0JVdFU5ckxadlFLSzhoN2p0NTh2Uy1oSGRDWjFPd0QweUphME1UanpVYVhfY1ZqRG1Dclkwc0MzN0NkVlhHNVk2b2xHTDFqU3VXMDc1WnM2NnAxdlE?oc=5",
-      "source": "WJRT ABC12",
-      "published": "2026-10-08T12:44:39+00:00",
+      "title": "Hormuz Transits Fall to Lowest Level in Two Months as Attacks Increase - The Maritime Executive",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ1BqNDBINjR2bE5KSHFzSHB0em9ROTAzWFEyaWpHaGZKeV9SU3FBU0lqbnJKbUNrNFZxazRCRnlWZDVWMjhjZl9iNDRhOWJqNl9fcHN4ZmJfZlBHQUFmNUR3R1RubjBVZXlmTUQ1aGx3R3oyTmJiclllMk43UDM1LTVXMVFPRl9GUUFvMnIwWUtYd2xMel84d3llWncwS2lqQXl0aF8yN3pOQ1BDdkE?oc=5",
+      "source": "The Maritime Executive",
+      "published": "2026-10-08T18:15:50+00:00",
       "score": 3.0,
       "tags": [
         "tension"
       ]
     },
     {
-      "title": "Tanker Attacks Spread Beyond the Strait of Hormuz as Gulf Freight Costs Soar - Windward",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcE80d095T2RTaFdUcDlCNElYa2QzenVpajBUTEtsTklZdmZ5Z0xtQzBlZU9IZWlNRWExMnY1TWlPbm55RjM5eVRfWmY0YTdmU3BOTXNRVGRXQUJTU2VCR0lGZlVWcHEyYVRyaDZNSkxKNS1MY0tJMUdtVXhFTjduT2RuSVJFaUhOQjFLM1pxaHh4eVpmTG9WYmE3Wk9WSkl1bWRKbg?oc=5",
-      "source": "Windward",
-      "published": "2026-10-08T12:13:10+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Oil prices jump on tanker attacks and slowing flows through Strait of Hormuz - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObGR0SVVFQU9OSU5CX1gzN0x4dnBWUklqeTZtdG54VDZDVXNzNVNGZ1lSRXZTeW1oeUZSMnMwZ1laMkx5VTA0U0xub0JIcVdGQVFYYXkxUEcxaXNWOVFtV0lGOTNKZFJieDlvZU5lYVMzaERaZm02QS13bXhrejZpcEtrbC0?oc=5",
-      "source": "Financial Times",
-      "published": "2026-10-08T10:46:10+00:00",
+      "title": "Tanker attacked off Qatar as Iran claims route transporting oil through strait of Hormuz will be \u2018closed\u2019 - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWGpBZ3dHeE0yV0pvMTR0VTBMdHpZQUZoWjdneXNyV0d3RWVoZm1TWFJ5cS16Y0lCRk5PM2dEdVp1dlp2ZEJwTkQ5SlR4dVVoYzVwa0pEdjd5OUJCUTZmaVdRTUk4alo5TTJFRlVVV2lkSzl3MU5PMER5WkR1T2tlYVdNNU15cGQxMVViendna1NZRjBxdnUxb2dMZHFua2ZzVFZ4YTJ4cUg?oc=5",
+      "source": "The Guardian",
+      "published": "2026-10-08T16:50:00+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -128,7 +128,7 @@
     }
   ],
   "brent": {
-    "price": 104.46,
-    "change_pct": 4.25
+    "price": 104.1,
+    "change_pct": 3.89
   }
 }
