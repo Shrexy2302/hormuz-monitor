@@ -1,27 +1,27 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 189.1,
+  "tension_index": 191.5,
   "closure_signals": 4,
-  "articles_scanned": 232,
-  "updated": "2026-10-09T00:04:50.376409+00:00",
+  "articles_scanned": 230,
+  "updated": "2026-10-09T06:25:46.563410+00:00",
   "headlines": [
     {
       "title": "CENTCOM: Claims by the Revolutionary Guard that the Strait of Hormuz is Closed or Under Its Control Are False - \u0648\u0643\u0627\u0644\u0629 \u0635\u062f\u0649 \u0646\u064a\u0648\u0632",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oc1pDRFcwWGhlY3pvWGpkTGJLOXZKZmpPMW9LVjBROGZRd3AxVWh1UU05M2ZjQkJ6VFU2cW1UTTk5bEU4V05WdnlCNUFqQm90bl9HTTBR?oc=5",
       "source": "\u0648\u0643\u0627\u0644\u0629 \u0635\u062f\u0649 \u0646\u064a\u0648\u0632",
       "published": "2026-10-08T06:07:26+00:00",
-      "score": 10.0,
+      "score": 9.98,
       "tags": [
         "closure"
       ]
     },
     {
       "title": "US CENTCOM Rejects Iran\u2019s Claim That Strait of Hormuz Is Closed as Tanker Hit off Qatar - \u06a9\u0648\u0631\u062f\u0633\u062a\u0627\u0646 24",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSEVNcXI4QjZTWUtUc0thVzNZT0trd2h1NjlRaFh1aGhTWU83WmJ4U2lnZmpXVS1PMEN2alRQMk12TkJ1TWtaZDVxTEgzY3FacWFGQ2U0d0ZLUkh6ZUNvOGN0QVIzRmVseDJuUmhzNnFKdVpYVUpWbFJoYkJrX014czVzTnZXT1NxekJHeV9BTWVMSkdDVlJnVnFWbnlncmZlZ0prWVV6SVQ4TnZoUnFqaXJrTjdpZDhDRi1ndGhTVmg3NUtDeHREXzR3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91SWxWU1RhaUo5RDRiYUo3MmVGRnlSMmFldjNaaC1VcHRDSkpIX3hsdUl0NUk2dE9hd3c5bmVtaG1aSnZhSk5DUG1oMEFyZHBjSUtENmNR?oc=5",
       "source": "\u06a9\u0648\u0631\u062f\u0633\u062a\u0627\u0646 24",
       "published": "2026-10-08T05:37:00+00:00",
-      "score": 10.0,
+      "score": 9.95,
       "tags": [
         "closure"
       ]
@@ -31,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1maW14dWthbGRiRnQ4NWxpTE1MVk05OTM4ZldmR2NKeGJKbnU0YUY2Rk9pakpXa3d4VHdVbmxaUHRCaGVjY2kwUjUwZXZZeGZTSFEteHA3WmwyUTExSFQ2ZlgzTU9GTS1tTE5sMnBB?oc=5",
       "source": "CGTN",
       "published": "2026-10-07T10:36:12+00:00",
-      "score": 9.25,
+      "score": 8.9,
       "tags": [
         "closure"
       ]
@@ -51,7 +51,7 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE05R2ZWY2RsaFB6VWNoVFIzTFVwUS1qZkhqc2pibnJtekJySG5NaGxCNVd2eXF2X29qYmFRb1FocVJmREU1OWhN?oc=5",
       "source": "Dawn",
       "published": "2026-10-05T13:10:14+00:00",
-      "score": 6.73,
+      "score": 6.37,
       "tags": [
         "closure"
       ]
@@ -61,7 +61,7 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVGU4NnBiNEotamlDUDlDZXBiLXBsWnF5S2hxb3RadWxiTjFvWTYtUVJXalI5Wmk2RS0xM3FuRXMxQ2liNy11XzhiN0c3SU5TZDVDUzZrZTJWUEdVU0dKb21kR2tUMkpvcUZBLXp3bEo4MnhzYjJraUthNU5Nb3A3Yk1xQWVsbWx6VnRqWGlILXpkVEFPZ0ZLWUVORjhyVXVE?oc=5",
       "source": "The Times of Israel",
       "published": "2026-10-04T15:12:12+00:00",
-      "score": 4.41,
+      "score": 4.12,
       "tags": [
         "closure"
       ]
@@ -90,7 +90,27 @@
       "title": "Iran scales up Hormuz attacks, raising pressure on Trump as midterms near - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRlR3UHNEMFo0Zkt2RUV0S2VYUXh6RDY1MTBVQ3hjeTRXLTh2TlpZaUFoejFjMDM1WjVOYTRpYTZvNjBNUEprY3psWmxaOVgwNHJpZjZsVDZ4eXlSX3kzOFZ0czFIUlJKazJSSW5mNmxPcXJTQjlKX19teGVpOXBGSVhGTF94cXpfOVRrU2dWdXZRYmpVRmxzSDAyaXFlLU55UWtReVR2ZWs3bXE2RDAxdGVJQWhHUQ?oc=5",
       "source": "The Washington Post",
-      "published": "2026-10-08T23:39:22+00:00",
+      "published": "2026-10-09T04:03:29+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran and Houthis Try to Regain Upper Hand in Hormuz With Spate of New Attacks - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT0QxZmt6OUdKUzlCX0xERlR1VlVGQ01ObEY4SXIwMWY1X0lRYmNzT3FXWEF1QXVOMzJRT0pfWVN3ak8xeDRWNTV5T2pWclB5aTZPM2R2VnVBc1lLMi02a1dIYlVHSkFCV0kyYXlzS0daajJyMVo1WnhNZDBiRmpHQWNhelVfUmJMb1VTZ1VTQjNQU25SOUhxMjhQT2FibFpFMHJmZU5sNzUtZkRLWVFTVUhndzZ1TXc1QjJHa2ZKUG9UUQ?oc=5",
+      "source": "WSJ",
+      "published": "2026-10-09T01:00:00+00:00",
+      "score": 3.0,
+      "tags": [
+        "tension"
+      ]
+    },
+    {
+      "title": "Oil Prices and Tanker Rates Rise After Latest Iranian Attacks in Mideast - The Maritime Executive",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYTh0U0VMTS1OQl9qQ2o4Q0hDc1p6bjk1UmdCS1NESUJvd3hxUHZ4WnRxbUg0MExOM0xXam56TG5sSnRMbGZzbjdYc0cxOXk4WUtzS2hTRVpBdkVNSXJ1X2cwMU94RGlLZFlkLTBnNkRGbG1IemNZTmVLaGh2Wmw5NEdhYVMyOWtMWll4bjE0TTJvcElaR2tqdlZRbm42TUV5ZXlySEI5YmwtWWszdXhxbg?oc=5",
+      "source": "The Maritime Executive",
+      "published": "2026-10-09T00:17:00+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -105,30 +125,10 @@
       "tags": [
         "tension"
       ]
-    },
-    {
-      "title": "Crude oil tanker struck by unknown projectile in Strait of Hormuz: UK maritime agency - Middle East Monitor",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZTBHS3FBMHZYVm9YRXZaQXhucmZiTzBWZmtybFdmdU5wZ2J0bTFyVjd2N3hXem5NNndTd19qZmE0MlJGY055TE9LdFE0M01OS2VFazBWcWxpREQ0VFlpT1FBQXQ2TGZkMEVPWTJMV01XMm5wVnhFaVZ5eVlMcTJxZ01nQ0hac3NtQ0l1LVhhYVVmcmZ0X1o3WkVybkxvSU5WRGEzc2QxWC0yVTdna3ZWdmFNUmM1cThzMWV0MkU4VllmZUkyXzZv0gHMAUFVX3lxTE1seWtUeEJXSDlkUERVYmNHeXp2MnBidXJTYk5tTFptWWtWNk10YWZrXzk0ZmhHbzdhTy1QMnlMbU91NnVCZGQtcm5NNnBOckpiRUFHZUptQV9HU0IyeHF6Z0NlLURJN0luTU1jOC1fc1lSTmVPeWR4T2swVGlDdzY1eDdOdmdwTXluZUlrUTN4TmdSUHRpR0ttd3dvcHlNcEUyM05peElPWkd3QldoSUt4WkpOQjJzQTdLZEEyeHk3MXluQWUyWTRUTV9rQg?oc=5",
-      "source": "Middle East Monitor",
-      "published": "2026-10-08T18:10:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Tanker attacked off Qatar as Iran claims route transporting oil through strait of Hormuz will be \u2018closed\u2019 - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWGpBZ3dHeE0yV0pvMTR0VTBMdHpZQUZoWjdneXNyV0d3RWVoZm1TWFJ5cS16Y0lCRk5PM2dEdVp1dlp2ZEJwTkQ5SlR4dVVoYzVwa0pEdjd5OUJCUTZmaVdRTUk4alo5TTJFRlVVV2lkSzl3MU5PMER5WkR1T2tlYVdNNU15cGQxMVViendna1NZRjBxdnUxb2dMZHFua2ZzVFZ4YTJ4cUg?oc=5",
-      "source": "The Guardian",
-      "published": "2026-10-08T16:50:00+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
     }
   ],
   "brent": {
-    "price": 103.84,
-    "change_pct": -0.42
+    "price": 103.12,
+    "change_pct": -1.11
   }
 }
