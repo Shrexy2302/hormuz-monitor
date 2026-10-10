@@ -1,17 +1,17 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 171.9,
-  "closure_signals": 5,
-  "articles_scanned": 221,
-  "updated": "2026-10-10T19:26:57.517263+00:00",
+  "tension_index": 180.3,
+  "closure_signals": 7,
+  "articles_scanned": 219,
+  "updated": "2026-10-10T22:48:16.607571+00:00",
   "headlines": [
     {
       "title": "CENTCOM: Claims by the Revolutionary Guard that the Strait of Hormuz is Closed or Under Its Control Are False - \u0648\u0643\u0627\u0644\u0629 \u0635\u062f\u0649 \u0646\u064a\u0648\u0632",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oc1pDRFcwWGhlY3pvWGpkTGJLOXZKZmpPMW9LVjBROGZRd3AxVWh1UU05M2ZjQkJ6VFU2cW1UTTk5bEU4V05WdnlCNUFqQm90bl9HTTBR?oc=5",
       "source": "\u0648\u0643\u0627\u0644\u0629 \u0635\u062f\u0649 \u0646\u064a\u0648\u0632",
       "published": "2026-10-08T06:07:26+00:00",
-      "score": 7.93,
+      "score": 7.74,
       "tags": [
         "closure"
       ]
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91SWxWU1RhaUo5RDRiYUo3MmVGRnlSMmFldjNaaC1VcHRDSkpIX3hsdUl0NUk2dE9hd3c5bmVtaG1aSnZhSk5DUG1oMEFyZHBjSUtENmNR?oc=5",
       "source": "\u06a9\u0648\u0631\u062f\u0633\u062a\u0627\u0646 24",
       "published": "2026-10-08T05:37:00+00:00",
-      "score": 7.9,
+      "score": 7.71,
       "tags": [
         "closure"
       ]
@@ -31,7 +31,27 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1maW14dWthbGRiRnQ4NWxpTE1MVk05OTM4ZldmR2NKeGJKbnU0YUY2Rk9pakpXa3d4VHdVbmxaUHRCaGVjY2kwUjUwZXZZeGZTSFEteHA3WmwyUTExSFQ2ZlgzTU9GTS1tTE5sMnBB?oc=5",
       "source": "CGTN",
       "published": "2026-10-07T10:36:12+00:00",
-      "score": 6.84,
+      "score": 6.66,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iran's Revolutionary Guards Say Oil Supertanker Exploded After Striking Mine in Strait of Hormuz: what 10 outlets left out - NewsCord",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPLS1JZTB5OFBsYkZFbWR2VzhWU1JhZGN0dUNKLXpOeHlzVm40XzlDX2xqZjFEYXROR29UYnZEWmREaUtDU2hvSDV6SDdRMmFTUFhkZ0RmeWI3ZFR0bFVLbHB2UzB3TGtIZXBZWl9xMVprQmZDWU9mdjZQY2dGaTliclhObE1VQnVqWEM4ZHo5TzFhMmM3NVkteTlPZ09oQWZxVERTSTVud1FHOXVTcjlTN3pzOV9uLUZBUVVYQm80cFdDUGdFM2RXNFBKZkdKVDVzbUdpcjFOamVpTlg2Q1dVVkRQR0pmZThkVVE?oc=5",
+      "source": "NewsCord",
+      "published": "2026-10-10T21:09:22+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Supertanker explodes after striking mine in Strait of Hormuz, Iran's Revolutionary Guards say - Anadolu Ajans\u0131",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSGpOcWdmNk5WcmRweGtHa2dFYTRpMWRpSWlfOGtabGFyODZTY2g1R2wySUt0MXFFbEtkQmdkUHFlaDFKNnRnZUdsNThHZms1eTJUSkJzWFRjczNmbmYyTXBwTU1ZeEJVLWJBczI0M1dJOVhpN05ULWdtYzBTUHJ6akNvemJKZkxnY3Bld1ppVWNqdElOQnBwNzhiUW53TnBnaHhpUkg5TmM2MkZjSzEwRjhPRHVER05lWTJwb1Q1cDhJU0VaS0REeTFXZGg?oc=5",
+      "source": "Anadolu Ajans\u0131",
+      "published": "2026-10-10T19:52:52+00:00",
+      "score": 6.0,
       "tags": [
         "closure"
       ]
@@ -51,7 +71,7 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU2tXTF9qRnZpZjVabUdpX3Q5UVBCR18tb2JrR3dJUVVacUhyUURRQ05uZ2dKOVBMbHJLQmRmejB3TjhPSGpxUnFZOEdJNFJ0Q2k1aXNVQTZNVFYwV21YdUhmd2g0MnZqZm9ycGVfM21VLURfY1ZzOENSTUpxVTcxRmdpeS1ka1JhUU4tczc5RGpycmx5NWt6NjRJLThhc0VlRFRTS0p0X0N5bHFwbl9PaDQyZ25xdw?oc=5",
       "source": "Reuters",
       "published": "2026-10-08T13:17:53+00:00",
-      "score": 5.83,
+      "score": 5.7,
       "tags": [
         "tension"
       ]
@@ -61,7 +81,7 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzRPSjlIQTd4QndKdm9CUHk1ZWxIaktfOERjc1A3VHpYMHV0Z1Zkd3dGNURqMFJFR3l4LXo3OU5scG96QXhMd0F5TGthdlVzbmg0QVVHbnktU096TkFWUnc5QU9UV0xvTk1jbDY3eGFJaWZXN19UOEJvbTF6eFdFcW13cWxwdWRDVzU1OEl6c2ctT3ltYVJZN0d1a3hvQdIBowFBVV95cUxPUktnalZhVFFxNkhBTHFVS0tOSVBzVE5rZWFhcHhQUVk5dnlocFVZQWdNeHlNQ2pwY0ctTHp6dkQ1WFh1djJsUkQxZ3RZR3NkbVVJOWNCNTFqdFl5eUpMc044SVlwQVMyeldla2VYZ2FxVG5ud1RvTVlKNVc1d0FMNjZSemNubmdydW5BRE1peGVjdmJNSFF5QVZ2OGtNMTVHY09B?oc=5",
       "source": "ABC News - Breaking News, Latest News and Videos",
       "published": "2026-10-08T18:06:15+00:00",
-      "score": 5.16,
+      "score": 5.04,
       "tags": [
         "closure"
       ]
@@ -71,7 +91,7 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE05R2ZWY2RsaFB6VWNoVFIzTFVwUS1qZkhqc2pibnJtekJySG5NaGxCNVd2eXF2X29qYmFRb1FocVJmREU1OWhN?oc=5",
       "source": "Dawn",
       "published": "2026-10-05T13:10:14+00:00",
-      "score": 4.32,
+      "score": 4.13,
       "tags": [
         "closure"
       ]
@@ -91,17 +111,7 @@
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZWE4MDk0OC16dUFpdERsSlVkNTFVbHNKTGZUY1RFRFRFd2E4UUlWUXNSN1hWaGJQbjh3X0NpM2ZtOFd6ZG1pa3BUa1JMVF9KNWVoaXNTOG16eUhxcnZPaC0xbjlPUVJSTkc4QmpBdXFyUm9fQzNiTE5tQmZhYkhSUmJ1V05xOGVSTU5KNmpJb0hzcEJhaE5QNFMzTmNrcElQa255ZWVxWjBUdWtlMDRCdjVfY2hTS2tsNXN3a1NvZkRWNjUtTzdCb2xJcXhNWWdQSDNlZ0lmejBTRUNlS0l4VWJaVXhDQVk?oc=5",
       "source": "Oil & Gas Journal",
       "published": "2026-10-08T17:38:25+00:00",
-      "score": 3.43,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Houthi Attacks on Saudi Airports Kill 3 Amid Escalating War in Yemen - Time Magazine",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMDBoVEtTeWRFTUgtV1B4bHdNa3loZUR5ZEpnV0ZacEZNT3phWVowQ2ZyZ2lJcl9VMGMxeW1JNmh5bUZSUEFYUEFLODhHQm1RTnR2SjNaTzV5S0lLOGRPbW1Mc2k0aHd5MWxkN3Nxems3XzR1Uk05a011Q2hlMFYtQ2lmWlp3MGlxd2JRVWg3M2p0T2c?oc=5",
-      "source": "Time Magazine",
-      "published": "2026-10-08T11:00:00+00:00",
-      "score": 3.28,
+      "score": 3.35,
       "tags": [
         "tension"
       ]
@@ -111,16 +121,6 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWmZBV1dYclRYUW1yYUI2NUpiZ2tUcmJvX09kbjlUdmxwc0VhVHJFVU1mSmNQaHdHckpSb3lCQXNxSDFLWDd6Q2h5UXBMNTFyZDQyUVUwcUdqekROV0V3YUt2c1RVcUthUU5qZjgxM3hzZXNIdDN2YUZkX3MtLWgyQzVOazlMQlRCNUQ2b05jbk5wdw?oc=5",
       "source": "Briefs Finance",
       "published": "2026-10-09T22:37:45+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Hormuz Tanker Attacks Hit Highest Level Since War Began; Iran Threatens to Expand Strike Zone - BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54V25jSUw5clVZRVFUR1hzbUcta2ZvVGVvZkRkTmdBSWIxUHN4RnBITEFWUmdHNUJIM2JVM2I4eTV6WC16YlJKX05TTkZPTGwtbU05VFBkMnM2aVlxVkRvRXR6cEdqYjhScFhackpHaXJQVlZHMlE?oc=5",
-      "source": "BigGo Finance",
-      "published": "2026-10-09T20:25:00+00:00",
       "score": 3.0,
       "tags": [
         "tension"
