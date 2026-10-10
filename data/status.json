@@ -1,17 +1,17 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 181.5,
-  "closure_signals": 4,
+  "tension_index": 171.9,
+  "closure_signals": 5,
   "articles_scanned": 221,
-  "updated": "2026-10-10T15:29:15.370027+00:00",
+  "updated": "2026-10-10T19:26:57.517263+00:00",
   "headlines": [
     {
       "title": "CENTCOM: Claims by the Revolutionary Guard that the Strait of Hormuz is Closed or Under Its Control Are False - \u0648\u0643\u0627\u0644\u0629 \u0635\u062f\u0649 \u0646\u064a\u0648\u0632",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oc1pDRFcwWGhlY3pvWGpkTGJLOXZKZmpPMW9LVjBROGZRd3AxVWh1UU05M2ZjQkJ6VFU2cW1UTTk5bEU4V05WdnlCNUFqQm90bl9HTTBR?oc=5",
       "source": "\u0648\u0643\u0627\u0644\u0629 \u0635\u062f\u0649 \u0646\u064a\u0648\u0632",
       "published": "2026-10-08T06:07:26+00:00",
-      "score": 8.15,
+      "score": 7.93,
       "tags": [
         "closure"
       ]
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91SWxWU1RhaUo5RDRiYUo3MmVGRnlSMmFldjNaaC1VcHRDSkpIX3hsdUl0NUk2dE9hd3c5bmVtaG1aSnZhSk5DUG1oMEFyZHBjSUtENmNR?oc=5",
       "source": "\u06a9\u0648\u0631\u062f\u0633\u062a\u0627\u0646 24",
       "published": "2026-10-08T05:37:00+00:00",
-      "score": 8.12,
+      "score": 7.9,
       "tags": [
         "closure"
       ]
@@ -31,7 +31,17 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1maW14dWthbGRiRnQ4NWxpTE1MVk05OTM4ZldmR2NKeGJKbnU0YUY2Rk9pakpXa3d4VHdVbmxaUHRCaGVjY2kwUjUwZXZZeGZTSFEteHA3WmwyUTExSFQ2ZlgzTU9GTS1tTE5sMnBB?oc=5",
       "source": "CGTN",
       "published": "2026-10-07T10:36:12+00:00",
-      "score": 7.06,
+      "score": 6.84,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iran's Guards say tanker exploded after hitting mine in Strait of Hormuz - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOR2ZLQ1AwUEFXV0ZDc2dYV2dkcjR3MmU4cGktQ2gyc0hta1ZkVFI3TVdtREJiU2JjMFpHZG1hMHl2MjBFUU41OGZvYnlIM0p5WFc2bjh6VXlvQXNpMUhhRDR3eDlvdk1ZZjlyeEs1UGpSTjltbUwzelNwZDBQajhDdlg0TlBNU0FnQm9LY1hrSWFraUZXakxkcnBTNl8wU2NJOERsaXVXS3diM2I3WTFTb1lUM256ekNvWTJJY2ZaV2J2cjZYZ2JlSTBiQkg2SThHZlN2cjlmd2llXzlRRmJ4dTM3dEVlYXktN1dB0gHwAUFVX3lxTE9NM3JLeDUwSWl4cjlUaEFLN2tMWHBrX3NkMVFHQ0RpT095WnI0bXR6NWhMWVhkcHNvLUdTbUJCWERqWFZVbTc5T0JLTkpnbnRKNWJpbE5vWlRMY01KX1RWR2dXNnZNbUdYdHN0V1Y2eElzNFMtRUhOSWxIWVpFWTFKc3lpTkN5U3l1ODVZUzNWM01meklFV2pBVW4ySW1qS1Y1dVVoVjdRZUpGQnM1ZFZxODVKck5qWk56ZFF1RU9vdDRQYzBtRVk4ZnMzSHZuWGxnZlFuN0x0QmQwQUwta0xsUnZpRW82dUs1ZlAxTWh1VA?oc=5",
+      "source": "The Economic Times",
+      "published": "2026-10-10T17:25:45+00:00",
+      "score": 6.0,
       "tags": [
         "closure"
       ]
@@ -41,7 +51,7 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU2tXTF9qRnZpZjVabUdpX3Q5UVBCR18tb2JrR3dJUVVacUhyUURRQ05uZ2dKOVBMbHJLQmRmejB3TjhPSGpxUnFZOEdJNFJ0Q2k1aXNVQTZNVFYwV21YdUhmd2g0MnZqZm9ycGVfM21VLURfY1ZzOENSTUpxVTcxRmdpeS1ka1JhUU4tczc5RGpycmx5NWt6NjRJLThhc0VlRFRTS0p0X0N5bHFwbl9PaDQyZ25xdw?oc=5",
       "source": "Reuters",
       "published": "2026-10-08T13:17:53+00:00",
-      "score": 5.98,
+      "score": 5.83,
       "tags": [
         "tension"
       ]
@@ -51,7 +61,7 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzRPSjlIQTd4QndKdm9CUHk1ZWxIaktfOERjc1A3VHpYMHV0Z1Zkd3dGNURqMFJFR3l4LXo3OU5scG96QXhMd0F5TGthdlVzbmg0QVVHbnktU096TkFWUnc5QU9UV0xvTk1jbDY3eGFJaWZXN19UOEJvbTF6eFdFcW13cWxwdWRDVzU1OEl6c2ctT3ltYVJZN0d1a3hvQdIBowFBVV95cUxPUktnalZhVFFxNkhBTHFVS0tOSVBzVE5rZWFhcHhQUVk5dnlocFVZQWdNeHlNQ2pwY0ctTHp6dkQ1WFh1djJsUkQxZ3RZR3NkbVVJOWNCNTFqdFl5eUpMc044SVlwQVMyeldla2VYZ2FxVG5ud1RvTVlKNVc1d0FMNjZSemNubmdydW5BRE1peGVjdmJNSFF5QVZ2OGtNMTVHY09B?oc=5",
       "source": "ABC News - Breaking News, Latest News and Videos",
       "published": "2026-10-08T18:06:15+00:00",
-      "score": 5.29,
+      "score": 5.16,
       "tags": [
         "closure"
       ]
@@ -61,9 +71,19 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE05R2ZWY2RsaFB6VWNoVFIzTFVwUS1qZkhqc2pibnJtekJySG5NaGxCNVd2eXF2X29qYmFRb1FocVJmREU1OWhN?oc=5",
       "source": "Dawn",
       "published": "2026-10-05T13:10:14+00:00",
-      "score": 4.54,
+      "score": 4.32,
       "tags": [
         "closure"
+      ]
+    },
+    {
+      "title": "Iran shows Trump\u2019s opportunity in escalating Hormuz attacks - Washington Examiner",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWWxnZFV6NFZWbGdZSTR2RkVwdGdZaUJxNkpQZ2pYY0FUcWk4dlByb2VMUWpOem9lUjZHN25UZmlHZXhoaWtVTGhoYmg2TFpVOGM0cW02MnNzRnIzU2hmX3BlTE52QVBycXRRYnFMd0dBS0VobXZjWng5aDd6a2NoRVpINjZoRWFkMlJTUDBhYlNRN1FRT2JHYVcwV2ZxT2haOEREdDl5Tmk2THdGUjFNMWpZeDdaenFK?oc=5",
+      "source": "Washington Examiner",
+      "published": "2026-10-10T09:00:00+00:00",
+      "score": 4.0,
+      "tags": [
+        "tension"
       ]
     },
     {
@@ -71,7 +91,7 @@
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZWE4MDk0OC16dUFpdERsSlVkNTFVbHNKTGZUY1RFRFRFd2E4UUlWUXNSN1hWaGJQbjh3X0NpM2ZtOFd6ZG1pa3BUa1JMVF9KNWVoaXNTOG16eUhxcnZPaC0xbjlPUVJSTkc4QmpBdXFyUm9fQzNiTE5tQmZhYkhSUmJ1V05xOGVSTU5KNmpJb0hzcEJhaE5QNFMzTmNrcElQa255ZWVxWjBUdWtlMDRCdjVfY2hTS2tsNXN3a1NvZkRWNjUtTzdCb2xJcXhNWWdQSDNlZ0lmejBTRUNlS0l4VWJaVXhDQVk?oc=5",
       "source": "Oil & Gas Journal",
       "published": "2026-10-08T17:38:25+00:00",
-      "score": 3.51,
+      "score": 3.43,
       "tags": [
         "tension"
       ]
@@ -81,27 +101,7 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMDBoVEtTeWRFTUgtV1B4bHdNa3loZUR5ZEpnV0ZacEZNT3phWVowQ2ZyZ2lJcl9VMGMxeW1JNmh5bUZSUEFYUEFLODhHQm1RTnR2SjNaTzV5S0lLOGRPbW1Mc2k0aHd5MWxkN3Nxems3XzR1Uk05a011Q2hlMFYtQ2lmWlp3MGlxd2JRVWg3M2p0T2c?oc=5",
       "source": "Time Magazine",
       "published": "2026-10-08T11:00:00+00:00",
-      "score": 3.37,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Tanker Attacks Push Deeper Into Gulf, Rattle Oil Markets - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTFQwUjRxdno5OVYwNHJEdFNNamhwSHhSSHJBSDY3bzd2OGtwX0NyQXBEWFNIZFh3a0IzRWp1LUoxWVlOTW8yMERzWmZfLUItTG1hN3FyTkRjaldSUGkwQ0haa0F3ZF9HZ0RJVEJXWWdXOTJhUjhHRVo0LTQ5LU0wOGtiQkxKMzNuWlVfV1RkWmpNM2FGUDNjMHJmU2dIUUIwU1FRMGktbTFzUWpVSVpn?oc=5",
-      "source": "WSJ",
-      "published": "2026-10-10T13:42:12+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran Guards Say Struck Tanker Transiting Strait of Hormuz - ASHARQ AL-AWSAT English",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcE03dFVlb1YyNms2MGhlMmljSmJFMGpkSmNESF9tYmI4cEZhTDZacjF4WDJtdnlfSXk1U2h4bWdoOVFQemRnT09CRDE5ZlNVUHJMRkFfUTRZSUFjSEc2RkF5R1kwTTFNMm1pQXlkRHN0Y2trMkNFVFBSOFVjNWc2LU5JQWc2dTFKOXFzWlVsZVliUDlEb291TGwxQQ?oc=5",
-      "source": "ASHARQ AL-AWSAT English",
-      "published": "2026-10-10T05:19:15+00:00",
-      "score": 3.0,
+      "score": 3.28,
       "tags": [
         "tension"
       ]
