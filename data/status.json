@@ -1,13 +1,135 @@
 {
-  "status": "OPEN",
-  "label": "Normal traffic",
-  "tension_index": 0.0,
-  "closure_signals": 0,
-  "articles_scanned": 0,
-  "updated": "2026-10-11T23:01:28.108141+00:00",
-  "headlines": [],
+  "status": "CLOSED",
+  "label": "Closure reported",
+  "tension_index": 141.9,
+  "closure_signals": 11,
+  "articles_scanned": 226,
+  "updated": "2026-10-12T02:32:08.177787+00:00",
+  "headlines": [
+    {
+      "title": "Second Super Tanker Strikes Sea Mine in Strait of Hormuz - WANA News Agency",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTlBmLXhuZnM2bndSYWdsNXFqelFSaU9GY3JZRklwYVFnbE9saG1LUGY5TFJZZGY1b3hMSjJoaWNra25aR3FJU0NvUXJjczJKWDJNeWZERHI5ZU05UmhsWExoZlZRZFN3SS03QmVZTmQtZnFyQVA4WVZBUVVtdmVfUDVR?oc=5",
+      "source": "WANA News Agency",
+      "published": "2026-10-11T17:53:06+00:00",
+      "score": 9.0,
+      "tags": [
+        "closure",
+        "tension"
+      ]
+    },
+    {
+      "title": "US CENTCOM Rejects Iran\u2019s Claim That Strait of Hormuz Is Closed as Tanker Hit off Qatar - \u06a9\u0648\u0631\u062f\u0633\u062a\u0627\u0646 24",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91SWxWU1RhaUo5RDRiYUo3MmVGRnlSMmFldjNaaC1VcHRDSkpIX3hsdUl0NUk2dE9hd3c5bmVtaG1aSnZhSk5DUG1oMEFyZHBjSUtENmNR?oc=5",
+      "source": "\u06a9\u0648\u0631\u062f\u0633\u062a\u0627\u0646 24",
+      "published": "2026-10-08T05:37:00+00:00",
+      "score": 6.17,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "2nd super tanker hits naval mine in Strait of Hormuz: IRGC - Mehr News Agency",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYWh5RkFWcnQ1ZVBrR3JlZWZ0eEpYR3FxMUQzcmhzaHBTTUhVZDFqeVlsa0NLSGtMWVlUUFpnLVNiV3Z0aFNUbFZjeFVXTHJWMm9qb1Zpdk5zdTdvR01VQUdfQXB6UW5FRzZkaWFlVXlCbTYyQzYyWEpRSnVMa0lVRTloWnJNTHFRQ0VjT2JwN0pGM0ZKRlNPZQ?oc=5",
+      "source": "Mehr News Agency",
+      "published": "2026-10-11T19:21:00+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "US targets mine-laying vessels in the Strait of Hormuz amid blockade disrupting global oil markets - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzRPSjlIQTd4QndKdm9CUHk1ZWxIaktfOERjc1A3VHpYMHV0Z1Zkd3dGNURqMFJFR3l4LXo3OU5scG96QXhMd0F5TGthdlVzbmg0QVVHbnktU096TkFWUnc5QU9UV0xvTk1jbDY3eGFJaWZXN19UOEJvbTF6eFdFcW13cWxwdWRDVzU1OEl6c2ctT3ltYVJZN0d1a3hvQdIBowFBVV95cUxPUktnalZhVFFxNkhBTHFVS0tOSVBzVE5rZWFhcHhQUVk5dnlocFVZQWdNeHlNQ2pwY0ctTHp6dkQ1WFh1djJsUkQxZ3RZR3NkbVVJOWNCNTFqdFl5eUpMc044SVlwQVMyeldla2VYZ2FxVG5ud1RvTVlKNVc1d0FMNjZSemNubmdydW5BRE1peGVjdmJNSFF5QVZ2OGtNMTVHY09B?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published": "2026-10-11T06:27:14+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Super Oil Tanker Catches Fire after Hitting Sea Mine in Strait of Hormuz - \u062a\u0633\u0646\u06cc\u0645",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaFpHZlQ3QmM1VmVjSG9mdkxreDNtdzBOa0tyalV0bm5pZ0t6S01rRXFTdV9jT215TDBqUDJzOVg2ck5xT0x5YlFleEZ0cWhFVE1PT1h2dWFSU1lJa0hJZkl3SDV2N3ZMd2lIa3JtcDJNRTJKU05FZVFKM3RBcnpkRFNkem9meFNNMUk2SUJFRHVSQUw4c1ptZkRJdk5WS1FtNUVIX00zTmEwdWlNVGpPOG9iMXhPNTBGdFJIYU1pUnk4eEXSAcgBQVVfeXFMT0N1dk9mYzdRLXNOVVBYR3RnSEFCZ0hZbDBtY3hIY0VTSm9BYXdCcjRNZDFFRUtmam5vZFh2enp1bmI1MWo4U1daNFNHOXVveVRra0wwVDRSVU1pT2FCbU5zbE5JM0lzTEhfX2pwZGlOXzBpMnJzRlRZMjczQ1ZXRXlZZVdDaVdBSnFfZkxZTmkxdE4zejJIb3pORjktLTEwTmxoUGVJaXVRR21JM3FlUTU3QjRyMURibkozaldUTFpzVnFGSnZ3SXE?oc=5",
+      "source": "\u062a\u0633\u0646\u06cc\u0645",
+      "published": "2026-10-11T05:57:05+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Video: Supertanker Hits Mine, Catches Fire While Trying To Exit Strait - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRVRnMFdZam9SUHhBejJXM3JNampibU1VNFNnU0tIYUFpTkp6LVpfa1dBaG45dU9JUDEzSkZPemxzY1RiSmhsVFRnQUViWmFObXZxUjQ2cE1YdkFTaDZUZk9yX044eGpMT2ZsUmxtR3N2cDJhOVNyb1ZSNUFyOV9qalR0OHZPeTFrZ0h4MTA1OUd2WlpPU2ViNlZuczhkUml5WTNwYl80aVhVZHc4VEHSAbYBQVVfeXFMTUtXYmVHRzM3LXZpVkF5TEJsQzJyNkowbkJVNUFrLTZScVdORXU3b3RmZzA0bGZGTm56TjBZMi1SQW8zVFNEdDRmS1hnbXFmNDZpNlNObnlFSGNGX0hPNFlyQXFrRHI1bWtWUzlvZUxqWm9uc2RNSkZFNV9lUGRfZ013dzI1OWdkSWYxQ3NZUzQwQXBjR1BIaHRWV3J5STFtRDBIX0gtU3lFUGNrYlNCME1CdlhiZnc?oc=5",
+      "source": "NDTV",
+      "published": "2026-10-11T05:32:21+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "IRGC says oil supertanker hit mine in Strait of Hormuz - Middle East Eye",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTW80WHBEYjNTNm1GT21hUVAtX3g5al84R0ZZOXZlQ09aZkFpRmRyemRmZ1UxWGdGaXlySnFvdmlfSEdIZEVRQTlNYUNrUzBTVnAzT1pla0tEUGpTdjdrQV9rN0VyYUxUNUlYUnVVMXNxMjh4aV8ySG5ZbW9oTHVyZDF6WGJSOXlkQzI3djZHRXV6R0gxal9UZHRVOTRTSkp4X3dzVGoyam8?oc=5",
+      "source": "Middle East Eye",
+      "published": "2026-10-10T21:45:00+00:00",
+      "score": 5.84,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iran's Revolutionary Guards Say Oil Supertanker Exploded After Striking Mine in Strait of Hormuz: what 10 outlets left out - NewsCord",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPLS1JZTB5OFBsYkZFbWR2VzhWU1JhZGN0dUNKLXpOeHlzVm40XzlDX2xqZjFEYXROR29UYnZEWmREaUtDU2hvSDV6SDdRMmFTUFhkZ0RmeWI3ZFR0bFVLbHB2UzB3TGtIZXBZWl9xMVprQmZDWU9mdjZQY2dGaTliclhObE1VQnVqWEM4ZHo5TzFhMmM3NVkteTlPZ09oQWZxVERTSTVud1FHOXVTcjlTN3pzOV9uLUZBUVVYQm80cFdDUGdFM2RXNFBKZkdKVDVzbUdpcjFOamVpTlg2Q1dVVkRQR0pmZThkVVE?oc=5",
+      "source": "NewsCord",
+      "published": "2026-10-10T21:09:22+00:00",
+      "score": 5.82,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "IRGC Navy Says Tanker Caught Fire After Striking Sea Mine in Strait of Hormuz - WANA News Agency",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSjdud2V4cnp2N05xQjJVLTNsTW1LRE9RV0FKejBDVUNsYjlNVHE4Mm1BbHBxc3IzdnphNGZqd3ZDb2V3cVZHbzNKemEyNm00MGhrNm5DSWJZNjlzYnNzOXM4dGdNMHhjdlgtbHhZTDdGVzV2WWJsbHlrYnZ2eGVHZ3hkbzktXzhwd21WZU9ISEV1YlJnTGEzQklBTG5EUQ?oc=5",
+      "source": "WANA News Agency",
+      "published": "2026-10-10T20:42:51+00:00",
+      "score": 5.81,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Supertanker explodes after striking mine in Strait of Hormuz, Iran's Revolutionary Guards say - Anadolu Ajans\u0131",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORWVPUHBLV2F5SnJablI2Vk9adC1JR29uMTBDM2xVM0pDaEtnNDJhUzVrcnF3NHI1a0ZpN0s2QVBWQ3R1b3hZckpCcjkzbDkxRFgzZXRxWC01amZ2YS1TNl9jY2ZTRjNrV1prZDVaRzlZUVBpdERtUG8tcFZielhIbFh3VUtqOFpDSzh0SmphdVlQaTNxSlhFLVRCc1djcTdHblhsODBfNUIzRGd6MmxVd2EtZEZ2RFRRTXpuRXVIc0Z5WmtPS1dfMF9HS21KLUplQUE?oc=5",
+      "source": "Anadolu Ajans\u0131",
+      "published": "2026-10-10T19:52:52+00:00",
+      "score": 5.78,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Advisor to the Commander-in-Chief of the IRGC:The Strait of Hormuz is closed, and the armed forces have complete control over it. This situation will continue until Iran's legitimate demands are met. We will block illegal routes in the Strait of Hormuz. - Iranian - CGTN",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1maW14dWthbGRiRnQ4NWxpTE1MVk05OTM4ZldmR2NKeGJKbnU0YUY2Rk9pakpXa3d4VHdVbmxaUHRCaGVjY2kwUjUwZXZZeGZTSFEteHA3WmwyUTExSFQ2ZlgzTU9GTS1tTE5sMnBB?oc=5",
+      "source": "CGTN",
+      "published": "2026-10-07T10:36:12+00:00",
+      "score": 5.11,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Attack against an oil tanker in Qatar after Iran threatens to close crude oil transit through Hormuz - Diari ARA",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVmViVzhVTjV1VHpBdDVPZWl1am9XMmp5NlY0VVFJQ2QzTUs0a1NidllJWS1LajFJekRIVTVWc24zcUpGelJmUmVhT3p6bzNrNG1xdm80b1ZMSXhTcVVBcFJGWnh5ZWJ1WkMtMHd0bjNBeURLa3Y4VkVvaXlKeWJzQVZiU1F6RG9rVmV3UnRQZEFvWFFDMi1UU2ZLcmhqUDZ1SmxWZmFoWXZHdWU4OTA5eG1UaW03R005U2NPSGd3NDVRaWU4dGp6ZGxTZVY2d2dmc0l4dlVGMDRPSG9jdG5wZTZ30gHnAUFVX3lxTE5IWkpORHJ0WXJZOXpDWmJlWDRiSllVeUxXSnF5YkIzWDRpdEtMY1owWmt1ZHpkQnR5UEthSG1SZGNiZ1l4WTNhM080bUhqWUVCVC13ekFTWkttWHdxYm1acWFNZlJTWDhUdnUteGZSdGdRNjl0ckwtdzYtSi1MblcwbkRsLTVueUJ4c1A2LVdoWXhsWHNEaHh5WUN4T21mV0c2NU9KQ2h0bHA3ei10d05XNjVmQkdndEJ2ZDJCVk8zSDVYRzR2T1U4bExJSDdDN2F1d3h0UlRJSGFNaTFja01fSGtySzEwTQ?oc=5",
+      "source": "Diari ARA",
+      "published": "2026-10-08T08:47:50+00:00",
+      "score": 4.44,
+      "tags": [
+        "tension"
+      ]
+    }
+  ],
   "brent": {
-    "price": 105.43,
-    "change_pct": 0.68
+    "price": 103.0,
+    "change_pct": -1.64
   }
 }
