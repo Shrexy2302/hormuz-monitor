@@ -1,11 +1,21 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 349.0,
-  "closure_signals": 19,
-  "articles_scanned": 234,
-  "updated": "2026-10-15T22:53:19.145993+00:00",
+  "tension_index": 359.0,
+  "closure_signals": 21,
+  "articles_scanned": 229,
+  "updated": "2026-10-16T00:55:35.240794+00:00",
   "headlines": [
+    {
+      "title": "Sayyari: Strait of Hormuz Is Closed and All Transit Must Be Coordinated - \u0627\u06cc\u0644\u0646\u0627",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOG82WWMxb3l4R2V5RHNGTzFEWG9zaGI5ajdzV2NMRU1wM0ZmcjQ2V2R5MkVsVFNFcVBfb1NOTTF4VnltU005c3U4OE9mUHZpT0FuVGY1a2lrNDVlZVJjMWdjOWo0UnV4REMyZVJuMVJGbGU3cXNabzNrUU5PM0hvUFhWSHVrS3I0NjBBVW9FTGsxOXFFdWVNWW9EbXgzeU1NWFFIYmtVWm51enFyNkxlQnFpdldNamhW?oc=5",
+      "source": "\u0627\u06cc\u0644\u0646\u0627",
+      "published": "2026-10-15T16:28:00+00:00",
+      "score": 10.0,
+      "tags": [
+        "closure"
+      ]
+    },
     {
       "title": "Rear Admiral Sayyari: Strait of Hormuz is closed; transit requires coordination - ISNA News Agency",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWWozMTdCS1lod3VPdHBsd05tQkFGQVk0TjgxZXdmYWdOODVCM0VpNWVReEQxUHFtRFgtbFVLUy1OQ2FER2QxeFdaWnNSYUdpUTFTcWVPdTZoUkZlUkR2ODhUZF9VY1Z4RHAxcXlIWTV5QzY1NTYxc1o1bXZVWlpJT2FpMnVrUF9YM2lmaExUTy1oVllhRjQ5aDNibXYta1JoZXBTddIBTkFVX3lxTE1GLUVpWjBNSlZKc3dIczZnUTE0YU5EZ052UGtZbHcwT3FqS0RvZ1I4UFlxYkF1UndROW5PVGRfcnd3ZnVHa1pFOHFnSUpYZw?oc=5",
@@ -71,7 +81,7 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yeFJmVDMtYzhNNnlEMHdHWktXakRZMm5NZnRWb3NrVDR0cFpaZWw3YTRFdDFwb0hBNHV5bU9VY1JsSVZ4ajhDa0FDc0pQYUhOQ3dVWHRvREp1U0lBTHNVRTFmend2N1ZrZEo0eA?oc=5",
       "source": "X",
       "published": "2026-10-13T03:20:04+00:00",
-      "score": 6.82,
+      "score": 6.72,
       "tags": [
         "closure",
         "tension"
@@ -82,7 +92,17 @@
       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPM2syQ1RuRU5sMnVUem1tZU5OeFNLUzJ6T2dmVFc3aFZHUFVsV1BqTE01aGdPV3pMY001YUZ5eUc4TFZna1cxN1hTQVVYbzZSR25yTHFmVjhVTDZ6SGVWRVI5Q3JjZHlrc3d3ZWtIUTdHeEJmOXZ3azlUOHBiNTI5RWQ3R0pLamE0enl2Zld2Z2I2blQ2TjRuMm1EVjFJeXFsV1hWekQ4elp4Skg1ZTFZRFdfTzVyVjBQWnplRmFOdklKMndmUkYzbDMxQVVxd3c3YTVRYVF6Qm5mWTVBMmE2N0JyUFItdTlLa1VBSW5wa3d5Z2tKaWJ5MDFwS2ZSeXc2dUlqaEJBamEySk54?oc=5",
       "source": "\u0635\u0648\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
       "published": "2026-10-13T08:32:40+00:00",
-      "score": 6.3,
+      "score": 6.21,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Cargo ship carrying over 2,500 containers sinks after reported naval mine explosion near Strait of Hormuz despite US claims of clearing the waterway - Business Insider Africa",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRmZpdzF3eHgxSEFMaUlSRVd4WlhaaGFqd2tUaEJ4emk4ZmlUaktKVjZxYjJEdjYyLUxVYVA1azRnMHBmSDVvbzgzWm1UYm5Kc2lZel91bmtJOU1TbC12MW0xV0t6RzJuY0ZXV2J4UGw1aGRuNE9iSGtHZERwbjR1T0Vub045WG9veEN2V1NvTEVWemgtWk0zbE9sVVZQUHpObnUza05mdTlUbVFCcUJYbkZzanR2NEpORmRnTnFQNjFlWnYzS3VXRml4M3dPUTJtWm1TVFFn?oc=5",
+      "source": "Business Insider Africa",
+      "published": "2026-10-15T16:31:09+00:00",
+      "score": 6.0,
       "tags": [
         "closure"
       ]
@@ -106,30 +126,10 @@
       "tags": [
         "closure"
       ]
-    },
-    {
-      "title": "Ship carrying 2,500 containers sinks after hitting mine in Strait of Hormuz, claim Iran\u2019s Guards - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYnFKdG5Fb0RKUUxQWUM3dERsOTFCMXBYZ3p6LVR4akVXZ3M5b3pkT2VBcXV6UVdzSVcybzFua19fU2xDeFVfekl2Y1BINDNCV1ktSTlKc2RaMWhPOU4yMGNKcDBvUV9UUUNJcS1qbWNaa0d1LTFhLWoyRm52LXZJX0hFWnRza1RLSVRUZVFSUVd5NGJ2TVhmNEd4NE4?oc=5",
-      "source": "The Independent",
-      "published": "2026-10-14T23:21:00+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "News Wrap: Iran says cargo ship sank after hitting a mine in Strait of Hormuz - PBS",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc29XYkxPbHZ4Z3R3dXJpZFozWXBpTTR1Rkh3RVdrRHdxanVsbkdvaEhpeW9zZXU3Y3pocnV4d0hFck5jalRFS2ZRUE1WVmVZTlBtMVF4czVkbjBjc2Y2c1AyaXBIb25VWHMwR3Nyb2JPdFMzUjBUZF8tVWE0d1NVUnZiSWZpbmg1ZkNuN2Q4Yk1WNE9ybzVZMEN2UDlCT2d3RG5EV05LN0RyNExnclFZ?oc=5",
-      "source": "PBS",
-      "published": "2026-10-14T22:50:43+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
     }
   ],
   "brent": {
-    "price": 105.55,
-    "change_pct": -0.35
+    "price": 105.54,
+    "change_pct": -0.36
   }
 }
