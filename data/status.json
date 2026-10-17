@@ -1,17 +1,27 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 326.0,
-  "closure_signals": 16,
-  "articles_scanned": 230,
-  "updated": "2026-10-17T08:57:13.383481+00:00",
+  "tension_index": 377.4,
+  "closure_signals": 24,
+  "articles_scanned": 222,
+  "updated": "2026-10-17T12:41:53.588872+00:00",
   "headlines": [
+    {
+      "title": "IRGC declares Strait of Hormuz closed after tankers hit - Middle East Eye",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN2FKNlVlYkxoY0V3ZWNnZFFXWVRTd3JwUnVkcEk5T0FLaDlSbVBnamY3V3RoWEhFWXVUYmpvMEQ4LWJpUWYyZGJ2V0twcTVkNHlpaHFGOWRxWWgySmJjd2lROEJ3TTFZUGI0SG55VWtEd2E2Q0x2RFd4am05aTJucWdXbWZKckpQSHVRMDQ2dkJ5VUZGdHVLSEw0aThsWnFlZ0paaGR6VWlWZ3pqbFE?oc=5",
+      "source": "Middle East Eye",
+      "published": "2026-10-17T11:06:00+00:00",
+      "score": 10.0,
+      "tags": [
+        "closure"
+      ]
+    },
     {
       "title": "Rear Admiral Sayyari: Strait of Hormuz is closed; transit requires coordination - ISNA News Agency",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWWozMTdCS1lod3VPdHBsd05tQkFGQVk0TjgxZXdmYWdOODVCM0VpNWVReEQxUHFtRFgtbFVLUy1OQ2FER2QxeFdaWnNSYUdpUTFTcWVPdTZoUkZlUkR2ODhUZF9VY1Z4RHAxcXlIWTV5QzY1NTYxc1o1bXZVWlpJT2FpMnVrUF9YM2lmaExUTy1oVllhRjQ5aDNibXYta1JoZXBTddIBTkFVX3lxTE1GLUVpWjBNSlZKc3dIczZnUTE0YU5EZ052UGtZbHcwT3FqS0RvZ1I4UFlxYkF1UndROW5PVGRfcnd3ZnVHa1pFOHFnSUpYZw?oc=5",
       "source": "ISNA News Agency",
       "published": "2026-10-15T11:43:06+00:00",
-      "score": 8.82,
+      "score": 8.61,
       "tags": [
         "closure"
       ]
@@ -21,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ReUN0ektnajMyMUlJQWpqVU5xeFpxSkl3VmxxMmRvclFuaE0zZExoSzFrRWNGekE1aDBPeVhhZGZ5QkRkTU9rZFJUbzhKZ3M?oc=5",
       "source": "www.saba.ye",
       "published": "2026-10-15T11:28:06+00:00",
-      "score": 8.81,
+      "score": 8.6,
       "tags": [
         "closure"
       ]
@@ -31,7 +41,7 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNanpUQ3Q4T2JvNlpCODJHNjQycXNGMWJPMlZUWVkyeHduVDNfQzdUY2FzOGtRM0ZIMUNvUWV5czQ1R1k4bXVVdHkzZHlmbXIzZWFIcl9qY2NUbUhkTHBRNFcxajBiaURqQnd2TkszOFBuRkQwR2IyYUh1dDRocXNIenJja1JENl9SWTNzanhtdVM3bmNzRkR4T25nS0FoQ1U0VkF4R21YR1V0R2pwVUlrN3JHV21na3hZMjlMZ3VLYzBFa19w?oc=5",
       "source": "Pars Today",
       "published": "2026-10-15T10:07:00+00:00",
-      "score": 8.73,
+      "score": 8.52,
       "tags": [
         "closure"
       ]
@@ -41,7 +51,7 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWXJNeTc4ckNESVBMS200bkFmZVVNNHA3aGszalhJeGh1SWNEYjFUcEEwZEVsZXVOTUxlTWR1d2ZQSHJzRzNMSDZZUXJZV2c0UV9oalpackJpUVgtVk1FR1ZsamJyOEZ0cnR0N3pKWjU3TU5JdUxzVzVSOE1yanV5WnN1aGNuMGFVYW5F?oc=5",
       "source": "PressTV",
       "published": "2026-10-15T09:12:00+00:00",
-      "score": 8.68,
+      "score": 8.47,
       "tags": [
         "closure"
       ]
@@ -51,7 +61,7 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOODdzRmVuR0Y5WWtOOFF1d2liOGVaZ3R2ZmdWLVlVNWJNWUlvazJ2LW8yU2h3dWtld1Vjc1h0bFViSFM3VEJBR192REl4ajJrMkl0OE9lbk8wZEdUbkRyYWdVLVlSWmc2U3lEWUNqV05MTmNKNHR6MUtURHpIeFpvcFV3?oc=5",
       "source": "WANA News Agency",
       "published": "2026-10-15T08:34:36+00:00",
-      "score": 8.65,
+      "score": 8.44,
       "tags": [
         "closure"
       ]
@@ -61,26 +71,46 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZXNfQ3JnaWQ2aGdoRUdFY1ZZZUdHalBHYW41cmtpbFF5TmZBcXpiMlBrSXVkMnBHc0x3QjRmLXBVUEI1YUl3TDRueHItNWpzM1VmZUZrZFR4bld5cjVvZHFNQ1FQX3RoNHlsRFYzTUJteWFXSVhZb1dtSU9RbHJ2cUZ5VXl2M1NJdzc4Y0ZleXo?oc=5",
       "source": "Mehr News Agency",
       "published": "2026-10-15T07:28:00+00:00",
-      "score": 8.58,
+      "score": 8.38,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Supertanker Catches Fire after Hitting Sea Mine in Strait of Hormuz - \u062a\u0633\u0646\u06cc\u0645",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZlJJQWVOc2VuOG5EeW5oWGR5T0pVbHZBXy04bXNmSVhOeExjcGVEMWNsaDR0UGxLdmVjMExpS0pXcXlzY2lzdGlYYXFTV3hTaW8tT0pJTEZhQ2ZuQVpyb3hGb0xZaXdLRzBjTV9mdlJ2dWhuTlo1UDFXRUlOOFpQSmRnczV4Y1lDNng2Y3JQQXItMlNJR0M2SWs0SkxVQ3NoODY5Q1pIWW1OaEdXWmFVVnQtXzJuMXVLSVAwZ9IBwgFBVV95cUxQNFhDNDBtSGxuWC1jZ1JHTnNLdG84QnUzWlJya0phMmR5ZWRWTS1za2JrS0hPV0JkcHBmM1ZQenVCenJER0YtVEpPRjFhREtPRGNrUjRxd0lqeGE4djFrbVYzUjdhUEM1bVExRC1qVHhHckxWOE5GeXNwWlZ2NXN1T093TVpORWxldkVnTGQ4VzVMZUhFblZxaW9JekZCWTBfS3NpT2NGQ2RDbGtWM1Z1MHlTN1hBZTdqYTZCR051WFFwdw?oc=5",
-      "source": "\u062a\u0633\u0646\u06cc\u0645",
-      "published": "2026-10-17T08:01:36+00:00",
+      "title": "Iran Laid the Mines \u2014 Insurance Closed the Strait - https://houseofsaud.com/",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xdFdyWEtLanhuNnVVbHRYME81V3R5X3p1ci1DeGotMjV6emxhZEtjOEFzQ2JKcm4zQjFNM0c1NmVoVVZxZWdwYjNBaW9vT2p1dGxvRUhCazFSeUZRdW9STlFyWmZQaWRiNWNpcGZ3?oc=5",
+      "source": "https://houseofsaud.com/",
+      "published": "2026-10-17T10:45:02+00:00",
       "score": 6.0,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iran: Supertanker Hits a Sea Mine in the Strait of Hormuz - blue News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMkI5ZmN6QWZhUWlScGxWa2puQmdQTE1KTlFZOFZKM2NHTmVSeUhjc05FWFEzZ0xsUV9TdUx0VGxFRHkzb0l6TmQyTl9Vd0t4NzFGLXdtaVhVOUpEd3lRT19oa2FVM1ItMzN6NkdoN3pjczE3NU5sYk5oWTRGTlhpRG5RY0k1THJ0QmVCZzc4OW5MN1hEc3F5eklJUXM4UTA?oc=5",
-      "source": "blue News",
-      "published": "2026-10-17T07:02:45+00:00",
+      "title": "Super tanker ablaze after striking mine in Strait of Hormuz, IRGC says - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbktwWFczRzVqakJOVkF4RWFTT3JqcTJqeGNUZ1NIeVdMNkt2TVRqdjR0V0VmV082RUlqY2VRV1FGUWg5V1J3X01tYWlJeTAtMnJkRC1pTWpUdGFKemI5bHJrUVBEa0YtUEYzOFlNYTdUTktKSnh4QW5jWU56ZmRaQzJLdWI2elMwS0hQZjBNNTE5LU5mVlZLVlY3M1RCMzN0ZGRLejk3MjY?oc=5",
+      "source": "Euronews.com",
+      "published": "2026-10-17T09:22:41+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Oil Supertanker Catches Fire After Striking Mine In Strait Of Hormuz - IRGC - Bernama",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1ZVNyMWxPUzROaFA1WHQtVmRuTmJFM2VRYVhDVE1KM1piNG5YYUN0djN5WV9XN094Mk11S2lidUs0d2VGemNNNnowWkhfVUpWS0dSZjR0d0ZiUXRTN0xhd1Z3?oc=5",
+      "source": "Bernama",
+      "published": "2026-10-17T09:10:41+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iran says oil tanker catches fire after hitting mine in Strait of Hormuz - TRT World",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45X2JCSGtJaHJHWEkyeWZnQnpKYXpFYVp6WnNxZkpIdEhHY2xjU20tV1BxSzJkTVc5OWFsandnTjUyM0hmRlRZQVNraEZuYmxuRy05WHY2OHU?oc=5",
+      "source": "TRT World",
+      "published": "2026-10-17T09:03:20+00:00",
       "score": 6.0,
       "tags": [
         "closure"
@@ -90,37 +120,7 @@
       "title": "Iran says oil supertanker hit naval mine in Strait of Hormuz - Latest news from Azerbaijan",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZlZiZUhwa0RadXE3cXR2YWtVZ0dEc2VCcnpZS1k5X3otalhmbEhxR0JjaVdydXdrSGRVeFVaSnJPbGN2WjZJWmRaMHpiVVFpdkZQYzBpd3l3N0ZiNTZYYTV6QVFoNjdReFVpUjZvTlVYWThzTDk2VkpzZGNGbnpUSHFrdVQxUkU2?oc=5",
       "source": "Latest news from Azerbaijan",
-      "published": "2026-10-17T05:51:40+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Iran's Guards Say Tanker Exploded after Hitting Mine in Strait of Hormuz - ASHARQ AL-AWSAT English",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSkR0R0JNSkx3WUZyOHVWY1Z3T1lBYzdYYllDWU54bFBTMXBnTm40X3IzU1NSWVN5aTVKeXpqbUdOUzZKQXJYdWNYTkJVNU1xeUxkMkVYR3dOZ0dXVi0yZFYwczl1RTBIcjlnT3NORnpSMUh1ZVNXSG5oeDJ1VnB2QjhUMlB3TXNyRFBoMGFCMzk1Mmt0dC1EYjVoRXhnLUNPUG5vRmlrOXFJdw?oc=5",
-      "source": "ASHARQ AL-AWSAT English",
-      "published": "2026-10-17T05:37:27+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Supertanker explodes after hitting mine in Strait of Hormuz - Apa.az",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSER2RGZaNWdvRFhZWVhfcTJsTWVJbmlBN19sLTBXNHFEUVFmTDNKNFlidU03Y3hFaDViVFgwR0xZekVLc3FWeF9Ra0NjVFlmUmJaWFFkQXNpNEd5bzJ1N2Y5ZV9vQXJfWXdMci1mbjVJcHVhaDJLclFKcWR3TldPWEM1Y2VldkVHczRuUmRIb0gwMGs?oc=5",
-      "source": "Apa.az",
-      "published": "2026-10-17T05:14:00+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Super Tanker Explodes and Catches Fire After Striking Naval Mine in Strait of Hormuz - WANA News Agency",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMERWZ2RMR2FiQlVnSmhZUWI1OXRyQ21LeFZNWEJZS25BZ0piN1htMVo2R05WZlFrazNjSXdMRi1iQ0U4WEdxTUNrUk1OTGxUR2gycVR6S1ZIckR2RXNPNkRUS0RxTzEwSkJKX1RVM3pvTmhKTFRkd05ERUVrbjlJT3dfU2tfdjk5T01IWE5wYXBKd3hqaGdLWXVReHI3dTFPc1BKQnBVSQ?oc=5",
-      "source": "WANA News Agency",
-      "published": "2026-10-17T04:34:49+00:00",
+      "published": "2026-10-17T08:58:46+00:00",
       "score": 6.0,
       "tags": [
         "closure"
