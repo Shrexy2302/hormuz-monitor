@@ -1,11 +1,21 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 407.4,
-  "closure_signals": 32,
-  "articles_scanned": 218,
-  "updated": "2026-10-18T01:19:01.966447+00:00",
+  "tension_index": 428.2,
+  "closure_signals": 37,
+  "articles_scanned": 219,
+  "updated": "2026-10-18T06:14:16.545643+00:00",
   "headlines": [
+    {
+      "title": "Iran says Strait of Hormuz closed after supertanker hits mine - Inshorts",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBydC1JbmhmUnp5ZEdXQXdacG9FX0pfQ3JiZDNYTUhTVF9fTTQ2NGl6Z05BaFVZcXVjY2xEeDBnR1RtUlVmcURIclVVZGtPTWs0M1FXa3JQQzdFRThPODB0emtBWmRGcUtTN0xIS21R?oc=5",
+      "source": "Inshorts",
+      "published": "2026-10-18T03:58:21+00:00",
+      "score": 10.0,
+      "tags": [
+        "closure"
+      ]
+    },
     {
       "title": "IRGC declares Strait of Hormuz closed after tankers hit - Middle East Eye",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN2FKNlVlYkxoY0V3ZWNnZFFXWVRTd3JwUnVkcEk5T0FLaDlSbVBnamY3V3RoWEhFWXVUYmpvMEQ4LWJpUWYyZGJ2V0twcTVkNHlpaHFGOWRxWWgySmJjd2lROEJ3TTFZUGI0SG55VWtEd2E2Q0x2RFd4am05aTJucWdXbWZKckpQSHVRMDQ2dkJ5VUZGdHVLSEw0aThsWnFlZ0paaGR6VWlWZ3pqbFE?oc=5",
@@ -43,7 +53,7 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWWozMTdCS1lod3VPdHBsd05tQkFGQVk0TjgxZXdmYWdOODVCM0VpNWVReEQxUHFtRFgtbFVLUy1OQ2FER2QxeFdaWnNSYUdpUTFTcWVPdTZoUkZlUkR2ODhUZF9VY1Z4RHAxcXlIWTV5QzY1NTYxc1o1bXZVWlpJT2FpMnVrUF9YM2lmaExUTy1oVllhRjQ5aDNibXYta1JoZXBTddIBTkFVX3lxTE1GLUVpWjBNSlZKc3dIczZnUTE0YU5EZ052UGtZbHcwT3FqS0RvZ1I4UFlxYkF1UndROW5PVGRfcnd3ZnVHa1pFOHFnSUpYZw?oc=5",
       "source": "ISNA News Agency",
       "published": "2026-10-15T11:43:06+00:00",
-      "score": 7.91,
+      "score": 7.64,
       "tags": [
         "closure"
       ]
@@ -53,7 +63,7 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ReUN0ektnajMyMUlJQWpqVU5xeFpxSkl3VmxxMmRvclFuaE0zZExoSzFrRWNGekE1aDBPeVhhZGZ5QkRkTU9rZFJUbzhKZ3M?oc=5",
       "source": "www.saba.ye",
       "published": "2026-10-15T11:28:06+00:00",
-      "score": 7.9,
+      "score": 7.62,
       "tags": [
         "closure"
       ]
@@ -63,7 +73,7 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNanpUQ3Q4T2JvNlpCODJHNjQycXNGMWJPMlZUWVkyeHduVDNfQzdUY2FzOGtRM0ZIMUNvUWV5czQ1R1k4bXVVdHkzZHlmbXIzZWFIcl9qY2NUbUhkTHBRNFcxajBiaURqQnd2TkszOFBuRkQwR2IyYUh1dDRocXNIenJja1JENl9SWTNzanhtdVM3bmNzRkR4T25nS0FoQ1U0VkF4R21YR1V0R2pwVUlrN3JHV21na3hZMjlMZ3VLYzBFa19w?oc=5",
       "source": "Pars Today",
       "published": "2026-10-15T10:07:00+00:00",
-      "score": 7.82,
+      "score": 7.55,
       "tags": [
         "closure"
       ]
@@ -73,7 +83,7 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWXJNeTc4ckNESVBMS200bkFmZVVNNHA3aGszalhJeGh1SWNEYjFUcEEwZEVsZXVOTUxlTWR1d2ZQSHJzRzNMSDZZUXJZV2c0UV9oalpackJpUVgtVk1FR1ZsamJyOEZ0cnR0N3pKWjU3TU5JdUxzVzVSOE1yanV5WnN1aGNuMGFVYW5F?oc=5",
       "source": "PressTV",
       "published": "2026-10-15T09:12:00+00:00",
-      "score": 7.77,
+      "score": 7.5,
       "tags": [
         "closure"
       ]
@@ -83,7 +93,7 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOODdzRmVuR0Y5WWtOOFF1d2liOGVaZ3R2ZmdWLVlVNWJNWUlvazJ2LW8yU2h3dWtld1Vjc1h0bFViSFM3VEJBR192REl4ajJrMkl0OE9lbk8wZEdUbkRyYWdVLVlSWmc2U3lEWUNqV05MTmNKNHR6MUtURHpIeFpvcFV3?oc=5",
       "source": "WANA News Agency",
       "published": "2026-10-15T08:34:36+00:00",
-      "score": 7.74,
+      "score": 7.46,
       "tags": [
         "closure"
       ]
@@ -93,7 +103,7 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZXNfQ3JnaWQ2aGdoRUdFY1ZZZUdHalBHYW41cmtpbFF5TmZBcXpiMlBrSXVkMnBHc0x3QjRmLXBVUEI1YUl3TDRueHItNWpzM1VmZUZrZFR4bld5cjVvZHFNQ1FQX3RoNHlsRFYzTUJteWFXSVhZb1dtSU9RbHJ2cUZ5VXl2M1NJdzc4Y0ZleXo?oc=5",
       "source": "Mehr News Agency",
       "published": "2026-10-15T07:28:00+00:00",
-      "score": 7.67,
+      "score": 7.4,
       "tags": [
         "closure"
       ]
@@ -110,20 +120,10 @@
       ]
     },
     {
-      "title": "Iranian oil tanker explodes after hitting a naval mine in the Strait of Hormuz - KTVN",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMTNwMldqM3c1RGphWlkzWjQ3RndNaTNMLTJsQWpON01HamFoX3l0Y1JiVHZONU1mOEJIanJZYkNuUXFSM0VPLW1LQ3BWOXpzTVV6LUdJcjE3YWpaVWt1RGNYeDEtVkt5c2VQWXdNOHNseXc0QTNUbXZwMy1XQ1hUcWdNVWEwV3F5U203UUJyaTNFaURXdXJFRWJnb1I5d0ZnWDNZdUN2QTVyS1NETDRGMjZpcVRWSHBfREV2OWhQdzBlS2lsRWxBODhNdHhRVnZDbnJvc2x2MzZEZTk1eU55dHhWamt5RjZ0RFJHNXZPVXQyVFNm?oc=5",
-      "source": "KTVN",
-      "published": "2026-10-18T00:12:00+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "IRGC Navy Says Supertanker Carrying Over Two Million Barrels Hit Naval Mine in Strait of Hormuz - NewsCord",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaWdkdV9Lby11czhVQ1VwSC1oYkZOY2tfLVltVldFbmFLYkVmMUVLMVBCbXFXWUtQNGVjWDh4bTh2UzZWdzFDZG9IQnlicEdjaXNtaVFCcjVPa0VfdDNxZEV1WG1mblVLZDhyaUU1OENFOS1GNFdJMHZKX2xzMWNWUUptWTdvNUU3V1VxSlU4enlTUThfeUZaZ3R6X2FGOEp4RnlMa05xeDVscEtQZDc4UEJZLVNvaEYzZWtYQzYxZ2YzdUd4RUlTZDJ4Zlo5YWMwU1RLUDExVUFNdHpZTXFmOEI1VDdOeHU2?oc=5",
-      "source": "NewsCord",
-      "published": "2026-10-17T17:54:21+00:00",
+      "title": "Iran's Guards Say Tanker Exploded after Hitting Mine in Strait of Hormuz - ASHARQ AL-AWSAT English",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSkR0R0JNSkx3WUZyOHVWY1Z3T1lBYzdYYllDWU54bFBTMXBnTm40X3IzU1NSWVN5aTVKeXpqbUdOUzZKQXJYdWNYTkJVNU1xeUxkMkVYR3dOZ0dXVi0yZFYwczl1RTBIcjlnT3NORnpSMUh1ZVNXSG5oeDJ1VnB2QjhUMlB3TXNyRFBoMGFCMzk1Mmt0dC1EYjVoRXhnLUNPUG5vRmlrOXFJdw?oc=5",
+      "source": "ASHARQ AL-AWSAT English",
+      "published": "2026-10-18T03:24:29+00:00",
       "score": 6.0,
       "tags": [
         "closure"
