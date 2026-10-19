@@ -1,21 +1,11 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 325.4,
-  "closure_signals": 28,
-  "articles_scanned": 223,
-  "updated": "2026-10-19T17:37:32.559524+00:00",
+  "tension_index": 321.0,
+  "closure_signals": 24,
+  "articles_scanned": 228,
+  "updated": "2026-10-19T21:54:33.966105+00:00",
   "headlines": [
-    {
-      "title": "Iran says Strait of Hormuz closed after supertanker hits mine | Tap to know more | Inshorts - Inshorts",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbXR2Rm10S2FfZG5GM3hRaDhrZVFmZktFNGtPYkx5U2I0TF9qTEROVjN5bXY2bEEwT3ptWllXdmFJOS0tMHJBZDRRbEFMcUxSYnRYbVdzRmcxOGo0eVJpRzVVOTlJdFRVdFE0ekJvQzlVX3NuRWVDaWl2Y29zNFlaMGU1SXJYMk5xRVdWdVFKMXBsOEM4OXU5QjRtYmdFdGZS0gGmAUFVX3lxTFBMbTNMR3gzWVlqdWZ4SnNnc1JRWnp1azBSMldmbmUtVjRwajdaWkFjV2c4MGM3bzhwYm9wY2FnSTFfUWZTTnJvOVlrdU9YRWw0eG1ReFdvMkJPUnhuYXBvbWk4QUJLTzFZLXF3VkxfdW9WVTVBLWxTemwxNHk4d1NzTUVCSU4tbGc3T2Rpd3ZKVUp1eVFaUHJ6U1k5eUJPakFWQWYwVFE?oc=5",
-      "source": "Inshorts",
-      "published": "2026-10-18T03:46:18+00:00",
-      "score": 9.23,
-      "tags": [
-        "closure"
-      ]
-    },
     {
       "title": "Iran Reports Tanker Explosion in Strait of Hormuz After Naval Mine Strike - The Media Line",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaVA2R2FJSEJ5ZUZUT2hGR0Q5VllUdVFEZnZfVi05dWlJZU9fNlFMSHd5WTJQaVlNSWkxWG5mUVpCX1ptLTc0aVl6TmVzWFhnNE4xZU5NYV9RSExFOExYR0M1WHRfMkFvdGxSREJuNFlTc0steVVING96aG51a3dfMUM1WE5EYnZFR21hVVFBc0RrUHdEclM3YWdLQTRmS3M0ZzN2OVJfLW56eWRLN1ZMLVYxZXA3aE9WdGc?oc=5",
@@ -39,11 +29,21 @@
       ]
     },
     {
+      "title": "Iran says Strait of Hormuz closed after supertanker hits mine | Tap to know more | Inshorts - Inshorts",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbXR2Rm10S2FfZG5GM3hRaDhrZVFmZktFNGtPYkx5U2I0TF9qTEROVjN5bXY2bEEwT3ptWllXdmFJOS0tMHJBZDRRbEFMcUxSYnRYbVdzRmcxOGo0eVJpRzVVOTlJdFRVdFE0ekJvQzlVX3NuRWVDaWl2Y29zNFlaMGU1SXJYMk5xRVdWdVFKMXBsOEM4OXU5QjRtYmdFdGZS0gGmAUFVX3lxTFBMbTNMR3gzWVlqdWZ4SnNnc1JRWnp1azBSMldmbmUtVjRwajdaWkFjV2c4MGM3bzhwYm9wY2FnSTFfUWZTTnJvOVlrdU9YRWw0eG1ReFdvMkJPUnhuYXBvbWk4QUJLTzFZLXF3VkxfdW9WVTVBLWxTemwxNHk4d1NzTUVCSU4tbGc3T2Rpd3ZKVUp1eVFaUHJ6U1k5eUJPakFWQWYwVFE?oc=5",
+      "source": "Inshorts",
+      "published": "2026-10-18T03:46:18+00:00",
+      "score": 8.99,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
       "title": "IRGC declares Strait of Hormuz closed after tankers hit - Middle East Eye",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN2FKNlVlYkxoY0V3ZWNnZFFXWVRTd3JwUnVkcEk5T0FLaDlSbVBnamY3V3RoWEhFWXVUYmpvMEQ4LWJpUWYyZGJ2V0twcTVkNHlpaHFGOWRxWWgySmJjd2lROEJ3TTFZUGI0SG55VWtEd2E2Q0x2RFd4am05aTJucWdXbWZKckpQSHVRMDQ2dkJ5VUZGdHVLSEw0aThsWnFlZ0paaGR6VWlWZ3pqbFE?oc=5",
       "source": "Middle East Eye",
       "published": "2026-10-17T11:06:00+00:00",
-      "score": 8.3,
+      "score": 8.07,
       "tags": [
         "closure"
       ]
@@ -53,7 +53,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTWotamQyY0pOYU13UXpRTG9sX21TbnhUcVNxVGkzZWpkVVZQLXdtMXJmYUFXcG12NHJvNkJiNVYySDRfVG92dmFBZ0dDeDZsM3U4bDllcWoxS0JnUlZMeTVJaU9pOWlXM0E3d0RsckxzQ1lZNkN2eXNQWmRZbVdjYTlzYTVNRW1iTnJlNW5TMEhoUXE4eHZOcFdNTDhLUWJNY1E?oc=5",
       "source": "Tehran Times",
       "published": "2026-10-17T17:24:16+00:00",
-      "score": 7.79,
+      "score": 7.57,
       "tags": [
         "closure",
         "tension"
@@ -64,7 +64,7 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EUGdtVmNldlpaUlE1cF9XYkJmWWszOXE4UEJwNC1yRXZqVDh1STAySnYzYllBa1B4RUwxVkw5ZkFUX292ZUp1YzFFQjZPdG82aUUzN0tJR1VCQmM?oc=5",
       "source": "The Jerusalem Post",
       "published": "2026-10-17T14:15:24+00:00",
-      "score": 7.63,
+      "score": 7.42,
       "tags": [
         "closure",
         "tension"
@@ -125,14 +125,14 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT0s0UXNzVGVGdHpZMVpnWnNYeFBxcXAzLTRCTHZYUzhjVnZXdDJ0VDVrcVA2M3lXQmhndUhXS3VIZ3IxeVFvQnZfYkdEdldSVUcwdWhpZjNWYVBWMURKUDgydlJBM0ZYUWZ0WmRGWFg0Wkt5VUhQQ2drMjQ1TktjakRGa3g1VE5OMzUwSmRDM1RsM3AyVkRWOGUtamhSSkVIMUlPR2R5eFhEUnl5RUNVczRwdGtub3ZCSy1GSmdqc0lLYVE?oc=5",
       "source": "Middle East Eye",
       "published": "2026-10-18T21:30:00+00:00",
-      "score": 6.0,
+      "score": 5.99,
       "tags": [
         "closure"
       ]
     }
   ],
   "brent": {
-    "price": 110.05,
-    "change_pct": 0.17
+    "price": 109.21,
+    "change_pct": -0.31
   }
 }
