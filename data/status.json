@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 321.0,
-  "closure_signals": 24,
-  "articles_scanned": 228,
-  "updated": "2026-10-19T21:54:33.966105+00:00",
+  "tension_index": 320.3,
+  "closure_signals": 22,
+  "articles_scanned": 225,
+  "updated": "2026-10-20T00:51:40.020648+00:00",
   "headlines": [
     {
       "title": "Iran Reports Tanker Explosion in Strait of Hormuz After Naval Mine Strike - The Media Line",
@@ -33,7 +33,7 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbXR2Rm10S2FfZG5GM3hRaDhrZVFmZktFNGtPYkx5U2I0TF9qTEROVjN5bXY2bEEwT3ptWllXdmFJOS0tMHJBZDRRbEFMcUxSYnRYbVdzRmcxOGo0eVJpRzVVOTlJdFRVdFE0ekJvQzlVX3NuRWVDaWl2Y29zNFlaMGU1SXJYMk5xRVdWdVFKMXBsOEM4OXU5QjRtYmdFdGZS0gGmAUFVX3lxTFBMbTNMR3gzWVlqdWZ4SnNnc1JRWnp1azBSMldmbmUtVjRwajdaWkFjV2c4MGM3bzhwYm9wY2FnSTFfUWZTTnJvOVlrdU9YRWw0eG1ReFdvMkJPUnhuYXBvbWk4QUJLTzFZLXF3VkxfdW9WVTVBLWxTemwxNHk4d1NzTUVCSU4tbGc3T2Rpd3ZKVUp1eVFaUHJ6U1k5eUJPakFWQWYwVFE?oc=5",
       "source": "Inshorts",
       "published": "2026-10-18T03:46:18+00:00",
-      "score": 8.99,
+      "score": 8.83,
       "tags": [
         "closure"
       ]
@@ -43,7 +43,7 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN2FKNlVlYkxoY0V3ZWNnZFFXWVRTd3JwUnVkcEk5T0FLaDlSbVBnamY3V3RoWEhFWXVUYmpvMEQ4LWJpUWYyZGJ2V0twcTVkNHlpaHFGOWRxWWgySmJjd2lROEJ3TTFZUGI0SG55VWtEd2E2Q0x2RFd4am05aTJucWdXbWZKckpQSHVRMDQ2dkJ5VUZGdHVLSEw0aThsWnFlZ0paaGR6VWlWZ3pqbFE?oc=5",
       "source": "Middle East Eye",
       "published": "2026-10-17T11:06:00+00:00",
-      "score": 8.07,
+      "score": 7.9,
       "tags": [
         "closure"
       ]
@@ -53,7 +53,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTWotamQyY0pOYU13UXpRTG9sX21TbnhUcVNxVGkzZWpkVVZQLXdtMXJmYUFXcG12NHJvNkJiNVYySDRfVG92dmFBZ0dDeDZsM3U4bDllcWoxS0JnUlZMeTVJaU9pOWlXM0E3d0RsckxzQ1lZNkN2eXNQWmRZbVdjYTlzYTVNRW1iTnJlNW5TMEhoUXE4eHZOcFdNTDhLUWJNY1E?oc=5",
       "source": "Tehran Times",
       "published": "2026-10-17T17:24:16+00:00",
-      "score": 7.57,
+      "score": 7.43,
       "tags": [
         "closure",
         "tension"
@@ -64,7 +64,7 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EUGdtVmNldlpaUlE1cF9XYkJmWWszOXE4UEJwNC1yRXZqVDh1STAySnYzYllBa1B4RUwxVkw5ZkFUX292ZUp1YzFFQjZPdG82aUUzN0tJR1VCQmM?oc=5",
       "source": "The Jerusalem Post",
       "published": "2026-10-17T14:15:24+00:00",
-      "score": 7.42,
+      "score": 7.27,
       "tags": [
         "closure",
         "tension"
@@ -115,7 +115,7 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWXFwUF8xak1VckNybUw0ZDFtNjczTE5VNWVmZHVVSkpZbjBDVGYzRC14cDg2UGRNZmVVektqRFNkUFRiRC1LS3h0ZWJBRzdfN1VoT2lXWjJFOXQ4c1I4WURZNW03WkluWGxKX3ZmYjR3LVM2eDh0aFhRdFVYWk1EamxtX0FyWUxETmY3eGZMazkydmhkQVpPbS1CbklQZw?oc=5",
       "source": "WANA News Agency",
       "published": "2026-10-18T22:10:17+00:00",
-      "score": 6.0,
+      "score": 5.91,
       "tags": [
         "closure"
       ]
@@ -125,14 +125,14 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT0s0UXNzVGVGdHpZMVpnWnNYeFBxcXAzLTRCTHZYUzhjVnZXdDJ0VDVrcVA2M3lXQmhndUhXS3VIZ3IxeVFvQnZfYkdEdldSVUcwdWhpZjNWYVBWMURKUDgydlJBM0ZYUWZ0WmRGWFg0Wkt5VUhQQ2drMjQ1TktjakRGa3g1VE5OMzUwSmRDM1RsM3AyVkRWOGUtamhSSkVIMUlPR2R5eFhEUnl5RUNVczRwdGtub3ZCSy1GSmdqc0lLYVE?oc=5",
       "source": "Middle East Eye",
       "published": "2026-10-18T21:30:00+00:00",
-      "score": 5.99,
+      "score": 5.89,
       "tags": [
         "closure"
       ]
     }
   ],
   "brent": {
-    "price": 109.21,
-    "change_pct": -0.31
+    "price": 109.4,
+    "change_pct": -0.14
   }
 }
