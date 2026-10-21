@@ -1,17 +1,27 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 279.5,
+  "tension_index": 282.3,
   "closure_signals": 17,
-  "articles_scanned": 230,
-  "updated": "2026-10-21T17:28:52.142118+00:00",
+  "articles_scanned": 235,
+  "updated": "2026-10-21T20:48:59.059239+00:00",
   "headlines": [
     {
-      "title": "Oil Tanker Catches Fire After Mine Strike in Strait of Hormuz: Iran - ChemAnalyst",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMU40R0NweWRwZGd0YW5sNG9nRVp0cWFrbHdwczltM2Jia0MzWTNoSmh1MFN3SGlnRHVsS081OWNRMERDckRxT0JNT2FxeGkxUmphbTJmV0V0SXl6Zl9wekJWSHdpMDVzMUlLemN1LXhudnVwb1BEa0NrMVg4T3lnZF9nMjdYREw0WVFFbUo1eUdBNmo1UEd0b2FoVlE2RGkybkczcElHWlRIZ2I4SVFTcnJqdXZhREduNDEyQQ?oc=5",
-      "source": "ChemAnalyst",
-      "published": "2026-10-19T13:05:41+00:00",
-      "score": 7.58,
+      "title": "The closure of the Strait of Hormuz gives Central Asia greater bargaining power - Forbes Espa\u00f1a",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbTZzWURNMjl6V3l2ei1mZTZPWXFNaVQyTXItWEtoV2cyVVNGdXJ1R1dpZ0NxbGNiZms0aktZZkNDUGNxVWdQMVRnU2pFMmI2SERHMnlTYkpjdC1JcWRiRGlOOFhFdVQ0emU4eTZSQ1Jua3l6VzJUaURNQVVZTHdSZWFqSDJJazJyai1RMlI4MFZsY2E2SEJIVUx2QnJtX3U5YU1ta3o5enlUV2VjYjdmbFJ2bUp0SjdkOEZBcG1JZzJpbjA?oc=5",
+      "source": "Forbes Espa\u00f1a",
+      "published": "2026-10-21T10:16:36+00:00",
+      "score": 8.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iran's IRGC says oil tanker struck mine in Strait of Hormuz - Yeni Safak English",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbnFWZ3l3MmEweko3ZFo2LWdSbzNaTDlQbzVpbG84Q3VzZklTeXBLNGxjRDNseEZ4RGMwdnp1VThYWm9uT2VpTVpveFA0Q2VUX3lwMlZQcGVtd3BGb1dDVG91eDdzNzhkaUFhNklsNERjN1BHNVRvS2ZWdVR2U3d2dmhzWXJ6UXBlT18xblFKSlJhMThpQ1gyZW9RNHV3dw?oc=5",
+      "source": "Yeni Safak English",
+      "published": "2026-10-19T07:48:01+00:00",
+      "score": 7.15,
       "tags": [
         "closure",
         "tension"
@@ -22,7 +32,7 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTUxLSkdzWGE5Zk5ieGdFSmVOTHdiREMwX0VORmlUeVgxbG11MVVuTU9sNWp0ZGtXYTFRU3pTUXZHRDhjQWx6VFNtUFUzWlBzUU15WEhHbjMwRDF1YTVBT0ZPR2pQRDNmVW9VbDYtdmk5cU5POC02ZnlRdjg2U0ZZc1FaQXA?oc=5",
       "source": "Latest news from Azerbaijan",
       "published": "2026-10-19T07:18:44+00:00",
-      "score": 7.29,
+      "score": 7.12,
       "tags": [
         "closure",
         "tension"
@@ -33,7 +43,7 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQM1R4b2tCRlpUdlprUnd1UEJWcFFvVzdqV3g0RXdCM3NxRElsM0NrWVI2ZnY4aDBqM2pIUDQtQS1YZHJKYnN3MUdHX0EySTNFaFp2UkxfZEF0ZC12c3V0WEVvR0E2ZlJiaVJTX200UTF2TmZwR3RnT1RXdmdmc1hpRzFKZ3pJWG9GR3E2dXZ3M1lkYnJ1NDh1eWlPTkh1T2VXb2RoWlBwWDBoaTVDN1k1REtVWDg5WEdqbnVlejdRcGNXckltdm5OTzB3WQ?oc=5",
       "source": "Anadolu Ajans\u0131",
       "published": "2026-10-19T01:15:04+00:00",
-      "score": 6.99,
+      "score": 6.82,
       "tags": [
         "closure",
         "tension"
@@ -44,7 +54,7 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBydC1JbmhmUnp5ZEdXQXdacG9FX0pfQ3JiZDNYTUhTVF9fTTQ2NGl6Z05BaFVZcXVjY2xEeDBnR1RtUlVmcURIclVVZGtPTWs0M1FXa3JQQzdFRThPODB0emtBWmRGcUtTN0xIS21R?oc=5",
       "source": "Inshorts",
       "published": "2026-10-18T03:58:21+00:00",
-      "score": 6.58,
+      "score": 6.4,
       "tags": [
         "closure"
       ]
@@ -84,7 +94,7 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLWxvNV9fSU5pZU1EUnpCalV5R3NlTGhLZHJ2X1BTbVhmUlBwUi15MmdMX3ZicDFiSnZSbFhsU0ZaUWlLbVVLazZicmtHOEFnN1JaSS1wVWxoOWNfQ3RYN3U4eUxJU2lHVS1FVkdCOVRxOFV5ZzA4S1plaGZ2QklqeGw2ZFlYOEZmUzFfU25HcmFneVFENXBZS2lLcW9WcmlITjhlWDJCbUVOVHVJUUVBWlVwV2Q5YjNJQ1M0?oc=5",
       "source": "Middle East Eye",
       "published": "2026-10-20T18:27:00+00:00",
-      "score": 6.0,
+      "score": 5.92,
       "tags": [
         "closure"
       ]
@@ -94,7 +104,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQXzg1ajJ2a0FBSjZYTTRqN0k4SnY5eHNxN2w5dmV5SEhTZDdkTFBQMHdiU0NjanRnZ1R2R3V1ZkFmNWZWZTNkZWhKX2xSaFNaQkRpTGJsNWlhWjBJXzJHVXBwcWw5Xzh4M1p5VDRTNGNvcmp4MFlTZWt5U0FVSGJRTUZ5TzNaTjVkMVI4QlBjTE5BN19faWZMUmVxZDV3T2ljWTVrTUF3bENuUdIBrwFBVV95cUxQUmtnOTFCdU1zZDlVZHduYWFMVGFzRWNRZWFiRDQyd3dFN2lFbUlCdmFQNnNxblBtZV9ZRjJnWkZyRHd4YmZISlRHUDZYUDg3LTdTTTk3WXpubWQxQzNTTTlxaUcwSGZlMzJsR2J5UmYzbzJOZS0tczRGUWJsdFdGRFZTblE5VHh4dlcwNFZwM1FZXzJZM0pCZk9jeUhWeXVKMUtGX2gtWmZUalQwUDJr?oc=5",
       "source": "Fox News",
       "published": "2026-10-20T18:26:18+00:00",
-      "score": 6.0,
+      "score": 5.92,
       "tags": [
         "closure"
       ]
@@ -104,7 +114,7 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IRDc3cFF2azZMUkF0dFlfZ2NBYmNWa0ZlVVZVeFVONXZLZkREMGlHb3BfcExVYU9qYWh1MHNRTldjYkI3QkJiTVJfQmRMaXA2Z1drd2FndDdYY1V0SUNpaUZIYzh0WUR6RHY2ZXpqREhVWnBpajA4NlVneEFrajQ?oc=5",
       "source": "AOL.com",
       "published": "2026-10-20T18:26:18+00:00",
-      "score": 6.0,
+      "score": 5.92,
       "tags": [
         "closure"
       ]
@@ -114,24 +124,14 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYmo5UGd3MlVOdVZSc09mM2pUUEdCbjUyR05VUGk4YWRUc2JuRnM2czB6bkpVUDlRSTQycWtpYmlyVDRJeF9QZkhmQTZVSUpUU2dwcko0Um1DV3ZmakFNR01PTFJSTlNNNlFmcWJUNnB5bkQ0LUROWDNfdF9GX2JpQWVubUZ0N0VHenRkUHRjVjBYX0xzS2c4bHhER3dmZm1yMng4NTRMaVVhN1k?oc=5",
       "source": "Arab News",
       "published": "2026-10-20T18:08:21+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Super Tanker Catches Fire After Striking Naval Mine South of Strait of Hormuz - WANA News Agency",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa2taaVY2VFRxQUYwcWpZVkJHQUxDYXc1UmJUcEJOXzcyZkRmeFRudk5CX09IRW5aM09iREpHenBBSHFPMGlHRjZ6OHR6UWJ1UEVtVDFzWmtmVUswMjVsSzdvcGxXS0tiVGhxZVJRdnMydjZGb0pTUWEyQW5XamN1Ui02LUN6RnN0ZFMzV2JuX09CX3djcUFYMDBLdHN6Zw?oc=5",
-      "source": "WANA News Agency",
-      "published": "2026-10-20T17:31:33+00:00",
-      "score": 6.0,
+      "score": 5.91,
       "tags": [
         "closure"
       ]
     }
   ],
   "brent": {
-    "price": 108.52,
-    "change_pct": -0.25
+    "price": 109.42,
+    "change_pct": 0.58
   }
 }
