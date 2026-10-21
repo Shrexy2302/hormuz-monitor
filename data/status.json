@@ -1,17 +1,17 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 287.4,
-  "closure_signals": 19,
-  "articles_scanned": 232,
-  "updated": "2026-10-21T12:08:31.094363+00:00",
+  "tension_index": 279.5,
+  "closure_signals": 17,
+  "articles_scanned": 230,
+  "updated": "2026-10-21T17:28:52.142118+00:00",
   "headlines": [
     {
       "title": "Oil Tanker Catches Fire After Mine Strike in Strait of Hormuz: Iran - ChemAnalyst",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMU40R0NweWRwZGd0YW5sNG9nRVp0cWFrbHdwczltM2Jia0MzWTNoSmh1MFN3SGlnRHVsS081OWNRMERDckRxT0JNT2FxeGkxUmphbTJmV0V0SXl6Zl9wekJWSHdpMDVzMUlLemN1LXhudnVwb1BEa0NrMVg4T3lnZF9nMjdYREw0WVFFbUo1eUdBNmo1UEd0b2FoVlE2RGkybkczcElHWlRIZ2I4SVFTcnJqdXZhREduNDEyQQ?oc=5",
       "source": "ChemAnalyst",
       "published": "2026-10-19T13:05:41+00:00",
-      "score": 7.85,
+      "score": 7.58,
       "tags": [
         "closure",
         "tension"
@@ -22,7 +22,7 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTUxLSkdzWGE5Zk5ieGdFSmVOTHdiREMwX0VORmlUeVgxbG11MVVuTU9sNWp0ZGtXYTFRU3pTUXZHRDhjQWx6VFNtUFUzWlBzUU15WEhHbjMwRDF1YTVBT0ZPR2pQRDNmVW9VbDYtdmk5cU5POC02ZnlRdjg2U0ZZc1FaQXA?oc=5",
       "source": "Latest news from Azerbaijan",
       "published": "2026-10-19T07:18:44+00:00",
-      "score": 7.56,
+      "score": 7.29,
       "tags": [
         "closure",
         "tension"
@@ -33,7 +33,7 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQM1R4b2tCRlpUdlprUnd1UEJWcFFvVzdqV3g0RXdCM3NxRElsM0NrWVI2ZnY4aDBqM2pIUDQtQS1YZHJKYnN3MUdHX0EySTNFaFp2UkxfZEF0ZC12c3V0WEVvR0E2ZlJiaVJTX200UTF2TmZwR3RnT1RXdmdmc1hpRzFKZ3pJWG9GR3E2dXZ3M1lkYnJ1NDh1eWlPTkh1T2VXb2RoWlBwWDBoaTVDN1k1REtVWDg5WEdqbnVlejdRcGNXckltdm5OTzB3WQ?oc=5",
       "source": "Anadolu Ajans\u0131",
       "published": "2026-10-19T01:15:04+00:00",
-      "score": 7.26,
+      "score": 6.99,
       "tags": [
         "closure",
         "tension"
@@ -44,7 +44,7 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBydC1JbmhmUnp5ZEdXQXdacG9FX0pfQ3JiZDNYTUhTVF9fTTQ2NGl6Z05BaFVZcXVjY2xEeDBnR1RtUlVmcURIclVVZGtPTWs0M1FXa3JQQzdFRThPODB0emtBWmRGcUtTN0xIS21R?oc=5",
       "source": "Inshorts",
       "published": "2026-10-18T03:58:21+00:00",
-      "score": 6.88,
+      "score": 6.58,
       "tags": [
         "closure"
       ]
@@ -91,8 +91,18 @@
     },
     {
       "title": "Sea mine crisis re-emerges in Strait of Hormuz as Tehran urges Washington to accept deal - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQXzg1ajJ2a0FBSjZYTTRqN0k4SnY5eHNxN2w5dmV5SEhTZDdkTFBQMHdiU0NjanRnZ1R2R3V1ZkFmNWZWZTNkZWhKX2xSaFNaQkRpTGJsNWlhWjBJXzJHVXBwcWw5Xzh4M1p5VDRTNGNvcmp4MFlTZWt5U0FVSGJRTUZ5TzNaTjVkMVI4QlBjTE5BN19faWZMUmVxZDV3T2ljWTVrTUF3bENuUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQXzg1ajJ2a0FBSjZYTTRqN0k4SnY5eHNxN2w5dmV5SEhTZDdkTFBQMHdiU0NjanRnZ1R2R3V1ZkFmNWZWZTNkZWhKX2xSaFNaQkRpTGJsNWlhWjBJXzJHVXBwcWw5Xzh4M1p5VDRTNGNvcmp4MFlTZWt5U0FVSGJRTUZ5TzNaTjVkMVI4QlBjTE5BN19faWZMUmVxZDV3T2ljWTVrTUF3bENuUdIBrwFBVV95cUxQUmtnOTFCdU1zZDlVZHduYWFMVGFzRWNRZWFiRDQyd3dFN2lFbUlCdmFQNnNxblBtZV9ZRjJnWkZyRHd4YmZISlRHUDZYUDg3LTdTTTk3WXpubWQxQzNTTTlxaUcwSGZlMzJsR2J5UmYzbzJOZS0tczRGUWJsdFdGRFZTblE5VHh4dlcwNFZwM1FZXzJZM0pCZk9jeUhWeXVKMUtGX2gtWmZUalQwUDJr?oc=5",
       "source": "Fox News",
+      "published": "2026-10-20T18:26:18+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Sea mine crisis re-emerges in Strait of Hormuz as Tehran urges Washington to accept deal - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IRDc3cFF2azZMUkF0dFlfZ2NBYmNWa0ZlVVZVeFVONXZLZkREMGlHb3BfcExVYU9qYWh1MHNRTldjYkI3QkJiTVJfQmRMaXA2Z1drd2FndDdYY1V0SUNpaUZIYzh0WUR6RHY2ZXpqREhVWnBpajA4NlVneEFrajQ?oc=5",
+      "source": "AOL.com",
       "published": "2026-10-20T18:26:18+00:00",
       "score": 6.0,
       "tags": [
@@ -118,20 +128,10 @@
       "tags": [
         "closure"
       ]
-    },
-    {
-      "title": "\"Iran's claims about oil tankers colliding with sea mines in the Strait of Hormuz are false\", a US CENTCOM spokesman says - Newsquawk",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ2w1V21mZ09hYW04Wno5T2hSLW9mNS1QbUJLTFdpWXkzLThnTTZwRUx1bC1vdzJxeVJfcjdzeWNmdDMzaS1QUGp2WmgxNVRKWS1ETDIzdGgzQVc5d0JxTTlxQnR5Q3BXaHhJRTItbGxsX3pfQ091XzVFQzEyT3k3UFctNGcxbjNnclVOV2UtNy0ycml0d3FfLWh3dzMzcTdSYkdSM1QtYjFjR2IxVTl2MVlXbUFuWXpXZUxfeFNnb2pvblVob2ZPMnRUdzNzeXlQWmtRWXJoSGRPRlVqbFVuTG9XUTR3V24z?oc=5",
-      "source": "Newsquawk",
-      "published": "2026-10-20T15:00:57+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
     }
   ],
   "brent": {
-    "price": 109.23,
-    "change_pct": 0.4
+    "price": 108.52,
+    "change_pct": -0.25
   }
 }
