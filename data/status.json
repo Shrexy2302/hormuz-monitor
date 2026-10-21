@@ -1,17 +1,28 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 314.9,
+  "tension_index": 287.4,
   "closure_signals": 19,
-  "articles_scanned": 235,
-  "updated": "2026-10-21T06:14:41.955246+00:00",
+  "articles_scanned": 232,
+  "updated": "2026-10-21T12:08:31.094363+00:00",
   "headlines": [
+    {
+      "title": "Oil Tanker Catches Fire After Mine Strike in Strait of Hormuz: Iran - ChemAnalyst",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMU40R0NweWRwZGd0YW5sNG9nRVp0cWFrbHdwczltM2Jia0MzWTNoSmh1MFN3SGlnRHVsS081OWNRMERDckRxT0JNT2FxeGkxUmphbTJmV0V0SXl6Zl9wekJWSHdpMDVzMUlLemN1LXhudnVwb1BEa0NrMVg4T3lnZF9nMjdYREw0WVFFbUo1eUdBNmo1UEd0b2FoVlE2RGkybkczcElHWlRIZ2I4SVFTcnJqdXZhREduNDEyQQ?oc=5",
+      "source": "ChemAnalyst",
+      "published": "2026-10-19T13:05:41+00:00",
+      "score": 7.85,
+      "tags": [
+        "closure",
+        "tension"
+      ]
+    },
     {
       "title": "IRGC Navy says oil tanker struck mine in Strait of Hormuz - Latest news from Azerbaijan",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTUxLSkdzWGE5Zk5ieGdFSmVOTHdiREMwX0VORmlUeVgxbG11MVVuTU9sNWp0ZGtXYTFRU3pTUXZHRDhjQWx6VFNtUFUzWlBzUU15WEhHbjMwRDF1YTVBT0ZPR2pQRDNmVW9VbDYtdmk5cU5POC02ZnlRdjg2U0ZZc1FaQXA?oc=5",
       "source": "Latest news from Azerbaijan",
       "published": "2026-10-19T07:18:44+00:00",
-      "score": 7.85,
+      "score": 7.56,
       "tags": [
         "closure",
         "tension"
@@ -22,28 +33,28 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQM1R4b2tCRlpUdlprUnd1UEJWcFFvVzdqV3g0RXdCM3NxRElsM0NrWVI2ZnY4aDBqM2pIUDQtQS1YZHJKYnN3MUdHX0EySTNFaFp2UkxfZEF0ZC12c3V0WEVvR0E2ZlJiaVJTX200UTF2TmZwR3RnT1RXdmdmc1hpRzFKZ3pJWG9GR3E2dXZ3M1lkYnJ1NDh1eWlPTkh1T2VXb2RoWlBwWDBoaTVDN1k1REtVWDg5WEdqbnVlejdRcGNXckltdm5OTzB3WQ?oc=5",
       "source": "Anadolu Ajans\u0131",
       "published": "2026-10-19T01:15:04+00:00",
-      "score": 7.55,
+      "score": 7.26,
       "tags": [
         "closure",
         "tension"
       ]
     },
     {
-      "title": "Iran says Strait of Hormuz closed after supertanker hits mine | Tap to know more | Inshorts - Inshorts",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbXR2Rm10S2FfZG5GM3hRaDhrZVFmZktFNGtPYkx5U2I0TF9qTEROVjN5bXY2bEEwT3ptWllXdmFJOS0tMHJBZDRRbEFMcUxSYnRYbVdzRmcxOGo0eVJpRzVVOTlJdFRVdFE0ekJvQzlVX3NuRWVDaWl2Y29zNFlaMGU1SXJYMk5xRVdWdVFKMXBsOEM4OXU5QjRtYmdFdGZS0gGmAUFVX3lxTFBMbTNMR3gzWVlqdWZ4SnNnc1JRWnp1azBSMldmbmUtVjRwajdaWkFjV2c4MGM3bzhwYm9wY2FnSTFfUWZTTnJvOVlrdU9YRWw0eG1ReFdvMkJPUnhuYXBvbWk4QUJLTzFZLXF3VkxfdW9WVTVBLWxTemwxNHk4d1NzTUVCSU4tbGc3T2Rpd3ZKVUp1eVFaUHJ6U1k5eUJPakFWQWYwVFE?oc=5",
+      "title": "Iran says Strait of Hormuz closed after supertanker hits mine - Inshorts",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBydC1JbmhmUnp5ZEdXQXdacG9FX0pfQ3JiZDNYTUhTVF9fTTQ2NGl6Z05BaFVZcXVjY2xEeDBnR1RtUlVmcURIclVVZGtPTWs0M1FXa3JQQzdFRThPODB0emtBWmRGcUtTN0xIS21R?oc=5",
       "source": "Inshorts",
-      "published": "2026-10-18T03:46:18+00:00",
-      "score": 7.2,
+      "published": "2026-10-18T03:58:21+00:00",
+      "score": 6.88,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "IRGC declares Strait of Hormuz closed after tankers hit - Middle East Eye",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN2FKNlVlYkxoY0V3ZWNnZFFXWVRTd3JwUnVkcEk5T0FLaDlSbVBnamY3V3RoWEhFWXVUYmpvMEQ4LWJpUWYyZGJ2V0twcTVkNHlpaHFGOWRxWWgySmJjd2lROEJ3TTFZUGI0SG55VWtEd2E2Q0x2RFd4am05aTJucWdXbWZKckpQSHVRMDQ2dkJ5VUZGdHVLSEw0aThsWnFlZ0paaGR6VWlWZ3pqbFE?oc=5",
-      "source": "Middle East Eye",
-      "published": "2026-10-17T11:06:00+00:00",
-      "score": 6.27,
+      "title": "Iran\u2019s Revolutionary Guard says 3 oil tankers hit naval mines in Strait of Hormuz - Middle East Monitor",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeGFlQWM3MWxLOFM0aG5BR2RGQjlrR0FMU2JQQjd0a01wZFU4OHVxU3R0N1JFU2ViNjViVFFsXzVic2NTc29uTS1iWVlWcHFJdnpZVFlwRzRZcVpwSzJlY1paZ0syNndQdmxrNFRNWWx2YnNmV0tNNjlodVJQSXZ1cE5iWXBJTUF2eUpWMlYwN1k5dkpiQTQzTzh0S2VERzNSUmNvcE1vRHk0eTN6ek5Wa19aYmtyeHVmZW1ySFNOQzVHZ9IBxwFBVV95cUxPVzdSUmNZbGpzLUNkNWZqTFZPQkxWZ2dXSzdjTmJMdXRIMEwyajl0TkJUWGczWEdnOFpJbFlQSm1lOWhyakhsRV9Cc2hjVHEtcUhGd0FkdEk3MnluMzY0MFR4azJ5WWVaTjhabXd2RTRmQjIwc2ZkU3BCaHpmY1FRT3R5QTltQjJ4elM3NUdYTjRlTERTR3BrdjFWamROYXdCQ0RPX1JaQzloQVpjODdreXBuZ1Z2ZkpnSkVEZjRjeUExVl9yeWNZ?oc=5",
+      "source": "Middle East Monitor",
+      "published": "2026-10-21T10:16:00+00:00",
+      "score": 6.0,
       "tags": [
         "closure"
       ]
@@ -80,7 +91,7 @@
     },
     {
       "title": "Sea mine crisis re-emerges in Strait of Hormuz as Tehran urges Washington to accept deal - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQXzg1ajJ2a0FBSjZYTTRqN0k4SnY5eHNxN2w5dmV5SEhTZDdkTFBQMHdiU0NjanRnZ1R2R3V1ZkFmNWZWZTNkZWhKX2xSaFNaQkRpTGJsNWlhWjBJXzJHVXBwcWw5Xzh4M1p5VDRTNGNvcmp4MFlTZWt5U0FVSGJRTUZ5TzNaTjVkMVI4QlBjTE5BN19faWZMUmVxZDV3T2ljWTVrTUF3bENuUdIBrwFBVV95cUxQUmtnOTFCdU1zZDlVZHduYWFMVGFzRWNRZWFiRDQyd3dFN2lFbUlCdmFQNnNxblBtZV9ZRjJnWkZyRHd4YmZISlRHUDZYUDg3LTdTTTk3WXpubWQxQzNTTTlxaUcwSGZlMzJsR2J5UmYzbzJOZS0tczRGUWJsdFdGRFZTblE5VHh4dlcwNFZwM1FZXzJZM0pCZk9jeUhWeXVKMUtGX2gtWmZUalQwUDJr?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQXzg1ajJ2a0FBSjZYTTRqN0k4SnY5eHNxN2w5dmV5SEhTZDdkTFBQMHdiU0NjanRnZ1R2R3V1ZkFmNWZWZTNkZWhKX2xSaFNaQkRpTGJsNWlhWjBJXzJHVXBwcWw5Xzh4M1p5VDRTNGNvcmp4MFlTZWt5U0FVSGJRTUZ5TzNaTjVkMVI4QlBjTE5BN19faWZMUmVxZDV3T2ljWTVrTUF3bENuUQ?oc=5",
       "source": "Fox News",
       "published": "2026-10-20T18:26:18+00:00",
       "score": 6.0,
@@ -117,20 +128,10 @@
       "tags": [
         "closure"
       ]
-    },
-    {
-      "title": "Iran announces the burning of two oil tankers after they collided with mines in the Strait of Hormuz - \u0627\u0644\u0645\u062a\u062f\u0627\u0648\u0644 \u0627\u0644\u0639\u0631\u0628\u064a",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVktCYTgteTdrQXNrZVZkU0N4Umo0NVBnU18wMmpnT0FuajdGcU0wQ3QyQTliSk1OZmxCc3lLNk9vSjB3LWplTmUteUliSkp5RndYV3V1S1hDUUkyQUhsb20yVUw3alhKc09FblRtMWZKRFBBdWpYcGdROE8zSTBURzBIbHJiV1YyYzJaUU9vODg5TWR4Qmx1T1NadzVlTlcxUnRVQ2I2UGFEUTVqSkJoWm9sdkNXX205LXlTb3dGLTJhd2NTNzgwUkc3MjU1Qkxodlg3cHYzRXhnZHE0ajB2QlQ0MlhyLTU2TkdPbg?oc=5",
-      "source": "\u0627\u0644\u0645\u062a\u062f\u0627\u0648\u0644 \u0627\u0644\u0639\u0631\u0628\u064a",
-      "published": "2026-10-20T13:36:36+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
     }
   ],
   "brent": {
-    "price": 110.39,
-    "change_pct": 1.47
+    "price": 109.23,
+    "change_pct": 0.4
   }
 }
