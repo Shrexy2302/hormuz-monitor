@@ -1,17 +1,28 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 200.1,
-  "closure_signals": 4,
-  "articles_scanned": 239,
-  "updated": "2026-10-24T00:55:53.827991+00:00",
+  "tension_index": 206.0,
+  "closure_signals": 7,
+  "articles_scanned": 253,
+  "updated": "2026-10-24T05:18:44.121753+00:00",
   "headlines": [
     {
       "title": "Iran\u2019s Revolutionary Guards report two oil tankers struck mines in the Strait of Hormuz - Energies Media",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83MlgtWHZadU5xU01QNWpOUmRzRzN2bkcyNmpoNUlnUFRVX18tOHJBaHdXdDNvdHktQ0hZOGJPZTdVdXA2RUZNMjM4RUFnenZvdUo3eXJrYkR4MFVMV3FEUlNxbEFyY2Nw?oc=5",
       "source": "Energies Media",
       "published": "2026-10-22T22:34:49+00:00",
-      "score": 8.88,
+      "score": 8.66,
+      "tags": [
+        "closure",
+        "tension"
+      ]
+    },
+    {
+      "title": "Two tankers hit by mines in Strait of Hormuz amid escalating maritime tensions: Iran's IRGC - \u5df4\u58eb\u7684\u5831",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdzE3Vjh2cnBLZy1ZWlM0MG4xYjdrV0lNZF80bTctR2wxNU9WN1V4R0JFTEpwWGZ1dmdSd2ZHa1JibkFxUV9pYzQyMzlJaTQzY3BHTXVOWHFtelV2QWI2X3hEVzF1YjNCMzQwZ0JIak5QMnJqaFJ1b1ZRQ3JHdWFBT3JEckNUU290bzRMSk9JZlVoUlRDbGJrV2Z3VE43S3hUd3NPazNWdUhTbVk0MjRvdWRTdUpPblkzSXJxZ3l2QkVlMklvTlg2QmhxRXREaGw0SDhMODVTM0M?oc=5",
+      "source": "\u5df4\u58eb\u7684\u5831",
+      "published": "2026-10-24T02:47:08+00:00",
+      "score": 7.0,
       "tags": [
         "closure",
         "tension"
@@ -22,7 +33,7 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbTZzWURNMjl6V3l2ei1mZTZPWXFNaVQyTXItWEtoV2cyVVNGdXJ1R1dpZ0NxbGNiZms0aktZZkNDUGNxVWdQMVRnU2pFMmI2SERHMnlTYkpjdC1JcWRiRGlOOFhFdVQ0emU4eTZSQ1Jua3l6VzJUaURNQVVZTHdSZWFqSDJJazJyai1RMlI4MFZsY2E2SEJIVUx2QnJtX3U5YU1ta3o5enlUV2VjYjdmbFJ2bUp0SjdkOEZBcG1JZzJpbjA?oc=5",
       "source": "Forbes Espa\u00f1a",
       "published": "2026-10-21T10:16:36+00:00",
-      "score": 6.28,
+      "score": 6.09,
       "tags": [
         "closure"
       ]
@@ -32,6 +43,26 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONTJCWmJaMVNCQnFYd0NXZkFwLS01azZmN1NaU09pam92Wk5QbFlaeEhfZWZIQkNoX09rYm1TMlVtMk8xcjRhUWx4Nk1TZHBfYjJ5dENzZW9MMlRHSWk5VWluRVNMQWpVVW52YnQ3bDA5dVd6N2NCeXRSM0NFTWI1SUpTbFBJWllmQzA2Sktsa0ZpeXpwaktZOEREMVZWR3E4Mm1uNUgtMA?oc=5",
       "source": "T\u00fcrkiye Today",
       "published": "2026-10-23T21:07:05+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iran\u2019s Guards say two supertankers hit naval mines near Strait of Hormuz - Middle East Online",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSnQ3UjRTY25kT3R1bHpsVEZPV3MtYi01R2UyNEtWSExRVVdObExhX2dtdVVNaGI5U0xpODFneEE2QzgxdEFOdE5oS1pIMTJlYzIwT1NFVE02MzRyLXpBbmhWbDV3elhFQXpZNWctaUxvQ09pSzRhLW9GTG80RU9BZ0lsUzR3WVE2RTBOYkdIVnpBVUc3SlpmVm04ZHNUb2tkdXJzNzNqWTBId0JnVXhUag?oc=5",
+      "source": "Middle East Online",
+      "published": "2026-10-23T20:37:48+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iran\u2019s Revolutionary Guards say 2 supertankers hit naval mines in Strait of Hormuz - Anadolu Ajans\u0131",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMjk1RXlPMWg0dUVMcjQ5aDBTRkk1VFFrUlJidE91WWRURHI5UWs3NnJ0VGFSem5uZkpsc2tfQWVfZ2l2SWswZ3pnT2hqZXQ5aXNOUjVXY29pVUxzUTN6N1pSNTh1Yl9ic0xFYTlTOWFoTUhqRkQ5WXBCX1QzbUdkMXVfaXhCMk4zdWY5Mjk1V2NCU3FaWmZxOEU5RUNPWEVMcXlFZkJ2Y1B2a3pfRExudHVkUHJmTk15SjRqNEMzX20?oc=5",
+      "source": "Anadolu Ajans\u0131",
+      "published": "2026-10-23T20:30:09+00:00",
       "score": 6.0,
       "tags": [
         "closure"
@@ -48,34 +79,34 @@
       ]
     },
     {
+      "title": "Sea mine crisis re-emerges in Strait of Hormuz as Tehran urges Washington to accept deal - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQXzg1ajJ2a0FBSjZYTTRqN0k4SnY5eHNxN2w5dmV5SEhTZDdkTFBQMHdiU0NjanRnZ1R2R3V1ZkFmNWZWZTNkZWhKX2xSaFNaQkRpTGJsNWlhWjBJXzJHVXBwcWw5Xzh4M1p5VDRTNGNvcmp4MFlTZWt5U0FVSGJRTUZ5TzNaTjVkMVI4QlBjTE5BN19faWZMUmVxZDV3T2ljWTVrTUF3bENuUdIBrwFBVV95cUxQUmtnOTFCdU1zZDlVZHduYWFMVGFzRWNRZWFiRDQyd3dFN2lFbUlCdmFQNnNxblBtZV9ZRjJnWkZyRHd4YmZISlRHUDZYUDg3LTdTTTk3WXpubWQxQzNTTTlxaUcwSGZlMzJsR2J5UmYzbzJOZS0tczRGUWJsdFdGRFZTblE5VHh4dlcwNFZwM1FZXzJZM0pCZk9jeUhWeXVKMUtGX2gtWmZUalQwUDJr?oc=5",
+      "source": "Fox News",
+      "published": "2026-10-20T18:26:18+00:00",
+      "score": 4.04,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
       "title": "Iran\u2019s Revolutionary Guard says oil tanker struck mine and caught fire in Strait of Hormuz - Anadolu Ajans\u0131",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOHVEVkhvV1NPNHZoSTZqWHg2cTJNY2VoTnVPTDVmMjU3N0hkNkxJTjgxNWJ2U0VwN1NvNVpTU3JFVFFMWkVpazNGeVFFWEEzTHB6ZUZtV2kzZXU3MFF0YXBQazh5dFBSX3FqU3VZRVhlTGs1Ykt4dHZuRGpNYzBhS0FpZTJUcF9CTnI0bXJKbHRzRFdZVTlYMkp6cDUtRnktTzJtTVRsYmxkemVPMFJGc29WRnVkaWtkQm9xNWpLMlVBdUhzemFKV3hTaGN3SlZ2?oc=5",
       "source": "Anadolu Ajans\u0131",
       "published": "2026-10-19T01:15:04+00:00",
-      "score": 4.22,
+      "score": 4.0,
       "tags": [
         "closure",
         "tension"
       ]
     },
     {
-      "title": "Sea mine crisis re-emerges in Strait of Hormuz as Tehran urges Washington to accept deal - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQXzg1ajJ2a0FBSjZYTTRqN0k4SnY5eHNxN2w5dmV5SEhTZDdkTFBQMHdiU0NjanRnZ1R2R3V1ZkFmNWZWZTNkZWhKX2xSaFNaQkRpTGJsNWlhWjBJXzJHVXBwcWw5Xzh4M1p5VDRTNGNvcmp4MFlTZWt5U0FVSGJRTUZ5TzNaTjVkMVI4QlBjTE5BN19faWZMUmVxZDV3T2ljWTVrTUF3bENuUdIBrwFBVV95cUxQUmtnOTFCdU1zZDlVZHduYWFMVGFzRWNRZWFiRDQyd3dFN2lFbUlCdmFQNnNxblBtZV9ZRjJnWkZyRHd4YmZISlRHUDZYUDg3LTdTTTk3WXpubWQxQzNTTTlxaUcwSGZlMzJsR2J5UmYzbzJOZS0tczRGUWJsdFdGRFZTblE5VHh4dlcwNFZwM1FZXzJZM0pCZk9jeUhWeXVKMUtGX2gtWmZUalQwUDJr?oc=5",
-      "source": "Fox News",
-      "published": "2026-10-20T18:26:18+00:00",
-      "score": 4.18,
+      "title": "US-Iran tensions refuse to fade as fresh Strait of Hormuz attacks keep oil markets on edge - investingLive",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY3czTGhsQkdNQ185bVprVjdXTDdpcWx0SVY5WFYzdDdvbEk1TzUwS0lEODlhcWppTmlENnFjRkZaODFWekQ1SUVOcTVVNXk1RHBVaTR6RzVyZnI3YUV5UkpiejhFbkdxZHV1N0NqTi1xVElTOG1TcmR3WHJfTk05ZHhDLTJvV3h4RzlZakJLcmtTQWFnYU1rLUFLMl9EVGp5Q2hFam1OaVJKcXdtcHJ0aFp2T1JZLUF0ZmdCR21LTQ?oc=5",
+      "source": "investingLive",
+      "published": "2026-10-22T05:06:05+00:00",
+      "score": 3.46,
       "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Iran Guards say their mines halted two tankers crossing Strait of Hormuz - The Times of Israel",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU0ZTOGctTDBGU2daYmpoLUJFdkJaOC16SkRwWFBKN2JIUDBsQ2t0YnJ3bU1waTR5MzJlckVfeEx3UnhVSDI0VEsxS0VrM0sxV0Rja0RfMzJsWThrTHA2NzZWbVNKTEJCVktrdndOQ1JPbnBhdDBfWEM4cVJsUGloeksyUWloVnNiYzZDWFdsVW0zY190MjkzMGlSbWswNVFta0YwaWY1TXBaRHNBVHllUEFqUVRod2QtbkE?oc=5",
-      "source": "The Times of Israel",
-      "published": "2026-10-20T11:23:16+00:00",
-      "score": 3.95,
-      "tags": [
-        "closure"
+        "tension"
       ]
     },
     {
@@ -83,46 +114,16 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbXR2Rm10S2FfZG5GM3hRaDhrZVFmZktFNGtPYkx5U2I0TF9qTEROVjN5bXY2bEEwT3ptWllXdmFJOS0tMHJBZDRRbEFMcUxSYnRYbVdzRmcxOGo0eVJpRzVVOTlJdFRVdFE0ekJvQzlVX3NuRWVDaWl2Y29zNFlaMGU1SXJYMk5xRVdWdVFKMXBsOEM4OXU5QjRtYmdFdGZS0gGmAUFVX3lxTFBMbTNMR3gzWVlqdWZ4SnNnc1JRWnp1azBSMldmbmUtVjRwajdaWkFjV2c4MGM3bzhwYm9wY2FnSTFfUWZTTnJvOVlrdU9YRWw0eG1ReFdvMkJPUnhuYXBvbWk4QUJLTzFZLXF3VkxfdW9WVTVBLWxTemwxNHk4d1NzTUVCSU4tbGc3T2Rpd3ZKVUp1eVFaUHJ6U1k5eUJPakFWQWYwVFE?oc=5",
       "source": "Inshorts",
       "published": "2026-10-18T03:46:18+00:00",
-      "score": 3.49,
+      "score": 3.25,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iran threatens to attack undersea cables in the Strait of Hormuz, calls them 'legitimate new targets' in future conflict \u2014 IRGC spokesman warns that a future 'third phase' in war with US could lead them to sever global data links - Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQM2FXaFRUMWlnZ1BYYjktcFdWZGtxeE1BN0pPZldXZXEybVp4R1dtb2lBd1pZdkJ4bXZja0tRQTg3R2IzbDBVLXNidlNXc0hGY2hfa01GS3pHZEtmSzBmNnh5YV9YdEU0cTBiUTdPa0FxNjlrSmhIYUltUWFiSWtTVjB3amc5SkVCMUlERi1fbWhOUlVvVFQ3c3lLT2Utc2NqLWZXN29jZEZzVkRnYjFXb0QtajF2MDVNQVNTckZ5R0NoWGo0OHQ1aFZhTHdPN0drWHZJMHVTRUJBMUlfcEp1MnlQUHRtX0g2VEl6UGRqVjA5RE5ScmFHZldORlFrbTRnYUhXUWR5SWRpVS10MzZwMHlhY2dqTFJGQVBnb2M5YjBQa2ZDaTBZeU5xaF9vYV9JaENueXdkd2FxRHotRDdhWGhlbFVjc0pfdHdKSHM3VU5xVjh3VEkwalo0TmhacFdYMUtDdlhIUkNYMnd0X1IyUUVkMTBDdFNtUkFTdFN3?oc=5",
-      "source": "Tom's Hardware",
-      "published": "2026-10-21T11:52:08+00:00",
-      "score": 3.18,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "Violating Tanker Hits Mine South of Strait of Hormuz - \u062a\u0633\u0646\u06cc\u0645",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONHlBWEUzWmUzOUxJUDh0WHpxVHVJeUdKNE8wNG9CeEEyUDhycmhkSDZqck14RG5XQXd2b3VJVjQtaWl4R25LeWFRUzRJbl9ieVdBUjhWaUZXZzROdE1oMDJQMlhxYjhBTENiUzF0OVZkWjYtdkJ3MHVqa2dUQTUwdmFiV3V3Z1BsSEVJMkdLMndkd1JrbFFKbkxBaDF1cjlISDM0V2c0ZE7SAa4BQVVfeXFMUGRUZ3dzVi1GUFBiWDNOdzRVVW9uQzJ2akhPWURUYjg4WHRZSGE3OHh1YTdKRzBPRDQ4SnN6NzBUT1Z4UHQ4ZUhjblFMYXA1U2hZMzloUS05U05yTHljdUNlVE54Q3J1Y1AtR2hrQUJEbVkzbGdKUENjUGNJSzgzYnRaT3hCWDM0eXV0Q1BKWS11Q255VFA2VVZWNlREWVcybTBlOVdDczhsaUNoSG9R?oc=5",
-      "source": "\u062a\u0633\u0646\u06cc\u0645",
-      "published": "2026-10-19T07:52:56+00:00",
-      "score": 3.03,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "UPDATES: US War on Iran, Day 239 - Attacks on Shipping in Strait Of Hormuz Highest Since March - EA WorldView",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaGFPalEwcG1TVkVNMGx6N18wbzN2WUxScnNOQkFLRE5yakViZFU5NzFJRzNqU0pTakp4bUlVY1d5bzRDYnBPQ1FSbUtSdjJ0RWZQRm82YVE1MmhNbW5FdVNHUWtHUG04dFNkQnhnLUZyanJrWXNuMVQwRHFFTUVrTko0NDZKNGtk?oc=5",
-      "source": "EA WorldView",
-      "published": "2026-10-23T23:47:33+00:00",
-      "score": 3.0,
-      "tags": [
-        "tension"
-      ]
-    },
-    {
-      "title": "UAE Confirms Approaching Oil Spill as Iran Claims Continued Attacks - The Maritime Executive",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd09MeDN3Rzg5VV90RDhkMURJcU1YNFFzWkhHUTRtZkZaMkVmZVFEcTRvS25uWGx2TXRHNFBVZ0VxcFRKSkNWRnd6RUx2WmZ1ek5aYVBaMDYtUUJvUk1KNkVLek5ZV1lhWFJ3YnFCNGhfOUhlTkZSOTVWcmo0MTB3eDBVUDVja0ZKN2hSMnhZVUMtZ2R6cWgtaGpicWFXaFhZNUFQeEYtV25lZw?oc=5",
-      "source": "The Maritime Executive",
-      "published": "2026-10-23T20:29:47+00:00",
+      "title": "European, Middle East ministers urge US-Iran diplomacy, not new attacks - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVFNoMkR5TkRGT0RhUlluYlN0Z2lFSzBhNEJwTmpZQWQ2NVZfUUwwM3EwRlEzNlMtNkFTNUYydURqN3FwT3BjNW5WeTI3TUZ5THlUZ1JTNjJ3dFZmTFg0b2VFTHJCQXRLWXpSWktESDZOenVoQ0JjenByQnFDTkZ3QlBXT0NsQWlLTWZwbHRwT3RtVWdkanVmT25ETUJHUE1DLUpQZXMtb0NKQkc5SXlfbNIBtgFBVV95cUxNblN0R1plS1ZrNlA1SElueG44NkNwZmZELVdZMTZObDgzaUJNSFBPbG15UFlleTNRZDY2Y3BTMWlGeUJOYWlIeklfX0RvQWpoT3VITENVNEROcTkwNnFYTV94RjJ6Vzg3N004SDRocGc3Mm9DRnRlVlVJYlQ2U3JXRnJaZmFYRWxILXlPbVktUlUtNFJGRVpkT3RkY1hka1V3LWo3MTItdG01Yk90ODVtT0pZdlBLUQ?oc=5",
+      "source": "Al Jazeera",
+      "published": "2026-10-24T01:11:26+00:00",
       "score": 3.0,
       "tags": [
         "tension"
@@ -130,7 +131,7 @@
     }
   ],
   "brent": {
-    "price": 111.66,
-    "change_pct": 2.76
+    "price": 111.7,
+    "change_pct": 2.8
   }
 }
