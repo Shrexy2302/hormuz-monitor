@@ -1,20 +1,19 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 160.0,
+  "tension_index": 157.0,
   "closure_signals": 8,
-  "articles_scanned": 242,
-  "updated": "2026-10-26T12:02:19.267441+00:00",
+  "articles_scanned": 185,
+  "updated": "2026-10-26T18:45:51.168908+00:00",
   "headlines": [
     {
-      "title": "QatarEnergy buys LNG from the U.S. / Contract follows Iranian attacks and the closure of the Strait of Hormuz - Informat.ro",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYl9ZVHdYVUkxcEJuNDRHUk9FRVJZdm9fRXk3a2F2NlJUSm0yamNIUDl6TEt5a1hNRndxOEZqdjEycmJQUGtHeHYwZGNST1U4OXI0akFUSTlId1Vkei1KLTJtTEhzdXdJQXlOZkR0b3BUc2VGSmVIUVZ3VWZFUTRFS2NwTE5HSDVlWFAzMzRrWWFvMkVMUW1NYW04VUNhLTRpX2l2aWZOWQ?oc=5",
-      "source": "Informat.ro",
-      "published": "2026-10-25T07:04:55+00:00",
-      "score": 10.7,
+      "title": "IRGC Declares Strait of Hormuz Closed as Tanker Transits Drop to 4 - https://houseofsaud.com/",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvMlJBOTNkY2tkNmUxRUpyd2JNQjFnZ29hSktyN0JHZXZST1VUX21OeDVNZmVXc2dsWHp1VHdWc2tBMlFPTHB2dEhqYVJPV1c4MFpSVlM0T3czLVpxbnNYYkZEeFNLMEVrT2c?oc=5",
+      "source": "https://houseofsaud.com/",
+      "published": "2026-10-26T15:49:02+00:00",
+      "score": 10.0,
       "tags": [
-        "closure",
-        "tension"
+        "closure"
       ]
     },
     {
@@ -22,7 +21,17 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU3BGdU5KMkwwNVNINnRuYnZBdWZpYUNjSHlXSGh2MWJWck1INVRtbXNyS2t5WXZPRGxlVEpGcnM5NUkyQnlmNEtLazBSM2dFcDROdVJ1RC1Bd1haYUlXbnphM2tzenhjNm1PQUNnRkNRYi1SNVBxX2RsNTJhY19vVUU4ejhtRlRlUkdpcmxvd1YtRXZ1dVBuaVBLWQ?oc=5",
       "source": "EnergyNow.com",
       "published": "2026-10-25T08:53:06+00:00",
-      "score": 9.82,
+      "score": 9.45,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Russia\u2019s Sechin Says U.S. Companies Benefit From the Closure of the Strait of Hormuz - EnergyNow.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTE42Y0FZdEtIYTdNNDM2NlFtbjZmdUllZHUta1dOZ21HYTFnY2FTZzdKUlM4V214Ui1GTk9QX1R1ZC02MXBERW9BUFA3UUZzanZpaVFtUTN4YXpvcjB3dWxmUWZHX19ZUUswS3FaendKdjhBb3ZwNVRYT252VEp6ZldyUzNTQ1gycEp6ZGZQSHJqOXQwck9EZlA3OWZSZTV2TDFhUEducHZsRXhCcUdFR0tHTQ?oc=5",
+      "source": "EnergyNow.com",
+      "published": "2026-10-25T22:46:09+00:00",
+      "score": 8.0,
       "tags": [
         "closure"
       ]
@@ -31,7 +40,7 @@
       "title": "Washington Affirms Strait of Hormuz Free of Iranian Sea Mines - ASHARQ AL-AWSAT English",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeG50WEt3OEdYTU1YUzJlNUR5bG1SRTFCWDRZWjJ5OXhyUFIyc0Q5ZzFnNG8xcS1KY1FxQnpVZDFWQlowR0dyWUExWmhEZzZYXzh5RGFYdnlmRV8ybjRuNjhjVDh0d1gtNHl2cUpFUzU2NmR2a0lmQnNLNXk0Z1JpRVdEUmFmWlRBeXF4UFJhNkpsZkJWOXVDbnFDWVo?oc=5",
       "source": "ASHARQ AL-AWSAT English",
-      "published": "2026-10-26T10:10:20+00:00",
+      "published": "2026-10-26T13:51:44+00:00",
       "score": 6.0,
       "tags": [
         "closure"
@@ -58,24 +67,23 @@
       ]
     },
     {
-      "title": "Sea mine crisis re-emerges in Strait of Hormuz as Tehran urges Washington to accept deal - NewsCord",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sQ3hmQXFidllvYWFWdHo3bTVxclpsaXdWYjdPNTlJRTF0bDA2aW4wWGduUTF0T3hqNVhickF2LUVkLWNwZ1N5N1VnUHFFQVZhSkpXUG16dDJnUzc1alhBNVpIcGkwejlhTDk2U21kTTdYeXN2MG5TbkNfTFZuZTA?oc=5",
-      "source": "NewsCord",
-      "published": "2026-10-25T16:54:37+00:00",
-      "score": 6.0,
+      "title": "Cooper says Strait of Hormuz is free of Iranian mines \u2014 Jerusalem Post - UA.NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVVR2emVSby15S2hhZEJXNHVMTGJPenlfUGloWE1OX0ZmSnRyeEx5UFNfMGp1Yk5FUFN1bG1UMVhKSlBlbTVzY2ZKOXc1d0ZSbVFKOXpXbWU2VU1JVFVVOHdkcHZkZ1NOT2wybnRqRnRoYlVpNk1DOE94R3czZ0MyY0lhZEd4SFhJLThIUmNNU0tKVGh0ZWdfczBieGlaTkx2aE1udXlCS2tVM2c?oc=5",
+      "source": "UA.NEWS",
+      "published": "2026-10-25T18:09:14+00:00",
+      "score": 5.98,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iran\u2019s Revolutionary Guards report two oil tankers struck mines in the Strait of Hormuz - Energies Media",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83MlgtWHZadU5xU01QNWpOUmRzRzN2bkcyNmpoNUlnUFRVX18tOHJBaHdXdDNvdHktQ0hZOGJPZTdVdXA2RUZNMjM4RUFnenZvdUo3eXJrYkR4MFVMV3FEUlNxbEFyY2Nw?oc=5",
-      "source": "Energies Media",
-      "published": "2026-10-22T22:34:49+00:00",
-      "score": 5.93,
+      "title": "Sea mine crisis re-emerges in Strait of Hormuz as Tehran urges Washington to accept deal - NewsCord",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sQ3hmQXFidllvYWFWdHo3bTVxclpsaXdWYjdPNTlJRTF0bDA2aW4wWGduUTF0T3hqNVhickF2LUVkLWNwZ1N5N1VnUHFFQVZhSkpXUG16dDJnUzc1alhBNVpIcGkwejlhTDk2U21kTTdYeXN2MG5TbkNfTFZuZTA?oc=5",
+      "source": "NewsCord",
+      "published": "2026-10-25T16:54:37+00:00",
+      "score": 5.94,
       "tags": [
-        "closure",
-        "tension"
+        "closure"
       ]
     },
     {
@@ -83,7 +91,7 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWk5Rc1d3NnNfUzJvS21OcDhCYjFrdE5DTkdmYmt5LW5hQ3g1RWx1LWg2aDJrSVItNjRBemhoYnJsNkFIWm1ham0wY1RVNXFqOW03N3dDMXB2NjJEdUNvOTA0Vm1JX1hTT25odWo2T1Z6cGdJaVlTSlN1VWE2WndId1VDT2xvQlhtMEk1d2ZBYnNZY3U0TmU3QWI3RzV0QnpvSVBBRzZxVHdMZjhrRDgxVDBhUlhXa1VzaDN4aVNYNA?oc=5",
       "source": "Laodong.vn",
       "published": "2026-10-21T23:00:00+00:00",
-      "score": 5.28,
+      "score": 4.9,
       "tags": [
         "closure"
       ]
@@ -93,7 +101,7 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONTJCWmJaMVNCQnFYd0NXZkFwLS01azZmN1NaU09pam92Wk5QbFlaeEhfZWZIQkNoX09rYm1TMlVtMk8xcjRhUWx4Nk1TZHBfYjJ5dENzZW9MMlRHSWk5VWluRVNMQWpVVW52YnQ3bDA5dVd6N2NCeXRSM0NFTWI1SUpTbFBJWllmQzA2Sktsa0ZpeXpwaktZOEREMVZWR3E4Mm1uNUgtMA?oc=5",
       "source": "T\u00fcrkiye Today",
       "published": "2026-10-23T21:07:05+00:00",
-      "score": 4.7,
+      "score": 4.48,
       "tags": [
         "closure"
       ]
@@ -103,17 +111,7 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSnQ3UjRTY25kT3R1bHpsVEZPV3MtYi01R2UyNEtWSExRVVdObExhX2dtdVVNaGI5U0xpODFneEE2QzgxdEFOdE5oS1pIMTJlYzIwT1NFVE02MzRyLXpBbmhWbDV3elhFQXpZNWctaUxvQ09pSzRhLW9GTG80RU9BZ0lsUzR3WVE2RTBOYkdIVnpBVUc3SlpmVm04ZHNUb2tkdXJzNzNqWTBId0JnVXhUag?oc=5",
       "source": "Middle East Online",
       "published": "2026-10-23T20:37:48+00:00",
-      "score": 4.69,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Iran\u2019s Revolutionary Guards say 2 supertankers hit naval mines in Strait of Hormuz - Anadolu Ajans\u0131",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPczVLYlJHRWdaZ1VmV1hsdFVGSWdqX2VrMWxXTUZyUWg3d1lBajZ2aXRrcGctN2poNGpSVzM5ZWhnS0Y3YzFRdTlfcDlaVTM3U2pSWVUxT2dhYmh0QTRnM3djNlFHbXhBOXk0ajVrbXE2SW5wTEE3aWc3Q0dSOXRCWklkOWJKUUZpcjFMbzkwb0gzdFJRNmdoTU05NHZQNUZXbkMwaEVPWnJldmZSb0oxUUhXbmhYQ21qVWtZOWRnWm16ZW9td2c?oc=5",
-      "source": "Anadolu Ajans\u0131",
-      "published": "2026-10-23T20:30:09+00:00",
-      "score": 4.68,
+      "score": 4.46,
       "tags": [
         "closure"
       ]
@@ -123,14 +121,14 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80V3h6ODBsYU94NEwyVC1aUmxzRTNidDdJa09NblVUNWVwZVBHU3E3OWdsWXd0M3VfM0JtMm9vYkZKbExMSEhiQWFqMFc4X1M5eWc?oc=5",
       "source": "Iran International",
       "published": "2026-10-23T19:45:41+00:00",
-      "score": 4.66,
+      "score": 4.43,
       "tags": [
         "closure"
       ]
     }
   ],
   "brent": {
-    "price": 109.99,
-    "change_pct": -1.53
+    "price": 110.65,
+    "change_pct": -0.94
   }
 }
