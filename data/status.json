@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 173.1,
+  "tension_index": 171.6,
   "closure_signals": 10,
-  "articles_scanned": 247,
-  "updated": "2026-10-25T22:42:38.598313+00:00",
+  "articles_scanned": 248,
+  "updated": "2026-10-26T00:55:24.377965+00:00",
   "headlines": [
     {
       "title": "QatarEnergy buys LNG from the U.S. / Contract follows Iranian attacks and the closure of the Strait of Hormuz - Informat.ro",
@@ -22,7 +22,7 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU3BGdU5KMkwwNVNINnRuYnZBdWZpYUNjSHlXSGh2MWJWck1INVRtbXNyS2t5WXZPRGxlVEpGcnM5NUkyQnlmNEtLazBSM2dFcDROdVJ1RC1Bd1haYUlXbnphM2tzenhjNm1PQUNnRkNRYi1SNVBxX2RsNTJhY19vVUU4ejhtRlRlUkdpcmxvd1YtRXZ1dVBuaVBLWQ?oc=5",
       "source": "EnergyNow.com",
       "published": "2026-10-24T08:50:03+00:00",
-      "score": 9.23,
+      "score": 9.11,
       "tags": [
         "closure"
       ]
@@ -32,20 +32,10 @@
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83MlgtWHZadU5xU01QNWpOUmRzRzN2bkcyNmpoNUlnUFRVX18tOHJBaHdXdDNvdHktQ0hZOGJPZTdVdXA2RUZNMjM4RUFnenZvdUo3eXJrYkR4MFVMV3FEUlNxbEFyY2Nw?oc=5",
       "source": "Energies Media",
       "published": "2026-10-22T22:34:49+00:00",
-      "score": 6.59,
+      "score": 6.48,
       "tags": [
         "closure",
         "tension"
-      ]
-    },
-    {
-      "title": "Quantity of goods through Panama Canal reaches record when the Strait of Hormuz is blocked - Laodong.vn",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWk5Rc1d3NnNfUzJvS21OcDhCYjFrdE5DTkdmYmt5LW5hQ3g1RWx1LWg2aDJrSVItNjRBemhoYnJsNkFIWm1ham0wY1RVNXFqOW03N3dDMXB2NjJEdUNvOTA0Vm1JX1hTT25odWo2T1Z6cGdJaVlTSlN1VWE2WndId1VDT2xvQlhtMEk1d2ZBYnNZY3U0TmU3QWI3RzV0QnpvSVBBRzZxVHdMZjhrRDgxVDBhUlhXa1VzaDN4aVNYNA?oc=5",
-      "source": "Laodong.vn",
-      "published": "2026-10-21T23:00:00+00:00",
-      "score": 6.02,
-      "tags": [
-        "closure"
       ]
     },
     {
@@ -59,11 +49,31 @@
       ]
     },
     {
+      "title": "Sea mine crisis re-emerges in Strait of Hormuz as Tehran urges Washington to accept deal - NewsCord",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sQ3hmQXFidllvYWFWdHo3bTVxclpsaXdWYjdPNTlJRTF0bDA2aW4wWGduUTF0T3hqNVhickF2LUVkLWNwZ1N5N1VnUHFFQVZhSkpXUG16dDJnUzc1alhBNVpIcGkwejlhTDk2U21kTTdYeXN2MG5TbkNfTFZuZTA?oc=5",
+      "source": "NewsCord",
+      "published": "2026-10-25T16:54:37+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Quantity of goods through Panama Canal reaches record when the Strait of Hormuz is blocked - Laodong.vn",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWk5Rc1d3NnNfUzJvS21OcDhCYjFrdE5DTkdmYmt5LW5hQ3g1RWx1LWg2aDJrSVItNjRBemhoYnJsNkFIWm1ham0wY1RVNXFqOW03N3dDMXB2NjJEdUNvOTA0Vm1JX1hTT25odWo2T1Z6cGdJaVlTSlN1VWE2WndId1VDT2xvQlhtMEk1d2ZBYnNZY3U0TmU3QWI3RzV0QnpvSVBBRzZxVHdMZjhrRDgxVDBhUlhXa1VzaDN4aVNYNA?oc=5",
+      "source": "Laodong.vn",
+      "published": "2026-10-21T23:00:00+00:00",
+      "score": 5.89,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
       "title": "Iran says 2 supertankers hit naval mines in Strait of Hormuz - T\u00fcrkiye Today",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONTJCWmJaMVNCQnFYd0NXZkFwLS01azZmN1NaU09pam92Wk5QbFlaeEhfZWZIQkNoX09rYm1TMlVtMk8xcjRhUWx4Nk1TZHBfYjJ5dENzZW9MMlRHSWk5VWluRVNMQWpVVW52YnQ3bDA5dVd6N2NCeXRSM0NFTWI1SUpTbFBJWllmQzA2Sktsa0ZpeXpwaktZOEREMVZWR3E4Mm1uNUgtMA?oc=5",
       "source": "T\u00fcrkiye Today",
       "published": "2026-10-23T21:07:05+00:00",
-      "score": 5.15,
+      "score": 5.07,
       "tags": [
         "closure"
       ]
@@ -73,7 +83,7 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSnQ3UjRTY25kT3R1bHpsVEZPV3MtYi01R2UyNEtWSExRVVdObExhX2dtdVVNaGI5U0xpODFneEE2QzgxdEFOdE5oS1pIMTJlYzIwT1NFVE02MzRyLXpBbmhWbDV3elhFQXpZNWctaUxvQ09pSzRhLW9GTG80RU9BZ0lsUzR3WVE2RTBOYkdIVnpBVUc3SlpmVm04ZHNUb2tkdXJzNzNqWTBId0JnVXhUag?oc=5",
       "source": "Middle East Online",
       "published": "2026-10-23T20:37:48+00:00",
-      "score": 5.13,
+      "score": 5.06,
       "tags": [
         "closure"
       ]
@@ -83,7 +93,7 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMjk1RXlPMWg0dUVMcjQ5aDBTRkk1VFFrUlJidE91WWRURHI5UWs3NnJ0VGFSem5uZkpsc2tfQWVfZ2l2SWswZ3pnT2hqZXQ5aXNOUjVXY29pVUxzUTN6N1pSNTh1Yl9ic0xFYTlTOWFoTUhqRkQ5WXBCX1QzbUdkMXVfaXhCMk4zdWY5Mjk1V2NCU3FaWmZxOEU5RUNPWEVMcXlFZkJ2Y1B2a3pfRExudHVkUHJmTk15SjRqNEMzX20?oc=5",
       "source": "Anadolu Ajans\u0131",
       "published": "2026-10-23T20:30:09+00:00",
-      "score": 5.13,
+      "score": 5.05,
       "tags": [
         "closure"
       ]
@@ -93,7 +103,7 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80V3h6ODBsYU94NEwyVC1aUmxzRTNidDdJa09NblVUNWVwZVBHU3E3OWdsWXd0M3VfM0JtMm9vYkZKbExMSEhiQWFqMFc4X1M5eWc?oc=5",
       "source": "Iran International",
       "published": "2026-10-23T19:45:41+00:00",
-      "score": 5.1,
+      "score": 5.03,
       "tags": [
         "closure"
       ]
@@ -103,7 +113,7 @@
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPREpYYnJLS2pUMzRubGhvblZHazRLRW55dFBVVXJfcmM5WTVDYlVWRWVfdlhaTDByZnBuZDdRaHZFdEVKXzFFRU5GamJhUFRMTmpMc3hjU2dFby1DT0tWeFBxblR3Yms2bGE5WExaYm1POHQ1MW4yZTZyZTlRZFhjY0s2MXhKaC1CcUIzdVN2Zy1wc3hXNUpKek12NG5KYVhOX01MNUxEVVZCQ2R6eXFvQUVHeUV2UkxMTE5PTGxfeC1iUTY3UVJkUHVJeTh0QllSYkRKM0loMnFrQ2NVQ3l2THlFaGUxMTRQLUE?oc=5",
       "source": "NewsCord",
       "published": "2026-10-23T17:29:17+00:00",
-      "score": 5.03,
+      "score": 4.95,
       "tags": [
         "closure"
       ]
@@ -113,24 +123,14 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbTZzWURNMjl6V3l2ei1mZTZPWXFNaVQyTXItWEtoV2cyVVNGdXJ1R1dpZ0NxbGNiZms0aktZZkNDUGNxVWdQMVRnU2pFMmI2SERHMnlTYkpjdC1JcWRiRGlOOFhFdVQ0emU4eTZSQ1Jua3l6VzJUaURNQVVZTHdSZWFqSDJJazJyai1RMlI4MFZsY2E2SEJIVUx2QnJtX3U5YU1ta3o5enlUV2VjYjdmbFJ2bUp0SjdkOEZBcG1JZzJpbjA?oc=5",
       "source": "Forbes Espa\u00f1a",
       "published": "2026-10-21T10:16:36+00:00",
-      "score": 4.25,
+      "score": 4.15,
       "tags": [
         "closure"
-      ]
-    },
-    {
-      "title": "Iran sends conflicting signals on US deal as Trump raises prospect of strikes - Iran International",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9reFd6eFdFdzZFLUg1dS1pd3BGYmtJMjBzZktXY1NSaXc5QkJwZE5xQ0FMMDVwQzl0OG1kcWtReEtlZjE0dFdzUUJ2LXgxTU1Pc1E?oc=5",
-      "source": "Iran International",
-      "published": "2026-10-25T01:35:00+00:00",
-      "score": 4.0,
-      "tags": [
-        "tension"
       ]
     }
   ],
   "brent": {
-    "price": 110.37,
-    "change_pct": -1.19
+    "price": 110.42,
+    "change_pct": -1.15
   }
 }
