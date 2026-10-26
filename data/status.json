@@ -1,11 +1,22 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 157.0,
-  "closure_signals": 8,
-  "articles_scanned": 185,
-  "updated": "2026-10-26T18:45:51.168908+00:00",
+  "tension_index": 166.0,
+  "closure_signals": 7,
+  "articles_scanned": 237,
+  "updated": "2026-10-26T22:58:43.274286+00:00",
   "headlines": [
+    {
+      "title": "QatarEnergy buys LNG from the U.S. / Contract follows Iranian attacks and the closure of the Strait of Hormuz - Informat.ro",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYl9ZVHdYVUkxcEJuNDRHUk9FRVJZdm9fRXk3a2F2NlJUSm0yamNIUDl6TEt5a1hNRndxOEZqdjEycmJQUGtHeHYwZGNST1U4OXI0akFUSTlId1Vkei1KLTJtTEhzdXdJQXlOZkR0b3BUc2VGSmVIUVZ3VWZFUTRFS2NwTE5HSDVlWFAzMzRrWWFvMkVMUW1NYW04VUNhLTRpX2l2aWZOWQ?oc=5",
+      "source": "Informat.ro",
+      "published": "2026-10-25T07:04:55+00:00",
+      "score": 10.03,
+      "tags": [
+        "closure",
+        "tension"
+      ]
+    },
     {
       "title": "IRGC Declares Strait of Hormuz Closed as Tanker Transits Drop to 4 - https://houseofsaud.com/",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvMlJBOTNkY2tkNmUxRUpyd2JNQjFnZ29hSktyN0JHZXZST1VUX21OeDVNZmVXc2dsWHp1VHdWc2tBMlFPTHB2dEhqYVJPV1c4MFpSVlM0T3czLVpxbnNYYkZEeFNLMEVrT2c?oc=5",
@@ -21,17 +32,7 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU3BGdU5KMkwwNVNINnRuYnZBdWZpYUNjSHlXSGh2MWJWck1INVRtbXNyS2t5WXZPRGxlVEpGcnM5NUkyQnlmNEtLazBSM2dFcDROdVJ1RC1Bd1haYUlXbnphM2tzenhjNm1PQUNnRkNRYi1SNVBxX2RsNTJhY19vVUU4ejhtRlRlUkdpcmxvd1YtRXZ1dVBuaVBLWQ?oc=5",
       "source": "EnergyNow.com",
       "published": "2026-10-25T08:53:06+00:00",
-      "score": 9.45,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Russia\u2019s Sechin Says U.S. Companies Benefit From the Closure of the Strait of Hormuz - EnergyNow.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTE42Y0FZdEtIYTdNNDM2NlFtbjZmdUllZHUta1dOZ21HYTFnY2FTZzdKUlM4V214Ui1GTk9QX1R1ZC02MXBERW9BUFA3UUZzanZpaVFtUTN4YXpvcjB3dWxmUWZHX19ZUUswS3FaendKdjhBb3ZwNVRYT252VEp6ZldyUzNTQ1gycEp6ZGZQSHJqOXQwck9EZlA3OWZSZTV2TDFhUEducHZsRXhCcUdFR0tHTQ?oc=5",
-      "source": "EnergyNow.com",
-      "published": "2026-10-25T22:46:09+00:00",
-      "score": 8.0,
+      "score": 9.22,
       "tags": [
         "closure"
       ]
@@ -61,17 +62,7 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ1lNUXJORVJheXFyTzBxN0VESzRpbml0U3ZuMHB1aExYUE9zZ1hLRVNlaXRsRXdhbG92UVVrMF9HR1Z1VWRKSTV3c3JERG5TQUxLTmg0OXk4V1B3cXhWUE96MHZWclhMbW80Rko0LUJZRFVTa0tXZndfRXNLc1dMajNNbnBGRmZwdk5wMTdtWXk4cVk5aDNKcDlZeFRWNDhlYk1Wa01sdnJNMW9iN0JUOEFGdw?oc=5",
       "source": "The Times of Israel",
       "published": "2026-10-25T19:16:22+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Cooper says Strait of Hormuz is free of Iranian mines \u2014 Jerusalem Post - UA.NEWS",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVVR2emVSby15S2hhZEJXNHVMTGJPenlfUGloWE1OX0ZmSnRyeEx5UFNfMGp1Yk5FUFN1bG1UMVhKSlBlbTVzY2ZKOXc1d0ZSbVFKOXpXbWU2VU1JVFVVOHdkcHZkZ1NOT2wybnRqRnRoYlVpNk1DOE94R3czZ0MyY0lhZEd4SFhJLThIUmNNU0tKVGh0ZWdfczBieGlaTkx2aE1udXlCS2tVM2c?oc=5",
-      "source": "UA.NEWS",
-      "published": "2026-10-25T18:09:14+00:00",
-      "score": 5.98,
+      "score": 5.88,
       "tags": [
         "closure"
       ]
@@ -81,7 +72,7 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sQ3hmQXFidllvYWFWdHo3bTVxclpsaXdWYjdPNTlJRTF0bDA2aW4wWGduUTF0T3hqNVhickF2LUVkLWNwZ1N5N1VnUHFFQVZhSkpXUG16dDJnUzc1alhBNVpIcGkwejlhTDk2U21kTTdYeXN2MG5TbkNfTFZuZTA?oc=5",
       "source": "NewsCord",
       "published": "2026-10-25T16:54:37+00:00",
-      "score": 5.94,
+      "score": 5.8,
       "tags": [
         "closure"
       ]
@@ -91,7 +82,7 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWk5Rc1d3NnNfUzJvS21OcDhCYjFrdE5DTkdmYmt5LW5hQ3g1RWx1LWg2aDJrSVItNjRBemhoYnJsNkFIWm1ham0wY1RVNXFqOW03N3dDMXB2NjJEdUNvOTA0Vm1JX1hTT25odWo2T1Z6cGdJaVlTSlN1VWE2WndId1VDT2xvQlhtMEk1d2ZBYnNZY3U0TmU3QWI3RzV0QnpvSVBBRzZxVHdMZjhrRDgxVDBhUlhXa1VzaDN4aVNYNA?oc=5",
       "source": "Laodong.vn",
       "published": "2026-10-21T23:00:00+00:00",
-      "score": 4.9,
+      "score": 4.67,
       "tags": [
         "closure"
       ]
@@ -101,7 +92,7 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONTJCWmJaMVNCQnFYd0NXZkFwLS01azZmN1NaU09pam92Wk5QbFlaeEhfZWZIQkNoX09rYm1TMlVtMk8xcjRhUWx4Nk1TZHBfYjJ5dENzZW9MMlRHSWk5VWluRVNMQWpVVW52YnQ3bDA5dVd6N2NCeXRSM0NFTWI1SUpTbFBJWllmQzA2Sktsa0ZpeXpwaktZOEREMVZWR3E4Mm1uNUgtMA?oc=5",
       "source": "T\u00fcrkiye Today",
       "published": "2026-10-23T21:07:05+00:00",
-      "score": 4.48,
+      "score": 4.34,
       "tags": [
         "closure"
       ]
@@ -111,7 +102,7 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSnQ3UjRTY25kT3R1bHpsVEZPV3MtYi01R2UyNEtWSExRVVdObExhX2dtdVVNaGI5U0xpODFneEE2QzgxdEFOdE5oS1pIMTJlYzIwT1NFVE02MzRyLXpBbmhWbDV3elhFQXpZNWctaUxvQ09pSzRhLW9GTG80RU9BZ0lsUzR3WVE2RTBOYkdIVnpBVUc3SlpmVm04ZHNUb2tkdXJzNzNqWTBId0JnVXhUag?oc=5",
       "source": "Middle East Online",
       "published": "2026-10-23T20:37:48+00:00",
-      "score": 4.46,
+      "score": 4.32,
       "tags": [
         "closure"
       ]
@@ -121,14 +112,24 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80V3h6ODBsYU94NEwyVC1aUmxzRTNidDdJa09NblVUNWVwZVBHU3E3OWdsWXd0M3VfM0JtMm9vYkZKbExMSEhiQWFqMFc4X1M5eWc?oc=5",
       "source": "Iran International",
       "published": "2026-10-23T19:45:41+00:00",
-      "score": 4.43,
+      "score": 4.29,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iran\u2019s Revolutionary Guards Say Two Supertankers Hit Naval Mines in Strait of Hormuz: who 13 outlets blamed - NewsCord",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPREpYYnJLS2pUMzRubGhvblZHazRLRW55dFBVVXJfcmM5WTVDYlVWRWVfdlhaTDByZnBuZDdRaHZFdEVKXzFFRU5GamJhUFRMTmpMc3hjU2dFby1DT0tWeFBxblR3Yms2bGE5WExaYm1POHQ1MW4yZTZyZTlRZFhjY0s2MXhKaC1CcUIzdVN2Zy1wc3hXNUpKek12NG5KYVhOX01MNUxEVVZCQ2R6eXFvQUVHeUV2UkxMTE5PTGxfeC1iUTY3UVJkUHVJeTh0QllSYkRKM0loMnFrQ2NVQ3l2THlFaGUxMTRQLUE?oc=5",
+      "source": "NewsCord",
+      "published": "2026-10-23T17:29:17+00:00",
+      "score": 4.22,
       "tags": [
         "closure"
       ]
     }
   ],
   "brent": {
-    "price": 110.65,
-    "change_pct": -0.94
+    "price": 110.24,
+    "change_pct": -0.45
   }
 }
