@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 186.5,
-  "closure_signals": 12,
+  "tension_index": 191.1,
+  "closure_signals": 18,
   "articles_scanned": 241,
-  "updated": "2026-10-27T13:27:09.863681+00:00",
+  "updated": "2026-10-27T18:50:13.851329+00:00",
   "headlines": [
     {
       "title": "IRGC Declares Strait Of Hormuz Closed After Strikes On Four Tankers: how 5 outlets framed it - NewsCord",
@@ -15,6 +15,16 @@
       "tags": [
         "closure",
         "tension"
+      ]
+    },
+    {
+      "title": "Iran keeps Strait of Hormuz closed as seven conditions stall US negotiations - AL Circle",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLU5XdU9vRVMtTFoyUmx6eU54bjdGenRVcVFqc05VTmh5UERaRG9GYnl4ZEFmUU1oZkRUMzQ2YzJVWXQ1TWNnZnpyWE1oLXk3TGF3T1p6cGxER25sRVEwRUpiMHlqeGhkdFNFZmt4dVBocVdFUTFjcGhBa2FvcHM5anZrLXlRY1JYZUZRMGdCZDNYQmg1V1dfNFUwUnM5NjVTS3JfWmE0M2F2M1d3ZEVVeWdkSQ?oc=5",
+      "source": "AL Circle",
+      "published": "2026-10-27T13:20:00+00:00",
+      "score": 10.0,
+      "tags": [
+        "closure"
       ]
     },
     {
@@ -32,7 +42,7 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvMlJBOTNkY2tkNmUxRUpyd2JNQjFnZ29hSktyN0JHZXZST1VUX21OeDVNZmVXc2dsWHp1VHdWc2tBMlFPTHB2dEhqYVJPV1c4MFpSVlM0T3czLVpxbnNYYkZEeFNLMEVrT2c?oc=5",
       "source": "https://houseofsaud.com/",
       "published": "2026-10-26T15:49:02+00:00",
-      "score": 10.0,
+      "score": 9.83,
       "tags": [
         "closure"
       ]
@@ -42,18 +52,7 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYl9ZVHdYVUkxcEJuNDRHUk9FRVJZdm9fRXk3a2F2NlJUSm0yamNIUDl6TEt5a1hNRndxOEZqdjEycmJQUGtHeHYwZGNST1U4OXI0akFUSTlId1Vkei1KLTJtTEhzdXdJQXlOZkR0b3BUc2VGSmVIUVZ3VWZFUTRFS2NwTE5HSDVlWFAzMzRrWWFvMkVMUW1NYW04VUNhLTRpX2l2aWZOWQ?oc=5",
       "source": "Informat.ro",
       "published": "2026-10-25T07:04:55+00:00",
-      "score": 9.14,
-      "tags": [
-        "closure",
-        "tension"
-      ]
-    },
-    {
-      "title": "US Military Declares Strait of Hormuz Cleared of Mines After Safeguarding 1.5 Billion Barrels of Oil, Yet Fresh Tanker Strikes Expose the Fragile Reality Behind Global Energy Supplies - Istituto Impariamo",
-      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNeUxxVmtJOUFmMHNuNURHZXJ6eHV2aTZVaE5WU2lBc1B4cVJiWnBKNlNwTW5ETUxZSkdaU0lmWk5HRlMxQjl4TThuczZDSnlXWGw1a3ZERUpkUkFSbjVpelZ2NTFubnU2WkJZcTJaLUhHVkVwRUlNdFlvM1NqMUhwZnhpblJaU1dTQTdyYVV0QnE2Wkt0LXNtYm0tck1LbjkxT1R5bXliRHJpcnJ0blJLN2JLSjU1bU1Bc3F0UEtJQ3JRckxsMTQ2NUplU21XTWFSamZYV1BLZ2ZNSm9BNEk2TV92QU56Ui1jdk4tWGVZM21JZkNqZWp5aFlNVW4wSG5Jd3R3NHJQZ2V6czdjVnpvdHhqbWdqbWlHUVNiV1ZaVU1LYjVlMzFRelZYUDZDQlZ1cEFFbFpFRXlkYlhY?oc=5",
-      "source": "Istituto Impariamo",
-      "published": "2026-10-26T14:37:01+00:00",
-      "score": 9.0,
+      "score": 8.81,
       "tags": [
         "closure",
         "tension"
@@ -80,58 +79,58 @@
       ]
     },
     {
-      "title": "Iran says oil tanker catches fire after hitting naval mine east of Strait of Hormuz - Anadolu Ajans\u0131",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaExiOGVxdU5lVjhSTWtxTG1yRUFPRE5MMWJ6b0s5Y1pnOW85YzAzSXNvVWthWTV0c0xEd0x0ckVZNkZTS2ZhUEdnMDhqQWRGRTJUT0lGcjZRTTRPb0RXN1lJcGlJZHlOQnpGd0x1UHliWEhlek8tUmEtSnBta1ZrQTBweDZxN3c2WTFDVkMzb2JScU9VX285Xy1rMl9BU09RUzNOOVUwS2c3anlBXzRoVFF1WlVHVHA2LUU1ZXNYaGl4MkJNZXFB?oc=5",
-      "source": "Anadolu Ajans\u0131",
-      "published": "2026-10-27T13:17:31+00:00",
+      "title": "Oil Tanker Catches Fire After Hitting Naval Mine Near Strait of Hormuz - Caspian Post",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWHNLMU9jUk5JRG5ISjdPa2E3dUpNMklwd24tUTE5VFRJSmlDV1A3bFpmTXZWRXJPakpnNzZEbzFWNkR6UXZEWk0yMEpBRXBsdXB0STlpeTFMM3otU19sNjhWSTZWSDBWQ1pld0J6ZkFuc051NWpqaWd5WlZqRWxJWlFuTDFwS2VXMHRmY1pPMk1sTXRFcDNZRV90emxzNGVY?oc=5",
+      "source": "Caspian Post",
+      "published": "2026-10-27T15:25:43+00:00",
       "score": 6.0,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Oil tanker on fire east of Strait of Hormuz after hitting naval mines, Iranian Navy says - JFeed",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQXzZ6WkxVQTkwR1F6Z3VmNW94RVlBUXlHNzMxMWpFRmRDWGtkQm4ySU5HREQ4WXRtQUZ4VmwtemZoaXVpVi11dVZndDBOMW1BWG1kY3Bmd2tPQXZIRVpjM1FvMUMxWkVKTkN1VWJlSDlQSUhfRENWdGp3NlotOF9odDdPSDJubDUybFFxcVY5OGpqQms1WmV2Zll1eEVYWFVzQVlhRl9FZGktRDhYU3dZZFFVcFp3NFY0S3hTWA?oc=5",
-      "source": "JFeed",
-      "published": "2026-10-27T12:59:07+00:00",
+      "title": "Iranian Army: Oil tanker catches fire after striking naval mine in Strait of Hormuz - \u0648\u0643\u0627\u0644\u0629 \u0633\u0628\u0623",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9PLVBfV1poN3UxX3BlLUxiRXYxMG1GWTliM2w1bFYxYmVOZHk3UjByOFYtU2k4cGFtQlhrTEV4Q1VhM20yNTlhMXVn?oc=5",
+      "source": "\u0648\u0643\u0627\u0644\u0629 \u0633\u0628\u0623",
+      "published": "2026-10-27T15:16:33+00:00",
       "score": 6.0,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Washington Affirms Strait of Hormuz Free of Iranian Sea Mines - ASHARQ AL-AWSAT English",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeG50WEt3OEdYTU1YUzJlNUR5bG1SRTFCWDRZWjJ5OXhyUFIyc0Q5ZzFnNG8xcS1KY1FxQnpVZDFWQlowR0dyWUExWmhEZzZYXzh5RGFYdnlmRV8ybjRuNjhjVDh0d1gtNHl2cUpFUzU2NmR2a0lmQnNLNXk0Z1JpRVdEUmFmWlRBeXF4UFJhNkpsZkJWOXVDbnFDWVo?oc=5",
-      "source": "ASHARQ AL-AWSAT English",
-      "published": "2026-10-26T13:51:44+00:00",
+      "title": "Iran Says Oil Tanker Hit Naval Mines in Strait of Hormuz - Kurdistan24",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSkJPRkVxNjl2aHh1QkxHTTBQWUJPQ2g2QUdvSEtwVDhQZHo1OThpQ1R3MjdqSEU4ZXF1U25WbXVTVWdQZ3R1blhhZmZ4M0lWa3FuUXI5MzVuRnpVcG9DejNwcmxtbU9rU2Q4cjhRZzJwYkhUcW9tMUJLWXdRME5zUTdBRzVoakJSZjhjYjN4RUFlSU5rX2M3UUE0OGl3alpub1E?oc=5",
+      "source": "Kurdistan24",
+      "published": "2026-10-27T14:35:00+00:00",
       "score": 6.0,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "CENTCOM chief declares: Strait of Hormuz is free from Iranian mines - Israel National News",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qYW1hREI4ZXJVaXRidmdfUldjYmJMNmFSOFc5Ymo5eHNHMWxxVVV4TU1kOFhoV1djQkxxcGtENXMzLXVObU1obEgwV0Q5M0wtRE9NZWNfYlpNdw?oc=5",
-      "source": "Israel National News",
-      "published": "2026-10-26T04:55:17+00:00",
-      "score": 5.72,
+      "title": "Oil tanker catches fire after striking naval mines near Strait of Hormuz - Latest news from Azerbaijan",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTUhkV3p5NHVEaWxrbVJpcVpQTGpBQ0VydWFTTDhsem1yTTQ1b3Y2aFIyRFZxeWJrSlNta2hfY3BKNDFuUmZiQlpPdDNnWTBFOHpjbXBZdXRrUWJJTEJuSmhkd3oyMUstbGdCUk1lX2c3WUJGNTZCM3VZdF9QTU5qZjgtcm55aXVRMktQaUItUW44dmM0TkozNw?oc=5",
+      "source": "Latest news from Azerbaijan",
+      "published": "2026-10-27T14:27:40+00:00",
+      "score": 6.0,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "US CENTCOM chief flies over Strait of Hormuz, says it\u2019s free of mines - The Times of Israel",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ1lNUXJORVJheXFyTzBxN0VESzRpbml0U3ZuMHB1aExYUE9zZ1hLRVNlaXRsRXdhbG92UVVrMF9HR1Z1VWRKSTV3c3JERG5TQUxLTmg0OXk4V1B3cXhWUE96MHZWclhMbW80Rko0LUJZRFVTa0tXZndfRXNLc1dMajNNbnBGRmZwdk5wMTdtWXk4cVk5aDNKcDlZeFRWNDhlYk1Wa01sdnJNMW9iN0JUOEFGdw?oc=5",
-      "source": "The Times of Israel",
-      "published": "2026-10-25T19:16:22+00:00",
-      "score": 5.39,
+      "title": "Iran claims that a tanker caught fire after colliding with mines in the Strait of Hormuz. - Dem\u00f3crata",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNM2lxU2xvR3JMRGpqWHRrckVtZnVpNjZXdzJVdDFGMkMtSkp6ZjJXOERVX05kcUFqemZGNXZjRUZQYmxaY09ZdkJVbFFmMXpjbzVQWTRFR1AwRWpTZXR1UFlIZm9DQk0ydzNxOS1qcTVFVzc3RUdSdTlxSzQ3WnJSUElpbWRfS3k1OHR4Y29DZ1JSTEZwVmlLYUhObnUwSDBKNEszY3JsWGlFZ1BaWld3aGNZQnI2WlA3RFZBbVdTakY2b1Mwc2tzTmVqWdIB0AFBVV95cUxNYnQ3dlpBY1h5UV8zbnlsTFZvZ1JLeHZ1OWdZcU5vOU9jS29jSjFLdGNubXNYOUpaQ21RS1RibUhoY2JfemhPel9kY2M3X2p1cVRmVWJvZ0ZKbUhSMDE5X09IYldUZkVtU1FXZFdkam1XVy0zV0N5T0ZESTBVVG4zQWhiUTY2Zzlvd0U1SUVRWmNveXVIU0Qwb05kN2pWOU4zQ3hrVHd4ejZtWGJidVh1ZFNQUGNyWE5QdEZyQmQ4Z0wxZVlza0ZJTGR3eDFRNkNI?oc=5",
+      "source": "Dem\u00f3crata",
+      "published": "2026-10-27T14:13:31+00:00",
+      "score": 6.0,
       "tags": [
         "closure"
       ]
     }
   ],
   "brent": {
-    "price": 109.95,
-    "change_pct": -0.71
+    "price": 109.48,
+    "change_pct": -1.14
   }
 }
