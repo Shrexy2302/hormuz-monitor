@@ -1,11 +1,32 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 161.5,
+  "tension_index": 168.3,
   "closure_signals": 7,
-  "articles_scanned": 245,
-  "updated": "2026-10-27T01:52:13.520114+00:00",
+  "articles_scanned": 236,
+  "updated": "2026-10-27T07:09:25.784317+00:00",
   "headlines": [
+    {
+      "title": "IRGC Declares Strait Of Hormuz Closed After Strikes On Four Tankers: how 5 outlets framed it - NewsCord",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQ2RxY3A2VVg1bU5BaE03azBkaThKWGdqUGRaQ1lhdEF2ajFZX1VhSU82MVJlR1VKc2NHQS1hSW1ET3JlQUlVWEVRendFSFVJYkMtajRrTVR5RklNZ0NrVnRuNGFNZ3RXdFZWT1B0R01USnBBWkpaM1o3V3BScmU0R3NTSm1SNjRvSEw2d2FubXYzTGdIazBCU0tZdEIxTWtUWXRBZmhCNGpoaHI3STNaU1FoMlVnUUJWZGJYZHh2eXdGT3FKNGFTdFBaQkxIREVoeVZSV0tpR2g?oc=5",
+      "source": "NewsCord",
+      "published": "2026-10-27T05:24:49+00:00",
+      "score": 13.0,
+      "tags": [
+        "closure",
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran Declares Strait of Hormuz Closed as \u2018Unauthorised\u2019 Vessel Hit - EnergyNow.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU3BGdU5KMkwwNVNINnRuYnZBdWZpYUNjSHlXSGh2MWJWck1INVRtbXNyS2t5WXZPRGxlVEpGcnM5NUkyQnlmNEtLazBSM2dFcDROdVJ1RC1Bd1haYUlXbnphM2tzenhjNm1PQUNnRkNRYi1SNVBxX2RsNTJhY19vVUU4ejhtRlRlUkdpcmxvd1YtRXZ1dVBuaVBLWQ?oc=5",
+      "source": "EnergyNow.com",
+      "published": "2026-10-26T20:40:21+00:00",
+      "score": 10.0,
+      "tags": [
+        "closure"
+      ]
+    },
     {
       "title": "IRGC Declares Strait of Hormuz Closed as Tanker Transits Drop to 4 - https://houseofsaud.com/",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvMlJBOTNkY2tkNmUxRUpyd2JNQjFnZ29hSktyN0JHZXZST1VUX21OeDVNZmVXc2dsWHp1VHdWc2tBMlFPTHB2dEhqYVJPV1c4MFpSVlM0T3czLVpxbnNYYkZEeFNLMEVrT2c?oc=5",
@@ -21,20 +42,10 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYl9ZVHdYVUkxcEJuNDRHUk9FRVJZdm9fRXk3a2F2NlJUSm0yamNIUDl6TEt5a1hNRndxOEZqdjEycmJQUGtHeHYwZGNST1U4OXI0akFUSTlId1Vkei1KLTJtTEhzdXdJQXlOZkR0b3BUc2VGSmVIUVZ3VWZFUTRFS2NwTE5HSDVlWFAzMzRrWWFvMkVMUW1NYW04VUNhLTRpX2l2aWZOWQ?oc=5",
       "source": "Informat.ro",
       "published": "2026-10-25T07:04:55+00:00",
-      "score": 9.85,
+      "score": 9.53,
       "tags": [
         "closure",
         "tension"
-      ]
-    },
-    {
-      "title": "Iran Declares Strait of Hormuz Closed as \u2018Unauthorised\u2019 Vessel Hit - EnergyNow.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU3BGdU5KMkwwNVNINnRuYnZBdWZpYUNjSHlXSGh2MWJWck1INVRtbXNyS2t5WXZPRGxlVEpGcnM5NUkyQnlmNEtLazBSM2dFcDROdVJ1RC1Bd1haYUlXbnphM2tzenhjNm1PQUNnRkNRYi1SNVBxX2RsNTJhY19vVUU4ejhtRlRlUkdpcmxvd1YtRXZ1dVBuaVBLWQ?oc=5",
-      "source": "EnergyNow.com",
-      "published": "2026-10-25T08:53:06+00:00",
-      "score": 9.06,
-      "tags": [
-        "closure"
       ]
     },
     {
@@ -48,21 +59,11 @@
       ]
     },
     {
-      "title": "Washington Affirms Strait of Hormuz Free of Iranian Sea Mines - \u0634\u0628\u0643\u0629 \u062a\u0648\u0627\u0635\u0644 \u0627\u0644\u0625\u062e\u0628\u0627\u0631\u064a\u0629",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKTFM3aVA3aG96c2NEbGVKQklXaGVFZE5kck5NV0poQXNCUGVuQ2RkQ0pHOWdqdVM0WVd6eDg2SDViOVg4OE45ZVl3bEZDVTAzdlBZ?oc=5",
-      "source": "\u0634\u0628\u0643\u0629 \u062a\u0648\u0627\u0635\u0644 \u0627\u0644\u0625\u062e\u0628\u0627\u0631\u064a\u0629",
-      "published": "2026-10-26T06:29:44+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
       "title": "CENTCOM chief declares: Strait of Hormuz is free from Iranian mines - Israel National News",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qYW1hREI4ZXJVaXRidmdfUldjYmJMNmFSOFc5Ymo5eHNHMWxxVVV4TU1kOFhoV1djQkxxcGtENXMzLXVObU1obEgwV0Q5M0wtRE9NZWNfYlpNdw?oc=5",
       "source": "Israel National News",
       "published": "2026-10-26T04:55:17+00:00",
-      "score": 6.0,
+      "score": 5.93,
       "tags": [
         "closure"
       ]
@@ -72,17 +73,7 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ1lNUXJORVJheXFyTzBxN0VESzRpbml0U3ZuMHB1aExYUE9zZ1hLRVNlaXRsRXdhbG92UVVrMF9HR1Z1VWRKSTV3c3JERG5TQUxLTmg0OXk4V1B3cXhWUE96MHZWclhMbW80Rko0LUJZRFVTa0tXZndfRXNLc1dMajNNbnBGRmZwdk5wMTdtWXk4cVk5aDNKcDlZeFRWNDhlYk1Wa01sdnJNMW9iN0JUOEFGdw?oc=5",
       "source": "The Times of Israel",
       "published": "2026-10-25T19:16:22+00:00",
-      "score": 5.78,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Two Supertankers Explode After Hitting Mines in Strait of Hormuz: IRGC - Politics news - Tasnim News Agency - \u062a\u0633\u0646\u06cc\u0645",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQkltTmpCYnc5SWxwVnh2N1I3N092YXRramJZRmExOHAwUkIyZVZKR21XWkFJb3dvbHZrM08ySlVudUp2cmxwdWFFQXA1cmk5RThJeHJhLW0yckw5XzN1dmNfQVlMV1YxcVNLcnRkeG9hOGU1R1BiZ0FibmVVaWY3MlJVM3E5Z1E5VHk0OE5wVnhqQmR1WllhTWkyNGRJY25xdERfaGFwNXQ3RFB5R2Y2bi1IeFBKSHo2NnluaTFxdw?oc=5",
-      "source": "\u062a\u0633\u0646\u06cc\u0645",
-      "published": "2026-10-24T07:06:08+00:00",
-      "score": 4.57,
+      "score": 5.6,
       "tags": [
         "closure"
       ]
@@ -92,7 +83,7 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWk5Rc1d3NnNfUzJvS21OcDhCYjFrdE5DTkdmYmt5LW5hQ3g1RWx1LWg2aDJrSVItNjRBemhoYnJsNkFIWm1ham0wY1RVNXFqOW03N3dDMXB2NjJEdUNvOTA0Vm1JX1hTT25odWo2T1Z6cGdJaVlTSlN1VWE2WndId1VDT2xvQlhtMEk1d2ZBYnNZY3U0TmU3QWI3RzV0QnpvSVBBRzZxVHdMZjhrRDgxVDBhUlhXa1VzaDN4aVNYNA?oc=5",
       "source": "Laodong.vn",
       "published": "2026-10-21T23:00:00+00:00",
-      "score": 4.51,
+      "score": 4.21,
       "tags": [
         "closure"
       ]
@@ -102,7 +93,7 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONTJCWmJaMVNCQnFYd0NXZkFwLS01azZmN1NaU09pam92Wk5QbFlaeEhfZWZIQkNoX09rYm1TMlVtMk8xcjRhUWx4Nk1TZHBfYjJ5dENzZW9MMlRHSWk5VWluRVNMQWpVVW52YnQ3bDA5dVd6N2NCeXRSM0NFTWI1SUpTbFBJWllmQzA2Sktsa0ZpeXpwaktZOEREMVZWR3E4Mm1uNUgtMA?oc=5",
       "source": "T\u00fcrkiye Today",
       "published": "2026-10-23T21:07:05+00:00",
-      "score": 4.24,
+      "score": 4.07,
       "tags": [
         "closure"
       ]
@@ -112,24 +103,34 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSnQ3UjRTY25kT3R1bHpsVEZPV3MtYi01R2UyNEtWSExRVVdObExhX2dtdVVNaGI5U0xpODFneEE2QzgxdEFOdE5oS1pIMTJlYzIwT1NFVE02MzRyLXpBbmhWbDV3elhFQXpZNWctaUxvQ09pSzRhLW9GTG80RU9BZ0lsUzR3WVE2RTBOYkdIVnpBVUc3SlpmVm04ZHNUb2tkdXJzNzNqWTBId0JnVXhUag?oc=5",
       "source": "Middle East Online",
       "published": "2026-10-23T20:37:48+00:00",
-      "score": 4.23,
+      "score": 4.05,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Middle East Conflict Escalates: Brent Crude Nears $117 as Strait of Hormuz Records 28 Ship Attacks in October, the Deadliest Month This Year - BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IdE9HNUJ6WmFiWXBneDQ3SUpYS1VhWlJmVEo3czlhTjNkMVlUOU51UXp6YjQ2cXlfRkszXzJySlhZV3FKdlpyVkRrOUhzaEg4bnNqMFFweF8tY0h1ODVYRVg2Szl3NHpBQ1M4N1hieW5IS0JUbXc?oc=5",
-      "source": "BigGo Finance",
-      "published": "2026-10-24T18:05:00+00:00",
-      "score": 3.29,
+      "title": "Iran\u2019s Revolutionary Guards say 2 supertankers hit naval mines in Strait of Hormuz - Anadolu Ajans\u0131",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPczVLYlJHRWdaZ1VmV1hsdFVGSWdqX2VrMWxXTUZyUWg3d1lBajZ2aXRrcGctN2poNGpSVzM5ZWhnS0Y3YzFRdTlfcDlaVTM3U2pSWVUxT2dhYmh0QTRnM3djNlFHbXhBOXk0ajVrbXE2SW5wTEE3aWc3Q0dSOXRCWklkOWJKUUZpcjFMbzkwb0gzdFJRNmdoTU05NHZQNUZXbkMwaEVPWnJldmZSb0oxUUhXbmhYQ21qVWtZOWRnWm16ZW9td2c?oc=5",
+      "source": "Anadolu Ajans\u0131",
+      "published": "2026-10-23T20:30:09+00:00",
+      "score": 4.04,
       "tags": [
-        "tension"
+        "closure"
+      ]
+    },
+    {
+      "title": "IRGC Navy says two supertankers hit mines in Strait of Hormuz - Iran International",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80V3h6ODBsYU94NEwyVC1aUmxzRTNidDdJa09NblVUNWVwZVBHU3E3OWdsWXd0M3VfM0JtMm9vYkZKbExMSEhiQWFqMFc4X1M5eWc?oc=5",
+      "source": "Iran International",
+      "published": "2026-10-23T19:45:41+00:00",
+      "score": 4.02,
+      "tags": [
+        "closure"
       ]
     }
   ],
   "brent": {
-    "price": 109.81,
-    "change_pct": -0.84
+    "price": 110.75,
+    "change_pct": 0.01
   }
 }
