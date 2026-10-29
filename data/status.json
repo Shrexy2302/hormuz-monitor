@@ -1,17 +1,17 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 200.8,
-  "closure_signals": 21,
-  "articles_scanned": 241,
-  "updated": "2026-10-29T06:07:22.256677+00:00",
+  "tension_index": 288.7,
+  "closure_signals": 33,
+  "articles_scanned": 246,
+  "updated": "2026-10-29T13:27:15.715581+00:00",
   "headlines": [
     {
       "title": "IRGC Declares Strait Of Hormuz Closed After Strikes On Four Tankers: how 5 outlets framed it - NewsCord",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQ2RxY3A2VVg1bU5BaE03azBkaThKWGdqUGRaQ1lhdEF2ajFZX1VhSU82MVJlR1VKc2NHQS1hSW1ET3JlQUlVWEVRendFSFVJYkMtajRrTVR5RklNZ0NrVnRuNGFNZ3RXdFZWT1B0R01USnBBWkpaM1o3V3BScmU0R3NTSm1SNjRvSEw2d2FubXYzTGdIazBCU0tZdEIxTWtUWXRBZmhCNGpoaHI3STNaU1FoMlVnUUJWZGJYZHh2eXdGT3FKNGFTdFBaQkxIREVoeVZSV0tpR2g?oc=5",
       "source": "NewsCord",
       "published": "2026-10-27T05:24:49+00:00",
-      "score": 11.22,
+      "score": 10.69,
       "tags": [
         "closure",
         "tension"
@@ -28,11 +28,22 @@
       ]
     },
     {
+      "title": "UKMTO Says Ship Burning In Strait Of Hormuz; IRGC Cites Mine Strikes On Three Tankers: 7 outlets compared - NewsCord",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPY2xZSEpjR1JSWjNhbjZmUVJrRV81elBKRXZjTUNRNmozZThvM0k3a3ZvMXlSU1FKNzhQMGRkVlI1ZEpsRlU5QmpJbi1tZlRzcWdUb2hwUUM3LW9lWl9UZnJsRmp2OFdnajlUcVR6RlRJVHBYY1pYZDRNRDZEY1RnWVRKNmY1VTJET3FJTnFMY2MydVdNNGZqYks1QjI5R25vbVpqeFpBY0NxOXJaa1dJTkNwT0d0b0kzRWJBSkFsYWROdWxsZEFQSmtEbldxYkhNbHIxNVdkQ283c2lDenlNWWdwVGEtMEN1dnc?oc=5",
+      "source": "NewsCord",
+      "published": "2026-10-29T11:19:44+00:00",
+      "score": 9.0,
+      "tags": [
+        "closure",
+        "tension"
+      ]
+    },
+    {
       "title": "Iran keeps Strait of Hormuz closed as seven conditions stall US negotiations - AL Circle",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLU5XdU9vRVMtTFoyUmx6eU54bjdGenRVcVFqc05VTmh5UERaRG9GYnl4ZEFmUU1oZkRUMzQ2YzJVWXQ1TWNnZnpyWE1oLXk3TGF3T1p6cGxER25sRVEwRUpiMHlqeGhkdFNFZmt4dVBocVdFUTFjcGhBa2FvcHM5anZrLXlRY1JYZUZRMGdCZDNYQmg1V1dfNFUwUnM5NjVTS3JfWmE0M2F2M1d3ZEVVeWdkSQ?oc=5",
       "source": "AL Circle",
       "published": "2026-10-27T13:20:00+00:00",
-      "score": 9.07,
+      "score": 8.66,
       "tags": [
         "closure"
       ]
@@ -42,7 +53,7 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSmEzR0tjbmRuTXdJYk0zOUh0d1F5eDFyMGtKS2w3YzB4bGJrdUUwSzdib1NGS0hxb0dzRHJiZW1VSkkySTN0cjFaR2FoaHM2UnhBdDI2d2tVMUh3UE0tazJpMF9tNWJSR1lZNjVaTUU4bFVXRnpUbTdNcndTTDN3N1FHSEtkVHBkVGVuMEV0Zmh2aE5CV3c?oc=5",
       "source": "Roya News",
       "published": "2026-10-27T20:20:39+00:00",
-      "score": 8.51,
+      "score": 8.14,
       "tags": [
         "closure",
         "tension"
@@ -63,7 +74,7 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvMlJBOTNkY2tkNmUxRUpyd2JNQjFnZ29hSktyN0JHZXZST1VUX21OeDVNZmVXc2dsWHp1VHdWc2tBMlFPTHB2dEhqYVJPV1c4MFpSVlM0T3czLVpxbnNYYkZEeFNLMEVrT2c?oc=5",
       "source": "https://houseofsaud.com/",
       "published": "2026-10-26T15:49:02+00:00",
-      "score": 7.87,
+      "score": 7.46,
       "tags": [
         "closure"
       ]
@@ -73,7 +84,17 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTE42Y0FZdEtIYTdNNDM2NlFtbjZmdUllZHUta1dOZ21HYTFnY2FTZzdKUlM4V214Ui1GTk9QX1R1ZC02MXBERW9BUFA3UUZzanZpaVFtUTN4YXpvcjB3dWxmUWZHX19ZUUswS3FaendKdjhBb3ZwNVRYT252VEp6ZldyUzNTQ1gycEp6ZGZQSHJqOXQwck9EZlA3OWZSZTV2TDFhUEducHZsRXhCcUdFR0tHTQ?oc=5",
       "source": "EnergyNow.com",
       "published": "2026-10-27T11:47:45+00:00",
-      "score": 7.19,
+      "score": 6.86,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iran Closes Strait of Hormuz Again and Says its Negotiating Team With U.S. is Heading to Switzerland - EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQUpLYmY3MmdhWEdPakxDRnJuZ1M2eXFaOU4xQzlPejB0TmcwQXRLUEl1b2pxWV8zOG9DeFRXU240UUdPMWZIeWM3Nm1IVmtaUS1XSjZtZjY4M3BKR0lmOFNWZG5VSUloaGlhdDZYa2ljOWVYMHFocjZsQ0gwdTBNLWtZbWtJcGJURUZSR0JqVTI1OXE2aFdoM2lCSmRlQ3ZRTEFBR0ZjOFlFZHdZZkZza1kzZmRDZnVpRkFpRGdEVHZKd1JEUzdxaA?oc=5",
+      "source": "EnergyNow",
+      "published": "2026-10-26T23:05:59+00:00",
+      "score": 6.3,
       "tags": [
         "closure"
       ]
@@ -83,55 +104,35 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYl9ZVHdYVUkxcEJuNDRHUk9FRVJZdm9fRXk3a2F2NlJUSm0yamNIUDl6TEt5a1hNRndxOEZqdjEycmJQUGtHeHYwZGNST1U4OXI0akFUSTlId1Vkei1KLTJtTEhzdXdJQXlOZkR0b3BUc2VGSmVIUVZ3VWZFUTRFS2NwTE5HSDVlWFAzMzRrWWFvMkVMUW1NYW04VUNhLTRpX2l2aWZOWQ?oc=5",
       "source": "Informat.ro",
       "published": "2026-10-25T07:04:55+00:00",
-      "score": 6.66,
+      "score": 6.21,
       "tags": [
         "closure",
         "tension"
       ]
     },
     {
-      "title": "Iran Closes Strait of Hormuz Again and Says its Negotiating Team With U.S. is Heading to Switzerland - EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQUpLYmY3MmdhWEdPakxDRnJuZ1M2eXFaOU4xQzlPejB0TmcwQXRLUEl1b2pxWV8zOG9DeFRXU240UUdPMWZIeWM3Nm1IVmtaUS1XSjZtZjY4M3BKR0lmOFNWZG5VSUloaGlhdDZYa2ljOWVYMHFocjZsQ0gwdTBNLWtZbWtJcGJURUZSR0JqVTI1OXE2aFdoM2lCSmRlQ3ZRTEFBR0ZjOFlFZHdZZkZza1kzZmRDZnVpRkFpRGdEVHZKd1JEUzdxaA?oc=5",
-      "source": "EnergyNow",
-      "published": "2026-10-26T23:05:59+00:00",
-      "score": 6.62,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "US Central Command: All shipping routes through the Strait of Hormuz are free of mines - MTV Lebanon",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdlREWEVMOUZrUW8xNTBORUEyemhDWkdzcTlJOHRucEhLZUVQMEtuWmVTanBfaUJMOGZOak5FZmlTS0xTblhHTTEwNV94NklWNGZaQ2I1aHpNcXkxbFFZWElyQ2o3V0ZHblVmbFNmRENVNHFpYkFMdi01NTB5b0lnSXI5di1jS0stZDJlUEhkNm81S1ZfNEFtT0hFazZETkRYZUFTLUxCTlhaSmFYMnlkd3ZRT0x6dGxUeHVSSGVHZmpzanhlS3VySllhVUZSRWl5cFJSNmh3?oc=5",
-      "source": "MTV Lebanon",
-      "published": "2026-10-28T19:40:15+00:00",
+      "title": "Iran Says Three Oil Tankers Caught Fire After Hitting Mines in Strait of Hormuz - Kurdistan24",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdFFJeXAzVEc2RTBEWFVxN3FXa2VNdnN3WEQtQzJkcTM4S3BTUjlaQWdlUVMydFVudGxJam91VWUzTmNTdkVxTEdrSzB4MDRaMG5PZTlkV1UzNkZ3QnotN241MGd1SGxXci1iNTJEN2ZjRXpMX3A4T2xhTWlPbTRyUmg1N0czTFEzVGNPNjRHclpFLV8tLXN5WUljTmRZMG1DeWtpTVp5dlFfYi1taTFQYWw1blJjQWJKcjVXM1FILXY?oc=5",
+      "source": "Kurdistan24",
+      "published": "2026-10-29T12:10:00+00:00",
       "score": 6.0,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iran\u2019s Military Says Oil Tanker Caught Fire After Striking Mine Near Strait Of Hormuz: 7 outlets compared - NewsCord",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNXVLMENwT2tneEllTDgybU9sb0IyMXJWXzRfRE9FQ0FFcFJBM25IeWxaYl9QaVJJLWJvUzhQV21oN0dGYmExNzdrWEEtSGNjTUZxU2tkRHVDUnUtSmpxSGVGZWtNdnFZM0ZaMFpnS29RQXRwM0ZfV1hqcVdzMExJaFBUSkR2eEZKUFdoR2JPc2RhbXkxd1g1a0RJeTJnZWg1WnhSdWthcVREbEZIY0tlRmlZbGw3TERHYkZfdUNDR3BTNzJvd3MycVlVYWQyaUcwRGxaOGRMeDRJVXFtWlIxam1ZZll1U0JCTkE?oc=5",
-      "source": "NewsCord",
-      "published": "2026-10-27T23:35:34+00:00",
-      "score": 5.78,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Washington Affirms Strait of Hormuz Free of Iranian Sea Mines - ASHARQ AL-AWSAT English",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeG50WEt3OEdYTU1YUzJlNUR5bG1SRTFCWDRZWjJ5OXhyUFIyc0Q5ZzFnNG8xcS1KY1FxQnpVZDFWQlowR0dyWUExWmhEZzZYXzh5RGFYdnlmRV8ybjRuNjhjVDh0d1gtNHl2cUpFUzU2NmR2a0lmQnNLNXk0Z1JpRVdEUmFmWlRBeXF4UFJhNkpsZkJWOXVDbnFDWVo?oc=5",
-      "source": "ASHARQ AL-AWSAT English",
-      "published": "2026-10-27T19:18:45+00:00",
-      "score": 5.64,
+      "title": "Three Tankers Explode After Striking Mines on Unauthorized Route in Strait of Hormuz - WANA News Agency",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ1pPMnpLeUFJTFJPbWxfX3V6WWM1Q21SS2VOaFZrMVpJU1R2VEo4SWEwU2FTNk5QYzVUcGxVdEhNcHBwdV9BU1dkV2haTXBFaXJ1ZGRjT2RFRFZOaEhiWjlFVlVIcmdvQlRwUTBfdGh2dzJGNTgzVm95dmhZeEV1UGlwdEs0UDNJTVNtYVNKRUdzUWpIejJfaWFYMlFvT1R3ZXk2SHEwRQ?oc=5",
+      "source": "WANA News Agency",
+      "published": "2026-10-29T12:09:28+00:00",
+      "score": 6.0,
       "tags": [
         "closure"
       ]
     }
   ],
   "brent": {
-    "price": 110.19,
-    "change_pct": -1.3
+    "price": 109.6,
+    "change_pct": -1.83
   }
 }
