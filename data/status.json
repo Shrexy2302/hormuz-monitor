@@ -1,28 +1,17 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 405.0,
-  "closure_signals": 36,
-  "articles_scanned": 238,
-  "updated": "2026-10-31T20:35:35.693839+00:00",
+  "tension_index": 414.0,
+  "closure_signals": 39,
+  "articles_scanned": 200,
+  "updated": "2026-10-31T23:53:08.370379+00:00",
   "headlines": [
-    {
-      "title": "Iran Declares Strait Of Hormuz Closed As Army Reports Tanker Fire Following Naval Mine Strike - Deccan Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWkVIcGZtQ1BfeFJ1NDVtVGJHM25YWUxTR0gtZ1Y5a040czQ3MkpMcklETW5NdksxSWNIR1F4cGtSS1A0WVVxbURkY0FoU3IwWC1yMkhuZHpSTGZfZVo4MFZaQnIwM2lkOHVIMDNwVzBnQllZRk5QNjVSRXUtaXg0SDVqZ3JFSWxuVElWR2tQZkMwNlVRemNObWVlVHBiX1dDUkNJSDNkREdwVzBhbXZ5N245cGxlYzRtVzNQSzU3T2pwNUR6SktHYVdHZFV2NE01cXZES0kyVnRXYjjSAdsBQVVfeXFMTVpFSHBmbUNQX3hSdTQ1bVRiRzNuWFlMU0dILWdWOWtONHM0NzJKTHJJRE1uTXZLMUljSEdReHBrUktQNFlVcW1EZGNBaFNyMFgtcjJIbmR6UkxmX2VaODBWWkJyMDNpZDh1SDAzcFcwZ0JZWUZOUDY1UkV1LWl4NEg1amdyRUlsblRJVkdrUGZDMDZVUXpjTm1lZVRwYl9XQ1JDSUgzZERHcFcwYW12eTduOXBsZWM0bVczUEs1N09qcDVEekpLR2FXR2RVdjRNNXF2REtJMlZ0V2I4?oc=5",
-      "source": "Deccan Chronicle",
-      "published": "2026-10-30T01:59:37+00:00",
-      "score": 11.66,
-      "tags": [
-        "closure",
-        "tension"
-      ]
-    },
     {
       "title": "Iran declares Strait of Hormuz closed as army reports tanker fire following naval mine strike - ANI News",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbjJpb1Naa0dRa0hiZDE0a1ZiOWNaNmZ3eHVHa0dXbG9GVG9heVBlQjd4V3FxMGNYUWdhRGFzZ1BuNE5fZHlselg1NUxrbkVta1pJNmhKNmJPaE9OWm85dDVkMzBpMHhrc0wzLUY1TW1oWHVkZkRBaVhnc1J5MnZpSGlsU3ZKekpoZENCd3Z2RTh6bDZ6cThvdFZYclBzLXlHbkdfMXZ4SHFmOEtlT3h1RExqbTBDOUxmUFVlVDVDQTRScGhRcm9GdVZwUWdybHFVVHR2eHhhRllrX2h3YU40eXRXT194OTQy?oc=5",
       "source": "ANI News",
       "published": "2026-10-29T16:36:00+00:00",
-      "score": 10.98,
+      "score": 10.74,
       "tags": [
         "closure",
         "tension"
@@ -32,8 +21,8 @@
       "title": "Iran Declares Strait of Hormuz Closed as \u2018Unauthorised\u2019 Vessel Hit - EnergyNow.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU3BGdU5KMkwwNVNINnRuYnZBdWZpYUNjSHlXSGh2MWJWck1INVRtbXNyS2t5WXZPRGxlVEpGcnM5NUkyQnlmNEtLazBSM2dFcDROdVJ1RC1Bd1haYUlXbnphM2tzenhjNm1PQUNnRkNRYi1SNVBxX2RsNTJhY19vVUU4ejhtRlRlUkdpcmxvd1YtRXZ1dVBuaVBLWQ?oc=5",
       "source": "EnergyNow.com",
-      "published": "2026-10-30T18:55:37+00:00",
-      "score": 9.91,
+      "published": "2026-10-31T08:01:53+00:00",
+      "score": 10.0,
       "tags": [
         "closure"
       ]
@@ -72,22 +61,11 @@
       ]
     },
     {
-      "title": "Iran says 4 tankers strike mines and catch fire in Strait of Hormuz, and other Mideast news - The Killeen Daily Herald",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNOG91T0FfVFlyZkZmMXJBS09MTTI4Q1dTQlU0d0w1MlFVc3NUOEE2Smg4djFMbTVfY0FLMWpHclphUGFYQlI0VEQwZGFCOHU5a1ZSVDNGRzJBZnlUV3RMZzdiQzE3aTRHZDRpSFdVdWRCSnNtMlg4dk9sekpSNTZidEJjdGJNXzZfaGU0NExockQwdmJidVNLTWRodjd4VjV2ZlZVZzZ2d1FaOUlnMVZBaHpOYWhyUFYtcXhtYlI4Skd4NVNJbUQxVmdKSlhRVENDUDdSNFZFbF9sa0JDRW9fMmV4N1gwUWlQc3Y1THpMb3g?oc=5",
-      "source": "The Killeen Daily Herald",
-      "published": "2026-10-30T21:10:40+00:00",
-      "score": 9.0,
-      "tags": [
-        "closure",
-        "tension"
-      ]
-    },
-    {
       "title": "Iran says 4 tankers strike mines and catch fire in Strait of Hormuz, and other Mideast news - AP News",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOEpYN1k4WGRzNW1fT2pyNHVESDhKWVJlTVNDbTZLVmdhY1lRUDRqT0p2WlpZSmNCUm9McUx2bXROS3E0YVRMbEp4U3V4cDcyNzFEbGZsRVM3a2V5NXRnblpucGtMTFZUMFZsYXZ0M1VxQkR6eTRackRZWmd4VE42RkcyZ043b3hXX0FhazZPdEJjQQ?oc=5",
       "source": "AP News",
       "published": "2026-10-30T21:10:00+00:00",
-      "score": 9.0,
+      "score": 8.86,
       "tags": [
         "closure",
         "tension"
@@ -98,7 +76,7 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYzF1ZmQ2S0ttTFFYNzRhMnlKTmkzZl9CT2xSMk56ejBKOVR1Z1RwZDFVaU5TVGx6RVBBU1E3NHFzVmtuOVhTcHBqbkxNVFV0NS0wdmpnYVlkX0lBMGx2SlBjeURsMTI4OEVUSDQzNFd1SUlQVFc0ekVreTBVM2tsejMxdWNpWWRvZERkZnBURzFWeTAyVVQ3cFA3Ni1reGlSTnJXTFVyQlVoLVJnSEZDcWFtZ1g?oc=5",
       "source": "caspiannews.com",
       "published": "2026-10-30T20:20:05+00:00",
-      "score": 8.99,
+      "score": 8.82,
       "tags": [
         "closure",
         "tension"
@@ -109,7 +87,7 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd1FwRkh2alhJWFY5REJMNF9LMlJrd2VHV2UyMFd4NjBqX3VDS05uX0hfRmVRMUhXUE1aazc0LU84T19fR0V3cHdRN0hmRTFhemV2eUF5UTB3SjVOalJCNm1kUU41LTFsN3JtZHVBYVNlZkRWaDJrUFVDaFNhaEVfckRhd2dvY1FEeGJ4UW5DUnJ4WVJNMTk3YzE3M3M4dnhkcjFVTFN1SVhsa1ZaR3JydDFiWEXSAbwBQVVfeXFMTXk0N012YTRJX0l2OXZjcVl5MlJvcHBmVkRIWWFCN3RvRXF0a2N4UW1kQzVBbkt2eGQ3blZpczdCc1hEX0RNOS1UbE5md09yUkEwbnQ1N0o1M204dW1oc3JqbElXYVUxMDl2Qy1QXzhHdWZwM2RmcVVWR1o2M3dlejNqVzFvWHB2ZEdnc0hxOHZLUmZEWjdWQlpFWERoWkd2Y0RmUUFjVFM5UUoxbmhGMG9rZ2lrTm5QZ0JtQmg?oc=5",
       "source": "NDTV",
       "published": "2026-10-30T18:37:50+00:00",
-      "score": 8.9,
+      "score": 8.74,
       "tags": [
         "closure",
         "tension"
@@ -120,7 +98,7 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNmNsYTlvcTk1cVNSM0NaM0FQaGwtSHdRNHFoOHU3cDl4RFBxU3Z5VnR2Nk5JckN1eUJ4ekgzenQ5cGgzbjNidmVtMmd2a1NOOGRaaEtvMHZ5cDBDOWc2S2Fwc1k1U05WOG5ROVJZLVBfeThyc09FQUdjT1pxVk90MDEzRVA5MUpGTU9wUFZJSzdaRzhHR0d0OU14eTJaRUY4OGVlNzZLejdFN0dySDRPZEF3cGNXMklL?oc=5",
       "source": "TWZ",
       "published": "2026-10-30T18:33:46+00:00",
-      "score": 8.9,
+      "score": 8.73,
       "tags": [
         "closure",
         "tension"
@@ -131,7 +109,29 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOUdvWWtmb1NLSkUyU19iRXU3RzlzU1hxUTNPUjk1czM0Vk5mY2dIb0xXaU4yOXlRUmhHcTZvNnFEdDRXZEtaNndveDVfZVJuTnNnNW9aQjZ6Q19rcnNta0dIZ0NEWkdGUFRqXzdYX1huUGZWZ0xTV1ZyTXFjZzNnWXdVZ09iYVBwUGNLZUtUczBJQzBfVmEyUWxOS0ZxRm9vTDRfNUpDWW5OcnBZcmllQVJlWVU5QQ?oc=5",
       "source": "Military.com",
       "published": "2026-10-30T18:27:46+00:00",
-      "score": 8.89,
+      "score": 8.73,
+      "tags": [
+        "closure",
+        "tension"
+      ]
+    },
+    {
+      "title": "Three tankers strike mines and catch fire in Strait of Hormuz, Iran claims, and other Mideast news - Idaho State Journal",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPOXFFb0tkNDhIMV9PSk8zZ1hVTkFKTHd6NUhVUDdnMWU0OG9yMlplekZWaFJROGlHaDFpMHYtVC1zOW1ZeGpRdjh3YUp5R212eEU0MUFIYzZHc3J6ZERDblVrZWJhRXBRNTZ2eFlmWGoyT2dDSjhlcjNZUG5fWXQ2bHpOc051dEVZOEtsRlF0Q0NBdFZucDNuNFlsZDJUdEU5SEU0bmdoZkdpSXNSNjR1SzJNTWN3cm5nRGYxNWgtSlhPRDByekFJNzhkcHhLdy1WSkxHZTNoQW1oYmZuY3V4SUphMEdseHc5MV9NOHJPcDM0clFYcUN3SC1YVEM0RmRUallZOUZvMTRNR2lvM3c?oc=5",
+      "source": "Idaho State Journal",
+      "published": "2026-10-30T15:12:57+00:00",
+      "score": 8.57,
+      "tags": [
+        "closure",
+        "tension"
+      ]
+    },
+    {
+      "title": "Three tankers strike mines and catch fire in Strait of Hormuz, Iran claims, and other Mideast news - KTVN",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPaXFCLVRiNEllUGN4M2JzSm9iM0hNS01DQVh4TDlQS1lSYnZ0aVdBeFRhajVlWU5wbEJUelVhVThPS080dEo5UWZ5YXo1WmdiREVuUFk2LUp5b2s3dXpXQmZGV3FIVVJEQ0szR0lqMWlnek1wbUZKOHdyZnVSWVhxTDlCTEJ2dXRKYUhsWHJGTnBIY25OLVFaY1pETnp3ZHlBWENxczhPMGFCcjdaYU5kNElQUDhqR1pQNWV3TDJtUHJVRE5Qdk9WbDFucWhIeE1MMXdCalRYRm1KUWo0WFNsRWdqSGY2Vkk0aXBEbkwwNXZPMGVPcW53?oc=5",
+      "source": "KTVN",
+      "published": "2026-10-30T15:12:57+00:00",
+      "score": 8.57,
       "tags": [
         "closure",
         "tension"
