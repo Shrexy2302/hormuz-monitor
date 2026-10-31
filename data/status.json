@@ -1,17 +1,17 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 446.2,
+  "tension_index": 451.8,
   "closure_signals": 43,
-  "articles_scanned": 208,
-  "updated": "2026-10-31T06:03:01.627434+00:00",
+  "articles_scanned": 242,
+  "updated": "2026-10-31T12:54:01.498510+00:00",
   "headlines": [
     {
-      "title": "Iran Declares Strait of Hormuz Closed After Oil Tanker Catches Fire in Naval Mine Strike - LatestLY",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdlVLNEdWaXZWTzdpQ0ZuUGZ6SENRMmhBb1BaT0hwZHczTUlCUnR6RkhUeVhUcFJkMUtoZFhDcDRrX183OExOeVZIRXVra3pWRVNrU25tZFJpUmpTY2ZWNjZ5dnNBMGl1MUtvMFMxY01QT0R1ZEJwV1EwcktkMEx4c1NFR0gwTGNhV3JJSlJvZFFNYWpnYmh3UW5ZcHZBMlpHLWtDNUZmSUNHWm1PRHFGeWw4Vm5tVUhBSnRzNkVkTGNGajR4MXZRemMwM3fSAdIBQVVfeXFMTVBvalg2OHRYR1EzZkJWbXZnRUFoQ09ORDFFRE40OGcyUXllb3gydGU1NEphWmFONmI4YXNudGU1UjQwVHIwQXRtNVlESXJqRkw2WFJka2FFbkpDNEtnblZ4QmdpaDVOd2ZBNlVzWVJKOWNtczlaNVNaSkx2TGh3TTRMS1pSY2diUnBVdEF1LTJPMXZSM0ZFcUhzNk9sVjlGdWJMVGNfUzAxRkhRanZwbG1waURtbHJCVkdnTE9ZS0tQaVNDSU9EOVBFc1Z3NHkyTU5R?oc=5",
-      "source": "LatestLY",
-      "published": "2026-10-29T17:41:17+00:00",
-      "score": 12.11,
+      "title": "Iran Declares Strait Of Hormuz Closed As Army Reports Tanker Fire Following Naval Mine Strike - Deccan Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWkVIcGZtQ1BfeFJ1NDVtVGJHM25YWUxTR0gtZ1Y5a040czQ3MkpMcklETW5NdksxSWNIR1F4cGtSS1A0WVVxbURkY0FoU3IwWC1yMkhuZHpSTGZfZVo4MFZaQnIwM2lkOHVIMDNwVzBnQllZRk5QNjVSRXUtaXg0SDVqZ3JFSWxuVElWR2tQZkMwNlVRemNObWVlVHBiX1dDUkNJSDNkREdwVzBhbXZ5N245cGxlYzRtVzNQSzU3T2pwNUR6SktHYVdHZFV2NE01cXZES0kyVnRXYjjSAdsBQVVfeXFMTVpFSHBmbUNQX3hSdTQ1bVRiRzNuWFlMU0dILWdWOWtONHM0NzJKTHJJRE1uTXZLMUljSEdReHBrUktQNFlVcW1EZGNBaFNyMFgtcjJIbmR6UkxmX2VaODBWWkJyMDNpZDh1SDAzcFcwZ0JZWUZOUDY1UkV1LWl4NEg1amdyRUlsblRJVkdrUGZDMDZVUXpjTm1lZVRwYl9XQ1JDSUgzZERHcFcwYW12eTduOXBsZWM0bVczUEs1N09qcDVEekpLR2FXR2RVdjRNNXF2REtJMlZ0V2I4?oc=5",
+      "source": "Deccan Chronicle",
+      "published": "2026-10-30T01:59:37+00:00",
+      "score": 12.21,
       "tags": [
         "closure",
         "tension"
@@ -22,7 +22,7 @@
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbjJpb1Naa0dRa0hiZDE0a1ZiOWNaNmZ3eHVHa0dXbG9GVG9heVBlQjd4V3FxMGNYUWdhRGFzZ1BuNE5fZHlselg1NUxrbkVta1pJNmhKNmJPaE9OWm85dDVkMzBpMHhrc0wzLUY1TW1oWHVkZkRBaVhnc1J5MnZpSGlsU3ZKekpoZENCd3Z2RTh6bDZ6cThvdFZYclBzLXlHbkdfMXZ4SHFmOEtlT3h1RExqbTBDOUxmUFVlVDVDQTRScGhRcm9GdVZwUWdybHFVVHR2eHhhRllrX2h3YU40eXRXT194OTQy?oc=5",
       "source": "ANI News",
       "published": "2026-10-29T16:36:00+00:00",
-      "score": 12.03,
+      "score": 11.53,
       "tags": [
         "closure",
         "tension"
@@ -39,23 +39,14 @@
       ]
     },
     {
-      "title": "Strait of Hormuz is closed once again: Iran - News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84NVNuS3BtZVBRYXZNdGFxRTl2UURCamRKUWxSTHROY2RfMDMwOVdzczhsSEVScUcwaUpIU3U0NTRIQUtLR05IM2t2MkRlODZJNnZJUnZGMlRyeThERmR6aHo5SE1JZGJGdEhDeE1UdjJMWWZXVjVz?oc=5",
-      "source": "News On AIR",
-      "published": "2026-10-30T01:04:49+00:00",
-      "score": 9.72,
+      "title": "Tanker Struck By Limpet Mines In Strait of Hormuz In First Such Attack Since 2019 - Marine Insight",
+      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNU21lOW83Z0pMN0JOS1lVaV9rS01qWXd2RFdLcS10NUxodUlzVHBnWnNMZ3lGcWxUNUZVQWVlT19SeUROM1ZtZEdGVGdqeW01cTBSaHVsRTk3blJlXzlvbHRWTUd1dlFScEZLdHZLQVpjUUxpQ0tvcm1uVWdNdUhkVmtSWmlyYktFR2NDUVlHYmo4SWZnckg2ZUFjVDJoa2NueWtoeTJnZlh4X0ZKNV90S2NwUnpOQXp6bjBaRngtVThEemxFQW5JVlRWczItRUNsQkRzM0FCWGd6MGNZUUhpbG9hVjVxN21RX2ZZcnE5NjVsY1J3b2MwWWFMcU5fbGQzZjBtNUhReDR4ZFp1QjBZeGRVSFFYZVVxTWI4MmdXTUpVRmRzZ1lmclo4WEJlUnpfOG5Za3Jmb3NJMTBEelVtTE10M3dCMHVWLXBLT1RWU2E2RktfdWNUag?oc=5",
+      "source": "Marine Insight",
+      "published": "2026-10-31T11:49:28+00:00",
+      "score": 9.0,
       "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Iranian Navy: The Strait of Hormuz is closed to vessels that attempt to pass through restricted areas without coordinating with us - MTV Lebanon",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxObTh4NVRfQXlOVW9PeUVWRGZHV3RSeVFHSkllenkzQXd3a2lBTTVhN2x2b3FlekU0VjRjbGxDaXlSSHUxcm45UFFpUW5lNW4zV3kyb09aWHFCeGI0aUpJMjRoZ2owVkRzNVFDQ3hTdmtGRHhQZW9MTnB1TDlST2RvNUdEWVZnckMyR3Bqc0NTeXlWVlNJcU9Fa0F1Q2FuNU5hLWpzSGRqaUlFUWpiQklSZUs0WWpyOURzRTNSM3dNdVRnNTcyclYtWjJhQnJCdWV1SjNtUml1VHNCdlR3blJkZWpCbDZZRDhaSjgzaENjcF9xc09EMDdPX0FEZE9oWU9peWd0a2dBY0Noek80RW9aUA?oc=5",
-      "source": "MTV Lebanon",
-      "published": "2026-10-29T14:45:03+00:00",
-      "score": 9.15,
-      "tags": [
-        "closure"
+        "closure",
+        "tension"
       ]
     },
     {
@@ -114,10 +105,10 @@
       ]
     },
     {
-      "title": "3 tankers strike mines and catch fire in Strait of Hormuz - Egyptian Gazette",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNlVvakJxSlRuSDRGUjRkZ2RUYnZoeXVFYmZGLWpvQmJyampTRm85amRja2wxc0xWTldraE5UZ2F5Sjc0TEFBekx3UFNCMEtsYk1hbUFTNW5yMnF3ajUwM1hXNjRYRkZmVWNrcGNfWFFUWVVXS1BaNGxGWlJKRnhpWGZ2NXV0cTg5WG1ZdmY1X2E4cUVuMXNobw?oc=5",
-      "source": "Egyptian Gazette",
-      "published": "2026-10-30T19:19:07+00:00",
+      "title": "Tanker Carrying 27 Indians Attacked With Limpet Mines In Strait Of Hormuz - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd1FwRkh2alhJWFY5REJMNF9LMlJrd2VHV2UyMFd4NjBqX3VDS05uX0hfRmVRMUhXUE1aazc0LU84T19fR0V3cHdRN0hmRTFhemV2eUF5UTB3SjVOalJCNm1kUU41LTFsN3JtZHVBYVNlZkRWaDJrUFVDaFNhaEVfckRhd2dvY1FEeGJ4UW5DUnJ4WVJNMTk3YzE3M3M4dnhkcjFVTFN1SVhsa1ZaR3JydDFiWEXSAbwBQVVfeXFMTXk0N012YTRJX0l2OXZjcVl5MlJvcHBmVkRIWWFCN3RvRXF0a2N4UW1kQzVBbkt2eGQ3blZpczdCc1hEX0RNOS1UbE5md09yUkEwbnQ1N0o1M204dW1oc3JqbElXYVUxMDl2Qy1QXzhHdWZwM2RmcVVWR1o2M3dlejNqVzFvWHB2ZEdnc0hxOHZLUmZEWjdWQlpFWERoWkd2Y0RmUUFjVFM5UUoxbmhGMG9rZ2lrTm5QZ0JtQmg?oc=5",
+      "source": "NDTV",
+      "published": "2026-10-30T18:37:50+00:00",
       "score": 9.0,
       "tags": [
         "closure",
@@ -125,10 +116,21 @@
       ]
     },
     {
-      "title": "Tanker Carrying 27 Indians Attacked With Limpet Mines In Strait Of Hormuz - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd1FwRkh2alhJWFY5REJMNF9LMlJrd2VHV2UyMFd4NjBqX3VDS05uX0hfRmVRMUhXUE1aazc0LU84T19fR0V3cHdRN0hmRTFhemV2eUF5UTB3SjVOalJCNm1kUU41LTFsN3JtZHVBYVNlZkRWaDJrUFVDaFNhaEVfckRhd2dvY1FEeGJ4UW5DUnJ4WVJNMTk3YzE3M3M4dnhkcjFVTFN1SVhsa1ZaR3JydDFiWEXSAbwBQVVfeXFMTXk0N012YTRJX0l2OXZjcVl5MlJvcHBmVkRIWWFCN3RvRXF0a2N4UW1kQzVBbkt2eGQ3blZpczdCc1hEX0RNOS1UbE5md09yUkEwbnQ1N0o1M204dW1oc3JqbElXYVUxMDl2Qy1QXzhHdWZwM2RmcVVWR1o2M3dlejNqVzFvWHB2ZEdnc0hxOHZLUmZEWjdWQlpFWERoWkd2Y0RmUUFjVFM5UUoxbmhGMG9rZ2lrTm5QZ0JtQmg?oc=5",
-      "source": "NDTV",
-      "published": "2026-10-30T18:37:50+00:00",
+      "title": "Iran Used Limpet Mine Placed On Ship\u2019s Hull In Latest Strait Of Hormuz Attack: Report - TWZ",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNmNsYTlvcTk1cVNSM0NaM0FQaGwtSHdRNHFoOHU3cDl4RFBxU3Z5VnR2Nk5JckN1eUJ4ekgzenQ5cGgzbjNidmVtMmd2a1NOOGRaaEtvMHZ5cDBDOWc2S2Fwc1k1U05WOG5ROVJZLVBfeThyc09FQUdjT1pxVk90MDEzRVA5MUpGTU9wUFZJSzdaRzhHR0d0OU14eTJaRUY4OGVlNzZLejdFN0dySDRPZEF3cGNXMklL?oc=5",
+      "source": "TWZ",
+      "published": "2026-10-30T18:33:46+00:00",
+      "score": 9.0,
+      "tags": [
+        "closure",
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran Says 3 Tankers Strike Mines and Catch Fire in Strait of Hormuz, and Other Mideast News - Military.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOUdvWWtmb1NLSkUyU19iRXU3RzlzU1hxUTNPUjk1czM0Vk5mY2dIb0xXaU4yOXlRUmhHcTZvNnFEdDRXZEtaNndveDVfZVJuTnNnNW9aQjZ6Q19rcnNta0dIZ0NEWkdGUFRqXzdYX1huUGZWZ0xTV1ZyTXFjZzNnWXdVZ09iYVBwUGNLZUtUczBJQzBfVmEyUWxOS0ZxRm9vTDRfNUpDWW5OcnBZcmllQVJlWVU5QQ?oc=5",
+      "source": "Military.com",
+      "published": "2026-10-30T18:27:46+00:00",
       "score": 9.0,
       "tags": [
         "closure",
