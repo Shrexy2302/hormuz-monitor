@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 292.2,
-  "closure_signals": 17,
-  "articles_scanned": 212,
-  "updated": "2026-11-05T01:34:41.468978+00:00",
+  "tension_index": 247.4,
+  "closure_signals": 13,
+  "articles_scanned": 202,
+  "updated": "2026-11-05T08:50:31.694228+00:00",
   "headlines": [
     {
       "title": "Iran Declares Strait of Hormuz Closed as \u2018Unauthorised\u2019 Vessel Hit - EnergyNow.com",
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYXdfaG53WU8zUVc4R3hPZkZ6ZW1CNW55X2s1ZXRTTzFOYTNUNlhtQnczeS1WVm52SnJZNl85alBnV0QxZDNxaktoLVhwdUo4a2ZiUXA4WkEtRWNtcWU2M215bXFhRzRnRllUVDZZdjVBb0RaVUdEQWxJUHM0enV3UGlCaC0wRDdibURTNnZpSmNFd2h0Wjh2NmxJVmxTdjV3WDgyTlJfN0RKOVNlZW9abw?oc=5",
       "source": "Fakti.bg",
       "published": "2026-11-03T19:03:00+00:00",
-      "score": 7.71,
+      "score": 7.39,
       "tags": [
         "closure"
       ]
@@ -31,7 +31,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONTF5MXhpYXJ5YldtMW1FSDhMX0VjWkZjNVVPN1ZsMGdieUlCSlB2cnFhUS1TVHR2SzRHamZROFZLQmhZSVkwSUxBTjJMakVYNS1xXzJMaVZwYU9hZ0NOX0NwQWllbTZ6aXhoRUk2SHhody1GLThuMF9acGtsTFVENXZmWFZhQlhMNnowVjkxYmhEUUVCV1Q1OHE3OVJLQUc5SUE?oc=5",
       "source": "EnergyNow.com",
       "published": "2026-11-03T15:38:24+00:00",
-      "score": 7.56,
+      "score": 7.24,
       "tags": [
         "closure"
       ]
@@ -40,8 +40,8 @@
       "title": "Von der Leyen raises to 127,000 million the extra energy cost for the EU due to the closure of the Strait of Hormuz - Dem\u00f3crata",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPT2RpSlJyTDJYMU13QXAtRHA2MVJ6OU5sZjN3dlJYY29rdE5ld1dwellveGhMa1dmTl8xZndOaWNYbUtaUFRmUm1KN2NhQVgwUnI1a2J0N2dndUVBaEU0NDlUdkZnVXlHdGxFbTBOV2t4SGduNkI3V3pBcnBLUmJrUExGdVNIRzV2c2FCaHY1OGJkWnlMdk9COHYtMG51WTBHeEwtaUhsdFZuRnM3UTQ4SUQ3N0M3WHZkWEN1NFZWWElpZ3lMVnhmMG1TLUJHQ3IyVXVHWWRrdThvczJoYWp2ZFYwbzAtWnPSAewBQVVfeXFMTU9wSTVVa3FIVzZVcDlPRGZQTFZQSm9FRGxkaVpMTW5rQlpZYjMwS2p1VHdpcUFtd2dCTU14UUpWZG5ZUWVuTzJMbnJCd3RVWnFMY0t5RnlnYUVQcC1QNFR5NVJDQWloU3VpX0d1dWlEcHNqQkRYM0x1ZnFiZHJxX0xNM0hEU3VsWDBQb0ZHOXBqV09QRk9oV0dILV9Mc29SeW1ENUl2T0o4VGdaX09hUV83YTlIN19uS2JJdFBGSVRMdmdJdVIzaXdNbnlzTVlTZm9VU0k2VTRxNFZsZkExanNsMm83c2dOVHY1YWk?oc=5",
       "source": "Dem\u00f3crata",
-      "published": "2026-11-03T11:25:02+00:00",
-      "score": 7.37,
+      "published": "2026-11-03T11:25:00+00:00",
+      "score": 7.05,
       "tags": [
         "closure"
       ]
@@ -51,27 +51,36 @@
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMWx3QnF1b3F4cGhrYUNjc1ZyN0pyVG95NHUzbC1ROHU4Q2hVdWhzb2R5UUVrWFFhbWFobGdQVl85TkdES0VFY2luaW1JbXNwc0F0eGZEdmk1MjF6UmVTbk9tRWI4eUhLRGx6b1dSTTRmWGFMWUdmdHlsclpJYU05Mm53ZnlNbEdsenFQZW5XRV81Qmd5eTlGNU93ZWQyMXRibVFaMmxHSkt4MWdxLWk5WF9yVi01ZFU3WHZwQk81Z1FmTjVhamRucl9NT1RBd0R2ZFF5WEtCb2hCSzQzeWVV0gHkAUFVX3lxTFBQTzBhSjlRd2ZrUm9Jdm8xa1ZIN3h4NldmT2Z5RUJhRi1DSXJpcFVTdnBhbXhpbzVhSERyd3BBeFZxT3BjMUpPbURXRFBpakU4RFpiVVFrM0RaVUVmMVg5N2o2ZWQ3S21mc1FUWmhjc3RkYm1xUzNkUmJ0M1p5cmxtQVBCSFBsNGxaRmZBY3M3dmRBTnRQUFdzTXVSWVQyM3RJRmtDQUM4VFZsNmNfM01tVktEbU1xUDlaN0l4ZDNoNXRoRmI4UGE0QmJDbFpmbkJMTlRJWFpXU2VEd09tVmViRDZFYQ?oc=5",
       "source": "ANSA",
       "published": "2026-11-03T11:02:00+00:00",
-      "score": 7.35,
+      "score": 7.03,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iran Says Four Oil Tankers Hit Naval Mines in Strait of Hormuz as Tensions With US Escalate - Kurdistan24",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYnNDd1VNVzlqSFhJelFfV3hLSWkxMW5pMUZXNi1DUGUzS2trUU5nRC1BQjE0d2YxRUNpWmdwQjVUVi16Z0pUM3FIN0k4aHBtT0V4RlI3eGFsVE5yaGlvbkZidjVGQUdxRTZhRlptTmMzRmZNSzJKeHlQaE0wbW1LQXZKd1F5SjRvMHBma2hCblBoc1AwT0FmM2VvdWJuYmIza1VxZk9QWERaSzZLck9KZnYwbzVWQUZrejFFb2xwQnhkY0ppbXVsNUREbDl1czhs?oc=5",
-      "source": "Kurdistan24",
-      "published": "2026-11-04T05:55:00+00:00",
-      "score": 7.0,
+      "title": "South Korea to patrol Strait of Hormuz, oil tankers reportedly hit mines - SBS",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY1BlUGs3SHFVekVxUFFNR3ZITGFuTWtxakdPNzRIWGRjZlN6U1ZuUjRRX3RFYmJMQTdvOGUtcl9DdHVtZDlxMHZxeDVHb3owTTBpb0pFb0xZWURQbVZ0bEhJcTlXM2Z2LV9UcWV3Wk03SUVXRkc0UFBYM2V2eV9CY2tVMVE3djhDd2FTNnFnTkdLRThWUEplM2NOUEkzblhmUmdOME5GRVNLc0pmSnQ0R2JURXZYclRQ?oc=5",
+      "source": "SBS",
+      "published": "2026-11-05T07:42:48+00:00",
+      "score": 6.0,
       "tags": [
-        "closure",
-        "tension"
+        "closure"
       ]
     },
     {
-      "title": "US targets mine-laying vessels in the Strait of Hormuz amid blockade disrupting global oil markets - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzRPSjlIQTd4QndKdm9CUHk1ZWxIaktfOERjc1A3VHpYMHV0Z1Zkd3dGNURqMFJFR3l4LXo3OU5scG96QXhMd0F5TGthdlVzbmg0QVVHbnktU096TkFWUnc5QU9UV0xvTk1jbDY3eGFJaWZXN19UOEJvbTF6eFdFcW13cWxwdWRDVzU1OEl6c2ctT3ltYVJZN0d1a3hvQdIBowFBVV95cUxPUktnalZhVFFxNkhBTHFVS0tOSVBzVE5rZWFhcHhQUVk5dnlocFVZQWdNeHlNQ2pwY0ctTHp6dkQ1WFh1djJsUkQxZ3RZR3NkbVVJOWNCNTFqdFl5eUpMc044SVlwQVMyeldla2VYZ2FxVG5ud1RvTVlKNVc1d0FMNjZSemNubmdydW5BRE1peGVjdmJNSFF5QVZ2OGtNMTVHY09B?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "published": "2026-11-04T12:49:59+00:00",
+      "title": "Iran says two oil tankers hit naval mines in Strait of Hormuz - AzerNews",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MamdVdFUwRHRnVW5NR1g4UEpSclctRWo2TXUxTXR2X2thWnowV0hjYVpNaEtlamRTUmgtYWVLTm55OERiV3pBc3ZGc2xfWGdYSkpnQg?oc=5",
+      "source": "AzerNews",
+      "published": "2026-11-05T06:41:00+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iran's IRGC announces four oil tankers destroyed by mines in Strait of Hormuz - thecradle.co",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR2I1XzYzQ1RyWklFeVo0QThsU3ZaRElnVmJLZ3VMTFdFdk1pcjVSbTA3cXJKakJjZUIwR0VXZ0ZhcGU3VHc5VjVEcldScFZQZXdadTQyOXRiVGxhRDV6aE15T09iT0RTMkdyX1dvVk9sclpGaWw5aDVpMW52UHh5cVVpOGQ2ZmNHQm4xZDVyZFlBaVd4Sjgxa3lmR0laUUp1Qlp2TDlVNUtQZw?oc=5",
+      "source": "thecradle.co",
+      "published": "2026-11-04T13:51:19+00:00",
       "score": 6.0,
       "tags": [
         "closure"
@@ -81,6 +90,16 @@
       "title": "Iran Says Four Oil Tankers Destroyed by Mines Near Strait of Hormuz - Crude Oil Prices Today | OilPrice.com",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY1R3S09LbGMzVzJzOUkwbjlhM2dtVU5yTjJ0WTdfV0pBOVk1elFMbFk5VUxnSHhKM3IwWHIwblg1VExwWEtqcjhfMGE0cnRxRGpheklmSkZoMWJWdjNqaDNlSXByWUVISW5SODF6dXh4R2dhTGswekJ5bXdQZVdoczhwUVVOMkRfWUJad0pkRGMtYmtybmRCR2FQNmFuOEZBWkpLZGNUdGs2eVM2WU1EaHBMc1RrQk5DRVBKam45VWfSAcYBQVVfeXFMTXg0QWluM1liWEwtOVhRNDVsMWJEX1J3V3BSMzRVRUttdVpxZGdQQ05kZ1ZKLXE2cmRMNDhTaGVCSWthWTNKMDdJOWEydjBNaFctcFh3NVRhN2Q2STktb3ZQTHliREdhVFJBZUdCeFRkS0lEMFFzcUpneUprUlE2VmRsMEdfa0lLQzhyeFl3c0w5YkdISmRCMnlKc0lRQ19kMUZad3JzbnU2NGk5LVhNMFZPaHpHMGpkVDItTmx6azhGMW13Szl3?oc=5",
       "source": "Crude Oil Prices Today | OilPrice.com",
+      "published": "2026-11-04T10:15:00+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iran Says Four Oil Tankers Destroyed by Mines Near Strait of Hormuz - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZDVmT2VMRmV6QUxiTk9lVVotdmJ1SzZWVll6QUwtbXJaODgzMml4d1ZBRVBVMUh2N1hNVTh3czBuX29sY3N0ZThRWGN1RE9KclZGOGdrQnQwTEhja29RN2pqMkw3U2tJeWJSQTNDZ0JPZkFJclp4MGNQeHd6WUdaYTlWeWFXSnN3YktN?oc=5",
+      "source": "Yahoo Finance",
       "published": "2026-11-04T10:15:00+00:00",
       "score": 6.0,
       "tags": [
@@ -98,38 +117,18 @@
       ]
     },
     {
-      "title": "Four oil tankers destroyed by naval mines in Strait of Hormuz, IRGC announces - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpYm5zUk52UE9naDhBQmMtak1UaHNmU1doRF9tcXF3T1pIWm1xdjJRbk1EMl9Qd2JtOXN3N3EyR0QxdXJmaTd1TFFraHhJVTF1SVZFTFp4TE51Zjd5anhiOXJxQ2haQ0lLd3c?oc=5",
-      "source": "The Jerusalem Post",
-      "published": "2026-11-04T07:38:11+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Four tankers destroyed by naval mines in Strait of Hormuz, Iran's IRGC says - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSG1DN0RuWFFlZHRpMHNxLW1ZcGVMRHJsX0FFNHNSSHdTUWpaMHJhTDZuRHR5a0lPdUVucHFCNGtwZGxaREpleXNNb2JmY3hReUdsYWtlbXMzUjlmM2hIOElnaEFrRzdyazBOMFo5SzlYTXh2VVRpOHVsaVZoVFZTRWJLMmg?oc=5",
-      "source": "AOL.com",
-      "published": "2026-11-04T07:17:00+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
       "title": "Iran claims 4 oil tankers destroyed by naval mines near Strait of Hormuz - Anadolu Ajans\u0131",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOFI5UmZwVEZ6cW1tVzdaemVUYTlaS2ttUlQzZVFqcmNBQnhHMnJZRnUwZEllTG5tUUtfUGpTRkhwUmg4ZDBCTHh1SXRjak5ZeGd3dlp5UGN3Y0ZIUVZyVFVJdm1MWEx4bkNfZUMyRURiRkZ4VVFwUEZMd0pZd1pSSktzdmt2WEJ0UnBkbHlNb1laTUlaZTVONnBsenhXcFZyVlpjb2UxMzl2NXFZY19UUEdaV0pNbmtX?oc=5",
       "source": "Anadolu Ajans\u0131",
       "published": "2026-11-04T06:33:54+00:00",
-      "score": 6.0,
+      "score": 5.92,
       "tags": [
         "closure"
       ]
     }
   ],
   "brent": {
-    "price": 93.69,
-    "change_pct": -0.98
+    "price": 95.35,
+    "change_pct": 0.77
   }
 }
