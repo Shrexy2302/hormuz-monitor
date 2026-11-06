@@ -1,16 +1,16 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 241.6,
-  "closure_signals": 20,
-  "articles_scanned": 199,
-  "updated": "2026-11-06T11:15:36.043998+00:00",
+  "tension_index": 272.7,
+  "closure_signals": 23,
+  "articles_scanned": 197,
+  "updated": "2026-11-06T18:10:14.609790+00:00",
   "headlines": [
     {
       "title": "Iran Declares Strait of Hormuz Closed as \u2018Unauthorised\u2019 Vessel Hit - EnergyNow.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU3BGdU5KMkwwNVNINnRuYnZBdWZpYUNjSHlXSGh2MWJWck1INVRtbXNyS2t5WXZPRGxlVEpGcnM5NUkyQnlmNEtLazBSM2dFcDROdVJ1RC1Bd1haYUlXbnphM2tzenhjNm1PQUNnRkNRYi1SNVBxX2RsNTJhY19vVUU4ejhtRlRlUkdpcmxvd1YtRXZ1dVBuaVBLWQ?oc=5",
       "source": "EnergyNow.com",
-      "published": "2026-11-05T16:13:47+00:00",
+      "published": "2026-11-06T07:56:54+00:00",
       "score": 10.0,
       "tags": [
         "closure"
@@ -20,7 +20,18 @@
       "title": "Two oil tankers struck by mines in Strait of Hormuz - NewsNation",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ybjUtX3JLMmFGeWNyN0JmTU9xUm5MbGhKb2FjMXAwM3NZM2FxUUN4Sk1oZnowbkswSVBVMDlZMjBrZTJHTjFERVhHOERmcXBaUm1kTlJSOUItQVlFczE1Y2hKSF9mR1NPcHo1dndWTXRtQWlycGs0amZLVdIBgAFBVV95cUxPUVpoWGtMRVYzVjFBaWNLLXhWWUo0cFRJTl82bzFwM3YyU040MWRPMF96dmJNU1VkNEVEczVXWFpyeWFXaEM1SFU0bUd5aTBQcjlQV1laSlBwckpnQmxwV1l0MmpRTU00Zl9Dd1J2MmNqOTBlTnI5NmpoUDNndVFRYw?oc=5",
       "source": "NewsNation",
-      "published": "2026-11-06T09:03:35+00:00",
+      "published": "2026-11-06T12:35:46+00:00",
+      "score": 9.0,
+      "tags": [
+        "closure",
+        "tension"
+      ]
+    },
+    {
+      "title": "IRGC Claims Two More Tankers Struck Mines in the Strait of Hormuz - IranWire",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQWVzbTlDUVBUWkxmRm5lNFF4VzRNdURrcHJ6UWhRUkFvcnJoTDVkYUZrbmFHWEwxdGRkNnFpRFR3dTNaUFc1Z0xVOV84VDdlT19TUlF2UTFOZmp1VktWWWJOQVZHMWY0cTRpOGtCcGRQQUs0NmpQVnE3ZkZldDBxS3JQOE12Y3ZjVlExNVNmRFB2aWhnRWtFQ0M5VE4zRWdfTGNSag?oc=5",
+      "source": "IranWire",
+      "published": "2026-11-06T11:06:43+00:00",
       "score": 9.0,
       "tags": [
         "closure",
@@ -38,11 +49,21 @@
       ]
     },
     {
-      "title": "Von der Leyen: The Closure of the Strait of Hormuz Has Cost Europe \u20ac127 Billion \u1409 News from Fakti.bg - World - Fakti.bg",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYXdfaG53WU8zUVc4R3hPZkZ6ZW1CNW55X2s1ZXRTTzFOYTNUNlhtQnczeS1WVm52SnJZNl85alBnV0QxZDNxaktoLVhwdUo4a2ZiUXA4WkEtRWNtcWU2M215bXFhRzRnRllUVDZZdjVBb0RaVUdEQWxJUHM0enV3UGlCaC0wRDdibURTNnZpSmNFd2h0Wjh2NmxJVmxTdjV3WDgyTlJfN0RKOVNlZW9abw?oc=5",
-      "source": "Fakti.bg",
-      "published": "2026-11-03T19:03:00+00:00",
-      "score": 6.21,
+      "title": "IRGC Says Two Oil Tankers Hit Mines, Catch Fire Near Strait of Hormuz: 5 outlets compared - NewsCord",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbkMzV2pVNXhzaUJtZEctalgzQ1lwYlI1S1FjX05CUDFaOTNSVFhqc1g0OE1iRTBnd0tlQTNoVExmWTRybkNiMHFIWlRiVVl6RTN6VWlPYjc5YnlkWlJkaEZQRWFEQm11WUhqSzhNY1E2YjJ1c0pIX0FqRE9jN0tuUldMYXZnX2duU3p4b3J4N3VsN0o5NmZlSjkyNEpBb2NFdHlEakpTZFhSUU9uZlRUbVY5bDBlaEhRRW9Sb0tRM2ZnQkhHcWw0Z0gzOGE4WmpvY3dBYmszYXYwQQ?oc=5",
+      "source": "NewsCord",
+      "published": "2026-11-06T17:31:20+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Two Oil Tankers Catch Fire After Hitting Mines in Strait of Hormuz - Caspian Post",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM0p5WGs4VmRUZlp0dzdUc0dOOUpyZnRGQUg0TlFwNC1DZzJvRi1fbEdLSnRxNEFnbHNFSXRkYXgxUnFhSFMzV0JBTE9nTmJoT2VCem5KOXlrUEdZdE51TWI1NjZaeTAzNEFmZnluWHhiakdldjRqeGZzOV85d3c0S0Z6R3pQVWhQVmRRMm1RWXRaOHdCdVd2QTd2UQ?oc=5",
+      "source": "Caspian Post",
+      "published": "2026-11-06T11:52:32+00:00",
+      "score": 6.0,
       "tags": [
         "closure"
       ]
@@ -78,6 +99,26 @@
       ]
     },
     {
+      "title": "Two tankers hit mines in the Strait of Hormuz: Ships catch fire - TodayPress.tv",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNckhsU3VPNWsyMlVYbHNLNjhRUDliLTMtR3I5X3dZTE5Ta0N6R0daVUpydUh6d0daR3BVbjlMcXJRbEFwcTByTkdwZGxlRktpQlZMTG5KNHM1MmVmQk9hVFhnY0V3NlBRN2NtczhCUnZvMGRtQVd1WGdsaW5pdVM1OXY4b1oyNUJLSWg1MEdxMDlVRS1sSEhmQw?oc=5",
+      "source": "TodayPress.tv",
+      "published": "2026-11-06T07:44:00+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iran Says Tankers Caught Fire Near the Strait of Hormuz After Hitting Mines - energynews.pro",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd3BLMEtOX3EyOENKSThCUE5rUHBjVlNkU3hySUVjc1ZIRWFaVUpObWhZOGZQUVp5WHY4WEpSZ3JNTHFPTG1ZdTFEOGNabUNaWU5JT1BZLWRYQVhlMlBSTjlobTBDelNkVDdTaGdXaU5PRVEtU3loblVKTTFpdlJsaW9PVmVFdEtDb3dWWFRnbWstT3BpSmZHZ3FqZGNlTHRiYmpr?oc=5",
+      "source": "energynews.pro",
+      "published": "2026-11-06T07:02:19+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
       "title": "Iran Claims Sea Mines Hit Five Tankers Near Strait of Hormuz Following US Midterms - The SOFX Report",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLXpDTDY4blNpOFllS05JOGlGNG0tbVg4U0RsdXRpQlRGXzFOZzBRSWVfYUltSEo1Ylk1TXl1Q3dIbDZwZHBhb2dTRUFFRmtxbllLaWlxQlJWVEc5YnlBd1JkcjQxNFltaC1pdUM0bG02ZFVmR3FpMWlvcWVuaFpCUnA5Z0czNFFYdFBwOU54dWFYMG15Y1hhcnhsbnhnVUduNFN4U3N2OA?oc=5",
       "source": "The SOFX Report",
@@ -86,50 +127,10 @@
       "tags": [
         "closure"
       ]
-    },
-    {
-      "title": "Iran says five tankers hit by mines in Strait of Hormuz - Latest news from Azerbaijan",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTmFpNjhCNFFMbXU3Y2VrUUFFNlh1Q2M3TW5HeE5lSkVOOWxtbEhSNC02MXhoSGlubjBLX0NkekRsbmpha1lNNldVdEd6cTlTN21TZ0ZUTnJnS2lIcE1WaU1QMlZmQlZEejlOS2JqUXIxOFNKQ0dQQUxXSmo5dzFGdjhR?oc=5",
-      "source": "Latest news from Azerbaijan",
-      "published": "2026-11-05T19:59:04+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Oil Tanker Catches Fire After Hitting Naval Mine in Strait of Hormuz - Caspian Post",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVUpkVTRYeGxNVlhBQkZpSFJkNmRqUnJaVWhSWHF5WmI5NEc5QjlfTzBYRWhWZllwTW1ZTlZ0UmUzeDI3RkRISm53RW1ZZk80UmZ0dm1acEtsc25QdHJ4NXBROThQbUlNam9qMHBKbllPanZwSUs5UW96VVI1U2Z0MzZCMzZhM215clRYZk9PRk01OUhiOFBzRlB5TXRrZw?oc=5",
-      "source": "Caspian Post",
-      "published": "2026-11-05T13:27:39+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Oil Tanker Hits Mine East of Hormuz Strait: Iran\u2019s Army - \u062a\u0633\u0646\u06cc\u0645",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaG55ZkJuaE16T0RWWlN2ME02Q3VtSk9UenJBVmd0UlU0WDNBWWIwVDF4UHJnTEI5Y3hJSkZaMVJNbEdIdG9EblBOeGhQY0VEY0t3d3M1Z09YU09pNHUtVGZrY3locTl3YWV5RDJnVVE1VjQ1ZWZrOUpoS2dYVThvX0Z6Q0FOalFqWlE3TlN2c2VkSGRXQmU2UXBJSzgyZFVkSHhNTFdpd09XRW_SAbABQVVfeXFMUEVvcmxQeVA2NlJMLVhqcThma0dQZlRpb29yVlVBNDNYRldfd0U5OG5paWRLdDV2eHkxdkZUY2VsaDZ4X05EdXRYTFJrNXFrVENSQUktTUJFVEw5cGpiYTNGMjlZdnhocEpzNnBFT01kblBaVkR6dEwtaTU0MWRyeDM1djZ5OGJ3VmkwOWRQZnhIZWdHTGN6RFQ2a3NuN1R0cnNqVXJsSE00T1BId3hsRWw?oc=5",
-      "source": "\u062a\u0633\u0646\u06cc\u0645",
-      "published": "2026-11-05T11:47:13+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Another Tanker Catches Fire After Striking Naval Mine East of Strait of Hormuz - WANA News Agency",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLUl0dEs1enoydUJLYWRXMkxGa01MX19TWC01TjFOMEtnM3ZsVjR1T0dRVjF2S0h1S3VOYV9HWjN0R1k2UnV2ZE1HM3RJVWcwYWc5a1pqZjR4OTVuN1pEdVVabXBYSEtlZ0hqdVN2ZUd2a0NVdVoxNGVXSzZIb0xRVmw4UmMxb3JHTjRXXzdtZHRnenBMYmp1Ynl1aFBSUzg?oc=5",
-      "source": "WANA News Agency",
-      "published": "2026-11-05T10:41:42+00:00",
-      "score": 5.98,
-      "tags": [
-        "closure"
-      ]
     }
   ],
   "brent": {
-    "price": 98.18,
-    "change_pct": -0.11
+    "price": 97.38,
+    "change_pct": -0.93
   }
 }
