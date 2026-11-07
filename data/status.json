@@ -1,17 +1,17 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 269.3,
-  "closure_signals": 25,
-  "articles_scanned": 192,
-  "updated": "2026-11-07T20:22:05.625600+00:00",
+  "tension_index": 264.6,
+  "closure_signals": 23,
+  "articles_scanned": 200,
+  "updated": "2026-11-07T23:44:52.320814+00:00",
   "headlines": [
     {
       "title": "Iran Declares Strait of Hormuz Closed as \u2018Unauthorised\u2019 Vessel Hit - EnergyNow.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU3BGdU5KMkwwNVNINnRuYnZBdWZpYUNjSHlXSGh2MWJWck1INVRtbXNyS2t5WXZPRGxlVEpGcnM5NUkyQnlmNEtLazBSM2dFcDROdVJ1RC1Bd1haYUlXbnphM2tzenhjNm1PQUNnRkNRYi1SNVBxX2RsNTJhY19vVUU4ejhtRlRlUkdpcmxvd1YtRXZ1dVBuaVBLWQ?oc=5",
       "source": "EnergyNow.com",
       "published": "2026-11-06T22:13:28+00:00",
-      "score": 10.0,
+      "score": 9.92,
       "tags": [
         "closure"
       ]
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ybjUtX3JLMmFGeWNyN0JmTU9xUm5MbGhKb2FjMXAwM3NZM2FxUUN4Sk1oZnowbkswSVBVMDlZMjBrZTJHTjFERVhHOERmcXBaUm1kTlJSOUItQVlFczE1Y2hKSF9mR1NPcHo1dndWTXRtQWlycGs0amZLVdIBgAFBVV95cUxPUVpoWGtMRVYzVjFBaWNLLXhWWUo0cFRJTl82bzFwM3YyU040MWRPMF96dmJNU1VkNEVEczVXWFpyeWFXaEM1SFU0bUd5aTBQcjlQV1laSlBwckpnQmxwV1l0MmpRTU00Zl9Dd1J2MmNqOTBlTnI5NmpoUDNndVFRYw?oc=5",
       "source": "NewsNation",
       "published": "2026-11-06T17:54:39+00:00",
-      "score": 8.88,
+      "score": 8.71,
       "tags": [
         "closure",
         "tension"
@@ -32,7 +32,7 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTi16VVZPeTRtWURhUTlsamx6RnUxMkNoU3IzLVRtc3FGM0M5LUp4bjMwMGVwOW5kVHpMTURTeUl3MTM2TXRvM0xrZG9sd2h3ZE1fSVhlSU92SzBKZ2Q5VWkyazhPUXlBaDhpcU9vSzZIVTQ4R2IwZnpja1VYR2RoYVRfSVRoZmFGaDhHNFRhRTd4bmJlQ1J6T1JB?oc=5",
       "source": "Tehran Times",
       "published": "2026-11-06T16:35:03+00:00",
-      "score": 8.81,
+      "score": 8.64,
       "tags": [
         "closure",
         "tension"
@@ -43,7 +43,7 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQWVzbTlDUVBUWkxmRm5lNFF4VzRNdURrcHJ6UWhRUkFvcnJoTDVkYUZrbmFHWEwxdGRkNnFpRFR3dTNaUFc1Z0xVOV84VDdlT19TUlF2UTFOZmp1VktWWWJOQVZHMWY0cTRpOGtCcGRQQUs0NmpQVnE3ZkZldDBxS3JQOE12Y3ZjVlExNVNmRFB2aWhnRWtFQ0M5VE4zRWdfTGNSag?oc=5",
       "source": "IranWire",
       "published": "2026-11-06T11:06:43+00:00",
-      "score": 8.54,
+      "score": 8.37,
       "tags": [
         "closure",
         "tension"
@@ -54,20 +54,10 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WbE1sR215ZWdEMmpBRXhucEJKMFVseXFnZDdpRE1CekoyLVRsS1d2S2tVTHBfanJlVjc5WHNvWDFLT3RlMTNkWFktOWhTWXNaLUE?oc=5",
       "source": "Iran International",
       "published": "2026-11-05T10:33:09+00:00",
-      "score": 7.31,
+      "score": 7.14,
       "tags": [
         "closure",
         "tension"
-      ]
-    },
-    {
-      "title": "Iran Closes Strait of Hormuz Again and Says its Negotiating Team With U.S. is Heading to Switzerland - EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQVdzSzJENHIzeFF5SEs5SVZXVDJ4bjU2bWpkdVBYTTVmUEE5MmM5V3lLUVVxWlE4SGFtbjAyRUc4VWhDbG11czE2a2trSFVXbGhzekVrQU5WWnVnak1TY29HUnpzd3paQ2tZajFEUjhaejlXRHpTWGFGckdjbHRpczVPX3Q2QlhWejdwYWpBTDRHaVJGZUlGMmh0dmZPS3V2MjFQTzFxSTRHM0ZncDFnYzFCZExTZU8wMGhwZWxGX2FyZVZDS3FmZE9DdVhuQQ?oc=5",
-      "source": "EnergyNow",
-      "published": "2026-11-05T22:54:07+00:00",
-      "score": 7.05,
-      "tags": [
-        "closure"
       ]
     },
     {
@@ -82,11 +72,31 @@
       ]
     },
     {
+      "title": "Iran Closes Strait of Hormuz Again and Says its Negotiating Team With U.S. is Heading to Switzerland - EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQVdzSzJENHIzeFF5SEs5SVZXVDJ4bjU2bWpkdVBYTTVmUEE5MmM5V3lLUVVxWlE4SGFtbjAyRUc4VWhDbG11czE2a2trSFVXbGhzekVrQU5WWnVnak1TY29HUnpzd3paQ2tZajFEUjhaejlXRHpTWGFGckdjbHRpczVPX3Q2QlhWejdwYWpBTDRHaVJGZUlGMmh0dmZPS3V2MjFQTzFxSTRHM0ZncDFnYzFCZExTZU8wMGhwZWxGX2FyZVZDS3FmZE9DdVhuQQ?oc=5",
+      "source": "EnergyNow",
+      "published": "2026-11-05T22:54:07+00:00",
+      "score": 6.9,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
       "title": "Shipping Slows After Iran Says it Has Again Shut the Strait of Hormuz - EnergyNow.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONTF5MXhpYXJ5YldtMW1FSDhMX0VjWkZjNVVPN1ZsMGdieUlCSlB2cnFhUS1TVHR2SzRHamZROFZLQmhZSVkwSUxBTjJMakVYNS1xXzJMaVZwYU9hZ0NOX0NwQWllbTZ6aXhoRUk2SHhody1GLThuMF9acGtsTFVENXZmWFZhQlhMNnowVjkxYmhEUUVCV1Q1OHE3OVJLQUc5SUE?oc=5",
       "source": "EnergyNow.com",
       "published": "2026-11-05T21:49:04+00:00",
-      "score": 7.0,
+      "score": 6.85,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iran\u2019s Revolutionary Guards say 2 oil tankers hit mines, caught fire near Strait of Hormuz - Anadolu Ajans\u0131",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSjhCUnp2dlpKMnEtMFRhdGxEdVludGg1OXFvN09UMktIVGhENWFMekt5ZnNzdTRRX25wb3NrWTdkektWLW12cmsxRXhudUVMcXRsWG52cEEyMzg4MS12ZXRZdHFySmFkZjFnZjV3WHdnZUQ4bVlZckFEdUZud2tYaE43eVNJTlJzRFpoZndIZEdEcE9ZeFNpcDBINGZmTXc5SlJQVVp0eFlfa1VuQU1nVVZpN3VBejJtR0kyZE9RbW1UdWRsNmI1SWxrU3JzcEE?oc=5",
+      "source": "Anadolu Ajans\u0131",
+      "published": "2026-11-07T22:21:57+00:00",
+      "score": 6.0,
       "tags": [
         "closure"
       ]
@@ -116,16 +126,6 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOG5kZVhMTE9DZE5pUG8wUnB2WUM3aWx6LUZ5TTdyTE5SWEJqQndEZlZDRGNYWkdMMWFoU2E1Q2E4cnljbnhVRjAydHlyRFlyd1VILWlLLUV2QmVkZmp3QzJxdnZnTzNYeUNIN3g2SExsQTdEUUFTc0RuelpQczRmWTMycHZENW96TVNWaXdxLVNLOWhQSHVLOGZVdVlMY29Nb25MclV1VzRuTFkybVFMNFpOLUJfd9IBuwFBVV95cUxOYThJQVgtZXpsZU5KWUI1T0s3dHJjLW44N1UyYkgzTVhYcHNONXpJQTBCc1FTNW83TThLYW5PaEdjalBQRHh5TkFMU08wOWpWRkJsWFV0enFZTWFGOEFhSDByTXR5LWlrTmF3eDVid1RmYVI1aURVLWZTUHhJbks2U29LdjBZOWxsQTh4TGFaMXpweDltSTJwVnRlQzZ1NURYVUQtXy1xWExubmY5SFNnY2pvUGNBRWtyT293?oc=5",
       "source": "\u062a\u0633\u0646\u06cc\u0645",
       "published": "2026-11-07T11:31:56+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Iran: Oil tanker hits mine in Hormuz strait - Breakingthenews.net",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ1RqOGt6Z1VZamJsNGxDMjJPakJyZTIyRlk0c3hXVUUtMzFfVmJYQTA4bVNsX2FpVlBQekR5aExnWnZVWHd4d0VSN1BfZEIxUEc5Q0ZwZllFMjVWb0RRNzFjM3hFSW52NWdiblhreEpPeWtlTG5PTEJ6eFVUbEI0cnlrMTR5aXczY3U2SXBXSTQ2UQ?oc=5",
-      "source": "Breakingthenews.net",
-      "published": "2026-11-07T10:55:00+00:00",
       "score": 6.0,
       "tags": [
         "closure"
