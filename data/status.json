@@ -1,17 +1,17 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 264.6,
-  "closure_signals": 23,
-  "articles_scanned": 200,
-  "updated": "2026-11-07T23:44:52.320814+00:00",
+  "tension_index": 264.8,
+  "closure_signals": 22,
+  "articles_scanned": 201,
+  "updated": "2026-11-08T03:47:00.067592+00:00",
   "headlines": [
     {
       "title": "Iran Declares Strait of Hormuz Closed as \u2018Unauthorised\u2019 Vessel Hit - EnergyNow.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU3BGdU5KMkwwNVNINnRuYnZBdWZpYUNjSHlXSGh2MWJWck1INVRtbXNyS2t5WXZPRGxlVEpGcnM5NUkyQnlmNEtLazBSM2dFcDROdVJ1RC1Bd1haYUlXbnphM2tzenhjNm1PQUNnRkNRYi1SNVBxX2RsNTJhY19vVUU4ejhtRlRlUkdpcmxvd1YtRXZ1dVBuaVBLWQ?oc=5",
       "source": "EnergyNow.com",
       "published": "2026-11-06T22:13:28+00:00",
-      "score": 9.92,
+      "score": 9.69,
       "tags": [
         "closure"
       ]
@@ -21,7 +21,7 @@
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ybjUtX3JLMmFGeWNyN0JmTU9xUm5MbGhKb2FjMXAwM3NZM2FxUUN4Sk1oZnowbkswSVBVMDlZMjBrZTJHTjFERVhHOERmcXBaUm1kTlJSOUItQVlFczE1Y2hKSF9mR1NPcHo1dndWTXRtQWlycGs0amZLVdIBgAFBVV95cUxPUVpoWGtMRVYzVjFBaWNLLXhWWUo0cFRJTl82bzFwM3YyU040MWRPMF96dmJNU1VkNEVEczVXWFpyeWFXaEM1SFU0bUd5aTBQcjlQV1laSlBwckpnQmxwV1l0MmpRTU00Zl9Dd1J2MmNqOTBlTnI5NmpoUDNndVFRYw?oc=5",
       "source": "NewsNation",
       "published": "2026-11-06T17:54:39+00:00",
-      "score": 8.71,
+      "score": 8.51,
       "tags": [
         "closure",
         "tension"
@@ -32,7 +32,7 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTi16VVZPeTRtWURhUTlsamx6RnUxMkNoU3IzLVRtc3FGM0M5LUp4bjMwMGVwOW5kVHpMTURTeUl3MTM2TXRvM0xrZG9sd2h3ZE1fSVhlSU92SzBKZ2Q5VWkyazhPUXlBaDhpcU9vSzZIVTQ4R2IwZnpja1VYR2RoYVRfSVRoZmFGaDhHNFRhRTd4bmJlQ1J6T1JB?oc=5",
       "source": "Tehran Times",
       "published": "2026-11-06T16:35:03+00:00",
-      "score": 8.64,
+      "score": 8.44,
       "tags": [
         "closure",
         "tension"
@@ -43,18 +43,7 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQWVzbTlDUVBUWkxmRm5lNFF4VzRNdURrcHJ6UWhRUkFvcnJoTDVkYUZrbmFHWEwxdGRkNnFpRFR3dTNaUFc1Z0xVOV84VDdlT19TUlF2UTFOZmp1VktWWWJOQVZHMWY0cTRpOGtCcGRQQUs0NmpQVnE3ZkZldDBxS3JQOE12Y3ZjVlExNVNmRFB2aWhnRWtFQ0M5VE4zRWdfTGNSag?oc=5",
       "source": "IranWire",
       "published": "2026-11-06T11:06:43+00:00",
-      "score": 8.37,
-      "tags": [
-        "closure",
-        "tension"
-      ]
-    },
-    {
-      "title": "Iran's navy says tanker struck mine, caught fire in Strait of Hormuz - Iran International",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WbE1sR215ZWdEMmpBRXhucEJKMFVseXFnZDdpRE1CekoyLVRsS1d2S2tVTHBfanJlVjc5WHNvWDFLT3RlMTNkWFktOWhTWXNaLUE?oc=5",
-      "source": "Iran International",
-      "published": "2026-11-05T10:33:09+00:00",
-      "score": 7.14,
+      "score": 8.17,
       "tags": [
         "closure",
         "tension"
@@ -72,11 +61,22 @@
       ]
     },
     {
+      "title": "Iran's navy says tanker struck mine, caught fire in Strait of Hormuz - Iran International",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WbE1sR215ZWdEMmpBRXhucEJKMFVseXFnZDdpRE1CekoyLVRsS1d2S2tVTHBfanJlVjc5WHNvWDFLT3RlMTNkWFktOWhTWXNaLUE?oc=5",
+      "source": "Iran International",
+      "published": "2026-11-05T10:33:09+00:00",
+      "score": 6.94,
+      "tags": [
+        "closure",
+        "tension"
+      ]
+    },
+    {
       "title": "Iran Closes Strait of Hormuz Again and Says its Negotiating Team With U.S. is Heading to Switzerland - EnergyNow",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQVdzSzJENHIzeFF5SEs5SVZXVDJ4bjU2bWpkdVBYTTVmUEE5MmM5V3lLUVVxWlE4SGFtbjAyRUc4VWhDbG11czE2a2trSFVXbGhzekVrQU5WWnVnak1TY29HUnpzd3paQ2tZajFEUjhaejlXRHpTWGFGckdjbHRpczVPX3Q2QlhWejdwYWpBTDRHaVJGZUlGMmh0dmZPS3V2MjFQTzFxSTRHM0ZncDFnYzFCZExTZU8wMGhwZWxGX2FyZVZDS3FmZE9DdVhuQQ?oc=5",
       "source": "EnergyNow",
       "published": "2026-11-05T22:54:07+00:00",
-      "score": 6.9,
+      "score": 6.72,
       "tags": [
         "closure"
       ]
@@ -86,7 +86,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONTF5MXhpYXJ5YldtMW1FSDhMX0VjWkZjNVVPN1ZsMGdieUlCSlB2cnFhUS1TVHR2SzRHamZROFZLQmhZSVkwSUxBTjJMakVYNS1xXzJMaVZwYU9hZ0NOX0NwQWllbTZ6aXhoRUk2SHhody1GLThuMF9acGtsTFVENXZmWFZhQlhMNnowVjkxYmhEUUVCV1Q1OHE3OVJLQUc5SUE?oc=5",
       "source": "EnergyNow.com",
       "published": "2026-11-05T21:49:04+00:00",
-      "score": 6.85,
+      "score": 6.67,
       "tags": [
         "closure"
       ]
