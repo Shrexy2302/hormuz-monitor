@@ -1,11 +1,22 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 178.9,
-  "closure_signals": 13,
-  "articles_scanned": 202,
-  "updated": "2026-11-11T16:48:20.164813+00:00",
+  "tension_index": 156.8,
+  "closure_signals": 14,
+  "articles_scanned": 199,
+  "updated": "2026-11-11T23:14:40.997842+00:00",
   "headlines": [
+    {
+      "title": "Tankers hit by projectiles in Strait of Hormuz; Iran reports further mine strikes - www.rivieramm.com",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZHhmekZ0dVpQc1NWc3lxNDhtUUd3Q3Jlc29EZjN1NWVuSFFhekp0ZnlfMVA2NlIyY01vWjBhRlhkem50MXlqd29FczRNaEZsVUxsQ29aWldhVTdIei1meDhJMDB5S1U3NWU2TUtnZl9XUl9fMVEyWVdNeWM5QkVoS0NBY2ZLVmtsSDcybjFxcVVkN1BXV0k2WHdOd2NwRks2aWozSXBKSm9uSVB3cjVXRHdNS1ZPUlhjRkg3NjRMMDN3Y3cxYzVfamdTelc5T3VjN2JSb2ZLOXNyUXhDQmpR?oc=5",
+      "source": "www.rivieramm.com",
+      "published": "2026-11-11T16:38:20+00:00",
+      "score": 9.0,
+      "tags": [
+        "closure",
+        "tension"
+      ]
+    },
     {
       "title": "Iran says tanker struck a mine and caught fire in the Strait of Hormuz \u2014 The Hindu - UA.NEWS",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY3ZnaGYzRGpiVmRfbVplQi1ZdkJUaWd0VFR2cEJtbXVoaTREQUlCSGlSZUlOaE1MRnFPSjRuak1vQnJMNE0tOERfVUZTMjlmLTlmOS1DVC1vcUpDM0ltSFYyN0ExMUxnQ3h4T0pTNjJmcjREVE90cmdFYnJzOHk3VHluYXAyanhYR2x0dnllZzNqNTI0TkRvdW9XS09MclJhNXI4QTRaRzZ6MDROeHF1WG1rakEyRTd4WHc?oc=5",
@@ -22,7 +33,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONTF5MXhpYXJ5YldtMW1FSDhMX0VjWkZjNVVPN1ZsMGdieUlCSlB2cnFhUS1TVHR2SzRHamZROFZLQmhZSVkwSUxBTjJMakVYNS1xXzJMaVZwYU9hZ0NOX0NwQWllbTZ6aXhoRUk2SHhody1GLThuMF9acGtsTFVENXZmWFZhQlhMNnowVjkxYmhEUUVCV1Q1OHE3OVJLQUc5SUE?oc=5",
       "source": "EnergyNow.com",
       "published": "2026-11-10T22:50:10+00:00",
-      "score": 8.0,
+      "score": 7.98,
       "tags": [
         "closure"
       ]
@@ -32,7 +43,17 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMDZLSFlxbEV4MzdBVjJLQjZJcGpWbzFnMVJPSlhDN2FJMjU5X1FnYVBMNXJvSWtIeElZcWhxRVBZcHBrakFJbi1QZ3hpR0VzMXBHdXQyXzlhYk5kS1cwRGlVdERoQjAxc25JMDdYTzM3Q2o2U0E2aHMyWEFVVDVSelNaalNUZ3Uzc0ZLcW92clFHTnZWbVM0ZkN3QmxZbHVlTVVIMm5WY2dNLU5ET2FLaUdB?oc=5",
       "source": "EnergyNow",
       "published": "2026-11-10T16:28:06+00:00",
-      "score": 7.99,
+      "score": 7.7,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iranian Naval Forces Say Tanker Caught Fire After Hitting Mine in Strait of Hormuz: how 16 outlets framed it - NewsCord",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRDN3RlFpRGlWUEcyZjdvNk5tRHZLZGJfQk41U0d3SVI0YkpZMzMtbEJNblBvSU9XSjhuQzUyaHhUQVRodlFLSHczaUxleTlETWxONDJOeHlsWUYyMk1iTnNsUHFBVWlNd3duTVBRNjYwcmhTdHVKT21uV0dtM2hOYjNUeTFzc1ozVUtzc19iRGlTS0VxRGNVQklVVG9EdHBOR3hIbHk2WFJ6NDZaOEMwSjBGV0FYWWdTbkQtQTFNVUFmV1N6UElJaHdlaEtveS1QeTVib3pvN0RBblJsUTdNaWVKRWR3RVEyMmc?oc=5",
+      "source": "NewsCord",
+      "published": "2026-11-11T17:30:57+00:00",
+      "score": 6.0,
       "tags": [
         "closure"
       ]
@@ -41,7 +62,17 @@
       "title": "Iran claims tanker hit mine in Strait of Hormuz - safety4sea",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1PY3h1VEhEY3FvQ2p3Um1zd0VoWnNGSlpPNHU2MlhjXzViZW9GbFI1VkJiYzVaaGxXMzhYSHBRRlhrYi1iT2piaVF5WWNQR0RzaF9jQnM0ZkNrcm5uU003dFZwOFE1dTZWREUxVE9yV05ZdDFKc3I1dURNQQ?oc=5",
       "source": "safety4sea",
-      "published": "2026-11-11T14:58:00+00:00",
+      "published": "2026-11-11T14:57:06+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iran says oil tanker hit mine and caught fire in Strait of Hormuz - \u30a2\u30e9\u30d6\u30cb\u30e5\u30fc\u30b9",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNFJoSWh4Y3IwS1BqRGNZX1JwNlZPNmJCVjhTZlNnUU9YbmxtdXB6MDZYcmZxd0xQT0l6bkJLWmtzd0xaU1F5QkQ4RC1NX3lBMEF5TjVHMEZjTWZUSUphenh5TEFIeDFTaXFCcEpkUWE2dDVydVkyVHI0S3luLUxpbDdGQXVPcW9xdENKUFpmSV9OdmFLOTVSV0t5eUJHRndrZGNYaXhseERYNlM2Z2pSU0NR?oc=5",
+      "source": "\u30a2\u30e9\u30d6\u30cb\u30e5\u30fc\u30b9",
+      "published": "2026-11-11T13:31:37+00:00",
       "score": 6.0,
       "tags": [
         "closure"
@@ -68,16 +99,6 @@
       ]
     },
     {
-      "title": "Iran: Two oil tankers hit mines in Hormuz strait - Breakingthenews.net",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUmVOS05kOTZ2eFA4WWxGaE9Wb3pBbm5tV0diRmw0NExIOThUcDB3LUJOZ3QtZUpRcHpwdk1Zckt2OFoyRndsdlJVWUJaeVZKdVF5cGhUSW9BMjhUcHdUUzQtQnZUWDAzZ2sxbkVGbVIwRUR5SHRkX3ZLeEN3VUtFRFVEQXFyWDVuTFFSc2FJVnk4ZWd3Uk5RVg?oc=5",
-      "source": "Breakingthenews.net",
-      "published": "2026-11-11T10:40:00+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
       "title": "Iranian army says oil tanker ablaze in Hormuz Strait after hitting mine - Middle East Eye",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTHZnbFhWQVp4ZE1HQkdBcVlCY2Yyd01uQjV3dnN5U2hkUkQxV0NfRm1Tc25tZWJLZ3FHYngxVG43MWl2UFpHTGs2VS1VX1RNWnFkTnpuNmRSeF82QThjTDBFbmdaNVpTSmN6OHFvX1BYYVR3T0xETF9XdWtIVHVUSGU2NDVabXBuOVgtbVBnS1NXMmFKbklBcEV6QTZWVzVZUmFLX08xNTdGcjhGT1EzdW1tV2RjRmlzMWlBMF8xdXJzMFU?oc=5",
       "source": "Middle East Eye",
@@ -98,30 +119,10 @@
       ]
     },
     {
-      "title": "Oil tanker on fire in Strait of Hormuz after hitting mine, Iran's army says - The Express Tribune",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT2p3aFp5N2tYRnVfR3NvMHFIX3hYbXdZTjd5dnBjWmprUUpsd3VXX0psbHE3WklRNGFtbjg0ZWRyODlLQmQ0N3o4ZnEtcVJzbjdwOTlPU2dIeC0yOWJtZ01WRGI3X3U2MHY3bDFkZ3hORXRyRUNubk8wZ3RmazFPOEhfMTM1YjFpVXQyazBuMzdXNkdLaWNJZ0x0QWVlSlRTYXhsdDdB0gGuAUFVX3lxTE1BLWx0NkFEQnF5SUVUWXlBeVhXR2VmRWszZmhpRVJNaXU2S1o5a0Y3al9Zc2c5TW5MbXVPRlliQW91djlPdjVKT240VUFxM080Wm15Tm1nb3JxNnlkWE93UVpYS3JHei1wY2RDZE0zRUdjOWNfcGdaTjA5Z013Nks1dnRocnFabk5FREhPU19VdXcwY1ZYbXdSNjhnN3N5dU1PZmExeUtXNkdOMF85Zw?oc=5",
-      "source": "The Express Tribune",
-      "published": "2026-11-11T05:21:36+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Iran says oil tanker hit mine and caught fire in Strait of Hormuz - Arab News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM1lJb2pTWWhKb0pHcUcxZjlhLWdEX0wwbkNSaXlhcDlJeVY5ak5jM0dsX0R3Z21JbWt2UFlQSFgya05WZU8xN0hfc1kwd1ZOX01lVnNvUHVsc1dnaFg4dWJFNDRPRG1qclZuLUF2VERGYTRhVU4zN2pKRk9uQ2Z3dEg1SWdNYjQwWElGTkNfUXpOVkNET2hsOERTY1d1N18yWW1oZ0hhUEhNbGRxT2dj?oc=5",
-      "source": "Arab News",
-      "published": "2026-11-11T03:24:00+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Third oil tanker hit by mine in Strait of Hormuz, Iran says - Latest news from Azerbaijan",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObGZRdDBhaTlreEVkYWdIOFZXUUdSUW1GODdZTHdkYUJHWVUzLTFpQnhBYmJnRTdHMkQtRlFRZTZoSjdwX0taMGRJOUJBMTlkUEQxZVdoMFc4eFAtM1BoaUpLbTdTV1hDY0NNRVhMSUZqTHdoYVRURHcwaTlsWWFCQ3hKQ3doZw?oc=5",
-      "source": "Latest news from Azerbaijan",
-      "published": "2026-11-10T18:00:03+00:00",
+      "title": "IRAN'S ARMY SAYS AN OIL TANKER IS ON FIRE IN THE STRAIT OF HORMUZ AFTER HITTING A NAVAL MINE - STATE MEDIA - CGTN",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4enhJVzFCay1XTGxVX1RGTlhfcGRmNjJqVjVDNG9DeFNoekhxeGw3Z093RzVqbWc1bkVoMmpBc3djSmVWSWVNVldCV2Jaczg0ZHl5M0M4MDFfbnVfVXlwRzc1QnhMbHpEOTREUkNB?oc=5",
+      "source": "CGTN",
+      "published": "2026-11-11T06:51:01+00:00",
       "score": 6.0,
       "tags": [
         "closure"
@@ -129,7 +130,7 @@
     }
   ],
   "brent": {
-    "price": 93.9,
-    "change_pct": 2.63
+    "price": 92.5,
+    "change_pct": -0.28
   }
 }
