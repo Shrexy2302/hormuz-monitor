@@ -1,16 +1,16 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 162.1,
-  "closure_signals": 14,
-  "articles_scanned": 199,
-  "updated": "2026-11-12T03:58:33.859309+00:00",
+  "tension_index": 144.4,
+  "closure_signals": 15,
+  "articles_scanned": 203,
+  "updated": "2026-11-12T12:18:48.899991+00:00",
   "headlines": [
     {
       "title": "Tankers hit by projectiles in Strait of Hormuz; Iran reports further mine strikes - Riviera Maritime Media",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZHhmekZ0dVpQc1NWc3lxNDhtUUd3Q3Jlc29EZjN1NWVuSFFhekp0ZnlfMVA2NlIyY01vWjBhRlhkem50MXlqd29FczRNaEZsVUxsQ29aWldhVTdIei1meDhJMDB5S1U3NWU2TUtnZl9XUl9fMVEyWVdNeWM5QkVoS0NBY2ZLVmtsSDcybjFxcVVkN1BXV0k2WHdOd2NwRks2aWozSXBKSm9uSVB3cjVXRHdNS1ZPUlhjRkg3NjRMMDN3Y3cxYzVfamdTelc5T3VjN2JSb2ZLOXNyUXhDQmpR?oc=5",
       "source": "Riviera Maritime Media",
-      "published": "2026-11-12T00:00:00+00:00",
+      "published": "2026-11-12T05:52:56+00:00",
       "score": 9.0,
       "tags": [
         "closure",
@@ -22,7 +22,7 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY3ZnaGYzRGpiVmRfbVplQi1ZdkJUaWd0VFR2cEJtbXVoaTREQUlCSGlSZUlOaE1MRnFPSjRuak1vQnJMNE0tOERfVUZTMjlmLTlmOS1DVC1vcUpDM0ltSFYyN0ExMUxnQ3h4T0pTNjJmcjREVE90cmdFYnJzOHk3VHluYXAyanhYR2x0dnllZzNqNTI0TkRvdW9XS09MclJhNXI4QTRaRzZ6MDROeHF1WG1rakEyRTd4WHc?oc=5",
       "source": "UA.NEWS",
       "published": "2026-11-11T08:35:38+00:00",
-      "score": 9.0,
+      "score": 8.81,
       "tags": [
         "closure",
         "tension"
@@ -33,7 +33,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONTF5MXhpYXJ5YldtMW1FSDhMX0VjWkZjNVVPN1ZsMGdieUlCSlB2cnFhUS1TVHR2SzRHamZROFZLQmhZSVkwSUxBTjJMakVYNS1xXzJMaVZwYU9hZ0NOX0NwQWllbTZ6aXhoRUk2SHhody1GLThuMF9acGtsTFVENXZmWFZhQlhMNnowVjkxYmhEUUVCV1Q1OHE3OVJLQUc5SUE?oc=5",
       "source": "EnergyNow.com",
       "published": "2026-11-10T22:50:10+00:00",
-      "score": 7.77,
+      "score": 7.4,
       "tags": [
         "closure"
       ]
@@ -43,7 +43,17 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMDZLSFlxbEV4MzdBVjJLQjZJcGpWbzFnMVJPSlhDN2FJMjU5X1FnYVBMNXJvSWtIeElZcWhxRVBZcHBrakFJbi1QZ3hpR0VzMXBHdXQyXzlhYk5kS1cwRGlVdERoQjAxc25JMDdYTzM3Q2o2U0E2aHMyWEFVVDVSelNaalNUZ3Uzc0ZLcW92clFHTnZWbVM0ZkN3QmxZbHVlTVVIMm5WY2dNLU5ET2FLaUdB?oc=5",
       "source": "EnergyNow",
       "published": "2026-11-10T16:28:06+00:00",
-      "score": 7.49,
+      "score": 7.12,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iran Says Tanker Caught Fire After Hitting Naval Mine in Strait of Hormuz - energynews.pro",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVVUyWGVBNjlDWmI0VFo4bjl5QVZQbVk5S204QjJVTFBzTlNQQlJhSHZvdlpxN1puY1VHTkh0M2FqQXQtYjdqaGJHQnJlNUZIVVFLY2Zqc3R3QU0zSnNIcElPVTFVWFZQRjBOTXlnckI3T280UWFvTGZnamdDT2N6M0pDUXJla0Z6R1lYdEVuUUttbjN3dHR0SzJNbUt4M0tp?oc=5",
+      "source": "energynews.pro",
+      "published": "2026-11-11T22:02:13+00:00",
+      "score": 6.0,
       "tags": [
         "closure"
       ]
@@ -103,34 +113,24 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTHZnbFhWQVp4ZE1HQkdBcVlCY2Yyd01uQjV3dnN5U2hkUkQxV0NfRm1Tc25tZWJLZ3FHYngxVG43MWl2UFpHTGs2VS1VX1RNWnFkTnpuNmRSeF82QThjTDBFbmdaNVpTSmN6OHFvX1BYYVR3T0xETF9XdWtIVHVUSGU2NDVabXBuOVgtbVBnS1NXMmFKbklBcEV6QTZWVzVZUmFLX08xNTdGcjhGT1EzdW1tV2RjRmlzMWlBMF8xdXJzMFU?oc=5",
       "source": "Middle East Eye",
       "published": "2026-11-11T07:19:00+00:00",
-      "score": 6.0,
+      "score": 5.83,
       "tags": [
         "closure"
       ]
     },
     {
       "title": "Oil tanker on fire in Strait of Hormuz after hitting mine, Iran\u2019s Army says - Al Arabiya English",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcVltMGdIaUU2U0QxZUdySk5INGgxTlVsaGYxbDRjYUdRbUg4LUx3MmtfaDZHTDlsaDVJRzlyV3dlQTMyMlR5STBGRDYySTd0NzBzRlEydmJwSW1wUllHbGZUcHVoZFBobkcxbmozM2daOUNueUxuZjkwM05XalcyZ09uVkpYdW56RWdYUUFpdXdhcDJfdEQwNmMyV3dyblBQdVVvSGxOVWJRMmtBOXMzczhNaFI0SUZLWTZHVFBYS2lPQ2fSAcgBQVVfeXFMTnQxNmxuZFY1R3NMYV9ld3ZJbkt5QmN0bGhUcU14LWEyLWI2eEVBa1F6OXltVmVaeDVyempkaEdmUWVsaGdKdHpyMHJuMERENjZRdUpyZVhRRm94LUJzcmQtM00wbHkzNkVFazFUdGcyQndBbjR5ME00bE1lRGx3d21adUtCMllMNnNOVXliZkhBa0ZQaHJTNEJVUVlDWmpQNVo1RmxyRE5Fa1FKNkk1aTJ3dElpTWVBQWpiME5EVWM3Mm9BYk1YQjQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcVltMGdIaUU2U0QxZUdySk5INGgxTlVsaGYxbDRjYUdRbUg4LUx3MmtfaDZHTDlsaDVJRzlyV3dlQTMyMlR5STBGRDYySTd0NzBzRlEydmJwSW1wUllHbGZUcHVoZFBobkcxbmozM2daOUNueUxuZjkwM05XalcyZ09uVkpYdW56RWdYUUFpdXdhcDJfdEQwNmMyV3dyblBQdVVvSGxOVWJRMmtBOXMzczhNaFI0SUZLWTZHVFBYS2lPQ2c?oc=5",
       "source": "Al Arabiya English",
       "published": "2026-11-11T07:00:00+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "IRAN'S ARMY SAYS AN OIL TANKER IS ON FIRE IN THE STRAIT OF HORMUZ AFTER HITTING A NAVAL MINE - STATE MEDIA - CGTN",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4enhJVzFCay1XTGxVX1RGTlhfcGRmNjJqVjVDNG9DeFNoekhxeGw3Z093RzVqbWc1bkVoMmpBc3djSmVWSWVNVldCV2Jaczg0ZHl5M0M4MDFfbnVfVXlwRzc1QnhMbHpEOTREUkNB?oc=5",
-      "source": "CGTN",
-      "published": "2026-11-11T06:51:01+00:00",
-      "score": 6.0,
+      "score": 5.82,
       "tags": [
         "closure"
       ]
     }
   ],
   "brent": {
-    "price": 91.77,
-    "change_pct": -1.07
+    "price": 91.98,
+    "change_pct": -0.84
   }
 }
