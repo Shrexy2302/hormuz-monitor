@@ -1,11 +1,22 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 248.9,
-  "closure_signals": 26,
-  "articles_scanned": 202,
-  "updated": "2026-11-14T16:17:24.763300+00:00",
+  "tension_index": 264.7,
+  "closure_signals": 28,
+  "articles_scanned": 203,
+  "updated": "2026-11-14T20:50:39.088033+00:00",
   "headlines": [
+    {
+      "title": "Iran reports tanker fire after mine strike as Strait of Hormuz tensions mount - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUkZzWndwV3dSdnl0c1N5QWg5TExFeFJhTW5Mb2V3a19scFNYeXAxbVBJMGtBOF9GSmI5M2xXdmYwV1M4dm40aTRQcjY5UjJON3dKYjE2Vmw5QlhCc2FpZUtyTENNQW5MZnBza1E2Z25NejN1VkFzNTd0V1l5RS14Nk92dzRZZDhPZ0trQzBYb2J6dVlpNU0zVmJwRVZyWGp1OS1FWHIyWTdaZmdhTXJlWkFwUWdmb2JkVy14SkJ3?oc=5",
+      "source": "Investing.com",
+      "published": "2026-11-14T17:17:27+00:00",
+      "score": 10.0,
+      "tags": [
+        "closure",
+        "tension"
+      ]
+    },
     {
       "title": "Strait of Hormuz is closed once again: Iran - News On AIR",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84NVNuS3BtZVBRYXZNdGFxRTl2UURCamRKUWxSTHROY2RfMDMwOVdzczhsSEVScUcwaUpIU3U0NTRIQUtLR05IM2t2MkRlODZJNnZJUnZGMlRyeThERmR6aHo5SE1JZGJGdEhDeE1UdjJMWWZXVjVz?oc=5",
@@ -14,6 +25,17 @@
       "score": 10.0,
       "tags": [
         "closure"
+      ]
+    },
+    {
+      "title": "Two tankers strike mines in Strait of Hormuz - Israel National News",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56ZjNiTkF1a3R5MTl2ZVNXQ2dlNklUX0xMQWs1Vlh3dHg5eURIeWFheUJYWG5USkUtQVRYcndmdHpyemtDVmNpYzkxZ0ptWjJYSVctOXpTZjRaQQ?oc=5",
+      "source": "Israel National News",
+      "published": "2026-11-14T19:24:20+00:00",
+      "score": 9.0,
+      "tags": [
+        "closure",
+        "tension"
       ]
     },
     {
@@ -32,7 +54,7 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCZFFGZWEyaFdEZnBQZTFiT1ZsUlFlRlVvSFpRR0ltVldmWUdFTGx1eks4dXJ4NmlZcTI0blNFWmNUaWppa203UWd2RE0yMEd4Umc?oc=5",
       "source": "Iran International",
       "published": "2026-11-13T06:43:57+00:00",
-      "score": 8.52,
+      "score": 8.29,
       "tags": [
         "closure",
         "tension"
@@ -49,30 +71,20 @@
       ]
     },
     {
-      "title": "Russia\u2019s Sechin Says U.S. Companies Benefit From the Closure of the Strait of Hormuz - EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMDZLSFlxbEV4MzdBVjJLQjZJcGpWbzFnMVJPSlhDN2FJMjU5X1FnYVBMNXJvSWtIeElZcWhxRVBZcHBrakFJbi1QZ3hpR0VzMXBHdXQyXzlhYk5kS1cwRGlVdERoQjAxc25JMDdYTzM3Q2o2U0E2aHMyWEFVVDVSelNaalNUZ3Uzc0ZLcW92clFHTnZWbVM0ZkN3QmxZbHVlTVVIMm5WY2dNLU5ET2FLaUdB?oc=5",
-      "source": "EnergyNow",
-      "published": "2026-11-11T22:25:25+00:00",
-      "score": 6.14,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Iranian Navy says \u2018violating\u2019 oil tanker hits mine in Hormuz Strait - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ3Q2SWFkWkJ0YkVwUnFSV0Jjd2swVXNfVUpRemJOUHg3WnNRcWdIZ0hOTDBjMDNHYTB4c3pKU2RjbDdJbmM5VGt1UXZtSkx3ODU5Y1kyZWxFdm5UV3FCS1MyM3ZnS3N2dmdEQW5MR3BLT3ptWVNDUmtEbFo5amU3ejZOa1VXRVZ4dlY5djRHN2FKQQ?oc=5",
-      "source": "Yahoo",
-      "published": "2026-11-14T12:48:41+00:00",
+      "title": "Oil tanker hits naval mine, catches fire in Strait of Hormuz - NewsNation",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhMWdfVFdKTGhEeHE3ck9CT1Z1SGZYWkdhZDhiSE1yRFdDTDk1dmlQNkNCOFpvR3pmMTFPOTZZY3JnaWlEU21UV3lxeGdIOWxIWWcxaGRzRTNZYm5WWW1YUy1Tc0V5dC1vUzF3OFZ1SElXallNNEpaWNIBfkFVX3lxTE1lcGpPTEQ3U2ZtckRMMjRwOXRSaFBLa21qUEtWNnhmLWdVb210eDk1dzgxV3pvTURPVG1NRG9wZzBKYmRyMndUcVlTRHZKckpGOUp4UWkyd0lXQlFxTXpBSUtWQ3lpSmcweF9aUGRkOXVWem84Wm9jQlBNWVhyZw?oc=5",
+      "source": "NewsNation",
+      "published": "2026-11-14T17:33:52+00:00",
       "score": 6.0,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Oil tanker hits naval mine, catches fire in Strait of Hormuz - NewsNation",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhMWdfVFdKTGhEeHE3ck9CT1Z1SGZYWkdhZDhiSE1yRFdDTDk1dmlQNkNCOFpvR3pmMTFPOTZZY3JnaWlEU21UV3lxeGdIOWxIWWcxaGRzRTNZYm5WWW1YUy1Tc0V5dC1vUzF3OFZ1SElXallNNEpaWNIBfkFVX3lxTE1lcGpPTEQ3U2ZtckRMMjRwOXRSaFBLa21qUEtWNnhmLWdVb210eDk1dzgxV3pvTURPVG1NRG9wZzBKYmRyMndUcVlTRHZKckpGOUp4UWkyd0lXQlFxTXpBSUtWQ3lpSmcweF9aUGRkOXVWem84Wm9jQlBNWVhyZw?oc=5",
-      "source": "NewsNation",
-      "published": "2026-11-14T12:23:58+00:00",
+      "title": "Oil tanker hits naval mine, catches fire in Strait of Hormuz - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOR1BycFJSWUdfQzdveTdkcWxPMnZ2cGdzUlJ5NHhLVDJvMTg0UHhhSDhlbEg4dHRLSEpSdWdJMlllTHROWUNqTnlUN2RpT2dYN2dBMkdsWjhQeXlCT1BkTmIwejZuOVdLaUVJRnJoVmtPLWVxdXNoSm9IN2VhZkN1dVR0SUh2UHJGMlFv?oc=5",
+      "source": "Yahoo",
+      "published": "2026-11-14T12:29:56+00:00",
       "score": 6.0,
       "tags": [
         "closure"
@@ -113,16 +125,6 @@
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fajlZNmlZaHdMQmowREdoQVFKYzRPV09SR3hwV0FhR1ZJUUMzdkwtZXo4dVZTekVpZ3kxSjNUWkhhS2hWOHVMd25vcw?oc=5",
       "source": "The New Region",
       "published": "2026-11-14T07:57:36+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Tanker Catches Fire after Hitting Sea Mine in Strait of Hormuz - \u062a\u0633\u0646\u06cc\u0645",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMDVVOG9ubHVudUZMakpGWUlxT1o4a3h2Vmtaa1N5Z0c1Sm1xb0JNZXcxT3NpUjk0VF9QZFpaUWJGS0hYbjVWbVdaU1owNS1XbWhSbVJ3cXVQMzA1OU83LUpJRVVpcGFFUWZaLWw5b0FocUpJNkpMbVZfRTFFZUhQblBibmtySE9wUE05Y0RROUtyeW1nWWNobGJXLXJlVFBuaEZFRTJfWE5xbllfXzFHbE1FYUhOUdIBuwFBVV95cUxNRkVHZHAwYXotRjJBQkNRUU9CTDhKM0VHWTNMeHM4RTVvT3JxVnJRUGR4ZGRzRUdGVnRrMjRlM2lpVkdkUE1TQURFX2ktR2xXV1VRNGk1RzNOc0hRUVRwZEhxZTJQaE05cG5Ib0FoQnFoaGwzN1NveXhqbnFDWG5mSV8wZGJmVmVzZTI1bldwMVYxZUdQYjM0Rmd0VHBjTXJ1aXpoM1ZsN2FsRms2NGJyR1l0M18wNFphZGQ0?oc=5",
-      "source": "\u062a\u0633\u0646\u06cc\u0645",
-      "published": "2026-11-14T07:26:40+00:00",
       "score": 6.0,
       "tags": [
         "closure"
