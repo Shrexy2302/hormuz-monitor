@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 208.7,
-  "closure_signals": 16,
-  "articles_scanned": 194,
-  "updated": "2026-11-14T02:33:52.782598+00:00",
+  "tension_index": 234.4,
+  "closure_signals": 21,
+  "articles_scanned": 199,
+  "updated": "2026-11-14T09:42:09.931973+00:00",
   "headlines": [
     {
       "title": "Strait of Hormuz is closed once again: Iran - News On AIR",
@@ -17,11 +17,22 @@
       ]
     },
     {
+      "title": "Tanker catches fire in Strait of Hormuz after reported mine strike - AzerNews",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pSG8zNWpMYzBQSjRqNEtubTFrTDdtWVZBMU5LN200YzgzLXF6SHVoREVINHVRZGwyNE4yYzZwWHdrLWpSSjBKMWZCTjBETGE5NGpjQg?oc=5",
+      "source": "AzerNews",
+      "published": "2026-11-14T09:13:00+00:00",
+      "score": 9.0,
+      "tags": [
+        "closure",
+        "tension"
+      ]
+    },
+    {
       "title": "Iran says tanker struck a mine in the Strait of Hormuz - Naharnet",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbUNBZ2V1clhiV1JRbzJpcV9zU1JWaGt6YU1WSXdYMDJhdmNTaGtpc3A0NXRIMVlSZEJweWltMDBreWsyaGdoeWlRbHg2aW1Bd0wzcHhuTzZ4X0U5b20yMzhzckdhNEpUMy1DbG5YTGstb0IwZ0xwZHpxMUlWbVozSDdiTFFFRkZ6VE5IVUxwZWVDRjE2MUM2TXBuYndkUQ?oc=5",
       "source": "Naharnet",
       "published": "2026-11-13T08:44:00+00:00",
-      "score": 9.0,
+      "score": 8.95,
       "tags": [
         "closure",
         "tension"
@@ -32,7 +43,7 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCZFFGZWEyaFdEZnBQZTFiT1ZsUlFlRlVvSFpRR0ltVldmWUdFTGx1eks4dXJ4NmlZcTI0blNFWmNUaWppa203UWd2RE0yMEd4Umc?oc=5",
       "source": "Iran International",
       "published": "2026-11-13T06:43:57+00:00",
-      "score": 9.0,
+      "score": 8.85,
       "tags": [
         "closure",
         "tension"
@@ -43,7 +54,37 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMDZLSFlxbEV4MzdBVjJLQjZJcGpWbzFnMVJPSlhDN2FJMjU5X1FnYVBMNXJvSWtIeElZcWhxRVBZcHBrakFJbi1QZ3hpR0VzMXBHdXQyXzlhYk5kS1cwRGlVdERoQjAxc25JMDdYTzM3Q2o2U0E2aHMyWEFVVDVSelNaalNUZ3Uzc0ZLcW92clFHTnZWbVM0ZkN3QmxZbHVlTVVIMm5WY2dNLU5ET2FLaUdB?oc=5",
       "source": "EnergyNow",
       "published": "2026-11-11T22:25:25+00:00",
-      "score": 6.75,
+      "score": 6.43,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iran says three tankers hit naval mines in Strait of Hormuz - The New Region",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fajlZNmlZaHdMQmowREdoQVFKYzRPV09SR3hwV0FhR1ZJUUMzdkwtZXo4dVZTekVpZ3kxSjNUWkhhS2hWOHVMd25vcw?oc=5",
+      "source": "The New Region",
+      "published": "2026-11-14T07:57:36+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Tanker Catches Fire after Hitting Sea Mine in Strait of Hormuz - \u062a\u0633\u0646\u06cc\u0645",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMDVVOG9ubHVudUZMakpGWUlxT1o4a3h2Vmtaa1N5Z0c1Sm1xb0JNZXcxT3NpUjk0VF9QZFpaUWJGS0hYbjVWbVdaU1owNS1XbWhSbVJ3cXVQMzA1OU83LUpJRVVpcGFFUWZaLWw5b0FocUpJNkpMbVZfRTFFZUhQblBibmtySE9wUE05Y0RROUtyeW1nWWNobGJXLXJlVFBuaEZFRTJfWE5xbllfXzFHbE1FYUhOUdIBuwFBVV95cUxNRkVHZHAwYXotRjJBQkNRUU9CTDhKM0VHWTNMeHM4RTVvT3JxVnJRUGR4ZGRzRUdGVnRrMjRlM2lpVkdkUE1TQURFX2ktR2xXV1VRNGk1RzNOc0hRUVRwZEhxZTJQaE05cG5Ib0FoQnFoaGwzN1NveXhqbnFDWG5mSV8wZGJmVmVzZTI1bldwMVYxZUdQYjM0Rmd0VHBjTXJ1aXpoM1ZsN2FsRms2NGJyR1l0M18wNFphZGQ0?oc=5",
+      "source": "\u062a\u0633\u0646\u06cc\u0645",
+      "published": "2026-11-14T07:26:40+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "A tanker catches fire after hitting a naval mine in a restricted area near the Strait of Hormuz - Dem\u00f3crata",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMk5fak5GQk51THNwb0dsMEFsR1RpOEgyVUpMUjBTdjZsSEE3NkVNeXlQMDZvbHRJa2Jpank3dzU0eTJSRFVlazF4Wm1KMVBPbjRQZE9na2xaekprdWFzU0FVM1d3ZkpXQl9LMTdGcFJSMFp5dE15Rk5IWE1ELWpsVXhkSEpUM2s0VDNmR2VXVnAxcUp3dDllcTJVblhMMjV5R1VUMy1JT1gxS1p4TXZzZjB3N1ZWZG5xMDQ1STMzQWN0ZGtsb04ycTZYd0dGQ1lIeGw3YtIB2gFBVV95cUxPSkREbEctVzhzajc0U3hoQkszMXBadW9NMmZaZEMxQUZqWTE3MTdPZElvRTl6X3cwSDN5V0ZBNzhHXzQyVDR1Unc0MXozS1c3Sm1GRU14eU5TQl9oRU42ZzRHNmttVGs5UU40Q2RyX2dJTFgtckJYMUl4bnhjR1l6RVNFd0xMV2VyalhKN0ctVWFySDRVVEtpLTU3V2VsTmVKOGd6U1FpTWpYVWdKRVpHeUJPS1hUSVJmOFdfMjJ3cFlLY0EyV2tBeGpLV2tCVC05UDAxT0JHTGdRdw?oc=5",
+      "source": "Dem\u00f3crata",
+      "published": "2026-11-14T05:32:27+00:00",
+      "score": 6.0,
       "tags": [
         "closure"
       ]
@@ -69,6 +110,16 @@
       ]
     },
     {
+      "title": "LNG tanker hit mine in Strait of Hormuz, Iran's Revolutionary Guards say - Pipeline and Gas Journal",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUWFCcmVlbDlNRkhVNk9FaGVRSklQWHIyY0xEWnV5dE9ZX3ZZdFMyY2JpU1FMZ242dHV2djFKcGVRX091QWUzSDZqeHRHZkphVFZ2UVRhM0IyUmFLNUNNR2d2bWNRZXlzZjV2bzdlOGpSRjZTUEdiQmRaNlNiRDRlRFBYTldiZzcxbV9CZmptc2xlME16Vm5RYTlreExLZFFMNEdkMFNBTzRrZzdBc0QzMEJHQQ?oc=5",
+      "source": "Pipeline and Gas Journal",
+      "published": "2026-11-13T18:35:51+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
       "title": "Iran Says Gas Tanker Hit Mine in Strait of Hormuz - Crude Oil Prices Today | OilPrice.com",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWXdvbHV6NmJUR3NQSTd0dk93RlNPWTR1anR6c20xQVNWOTM5eDJaU2dDR3NCb3g3RGJYRVBWQ0tWczNiYUJpN2V4M1dDTkNSc1JVVWZOU0J5NDYyenQwM0NLT0pBVmxWaGVpUmtnZlByOUs2dW5hak9YQi02LTBrRHZKT2NlYlFJQ0hjVm93WWpXMkFXUmZOd1doT2xKRzMyTkwwVGFVYmTSAa4BQVVfeXFMTUVoUlBfQ3N1UzZpTEVyaXFGa1oyN19OQnhMLTlTNmYtQmtLSC0zZEpqdkNnNWxNY0JsOUp3Q0lMR3E3dFFMUVFnSGR5U2xtel9uT2RicWYxT3ppWmNxM2k1aGtJVWNpb2NFQWFnQzRITjdQdm1Ma0ZDVzFqZk0zNGdSNEF0NGxSTXVSS200ek9qU1R4TF93TjJobEFBeVBlbXNOOUlZM1g2eFFNbnNR?oc=5",
       "source": "Crude Oil Prices Today | OilPrice.com",
@@ -77,60 +128,10 @@
       "tags": [
         "closure"
       ]
-    },
-    {
-      "title": "IRGC Says Gas Carrier Hit Mine and Exploded in Eastern Strait of Hormuz - https://houseofsaud.com/",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DYTBSZ2xBRWxRbE0xR0t4dzh1WFNhdzYwb2dncFVDRGRiUDZYYUs0blhtOW81YTVHYS1ZMjh5TWNmbDU1N3dnX0Y1V05tbURoWEloc3V1MXRCbHhIQUR3ZjBDZFo5WXV4VWZseUtiVUJNU3FRR2RaZg?oc=5",
-      "source": "https://houseofsaud.com/",
-      "published": "2026-11-13T11:51:33+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Tanker hits mine in Strait of Hormuz, IRGC says it followed 'dangerous' route - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5bW9tTmpFQlF1TTd6WlVvM3dEYjkwWGtJbHE5aU1PWFFqU3g1YmZZNzhOUWRmZXVKTzlhbC1VRFJtenNpTTkyOWY1WVUxWDMzeVRiUUkyWTk0Z0JtY1l2OHc3WXQtRkh3Z3c?oc=5",
-      "source": "The Jerusalem Post",
-      "published": "2026-11-13T08:51:55+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "IAEA raises alarm over Iran's nuclear program as tanker hits mine in Strait of Hormuz - Ynetnews",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxSlQzUVdMdEFCRGtOaUtGUWpOX2I2N3RScExYdXF3dVcteUZTN1dnemd1UDA1dThCWE5Ib1RfQ2JQRU9kVVhkWnZBbWFKclRvUDU4QTd3?oc=5",
-      "source": "Ynetnews",
-      "published": "2026-11-13T08:42:50+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "LPG Carrier Hits Naval Mine in Strait of Hormuz: IRGC - \u062a\u0633\u0646\u06cc\u0645",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb2c0VWJ4d1F0bTQ3MElDczRxRmphOEE4Z1A2OHNPRnVuRG1NZGRteGR3WjN4VzlWaGh5TE9tQ0VhTUJfQmNSY3llS0Y0STctb19jcWxjRzlKYnpJbHozdk84MGk5ekVSTkhOMUY0dmNaZm9Wc1NrUlJ3NTZwWkROZmZnTk5id3drUTRzdjlOR255ZEUxNloyejhtR1VXVXd4VlF1bTF1LTTSAa4BQVVfeXFMUGY4WUpDNkRLMkhtTTVTOGlSZ0tvcUdoY2NRTW1CU0tMUHA1YnEyT2R4c1VMVlFHNUtKVmtVZ08zY05lbE1qT0hBcTVhd1NEVkNsRHZxTnJsaS1iVF9ET051NTRZSmpibUh0bzBURFBvNnZMVUNlTnRwc1J0S1QwNVdUOFVtSmZhM1g5YjE3eTFUamxOT2lEbEpaTWtYaVNtNDk0S3VKYXFISVI5d2N3?oc=5",
-      "source": "\u062a\u0633\u0646\u06cc\u0645",
-      "published": "2026-11-13T07:42:03+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "IRGC Navy says tanker explodes after hitting a sea mine in Hormuz Strait - Middle East Eye",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd2dTUWdrVUVvWUlVWFFTS0JDMmpPbUw5SWoxUXZ1MUNySU9kUGdpVGk1UVJRWEg5elhqbXhZQzcxZEpwVHp3elNNR2loVnJLU05XTERYU2RzT0VyOGVDbVBLaGxjSmRVbFhFTXZjWm9Yd0F2ZTNsdng4U1ZPajFpOUJ2bDVZRTh6U1dBQWVvVWh3cW5kX0JJN05yak95M2RVc2tFbXpEaTdRS18zeHVvbTMtVzZoakRJbm1DMmRaRl9sZw?oc=5",
-      "source": "Middle East Eye",
-      "published": "2026-11-13T07:17:00+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
     }
   ],
   "brent": {
-    "price": 96.08,
-    "change_pct": 0.27
+    "price": 95.84,
+    "change_pct": 0.02
   }
 }
