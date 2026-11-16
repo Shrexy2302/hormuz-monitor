@@ -1,20 +1,19 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 361.3,
-  "closure_signals": 42,
-  "articles_scanned": 193,
-  "updated": "2026-11-16T06:58:11.450187+00:00",
+  "tension_index": 402.6,
+  "closure_signals": 46,
+  "articles_scanned": 192,
+  "updated": "2026-11-16T16:48:06.596615+00:00",
   "headlines": [
     {
-      "title": "Iran reports tanker fire after mine strike as Strait of Hormuz tensions mount - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUkZzWndwV3dSdnl0c1N5QWg5TExFeFJhTW5Mb2V3a19scFNYeXAxbVBJMGtBOF9GSmI5M2xXdmYwV1M4dm40aTRQcjY5UjJON3dKYjE2Vmw5QlhCc2FpZUtyTENNQW5MZnBza1E2Z25NejN1VkFzNTd0V1l5RS14Nk92dzRZZDhPZ0trQzBYb2J6dVlpNU0zVmJwRVZyWGp1OS1FWHIyWTdaZmdhTXJlWkFwUWdmb2JkVy14SkJ3?oc=5",
-      "source": "Investing.com",
-      "published": "2026-11-14T17:17:27+00:00",
-      "score": 9.24,
+      "title": "Iran Declares Strait of Hormuz Closed as \u2018Unauthorised\u2019 Vessel Hit - EnergyNow.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU3BGdU5KMkwwNVNINnRuYnZBdWZpYUNjSHlXSGh2MWJWck1INVRtbXNyS2t5WXZPRGxlVEpGcnM5NUkyQnlmNEtLazBSM2dFcDROdVJ1RC1Bd1haYUlXbnphM2tzenhjNm1PQUNnRkNRYi1SNVBxX2RsNTJhY19vVUU4ejhtRlRlUkdpcmxvd1YtRXZ1dVBuaVBLWQ?oc=5",
+      "source": "EnergyNow.com",
+      "published": "2026-11-15T12:41:01+00:00",
+      "score": 9.77,
       "tags": [
-        "closure",
-        "tension"
+        "closure"
       ]
     },
     {
@@ -40,22 +39,22 @@
       ]
     },
     {
-      "title": "Iran's Revolutionary Guard says gas tanker struck mine in Strait of Hormuz - qz.com",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHYlRwbmh0TWU4dERuU2JjRU1fQ2FlNlBZVktzSEdSMkR3RV9PT0lKOGhSUGRvcGJnSE9TZUFZN0RHZjRKU3JkclA3VFFWODFueHJzWGxhaWFqVDMzNV9VTTNlRjJXT2N0aVE?oc=5",
-      "source": "qz.com",
-      "published": "2026-11-15T01:48:12+00:00",
-      "score": 8.74,
+      "title": "Iran reports tanker fire after mine strike as Strait of Hormuz tensions mount - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUkZzWndwV3dSdnl0c1N5QWg5TExFeFJhTW5Mb2V3a19scFNYeXAxbVBJMGtBOF9GSmI5M2xXdmYwV1M4dm40aTRQcjY5UjJON3dKYjE2Vmw5QlhCc2FpZUtyTENNQW5MZnBza1E2Z25NejN1VkFzNTd0V1l5RS14Nk92dzRZZDhPZ0trQzBYb2J6dVlpNU0zVmJwRVZyWGp1OS1FWHIyWTdaZmdhTXJlWkFwUWdmb2JkVy14SkJ3?oc=5",
+      "source": "Investing.com",
+      "published": "2026-11-14T17:17:27+00:00",
+      "score": 8.69,
       "tags": [
         "closure",
         "tension"
       ]
     },
     {
-      "title": "Two tankers struck mines and caught fire in the Strait of Hormuz \u2013 Iran said they had violated the prohibited route - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVll4YzFIa0RCc25JY1pEOTZYRHo3aDdoeWgtdkh6NU5qemxkbE1POHNOU2s3N3hPTGs1TE56VFQ5SVRodDEyUHRUUFAzRVlseGdQZXV0OUJpY2Z5QkxXYXlDT0QxSUdzbHIxVGQ1SEtkVHN5dV9zNUFrVjFPUzVQNTkweGNtOGVRa2JmWjZ3VV9EdDVHVDE3NHF1ZEs4YW0wSFBIMURmbnpBSnd6eFBmRHZGQlNyYmNKc00yMGVhMVpLT3RwclE4S3F0TjZSXzNWbVHSAdABQVVfeXFMTWd2ZFB0WGZZVjU1Z2UxR29NeXdWWDV4ZVEzcjhXUjhYTnV1Z1Z6ZzRjSXpTWS1TN1JfUHdleE9HMFJIZVFzOEpzblNQSVVfTzZKdTBPU1lQT29TdFNFejNZQ09NMll1d0ZMZGNuVzllUnpDTHRyeDFMV3dtVGF3MjJTRmUtX0R0dDlaU3VTVW5CMzdTdC1tUmxwTHpLRDY0aUd2OHNvOGFVMGlPNnBQVlVpR0hsSmZZeFcxbzg5OHRHQldGMkhmelNwS1lWYVdkVQ?oc=5",
-      "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
-      "published": "2026-11-15T00:55:10+00:00",
-      "score": 8.7,
+      "title": "Iran's Revolutionary Guard says gas tanker struck mine in Strait of Hormuz - qz.com",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHYlRwbmh0TWU4dERuU2JjRU1fQ2FlNlBZVktzSEdSMkR3RV9PT0lKOGhSUGRvcGJnSE9TZUFZN0RHZjRKU3JkclA3VFFWODFueHJzWGxhaWFqVDMzNV9VTTNlRjJXT2N0aVE?oc=5",
+      "source": "qz.com",
+      "published": "2026-11-15T01:48:12+00:00",
+      "score": 8.25,
       "tags": [
         "closure",
         "tension"
@@ -66,10 +65,20 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56ZjNiTkF1a3R5MTl2ZVNXQ2dlNklUX0xMQWs1Vlh3dHg5eURIeWFheUJYWG5USkUtQVRYcndmdHpyemtDVmNpYzkxZ0ptWjJYSVctOXpTZjRaQQ?oc=5",
       "source": "Israel National News",
       "published": "2026-11-14T19:24:20+00:00",
-      "score": 8.42,
+      "score": 7.93,
       "tags": [
         "closure",
         "tension"
+      ]
+    },
+    {
+      "title": "Russia\u2019s Sechin Says U.S. Companies Benefit From the Closure of the Strait of Hormuz - EnergyNow.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTE42Y0FZdEtIYTdNNDM2NlFtbjZmdUllZHUta1dOZ21HYTFnY2FTZzdKUlM4V214Ui1GTk9QX1R1ZC02MXBERW9BUFA3UUZzanZpaVFtUTN4YXpvcjB3dWxmUWZHX19ZUUswS3FaendKdjhBb3ZwNVRYT252VEp6ZldyUzNTQ1gycEp6ZGZQSHJqOXQwck9EZlA3OWZSZTV2TDFhUEducHZsRXhCcUdFR0tHTQ?oc=5",
+      "source": "EnergyNow.com",
+      "published": "2026-11-15T13:23:34+00:00",
+      "score": 7.85,
+      "tags": [
+        "closure"
       ]
     },
     {
@@ -77,31 +86,10 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNVjhPM3hwZ1NUdmp1cjJsTjZpc1hhYlBObHFZeVBYX0VhbTBPVEd4RHhrbmxMOG9ISEQ5MWFVSG5VQWR4d1NCQ1pjQWtCMkk3dGNyV2dGYTN5UzRlZXVBTVRzaEVScTVBd1E?oc=5",
       "source": "The Jerusalem Post",
       "published": "2026-11-14T12:00:58+00:00",
-      "score": 8.05,
+      "score": 7.56,
       "tags": [
         "closure",
         "tension"
-      ]
-    },
-    {
-      "title": "Tanker catches fire in Strait of Hormuz after reported mine strike - AzerNews",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pSG8zNWpMYzBQSjRqNEtubTFrTDdtWVZBMU5LN200YzgzLXF6SHVoREVINHVRZGwyNE4yYzZwWHdrLWpSSjBKMWZCTjBETGE5NGpjQg?oc=5",
-      "source": "AzerNews",
-      "published": "2026-11-14T09:13:00+00:00",
-      "score": 7.91,
-      "tags": [
-        "closure",
-        "tension"
-      ]
-    },
-    {
-      "title": "Russia\u2019s Sechin Says U.S. Companies Benefit From the Closure of the Strait of Hormuz - EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMDZLSFlxbEV4MzdBVjJLQjZJcGpWbzFnMVJPSlhDN2FJMjU5X1FnYVBMNXJvSWtIeElZcWhxRVBZcHBrakFJbi1QZ3hpR0VzMXBHdXQyXzlhYk5kS1cwRGlVdERoQjAxc25JMDdYTzM3Q2o2U0E2aHMyWEFVVDVSelNaalNUZ3Uzc0ZLcW92clFHTnZWbVM0ZkN3QmxZbHVlTVVIMm5WY2dNLU5ET2FLaUdB?oc=5",
-      "source": "EnergyNow",
-      "published": "2026-11-14T14:04:32+00:00",
-      "score": 7.25,
-      "tags": [
-        "closure"
       ]
     },
     {
@@ -109,26 +97,36 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONTF5MXhpYXJ5YldtMW1FSDhMX0VjWkZjNVVPN1ZsMGdieUlCSlB2cnFhUS1TVHR2SzRHamZROFZLQmhZSVkwSUxBTjJMakVYNS1xXzJMaVZwYU9hZ0NOX0NwQWllbTZ6aXhoRUk2SHhody1GLThuMF9acGtsTFVENXZmWFZhQlhMNnowVjkxYmhEUUVCV1Q1OHE3OVJLQUc5SUE?oc=5",
       "source": "EnergyNow.com",
       "published": "2026-11-13T22:13:46+00:00",
-      "score": 6.54,
+      "score": 6.11,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Oil tanker on fire in Strait of Hormuz due to naval mine, Iran\u2019s army says - The Times of Israel",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWkdFUVZkT25nNzRPQVV3Ri1xR3FtRTkzbnNnM1lmbWhlanJGSmxRczlFMVlTZDZGWWxadVMtRUxlWG9oVktqTS15aHIyM05hTVdWZ2JxaUlBS3pLRmhHcEFBTFdlU3FteXdaVmlBXzlRaU5VZHJ3VVJmQ2lGR2VoaEtYVUMydkprcEpiS1FjTko0QlBpQXhmU0RQNDkyTXoyblpiRVFYUWZGM1dETUpRVGFod1BQMzRrTlE?oc=5",
-      "source": "The Times of Israel",
-      "published": "2026-11-16T06:45:06+00:00",
+      "title": "Oil tankers hit sea mines in the Strait of Hormuz - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTEJwazhINHRXNElZcmlYdnFtMkdjNXRqX1h3UFFoSzFVNVhtMncyVXRRWnNMeld3M19FNzAyVTVXT01xT212b3haVm1Cbl9TN1ZkZV8xSTY4SEJYVGtra0pHVTNpOENZc3czaU9rdUpWTWJhalA4RFQ2TGNOV2ZSR29adThaNWxabjFWSTE5b2owRG53WUJRRTVmZEJfNGV2MTNn0gGoAUFVX3lxTFBWRnoyYjhZdHpNR1dBZWw4eW9FMTJWUXNGLXZTWXU2Z09iUHM4Y3BzaWYwcnBwczdxUDNGUkhZbWlDTkJnRXp0Zmx5SXpRWk5RT3A4eTlPVGJxVWdhMEI1MlV6N3B2bjNrQ21IMERhTmZKam5KMjc1YUpUTlMwV2VBR1EzZU1FTTJ1MExBSGRXRks0VEdTWXRvLTBUOHBxZUdpbWE5NFU4VQ?oc=5",
+      "source": "Al Jazeera",
+      "published": "2026-11-16T15:38:50+00:00",
       "score": 6.0,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iran says 2 oil tankers hit mines, catch fire in Strait of Hormuz - Anadolu Ajans\u0131",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX3d2bEdHRlVXdGc1WVhHRU1sVFNUQnJTSFNnZVpfMjlaOE5hVXljUHk3Y3R1emZuRm1UQXpOTmdjejlISDBVT3NfTDBES1V1OVFYZUNWYjlKZ2pIbngyX05vbnEyZ3ZsRndnQmJiQ2xraGdOeS1CRGgwMmhJdHZsWTB4YmhIRmNyOWpUZ1loMUJlNEdackpTZG5Pd01fTldpUlF2RFJVNGk?oc=5",
-      "source": "Anadolu Ajans\u0131",
-      "published": "2026-11-16T06:41:08+00:00",
+      "title": "Shafaq News..Third tanker hits mine near Strait of Hormuz - \u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vRDhtd21NeDdJenlKOTJ6UU1wMm8tRTdQLW9abS1EWHR0dml0YUUxdXRidGRUTDN0TTd5U1hqTmwtVlpIc1dfSzFIdHlrcm9KZXZOWk93MndkVzJtS2RXaGhtUFhCM3ZvckxZZGU3U3lXZERSU0Zubi00Sjc?oc=5",
+      "source": "\u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
+      "published": "2026-11-16T12:46:05+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Supertanker With 2 Million Barrels Of Oil Sinks After Hitting Mine In Strait Of Hormuz, Iran Says - Marine Insight",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcVd3NHVfcmVmaWFKUEtYRUN3WS1zaDljWmlrSnJFZ2ctSDZ4OHVXbVpuSFlPU2dpM2VfTmJ3RHpsNXBRanNYemJ5Tm1vRFNUUnRjRnZ0NGJYVjJzNUlLa0NfWWtOZHZQenF3SHNKTjczTHpBUEoxSE03Q2w0VVRJNFVsNkRYczExV1djYmV1empyLTcwMV9rS3U2OXF3UG0wZzBNSU9ORlVqWTlDU25uU2FJX1N3dUozR3VneWNaSjU2TlhMZ0E?oc=5",
+      "source": "Marine Insight",
+      "published": "2026-11-16T12:04:58+00:00",
       "score": 6.0,
       "tags": [
         "closure"
@@ -136,7 +134,7 @@
     }
   ],
   "brent": {
-    "price": 96.53,
-    "change_pct": 0.72
+    "price": 93.44,
+    "change_pct": -2.5
   }
 }
