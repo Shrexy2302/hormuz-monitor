@@ -1,17 +1,28 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 330.6,
-  "closure_signals": 35,
-  "articles_scanned": 199,
-  "updated": "2026-11-15T20:03:48.543003+00:00",
+  "tension_index": 321.6,
+  "closure_signals": 34,
+  "articles_scanned": 193,
+  "updated": "2026-11-16T00:06:35.738503+00:00",
   "headlines": [
     {
       "title": "Iran reports tanker fire after mine strike as Strait of Hormuz tensions mount - Investing.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUkZzWndwV3dSdnl0c1N5QWg5TExFeFJhTW5Mb2V3a19scFNYeXAxbVBJMGtBOF9GSmI5M2xXdmYwV1M4dm40aTRQcjY5UjJON3dKYjE2Vmw5QlhCc2FpZUtyTENNQW5MZnBza1E2Z25NejN1VkFzNTd0V1l5RS14Nk92dzRZZDhPZ0trQzBYb2J6dVlpNU0zVmJwRVZyWGp1OS1FWHIyWTdaZmdhTXJlWkFwUWdmb2JkVy14SkJ3?oc=5",
       "source": "Investing.com",
       "published": "2026-11-14T17:17:27+00:00",
-      "score": 9.85,
+      "score": 9.62,
+      "tags": [
+        "closure",
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran\u2019s navy says oil tanker struck mine and caught fire east of Strait of Hormuz - Anadolu Ajans\u0131",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDFKN2JUNU01WE5FUC1pd2FzTU1DbVV4VnNJWnA3el9feTlJRTM1LS1FNnZaakdaeGNNUEJkMmRLbHdGYlZwNHFzQ0FWRHdZNW10Z25BeUlqcjk3ZTRTak9mNEhyVWRmOHkwN2pTQ1FmdXIzVmRQaHlkMXlNamlIbEFBVWVsYW01R0g0UTBRTERrVHNDOV82SjlnRVBTWnUyMEozekJUcHg4UVNXVWVqLUVuOFdFRUFSQ1hZZ1l3Y3duWlU?oc=5",
+      "source": "Anadolu Ajans\u0131",
+      "published": "2026-11-15T22:58:35+00:00",
+      "score": 9.0,
       "tags": [
         "closure",
         "tension"
@@ -44,7 +55,7 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56ZjNiTkF1a3R5MTl2ZVNXQ2dlNklUX0xMQWs1Vlh3dHg5eURIeWFheUJYWG5USkUtQVRYcndmdHpyemtDVmNpYzkxZ0ptWjJYSVctOXpTZjRaQQ?oc=5",
       "source": "Israel National News",
       "published": "2026-11-14T19:24:20+00:00",
-      "score": 8.97,
+      "score": 8.76,
       "tags": [
         "closure",
         "tension"
@@ -55,7 +66,7 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNVjhPM3hwZ1NUdmp1cjJsTjZpc1hhYlBObHFZeVBYX0VhbTBPVEd4RHhrbmxMOG9ISEQ5MWFVSG5VQWR4d1NCQ1pjQWtCMkk3dGNyV2dGYTN5UzRlZXVBTVRzaEVScTVBd1E?oc=5",
       "source": "The Jerusalem Post",
       "published": "2026-11-14T12:00:58+00:00",
-      "score": 8.6,
+      "score": 8.4,
       "tags": [
         "closure",
         "tension"
@@ -66,7 +77,7 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pSG8zNWpMYzBQSjRqNEtubTFrTDdtWVZBMU5LN200YzgzLXF6SHVoREVINHVRZGwyNE4yYzZwWHdrLWpSSjBKMWZCTjBETGE5NGpjQg?oc=5",
       "source": "AzerNews",
       "published": "2026-11-14T09:13:00+00:00",
-      "score": 8.46,
+      "score": 8.26,
       "tags": [
         "closure",
         "tension"
@@ -77,20 +88,9 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMDZLSFlxbEV4MzdBVjJLQjZJcGpWbzFnMVJPSlhDN2FJMjU5X1FnYVBMNXJvSWtIeElZcWhxRVBZcHBrakFJbi1QZ3hpR0VzMXBHdXQyXzlhYk5kS1cwRGlVdERoQjAxc25JMDdYTzM3Q2o2U0E2aHMyWEFVVDVSelNaalNUZ3Uzc0ZLcW92clFHTnZWbVM0ZkN3QmxZbHVlTVVIMm5WY2dNLU5ET2FLaUdB?oc=5",
       "source": "EnergyNow",
       "published": "2026-11-14T14:04:32+00:00",
-      "score": 7.73,
+      "score": 7.55,
       "tags": [
         "closure"
-      ]
-    },
-    {
-      "title": "IRGC says gas carrier struck mine east of Strait of Hormuz - Iran International",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCZFFGZWEyaFdEZnBQZTFiT1ZsUlFlRlVvSFpRR0ltVldmWUdFTGx1eks4dXJ4NmlZcTI0blNFWmNUaWppa203UWd2RE0yMEd4Umc?oc=5",
-      "source": "Iran International",
-      "published": "2026-11-13T06:43:57+00:00",
-      "score": 7.13,
-      "tags": [
-        "closure",
-        "tension"
       ]
     },
     {
@@ -98,7 +98,27 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONTF5MXhpYXJ5YldtMW1FSDhMX0VjWkZjNVVPN1ZsMGdieUlCSlB2cnFhUS1TVHR2SzRHamZROFZLQmhZSVkwSUxBTjJMakVYNS1xXzJMaVZwYU9hZ0NOX0NwQWllbTZ6aXhoRUk2SHhody1GLThuMF9acGtsTFVENXZmWFZhQlhMNnowVjkxYmhEUUVCV1Q1OHE3OVJLQUc5SUE?oc=5",
       "source": "EnergyNow.com",
       "published": "2026-11-13T22:13:46+00:00",
-      "score": 7.03,
+      "score": 6.85,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "IRGC Says Two Oil Tankers Hit Mines in Strait of Hormuz, Fire Erupts and One Sinks: how 17 outlets framed it - NewsCord",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdFlkcHRPaGJuVVRuY0tQcFpaUDFKbWNib2EySjREam1MaUJrSDdPeHpYTDlFdzFVdFpxZXg4NjYxdGJORlNXVlU4TXVJYVRMUkRzX0NCODRmM010M3BHMk1XSnByaDdjbGNucExRcm9qdFdZQUhTTVFRQ1JlLVFCbHJTQ1JSbXhwMmlleXZjX3l1X2FMTkxqc0tMRnBmaWFhc3BBU0VFbXRlbkdRSDJWMFpYcjR2eURqdEFuRUE1RFNWYkU1QW1RLUlBVVlOTFdaaGVidmY3SEEzbW1W?oc=5",
+      "source": "NewsCord",
+      "published": "2026-11-15T23:12:02+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Tanker Catches Fire After Hitting Mine East of Strait of Hormuz - - WANA News Agency",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWTBNaV90cXRlOXlJMzlIdUdyNGlfQnNhVGdRMUlILUVFaEx4amxYTWx5YS16N1RXMXk3OF8ySUdSOUJGYkoyZVFaS0FmaGMzN0ZQaWtobzBwQXRvdlFUMlVUWEhVNHFqMVNqQ29Kczk0TEx6OXFNR3hlOHZ5dDcyVm83RkVHNDFYVWNZ?oc=5",
+      "source": "WANA News Agency",
+      "published": "2026-11-15T20:31:29+00:00",
+      "score": 6.0,
       "tags": [
         "closure"
       ]
@@ -112,30 +132,10 @@
       "tags": [
         "closure"
       ]
-    },
-    {
-      "title": "Two tankers explode after hitting naval mines south of Strait of Hormuz - Tehran Times",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaEx2RFdyUEpFdy1BVWRNUDc5MmwxV1BWX0o2N1FMbUE5c2otcGhLcW81RmZyUnVQb0pWbkZtUUlsTUJVUll2S2FkbWFXWHZFU3l4aGM2djNJS0kwZDBzSkJGdDZYRHQzeG5TZDJwaDBFVzlTSjFYOEs3UzhaV1FSNlJUTWxtVHp6dDVWRTAybjFsMFVBelhTZFljREZaM0ZCdmxv?oc=5",
-      "source": "Tehran Times",
-      "published": "2026-11-15T17:41:15+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "IRGC Says Two Oil Tankers Hit Mines in Strait of Hormuz, Fire Erupts and One Sinks: how 17 outlets framed it - NewsCord",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdFlkcHRPaGJuVVRuY0tQcFpaUDFKbWNib2EySjREam1MaUJrSDdPeHpYTDlFdzFVdFpxZXg4NjYxdGJORlNXVlU4TXVJYVRMUkRzX0NCODRmM010M3BHMk1XSnByaDdjbGNucExRcm9qdFdZQUhTTVFRQ1JlLVFCbHJTQ1JSbXhwMmlleXZjX3l1X2FMTkxqc0tMRnBmaWFhc3BBU0VFbXRlbkdRSDJWMFpYcjR2eURqdEFuRUE1RFNWYkU1QW1RLUlBVVlOTFdaaGVidmY3SEEzbW1W?oc=5",
-      "source": "NewsCord",
-      "published": "2026-11-15T17:20:41+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
     }
   ],
   "brent": {
-    "price": 95.84,
-    "change_pct": 0.02
+    "price": 95.5,
+    "change_pct": -0.35
   }
 }
