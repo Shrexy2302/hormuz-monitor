@@ -1,17 +1,17 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 414.8,
-  "closure_signals": 36,
-  "articles_scanned": 202,
-  "updated": "2026-11-17T18:01:28.067737+00:00",
+  "tension_index": 403.2,
+  "closure_signals": 32,
+  "articles_scanned": 203,
+  "updated": "2026-11-18T01:05:22.155209+00:00",
   "headlines": [
     {
       "title": "Tanker hit off Oman as attacks and mine claims in and around Strait of Hormuz continue - Riviera Maritime Media",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcnRkNXpOS2pCYlZaUWN3VF9vUHJ6MXA2eUVyTE1mZ1ZyLUc3anZPaDFTblo1U2lEVEd1UndQUm5iNGNod1RUUDIxQjRXV2F6blRSbXNtWFFUVkFwVjFfZjNqbnZ3XzFVMlhvX3huTVAtbUFFU2NVTmppdy1mcllRV0ZnV0hkck1jdWRRVVJDbmpYaWxiRHE4Mnd4dFNNa0ZWZzJRb2lwTndvTnNxaWdJMVFPZ3BQS0dTNlNHRnhJV01LSWNZZ21McHlsdWdVdU8x?oc=5",
       "source": "Riviera Maritime Media",
       "published": "2026-11-17T00:03:44+00:00",
-      "score": 9.0,
+      "score": 8.95,
       "tags": [
         "closure",
         "tension"
@@ -22,7 +22,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVzk5V0J6SkhSZHZXb2ZaNzBrVTZPT2dYRnBtb0k5S2NaRTZmTHZUTnNQbTlEbU1uYlZENEVjZk5VQzhXMEJGcW9WQW85QzJQa0FMRFhQWlVTTDByNGtxeXJvQjd5RjVES2gxeXRBYnNiYU5tajNHT3NfWmtFSHd6cGxma3B2MGZodERPbnNZR09XVmpXVjJlbnR3ZzFGR3RwNnc?oc=5",
       "source": "safety4sea",
       "published": "2026-11-16T12:12:27+00:00",
-      "score": 8.71,
+      "score": 8.36,
       "tags": [
         "closure",
         "tension"
@@ -33,9 +33,31 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU3BGdU5KMkwwNVNINnRuYnZBdWZpYUNjSHlXSGh2MWJWck1INVRtbXNyS2t5WXZPRGxlVEpGcnM5NUkyQnlmNEtLazBSM2dFcDROdVJ1RC1Bd1haYUlXbnphM2tzenhjNm1PQUNnRkNRYi1SNVBxX2RsNTJhY19vVUU4ejhtRlRlUkdpcmxvd1YtRXZ1dVBuaVBLWQ?oc=5",
       "source": "EnergyNow.com",
       "published": "2026-11-15T12:41:01+00:00",
-      "score": 8.37,
+      "score": 7.98,
       "tags": [
         "closure"
+      ]
+    },
+    {
+      "title": "Oil tanker burns after mine strike in Strait of Hormuz - Mehr News Agency",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTjhuWnc3TUJWS2RCaVZ4VkVCZEFoT0hveXdNUUNUSXdEOXk0M0E3dTd3XzlvYlIwOW91N3E3dTRuQTB0M3Q5MFRwNk9OX2JEbVZZQktuUW03Q2VnUHgwR1lhN2kzOU5DMXBtMGxGRk5KTmx0czROQ3ppTjM5UEdUck81dXRWdUgzd2VGWldHVFc4WnBY?oc=5",
+      "source": "Mehr News Agency",
+      "published": "2026-11-16T03:21:00+00:00",
+      "score": 7.91,
+      "tags": [
+        "closure",
+        "tension"
+      ]
+    },
+    {
+      "title": "Iran\u2019s navy says oil tanker struck mine and caught fire east of Strait of Hormuz - Anadolu Ajans\u0131",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDFKN2JUNU01WE5FUC1pd2FzTU1DbVV4VnNJWnA3el9feTlJRTM1LS1FNnZaakdaeGNNUEJkMmRLbHdGYlZwNHFzQ0FWRHdZNW10Z25BeUlqcjk3ZTRTak9mNEhyVWRmOHkwN2pTQ1FmdXIzVmRQaHlkMXlNamlIbEFBVWVsYW01R0g0UTBRTERrVHNDOV82SjlnRVBTWnUyMEozekJUcHg4UVNXVWVqLUVuOFdFRUFSQ1hZZ1l3Y3duWlU?oc=5",
+      "source": "Anadolu Ajans\u0131",
+      "published": "2026-11-15T22:58:35+00:00",
+      "score": 7.69,
+      "tags": [
+        "closure",
+        "tension"
       ]
     },
     {
@@ -43,7 +65,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONTF5MXhpYXJ5YldtMW1FSDhMX0VjWkZjNVVPN1ZsMGdieUlCSlB2cnFhUS1TVHR2SzRHamZROFZLQmhZSVkwSUxBTjJMakVYNS1xXzJMaVZwYU9hZ0NOX0NwQWllbTZ6aXhoRUk2SHhody1GLThuMF9acGtsTFVENXZmWFZhQlhMNnowVjkxYmhEUUVCV1Q1OHE3OVJLQUc5SUE?oc=5",
       "source": "EnergyNow.com",
       "published": "2026-11-16T16:16:16+00:00",
-      "score": 7.92,
+      "score": 7.61,
       "tags": [
         "closure"
       ]
@@ -53,37 +75,16 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTE42Y0FZdEtIYTdNNDM2NlFtbjZmdUllZHUta1dOZ21HYTFnY2FTZzdKUlM4V214Ui1GTk9QX1R1ZC02MXBERW9BUFA3UUZzanZpaVFtUTN4YXpvcjB3dWxmUWZHX19ZUUswS3FaendKdjhBb3ZwNVRYT252VEp6ZldyUzNTQ1gycEp6ZGZQSHJqOXQwck9EZlA3OWZSZTV2TDFhUEducHZsRXhCcUdFR0tHTQ?oc=5",
       "source": "EnergyNow.com",
       "published": "2026-11-15T13:23:34+00:00",
-      "score": 6.73,
+      "score": 6.41,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iran says oil tanker on fire after naval mine strike in eastern Strait of Hormuz - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNVjhPM3hwZ1NUdmp1cjJsTjZpc1hhYlBObHFZeVBYX0VhbTBPVEd4RHhrbmxMOG9ISEQ5MWFVSG5VQWR4d1NCQ1pjQWtCMkk3dGNyV2dGYTN5UzRlZXVBTVRzaEVScTVBd1E?oc=5",
-      "source": "The Jerusalem Post",
-      "published": "2026-11-14T12:00:58+00:00",
-      "score": 6.3,
-      "tags": [
-        "closure",
-        "tension"
-      ]
-    },
-    {
-      "title": "Iranian navy says 3rd oil tanker catches fire after hitting mine in Strait of Hormuz - A News",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLU9xR0ZhUUFlbDJDQ0NDNXFRRkU5dEk5MEg2YjNWdFhJajBHNXRHeUx1ckFWOTVXZThrSlJqUzlscG5TNGlvbk54NjV6d0g3THpSWmxIMlVROFN1dENibnRkR0cweldqOUdPdER4NFZ4YTNDY05fM2JvRnZCQnZXY3pyVjc5Z2VmVG5xXzF4SXJmRXJUOWxvVTl5YUZvc0ZRMnNoZ2xRTEVzdW9WWXdNWW9rSXdRTERIZEJOekpfcW5zWEhWQ2RJUzhFUE7SAdIBQVVfeXFMUHJCei1IODBzZW9oN2RRMkVaRi1XcFNRYVpoMU5fZ1FZd1FYa1Q5UVdENmFKaGN1XzNDM21Sb2VKaTN3NTk4VFBXUElDS18wcGFsVkFpbThyRF9BZ2d5czZUUWk3dnVUWEdwM1RHZFZ1d2t6VUVFQWVTdlZLdHFRTjQxVENuUi1RNHpSNUpSTzU5X1M2Rnlla3doeDFHS2pTY2xacThjeDhNSWdPc29LR2JKZ2xqRzlsSmNNOTZ6a2pvc0QwUU9fbWQ2dGxPNnA0TTRR?oc=5",
-      "source": "A News",
-      "published": "2026-11-17T17:23:00+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Iranian Army: Third violating oil tanker collides with naval mine east of Strait of Hormuz - \u0648\u0643\u0627\u0644\u0629 \u0633\u0628\u0623",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56UDZpZjZyVDlOelJHNHZCY3VBWVJiNGZiRUdUUXlVdGFWYU9RRzlmYnBRTGg3ZkpsUUVZS0NmalBWOGEzUnFlMGlnZkdMd1U?oc=5",
-      "source": "\u0648\u0643\u0627\u0644\u0629 \u0633\u0628\u0623",
-      "published": "2026-11-17T16:15:45+00:00",
+      "title": "Fourth tanker hits naval mine in eastern Strait of Hormuz - Mehr News Agency",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV2swaG5aOEFqNm9DdFVEcXAzMk5GNmI2RmlDaVgtQm5hUk5zZnRnVFJlS3lyVllXTHZFR0FRTU0xcEN1ZjZueEMxRVpQbENpdDZwck83RGp0R1Nhd2xmNWFoZ0UwWkM5XzhCeFVOVEZhOU9IcFZtbHZuZ2xaLU1VT0NVTUMwRHpNQkNpRjF3ZHJ0ZTlvejVXag?oc=5",
+      "source": "Mehr News Agency",
+      "published": "2026-11-17T18:58:00+00:00",
       "score": 6.0,
       "tags": [
         "closure"
@@ -131,7 +132,7 @@
     }
   ],
   "brent": {
-    "price": 93.17,
-    "change_pct": 0.79
+    "price": 93.23,
+    "change_pct": 0.1
   }
 }
