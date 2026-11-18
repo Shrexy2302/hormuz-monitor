@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 341.5,
-  "closure_signals": 20,
-  "articles_scanned": 194,
-  "updated": "2026-11-18T17:42:58.406910+00:00",
+  "tension_index": 352.2,
+  "closure_signals": 17,
+  "articles_scanned": 197,
+  "updated": "2026-11-18T23:45:48.195595+00:00",
   "headlines": [
     {
       "title": "Strait of Hormuz: US Strikes Iran's Qeshm Island as Tehran Claims More Tanker Mine Hits, Says Strait Is Closed - International Business Times Australia",
@@ -22,7 +22,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVzk5V0J6SkhSZHZXb2ZaNzBrVTZPT2dYRnBtb0k5S2NaRTZmTHZUTnNQbTlEbU1uYlZENEVjZk5VQzhXMEJGcW9WQW85QzJQa0FMRFhQWlVTTDByNGtxeXJvQjd5RjVES2gxeXRBYnNiYU5tajNHT3NfWmtFSHd6cGxma3B2MGZodERPbnNZR09XVmpXVjJlbnR3ZzFGR3RwNnc?oc=5",
       "source": "safety4sea",
       "published": "2026-11-16T12:12:27+00:00",
-      "score": 7.52,
+      "score": 7.22,
       "tags": [
         "closure",
         "tension"
@@ -33,7 +33,7 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU3BGdU5KMkwwNVNINnRuYnZBdWZpYUNjSHlXSGh2MWJWck1INVRtbXNyS2t5WXZPRGxlVEpGcnM5NUkyQnlmNEtLazBSM2dFcDROdVJ1RC1Bd1haYUlXbnphM2tzenhjNm1PQUNnRkNRYi1SNVBxX2RsNTJhY19vVUU4ejhtRlRlUkdpcmxvd1YtRXZ1dVBuaVBLWQ?oc=5",
       "source": "EnergyNow.com",
       "published": "2026-11-15T12:41:01+00:00",
-      "score": 7.05,
+      "score": 6.72,
       "tags": [
         "closure"
       ]
@@ -43,7 +43,27 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONTF5MXhpYXJ5YldtMW1FSDhMX0VjWkZjNVVPN1ZsMGdieUlCSlB2cnFhUS1TVHR2SzRHamZROFZLQmhZSVkwSUxBTjJMakVYNS1xXzJMaVZwYU9hZ0NOX0NwQWllbTZ6aXhoRUk2SHhody1GLThuMF9acGtsTFVENXZmWFZhQlhMNnowVjkxYmhEUUVCV1Q1OHE3OVJLQUc5SUE?oc=5",
       "source": "EnergyNow.com",
       "published": "2026-11-16T16:16:16+00:00",
-      "score": 6.87,
+      "score": 6.6,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "3 oil tankers disabled by mine blasts in Strait of Hormuz: Iranian army - Anadolu Ajans\u0131",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMmJkTW5ZSjZpYUlLRFJ1ZGZNdGJwUXB2VDhhOEduXzJrc3oxWkpuaENiVkNCR0dTZndKZHV5T0t0cUYtdTBwWTVxVXVuSURtR2pWb0RZczhSOVg5Q09GdFlKR05nc2NrenNvbHRiRUFIdll3RjJqV2NqTXdRVlE2NGZUck1FOXdHSzZNVkRuOEdUQWNNT1hxNXp1ZXpOR3dHNW9tc2NHampCT2lqWlF5dUhZWEhyUQ?oc=5",
+      "source": "Anadolu Ajans\u0131",
+      "published": "2026-11-18T23:36:15+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iranian Army: Three Tankers Catch Fire After Hitting Naval Mines in Eastern Strait of Hormuz - WANA News Agency",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVG90ZEVCTHlyUXBhZVlOSGRLX2hKeFIwNWNmc2I5U2M1SnJJQ1F0U094RW1lUzg2ZlIyUWR4dHlnSnNleUxZN3RnX2dqOUhLQ1VBVEVTNndhSEgtVGV5ZHh0bWpkWTFsQ21tVC04S1RNM1JEZFQ5eVpxZDBEN2RsWFVzTmVZd1J4Zl9Ec2NERkplWmR0RDJtNjlrZm5yZlJrWlVBa1RzS0V6UHdpU25nUA?oc=5",
+      "source": "WANA News Agency",
+      "published": "2026-11-18T21:11:15+00:00",
+      "score": 6.0,
       "tags": [
         "closure"
       ]
@@ -59,21 +79,11 @@
       ]
     },
     {
-      "title": "Fourth tanker hits naval mine in eastern Strait of Hormuz - Mehr News Agency",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV2swaG5aOEFqNm9DdFVEcXAzMk5GNmI2RmlDaVgtQm5hUk5zZnRnVFJlS3lyVllXTHZFR0FRTU0xcEN1ZjZueEMxRVpQbENpdDZwck83RGp0R1Nhd2xmNWFoZ0UwWkM5XzhCeFVOVEZhOU9IcFZtbHZuZ2xaLU1VT0NVTUMwRHpNQkNpRjF3ZHJ0ZTlvejVXag?oc=5",
-      "source": "Mehr News Agency",
-      "published": "2026-11-17T18:58:00+00:00",
-      "score": 6.0,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
       "title": "Iranian navy says 3rd oil tanker catches fire after hitting mine in Strait of Hormuz - Anadolu Ajans\u0131",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeExabWdma0IzUXhwS0Q4V1gyYVBjYmRCdi03QXRBVHhidThrbUg5NzhCYTMzd1h4ZElWdzJ1SkxYdGphOE9PMlpWQ1JfeVJBUFUzMUl5R2VGX2l5Z3o5ZkltU3l2Z0FHOXVOUjluMlIxaGlZOFVlS3l6S0RNUmEzTHlrQkc2TGliS01tLWg2S2ZMUEVKWFU2ZXdRU1ItUm9qUUdyT1pNZGhjRGpMeXBBd0VTakZiR1NlZmNtc3N0SWlVUVN1cnJKUQ?oc=5",
       "source": "Anadolu Ajans\u0131",
       "published": "2026-11-17T15:16:16+00:00",
-      "score": 5.92,
+      "score": 5.72,
       "tags": [
         "closure"
       ]
@@ -83,7 +93,7 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZl95am5FaUJFQkFUVVVVbmR0UGY4SGlVa3EtWE51X1U4U1JranM2X3VVckFkN01QTUQwOWphS0l6ZUR3U0ZYSkpJQUNqU3hibDNHQlNWUXhQWU8xU2FEcmd6bEtXUjFQay1BZVhLVkNoeGZjV1lUVV9DeFFJbnh4NjMwZ0UyNmdyZUFhU2RZZHJVQQ?oc=5",
       "source": "The Telegraph",
       "published": "2026-11-17T14:46:00+00:00",
-      "score": 5.9,
+      "score": 5.7,
       "tags": [
         "closure"
       ]
@@ -93,7 +103,7 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWTRMR3ZORXd0eXhYdFZESjczQ1pxOHRHQnpwb2ZQRzFXZzhtbmo1N2VvVlY5NGZKNEcxaWdTZWM2NGNxZDVORmRWekFUZ2tMb2lVOVIzR2RobUllbTFKYUVFMURSa0lDU21mZHdVZkxvT2IyX0xEOElOOTl4Q05uWHRSU05BTlFFNWlVQ19fWWhNTnZiX3Vz?oc=5",
       "source": "Mehr News Agency",
       "published": "2026-11-17T14:40:00+00:00",
-      "score": 5.9,
+      "score": 5.7,
       "tags": [
         "closure"
       ]
@@ -103,7 +113,7 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMGxCRmc5eFFNeUVkdFlNeXpCM0hFV1Y1MHZmbmRoWF9nZkF4ZlVfNmVqNkZ3TC1iTGp2ZTBLeDZzNVZoWERsN2pBUldUMUE1d2l3bDE5YXl3TEo2dU5xWllDQk5mS2pSWGtBZWNsWlBadG8yb1A2YUxTT1MyRU1vVWN3?oc=5",
       "source": "WANA News Agency",
       "published": "2026-11-17T14:19:48+00:00",
-      "score": 5.89,
+      "score": 5.69,
       "tags": [
         "closure"
       ]
@@ -113,24 +123,14 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5QnFqM1BjaDZjaU1kM0FkSUxjWTBQcU9ncC1kaVZjYmxISnd1VkMyT1A5ejRfSUd2UW1ncVlZNG5GWWlrZ1JhNHpOcGMxTFRManFBMQ?oc=5",
       "source": "bloomingbit",
       "published": "2026-11-17T14:09:22+00:00",
-      "score": 5.88,
-      "tags": [
-        "closure"
-      ]
-    },
-    {
-      "title": "Vessels on fire after naval mine hit in Hormuz Strait, Iran says - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHF6MEt6NlBHaGVNVEtHeXBTNUtJUUN1ZUlmcXNwQ2Z4MG1wZGJwMks4RzVJdEJtS3Z2SjBxY0hwdVJXZGkza3VVUEVTQ1Y1aDZtQUNveFlzWm5zVkxrVXIzTXBqeFhkLTVLcFlhNG4zRmh3VUtGQTRaaUxKTWZMZFhQUXRlVjh5am1MUzJUblV2S3I0bDVGVU9hZEdQc2piOEpnU3ZFQi1jR2ZuVzZ5dEJTMHY5Z9IBuwFBVV95cUxOZjA4VVFDWlBDN3BWZmVzRi1RblJhdUdnOE9EUWZBT2lNYzVrc2NxTTBCRXBpWjhuTUE2V2RIOFZkUElvVmxTZldZN01tWlJVNG45Rm1EVFNORWM1NmZvN3JWWGxIS3paZU5yTUt5LWNGbmRIMG9xRDFBcl84ODhkTFMtbnpOX2oyc0J1U0lhUTlBbWdtaURKd0U2bE9FRF9NWDhzVHAxRHVBdVcyRHpGYTZwT2FfWnpkU3lB?oc=5",
-      "source": "Al Jazeera",
-      "published": "2026-11-17T11:25:45+00:00",
-      "score": 5.79,
+      "score": 5.68,
       "tags": [
         "closure"
       ]
     }
   ],
   "brent": {
-    "price": 88.44,
-    "change_pct": -2.14
+    "price": 88.84,
+    "change_pct": -0.37
   }
 }
