@@ -1,10 +1,10 @@
 {
   "status": "CLOSED",
   "label": "Closure reported",
-  "tension_index": 378.0,
-  "closure_signals": 23,
-  "articles_scanned": 194,
-  "updated": "2026-11-19T14:35:28.386612+00:00",
+  "tension_index": 322.8,
+  "closure_signals": 16,
+  "articles_scanned": 191,
+  "updated": "2026-11-19T22:31:15.052258+00:00",
   "headlines": [
     {
       "title": "Iran Declares Strait of Hormuz Closed as \u2018Unauthorised\u2019 Vessel Hit - EnergyNow.com",
@@ -21,16 +21,16 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNDdsazdndVVZUXhuVEZsOFp0bGtXdFZQbXc2VkpCNnUyb0ZlUTFycjJLRVlmS3B5SE53Y3ExdjEzeUFqRGduaDNraXI3MWgzLXZKSi1GdHRNeHBHdVVLZmRtTTRESURBRjE0ZkZrY3BpeDl6Rk4xWEpXOF92c0x2TkJBLUp3VlJNNk0xa1piVFFxNDlyREJhQVVJM3JlMjQ?oc=5",
       "source": "CEVA Logistics",
       "published": "2026-11-18T16:19:51+00:00",
-      "score": 10.0,
+      "score": 9.66,
       "tags": [
         "closure"
       ]
     },
     {
-      "title": "Iran\u2019s Army Says Three Oil Tankers Struck Mines in Eastern Strait of Hormuz: who 8 outlets blamed - NewsCord",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQ0xnQjJjdzhaYWN3M3BJTHJjaVhUQkMyRGNMNW1pczhlVE5wOHZTWFRkbUQ3WVh5N3E3WXctT1plWHhuUTdvX2N5akxPZlRBcFBRZ0J4MVREV0ZCUDZZOGFzSGdLdU5XZ3NFS1VCUm9BLXBpR0hGaXdDdlpCNjkzbm83eXpOcllLNklNQm5pRWxQSDl2c3JCMzFIZEV2NjZtV29fY3R3dTh5NlNXeml0aGU4VVlGaHZHV2xOdjloQVkyZ1VscGdMS2d0M19CNnJzNzhJeDZSMEpNN204SlczSnV3?oc=5",
-      "source": "NewsCord",
-      "published": "2026-11-19T11:28:38+00:00",
+      "title": "Iran\u2019s navy says oil tanker struck naval mine east of the Strait of Hormuz - Middle East Eye",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQblhHMXFZS1d4bDBLcExmUVRXSFRpcnhIVy1ZdDY5aFhLS0ZKUkZlUjR3WXl3eVNTTnZpS0NqRk1RdlljS2FIZXVSS191ek9jeVRyc0tVc1UyMEY4M3luNDBIajlYNzhwNEdmY3BfZTNTTGk1cnR4UlZpemdrbk9ocGhTNWRIZlRYOWVKbDRUcXppN0NnMWYxOWxRQU9JRmY4a3RPLTlTeUVNTXRxVlotLWJ4TDRaOWVfaXZLeg?oc=5",
+      "source": "Middle East Eye",
+      "published": "2026-11-19T19:41:00+00:00",
       "score": 9.0,
       "tags": [
         "closure",
@@ -64,7 +64,7 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNkhkbEhLOXFYSFF4eDJ5Q0x1cTAwbHc0WUxJWWxRMlJUSmZWN3k2Y2RXUGJoc0tGby15bHlGbEdrZFVzckttSzl5U0l3TGd2cjN3MjFUVHJLZXltekhmUVdmOTJLUmx0UUtYNTVORFVVSE1KRjR5dE8yOHRnaWV3RWhIdXlpWnFN?oc=5",
       "source": "International Business Times Australia",
       "published": "2026-11-18T13:23:04+00:00",
-      "score": 8.94,
+      "score": 8.54,
       "tags": [
         "closure",
         "tension"
@@ -81,21 +81,10 @@
       ]
     },
     {
-      "title": "Further tanker attacks reported in Strait of Hormuz amid Iranian mine claims - safety4sea",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVzk5V0J6SkhSZHZXb2ZaNzBrVTZPT2dYRnBtb0k5S2NaRTZmTHZUTnNQbTlEbU1uYlZENEVjZk5VQzhXMEJGcW9WQW85QzJQa0FMRFhQWlVTTDByNGtxeXJvQjd5RjVES2gxeXRBYnNiYU5tajNHT3NfWmtFSHd6cGxma3B2MGZodERPbnNZR09XVmpXVjJlbnR3ZzFGR3RwNnc?oc=5",
-      "source": "safety4sea",
-      "published": "2026-11-16T12:12:27+00:00",
-      "score": 6.48,
-      "tags": [
-        "closure",
-        "tension"
-      ]
-    },
-    {
-      "title": "Three oil tankers hit naval mines in Strait of Hormuz, Iran says - AzerNews",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iNm41SU51M25ZZUZ0YzFlT1ducUdaUTVYdmhfZnYzdTVUZ2JzUVZYOVNQY1hOMWt0bmNRTjVUcE5Dc0E3djhQOWdSb2JJU29tY2tyVw?oc=5",
-      "source": "AzerNews",
-      "published": "2026-11-19T12:03:00+00:00",
+      "title": "2 oil tankers catch fire after hitting mines in waters east of Strait of Hormuz: Iranian army - Anadolu Ajans\u0131",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYlBUQVJQeGQ1NFVUTXZ6LUZwNVQzcFo0QzNFNkxVd19TcDhUd0duVHVaR1M3Nl9RTXM3Q1QzTjVtYXRrNnNkSVAtRDd0UXZzNlc3NGI2d2N5ZWoxMVhubHpDYnJLX0VqQmNxWjA5Tm5DMGZnYzJFRUF1ZWtaTVcyMzEyajBTNXFkdmNEU043YmZOZDYzdUZBRmNlS0lIWE1NVUpJU0FmVzRqX0llTWxrQ0trTjZ5bGx6SDFFeHhmcTVxV2FjZGlNalIwR2dLdw?oc=5",
+      "source": "Anadolu Ajans\u0131",
+      "published": "2026-11-19T21:45:00+00:00",
       "score": 6.0,
       "tags": [
         "closure"
@@ -106,6 +95,16 @@
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQalI2WndwRHE1cjUxNnQtRUwyT3VNUHg0Q0ZaRnZXWnlRNjltOEJZaTJnYXo5amxBY0gxWDFRLXZQN2x5ZXIxN2owdUVZRlRRNDZwbXM3bnRxa21Jc2pGalJEMHh3THBYRmhqa28yUXloN2VtNWZuR0Q3SG8tTHhzRWFKU1dZZjJCZUVtRC1TZVBiMDlJQnpBZVloUVkwZ0ZUWUhJeUM4QjNUdVZoN0ZMWkRkZ1Bka0FTT3NVWVZnQkhQYUMyR2tiVmdsMTE2ZHg0dEHSAdcBQVVfeXFMT2dFV191Q0V0LXVwektQLVllMGpaSVNwNHctM1FQUGdNUjdSbzkwX2tEc0FMcGwzWlA1cmJfaXplQ0ZnenV6d0hNaERoQ25ROEs4RV9CSmYta0dnMnlTbjdlZmVScnJVS0hvNGdEUGlTdUV3T1NRb0xPTV9VWmZuLTRkRURqMF84dUx4ZE1JSmJZUmNGY1RJSXhSSjFsaks2bkFGalBvUzdGVUdmdFhkNklqRTgxSWY3YXZWQzM0OWlHYlQwbWpoX0doZTIxNnRLLXo0OWFuYkU?oc=5",
       "source": "Dem\u00f3crata",
       "published": "2026-11-19T11:36:38+00:00",
+      "score": 6.0,
+      "tags": [
+        "closure"
+      ]
+    },
+    {
+      "title": "Iran\u2019s IRGC Navy Says Two Supertankers Hit Mines in Strait of Hormuz: how 11 outlets framed it - NewsCord",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQ0xnQjJjdzhaYWN3M3BJTHJjaVhUQkMyRGNMNW1pczhlVE5wOHZTWFRkbUQ3WVh5N3E3WXctT1plWHhuUTdvX2N5akxPZlRBcFBRZ0J4MVREV0ZCUDZZOGFzSGdLdU5XZ3NFS1VCUm9BLXBpR0hGaXdDdlpCNjkzbm83eXpOcllLNklNQm5pRWxQSDl2c3JCMzFIZEV2NjZtV29fY3R3dTh5NlNXeml0aGU4VVlGaHZHV2xOdjloQVkyZ1VscGdMS2d0M19CNnJzNzhJeDZSMEpNN204SlczSnV3?oc=5",
+      "source": "NewsCord",
+      "published": "2026-11-19T11:28:38+00:00",
       "score": 6.0,
       "tags": [
         "closure"
@@ -133,7 +132,7 @@
     }
   ],
   "brent": {
-    "price": 90.43,
-    "change_pct": 1.41
+    "price": 90.05,
+    "change_pct": 0.99
   }
 }
